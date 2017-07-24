@@ -1,0 +1,5 @@
+get_google_hot_trends.py
+get_twitter_trends.py
+tweepy
+get_trends.sh
+publish_data.sh
