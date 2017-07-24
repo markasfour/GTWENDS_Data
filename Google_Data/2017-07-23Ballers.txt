@@ -1,0 +1,53 @@
+                      Ballers
+geoName                      
+Alabama                    48
+Alaska                     29
+Arizona                    51
+Arkansas                   46
+California                 56
+Colorado                   47
+Connecticut                54
+Delaware                  100
+District of Columbia       78
+Florida                    62
+Georgia                    55
+Hawaii                     44
+Idaho                      30
+Illinois                   52
+Indiana                    40
+Iowa                       33
+Kansas                     34
+Kentucky                   40
+Louisiana                  60
+Maine                      28
+Maryland                   65
+Massachusetts              51
+Michigan                   52
+Minnesota                  35
+Mississippi                55
+Missouri                   38
+Montana                    28
+Nebraska                   38
+Nevada                     60
+New Hampshire              54
+New Jersey                 71
+New Mexico                 39
+New York                   60
+North Carolina             48
+North Dakota               34
+Ohio                       42
+Oklahoma                   42
+Oregon                     28
+Pennsylvania               80
+Rhode Island               50
+South Carolina             53
+South Dakota               29
+Tennessee                  45
+Texas                      52
+Utah                       31
+Vermont                    34
+Virginia                   44
+Washington                 40
+West Virginia              37
+Wisconsin                  41
+Wyoming                    27

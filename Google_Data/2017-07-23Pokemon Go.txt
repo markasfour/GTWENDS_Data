@@ -1,0 +1,53 @@
+                      Pokemon Go
+geoName                         
+Alabama                       66
+Alaska                        71
+Arizona                       74
+Arkansas                      74
+California                    84
+Colorado                      64
+Connecticut                   71
+Delaware                      83
+District of Columbia          52
+Florida                       71
+Georgia                       59
+Hawaii                       100
+Idaho                         76
+Illinois                      73
+Indiana                       85
+Iowa                          78
+Kansas                        64
+Kentucky                      68
+Louisiana                     60
+Maine                         69
+Maryland                      67
+Massachusetts                 71
+Michigan                      83
+Minnesota                     71
+Mississippi                   54
+Missouri                      69
+Montana                       63
+Nebraska                      76
+Nevada                        79
+New Hampshire                 69
+New Jersey                    71
+New Mexico                    78
+New York                      59
+North Carolina                62
+North Dakota                  71
+Ohio                          81
+Oklahoma                      68
+Oregon                        63
+Pennsylvania                  70
+Rhode Island                  72
+South Carolina                62
+South Dakota                  68
+Tennessee                     65
+Texas                         70
+Utah                          94
+Vermont                       56
+Virginia                      54
+Washington                    82
+West Virginia                 80
+Wisconsin                     74
+Wyoming                       66

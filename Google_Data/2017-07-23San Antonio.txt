@@ -1,0 +1,53 @@
+                      San Antonio
+geoName                          
+Alabama                         2
+Alaska                          2
+Arizona                         3
+Arkansas                        4
+California                      3
+Colorado                        7
+Connecticut                     2
+Delaware                        1
+District of Columbia            3
+Florida                         2
+Georgia                         3
+Hawaii                          2
+Idaho                           2
+Illinois                        3
+Indiana                         2
+Iowa                            2
+Kansas                          8
+Kentucky                        4
+Louisiana                       7
+Maine                           1
+Maryland                        2
+Massachusetts                   1
+Michigan                        1
+Minnesota                       2
+Mississippi                     3
+Missouri                        3
+Montana                         2
+Nebraska                        3
+Nevada                          3
+New Hampshire                   1
+New Jersey                      1
+New Mexico                      8
+New York                        2
+North Carolina                  2
+North Dakota                    2
+Ohio                            2
+Oklahoma                       11
+Oregon                          2
+Pennsylvania                    1
+Rhode Island                    1
+South Carolina                  2
+South Dakota                    2
+Tennessee                       2
+Texas                         100
+Utah                            2
+Vermont                         1
+Virginia                        2
+Washington                      2
+West Virginia                   1
+Wisconsin                       2
+Wyoming                         2

@@ -1,0 +1,53 @@
+                      Shark Week
+geoName                         
+Alabama                       80
+Alaska                        57
+Arizona                       77
+Arkansas                      67
+California                    63
+Colorado                      68
+Connecticut                   82
+Delaware                      95
+District of Columbia          78
+Florida                       89
+Georgia                       70
+Hawaii                        74
+Idaho                         59
+Illinois                      69
+Indiana                       69
+Iowa                          68
+Kansas                        62
+Kentucky                      71
+Louisiana                     81
+Maine                         73
+Maryland                      86
+Massachusetts                 97
+Michigan                      72
+Minnesota                     68
+Mississippi                   62
+Missouri                      72
+Montana                       58
+Nebraska                      69
+Nevada                        70
+New Hampshire                 89
+New Jersey                    93
+New Mexico                    56
+New York                      71
+North Carolina                76
+North Dakota                  67
+Ohio                          80
+Oklahoma                      80
+Oregon                        41
+Pennsylvania                  91
+Rhode Island                 100
+South Carolina                86
+South Dakota                  60
+Tennessee                     80
+Texas                         70
+Utah                          88
+Vermont                       62
+Virginia                      72
+Washington                    56
+West Virginia                 86
+Wisconsin                     64
+Wyoming                       58

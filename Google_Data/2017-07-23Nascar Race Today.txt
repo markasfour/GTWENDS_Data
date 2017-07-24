@@ -1,0 +1,53 @@
+                      Nascar Race Today
+geoName                                
+Alabama                              73
+Alaska                               18
+Arizona                              29
+Arkansas                             43
+California                           15
+Colorado                             21
+Connecticut                          26
+Delaware                             49
+District of Columbia                 34
+Florida                              54
+Georgia                              65
+Hawaii                               11
+Idaho                                36
+Illinois                             35
+Indiana                              70
+Iowa                                 75
+Kansas                               36
+Kentucky                             68
+Louisiana                            28
+Maine                                66
+Maryland                             20
+Massachusetts                        20
+Michigan                             48
+Minnesota                            34
+Mississippi                          55
+Missouri                             43
+Montana                              36
+Nebraska                             52
+Nevada                               30
+New Hampshire                        55
+New Jersey                           16
+New Mexico                           21
+New York                             22
+North Carolina                       92
+North Dakota                         51
+Ohio                                 53
+Oklahoma                             37
+Oregon                               17
+Pennsylvania                         42
+Rhode Island                         22
+South Carolina                      100
+South Dakota                         64
+Tennessee                            74
+Texas                                23
+Utah                                 20
+Vermont                              62
+Virginia                             40
+Washington                           18
+West Virginia                        93
+Wisconsin                            64
+Wyoming                              46
