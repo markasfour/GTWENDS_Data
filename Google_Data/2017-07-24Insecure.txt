@@ -1,0 +1,53 @@
+                      Insecure
+geoName                       
+Alabama                     78
+Alaska                      61
+Arizona                     66
+Arkansas                    74
+California                  84
+Colorado                    61
+Connecticut                 71
+Delaware                    83
+District of Columbia        97
+Florida                     74
+Georgia                     93
+Hawaii                      86
+Idaho                       55
+Illinois                    77
+Indiana                     68
+Iowa                        58
+Kansas                      59
+Kentucky                    66
+Louisiana                   88
+Maine                       57
+Maryland                   100
+Massachusetts               71
+Michigan                    74
+Minnesota                   61
+Mississippi                 92
+Missouri                    71
+Montana                     52
+Nebraska                    61
+Nevada                      75
+New Hampshire               59
+New Jersey                  79
+New Mexico                  69
+New York                    87
+North Carolina              77
+North Dakota                57
+Ohio                        65
+Oklahoma                    63
+Oregon                      51
+Pennsylvania                72
+Rhode Island                79
+South Carolina              77
+South Dakota                53
+Tennessee                   73
+Texas                       77
+Utah                        60
+Vermont                     63
+Virginia                    70
+Washington                  67
+West Virginia               62
+Wisconsin                   60
+Wyoming                     47
