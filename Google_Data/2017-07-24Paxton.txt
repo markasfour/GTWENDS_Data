@@ -1,0 +1,53 @@
+                      Paxton
+geoName                     
+Alabama                   45
+Alaska                    40
+Arizona                   44
+Arkansas                  51
+California                38
+Colorado                  65
+Connecticut               42
+Delaware                  41
+District of Columbia      51
+Florida                   40
+Georgia                   40
+Hawaii                    29
+Idaho                     40
+Illinois                  81
+Indiana                   50
+Iowa                      49
+Kansas                    42
+Kentucky                  50
+Louisiana                 38
+Maine                     38
+Maryland                  39
+Massachusetts             77
+Michigan                  39
+Minnesota                 39
+Mississippi               42
+Missouri                  50
+Montana                   47
+Nebraska                 100
+Nevada                    39
+New Hampshire             44
+New Jersey                42
+New Mexico                49
+New York                  34
+North Carolina            40
+North Dakota              40
+Ohio                      57
+Oklahoma                  47
+Oregon                    35
+Pennsylvania              79
+Rhode Island              44
+South Carolina            41
+South Dakota              53
+Tennessee                 51
+Texas                     46
+Utah                      48
+Vermont                   37
+Virginia                  39
+Washington                45
+West Virginia             50
+Wisconsin                 38
+Wyoming                   56

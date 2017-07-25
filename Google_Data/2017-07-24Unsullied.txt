@@ -1,53 +1,53 @@
                       Unsullied
 geoName                        
-Alabama                      82
-Alaska                       99
-Arizona                      82
-Arkansas                     77
-California                   96
-Colorado                     81
-Connecticut                  88
-Delaware                     69
-District of Columbia         76
-Florida                      74
-Georgia                      66
-Hawaii                       77
-Idaho                        69
-Illinois                     80
-Indiana                      72
-Iowa                         64
-Kansas                       78
-Kentucky                     76
-Louisiana                    73
-Maine                        63
-Maryland                     91
-Massachusetts                87
+Alabama                      79
+Alaska                      100
+Arizona                      84
+Arkansas                     69
+California                   95
+Colorado                     89
+Connecticut                  92
+Delaware                     68
+District of Columbia         90
+Florida                      76
+Georgia                      64
+Hawaii                       87
+Idaho                        64
+Illinois                     77
+Indiana                      66
+Iowa                         71
+Kansas                       69
+Kentucky                     69
+Louisiana                    80
+Maine                        61
+Maryland                     86
+Massachusetts                98
 Michigan                     80
 Minnesota                    70
-Mississippi                  74
-Missouri                     66
-Montana                      46
-Nebraska                     70
-Nevada                       81
-New Hampshire                87
-New Jersey                   87
-New Mexico                   72
-New York                     79
+Mississippi                  78
+Missouri                     65
+Montana                      56
+Nebraska                     57
+Nevada                       88
+New Hampshire                97
+New Jersey                   88
+New Mexico                   71
+New York                     85
 North Carolina               68
-North Dakota                 84
-Ohio                         72
+North Dakota                 66
+Ohio                         68
 Oklahoma                     81
-Oregon                       60
+Oregon                       59
 Pennsylvania                 84
-Rhode Island                100
-South Carolina               63
-South Dakota                 47
+Rhode Island                 76
+South Carolina               58
+South Dakota                 48
 Tennessee                    84
 Texas                        69
-Utah                         67
-Vermont                      92
-Virginia                     75
-Washington                   85
-West Virginia                67
+Utah                         73
+Vermont                      88
+Virginia                     72
+Washington                   89
+West Virginia                66
 Wisconsin                    64
-Wyoming                      63
+Wyoming                      64

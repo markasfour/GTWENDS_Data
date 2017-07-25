@@ -1,0 +1,53 @@
+                      Brickyard 400
+geoName                            
+Alabama                           3
+Alaska                            2
+Arizona                           2
+Arkansas                          3
+California                        1
+Colorado                          2
+Connecticut                       2
+Delaware                          2
+District of Columbia              2
+Florida                           3
+Georgia                           4
+Hawaii                            0
+Idaho                             2
+Illinois                         13
+Indiana                         100
+Iowa                              7
+Kansas                            4
+Kentucky                         10
+Louisiana                         3
+Maine                             3
+Maryland                          2
+Massachusetts                     2
+Michigan                          5
+Minnesota                         4
+Mississippi                       3
+Missouri                          5
+Montana                           2
+Nebraska                          4
+Nevada                            2
+New Hampshire                     1
+New Jersey                        1
+New Mexico                        1
+New York                          1
+North Carolina                    5
+North Dakota                      5
+Ohio                              8
+Oklahoma                          2
+Oregon                            1
+Pennsylvania                      3
+Rhode Island                      1
+South Carolina                    5
+South Dakota                      4
+Tennessee                         6
+Texas                             2
+Utah                              1
+Vermont                           3
+Virginia                          2
+Washington                        1
+West Virginia                     6
+Wisconsin                         5
+Wyoming                           1

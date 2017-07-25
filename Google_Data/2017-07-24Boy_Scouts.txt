@@ -1,0 +1,53 @@
+                      Boy Scouts
+geoName                         
+Alabama                       34
+Alaska                        49
+Arizona                       31
+Arkansas                      30
+California                    26
+Colorado                      36
+Connecticut                   32
+Delaware                      30
+District of Columbia          28
+Florida                       22
+Georgia                       29
+Hawaii                        30
+Idaho                         68
+Illinois                      27
+Indiana                       35
+Iowa                          40
+Kansas                        37
+Kentucky                      29
+Louisiana                     27
+Maine                         36
+Maryland                      34
+Massachusetts                 27
+Michigan                      29
+Minnesota                     33
+Mississippi                   29
+Missouri                      44
+Montana                       41
+Nebraska                      40
+Nevada                        32
+New Hampshire                 38
+New Jersey                    29
+New Mexico                    29
+New York                      22
+North Carolina                35
+North Dakota                  35
+Ohio                          36
+Oklahoma                      34
+Oregon                        25
+Pennsylvania                  35
+Rhode Island                  33
+South Carolina                30
+South Dakota                  39
+Tennessee                     34
+Texas                         31
+Utah                         100
+Vermont                       35
+Virginia                      31
+Washington                    32
+West Virginia                 44
+Wisconsin                     36
+Wyoming                       49

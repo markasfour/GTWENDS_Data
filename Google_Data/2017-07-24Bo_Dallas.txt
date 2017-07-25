@@ -1,0 +1,44 @@
+                      Bo Dallas
+geoName                        
+Alabama                      62
+Arizona                      40
+Arkansas                     74
+California                   37
+Colorado                     30
+Connecticut                  60
+District of Columbia         45
+Florida                      50
+Georgia                      60
+Illinois                     53
+Indiana                      55
+Iowa                         56
+Kansas                       51
+Kentucky                     78
+Louisiana                    71
+Maine                        48
+Maryland                     53
+Massachusetts                52
+Michigan                     55
+Minnesota                    47
+Mississippi                  79
+Missouri                     49
+Nebraska                     57
+Nevada                       48
+New Hampshire                51
+New Jersey                   72
+New Mexico                   42
+New York                     66
+North Carolina               56
+Ohio                         64
+Oklahoma                     60
+Oregon                       25
+Pennsylvania                 74
+Rhode Island                 71
+South Carolina               64
+Tennessee                    62
+Texas                        92
+Utah                         15
+Virginia                     55
+Washington                   27
+West Virginia               100
+Wisconsin                    50
