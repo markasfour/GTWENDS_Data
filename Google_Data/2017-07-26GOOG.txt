@@ -1,0 +1,53 @@
+                      GOOG
+geoName                   
+Alabama                 66
+Alaska                  66
+Arizona                 77
+Arkansas                71
+California              97
+Colorado                78
+Connecticut             91
+Delaware                81
+District of Columbia    71
+Florida                 73
+Georgia                 69
+Hawaii                  77
+Idaho                   79
+Illinois                84
+Indiana                 79
+Iowa                    86
+Kansas                  74
+Kentucky                71
+Louisiana               64
+Maine                   72
+Maryland                82
+Massachusetts           89
+Michigan                75
+Minnesota               83
+Mississippi             63
+Missouri                76
+Montana                 67
+Nebraska                96
+Nevada                  72
+New Hampshire           95
+New Jersey             100
+New Mexico              71
+New York                96
+North Carolina          73
+North Dakota            83
+Ohio                    78
+Oklahoma                66
+Oregon                  94
+Pennsylvania            82
+Rhode Island            91
+South Carolina          69
+South Dakota            93
+Tennessee               65
+Texas                   68
+Utah                    74
+Vermont                 77
+Virginia                74
+Washington              90
+West Virginia           76
+Wisconsin               80
+Wyoming                 78

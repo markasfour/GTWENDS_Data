@@ -1,0 +1,53 @@
+                      Hader
+geoName                    
+Alabama                  48
+Alaska                   62
+Arizona                  64
+Arkansas                 54
+California               72
+Colorado                 67
+Connecticut              70
+Delaware                 57
+District of Columbia     84
+Florida                  52
+Georgia                  53
+Hawaii                   56
+Idaho                    68
+Illinois                 75
+Indiana                  58
+Iowa                     69
+Kansas                   54
+Kentucky                 56
+Louisiana                54
+Maine                    71
+Maryland                 74
+Massachusetts            83
+Michigan                 64
+Minnesota                74
+Mississippi              40
+Missouri                 69
+Montana                  73
+Nebraska                 71
+Nevada                   54
+New Hampshire            75
+New Jersey               72
+New Mexico               57
+New York                 81
+North Carolina           53
+North Dakota             66
+Ohio                     73
+Oklahoma                100
+Oregon                   63
+Pennsylvania             72
+Rhode Island             73
+South Carolina           49
+South Dakota             55
+Tennessee                58
+Texas                    57
+Utah                     68
+Vermont                  78
+Virginia                 58
+Washington               72
+West Virginia            52
+Wisconsin                78
+Wyoming                  46

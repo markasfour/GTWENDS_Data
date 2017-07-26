@@ -1,0 +1,53 @@
+                      Ramona
+geoName                     
+Alabama                   16
+Alaska                    19
+Arizona                   28
+Arkansas                  21
+California               100
+Colorado                  20
+Connecticut               20
+Delaware                  20
+District of Columbia      20
+Florida                   21
+Georgia                   17
+Hawaii                    34
+Idaho                     19
+Illinois                  19
+Indiana                   15
+Iowa                      18
+Kansas                    19
+Kentucky                  16
+Louisiana                 18
+Maine                     16
+Maryland                  19
+Massachusetts             19
+Michigan                  18
+Minnesota                 17
+Mississippi               15
+Missouri                  17
+Montana                   15
+Nebraska                  17
+Nevada                    26
+New Hampshire             17
+New Jersey                22
+New Mexico                23
+New York                  25
+North Carolina            18
+North Dakota              15
+Ohio                      17
+Oklahoma                  32
+Oregon                    32
+Pennsylvania              19
+Rhode Island              20
+South Carolina            16
+South Dakota              36
+Tennessee                 16
+Texas                     19
+Utah                      20
+Vermont                   16
+Virginia                  16
+Washington                23
+West Virginia             16
+Wisconsin                 16
+Wyoming                   16

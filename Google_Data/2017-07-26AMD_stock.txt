@@ -1,0 +1,53 @@
+                      AMD stock
+geoName                        
+Alabama                      41
+Alaska                       78
+Arizona                      59
+Arkansas                     36
+California                  100
+Colorado                     63
+Connecticut                  79
+Delaware                     59
+District of Columbia         59
+Florida                      62
+Georgia                      41
+Hawaii                       70
+Idaho                        55
+Illinois                     68
+Indiana                      45
+Iowa                         42
+Kansas                       42
+Kentucky                     35
+Louisiana                    33
+Maine                        46
+Maryland                     71
+Massachusetts                77
+Michigan                     65
+Minnesota                    66
+Mississippi                  22
+Missouri                     48
+Montana                      52
+Nebraska                     60
+Nevada                       70
+New Hampshire                65
+New Jersey                   85
+New Mexico                   44
+New York                     80
+North Carolina               56
+North Dakota                 61
+Ohio                         48
+Oklahoma                     35
+Oregon                       56
+Pennsylvania                 52
+Rhode Island                 78
+South Carolina               43
+South Dakota                 54
+Tennessee                    38
+Texas                        69
+Utah                         59
+Vermont                      50
+Virginia                     53
+Washington                   90
+West Virginia                42
+Wisconsin                    57
+Wyoming                      40

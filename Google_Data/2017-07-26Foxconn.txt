@@ -1,0 +1,53 @@
+                      Foxconn
+geoName                      
+Alabama                    43
+Alaska                     37
+Arizona                    62
+Arkansas                   55
+California                 92
+Colorado                   58
+Connecticut                69
+Delaware                   61
+District of Columbia       59
+Florida                    49
+Georgia                    42
+Hawaii                     50
+Idaho                      71
+Illinois                   64
+Indiana                   100
+Iowa                       53
+Kansas                     58
+Kentucky                   49
+Louisiana                  35
+Maine                      51
+Maryland                   57
+Massachusetts              75
+Michigan                   62
+Minnesota                  60
+Mississippi                37
+Missouri                   53
+Montana                    47
+Nebraska                   52
+Nevada                     47
+New Hampshire              71
+New Jersey                 67
+New Mexico                 52
+New York                   64
+North Carolina             53
+North Dakota               44
+Ohio                       55
+Oklahoma                   47
+Oregon                     75
+Pennsylvania               66
+Rhode Island               65
+South Carolina             43
+South Dakota               45
+Tennessee                  46
+Texas                      75
+Utah                       58
+Vermont                    88
+Virginia                   51
+Washington                 71
+West Virginia              45
+Wisconsin                  78
+Wyoming                    47

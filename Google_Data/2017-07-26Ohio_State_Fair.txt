@@ -1,0 +1,53 @@
+                      Ohio State Fair
+geoName                              
+Alabama                             1
+Alaska                              0
+Arizona                             0
+Arkansas                            0
+California                          0
+Colorado                            1
+Connecticut                         1
+Delaware                            1
+District of Columbia                1
+Florida                             1
+Georgia                             1
+Hawaii                              0
+Idaho                               0
+Illinois                            3
+Indiana                             3
+Iowa                                1
+Kansas                              1
+Kentucky                            4
+Louisiana                           0
+Maine                               0
+Maryland                            1
+Massachusetts                       1
+Michigan                           10
+Minnesota                           3
+Mississippi                         1
+Missouri                            1
+Montana                             0
+Nebraska                            1
+Nevada                              0
+New Hampshire                       1
+New Jersey                          1
+New Mexico                          0
+New York                            1
+North Carolina                      1
+North Dakota                        0
+Ohio                              100
+Oklahoma                            0
+Oregon                              0
+Pennsylvania                        3
+Rhode Island                        0
+South Carolina                      2
+South Dakota                        1
+Tennessee                           1
+Texas                               0
+Utah                                0
+Vermont                             0
+Virginia                            1
+Washington                          0
+West Virginia                      10
+Wisconsin                           1
+Wyoming                             1

@@ -1,0 +1,51 @@
+                      Blake Farenthold
+geoName                               
+Alabama                              3
+Alaska                               5
+Arizona                              4
+Arkansas                             5
+California                           6
+Colorado                             6
+Connecticut                          5
+Delaware                             8
+District of Columbia               100
+Florida                              4
+Georgia                              4
+Hawaii                               3
+Idaho                                7
+Illinois                             5
+Indiana                              4
+Iowa                                 3
+Kansas                               7
+Kentucky                             6
+Louisiana                            4
+Maine                               11
+Maryland                            16
+Massachusetts                        6
+Michigan                             4
+Minnesota                            5
+Mississippi                          7
+Missouri                             6
+Montana                             11
+Nebraska                             6
+Nevada                               8
+New Hampshire                        7
+New Jersey                           7
+New Mexico                           8
+New York                             7
+North Carolina                       6
+North Dakota                        10
+Ohio                                 7
+Oklahoma                             7
+Oregon                               5
+Pennsylvania                         7
+Rhode Island                        17
+South Carolina                       5
+Tennessee                            5
+Texas                               48
+Utah                                 5
+Vermont                             13
+Virginia                            13
+Washington                           8
+West Virginia                        6
+Wisconsin                            6

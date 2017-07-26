@@ -1,0 +1,53 @@
+                      Usa Vs Jamaica
+geoName                             
+Alabama                           42
+Alaska                            13
+Arizona                           60
+Arkansas                          33
+California                        89
+Colorado                          58
+Connecticut                       75
+Delaware                          65
+District of Columbia             100
+Florida                           87
+Georgia                           93
+Hawaii                            41
+Idaho                             22
+Illinois                          55
+Indiana                           37
+Iowa                              57
+Kansas                            70
+Kentucky                          37
+Louisiana                         42
+Maine                             27
+Maryland                          69
+Massachusetts                     54
+Michigan                          32
+Minnesota                         42
+Mississippi                       30
+Missouri                          62
+Montana                           31
+Nebraska                          69
+Nevada                            56
+New Hampshire                     25
+New Jersey                        86
+New Mexico                        41
+New York                          81
+North Carolina                    57
+North Dakota                      28
+Ohio                              61
+Oklahoma                          37
+Oregon                            40
+Pennsylvania                      41
+Rhode Island                      52
+South Carolina                    61
+South Dakota                      48
+Tennessee                         73
+Texas                             85
+Utah                              65
+Vermont                           14
+Virginia                          50
+Washington                        57
+West Virginia                     18
+Wisconsin                         39
+Wyoming                           14

@@ -1,0 +1,53 @@
+                      Vertigo
+geoName                      
+Alabama                    81
+Alaska                     75
+Arizona                    85
+Arkansas                   76
+California                 90
+Colorado                   78
+Connecticut                86
+Delaware                   83
+District of Columbia       79
+Florida                    88
+Georgia                    78
+Hawaii                    100
+Idaho                      79
+Illinois                   98
+Indiana                    79
+Iowa                       78
+Kansas                     71
+Kentucky                   83
+Louisiana                  81
+Maine                     100
+Maryland                   81
+Massachusetts              87
+Michigan                   90
+Minnesota                  82
+Mississippi                77
+Missouri                   80
+Montana                    84
+Nebraska                   75
+Nevada                     79
+New Hampshire              94
+New Jersey                 84
+New Mexico                 86
+New York                   85
+North Carolina             87
+North Dakota               80
+Ohio                       84
+Oklahoma                   79
+Oregon                     77
+Pennsylvania               87
+Rhode Island               85
+South Carolina             87
+South Dakota               75
+Tennessee                  85
+Texas                      76
+Utah                       74
+Vermont                    95
+Virginia                   74
+Washington                 84
+West Virginia              87
+Wisconsin                  85
+Wyoming                    72
