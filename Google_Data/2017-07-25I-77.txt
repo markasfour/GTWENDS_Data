@@ -1,0 +1,31 @@
+                      I-77
+geoName                   
+Alabama                  2
+Arizona                  1
+California               0
+Colorado                 1
+Connecticut              2
+District of Columbia    10
+Florida                  5
+Georgia                  9
+Illinois                 2
+Indiana                  2
+Kentucky                 4
+Maryland                 3
+Massachusetts            1
+Michigan                 5
+Minnesota                1
+Missouri                 2
+Montana                  1
+New Jersey               1
+New York                 3
+North Carolina          49
+Ohio                    26
+Pennsylvania             5
+South Carolina          54
+Tennessee                6
+Texas                    1
+Virginia                 9
+Washington               1
+West Virginia          100
+Wisconsin                2

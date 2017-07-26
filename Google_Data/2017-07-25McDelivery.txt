@@ -1,0 +1,31 @@
+                      McDelivery
+geoName                         
+Arizona                       39
+California                    45
+Colorado                      43
+Connecticut                   56
+District of Columbia          42
+Florida                       62
+Georgia                       40
+Illinois                      57
+Indiana                       49
+Kansas                        49
+Kentucky                      19
+Maryland                      37
+Massachusetts                 43
+Michigan                      26
+Minnesota                     46
+Missouri                      23
+Nevada                        39
+New Jersey                    38
+New York                      69
+North Carolina                19
+Ohio                          39
+Oregon                        59
+Pennsylvania                  36
+South Carolina                20
+Tennessee                     26
+Texas                         36
+Virginia                      39
+Washington                   100
+Wisconsin                     30

@@ -1,0 +1,53 @@
+                      Yellen
+geoName                     
+Alabama                   22
+Alaska                    25
+Arizona                   30
+Arkansas                  20
+California                42
+Colorado                  34
+Connecticut               56
+Delaware                  35
+District of Columbia     100
+Florida                   30
+Georgia                   24
+Hawaii                    28
+Idaho                     29
+Illinois                  41
+Indiana                   27
+Iowa                      23
+Kansas                    24
+Kentucky                  19
+Louisiana                 18
+Maine                     32
+Maryland                  45
+Massachusetts             61
+Michigan                  33
+Minnesota                 34
+Mississippi               16
+Missouri                  27
+Montana                   29
+Nebraska                  23
+Nevada                    26
+New Hampshire             38
+New Jersey                53
+New Mexico                28
+New York                  75
+North Carolina            29
+North Dakota              24
+Ohio                      26
+Oklahoma                  22
+Oregon                    24
+Pennsylvania              35
+Rhode Island              57
+South Carolina            21
+South Dakota              17
+Tennessee                 27
+Texas                     25
+Utah                      27
+Vermont                   43
+Virginia                  34
+Washington                30
+West Virginia             17
+Wisconsin                 26
+Wyoming                   31

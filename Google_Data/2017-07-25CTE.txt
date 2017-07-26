@@ -1,0 +1,53 @@
+                      CTE
+geoName                  
+Alabama                50
+Alaska                 47
+Arizona                54
+Arkansas               43
+California             44
+Colorado               49
+Connecticut            48
+Delaware               45
+District of Columbia   40
+Florida                31
+Georgia                31
+Hawaii                 42
+Idaho                  51
+Illinois               42
+Indiana                38
+Iowa                   53
+Kansas                 44
+Kentucky               40
+Louisiana              28
+Maine                  43
+Maryland               47
+Massachusetts          42
+Michigan               45
+Minnesota              39
+Mississippi            35
+Missouri               37
+Montana                34
+Nebraska               45
+Nevada                 46
+New Hampshire          57
+New Jersey             37
+New Mexico             39
+New York               38
+North Carolina         73
+North Dakota           92
+Ohio                   36
+Oklahoma               29
+Oregon                 42
+Pennsylvania           40
+Rhode Island           42
+South Carolina         33
+South Dakota           96
+Tennessee              60
+Texas                  55
+Utah                   98
+Vermont               100
+Virginia               48
+Washington             54
+West Virginia          56
+Wisconsin              40
+Wyoming                36

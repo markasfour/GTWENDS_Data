@@ -1,0 +1,53 @@
+                      Rick Perry
+geoName                         
+Alabama                       23
+Alaska                        18
+Arizona                       23
+Arkansas                      31
+California                    23
+Colorado                      27
+Connecticut                   25
+Delaware                      22
+District of Columbia          54
+Florida                       21
+Georgia                       24
+Hawaii                        18
+Idaho                         21
+Illinois                      24
+Indiana                       21
+Iowa                          30
+Kansas                        23
+Kentucky                      24
+Louisiana                     31
+Maine                         26
+Maryland                      30
+Massachusetts                 27
+Michigan                      22
+Minnesota                     21
+Mississippi                   23
+Missouri                      25
+Montana                       23
+Nebraska                      25
+Nevada                        22
+New Hampshire                 34
+New Jersey                    22
+New Mexico                    30
+New York                      27
+North Carolina                23
+North Dakota                  21
+Ohio                          22
+Oklahoma                      33
+Oregon                        19
+Pennsylvania                  23
+Rhode Island                  24
+South Carolina                27
+South Dakota                  19
+Tennessee                     26
+Texas                        100
+Utah                          20
+Vermont                       35
+Virginia                      25
+Washington                    24
+West Virginia                 27
+Wisconsin                     21
+Wyoming                       19

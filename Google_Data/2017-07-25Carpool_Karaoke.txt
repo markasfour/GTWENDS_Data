@@ -1,0 +1,53 @@
+                      Carpool Karaoke
+geoName                              
+Alabama                            75
+Alaska                             66
+Arizona                            67
+Arkansas                           62
+California                         82
+Colorado                           80
+Connecticut                       100
+Delaware                           84
+District of Columbia               89
+Florida                            65
+Georgia                            68
+Hawaii                             81
+Idaho                              78
+Illinois                           81
+Indiana                            78
+Iowa                               77
+Kansas                             55
+Kentucky                           70
+Louisiana                          63
+Maine                              87
+Maryland                           78
+Massachusetts                      97
+Michigan                           75
+Minnesota                          80
+Mississippi                        52
+Missouri                           71
+Montana                            63
+Nebraska                           81
+Nevada                             63
+New Hampshire                      88
+New Jersey                         89
+New Mexico                         66
+New York                           82
+North Carolina                     74
+North Dakota                       56
+Ohio                               80
+Oklahoma                           51
+Oregon                             63
+Pennsylvania                       88
+Rhode Island                       95
+South Carolina                     72
+South Dakota                       72
+Tennessee                          76
+Texas                              59
+Utah                               86
+Vermont                            93
+Virginia                           58
+Washington                         76
+West Virginia                      59
+Wisconsin                          73
+Wyoming                            50

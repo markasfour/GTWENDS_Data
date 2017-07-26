@@ -1,0 +1,42 @@
+                      Raytown
+geoName                      
+Alabama                     0
+Alaska                      0
+Arizona                     0
+Arkansas                    1
+California                  0
+Colorado                    1
+Connecticut                 0
+District of Columbia        0
+Florida                     0
+Georgia                     1
+Illinois                    3
+Indiana                     0
+Iowa                        1
+Kansas                     30
+Kentucky                    1
+Louisiana                   0
+Maryland                    0
+Massachusetts               0
+Michigan                    0
+Minnesota                   4
+Mississippi                 0
+Missouri                  100
+Nebraska                    3
+Nevada                      0
+New Jersey                  0
+New Mexico                  1
+New York                    0
+North Carolina              0
+Ohio                        0
+Oklahoma                    1
+Oregon                      0
+Pennsylvania                0
+South Carolina              0
+Tennessee                   1
+Texas                       1
+Utah                        1
+Virginia                    0
+Washington                  0
+West Virginia               0
+Wisconsin                   0

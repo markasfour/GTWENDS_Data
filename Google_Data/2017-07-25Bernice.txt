@@ -1,0 +1,53 @@
+                      Bernice
+geoName                      
+Alabama                    66
+Alaska                     39
+Arizona                    34
+Arkansas                   88
+California                 38
+Colorado                   29
+Connecticut                49
+Delaware                   66
+District of Columbia       74
+Florida                    48
+Georgia                    73
+Hawaii                     87
+Idaho                      26
+Illinois                   53
+Indiana                    42
+Iowa                       35
+Kansas                     36
+Kentucky                   38
+Louisiana                 100
+Maine                      35
+Maryland                   65
+Massachusetts              43
+Michigan                   50
+Minnesota                  39
+Mississippi                65
+Missouri                   46
+Montana                    41
+Nebraska                   34
+Nevada                     45
+New Hampshire              40
+New Jersey                 64
+New Mexico                 40
+New York                   64
+North Carolina             50
+North Dakota               46
+Ohio                       39
+Oklahoma                   64
+Oregon                     23
+Pennsylvania               47
+Rhode Island               44
+South Carolina             58
+South Dakota               39
+Tennessee                  48
+Texas                      50
+Utah                       25
+Vermont                    45
+Virginia                   44
+Washington                 32
+West Virginia              38
+Wisconsin                  44
+Wyoming                    29

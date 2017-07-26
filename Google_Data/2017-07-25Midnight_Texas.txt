@@ -1,0 +1,53 @@
+                      Midnight Texas
+geoName                             
+Alabama                           22
+Alaska                            20
+Arizona                           15
+Arkansas                          29
+California                        13
+Colorado                          18
+Connecticut                       11
+Delaware                           9
+District of Columbia              13
+Florida                           12
+Georgia                           15
+Hawaii                            13
+Idaho                             17
+Illinois                          14
+Indiana                           18
+Iowa                              11
+Kansas                            14
+Kentucky                          20
+Louisiana                         29
+Maine                             14
+Maryland                          14
+Massachusetts                     10
+Michigan                          12
+Minnesota                         11
+Mississippi                       20
+Missouri                          18
+Montana                           13
+Nebraska                          14
+Nevada                            18
+New Hampshire                      8
+New Jersey                        11
+New Mexico                        62
+New York                          12
+North Carolina                    15
+North Dakota                      15
+Ohio                              16
+Oklahoma                          31
+Oregon                            14
+Pennsylvania                      14
+Rhode Island                      10
+South Carolina                    18
+South Dakota                       8
+Tennessee                         21
+Texas                            100
+Utah                              11
+Vermont                            9
+Virginia                          11
+Washington                        16
+West Virginia                     24
+Wisconsin                         11
+Wyoming                           12
