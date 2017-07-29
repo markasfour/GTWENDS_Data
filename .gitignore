@@ -1,5 +1,16 @@
 get_google_hot_trends.py
 get_twitter_trends.py
 tweepy
-get_trends.sh
+run.sh
 publish_data.sh
+search_google_data.py
+search_twitter_data.py
+setup.sh
+get_google_hot_trends.py
+get_twitter_trends.py
+tweepy
+run.sh
+publish_data.sh
+search_google_data.py
+search_twitter_data.py
+setup.sh

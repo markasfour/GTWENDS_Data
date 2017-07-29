@@ -1,0 +1,53 @@
+                      Charter
+geoName                      
+Alabama                    83
+Alaska                     39
+Arizona                    19
+Arkansas                   13
+California                 36
+Colorado                   31
+Connecticut                45
+Delaware                   60
+District of Columbia       30
+Florida                    30
+Georgia                    48
+Hawaii                     20
+Idaho                      40
+Illinois                   38
+Indiana                    14
+Iowa                       11
+Kansas                     13
+Kentucky                   15
+Louisiana                  48
+Maine                      13
+Maryland                   18
+Massachusetts              40
+Michigan                   80
+Minnesota                  49
+Mississippi                16
+Missouri                   76
+Montana                   100
+Nebraska                   28
+Nevada                     43
+New Hampshire              20
+New Jersey                 22
+New Mexico                 22
+New York                   23
+North Carolina             50
+North Dakota                8
+Ohio                       28
+Oklahoma                   16
+Oregon                     31
+Pennsylvania               34
+Rhode Island               25
+South Carolina             67
+South Dakota                8
+Tennessee                  54
+Texas                      20
+Utah                       20
+Vermont                    22
+Virginia                   15
+Washington                 27
+West Virginia               9
+Wisconsin                  85
+Wyoming                   100

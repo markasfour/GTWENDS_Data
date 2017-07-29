@@ -1,0 +1,53 @@
+                      Teavana
+geoName                      
+Alabama                    40
+Alaska                     86
+Arizona                    87
+Arkansas                   44
+California                 82
+Colorado                   58
+Connecticut                91
+Delaware                   84
+District of Columbia       81
+Florida                    81
+Georgia                    65
+Hawaii                     82
+Idaho                      60
+Illinois                   86
+Indiana                    75
+Iowa                       64
+Kansas                     43
+Kentucky                   50
+Louisiana                  48
+Maine                      53
+Maryland                   84
+Massachusetts             100
+Michigan                   88
+Minnesota                  94
+Mississippi                30
+Missouri                   77
+Montana                    30
+Nebraska                   70
+Nevada                     91
+New Hampshire              82
+New Jersey                 90
+New Mexico                 62
+New York                   84
+North Carolina             57
+North Dakota               41
+Ohio                       83
+Oklahoma                   68
+Oregon                     51
+Pennsylvania               70
+Rhode Island               91
+South Carolina             42
+South Dakota               71
+Tennessee                  64
+Texas                      58
+Utah                       76
+Vermont                    81
+Virginia                   73
+Washington                 92
+West Virginia              57
+Wisconsin                  83
+Wyoming                    39

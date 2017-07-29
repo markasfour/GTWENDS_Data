@@ -1,0 +1,53 @@
+                      Ms 13
+geoName                    
+Alabama                   8
+Alaska                    6
+Arizona                   9
+Arkansas                  9
+California               11
+Colorado                  8
+Connecticut               7
+Delaware                  8
+District of Columbia     20
+Florida                   8
+Georgia                   9
+Hawaii                    8
+Idaho                     8
+Illinois                  7
+Indiana                   6
+Iowa                      6
+Kansas                    7
+Kentucky                  7
+Louisiana                10
+Maine                     6
+Maryland                 18
+Massachusetts            10
+Michigan                  6
+Minnesota                 7
+Mississippi             100
+Missouri                  6
+Montana                   6
+Nebraska                  7
+Nevada                   11
+New Hampshire             8
+New Jersey               10
+New Mexico                8
+New York                 14
+North Carolina            9
+North Dakota              7
+Ohio                      6
+Oklahoma                  7
+Oregon                    6
+Pennsylvania              6
+Rhode Island             10
+South Carolina            7
+South Dakota              6
+Tennessee                11
+Texas                    11
+Utah                      7
+Vermont                   5
+Virginia                 14
+Washington                7
+West Virginia             7
+Wisconsin                 5
+Wyoming                   9

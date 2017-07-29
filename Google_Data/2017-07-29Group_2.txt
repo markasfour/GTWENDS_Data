@@ -1,0 +1,7 @@
+            Group 2
+geoName            
+California       75
+Florida          83
+New York         87
+Texas            75
+Virginia        100

@@ -1,0 +1,53 @@
+                      Taiwan
+geoName                     
+Alabama                   21
+Alaska                    33
+Arizona                   33
+Arkansas                  21
+California                89
+Colorado                  30
+Connecticut               35
+Delaware                  36
+District of Columbia      53
+Florida                   24
+Georgia                   25
+Hawaii                   100
+Idaho                     36
+Illinois                  34
+Indiana                   30
+Iowa                      26
+Kansas                    34
+Kentucky                  21
+Louisiana                 20
+Maine                     25
+Maryland                  47
+Massachusetts             51
+Michigan                  28
+Minnesota                 33
+Mississippi               17
+Missouri                  25
+Montana                   23
+Nebraska                  21
+Nevada                    42
+New Hampshire             31
+New Jersey                45
+New Mexico                26
+New York                  51
+North Carolina            25
+North Dakota              21
+Ohio                      26
+Oklahoma                  23
+Oregon                    55
+Pennsylvania              31
+Rhode Island              33
+South Carolina            20
+South Dakota              19
+Tennessee                 20
+Texas                     36
+Utah                      48
+Vermont                   31
+Virginia                  39
+Washington                61
+West Virginia             17
+Wisconsin                 29
+Wyoming                   23

@@ -1,0 +1,53 @@
+                      Tesla
+geoName                    
+Alabama                  34
+Alaska                   41
+Arizona                  60
+Arkansas                 35
+California              100
+Colorado                 61
+Connecticut              56
+Delaware                 46
+District of Columbia     59
+Florida                  54
+Georgia                  45
+Hawaii                   71
+Idaho                    44
+Illinois                 58
+Indiana                  47
+Iowa                     38
+Kansas                   38
+Kentucky                 37
+Louisiana                33
+Maine                    37
+Maryland                 54
+Massachusetts            55
+Michigan                 48
+Minnesota                49
+Mississippi              26
+Missouri                 45
+Montana                  40
+Nebraska                 42
+Nevada                   81
+New Hampshire            49
+New Jersey               55
+New Mexico               43
+New York                 50
+North Carolina           43
+North Dakota             35
+Ohio                     45
+Oklahoma                 40
+Oregon                   49
+Pennsylvania             46
+Rhode Island             45
+South Carolina           35
+South Dakota             35
+Tennessee                39
+Texas                    47
+Utah                     64
+Vermont                  51
+Virginia                 44
+Washington               75
+West Virginia            33
+Wisconsin                42
+Wyoming                  37

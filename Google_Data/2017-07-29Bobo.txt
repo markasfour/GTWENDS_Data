@@ -1,0 +1,53 @@
+                      Bobo
+geoName                   
+Alabama                 42
+Alaska                  17
+Arizona                 22
+Arkansas                37
+California              24
+Colorado                24
+Connecticut             22
+Delaware                25
+District of Columbia    25
+Florida                 27
+Georgia                 43
+Hawaii                  24
+Idaho                   19
+Illinois                24
+Indiana                 22
+Iowa                    20
+Kansas                  28
+Kentucky                36
+Louisiana               22
+Maine                   19
+Maryland                22
+Massachusetts           25
+Michigan                22
+Minnesota               23
+Mississippi             55
+Missouri                30
+Montana                 18
+Nebraska                36
+Nevada                  23
+New Hampshire           22
+New Jersey              29
+New Mexico              18
+New York                34
+North Carolina          26
+North Dakota            18
+Ohio                    22
+Oklahoma                24
+Oregon                  26
+Pennsylvania            23
+Rhode Island            24
+South Carolina          42
+South Dakota            18
+Tennessee              100
+Texas                   26
+Utah                    18
+Vermont                 20
+Virginia                25
+Washington              20
+West Virginia           21
+Wisconsin               20
+Wyoming                 21

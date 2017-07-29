@@ -1,0 +1,52 @@
+                      Beckman
+geoName                      
+Alabama                    21
+Alaska                     18
+Arizona                    23
+Arkansas                   22
+California                 65
+Colorado                   29
+Connecticut                27
+Delaware                   23
+District of Columbia       26
+Florida                    27
+Georgia                    20
+Hawaii                     21
+Idaho                      44
+Illinois                   56
+Indiana                    53
+Iowa                      100
+Kansas                     40
+Kentucky                   32
+Louisiana                  17
+Maine                      24
+Maryland                   32
+Massachusetts              38
+Michigan                   30
+Minnesota                  63
+Mississippi                15
+Missouri                   36
+Montana                    26
+Nebraska                   48
+Nevada                     19
+New Hampshire              26
+New Jersey                 25
+New Mexico                 18
+New York                   26
+North Carolina             24
+North Dakota               39
+Ohio                       36
+Oklahoma                   21
+Oregon                     24
+Pennsylvania               29
+Rhode Island               27
+South Carolina             25
+South Dakota               40
+Tennessee                  28
+Texas                      20
+Utah                       19
+Virginia                   18
+Washington                 31
+West Virginia              18
+Wisconsin                  44
+Wyoming                    17

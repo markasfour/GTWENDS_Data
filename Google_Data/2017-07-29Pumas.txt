@@ -1,0 +1,53 @@
+                      Pumas
+geoName                    
+Alabama                  53
+Alaska                   12
+Arizona                  59
+Arkansas                 43
+California               99
+Colorado                 39
+Connecticut              35
+Delaware                 66
+District of Columbia     73
+Florida                  52
+Georgia                  83
+Hawaii                   14
+Idaho                    26
+Illinois                 76
+Indiana                  38
+Iowa                     22
+Kansas                   36
+Kentucky                 25
+Louisiana                85
+Maine                     8
+Maryland                 60
+Massachusetts            27
+Michigan                 39
+Minnesota                23
+Mississippi              69
+Missouri                 40
+Montana                   7
+Nebraska                 29
+Nevada                   86
+New Hampshire            11
+New Jersey               46
+New Mexico               38
+New York                 52
+North Carolina           59
+North Dakota             16
+Ohio                     25
+Oklahoma                 28
+Oregon                   45
+Pennsylvania             40
+Rhode Island             21
+South Carolina           62
+South Dakota             15
+Tennessee                39
+Texas                   100
+Utah                     30
+Vermont                  10
+Virginia                 43
+Washington               42
+West Virginia            13
+Wisconsin                30
+Wyoming                  16

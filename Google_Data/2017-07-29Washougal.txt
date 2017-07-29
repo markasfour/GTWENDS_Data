@@ -1,0 +1,42 @@
+                      Washougal
+geoName                        
+Alabama                       0
+Alaska                        4
+Arizona                       2
+California                    2
+Colorado                      2
+Connecticut                   0
+District of Columbia          1
+Florida                       0
+Georgia                       1
+Hawaii                        2
+Idaho                         8
+Illinois                      1
+Indiana                       0
+Iowa                          1
+Kansas                        1
+Kentucky                      1
+Louisiana                     0
+Maryland                      0
+Massachusetts                 0
+Michigan                      0
+Minnesota                     1
+Missouri                      1
+Montana                       5
+Nebraska                      1
+Nevada                        2
+New Jersey                    0
+New Mexico                    1
+New York                      0
+North Carolina                0
+Ohio                          0
+Oklahoma                      0
+Oregon                       61
+Pennsylvania                  0
+South Carolina                1
+Tennessee                     1
+Texas                         1
+Utah                          3
+Virginia                      0
+Washington                  100
+Wisconsin                     1

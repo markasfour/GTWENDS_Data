@@ -1,0 +1,30 @@
+                      Model3
+geoName                     
+Arizona                   40
+California                78
+Colorado                  38
+Connecticut               42
+District of Columbia      32
+Florida                   33
+Georgia                   35
+Hawaii                   100
+Illinois                  36
+Indiana                   30
+Maryland                  30
+Massachusetts             50
+Michigan                  28
+Minnesota                 19
+Missouri                  18
+Nevada                    29
+New Jersey                45
+New York                  38
+North Carolina            25
+Ohio                      36
+Oregon                    40
+Pennsylvania              28
+Tennessee                 12
+Texas                     27
+Utah                      25
+Virginia                  22
+Washington                62
+Wisconsin                 26

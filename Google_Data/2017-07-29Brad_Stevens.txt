@@ -1,0 +1,53 @@
+                      Brad Stevens
+geoName                           
+Alabama                         15
+Alaska                          15
+Arizona                         12
+Arkansas                        15
+California                      14
+Colorado                        12
+Connecticut                     27
+Delaware                        14
+District of Columbia            19
+Florida                         13
+Georgia                         15
+Hawaii                          13
+Idaho                           12
+Illinois                        25
+Indiana                        100
+Iowa                            19
+Kansas                          21
+Kentucky                        29
+Louisiana                       12
+Maine                           46
+Maryland                        16
+Massachusetts                   83
+Michigan                        16
+Minnesota                       17
+Mississippi                     13
+Missouri                        19
+Montana                         18
+Nebraska                        19
+Nevada                          13
+New Hampshire                   62
+New Jersey                      17
+New Mexico                      11
+New York                        19
+North Carolina                  19
+North Dakota                    16
+Ohio                            24
+Oklahoma                        14
+Oregon                          12
+Pennsylvania                    16
+Rhode Island                    59
+South Carolina                  15
+South Dakota                    18
+Tennessee                       20
+Texas                           12
+Utah                            15
+Vermont                         32
+Virginia                        15
+Washington                      13
+West Virginia                   19
+Wisconsin                       19
+Wyoming                          9

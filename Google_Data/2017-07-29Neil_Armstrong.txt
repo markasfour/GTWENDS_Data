@@ -1,0 +1,53 @@
+                      Neil Armstrong
+geoName                             
+Alabama                           57
+Alaska                            56
+Arizona                           60
+Arkansas                          63
+California                        61
+Colorado                          59
+Connecticut                       58
+Delaware                          56
+District of Columbia              54
+Florida                           63
+Georgia                           55
+Hawaii                            53
+Idaho                             60
+Illinois                          65
+Indiana                           93
+Iowa                              77
+Kansas                            57
+Kentucky                          54
+Louisiana                         59
+Maine                             62
+Maryland                          56
+Massachusetts                     56
+Michigan                          54
+Minnesota                         62
+Mississippi                       55
+Missouri                          63
+Montana                           56
+Nebraska                          58
+Nevada                            53
+New Hampshire                     59
+New Jersey                        59
+New Mexico                        58
+New York                          48
+North Carolina                    56
+North Dakota                      54
+Ohio                             100
+Oklahoma                          51
+Oregon                            51
+Pennsylvania                      62
+Rhode Island                      52
+South Carolina                    52
+South Dakota                      64
+Tennessee                         48
+Texas                             58
+Utah                              89
+Vermont                           58
+Virginia                          49
+Washington                        52
+West Virginia                     65
+Wisconsin                         61
+Wyoming                           60

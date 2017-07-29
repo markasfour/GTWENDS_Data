@@ -1,0 +1,53 @@
+                      UFC 214
+geoName                      
+Alabama                    30
+Alaska                     42
+Arizona                    58
+Arkansas                   37
+California                 90
+Colorado                   42
+Connecticut                30
+Delaware                   46
+District of Columbia       28
+Florida                    36
+Georgia                    24
+Hawaii                     69
+Idaho                      42
+Illinois                   33
+Indiana                    44
+Iowa                       40
+Kansas                     28
+Kentucky                   26
+Louisiana                  35
+Maine                      29
+Maryland                   31
+Massachusetts              32
+Michigan                   32
+Minnesota                  27
+Mississippi                44
+Missouri                   35
+Montana                    39
+Nebraska                   43
+Nevada                     80
+New Hampshire              21
+New Jersey                 41
+New Mexico                100
+New York                   32
+North Carolina             28
+North Dakota               36
+Ohio                       33
+Oklahoma                   32
+Oregon                     28
+Pennsylvania               33
+Rhode Island               33
+South Carolina             33
+South Dakota                6
+Tennessee                  31
+Texas                      41
+Utah                       31
+Vermont                    27
+Virginia                   23
+Washington                 44
+West Virginia              36
+Wisconsin                  26
+Wyoming                    18
