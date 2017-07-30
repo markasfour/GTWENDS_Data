@@ -1,0 +1,53 @@
+                      Trump Twitter
+geoName                            
+Alabama                          48
+Alaska                           40
+Arizona                          54
+Arkansas                         45
+California                       65
+Colorado                         59
+Connecticut                      83
+Delaware                         68
+District of Columbia            100
+Florida                          59
+Georgia                          47
+Hawaii                           40
+Idaho                            43
+Illinois                         66
+Indiana                          55
+Iowa                             55
+Kansas                           38
+Kentucky                         43
+Louisiana                        42
+Maine                            65
+Maryland                         82
+Massachusetts                    85
+Michigan                         59
+Minnesota                        59
+Mississippi                      32
+Missouri                         49
+Montana                          53
+Nebraska                         53
+Nevada                           58
+New Hampshire                    74
+New Jersey                       80
+New Mexico                       50
+New York                         84
+North Carolina                   55
+North Dakota                     44
+Ohio                             59
+Oklahoma                         38
+Oregon                           57
+Pennsylvania                     72
+Rhode Island                     77
+South Carolina                   50
+South Dakota                     46
+Tennessee                        52
+Texas                            44
+Utah                             47
+Vermont                          75
+Virginia                         55
+Washington                       72
+West Virginia                    50
+Wisconsin                        49
+Wyoming                          47

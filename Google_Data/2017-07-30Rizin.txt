@@ -1,0 +1,49 @@
+                      Rizin
+geoName                    
+Alabama                  30
+Alaska                   23
+Arizona                  34
+Arkansas                 19
+California               58
+Colorado                 42
+Connecticut              39
+District of Columbia     28
+Florida                  34
+Georgia                  31
+Hawaii                  100
+Idaho                     9
+Illinois                 33
+Indiana                  31
+Iowa                     29
+Kansas                   24
+Kentucky                 38
+Louisiana                26
+Maine                    35
+Maryland                 31
+Massachusetts            36
+Michigan                 41
+Minnesota                21
+Mississippi              25
+Missouri                 33
+Montana                  65
+Nebraska                 25
+Nevada                   66
+New Hampshire            21
+New Jersey               46
+New Mexico               49
+New York                 41
+North Carolina           32
+Ohio                     36
+Oklahoma                 33
+Oregon                   36
+Pennsylvania             28
+Rhode Island             24
+South Carolina           35
+South Dakota             56
+Tennessee                28
+Texas                    35
+Utah                     27
+Virginia                 29
+Washington               42
+West Virginia            44
+Wisconsin                23

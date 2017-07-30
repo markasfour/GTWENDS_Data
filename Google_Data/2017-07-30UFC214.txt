@@ -1,0 +1,35 @@
+                      UFC214
+geoName                     
+Alabama                   12
+Arizona                   27
+Arkansas                  43
+California                19
+Colorado                  13
+District of Columbia      10
+Florida                    7
+Georgia                    5
+Hawaii                   100
+Idaho                     30
+Illinois                  10
+Indiana                    8
+Maryland                  13
+Massachusetts              6
+Michigan                  10
+Minnesota                  6
+Missouri                   7
+Nebraska                  21
+Nevada                    14
+New Jersey                16
+New York                   8
+North Carolina             8
+Ohio                       6
+Oklahoma                  12
+Oregon                    21
+Pennsylvania               9
+Tennessee                 16
+Texas                      5
+Utah                      27
+Virginia                   3
+Washington                14
+West Virginia             34
+Wisconsin                 11
