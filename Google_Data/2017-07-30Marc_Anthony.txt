@@ -1,53 +1,53 @@
                       Marc Anthony
 geoName                           
-Alabama                         15
-Alaska                          12
+Alabama                         14
+Alaska                          14
 Arizona                         31
 Arkansas                        15
 California                      40
 Colorado                        21
-Connecticut                     55
-Delaware                        29
-District of Columbia            44
+Connecticut                     54
+Delaware                        31
+District of Columbia            43
 Florida                        100
-Georgia                         34
+Georgia                         35
 Hawaii                          19
 Idaho                           11
-Illinois                        36
-Indiana                         17
+Illinois                        35
+Indiana                         18
 Iowa                            13
-Kansas                          19
+Kansas                          18
 Kentucky                        18
 Louisiana                       21
 Maine                           10
 Maryland                        29
-Massachusetts                   48
+Massachusetts                   47
 Michigan                        19
-Minnesota                       15
-Mississippi                     17
-Missouri                        15
+Minnesota                       16
+Mississippi                     16
+Missouri                        14
 Montana                         10
 Nebraska                        15
 Nevada                          41
 New Hampshire                   19
-New Jersey                      74
-New Mexico                      24
-New York                        75
+New Jersey                      75
+New Mexico                      25
+New York                        77
 North Carolina                  22
-North Dakota                    10
-Ohio                            16
-Oklahoma                        29
-Oregon                          33
-Pennsylvania                    33
+North Dakota                    11
+Ohio                            17
+Oklahoma                        31
+Oregon                          34
+Pennsylvania                    34
 Rhode Island                    46
 South Carolina                  19
 South Dakota                    11
 Tennessee                       16
 Texas                           40
-Utah                            18
+Utah                            19
 Vermont                         13
-Virginia                        29
+Virginia                        28
 Washington                      17
-West Virginia                   12
+West Virginia                   13
 Wisconsin                       17
-Wyoming                         11
+Wyoming                         12

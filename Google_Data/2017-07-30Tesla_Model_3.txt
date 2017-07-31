@@ -1,53 +1,53 @@
                       Tesla Model 3
 geoName                            
-Alabama                          28
-Alaska                           25
-Arizona                          55
-Arkansas                         23
+Alabama                          26
+Alaska                           27
+Arizona                          59
+Arkansas                         25
 California                      100
-Colorado                         53
-Connecticut                      52
-Delaware                         45
-District of Columbia             53
+Colorado                         57
+Connecticut                      51
+Delaware                         48
+District of Columbia             54
 Florida                          45
-Georgia                          37
-Hawaii                           60
+Georgia                          39
+Hawaii                           62
 Idaho                            31
-Illinois                         48
+Illinois                         49
 Indiana                          36
-Iowa                             29
-Kansas                           28
-Kentucky                         24
-Louisiana                        22
-Maine                            29
-Maryland                         52
-Massachusetts                    45
-Michigan                         34
-Minnesota                        44
-Mississippi                      15
+Iowa                             30
+Kansas                           29
+Kentucky                         25
+Louisiana                        23
+Maine                            28
+Maryland                         55
+Massachusetts                    46
+Michigan                         36
+Minnesota                        45
+Mississippi                      16
 Missouri                         35
-Montana                          20
-Nebraska                         34
-Nevada                           60
-New Hampshire                    38
-New Jersey                       49
-New Mexico                       29
-New York                         38
-North Carolina                   35
-North Dakota                     21
-Ohio                             40
-Oklahoma                         24
-Oregon                           45
+Montana                          24
+Nebraska                         32
+Nevada                           61
+New Hampshire                    41
+New Jersey                       47
+New Mexico                       30
+New York                         39
+North Carolina                   37
+North Dakota                     20
+Ohio                             41
+Oklahoma                         25
+Oregon                           46
 Pennsylvania                     36
 Rhode Island                     37
 South Carolina                   29
-South Dakota                     21
-Tennessee                        31
+South Dakota                     22
+Tennessee                        32
 Texas                            40
 Utah                             67
-Vermont                          40
+Vermont                          42
 Virginia                         36
-Washington                       73
+Washington                       74
 West Virginia                    19
-Wisconsin                        32
-Wyoming                          27
+Wisconsin                        34
+Wyoming                          30

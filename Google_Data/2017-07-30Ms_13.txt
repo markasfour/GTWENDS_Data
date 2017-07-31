@@ -3,17 +3,17 @@ geoName
 Alabama                   8
 Alaska                    5
 Arizona                   9
-Arkansas                  8
+Arkansas                  9
 California               11
 Colorado                  8
 Connecticut               7
 Delaware                  8
 District of Columbia     19
-Florida                   8
+Florida                   7
 Georgia                   9
-Hawaii                    7
+Hawaii                    8
 Idaho                     7
-Illinois                  6
+Illinois                  7
 Indiana                   6
 Iowa                      6
 Kansas                    7
@@ -25,29 +25,29 @@ Massachusetts            10
 Michigan                  6
 Minnesota                 6
 Mississippi             100
-Missouri                  6
+Missouri                  7
 Montana                   5
 Nebraska                  8
 Nevada                   11
-New Hampshire             6
-New Jersey               10
-New Mexico                8
-New York                 13
+New Hampshire             7
+New Jersey               11
+New Mexico                7
+New York                 14
 North Carolina            9
-North Dakota              6
+North Dakota              7
 Ohio                      6
 Oklahoma                  6
 Oregon                    6
-Pennsylvania              7
-Rhode Island              8
+Pennsylvania              6
+Rhode Island             10
 South Carolina            7
-South Dakota              7
+South Dakota              6
 Tennessee                11
 Texas                    11
-Utah                      6
-Vermont                   5
-Virginia                 13
+Utah                      7
+Vermont                   7
+Virginia                 14
 Washington                7
-West Virginia             8
-Wisconsin                 5
-Wyoming                   8
+West Virginia             6
+Wisconsin                 6
+Wyoming                   9

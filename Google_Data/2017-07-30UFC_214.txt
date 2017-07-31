@@ -1,53 +1,53 @@
                       UFC 214
 geoName                      
-Alabama                    33
-Alaska                     19
-Arizona                    59
-Arkansas                   30
-California                 91
-Colorado                   44
-Connecticut                36
-Delaware                   45
-District of Columbia       29
-Florida                    34
-Georgia                    27
-Hawaii                     75
-Idaho                      50
-Illinois                   35
-Indiana                    40
-Iowa                       42
-Kansas                     23
-Kentucky                   25
-Louisiana                  33
-Maine                      34
-Maryland                   31
-Massachusetts              34
-Michigan                   34
-Minnesota                  29
-Mississippi                39
-Missouri                   37
-Montana                    36
-Nebraska                   43
-Nevada                     89
-New Hampshire              24
+Alabama                    34
+Alaska                     33
+Arizona                    56
+Arkansas                   33
+California                 92
+Colorado                   50
+Connecticut                41
+Delaware                   26
+District of Columbia       38
+Florida                    37
+Georgia                    26
+Hawaii                     72
+Idaho                      48
+Illinois                   34
+Indiana                    43
+Iowa                       28
+Kansas                     26
+Kentucky                   22
+Louisiana                  37
+Maine                      25
+Maryland                   32
+Massachusetts              27
+Michigan                   31
+Minnesota                  31
+Mississippi                41
+Missouri                   36
+Montana                    34
+Nebraska                   44
+Nevada                     73
+New Hampshire              29
 New Jersey                 40
 New Mexico                100
 New York                   34
 North Carolina             32
-North Dakota               54
-Ohio                       43
-Oklahoma                   47
-Oregon                     33
-Pennsylvania               37
-Rhode Island               44
-South Carolina             33
-South Dakota               17
-Tennessee                  32
-Texas                      39
-Utah                       35
-Vermont                    28
-Virginia                   23
-Washington                 44
+North Dakota               59
+Ohio                       35
+Oklahoma                   39
+Oregon                     25
+Pennsylvania               35
+Rhode Island               49
+South Carolina             27
+South Dakota               25
+Tennessee                  30
+Texas                      42
+Utah                       44
+Vermont                    15
+Virginia                   21
+Washington                 40
 West Virginia              43
-Wisconsin                  32
-Wyoming                    21
+Wisconsin                  29
+Wyoming                    33

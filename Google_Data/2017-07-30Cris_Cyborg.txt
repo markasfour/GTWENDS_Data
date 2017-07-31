@@ -1,53 +1,53 @@
                       Cris Cyborg
 geoName                          
-Alabama                        49
-Alaska                         76
-Arizona                        82
-Arkansas                       62
-California                     80
-Colorado                       64
-Connecticut                    55
-Delaware                       50
-District of Columbia           63
-Florida                        58
-Georgia                        56
-Hawaii                         89
-Idaho                          57
-Illinois                       54
-Indiana                        56
-Iowa                           43
-Kansas                         50
-Kentucky                       64
-Louisiana                      60
-Maine                          48
-Maryland                       57
-Massachusetts                  49
-Michigan                       56
-Minnesota                      40
-Mississippi                    58
-Missouri                       55
-Montana                        52
-Nebraska                       68
-Nevada                         93
-New Hampshire                  48
-New Jersey                     56
+Alabama                        46
+Alaska                         48
+Arizona                        68
+Arkansas                       42
+California                     70
+Colorado                       57
+Connecticut                    51
+Delaware                       54
+District of Columbia           55
+Florida                        50
+Georgia                        49
+Hawaii                         79
+Idaho                          41
+Illinois                       48
+Indiana                        47
+Iowa                           40
+Kansas                         47
+Kentucky                       51
+Louisiana                      52
+Maine                          40
+Maryland                       48
+Massachusetts                  43
+Michigan                       48
+Minnesota                      39
+Mississippi                    48
+Missouri                       43
+Montana                        59
+Nebraska                       56
+Nevada                         86
+New Hampshire                  40
+New Jersey                     54
 New Mexico                    100
-New York                       52
-North Carolina                 53
-North Dakota                   88
-Ohio                           60
-Oklahoma                       71
-Oregon                         43
-Pennsylvania                   51
-Rhode Island                   55
-South Carolina                 64
-South Dakota                   50
-Tennessee                      59
-Texas                          76
-Utah                           54
-Vermont                        28
-Virginia                       47
-Washington                     57
-West Virginia                  64
-Wisconsin                      43
-Wyoming                        68
+New York                       48
+North Carolina                 45
+North Dakota                   75
+Ohio                           50
+Oklahoma                       65
+Oregon                         33
+Pennsylvania                   46
+Rhode Island                   47
+South Carolina                 59
+South Dakota                   35
+Tennessee                      50
+Texas                          65
+Utah                           49
+Vermont                        20
+Virginia                       43
+Washington                     49
+West Virginia                  56
+Wisconsin                      37
+Wyoming                        70

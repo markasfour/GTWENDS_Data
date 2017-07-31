@@ -1,53 +1,53 @@
                       Charlie Gard
 geoName                           
-Alabama                         72
-Alaska                          57
-Arizona                         69
-Arkansas                        63
-California                      52
-Colorado                        79
-Connecticut                     83
-Delaware                        61
-District of Columbia            86
-Florida                         68
-Georgia                         53
-Hawaii                          68
-Idaho                           84
-Illinois                        64
-Indiana                         85
-Iowa                            59
-Kansas                          61
-Kentucky                        68
-Louisiana                       55
-Maine                           99
-Maryland                        85
-Massachusetts                   74
-Michigan                        67
-Minnesota                       73
-Mississippi                     57
-Missouri                        64
-Montana                        100
-Nebraska                        76
-Nevada                          47
-New Hampshire                   74
-New Jersey                      86
-New Mexico                      73
-New York                        71
-North Carolina                  65
-North Dakota                    41
-Ohio                            86
-Oklahoma                        55
-Oregon                          54
-Pennsylvania                    83
-Rhode Island                    98
-South Carolina                  68
-South Dakota                    79
-Tennessee                       80
-Texas                           57
-Utah                            60
-Vermont                         76
-Virginia                        65
-Washington                      63
-West Virginia                   80
-Wisconsin                       68
-Wyoming                         72
+Alabama                         56
+Alaska                          60
+Arizona                         52
+Arkansas                        50
+California                      44
+Colorado                        62
+Connecticut                     65
+Delaware                        63
+District of Columbia            77
+Florida                         56
+Georgia                         49
+Hawaii                          44
+Idaho                           54
+Illinois                        56
+Indiana                         68
+Iowa                            49
+Kansas                          49
+Kentucky                        50
+Louisiana                       42
+Maine                           62
+Maryland                        69
+Massachusetts                   60
+Michigan                        59
+Minnesota                       59
+Mississippi                     45
+Missouri                        54
+Montana                         79
+Nebraska                        67
+Nevada                          43
+New Hampshire                   62
+New Jersey                      70
+New Mexico                      54
+New York                        55
+North Carolina                  62
+North Dakota                    37
+Ohio                            66
+Oklahoma                        47
+Oregon                          45
+Pennsylvania                    67
+Rhode Island                   100
+South Carolina                  57
+South Dakota                    61
+Tennessee                       63
+Texas                           47
+Utah                            49
+Vermont                         63
+Virginia                        53
+Washington                      48
+West Virginia                   69
+Wisconsin                       60
+Wyoming                         63

@@ -1,53 +1,53 @@
                       Adrien Broner
 geoName                            
-Alabama                          44
-Alaska                           20
-Arizona                          46
-Arkansas                         30
+Alabama                          46
+Alaska                           23
+Arizona                          45
+Arkansas                         29
 California                       55
-Colorado                         32
-Connecticut                      41
-Delaware                         75
-District of Columbia             89
-Florida                          55
-Georgia                          72
-Hawaii                           36
-Idaho                            11
+Colorado                         35
+Connecticut                      44
+Delaware                         68
+District of Columbia             92
+Florida                          52
+Georgia                          70
+Hawaii                           38
+Idaho                            12
 Illinois                         51
-Indiana                          34
-Iowa                             18
+Indiana                          33
+Iowa                             19
 Kansas                           33
-Kentucky                         45
-Louisiana                        66
-Maine                            12
+Kentucky                         49
+Louisiana                        64
+Maine                            13
 Maryland                        100
-Massachusetts                    40
-Michigan                         64
+Massachusetts                    39
+Michigan                         65
 Minnesota                        30
-Mississippi                      49
+Mississippi                      51
 Missouri                         45
-Montana                          13
-Nebraska                         26
-Nevada                           87
-New Hampshire                    16
-New Jersey                       68
-New Mexico                       32
+Montana                          12
+Nebraska                         23
+Nevada                           80
+New Hampshire                    14
+New Jersey                       70
+New Mexico                       35
 New York                         72
-North Carolina                   47
-North Dakota                     15
+North Carolina                   48
+North Dakota                     21
 Ohio                             91
-Oklahoma                         35
+Oklahoma                         36
 Oregon                           15
-Pennsylvania                     64
-Rhode Island                     42
-South Carolina                   43
-South Dakota                     10
-Tennessee                        41
+Pennsylvania                     63
+Rhode Island                     41
+South Carolina                   45
+South Dakota                     12
+Tennessee                        39
 Texas                            63
-Utah                             15
-Vermont                          17
-Virginia                         54
-Washington                       29
+Utah                             14
+Vermont                          14
+Virginia                         56
+Washington                       28
 West Virginia                    23
 Wisconsin                        24
 Wyoming                          12

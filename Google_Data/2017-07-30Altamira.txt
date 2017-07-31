@@ -1,0 +1,50 @@
+                      Altamira
+geoName                       
+Alabama                     24
+Arizona                     47
+Arkansas                    34
+California                  49
+Colorado                    83
+Connecticut                 39
+Delaware                    60
+District of Columbia        35
+Florida                     80
+Georgia                     40
+Hawaii                      27
+Idaho                       26
+Illinois                    30
+Indiana                     32
+Iowa                        20
+Kansas                      45
+Kentucky                    19
+Louisiana                   31
+Maine                       23
+Maryland                    34
+Massachusetts               30
+Michigan                    23
+Minnesota                   25
+Mississippi                 18
+Missouri                    20
+Montana                     21
+Nebraska                    16
+Nevada                      36
+New Hampshire               18
+New Jersey                  34
+New Mexico                  60
+New York                    44
+North Carolina              31
+Ohio                        30
+Oklahoma                    38
+Oregon                      96
+Pennsylvania                24
+Rhode Island                28
+South Carolina              24
+Tennessee                   26
+Texas                       79
+Utah                        43
+Vermont                     35
+Virginia                    57
+Washington                  40
+West Virginia               26
+Wisconsin                   21
+Wyoming                    100
