@@ -1,0 +1,53 @@
+                      Venezuela
+geoName                        
+Alabama                      10
+Alaska                       10
+Arizona                      13
+Arkansas                     26
+California                   17
+Colorado                     14
+Connecticut                  27
+Delaware                     17
+District of Columbia         38
+Florida                      88
+Georgia                      21
+Hawaii                        9
+Idaho                        11
+Illinois                     15
+Indiana                      18
+Iowa                         10
+Kansas                       18
+Kentucky                     10
+Louisiana                    14
+Maine                         9
+Maryland                     18
+Massachusetts                19
+Michigan                     14
+Minnesota                    15
+Mississippi                  10
+Missouri                     13
+Montana                       9
+Nebraska                     10
+Nevada                       15
+New Hampshire                11
+New Jersey                   25
+New Mexico                   14
+New York                     48
+North Carolina               15
+North Dakota                  9
+Ohio                         16
+Oklahoma                     16
+Oregon                      100
+Pennsylvania                 15
+Rhode Island                 16
+South Carolina               12
+South Dakota                  8
+Tennessee                    11
+Texas                        26
+Utah                         18
+Vermont                      11
+Virginia                     17
+Washington                   11
+West Virginia                10
+Wisconsin                    13
+Wyoming                      10

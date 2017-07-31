@@ -1,0 +1,13 @@
+               RickandMorty
+geoName                    
+California              100
+Florida                  48
+Illinois                 60
+Massachusetts            83
+Michigan                 97
+New Jersey               57
+New York                 77
+Ohio                     88
+Pennsylvania             56
+Texas                    57
+Virginia                 90

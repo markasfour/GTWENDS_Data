@@ -1,0 +1,53 @@
+                      Chávez
+geoName                     
+Alabama                   17
+Alaska                    15
+Arizona                   88
+Arkansas                  23
+California                88
+Colorado                  50
+Connecticut               44
+Delaware                  37
+District of Columbia      57
+Florida                   61
+Georgia                   51
+Hawaii                    12
+Idaho                     33
+Illinois                  46
+Indiana                   27
+Iowa                      28
+Kansas                    40
+Kentucky                  22
+Louisiana                 29
+Maine                     12
+Maryland                  33
+Massachusetts             29
+Michigan                  27
+Minnesota                 26
+Mississippi               14
+Missouri                  17
+Montana                   17
+Nebraska                  22
+Nevada                    59
+New Hampshire             23
+New Jersey                34
+New Mexico               100
+New York                  44
+North Carolina            32
+North Dakota              16
+Ohio                      22
+Oklahoma                  35
+Oregon                    81
+Pennsylvania              20
+Rhode Island              12
+South Carolina            27
+South Dakota              16
+Tennessee                 26
+Texas                     99
+Utah                      33
+Vermont                   14
+Virginia                  47
+Washington                39
+West Virginia             19
+Wisconsin                 27
+Wyoming                   16
