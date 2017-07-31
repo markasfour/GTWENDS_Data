@@ -1,0 +1,53 @@
+                      Britton
+geoName                      
+Alabama                    12
+Alaska                      6
+Arizona                     7
+Arkansas                   10
+California                  8
+Colorado                   10
+Connecticut                 9
+Delaware                    9
+District of Columbia       12
+Florida                    12
+Georgia                     9
+Hawaii                      5
+Idaho                       7
+Illinois                   10
+Indiana                    19
+Iowa                        9
+Kansas                      9
+Kentucky                   15
+Louisiana                   9
+Maine                      10
+Maryland                   11
+Massachusetts              12
+Michigan                   13
+Minnesota                  11
+Mississippi                12
+Missouri                   11
+Montana                     8
+Nebraska                   10
+Nevada                      7
+New Hampshire              12
+New Jersey                  9
+New Mexico                  8
+New York                   10
+North Carolina             10
+North Dakota               25
+Ohio                       16
+Oklahoma                   42
+Oregon                      8
+Pennsylvania               10
+Rhode Island                9
+South Carolina             10
+South Dakota              100
+Tennessee                  14
+Texas                      10
+Utah                       11
+Vermont                    11
+Virginia                    8
+Washington                  8
+West Virginia              11
+Wisconsin                   8
+Wyoming                     7

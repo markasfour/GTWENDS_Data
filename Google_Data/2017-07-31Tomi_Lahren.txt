@@ -1,53 +1,53 @@
                       Tomi Lahren
 geoName                          
-Alabama                        39
+Alabama                        42
 Alaska                         37
-Arizona                        34
+Arizona                        35
 Arkansas                       35
-California                     34
-Colorado                       37
-Connecticut                    41
-Delaware                       43
-District of Columbia           46
-Florida                        33
-Georgia                        35
-Hawaii                         22
-Idaho                          37
-Illinois                       38
-Indiana                        42
-Iowa                           43
-Kansas                         33
+California                     36
+Colorado                       41
+Connecticut                    42
+Delaware                       50
+District of Columbia           49
+Florida                        34
+Georgia                        38
+Hawaii                         21
+Idaho                          39
+Illinois                       40
+Indiana                        44
+Iowa                           45
+Kansas                         35
 Kentucky                       34
 Louisiana                      44
-Maine                          27
+Maine                          30
 Maryland                       44
 Massachusetts                  37
-Michigan                       41
-Minnesota                      40
-Mississippi                    38
-Missouri                       38
+Michigan                       42
+Minnesota                      42
+Mississippi                    37
+Missouri                       39
 Montana                        44
-Nebraska                       50
-Nevada                         37
-New Hampshire                  32
-New Jersey                     40
-New Mexico                     29
-New York                       38
+Nebraska                       49
+Nevada                         40
+New Hampshire                  34
+New Jersey                     42
+New Mexico                     30
+New York                       40
 North Carolina                 39
-North Dakota                   62
-Ohio                           41
-Oklahoma                       36
-Oregon                         27
-Pennsylvania                   42
+North Dakota                   71
+Ohio                           42
+Oklahoma                       35
+Oregon                         28
+Pennsylvania                   44
 Rhode Island                   38
 South Carolina                 37
 South Dakota                  100
-Tennessee                      39
-Texas                          38
+Tennessee                      40
+Texas                          39
 Utah                           39
-Vermont                        35
-Virginia                       32
-Washington                     35
-West Virginia                  40
-Wisconsin                      36
-Wyoming                        45
+Vermont                        34
+Virginia                       33
+Washington                     36
+West Virginia                  41
+Wisconsin                      37
+Wyoming                        47

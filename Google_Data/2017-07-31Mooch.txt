@@ -1,0 +1,53 @@
+                      Mooch
+geoName                    
+Alabama                  12
+Alaska                   19
+Arizona                  14
+Arkansas                 14
+California               16
+Colorado                 13
+Connecticut              17
+Delaware                 18
+District of Columbia     16
+Florida                  13
+Georgia                  17
+Hawaii                   12
+Idaho                    15
+Illinois                 15
+Indiana                  14
+Iowa                     15
+Kansas                   13
+Kentucky                 11
+Louisiana                14
+Maine                    17
+Maryland                 14
+Massachusetts            17
+Michigan                 15
+Minnesota                15
+Mississippi              13
+Missouri                 17
+Montana                  10
+Nebraska                 11
+Nevada                   12
+New Hampshire            14
+New Jersey               17
+New Mexico               15
+New York                 16
+North Carolina          100
+North Dakota             10
+Ohio                     14
+Oklahoma                 12
+Oregon                   13
+Pennsylvania             17
+Rhode Island             19
+South Carolina           29
+South Dakota             10
+Tennessee                17
+Texas                    12
+Utah                     13
+Vermont                  18
+Virginia                 15
+Washington               16
+West Virginia            20
+Wisconsin                13
+Wyoming                   9

@@ -1,0 +1,53 @@
+                      Domino
+geoName                     
+Alabama                   64
+Alaska                    48
+Arizona                   57
+Arkansas                  66
+California                65
+Colorado                  56
+Connecticut               65
+Delaware                  70
+District of Columbia      76
+Florida                   74
+Georgia                   69
+Hawaii                    58
+Idaho                     56
+Illinois                  59
+Indiana                   56
+Iowa                      56
+Kansas                    61
+Kentucky                  59
+Louisiana                100
+Maine                     56
+Maryland                  76
+Massachusetts             76
+Michigan                  69
+Minnesota                 65
+Mississippi               77
+Missouri                  62
+Montana                   46
+Nebraska                  52
+Nevada                    61
+New Hampshire             59
+New Jersey                79
+New Mexico                59
+New York                  88
+North Carolina            67
+North Dakota              56
+Ohio                      59
+Oklahoma                  64
+Oregon                    61
+Pennsylvania              66
+Rhode Island              79
+South Carolina            64
+South Dakota              50
+Tennessee                 61
+Texas                     79
+Utah                      53
+Vermont                   62
+Virginia                  67
+Washington                62
+West Virginia             55
+Wisconsin                 55
+Wyoming                   58

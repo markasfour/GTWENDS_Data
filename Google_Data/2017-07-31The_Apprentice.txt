@@ -1,0 +1,53 @@
+                      The Apprentice
+geoName                             
+Alabama                           63
+Alaska                            75
+Arizona                           69
+Arkansas                          74
+California                        66
+Colorado                          66
+Connecticut                       70
+Delaware                          64
+District of Columbia              59
+Florida                           64
+Georgia                           58
+Hawaii                            66
+Idaho                            100
+Illinois                          68
+Indiana                           80
+Iowa                              78
+Kansas                            68
+Kentucky                          68
+Louisiana                         60
+Maine                             81
+Maryland                          72
+Massachusetts                     67
+Michigan                          69
+Minnesota                         66
+Mississippi                       65
+Missouri                          73
+Montana                           67
+Nebraska                          69
+Nevada                            74
+New Hampshire                     80
+New Jersey                        75
+New Mexico                        66
+New York                          71
+North Carolina                    63
+North Dakota                      76
+Ohio                              69
+Oklahoma                          71
+Oregon                            59
+Pennsylvania                      74
+Rhode Island                      83
+South Carolina                    69
+South Dakota                      83
+Tennessee                         65
+Texas                             57
+Utah                              94
+Vermont                           75
+Virginia                          69
+Washington                        73
+West Virginia                     76
+Wisconsin                         70
+Wyoming                           80

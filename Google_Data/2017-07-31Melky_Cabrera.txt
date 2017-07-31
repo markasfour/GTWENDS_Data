@@ -1,52 +1,52 @@
                       Melky Cabrera
 geoName                            
 Alabama                          20
-Alaska                           16
-Arizona                          31
-Arkansas                         14
+Alaska                           13
+Arizona                          37
+Arkansas                         13
 California                      100
-Colorado                         32
-Connecticut                      62
-Delaware                         41
-District of Columbia             51
-Florida                          34
-Georgia                          29
-Hawaii                           34
-Idaho                            18
-Illinois                         87
-Indiana                          36
-Iowa                             29
-Kansas                           43
-Kentucky                         22
-Louisiana                        20
-Maine                            26
-Maryland                         40
-Massachusetts                    54
-Michigan                         43
-Minnesota                        36
+Colorado                         34
+Connecticut                      69
+Delaware                         42
+District of Columbia             50
+Florida                          31
+Georgia                          32
+Hawaii                           25
+Idaho                            21
+Illinois                         89
+Indiana                          41
+Iowa                             36
+Kansas                           50
+Kentucky                         23
+Louisiana                        18
+Maine                            34
+Maryland                         36
+Massachusetts                    61
+Michigan                         48
+Minnesota                        31
 Mississippi                      16
-Missouri                         59
-Montana                          23
+Missouri                         61
+Montana                          26
 Nebraska                         30
-Nevada                           40
-New Hampshire                    38
-New Jersey                       72
+Nevada                           43
+New Hampshire                    36
+New Jersey                       76
 New Mexico                       19
-New York                         74
-North Carolina                   21
-North Dakota                     23
-Ohio                             35
-Oklahoma                         14
+New York                         77
+North Carolina                   23
+North Dakota                     22
+Ohio                             32
+Oklahoma                         15
 Oregon                           22
 Pennsylvania                     46
-Rhode Island                     40
+Rhode Island                     38
 South Carolina                   21
-South Dakota                      9
-Tennessee                        18
-Texas                            21
-Utah                             21
-Vermont                          41
-Virginia                         21
+South Dakota                     16
+Tennessee                        22
+Texas                            20
+Utah                             26
+Vermont                          28
+Virginia                         24
 Washington                       52
 West Virginia                    20
-Wisconsin                        31
+Wisconsin                        32

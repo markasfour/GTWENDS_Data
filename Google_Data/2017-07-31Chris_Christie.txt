@@ -1,18 +1,18 @@
                       Chris Christie
 geoName                             
-Alabama                           11
-Alaska                            12
+Alabama                           12
+Alaska                            11
 Arizona                           12
 Arkansas                          11
 California                        13
 Colorado                          14
 Connecticut                       25
-Delaware                          34
+Delaware                          33
 District of Columbia              36
 Florida                           14
-Georgia                           12
+Georgia                           13
 Hawaii                            10
-Idaho                             10
+Idaho                             11
 Illinois                          14
 Indiana                           13
 Iowa                              16
@@ -20,34 +20,34 @@ Kansas                            11
 Kentucky                          12
 Louisiana                         10
 Maine                             19
-Maryland                          21
-Massachusetts                     24
+Maryland                          22
+Massachusetts                     23
 Michigan                          13
-Minnesota                         14
+Minnesota                         13
 Mississippi                       10
 Missouri                          13
 Montana                           12
 Nebraska                          13
 Nevada                            12
-New Hampshire                     29
+New Hampshire                     28
 New Jersey                       100
-New Mexico                        11
-New York                          30
+New Mexico                        12
+New York                          29
 North Carolina                    15
 North Dakota                      11
 Ohio                              14
 Oklahoma                          11
 Oregon                            11
-Pennsylvania                      29
-Rhode Island                      22
+Pennsylvania                      28
+Rhode Island                      21
 South Carolina                    14
 South Dakota                      10
 Tennessee                         12
 Texas                             11
 Utah                              10
-Vermont                           24
+Vermont                           23
 Virginia                          17
 Washington                        14
 West Virginia                     13
 Wisconsin                         13
-Wyoming                            9
+Wyoming                           11

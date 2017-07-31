@@ -1,15 +1,15 @@
                       Venezuela
 geoName                        
 Alabama                      10
-Alaska                       10
+Alaska                       11
 Arizona                      13
 Arkansas                     26
 California                   17
 Colorado                     14
-Connecticut                  27
-Delaware                     17
-District of Columbia         38
-Florida                      88
+Connecticut                  28
+Delaware                     16
+District of Columbia         37
+Florida                      86
 Georgia                      21
 Hawaii                        9
 Idaho                        11
@@ -22,19 +22,19 @@ Louisiana                    14
 Maine                         9
 Maryland                     18
 Massachusetts                19
-Michigan                     14
+Michigan                     15
 Minnesota                    15
 Mississippi                  10
 Missouri                     13
-Montana                       9
+Montana                       8
 Nebraska                     10
-Nevada                       15
+Nevada                       16
 New Hampshire                11
 New Jersey                   25
 New Mexico                   14
 New York                     48
 North Carolina               15
-North Dakota                  9
+North Dakota                  8
 Ohio                         16
 Oklahoma                     16
 Oregon                      100
@@ -46,8 +46,8 @@ Tennessee                    11
 Texas                        26
 Utah                         18
 Vermont                      11
-Virginia                     17
+Virginia                     18
 Washington                   11
 West Virginia                10
-Wisconsin                    13
+Wisconsin                    12
 Wyoming                      10

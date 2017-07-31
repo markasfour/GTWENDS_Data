@@ -1,0 +1,53 @@
+                      Kris Humphries
+geoName                             
+Alabama                           52
+Alaska                            41
+Arizona                           66
+Arkansas                          41
+California                        72
+Colorado                          46
+Connecticut                       72
+Delaware                          54
+District of Columbia              80
+Florida                           61
+Georgia                           68
+Hawaii                            61
+Idaho                             35
+Illinois                          65
+Indiana                           47
+Iowa                              45
+Kansas                            46
+Kentucky                          46
+Louisiana                         62
+Maine                             49
+Maryland                          76
+Massachusetts                     92
+Michigan                          51
+Minnesota                        100
+Mississippi                       45
+Missouri                          46
+Montana                           39
+Nebraska                          48
+Nevada                            61
+New Hampshire                     63
+New Jersey                        82
+New Mexico                        49
+New York                          85
+North Carolina                    51
+North Dakota                      58
+Ohio                              52
+Oklahoma                          56
+Oregon                            39
+Pennsylvania                      58
+Rhode Island                      77
+South Carolina                    45
+South Dakota                      49
+Tennessee                         43
+Texas                             59
+Utah                              47
+Vermont                           58
+Virginia                          55
+Washington                        48
+West Virginia                     47
+Wisconsin                         44
+Wyoming                           34

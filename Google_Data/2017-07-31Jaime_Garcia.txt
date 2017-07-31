@@ -1,50 +1,51 @@
                       Jaime Garcia
 geoName                           
-Alabama                         11
+Alabama                         10
 Arizona                         16
 Arkansas                        18
-California                      16
-Colorado                        11
-Connecticut                     13
-Delaware                        11
-District of Columbia            17
+California                      15
+Colorado                        13
+Connecticut                     12
+Delaware                        14
+District of Columbia            15
 Florida                         17
 Georgia                         19
-Hawaii                          11
-Illinois                        31
-Indiana                         12
-Iowa                            20
-Kansas                          13
+Hawaii                          12
+Idaho                            4
+Illinois                        30
+Indiana                         14
+Iowa                            21
+Kansas                          17
 Kentucky                        10
 Louisiana                        7
-Maine                            6
-Maryland                        10
-Massachusetts                   11
+Maine                            8
+Maryland                         9
+Massachusetts                   10
 Michigan                         7
-Minnesota                       22
-Mississippi                      9
+Minnesota                       21
+Mississippi                     11
 Missouri                       100
-Montana                         11
-Nebraska                        13
-Nevada                          15
-New Hampshire                    8
-New Jersey                      14
-New Mexico                       9
+Montana                          4
+Nebraska                        16
+Nevada                          13
+New Hampshire                    6
+New Jersey                      13
+New Mexico                      10
 New York                        13
 North Carolina                   8
-North Dakota                    12
-Ohio                             7
+North Dakota                    15
+Ohio                             8
 Oklahoma                        11
-Oregon                           9
-Pennsylvania                     9
-Rhode Island                     9
+Oregon                          10
+Pennsylvania                    10
+Rhode Island                    14
 South Carolina                  10
-South Dakota                     9
-Tennessee                       13
-Texas                           24
+South Dakota                    13
+Tennessee                       14
+Texas                           23
 Utah                             7
-Vermont                          3
-Virginia                         8
-Washington                       9
-West Virginia                   11
-Wisconsin                       11
+Vermont                          4
+Virginia                         7
+Washington                       8
+West Virginia                    5
+Wisconsin                       10
