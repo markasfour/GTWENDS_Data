@@ -1,0 +1,15 @@
+                      SEBIN
+geoName                    
+California               11
+Connecticut              12
+District of Columbia     35
+Florida                  50
+Georgia                  11
+Indiana                  17
+Missouri                  7
+New York                 42
+Ohio                     16
+Oregon                  100
+Pennsylvania              9
+Texas                     9
+Virginia                 15

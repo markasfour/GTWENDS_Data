@@ -1,0 +1,51 @@
+                      Masika
+geoName                     
+Alabama                   65
+Alaska                    20
+Arizona                   41
+Arkansas                  41
+California                56
+Colorado                  26
+Connecticut               46
+Delaware                  80
+District of Columbia     100
+Florida                   61
+Georgia                   94
+Hawaii                    50
+Idaho                     10
+Illinois                  51
+Indiana                   37
+Iowa                      18
+Kansas                    30
+Kentucky                  42
+Louisiana                 81
+Maine                     10
+Maryland                  86
+Massachusetts             42
+Michigan                  48
+Minnesota                 24
+Mississippi               84
+Missouri                  40
+Montana                   10
+Nebraska                  25
+Nevada                    70
+New Hampshire             13
+New Jersey                69
+New Mexico                35
+New York                  74
+North Carolina            65
+North Dakota              16
+Ohio                      39
+Oklahoma                  40
+Oregon                    14
+Pennsylvania              49
+Rhode Island              55
+South Carolina            73
+South Dakota              10
+Tennessee                 48
+Texas                     54
+Utah                       9
+Virginia                  59
+Washington                25
+West Virginia             21
+Wisconsin                 23

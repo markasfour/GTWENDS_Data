@@ -1,0 +1,51 @@
+                      Baskin Robbins
+geoName                             
+Alabama                           28
+Alaska                            37
+Arizona                           67
+Arkansas                          39
+California                        95
+Colorado                          46
+Connecticut                       20
+Delaware                          16
+District of Columbia              45
+Florida                           31
+Georgia                           40
+Hawaii                           100
+Idaho                             51
+Illinois                          52
+Indiana                           29
+Iowa                              16
+Kansas                            43
+Kentucky                          52
+Louisiana                         78
+Maine                              5
+Maryland                          47
+Massachusetts                     13
+Michigan                          37
+Minnesota                         11
+Mississippi                       65
+Missouri                          47
+Montana                           37
+Nebraska                          19
+Nevada                            86
+New Hampshire                      7
+New Jersey                        25
+New Mexico                        78
+New York                          32
+North Carolina                    31
+Ohio                              21
+Oklahoma                          36
+Oregon                            48
+Pennsylvania                      18
+Rhode Island                       9
+South Carolina                    37
+Tennessee                         83
+Texas                             55
+Utah                              63
+Vermont                            5
+Virginia                          31
+Washington                        70
+West Virginia                     28
+Wisconsin                         19
+Wyoming                           24

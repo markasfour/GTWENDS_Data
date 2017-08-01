@@ -1,0 +1,53 @@
+                      Kimmel
+geoName                     
+Alabama                   32
+Alaska                    36
+Arizona                   49
+Arkansas                  36
+California                65
+Colorado                  44
+Connecticut               52
+Delaware                  87
+District of Columbia      59
+Florida                   37
+Georgia                   36
+Hawaii                    44
+Idaho                     44
+Illinois                  55
+Indiana                   45
+Iowa                      48
+Kansas                    41
+Kentucky                  40
+Louisiana                 34
+Maine                     41
+Maryland                  51
+Massachusetts             57
+Michigan                  44
+Minnesota                 49
+Mississippi               31
+Missouri                  43
+Montana                   45
+Nebraska                  66
+Nevada                    45
+New Hampshire             51
+New Jersey                69
+New Mexico                39
+New York                  64
+North Carolina            39
+North Dakota              43
+Ohio                      45
+Oklahoma                  43
+Oregon                    36
+Pennsylvania             100
+Rhode Island              48
+South Carolina            32
+South Dakota              41
+Tennessee                 40
+Texas                     45
+Utah                      53
+Vermont                   47
+Virginia                  37
+Washington                53
+West Virginia             34
+Wisconsin                 50
+Wyoming                   36

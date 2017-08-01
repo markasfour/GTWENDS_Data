@@ -1,0 +1,53 @@
+                      Steve Bartman
+geoName                            
+Alabama                          28
+Alaska                           19
+Arizona                          32
+Arkansas                         26
+California                       28
+Colorado                         28
+Connecticut                      32
+Delaware                         29
+District of Columbia             33
+Florida                          24
+Georgia                          25
+Hawaii                           18
+Idaho                            19
+Illinois                        100
+Indiana                          59
+Iowa                             75
+Kansas                           29
+Kentucky                         34
+Louisiana                        24
+Maine                            28
+Maryland                         26
+Massachusetts                    33
+Michigan                         35
+Minnesota                        35
+Mississippi                      22
+Missouri                         45
+Montana                          25
+Nebraska                         55
+Nevada                           31
+New Hampshire                    30
+New Jersey                       34
+New Mexico                       19
+New York                         32
+North Carolina                   23
+North Dakota                     43
+Ohio                             40
+Oklahoma                         28
+Oregon                           18
+Pennsylvania                     33
+Rhode Island                     33
+South Carolina                   27
+South Dakota                     34
+Tennessee                        29
+Texas                            24
+Utah                             25
+Vermont                          21
+Virginia                         22
+Washington                       24
+West Virginia                    27
+Wisconsin                        50
+Wyoming                          23

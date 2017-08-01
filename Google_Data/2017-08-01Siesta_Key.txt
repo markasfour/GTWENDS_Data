@@ -1,0 +1,53 @@
+                      Siesta Key
+geoName                         
+Alabama                        5
+Alaska                         2
+Arizona                        2
+Arkansas                       5
+California                     2
+Colorado                       6
+Connecticut                   12
+Delaware                      11
+District of Columbia           8
+Florida                      100
+Georgia                       13
+Hawaii                         1
+Idaho                          1
+Illinois                      13
+Indiana                       29
+Iowa                          10
+Kansas                         7
+Kentucky                      22
+Louisiana                      3
+Maine                         10
+Maryland                      10
+Massachusetts                 10
+Michigan                      16
+Minnesota                      9
+Mississippi                    3
+Missouri                       9
+Montana                        2
+Nebraska                       5
+Nevada                         2
+New Hampshire                 11
+New Jersey                     9
+New Mexico                     2
+New York                       8
+North Carolina                 8
+North Dakota                   4
+Ohio                          31
+Oklahoma                      13
+Oregon                         1
+Pennsylvania                  13
+Rhode Island                  13
+South Carolina                 9
+South Dakota                   3
+Tennessee                     11
+Texas                          4
+Utah                           2
+Vermont                       11
+Virginia                       7
+Washington                     2
+West Virginia                 16
+Wisconsin                     11
+Wyoming                        3

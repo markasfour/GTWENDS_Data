@@ -1,0 +1,53 @@
+                      Bob Barker
+geoName                         
+Alabama                       51
+Alaska                        44
+Arizona                       47
+Arkansas                      60
+California                    40
+Colorado                      51
+Connecticut                   51
+Delaware                      61
+District of Columbia          53
+Florida                       45
+Georgia                       52
+Hawaii                        31
+Idaho                         56
+Illinois                      56
+Indiana                       66
+Iowa                          64
+Kansas                        54
+Kentucky                      68
+Louisiana                     58
+Maine                         65
+Maryland                      47
+Massachusetts                 49
+Michigan                      69
+Minnesota                     65
+Mississippi                   53
+Missouri                      69
+Montana                       55
+Nebraska                      62
+Nevada                        52
+New Hampshire                 48
+New Jersey                    46
+New Mexico                    53
+New York                      45
+North Carolina                64
+North Dakota                  72
+Ohio                          70
+Oklahoma                      60
+Oregon                        37
+Pennsylvania                  61
+Rhode Island                  50
+South Carolina                51
+South Dakota                 100
+Tennessee                     63
+Texas                         43
+Utah                          48
+Vermont                       51
+Virginia                      42
+Washington                    55
+West Virginia                 65
+Wisconsin                     62
+Wyoming                       50

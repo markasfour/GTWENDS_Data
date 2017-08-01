@@ -1,0 +1,53 @@
+                      Preacher
+geoName                       
+Alabama                     94
+Alaska                      47
+Arizona                     42
+Arkansas                    82
+California                  40
+Colorado                    42
+Connecticut                 36
+Delaware                    50
+District of Columbia        47
+Florida                     49
+Georgia                     72
+Hawaii                      35
+Idaho                       43
+Illinois                    44
+Indiana                     57
+Iowa                        43
+Kansas                      46
+Kentucky                    81
+Louisiana                   72
+Maine                       40
+Maryland                    48
+Massachusetts               37
+Michigan                    46
+Minnesota                   40
+Mississippi                100
+Missouri                    57
+Montana                     47
+Nebraska                    42
+Nevada                      42
+New Hampshire               38
+New Jersey                  39
+New Mexico                  58
+New York                    39
+North Carolina              74
+North Dakota                46
+Ohio                        52
+Oklahoma                    71
+Oregon                      35
+Pennsylvania                47
+Rhode Island                38
+South Carolina              75
+South Dakota                47
+Tennessee                   90
+Texas                       57
+Utah                        37
+Vermont                     37
+Virginia                    49
+Washington                  44
+West Virginia               84
+Wisconsin                   39
+Wyoming                     42
