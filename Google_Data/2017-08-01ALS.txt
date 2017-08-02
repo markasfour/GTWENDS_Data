@@ -1,0 +1,53 @@
+                      ALS
+geoName                  
+Alabama                43
+Alaska                 45
+Arizona                40
+Arkansas               39
+California             36
+Colorado               44
+Connecticut            43
+Delaware               44
+District of Columbia   42
+Florida                40
+Georgia                39
+Hawaii                 47
+Idaho                 100
+Illinois               47
+Indiana                43
+Iowa                   41
+Kansas                 40
+Kentucky               45
+Louisiana              42
+Maine                  49
+Maryland               41
+Massachusetts          51
+Michigan               42
+Minnesota              45
+Mississippi            38
+Missouri               44
+Montana                48
+Nebraska               43
+Nevada                 41
+New Hampshire          50
+New Jersey             42
+New Mexico             37
+New York               42
+North Carolina         40
+North Dakota           44
+Ohio                   45
+Oklahoma               43
+Oregon                 45
+Pennsylvania           53
+Rhode Island           45
+South Carolina         36
+South Dakota           47
+Tennessee              39
+Texas                  37
+Utah                   45
+Vermont                56
+Virginia               38
+Washington             44
+West Virginia          55
+Wisconsin              51
+Wyoming                40

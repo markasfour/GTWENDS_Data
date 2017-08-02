@@ -1,0 +1,53 @@
+                      August
+geoName                     
+Alabama                   84
+Alaska                    72
+Arizona                   71
+Arkansas                  77
+California                82
+Colorado                  78
+Connecticut               90
+Delaware                  84
+District of Columbia      92
+Florida                   75
+Georgia                   86
+Hawaii                    87
+Idaho                     73
+Illinois                  86
+Indiana                   75
+Iowa                      74
+Kansas                    73
+Kentucky                  76
+Louisiana                100
+Maine                     87
+Maryland                  88
+Massachusetts             89
+Michigan                  83
+Minnesota                 79
+Mississippi               93
+Missouri                  84
+Montana                   72
+Nebraska                  74
+Nevada                    86
+New Hampshire             78
+New Jersey                93
+New Mexico                70
+New York                  97
+North Carolina            82
+North Dakota              69
+Ohio                      79
+Oklahoma                  74
+Oregon                    64
+Pennsylvania              87
+Rhode Island              90
+South Carolina            92
+South Dakota              69
+Tennessee                 83
+Texas                     74
+Utah                      74
+Vermont                   85
+Virginia                  79
+Washington                79
+West Virginia             71
+Wisconsin                 79
+Wyoming                   70

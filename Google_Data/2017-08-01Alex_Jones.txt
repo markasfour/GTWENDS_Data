@@ -1,53 +1,53 @@
                       Alex Jones
 geoName                         
 Alabama                       59
-Alaska                        94
-Arizona                       74
-Arkansas                      71
-California                    61
+Alaska                        92
+Arizona                       75
+Arkansas                      73
+California                    62
 Colorado                      72
-Connecticut                   67
+Connecticut                   62
 Delaware                      51
-District of Columbia          51
+District of Columbia          52
 Florida                       60
-Georgia                       53
-Hawaii                        65
-Idaho                         99
+Georgia                       54
+Hawaii                        67
+Idaho                        100
 Illinois                      59
-Indiana                       67
+Indiana                       66
 Iowa                          64
-Kansas                        62
-Kentucky                      63
-Louisiana                     62
-Maine                         71
+Kansas                        59
+Kentucky                      65
+Louisiana                     61
+Maine                         73
 Maryland                      55
-Massachusetts                 57
-Michigan                      65
-Minnesota                     60
-Mississippi                   59
-Missouri                      67
-Montana                      100
-Nebraska                      66
-Nevada                        77
-New Hampshire                 66
+Massachusetts                 58
+Michigan                      66
+Minnesota                     61
+Mississippi                   60
+Missouri                      66
+Montana                       99
+Nebraska                      63
+Nevada                        80
+New Hampshire                 67
 New Jersey                    56
 New Mexico                    80
 New York                      56
 North Carolina                56
-North Dakota                  80
-Ohio                          68
+North Dakota                  84
+Ohio                          71
 Oklahoma                      71
 Oregon                        65
-Pennsylvania                  64
-Rhode Island                  64
+Pennsylvania                  63
+Rhode Island                  63
 South Carolina                56
-South Dakota                  63
+South Dakota                  64
 Tennessee                     67
 Texas                         66
 Utah                          63
-Vermont                       65
-Virginia                      43
-Washington                    71
-West Virginia                 81
-Wisconsin                     58
-Wyoming                       77
+Vermont                       70
+Virginia                      44
+Washington                    70
+West Virginia                 79
+Wisconsin                     59
+Wyoming                       76

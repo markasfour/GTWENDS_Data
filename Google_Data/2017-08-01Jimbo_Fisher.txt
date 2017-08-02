@@ -1,0 +1,45 @@
+                      Jimbo Fisher
+geoName                           
+Alabama                        100
+Arizona                          6
+Arkansas                        23
+California                       5
+Colorado                         9
+Connecticut                     11
+Delaware                        11
+District of Columbia            14
+Florida                         96
+Georgia                         49
+Hawaii                           8
+Idaho                            6
+Illinois                        10
+Indiana                         10
+Iowa                            10
+Kansas                           9
+Kentucky                        26
+Louisiana                       63
+Maryland                        10
+Massachusetts                    7
+Michigan                        10
+Minnesota                        9
+Mississippi                     43
+Missouri                        11
+Montana                          7
+Nebraska                        17
+Nevada                           8
+New Jersey                       7
+New Mexico                       6
+New York                         8
+North Carolina                  25
+Ohio                            13
+Oklahoma                        32
+Oregon                           6
+Pennsylvania                    10
+South Carolina                  39
+Tennessee                       38
+Texas                           17
+Utah                             8
+Virginia                        15
+Washington                       7
+West Virginia                   66
+Wisconsin                        7

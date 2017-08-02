@@ -1,0 +1,51 @@
+                      Jerry Garcia
+geoName                           
+Alabama                         25
+Alaska                          26
+Arizona                         22
+Arkansas                        18
+California                      29
+Colorado                        52
+Connecticut                     52
+Delaware                        31
+District of Columbia            33
+Florida                         19
+Georgia                         22
+Hawaii                          24
+Idaho                           23
+Illinois                        33
+Indiana                         26
+Iowa                            19
+Kansas                          17
+Kentucky                        23
+Louisiana                       17
+Maine                           53
+Maryland                        30
+Massachusetts                   46
+Michigan                        21
+Minnesota                       23
+Mississippi                     18
+Missouri                        24
+Montana                         31
+Nebraska                        20
+Nevada                          23
+New Hampshire                   52
+New Jersey                      41
+New Mexico                      27
+New York                        38
+North Carolina                  29
+Ohio                            28
+Oklahoma                        18
+Oregon                          36
+Pennsylvania                    40
+Rhode Island                    45
+South Carolina                  29
+Tennessee                       27
+Texas                           14
+Utah                            26
+Vermont                        100
+Virginia                        26
+Washington                      26
+West Virginia                   32
+Wisconsin                       27
+Wyoming                         37

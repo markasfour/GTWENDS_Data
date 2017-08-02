@@ -1,53 +1,53 @@
                       Scaramucci
 geoName                         
-Alabama                       38
-Alaska                        34
+Alabama                       36
+Alaska                        38
 Arizona                       42
-Arkansas                      35
-California                    51
-Colorado                      49
-Connecticut                   79
-Delaware                      69
+Arkansas                      38
+California                    50
+Colorado                      47
+Connecticut                   82
+Delaware                      66
 District of Columbia         100
-Florida                       46
-Georgia                       38
-Hawaii                        34
-Idaho                         30
-Illinois                      48
-Indiana                       36
-Iowa                          35
-Kansas                        31
-Kentucky                      30
+Florida                       47
+Georgia                       34
+Hawaii                        32
+Idaho                         35
+Illinois                      46
+Indiana                       34
+Iowa                          36
+Kansas                        26
+Kentucky                      31
 Louisiana                     32
 Maine                         62
-Maryland                      74
+Maryland                      69
 Massachusetts                 69
-Michigan                      37
-Minnesota                     43
-Mississippi                   31
-Missouri                      33
-Montana                       32
-Nebraska                      33
-Nevada                        37
+Michigan                      41
+Minnesota                     41
+Mississippi                   30
+Missouri                      35
+Montana                       37
+Nebraska                      30
+Nevada                        40
 New Hampshire                 59
-New Jersey                    79
-New Mexico                    50
-New York                      91
-North Carolina                44
+New Jersey                    74
+New Mexico                    45
+New York                      87
+North Carolina                43
 North Dakota                  22
-Ohio                          40
+Ohio                          39
 Oklahoma                      38
-Oregon                        44
+Oregon                        38
 Pennsylvania                  54
-Rhode Island                  80
-South Carolina                41
-South Dakota                  20
+Rhode Island                  82
+South Carolina                40
+South Dakota                  27
 Tennessee                     38
 Texas                         33
-Utah                          35
-Vermont                       63
-Virginia                      48
-Washington                    48
-West Virginia                 36
-Wisconsin                     37
-Wyoming                       51
+Utah                          31
+Vermont                       66
+Virginia                      46
+Washington                    49
+West Virginia                 29
+Wisconsin                     35
+Wyoming                       40

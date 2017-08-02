@@ -1,0 +1,39 @@
+                      Herat
+geoName                    
+Alabama                  37
+Arizona                  45
+Arkansas                 49
+California               53
+Colorado                 48
+Connecticut              67
+District of Columbia    100
+Florida                  44
+Georgia                  46
+Illinois                 37
+Indiana                  51
+Iowa                     42
+Kansas                   48
+Kentucky                 33
+Louisiana                37
+Maryland                 61
+Massachusetts            51
+Michigan                 35
+Minnesota                41
+Missouri                 37
+Nebraska                 30
+Nevada                   51
+New Jersey               50
+New Mexico               57
+New York                 52
+North Carolina           51
+Ohio                     39
+Oklahoma                 33
+Oregon                   54
+Pennsylvania             43
+South Carolina           45
+Tennessee                46
+Texas                    49
+Utah                     40
+Virginia                 90
+Washington               45
+Wisconsin                38
