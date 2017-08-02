@@ -1,0 +1,53 @@
+                      Apple stock
+geoName                          
+Alabama                        49
+Alaska                         53
+Arizona                        61
+Arkansas                       48
+California                     96
+Colorado                       56
+Connecticut                    87
+Delaware                       76
+District of Columbia           70
+Florida                        73
+Georgia                        48
+Hawaii                         87
+Idaho                          49
+Illinois                       71
+Indiana                        52
+Iowa                           61
+Kansas                         47
+Kentucky                       48
+Louisiana                      40
+Maine                          64
+Maryland                       68
+Massachusetts                  75
+Michigan                       62
+Minnesota                      60
+Mississippi                    31
+Missouri                       56
+Montana                        54
+Nebraska                       60
+Nevada                         60
+New Hampshire                  68
+New Jersey                    100
+New Mexico                     46
+New York                       90
+North Carolina                 53
+North Dakota                   58
+Ohio                           55
+Oklahoma                       41
+Oregon                         51
+Pennsylvania                   65
+Rhode Island                   77
+South Carolina                 50
+South Dakota                   51
+Tennessee                      46
+Texas                          47
+Utah                           54
+Vermont                        68
+Virginia                       53
+Washington                     73
+West Virginia                  37
+Wisconsin                      62
+Wyoming                        46

@@ -1,0 +1,53 @@
+                      Gaga
+geoName                   
+Alabama                 72
+Alaska                  77
+Arizona                 89
+Arkansas                74
+California              92
+Colorado                78
+Connecticut             89
+Delaware                82
+District of Columbia    74
+Florida                 81
+Georgia                 73
+Hawaii                  72
+Idaho                   77
+Illinois                89
+Indiana                 85
+Iowa                    78
+Kansas                  73
+Kentucky                84
+Louisiana               81
+Maine                   80
+Maryland                77
+Massachusetts           89
+Michigan                81
+Minnesota               80
+Mississippi             77
+Missouri                81
+Montana                 77
+Nebraska                86
+Nevada                  92
+New Hampshire           84
+New Jersey              96
+New Mexico              92
+New York               100
+North Carolina          70
+North Dakota            81
+Ohio                    83
+Oklahoma                86
+Oregon                  76
+Pennsylvania            94
+Rhode Island            96
+South Carolina          69
+South Dakota            81
+Tennessee               78
+Texas                   84
+Utah                    78
+Vermont                 80
+Virginia                71
+Washington              82
+West Virginia           96
+Wisconsin               78
+Wyoming                 76

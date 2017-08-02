@@ -1,0 +1,50 @@
+                      David Feherty
+geoName                            
+Alabama                          65
+Arizona                          78
+Arkansas                         74
+California                       41
+Colorado                         52
+Connecticut                      58
+Delaware                         64
+District of Columbia             53
+Florida                          68
+Georgia                          64
+Hawaii                           34
+Idaho                            59
+Illinois                         73
+Indiana                          57
+Iowa                             75
+Kansas                           43
+Kentucky                         61
+Louisiana                        52
+Maine                            46
+Maryland                         45
+Massachusetts                    61
+Michigan                         63
+Minnesota                        71
+Mississippi                      52
+Missouri                         52
+Montana                          72
+Nebraska                         82
+Nevada                           51
+New Hampshire                    57
+New Jersey                       49
+New Mexico                       39
+New York                         41
+North Carolina                   74
+North Dakota                     75
+Ohio                             84
+Oklahoma                         69
+Oregon                           35
+Pennsylvania                     76
+Rhode Island                     32
+South Carolina                   90
+South Dakota                    100
+Tennessee                        68
+Texas                            69
+Utah                             42
+Virginia                         48
+Washington                       46
+West Virginia                    56
+Wisconsin                        71

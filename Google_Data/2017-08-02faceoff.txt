@@ -1,0 +1,53 @@
+                      faceoff
+geoName                      
+Alabama                    14
+Alaska                     19
+Arizona                    15
+Arkansas                   12
+California                 16
+Colorado                   21
+Connecticut                26
+Delaware                   22
+District of Columbia       17
+Florida                    17
+Georgia                    14
+Hawaii                     13
+Idaho                      15
+Illinois                   23
+Indiana                    17
+Iowa                       16
+Kansas                     16
+Kentucky                   16
+Louisiana                  11
+Maine                      25
+Maryland                   22
+Massachusetts              30
+Michigan                   26
+Minnesota                  43
+Mississippi                14
+Missouri                   22
+Montana                    17
+Nebraska                   16
+Nevada                     18
+New Hampshire              33
+New Jersey                 27
+New Mexico                 12
+New York                   24
+North Carolina             15
+North Dakota              100
+Ohio                       20
+Oklahoma                   15
+Oregon                     12
+Pennsylvania               32
+Rhode Island               31
+South Carolina             16
+South Dakota               21
+Tennessee                  15
+Texas                      13
+Utah                       18
+Vermont                    25
+Virginia                   16
+Washington                 15
+West Virginia              18
+Wisconsin                  18
+Wyoming                    23

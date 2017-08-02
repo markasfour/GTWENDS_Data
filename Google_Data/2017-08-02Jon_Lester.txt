@@ -1,0 +1,53 @@
+                      Jon Lester
+geoName                         
+Alabama                       12
+Alaska                         7
+Arizona                       14
+Arkansas                      13
+California                    19
+Colorado                      14
+Connecticut                   45
+Delaware                      17
+District of Columbia          25
+Florida                       13
+Georgia                       13
+Hawaii                        12
+Idaho                          9
+Illinois                      71
+Indiana                       32
+Iowa                          41
+Kansas                        16
+Kentucky                      17
+Louisiana                      9
+Maine                         78
+Maryland                      15
+Massachusetts                100
+Michigan                      14
+Minnesota                     15
+Mississippi                   11
+Missouri                      33
+Montana                       12
+Nebraska                      26
+Nevada                        17
+New Hampshire                 82
+New Jersey                    21
+New Mexico                     9
+New York                      23
+North Carolina                12
+North Dakota                  17
+Ohio                          15
+Oklahoma                      14
+Oregon                        10
+Pennsylvania                  19
+Rhode Island                  80
+South Carolina                14
+South Dakota                  15
+Tennessee                     13
+Texas                          9
+Utah                          11
+Vermont                       54
+Virginia                      13
+Washington                    20
+West Virginia                 12
+Wisconsin                     25
+Wyoming                        8

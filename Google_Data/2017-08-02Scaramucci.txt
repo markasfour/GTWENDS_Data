@@ -1,0 +1,53 @@
+                      Scaramucci
+geoName                         
+Alabama                       38
+Alaska                        36
+Arizona                       40
+Arkansas                      32
+California                    49
+Colorado                      46
+Connecticut                   78
+Delaware                      63
+District of Columbia         100
+Florida                       44
+Georgia                       35
+Hawaii                        31
+Idaho                         35
+Illinois                      46
+Indiana                       36
+Iowa                          33
+Kansas                        30
+Kentucky                      31
+Louisiana                     31
+Maine                         55
+Maryland                      68
+Massachusetts                 67
+Michigan                      37
+Minnesota                     41
+Mississippi                   25
+Missouri                      38
+Montana                       36
+Nebraska                      31
+Nevada                        41
+New Hampshire                 57
+New Jersey                    72
+New Mexico                    48
+New York                      88
+North Carolina                41
+North Dakota                  27
+Ohio                          35
+Oklahoma                      35
+Oregon                        39
+Pennsylvania                  55
+Rhode Island                  71
+South Carolina                37
+South Dakota                  33
+Tennessee                     37
+Texas                         33
+Utah                          31
+Vermont                       65
+Virginia                      46
+Washington                    48
+West Virginia                 32
+Wisconsin                     36
+Wyoming                       37

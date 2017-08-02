@@ -1,0 +1,40 @@
+                      GREENEST
+geoName                       
+Alabama                     19
+Arizona                     31
+California                  31
+Colorado                   100
+Connecticut                 28
+District of Columbia        30
+Florida                     18
+Georgia                     17
+Illinois                    24
+Indiana                     25
+Iowa                        26
+Kansas                      16
+Kentucky                    19
+Louisiana                   17
+Maine                       34
+Maryland                    26
+Massachusetts               31
+Michigan                    22
+Minnesota                   23
+Missouri                    21
+Nebraska                    26
+Nevada                      27
+New Jersey                  20
+New Mexico                  30
+New York                    25
+North Carolina              27
+Ohio                        20
+Oklahoma                    17
+Oregon                      36
+Pennsylvania                22
+South Carolina              17
+Tennessee                   16
+Texas                       20
+Utah                        36
+Virginia                    19
+Washington                  48
+West Virginia               35
+Wisconsin                   25

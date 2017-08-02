@@ -1,0 +1,53 @@
+                      August 1
+geoName                       
+Alabama                     67
+Alaska                      73
+Arizona                     63
+Arkansas                    67
+California                  75
+Colorado                    63
+Connecticut                 73
+Delaware                    93
+District of Columbia        82
+Florida                     64
+Georgia                     70
+Hawaii                      77
+Idaho                       61
+Illinois                    80
+Indiana                     70
+Iowa                        74
+Kansas                      60
+Kentucky                    64
+Louisiana                   73
+Maine                       79
+Maryland                    75
+Massachusetts               84
+Michigan                    71
+Minnesota                   69
+Mississippi                 70
+Missouri                    75
+Montana                     61
+Nebraska                    65
+Nevada                      73
+New Hampshire               77
+New Jersey                  91
+New Mexico                  59
+New York                   100
+North Carolina              65
+North Dakota                54
+Ohio                        71
+Oklahoma                    56
+Oregon                      51
+Pennsylvania                74
+Rhode Island                84
+South Carolina              80
+South Dakota                60
+Tennessee                   62
+Texas                       66
+Utah                        62
+Vermont                     85
+Virginia                    70
+Washington                  65
+West Virginia               73
+Wisconsin                   71
+Wyoming                     74

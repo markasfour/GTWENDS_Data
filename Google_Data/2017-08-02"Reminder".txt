@@ -1,0 +1,53 @@
+                      "Reminder"
+geoName                         
+Alabama                       77
+Alaska                        54
+Arizona                       87
+Arkansas                      79
+California                    81
+Colorado                      87
+Connecticut                   91
+Delaware                      79
+District of Columbia          68
+Florida                       78
+Georgia                       85
+Hawaii                        65
+Idaho                         83
+Illinois                      80
+Indiana                       71
+Iowa                          81
+Kansas                        70
+Kentucky                      67
+Louisiana                     70
+Maine                         58
+Maryland                      79
+Massachusetts                 78
+Michigan                      79
+Minnesota                     76
+Mississippi                   63
+Missouri                      82
+Montana                       69
+Nebraska                      75
+Nevada                        75
+New Hampshire                 72
+New Jersey                    77
+New Mexico                    83
+New York                      67
+North Carolina                75
+North Dakota                  67
+Ohio                          73
+Oklahoma                      77
+Oregon                        61
+Pennsylvania                  75
+Rhode Island                  81
+South Carolina                84
+South Dakota                  73
+Tennessee                     79
+Texas                         84
+Utah                         100
+Vermont                       63
+Virginia                      68
+Washington                    83
+West Virginia                 59
+Wisconsin                     74
+Wyoming                       64

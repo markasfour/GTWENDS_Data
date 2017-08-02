@@ -1,0 +1,53 @@
+                      Unabomber
+geoName                        
+Alabama                      36
+Alaska                       36
+Arizona                      35
+Arkansas                     36
+California                   35
+Colorado                     43
+Connecticut                  39
+Delaware                     41
+District of Columbia         42
+Florida                      31
+Georgia                      32
+Hawaii                       33
+Idaho                        38
+Illinois                     39
+Indiana                      37
+Iowa                         37
+Kansas                       33
+Kentucky                     36
+Louisiana                    32
+Maine                        36
+Maryland                     37
+Massachusetts                41
+Michigan                     41
+Minnesota                    36
+Mississippi                  30
+Missouri                     38
+Montana                     100
+Nebraska                     40
+Nevada                       33
+New Hampshire                38
+New Jersey                   36
+New Mexico                   36
+New York                     35
+North Carolina               35
+North Dakota                 49
+Ohio                         36
+Oklahoma                     38
+Oregon                       28
+Pennsylvania                 37
+Rhode Island                 40
+South Carolina               34
+South Dakota                 35
+Tennessee                    38
+Texas                        31
+Utah                         38
+Vermont                      43
+Virginia                     31
+Washington                   37
+West Virginia                38
+Wisconsin                    39
+Wyoming                      45

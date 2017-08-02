@@ -1,0 +1,53 @@
+                      AAPL
+geoName                   
+Alabama                 25
+Alaska                  33
+Arizona                 40
+Arkansas                24
+California              93
+Colorado                53
+Connecticut             80
+Delaware                56
+District of Columbia    86
+Florida                 52
+Georgia                 41
+Hawaii                  81
+Idaho                   26
+Illinois                63
+Indiana                 34
+Iowa                    32
+Kansas                  30
+Kentucky                31
+Louisiana               27
+Maine                   47
+Maryland                72
+Massachusetts           83
+Michigan                42
+Minnesota               48
+Mississippi             18
+Missouri                37
+Montana                 29
+Nebraska                36
+Nevada                  39
+New Hampshire           59
+New Jersey              91
+New Mexico              36
+New York               100
+North Carolina          42
+North Dakota            24
+Ohio                    42
+Oklahoma                31
+Oregon                  39
+Pennsylvania            54
+Rhode Island            65
+South Carolina          33
+South Dakota            23
+Tennessee               32
+Texas                   41
+Utah                    41
+Vermont                 56
+Virginia                54
+Washington              65
+West Virginia           23
+Wisconsin               41
+Wyoming                 30
