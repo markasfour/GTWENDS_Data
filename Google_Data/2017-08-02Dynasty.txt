@@ -1,0 +1,53 @@
+                      Dynasty
+geoName                      
+Alabama                    93
+Alaska                     63
+Arizona                    53
+Arkansas                   98
+California                 52
+Colorado                   58
+Connecticut                51
+Delaware                   57
+District of Columbia       52
+Florida                    56
+Georgia                    76
+Hawaii                     69
+Idaho                      67
+Illinois                   58
+Indiana                    84
+Iowa                       79
+Kansas                     74
+Kentucky                   92
+Louisiana                 100
+Maine                      62
+Maryland                   60
+Massachusetts              58
+Michigan                   68
+Minnesota                  69
+Mississippi                97
+Missouri                   79
+Montana                    58
+Nebraska                   70
+Nevada                     51
+New Hampshire              64
+New Jersey                 58
+New Mexico                 54
+New York                   57
+North Carolina             82
+North Dakota               75
+Ohio                       73
+Oklahoma                   88
+Oregon                     44
+Pennsylvania               71
+Rhode Island               57
+South Carolina             76
+South Dakota               76
+Tennessee                  95
+Texas                      71
+Utah                       61
+Vermont                    54
+Virginia                   62
+Washington                 56
+West Virginia              96
+Wisconsin                  71
+Wyoming                    77

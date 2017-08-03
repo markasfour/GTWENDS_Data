@@ -1,0 +1,35 @@
+                2 US
+geoName             
+Alabama           80
+Arizona           80
+California        80
+Colorado          73
+Connecticut       84
+Florida           76
+Georgia           72
+Idaho             83
+Illinois          79
+Indiana           90
+Kansas            76
+Kentucky          80
+Louisiana         73
+Maryland          84
+Massachusetts     79
+Michigan          88
+Minnesota         81
+Missouri          84
+Nevada            86
+New Jersey       100
+New York          84
+North Carolina    87
+Ohio              87
+Oklahoma          80
+Oregon            62
+Pennsylvania      86
+South Carolina    83
+Tennessee         77
+Texas             75
+Utah              83
+Virginia          72
+Washington        85
+Wisconsin         95

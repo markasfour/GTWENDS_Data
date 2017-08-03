@@ -4,49 +4,49 @@ Alabama                               13
 Alaska                                 9
 Arizona                                5
 Arkansas                              11
-California                            19
-Colorado                              16
-Connecticut                            9
-Delaware                              22
-District of Columbia                  35
-Florida                               11
+California                            20
+Colorado                              15
+Connecticut                           10
+Delaware                              29
+District of Columbia                  36
+Florida                               12
 Georgia                               12
-Hawaii                                 7
-Idaho                                 18
-Illinois                              23
-Indiana                               18
-Iowa                                  21
+Hawaii                                 6
+Idaho                                 16
+Illinois                              24
+Indiana                               19
+Iowa                                  20
 Kansas                                13
 Kentucky                               8
-Louisiana                             12
-Maine                                 11
-Maryland                              31
+Louisiana                             14
+Maine                                  9
+Maryland                              32
 Massachusetts                         16
-Michigan                              11
+Michigan                              13
 Minnesota                            100
 Mississippi                            9
-Missouri                              13
-Montana                                6
-Nebraska                              21
+Missouri                              12
+Montana                                5
+Nebraska                              23
 Nevada                                14
-New Hampshire                         24
-New Jersey                            52
-New Mexico                            18
-New York                              12
+New Hampshire                         22
+New Jersey                            53
+New Mexico                            17
+New York                              13
 North Carolina                        28
-North Dakota                          17
-Ohio                                  15
-Oklahoma                              10
-Oregon                                24
+North Dakota                          14
+Ohio                                  16
+Oklahoma                              11
+Oregon                                25
 Pennsylvania                          28
 Rhode Island                          15
-South Carolina                        17
-South Dakota                          21
+South Carolina                        18
+South Dakota                          24
 Tennessee                             11
-Texas                                 35
+Texas                                 36
 Utah                                   5
-Vermont                                7
-Virginia                              27
-Washington                            32
-West Virginia                         12
-Wisconsin                             42
+Vermont                                8
+Virginia                              28
+Washington                            34
+West Virginia                          8
+Wisconsin                             43

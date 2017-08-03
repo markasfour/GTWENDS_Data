@@ -1,0 +1,53 @@
+                      Valor
+geoName                    
+Alabama                  41
+Alaska                   43
+Arizona                  43
+Arkansas                 50
+California               45
+Colorado                 82
+Connecticut              46
+Delaware                 44
+District of Columbia     59
+Florida                  63
+Georgia                  46
+Hawaii                   36
+Idaho                    42
+Illinois                 41
+Indiana                  36
+Iowa                     35
+Kansas                   51
+Kentucky                 39
+Louisiana                37
+Maine                    29
+Maryland                 45
+Massachusetts            44
+Michigan                 37
+Minnesota                36
+Mississippi              33
+Missouri                 35
+Montana                  32
+Nebraska                 34
+Nevada                   45
+New Hampshire            33
+New Jersey               46
+New Mexico               38
+New York                 47
+North Carolina           39
+North Dakota             33
+Ohio                     37
+Oklahoma                 47
+Oregon                   92
+Pennsylvania             41
+Rhode Island             36
+South Carolina           40
+South Dakota             31
+Tennessee                44
+Texas                   100
+Utah                     41
+Vermont                  35
+Virginia                 56
+Washington               38
+West Virginia            34
+Wisconsin                36
+Wyoming                  40

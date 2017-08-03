@@ -1,53 +1,53 @@
                       Kylie Cosmetics
 geoName                              
-Alabama                            51
-Alaska                             37
-Arizona                            82
+Alabama                            53
+Alaska                             39
+Arizona                            86
 Arkansas                           53
-California                         97
+California                        100
 Colorado                           50
-Connecticut                        59
-Delaware                           52
-District of Columbia               37
-Florida                            62
-Georgia                            40
+Connecticut                        63
+Delaware                           54
+District of Columbia               38
+Florida                            64
+Georgia                            42
 Hawaii                             61
-Idaho                              41
-Illinois                           60
-Indiana                            48
-Iowa                               45
-Kansas                             39
-Kentucky                           45
-Louisiana                          61
-Maine                              42
-Maryland                           43
-Massachusetts                      54
-Michigan                           44
-Minnesota                          37
-Mississippi                        52
-Missouri                           38
-Montana                            34
-Nebraska                           54
-Nevada                             74
-New Hampshire                      37
-New Jersey                         69
-New Mexico                        100
-New York                           61
-North Carolina                     39
-North Dakota                       53
-Ohio                               46
+Idaho                              44
+Illinois                           63
+Indiana                            49
+Iowa                               47
+Kansas                             41
+Kentucky                           49
+Louisiana                          62
+Maine                              40
+Maryland                           46
+Massachusetts                      56
+Michigan                           48
+Minnesota                          39
+Mississippi                        56
+Missouri                           41
+Montana                            38
+Nebraska                           52
+Nevada                             75
+New Hampshire                      42
+New Jersey                         73
+New Mexico                         99
+New York                           63
+North Carolina                     41
+North Dakota                       55
+Ohio                               48
 Oklahoma                           50
 Oregon                             39
-Pennsylvania                       50
-Rhode Island                       67
-South Carolina                     41
-South Dakota                       41
-Tennessee                          42
-Texas                              84
-Utah                               48
-Vermont                            30
-Virginia                           31
-Washington                         49
-West Virginia                      55
-Wisconsin                          39
-Wyoming                            42
+Pennsylvania                       53
+Rhode Island                       69
+South Carolina                     42
+South Dakota                       45
+Tennessee                          43
+Texas                              88
+Utah                               50
+Vermont                            33
+Virginia                           32
+Washington                         51
+West Virginia                      56
+Wisconsin                          41
+Wyoming                            39

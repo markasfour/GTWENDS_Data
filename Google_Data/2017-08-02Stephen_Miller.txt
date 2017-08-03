@@ -1,0 +1,53 @@
+                      Stephen Miller
+geoName                             
+Alabama                           38
+Alaska                            34
+Arizona                           40
+Arkansas                          39
+California                        51
+Colorado                          49
+Connecticut                       63
+Delaware                          57
+District of Columbia             100
+Florida                           46
+Georgia                           37
+Hawaii                            36
+Idaho                             42
+Illinois                          49
+Indiana                           51
+Iowa                              40
+Kansas                            40
+Kentucky                          45
+Louisiana                         42
+Maine                             59
+Maryland                          72
+Massachusetts                     64
+Michigan                          42
+Minnesota                         40
+Mississippi                       31
+Missouri                          45
+Montana                           49
+Nebraska                          37
+Nevada                            79
+New Hampshire                     52
+New Jersey                        54
+New Mexico                        41
+New York                          66
+North Carolina                    50
+North Dakota                      33
+Ohio                              47
+Oklahoma                          38
+Oregon                            41
+Pennsylvania                      59
+Rhode Island                      57
+South Carolina                    38
+South Dakota                      38
+Tennessee                         47
+Texas                             37
+Utah                              64
+Vermont                           62
+Virginia                          50
+Washington                        52
+West Virginia                     62
+Wisconsin                         38
+Wyoming                           28

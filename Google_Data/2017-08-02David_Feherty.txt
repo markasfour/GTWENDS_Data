@@ -1,50 +1,51 @@
                       David Feherty
 geoName                            
-Alabama                          65
-Arizona                          78
-Arkansas                         74
-California                       41
-Colorado                         52
-Connecticut                      58
-Delaware                         64
-District of Columbia             53
-Florida                          68
-Georgia                          64
-Hawaii                           34
-Idaho                            59
-Illinois                         73
-Indiana                          57
-Iowa                             75
-Kansas                           43
-Kentucky                         61
-Louisiana                        52
-Maine                            46
-Maryland                         45
-Massachusetts                    61
-Michigan                         63
-Minnesota                        71
+Alabama                          60
+Arizona                          73
+Arkansas                         56
+California                       42
+Colorado                         46
+Connecticut                      51
+Delaware                         72
+District of Columbia             43
+Florida                          63
+Georgia                          61
+Hawaii                           31
+Idaho                            49
+Illinois                         71
+Indiana                          58
+Iowa                             82
+Kansas                           42
+Kentucky                         68
+Louisiana                        47
+Maine                            53
+Maryland                         36
+Massachusetts                    59
+Michigan                         61
+Minnesota                        74
 Mississippi                      52
-Missouri                         52
-Montana                          72
-Nebraska                         82
-Nevada                           51
-New Hampshire                    57
-New Jersey                       49
-New Mexico                       39
-New York                         41
+Missouri                         48
+Montana                          53
+Nebraska                         68
+Nevada                           45
+New Hampshire                    39
+New Jersey                       44
+New Mexico                       40
+New York                         40
 North Carolina                   74
-North Dakota                     75
-Ohio                             84
-Oklahoma                         69
-Oregon                           35
-Pennsylvania                     76
-Rhode Island                     32
-South Carolina                   90
+North Dakota                     76
+Ohio                             75
+Oklahoma                         68
+Oregon                           40
+Pennsylvania                     69
+Rhode Island                     37
+South Carolina                   99
 South Dakota                    100
-Tennessee                        68
-Texas                            69
-Utah                             42
-Virginia                         48
-Washington                       46
-West Virginia                    56
-Wisconsin                        71
+Tennessee                        65
+Texas                            68
+Utah                             50
+Vermont                          40
+Virginia                         45
+Washington                       40
+West Virginia                    50
+Wisconsin                        77

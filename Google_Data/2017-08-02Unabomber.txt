@@ -1,53 +1,53 @@
                       Unabomber
 geoName                        
-Alabama                      36
-Alaska                       36
-Arizona                      35
+Alabama                      33
+Alaska                       34
+Arizona                      34
 Arkansas                     36
-California                   35
-Colorado                     43
-Connecticut                  39
-Delaware                     41
-District of Columbia         42
-Florida                      31
-Georgia                      32
-Hawaii                       33
+California                   33
+Colorado                     41
+Connecticut                  37
+Delaware                     38
+District of Columbia         40
+Florida                      30
+Georgia                      29
+Hawaii                       31
 Idaho                        38
-Illinois                     39
-Indiana                      37
-Iowa                         37
-Kansas                       33
-Kentucky                     36
-Louisiana                    32
-Maine                        36
-Maryland                     37
-Massachusetts                41
-Michigan                     41
-Minnesota                    36
-Mississippi                  30
-Missouri                     38
+Illinois                     38
+Indiana                      34
+Iowa                         34
+Kansas                       31
+Kentucky                     34
+Louisiana                    31
+Maine                        34
+Maryland                     35
+Massachusetts                39
+Michigan                     38
+Minnesota                    33
+Mississippi                  28
+Missouri                     34
 Montana                     100
-Nebraska                     40
-Nevada                       33
-New Hampshire                38
-New Jersey                   36
-New Mexico                   36
-New York                     35
-North Carolina               35
-North Dakota                 49
-Ohio                         36
-Oklahoma                     38
-Oregon                       28
-Pennsylvania                 37
-Rhode Island                 40
-South Carolina               34
-South Dakota                 35
-Tennessee                    38
-Texas                        31
-Utah                         38
-Vermont                      43
+Nebraska                     37
+Nevada                       31
+New Hampshire                35
+New Jersey                   34
+New Mexico                   31
+New York                     34
+North Carolina               33
+North Dakota                 42
+Ohio                         35
+Oklahoma                     36
+Oregon                       27
+Pennsylvania                 35
+Rhode Island                 36
+South Carolina               31
+South Dakota                 32
+Tennessee                    35
+Texas                        29
+Utah                         37
+Vermont                      37
 Virginia                     31
-Washington                   37
-West Virginia                38
-Wisconsin                    39
-Wyoming                      45
+Washington                   35
+West Virginia                36
+Wisconsin                    37
+Wyoming                      41

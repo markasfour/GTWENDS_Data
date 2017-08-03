@@ -1,0 +1,50 @@
+                      Smartmatic
+geoName                         
+Alabama                       37
+Arizona                       30
+Arkansas                      50
+California                    33
+Colorado                      38
+Connecticut                   19
+Delaware                      27
+District of Columbia          69
+Florida                       85
+Georgia                       33
+Hawaii                        20
+Idaho                         72
+Illinois                      31
+Indiana                       32
+Iowa                          29
+Kansas                        31
+Kentucky                      29
+Louisiana                     55
+Maine                         52
+Maryland                      47
+Massachusetts                 32
+Michigan                      43
+Minnesota                     21
+Mississippi                   45
+Missouri                      33
+Montana                       54
+Nebraska                      17
+Nevada                        35
+New Hampshire                 32
+New Jersey                    73
+New Mexico                    29
+New York                      29
+North Carolina                32
+North Dakota                  66
+Ohio                          28
+Oklahoma                      26
+Oregon                        18
+Pennsylvania                  45
+Rhode Island                  28
+South Carolina                49
+South Dakota                 100
+Tennessee                     24
+Texas                         36
+Utah                          36
+Virginia                      39
+Washington                    32
+West Virginia                 27
+Wisconsin                     30
