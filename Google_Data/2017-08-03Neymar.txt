@@ -1,53 +1,53 @@
                       Neymar
 geoName                     
-Alabama                   29
+Alabama                   28
 Alaska                    21
-Arizona                   47
+Arizona                   48
 Arkansas                  36
 California                71
-Colorado                  44
+Colorado                  43
 Connecticut               59
-Delaware                  50
+Delaware                  52
 District of Columbia      51
-Florida                   68
-Georgia                   49
+Florida                   67
+Georgia                   48
 Hawaii                    40
 Idaho                     32
 Illinois                  53
-Indiana                   39
-Iowa                      37
-Kansas                    54
+Indiana                   38
+Iowa                      36
+Kansas                    52
 Kentucky                  27
-Louisiana                 29
-Maine                     31
-Maryland                  61
-Massachusetts             54
+Louisiana                 28
+Maine                     29
+Maryland                  60
+Massachusetts             53
 Michigan                  37
-Minnesota                 40
+Minnesota                 39
 Mississippi               24
 Missouri                  33
 Montana                   17
 Nebraska                  45
-Nevada                    58
-New Hampshire             32
+Nevada                    56
+New Hampshire             31
 New Jersey                80
-New Mexico                46
-New York                  65
-North Carolina            47
-North Dakota              26
-Ohio                      31
-Oklahoma                  37
+New Mexico                45
+New York                  64
+North Carolina            46
+North Dakota              25
+Ohio                      30
+Oklahoma                  38
 Oregon                   100
-Pennsylvania              37
+Pennsylvania              36
 Rhode Island              48
 South Carolina            37
-South Dakota              27
-Tennessee                 32
+South Dakota              29
+Tennessee                 31
 Texas                     64
-Utah                      46
+Utah                      45
 Vermont                   42
-Virginia                  91
-Washington                40
-West Virginia             20
+Virginia                  90
+Washington                39
+West Virginia             21
 Wisconsin                 32
-Wyoming                   26
+Wyoming                   25

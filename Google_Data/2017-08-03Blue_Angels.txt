@@ -1,0 +1,53 @@
+                      Blue Angels
+geoName                          
+Alabama                       100
+Alaska                         26
+Arizona                        18
+Arkansas                       31
+California                     34
+Colorado                       22
+Connecticut                    16
+Delaware                       23
+District of Columbia           37
+Florida                        55
+Georgia                        34
+Hawaii                         57
+Idaho                          43
+Illinois                       23
+Indiana                        24
+Iowa                           18
+Kansas                         21
+Kentucky                       29
+Louisiana                      58
+Maine                          30
+Maryland                       67
+Massachusetts                  18
+Michigan                       31
+Minnesota                      22
+Mississippi                    51
+Missouri                       34
+Montana                        20
+Nebraska                       37
+Nevada                         20
+New Hampshire                  20
+New Jersey                     16
+New Mexico                     16
+New York                       18
+North Carolina                 22
+North Dakota                   34
+Ohio                           22
+Oklahoma                       24
+Oregon                         15
+Pennsylvania                   21
+Rhode Island                   29
+South Carolina                 26
+South Dakota                   32
+Tennessee                      57
+Texas                          23
+Utah                           23
+Vermont                        13
+Virginia                       26
+Washington                     84
+West Virginia                  18
+Wisconsin                      35
+Wyoming                        20

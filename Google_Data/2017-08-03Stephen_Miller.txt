@@ -1,53 +1,53 @@
                       Stephen Miller
 geoName                             
-Alabama                           42
-Alaska                            23
-Arizona                           39
-Arkansas                          36
-California                        49
-Colorado                          45
-Connecticut                       67
-Delaware                          58
+Alabama                           39
+Alaska                            30
+Arizona                           41
+Arkansas                          38
+California                        51
+Colorado                          50
+Connecticut                       66
+Delaware                          51
 District of Columbia             100
-Florida                           47
-Georgia                           37
-Hawaii                            34
-Idaho                             41
+Florida                           45
+Georgia                           38
+Hawaii                            35
+Idaho                             40
 Illinois                          48
-Indiana                           49
-Iowa                              36
-Kansas                            35
-Kentucky                          42
-Louisiana                         38
-Maine                             58
-Maryland                          72
-Massachusetts                     63
-Michigan                          40
-Minnesota                         41
-Mississippi                       26
-Missouri                          41
+Indiana                           48
+Iowa                              43
+Kansas                            33
+Kentucky                          46
+Louisiana                         40
+Maine                             54
+Maryland                          71
+Massachusetts                     68
+Michigan                          43
+Minnesota                         39
+Mississippi                       31
+Missouri                          42
 Montana                           41
-Nebraska                          31
-Nevada                            77
-New Hampshire                     53
-New Jersey                        52
-New Mexico                        37
-New York                          62
-North Carolina                    46
-North Dakota                      38
-Ohio                              47
-Oklahoma                          35
-Oregon                            43
-Pennsylvania                      60
-Rhode Island                      61
-South Carolina                    45
-South Dakota                      36
-Tennessee                         48
-Texas                             36
-Utah                              59
+Nebraska                          33
+Nevada                            86
+New Hampshire                     58
+New Jersey                        55
+New Mexico                        47
+New York                          61
+North Carolina                    49
+North Dakota                      34
+Ohio                              45
+Oklahoma                          34
+Oregon                            40
+Pennsylvania                      57
+Rhode Island                      66
+South Carolina                    41
+South Dakota                      33
+Tennessee                         44
+Texas                             37
+Utah                              63
 Vermont                           60
-Virginia                          52
+Virginia                          56
 Washington                        48
-West Virginia                     64
-Wisconsin                         37
-Wyoming                           26
+West Virginia                     55
+Wisconsin                         36
+Wyoming                           37

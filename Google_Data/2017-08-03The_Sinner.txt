@@ -1,53 +1,53 @@
                       The Sinner
 geoName                         
-Alabama                       80
-Alaska                        70
-Arizona                       62
-Arkansas                      81
-California                    55
-Colorado                      56
-Connecticut                   60
-Delaware                      71
-District of Columbia          51
-Florida                       62
-Georgia                       73
-Hawaii                        55
-Idaho                         66
-Illinois                      57
-Indiana                       76
-Iowa                          60
-Kansas                        61
-Kentucky                      76
-Louisiana                     76
-Maine                         62
-Maryland                      67
-Massachusetts                 56
-Michigan                      64
-Minnesota                     52
-Mississippi                   96
-Missouri                      63
-Montana                       60
-Nebraska                      52
+Alabama                       84
+Alaska                        69
+Arizona                       64
+Arkansas                      84
+California                    57
+Colorado                      62
+Connecticut                   61
+Delaware                      77
+District of Columbia          49
+Florida                       64
+Georgia                       76
+Hawaii                        49
+Idaho                         68
+Illinois                      59
+Indiana                       75
+Iowa                          57
+Kansas                        62
+Kentucky                      84
+Louisiana                     74
+Maine                         61
+Maryland                      72
+Massachusetts                 57
+Michigan                      62
+Minnesota                     56
+Mississippi                   98
+Missouri                      67
+Montana                       55
+Nebraska                      61
 Nevada                        56
-New Hampshire                 63
-New Jersey                    65
-New Mexico                    62
-New York                      62
-North Carolina                77
-North Dakota                  70
-Ohio                          65
-Oklahoma                      62
-Oregon                        50
-Pennsylvania                  71
-Rhode Island                  69
+New Hampshire                 58
+New Jersey                    66
+New Mexico                    59
+New York                      66
+North Carolina                79
+North Dakota                  54
+Ohio                          71
+Oklahoma                      67
+Oregon                        51
+Pennsylvania                  75
+Rhode Island                  71
 South Carolina               100
-South Dakota                  54
-Tennessee                     83
-Texas                         63
-Utah                          56
-Vermont                       53
+South Dakota                  47
+Tennessee                     86
+Texas                         66
+Utah                          58
+Vermont                       49
 Virginia                      61
-Washington                    58
+Washington                    59
 West Virginia                 83
-Wisconsin                     58
-Wyoming                       59
+Wisconsin                     57
+Wyoming                       64

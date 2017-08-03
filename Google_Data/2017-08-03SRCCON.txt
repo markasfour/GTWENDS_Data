@@ -1,0 +1,5 @@
+           SRCCON
+geoName          
+Minnesota      55
+New York      100
+Oregon         89

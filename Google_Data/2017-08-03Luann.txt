@@ -1,0 +1,53 @@
+                      Luann
+geoName                    
+Alabama                  70
+Alaska                   86
+Arizona                  90
+Arkansas                 56
+California               75
+Colorado                 83
+Connecticut              63
+Delaware                 63
+District of Columbia     64
+Florida                  63
+Georgia                  48
+Hawaii                   82
+Idaho                    76
+Illinois                 57
+Indiana                  85
+Iowa                     60
+Kansas                   37
+Kentucky                 40
+Louisiana                71
+Maine                    61
+Maryland                 76
+Massachusetts            53
+Michigan                 79
+Minnesota                81
+Mississippi              38
+Missouri                 41
+Montana                 100
+Nebraska                 97
+Nevada                   55
+New Hampshire            52
+New Jersey               76
+New Mexico               89
+New York                 65
+North Carolina           50
+North Dakota             58
+Ohio                     49
+Oklahoma                 44
+Oregon                  100
+Pennsylvania             68
+Rhode Island             52
+South Carolina           52
+South Dakota             70
+Tennessee                51
+Texas                    61
+Utah                     92
+Vermont                  54
+Virginia                 61
+Washington               89
+West Virginia            39
+Wisconsin                94
+Wyoming                  61

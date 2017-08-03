@@ -1,0 +1,53 @@
+                      TSLA
+geoName                   
+Alabama                 14
+Alaska                  21
+Arizona                 35
+Arkansas                15
+California             100
+Colorado                46
+Connecticut             53
+Delaware                34
+District of Columbia    57
+Florida                 34
+Georgia                 28
+Hawaii                  55
+Idaho                   18
+Illinois                49
+Indiana                 27
+Iowa                    20
+Kansas                  20
+Kentucky                18
+Louisiana               17
+Maine                   18
+Maryland                50
+Massachusetts           58
+Michigan                32
+Minnesota               34
+Mississippi             12
+Missouri                28
+Montana                 24
+Nebraska                28
+Nevada                  46
+New Hampshire           36
+New Jersey              61
+New Mexico              21
+New York                62
+North Carolina          27
+North Dakota            14
+Ohio                    29
+Oklahoma                18
+Oregon                  40
+Pennsylvania            37
+Rhode Island            35
+South Carolina          18
+South Dakota            11
+Tennessee               21
+Texas                   30
+Utah                    32
+Vermont                 46
+Virginia                39
+Washington              72
+West Virginia           12
+Wisconsin               26
+Wyoming                 27

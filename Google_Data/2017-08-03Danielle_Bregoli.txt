@@ -1,53 +1,53 @@
                       Danielle Bregoli
 geoName                               
-Alabama                             84
-Alaska                              63
-Arizona                             73
-Arkansas                            84
-California                          73
-Colorado                            63
-Connecticut                         76
+Alabama                             87
+Alaska                              74
+Arizona                             76
+Arkansas                            86
+California                          75
+Colorado                            66
+Connecticut                         79
 Delaware                            97
-District of Columbia                50
-Florida                             84
-Georgia                             75
-Hawaii                              54
-Idaho                               61
-Illinois                            73
+District of Columbia                52
+Florida                             87
+Georgia                             74
+Hawaii                              52
+Idaho                               65
+Illinois                            74
 Indiana                            100
-Iowa                                75
-Kansas                              61
-Kentucky                            81
-Louisiana                           83
-Maine                               61
-Maryland                            74
-Massachusetts                       66
-Michigan                            82
-Minnesota                           59
-Mississippi                         84
-Missouri                            72
-Montana                             63
-Nebraska                            74
-Nevada                              81
-New Hampshire                       71
+Iowa                                73
+Kansas                              64
+Kentucky                            82
+Louisiana                           86
+Maine                               70
+Maryland                            77
+Massachusetts                       69
+Michigan                            83
+Minnesota                           60
+Mississippi                         80
+Missouri                            74
+Montana                             61
+Nebraska                            77
+Nevada                              88
+New Hampshire                       70
 New Jersey                          80
-New Mexico                          89
-New York                            64
-North Carolina                      78
-North Dakota                        70
-Ohio                                88
-Oklahoma                            76
-Oregon                              41
+New Mexico                          86
+New York                            67
+North Carolina                      82
+North Dakota                        77
+Ohio                                90
+Oklahoma                            77
+Oregon                              43
 Pennsylvania                        76
-Rhode Island                        93
-South Carolina                      88
-South Dakota                        70
-Tennessee                           75
-Texas                               85
+Rhode Island                        99
+South Carolina                      89
+South Dakota                        65
+Tennessee                           78
+Texas                               87
 Utah                                55
-Vermont                             50
-Virginia                            53
-Washington                          60
-West Virginia                       94
+Vermont                             52
+Virginia                            55
+Washington                          62
+West Virginia                       92
 Wisconsin                           64
-Wyoming                             55
+Wyoming                             76

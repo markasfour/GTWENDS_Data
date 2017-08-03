@@ -1,48 +1,48 @@
                       Ara Parseghian
 geoName                             
-Alabama                           60
-Arizona                           38
-Arkansas                          18
-California                        17
-Colorado                          13
-Connecticut                       26
-Delaware                          39
-District of Columbia              37
-Florida                           25
-Georgia                           31
-Hawaii                            12
-Idaho                             12
-Illinois                          39
+Alabama                           38
+Arizona                           27
+Arkansas                          14
+California                        15
+Colorado                          17
+Connecticut                       28
+Delaware                          34
+District of Columbia              20
+Florida                           18
+Georgia                           24
+Hawaii                             8
+Idaho                             30
+Illinois                          41
 Indiana                          100
-Iowa                              27
+Iowa                              17
 Kansas                            14
-Kentucky                          24
-Louisiana                         34
-Maine                             28
-Maryland                          24
-Massachusetts                     23
-Michigan                          44
-Minnesota                         19
-Mississippi                       30
-Missouri                          19
-Nebraska                          44
-Nevada                            25
-New Hampshire                     17
-New Jersey                        24
-New Mexico                        13
-New York                          23
+Kentucky                          23
+Louisiana                         19
+Maine                             25
+Maryland                          22
+Massachusetts                     20
+Michigan                          34
+Minnesota                         20
+Mississippi                       20
+Missouri                          21
+Nebraska                          34
+Nevada                            15
+New Hampshire                     20
+New Jersey                        19
+New Mexico                        12
+New York                          20
 North Carolina                    23
-Ohio                              60
-Oklahoma                          25
-Oregon                            24
+Ohio                              42
+Oklahoma                          24
+Oregon                            12
 Pennsylvania                      31
-Rhode Island                      13
-South Carolina                    14
-South Dakota                      24
-Tennessee                         30
-Texas                             17
-Utah                              14
-Virginia                          21
-Washington                        19
-West Virginia                     13
-Wisconsin                         30
+Rhode Island                      35
+South Carolina                    15
+South Dakota                      11
+Tennessee                         21
+Texas                             14
+Utah                              13
+Virginia                          18
+Washington                        18
+West Virginia                     26
+Wisconsin                         25

@@ -1,0 +1,12 @@
+               DENAUT
+geoName              
+California         35
+Florida            40
+Illinois           31
+Massachusetts      56
+New Jersey         41
+New York          100
+Ohio               20
+Pennsylvania       19
+Texas              12
+Virginia           17

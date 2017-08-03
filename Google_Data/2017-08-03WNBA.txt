@@ -1,0 +1,53 @@
+                      WNBA
+geoName                   
+Alabama                 43
+Alaska                  28
+Arizona                 54
+Arkansas                39
+California              34
+Colorado                25
+Connecticut             77
+Delaware                80
+District of Columbia    52
+Florida                 33
+Georgia                 53
+Hawaii                  39
+Idaho                   23
+Illinois                44
+Indiana                 57
+Iowa                    35
+Kansas                  30
+Kentucky                38
+Louisiana               46
+Maine                   27
+Maryland                49
+Massachusetts           32
+Michigan                31
+Minnesota              100
+Mississippi             67
+Missouri                32
+Montana                 33
+Nebraska                39
+Nevada                  68
+New Hampshire           26
+New Jersey              43
+New Mexico              30
+New York                43
+North Carolina          39
+North Dakota            47
+Ohio                    34
+Oklahoma                45
+Oregon                  24
+Pennsylvania            34
+Rhode Island            32
+South Carolina          46
+South Dakota            48
+Tennessee               44
+Texas                   41
+Utah                    25
+Vermont                 33
+Virginia                34
+Washington              41
+West Virginia           28
+Wisconsin               32
+Wyoming                 29

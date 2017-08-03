@@ -1,0 +1,47 @@
+                      Raise Act
+geoName                        
+Alabama                     100
+Arizona                      50
+Arkansas                     85
+California                   38
+Colorado                     34
+Connecticut                  35
+Delaware                     40
+District of Columbia         90
+Florida                      51
+Georgia                      47
+Hawaii                       46
+Idaho                        59
+Illinois                     48
+Indiana                      66
+Iowa                         73
+Kansas                       49
+Kentucky                     64
+Louisiana                    58
+Maine                        26
+Maryland                     48
+Massachusetts                34
+Michigan                     54
+Minnesota                    46
+Mississippi                  85
+Missouri                     70
+Nebraska                     47
+Nevada                       35
+New Hampshire                43
+New Jersey                   43
+New Mexico                   40
+New York                     34
+North Carolina               55
+Ohio                         58
+Oklahoma                     57
+Oregon                       25
+Pennsylvania                 39
+Rhode Island                 23
+South Carolina               51
+Tennessee                    71
+Texas                        45
+Utah                         49
+Virginia                     40
+Washington                   25
+West Virginia                63
+Wisconsin                    48

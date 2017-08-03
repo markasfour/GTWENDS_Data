@@ -1,0 +1,53 @@
+                      Mike Fisher
+geoName                          
+Alabama                        29
+Alaska                         25
+Arizona                        20
+Arkansas                       28
+California                     17
+Colorado                       27
+Connecticut                    25
+Delaware                       39
+District of Columbia           26
+Florida                        21
+Georgia                        23
+Hawaii                         15
+Idaho                          22
+Illinois                       30
+Indiana                        28
+Iowa                           30
+Kansas                         20
+Kentucky                       34
+Louisiana                      24
+Maine                          28
+Maryland                       23
+Massachusetts                  32
+Michigan                       33
+Minnesota                      42
+Mississippi                    29
+Missouri                       34
+Montana                        26
+Nebraska                       30
+Nevada                         21
+New Hampshire                  29
+New Jersey                     25
+New Mexico                     17
+New York                       24
+North Carolina                 26
+North Dakota                   55
+Ohio                           30
+Oklahoma                       27
+Oregon                         13
+Pennsylvania                   42
+Rhode Island                   26
+South Carolina                 24
+South Dakota                   28
+Tennessee                     100
+Texas                          25
+Utah                           22
+Vermont                        33
+Virginia                       23
+Washington                     18
+West Virginia                  30
+Wisconsin                      33
+Wyoming                        25

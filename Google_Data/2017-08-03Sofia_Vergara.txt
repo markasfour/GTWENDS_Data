@@ -1,53 +1,53 @@
                       Sofia Vergara
 geoName                            
-Alabama                          58
-Alaska                           59
+Alabama                          56
+Alaska                           54
 Arizona                          87
-Arkansas                         53
-California                       94
+Arkansas                         57
+California                       95
 Colorado                         69
-Connecticut                      81
-Delaware                         72
-District of Columbia             76
+Connecticut                      80
+Delaware                         75
+District of Columbia             75
 Florida                         100
 Georgia                          72
 Hawaii                           76
-Idaho                            56
-Illinois                         77
+Idaho                            57
+Illinois                         76
 Indiana                          63
-Iowa                             60
-Kansas                           63
+Iowa                             61
+Kansas                           65
 Kentucky                         65
-Louisiana                        72
-Maine                            52
-Maryland                         72
+Louisiana                        71
+Maine                            50
+Maryland                         73
 Massachusetts                    78
 Michigan                         66
-Minnesota                        64
-Mississippi                      53
+Minnesota                        63
+Mississippi                      52
 Missouri                         61
-Montana                          54
+Montana                          53
 Nebraska                         66
 Nevada                           84
-New Hampshire                    62
+New Hampshire                    61
 New Jersey                       95
-New Mexico                       87
+New Mexico                       84
 New York                         88
-North Carolina                   66
-North Dakota                     61
+North Carolina                   65
+North Dakota                     64
 Ohio                             63
-Oklahoma                         77
+Oklahoma                         76
 Oregon                           50
-Pennsylvania                     77
+Pennsylvania                     76
 Rhode Island                     78
 South Carolina                   63
-South Dakota                     52
+South Dakota                     53
 Tennessee                        60
-Texas                            97
-Utah                             64
-Vermont                          53
-Virginia                         64
-Washington                       66
-West Virginia                    57
+Texas                            96
+Utah                             63
+Vermont                          52
+Virginia                         63
+Washington                       65
+West Virginia                    56
 Wisconsin                        60
-Wyoming                          54
+Wyoming                          50

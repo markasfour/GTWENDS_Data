@@ -1,0 +1,22 @@
+                ThisIsUs
+geoName                 
+California            57
+Colorado              34
+Florida               35
+Georgia               31
+Illinois              33
+Indiana               35
+Maryland              85
+Massachusetts        100
+Michigan              44
+Minnesota             35
+New Jersey            74
+New York              63
+North Carolina        68
+Ohio                  30
+Pennsylvania          76
+Tennessee             65
+Texas                 44
+Virginia              60
+Washington            88
+Wisconsin             64
