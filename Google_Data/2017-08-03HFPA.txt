@@ -1,0 +1,26 @@
+                HFPA
+geoName             
+Arizona           16
+California       100
+Colorado          11
+Connecticut       34
+Florida            9
+Georgia           25
+Illinois          26
+Indiana           19
+Maryland          42
+Massachusetts     28
+Michigan          23
+Minnesota         19
+Missouri          26
+New Jersey        35
+New York          63
+North Carolina    13
+Ohio              17
+Oregon            14
+Pennsylvania      23
+Tennessee         27
+Texas             21
+Virginia          23
+Washington        24
+Wisconsin         26

@@ -1,0 +1,44 @@
+                      New US
+geoName                     
+Alabama                   29
+Arizona                   33
+Arkansas                  29
+California                31
+Colorado                  32
+Connecticut               64
+District of Columbia      51
+Florida                   33
+Georgia                   28
+Hawaii                    33
+Idaho                     29
+Illinois                  31
+Indiana                   34
+Iowa                      36
+Kansas                    28
+Kentucky                  30
+Louisiana                 63
+Maine                     48
+Maryland                  37
+Massachusetts             48
+Michigan                  28
+Minnesota                 34
+Mississippi               30
+Missouri                  31
+Nebraska                  29
+Nevada                    31
+New Hampshire             68
+New Jersey                71
+New Mexico               100
+New York                  75
+North Carolina            36
+Ohio                      32
+Oklahoma                  30
+Oregon                    24
+Pennsylvania              39
+South Carolina            31
+Tennessee                 28
+Texas                     30
+Utah                      30
+Virginia                  32
+Washington                30
+Wisconsin                 38

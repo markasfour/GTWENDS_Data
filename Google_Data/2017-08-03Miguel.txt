@@ -1,0 +1,53 @@
+                      Miguel
+geoName                     
+Alabama                   37
+Alaska                    28
+Arizona                   73
+Arkansas                  37
+California                96
+Colorado                  54
+Connecticut               55
+Delaware                  46
+District of Columbia      74
+Florida                   84
+Georgia                   60
+Hawaii                    47
+Idaho                     26
+Illinois                  60
+Indiana                   35
+Iowa                      29
+Kansas                    44
+Kentucky                  32
+Louisiana                 48
+Maine                     22
+Maryland                  59
+Massachusetts             56
+Michigan                  64
+Minnesota                 40
+Mississippi               42
+Missouri                  36
+Montana                   21
+Nebraska                  32
+Nevada                    70
+New Hampshire             25
+New Jersey                66
+New Mexico               100
+New York                  79
+North Carolina            45
+North Dakota              24
+Ohio                      32
+Oklahoma                  44
+Oregon                    66
+Pennsylvania              41
+Rhode Island              67
+South Carolina            41
+South Dakota              23
+Tennessee                 36
+Texas                     93
+Utah                      34
+Vermont                   27
+Virginia                  50
+Washington                41
+West Virginia             21
+Wisconsin                 31
+Wyoming                   25

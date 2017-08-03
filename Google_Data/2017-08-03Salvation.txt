@@ -1,0 +1,53 @@
+                      Salvation
+geoName                        
+Alabama                      55
+Alaska                       71
+Arizona                      51
+Arkansas                     53
+California                   53
+Colorado                     43
+Connecticut                  43
+Delaware                     44
+District of Columbia         57
+Florida                      57
+Georgia                      57
+Hawaii                       63
+Idaho                        42
+Illinois                     65
+Indiana                      53
+Iowa                         59
+Kansas                       53
+Kentucky                     50
+Louisiana                    44
+Maine                        53
+Maryland                     50
+Massachusetts                57
+Michigan                    100
+Minnesota                    64
+Mississippi                  66
+Missouri                     58
+Montana                      46
+Nebraska                     62
+Nevada                       46
+New Hampshire                53
+New Jersey                   41
+New Mexico                   35
+New York                     55
+North Carolina               58
+North Dakota                 46
+Ohio                         52
+Oklahoma                     63
+Oregon                       36
+Pennsylvania                 58
+Rhode Island                 72
+South Carolina               54
+South Dakota                 43
+Tennessee                    48
+Texas                        50
+Utah                         33
+Vermont                      40
+Virginia                     51
+Washington                   47
+West Virginia                50
+Wisconsin                    53
+Wyoming                      43

@@ -1,0 +1,53 @@
+                      Cambodia
+geoName                       
+Alabama                     32
+Alaska                      67
+Arizona                     47
+Arkansas                    37
+California                  81
+Colorado                    61
+Connecticut                 59
+Delaware                    40
+District of Columbia        95
+Florida                     39
+Georgia                     40
+Hawaii                     100
+Idaho                       50
+Illinois                    44
+Indiana                     41
+Iowa                        46
+Kansas                      49
+Kentucky                    37
+Louisiana                   35
+Maine                       65
+Maryland                    57
+Massachusetts               88
+Michigan                    38
+Minnesota                   66
+Mississippi                 29
+Missouri                    37
+Montana                     53
+Nebraska                    39
+Nevada                      55
+New Hampshire               57
+New Jersey                  46
+New Mexico                  40
+New York                    58
+North Carolina              44
+North Dakota                36
+Ohio                        41
+Oklahoma                    36
+Oregon                     100
+Pennsylvania                53
+Rhode Island                89
+South Carolina              37
+South Dakota                40
+Tennessee                   35
+Texas                       46
+Utah                        66
+Vermont                     65
+Virginia                    61
+Washington                  96
+West Virginia               34
+Wisconsin                   42
+Wyoming                     47

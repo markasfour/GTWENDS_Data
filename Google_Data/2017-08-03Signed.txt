@@ -1,0 +1,53 @@
+                      Signed
+geoName                     
+Alabama                   95
+Alaska                    81
+Arizona                   95
+Arkansas                  91
+California                86
+Colorado                  88
+Connecticut               93
+Delaware                  97
+District of Columbia      93
+Florida                   91
+Georgia                   91
+Hawaii                    67
+Idaho                     86
+Illinois                  90
+Indiana                   98
+Iowa                      88
+Kansas                    86
+Kentucky                  89
+Louisiana                 86
+Maine                     93
+Maryland                 100
+Massachusetts             92
+Michigan                  91
+Minnesota                 84
+Mississippi               93
+Missouri                  96
+Montana                   88
+Nebraska                  83
+Nevada                    93
+New Hampshire             96
+New Jersey                97
+New Mexico                88
+New York                  90
+North Carolina            93
+North Dakota              82
+Ohio                      95
+Oklahoma                  91
+Oregon                    69
+Pennsylvania              99
+Rhode Island              94
+South Carolina            96
+South Dakota              88
+Tennessee                 89
+Texas                     84
+Utah                      84
+Vermont                   89
+Virginia                  85
+Washington                88
+West Virginia             94
+Wisconsin                 90
+Wyoming                   85

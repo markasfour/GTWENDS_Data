@@ -1,0 +1,53 @@
+                      Amazon jobs
+geoName                          
+Alabama                        20
+Alaska                         24
+Arizona                        55
+Arkansas                       21
+California                     38
+Colorado                       28
+Connecticut                    29
+Delaware                       75
+District of Columbia           35
+Florida                        36
+Georgia                        35
+Hawaii                         22
+Idaho                          24
+Illinois                       34
+Indiana                        42
+Iowa                           18
+Kansas                         27
+Kentucky                       60
+Louisiana                      17
+Maine                          19
+Maryland                       50
+Massachusetts                  27
+Michigan                       24
+Minnesota                      31
+Mississippi                    18
+Missouri                       23
+Montana                        21
+Nebraska                       20
+Nevada                         47
+New Hampshire                  23
+New Jersey                     45
+New Mexico                     24
+New York                       23
+North Carolina                 32
+North Dakota                   33
+Ohio                           39
+Oklahoma                       19
+Oregon                         25
+Pennsylvania                   39
+Rhode Island                   32
+South Carolina                 51
+South Dakota                   15
+Tennessee                      46
+Texas                          37
+Utah                           23
+Vermont                        23
+Virginia                       42
+Washington                    100
+West Virginia                  36
+Wisconsin                      34
+Wyoming                        23

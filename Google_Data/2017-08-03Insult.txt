@@ -1,0 +1,53 @@
+                      Insult
+geoName                     
+Alabama                   75
+Alaska                    99
+Arizona                   85
+Arkansas                  78
+California                89
+Colorado                  83
+Connecticut               92
+Delaware                  86
+District of Columbia      87
+Florida                   77
+Georgia                   72
+Hawaii                    85
+Idaho                     94
+Illinois                  88
+Indiana                   90
+Iowa                      88
+Kansas                    84
+Kentucky                  82
+Louisiana                 78
+Maine                     98
+Maryland                  89
+Massachusetts             97
+Michigan                  88
+Minnesota                 87
+Mississippi               75
+Missouri                  83
+Montana                   81
+Nebraska                  84
+Nevada                    89
+New Hampshire            100
+New Jersey                95
+New Mexico                86
+New York                  88
+North Carolina            77
+North Dakota              73
+Ohio                      86
+Oklahoma                  79
+Oregon                    76
+Pennsylvania              90
+Rhode Island              95
+South Carolina            73
+South Dakota              68
+Tennessee                 72
+Texas                     78
+Utah                      91
+Vermont                   93
+Virginia                  94
+Washington                92
+West Virginia             89
+Wisconsin                 84
+Wyoming                   91
