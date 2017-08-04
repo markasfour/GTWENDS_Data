@@ -1,0 +1,46 @@
+                      MAFS
+geoName                   
+Alabama                 26
+Arizona                 23
+Arkansas                28
+California              28
+Colorado                23
+Connecticut             32
+Delaware                46
+District of Columbia    26
+Florida                100
+Georgia                 33
+Hawaii                  22
+Idaho                   32
+Illinois                32
+Indiana                 31
+Iowa                    16
+Kansas                  27
+Kentucky                29
+Louisiana               25
+Maryland                36
+Massachusetts           31
+Michigan                32
+Minnesota               26
+Mississippi             18
+Missouri                32
+Nebraska                22
+Nevada                  29
+New Hampshire           26
+New Jersey              31
+New Mexico              19
+New York                27
+North Carolina          23
+Ohio                    28
+Oklahoma                23
+Oregon                  21
+Pennsylvania            34
+Rhode Island            28
+South Carolina          29
+Tennessee               31
+Texas                   22
+Utah                    29
+Virginia                25
+Washington              27
+West Virginia           32
+Wisconsin               30

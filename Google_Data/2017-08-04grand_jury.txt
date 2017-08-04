@@ -1,0 +1,53 @@
+                      grand jury
+geoName                         
+Alabama                       60
+Alaska                        49
+Arizona                       39
+Arkansas                      30
+California                    38
+Colorado                      33
+Connecticut                   28
+Delaware                      38
+District of Columbia          79
+Florida                       28
+Georgia                       43
+Hawaii                        30
+Idaho                         29
+Illinois                      37
+Indiana                       31
+Iowa                          29
+Kansas                        36
+Kentucky                      63
+Louisiana                     37
+Maine                         45
+Maryland                      48
+Massachusetts                 40
+Michigan                      29
+Minnesota                     34
+Mississippi                   54
+Missouri                     100
+Montana                       26
+Nebraska                      35
+Nevada                        29
+New Hampshire                 40
+New Jersey                    42
+New Mexico                    47
+New York                      50
+North Carolina                37
+North Dakota                  30
+Ohio                          60
+Oklahoma                      40
+Oregon                        31
+Pennsylvania                  43
+Rhode Island                  39
+South Carolina                36
+South Dakota                  38
+Tennessee                     49
+Texas                         42
+Utah                          25
+Vermont                       30
+Virginia                      38
+Washington                    29
+West Virginia                 97
+Wisconsin                     26
+Wyoming                       34

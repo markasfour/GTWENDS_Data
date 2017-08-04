@@ -1,0 +1,53 @@
+                      Dubai
+geoName                    
+Alabama                  39
+Alaska                   50
+Arizona                  56
+Arkansas                 40
+California               75
+Colorado                 55
+Connecticut              69
+Delaware                 58
+District of Columbia     97
+Florida                  70
+Georgia                  62
+Hawaii                   55
+Idaho                    42
+Illinois                 67
+Indiana                  43
+Iowa                     39
+Kansas                   87
+Kentucky                 42
+Louisiana                44
+Maine                    38
+Maryland                 75
+Massachusetts            77
+Michigan                 51
+Minnesota                52
+Mississippi              37
+Missouri                 43
+Montana                  32
+Nebraska                 41
+Nevada                   65
+New Hampshire            60
+New Jersey               92
+New Mexico               47
+New York                100
+North Carolina           56
+North Dakota             40
+Ohio                     47
+Oklahoma                 48
+Oregon                   64
+Pennsylvania             56
+Rhode Island             55
+South Carolina           44
+South Dakota             38
+Tennessee                44
+Texas                    73
+Utah                     48
+Vermont                  42
+Virginia                 94
+Washington               68
+West Virginia            35
+Wisconsin                39
+Wyoming                  38

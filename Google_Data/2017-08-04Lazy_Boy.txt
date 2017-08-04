@@ -1,0 +1,53 @@
+                      Lazy Boy
+geoName                       
+Alabama                    100
+Alaska                      51
+Arizona                     89
+Arkansas                    78
+California                  48
+Colorado                    70
+Connecticut                 56
+Delaware                    83
+District of Columbia        47
+Florida                     62
+Georgia                     58
+Hawaii                      25
+Idaho                       62
+Illinois                    67
+Indiana                     80
+Iowa                        60
+Kansas                      53
+Kentucky                    72
+Louisiana                   86
+Maine                       67
+Maryland                    75
+Massachusetts               48
+Michigan                    78
+Minnesota                   39
+Mississippi                 50
+Missouri                    65
+Montana                     48
+Nebraska                    42
+Nevada                      65
+New Hampshire               69
+New Jersey                  55
+New Mexico                  61
+New York                    44
+North Carolina              69
+North Dakota                52
+Ohio                        88
+Oklahoma                    54
+Oregon                      58
+Pennsylvania                70
+Rhode Island                55
+South Carolina              85
+South Dakota                47
+Tennessee                   69
+Texas                       55
+Utah                        29
+Vermont                     43
+Virginia                    60
+Washington                  63
+West Virginia               71
+Wisconsin                   62
+Wyoming                     58

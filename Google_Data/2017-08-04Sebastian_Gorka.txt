@@ -1,0 +1,52 @@
+                      Sebastian Gorka
+geoName                              
+Alabama                            42
+Alaska                             50
+Arizona                            43
+Arkansas                           35
+California                         41
+Colorado                           35
+Connecticut                        52
+Delaware                           46
+District of Columbia              100
+Florida                            40
+Georgia                            30
+Hawaii                             35
+Idaho                              26
+Illinois                           38
+Indiana                            42
+Iowa                               38
+Kansas                             29
+Kentucky                           27
+Louisiana                          34
+Maine                              48
+Maryland                           66
+Massachusetts                      49
+Michigan                           34
+Minnesota                          38
+Mississippi                        33
+Missouri                           36
+Montana                            43
+Nebraska                           35
+Nevada                             28
+New Hampshire                      44
+New Jersey                         44
+New Mexico                         56
+New York                           45
+North Carolina                     37
+Ohio                               36
+Oklahoma                           20
+Oregon                             41
+Pennsylvania                       41
+Rhode Island                       42
+South Carolina                     37
+South Dakota                       28
+Tennessee                          36
+Texas                              31
+Utah                               27
+Vermont                            62
+Virginia                           51
+Washington                         44
+West Virginia                      40
+Wisconsin                          26
+Wyoming                            35
