@@ -1,0 +1,53 @@
+                      Kidnap
+geoName                     
+Alabama                   86
+Alaska                    78
+Arizona                   80
+Arkansas                  86
+California                95
+Colorado                  66
+Connecticut               81
+Delaware                 100
+District of Columbia      84
+Florida                   86
+Georgia                   83
+Hawaii                    68
+Idaho                     66
+Illinois                  81
+Indiana                   81
+Iowa                      72
+Kansas                    72
+Kentucky                  79
+Louisiana                 93
+Maine                     70
+Maryland                  85
+Massachusetts             78
+Michigan                  77
+Minnesota                 65
+Mississippi               98
+Missouri                  75
+Montana                   60
+Nebraska                  61
+Nevada                    88
+New Hampshire             74
+New Jersey                90
+New Mexico                75
+New York                  80
+North Carolina            79
+North Dakota              67
+Ohio                      80
+Oklahoma                  79
+Oregon                    64
+Pennsylvania              80
+Rhode Island              80
+South Carolina            89
+South Dakota              64
+Tennessee                 78
+Texas                     87
+Utah                      75
+Vermont                   57
+Virginia                  80
+Washington                76
+West Virginia             81
+Wisconsin                 65
+Wyoming                   59

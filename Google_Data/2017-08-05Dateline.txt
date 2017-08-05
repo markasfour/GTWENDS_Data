@@ -1,0 +1,53 @@
+                      Dateline
+geoName                       
+Alabama                     54
+Alaska                      92
+Arizona                     65
+Arkansas                    55
+California                  55
+Colorado                    65
+Connecticut                 49
+Delaware                    46
+District of Columbia        48
+Florida                     45
+Georgia                     46
+Hawaii                      50
+Idaho                      100
+Illinois                    51
+Indiana                     56
+Iowa                        81
+Kansas                      55
+Kentucky                    62
+Louisiana                   50
+Maine                       64
+Maryland                    51
+Massachusetts               51
+Michigan                    57
+Minnesota                   73
+Mississippi                 49
+Missouri                    66
+Montana                     94
+Nebraska                    65
+Nevada                      61
+New Hampshire               49
+New Jersey                  41
+New Mexico                  67
+New York                    47
+North Carolina              54
+North Dakota                79
+Ohio                        57
+Oklahoma                    57
+Oregon                      59
+Pennsylvania                51
+Rhode Island                60
+South Carolina              66
+South Dakota                65
+Tennessee                   56
+Texas                       48
+Utah                        83
+Vermont                     56
+Virginia                    44
+Washington                  66
+West Virginia               60
+Wisconsin                   61
+Wyoming                     64
