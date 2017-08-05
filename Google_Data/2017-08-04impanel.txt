@@ -1,0 +1,44 @@
+                      impanel
+geoName                      
+Alabama                    23
+Arizona                    17
+California                 13
+Colorado                   12
+Connecticut                25
+District of Columbia       40
+Florida                    14
+Georgia                    15
+Idaho                      29
+Illinois                   12
+Indiana                     8
+Iowa                       22
+Kansas                     13
+Kentucky                   21
+Louisiana                  21
+Maine                      32
+Maryland                   16
+Massachusetts              42
+Michigan                    8
+Minnesota                  12
+Missouri                   19
+Nebraska                   41
+Nevada                     39
+New Hampshire              29
+New Jersey                 15
+New Mexico                 26
+New York                   12
+North Carolina              9
+Ohio                       15
+Oklahoma                   24
+Oregon                     10
+Pennsylvania               14
+Rhode Island               34
+South Carolina             14
+Tennessee                   6
+Texas                      13
+Utah                       20
+Vermont                    61
+Virginia                   18
+Washington                 18
+West Virginia             100
+Wisconsin                   7

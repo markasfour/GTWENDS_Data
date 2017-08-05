@@ -1,53 +1,53 @@
                       CrossFit Games 2017
 geoName                                  
-Alabama                                55
-Alaska                                 53
-Arizona                                52
-Arkansas                               54
-California                             41
-Colorado                               66
-Connecticut                            61
-Delaware                               47
-District of Columbia                   41
-Florida                                44
-Georgia                                45
-Hawaii                                 71
-Idaho                                  79
-Illinois                               52
-Indiana                                48
-Iowa                                   81
-Kansas                                 35
-Kentucky                               51
-Louisiana                              50
-Maine                                  48
-Maryland                               31
-Massachusetts                          46
-Michigan                               43
-Minnesota                              56
-Mississippi                            38
-Missouri                               58
-Montana                                77
-Nebraska                               85
-Nevada                                 53
-New Hampshire                          49
-New Jersey                             36
-New Mexico                             56
-New York                               31
-North Carolina                         53
-North Dakota                           24
-Ohio                                   50
-Oklahoma                               44
-Oregon                                 40
-Pennsylvania                           36
-Rhode Island                           39
-South Carolina                         49
-South Dakota                           54
-Tennessee                              58
-Texas                                  50
-Utah                                   56
-Vermont                                49
-Virginia                               40
-Washington                             51
-West Virginia                          48
+Alabama                                53
+Alaska                                 56
+Arizona                                41
+Arkansas                               46
+California                             38
+Colorado                               53
+Connecticut                            50
+Delaware                               42
+District of Columbia                   37
+Florida                                40
+Georgia                                40
+Hawaii                                 57
+Idaho                                  71
+Illinois                               51
+Indiana                                39
+Iowa                                   72
+Kansas                                 28
+Kentucky                               45
+Louisiana                              54
+Maine                                  37
+Maryland                               27
+Massachusetts                          41
+Michigan                               40
+Minnesota                              51
+Mississippi                            41
+Missouri                               44
+Montana                                61
+Nebraska                               73
+Nevada                                 40
+New Hampshire                          43
+New Jersey                             34
+New Mexico                             55
+New York                               27
+North Carolina                         51
+North Dakota                           49
+Ohio                                   47
+Oklahoma                               42
+Oregon                                 34
+Pennsylvania                           35
+Rhode Island                           42
+South Carolina                         47
+South Dakota                           57
+Tennessee                              48
+Texas                                  45
+Utah                                   55
+Vermont                                44
+Virginia                               35
+Washington                             43
+West Virginia                          38
 Wisconsin                             100
-Wyoming                                92
+Wyoming                                70

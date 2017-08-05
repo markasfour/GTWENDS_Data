@@ -1,0 +1,53 @@
+                      NFL Preseason
+geoName                            
+Alabama                          58
+Alaska                           62
+Arizona                          90
+Arkansas                         51
+California                       58
+Colorado                         82
+Connecticut                      44
+Delaware                         81
+District of Columbia             75
+Florida                          68
+Georgia                          65
+Hawaii                           78
+Idaho                            81
+Illinois                         50
+Indiana                          49
+Iowa                             66
+Kansas                           60
+Kentucky                         47
+Louisiana                        79
+Maine                            51
+Maryland                         61
+Massachusetts                    42
+Michigan                         45
+Minnesota                        58
+Mississippi                      84
+Missouri                         48
+Montana                          81
+Nebraska                         62
+Nevada                          100
+New Hampshire                    41
+New Jersey                       51
+New Mexico                       94
+New York                         41
+North Carolina                   83
+North Dakota                     82
+Ohio                             55
+Oklahoma                         50
+Oregon                           43
+Pennsylvania                     55
+Rhode Island                     50
+South Carolina                   92
+South Dakota                     80
+Tennessee                        62
+Texas                            74
+Utah                             58
+Vermont                          36
+Virginia                         61
+Washington                       78
+West Virginia                    61
+Wisconsin                        60
+Wyoming                          97

@@ -1,0 +1,53 @@
+                      Mountain View
+geoName                            
+Alabama                          12
+Alaska                           43
+Arizona                          44
+Arkansas                         68
+California                      100
+Colorado                         45
+Connecticut                      10
+Delaware                          4
+District of Columbia             11
+Florida                           5
+Georgia                          20
+Hawaii                           15
+Idaho                            69
+Illinois                          6
+Indiana                           4
+Iowa                              5
+Kansas                            7
+Kentucky                         10
+Louisiana                         7
+Maine                            16
+Maryland                          8
+Massachusetts                    12
+Michigan                          4
+Minnesota                         6
+Mississippi                       9
+Missouri                         16
+Montana                          36
+Nebraska                          6
+Nevada                           43
+New Hampshire                    35
+New Jersey                       10
+New Mexico                       42
+New York                          8
+North Carolina                   16
+North Dakota                      5
+Ohio                              4
+Oklahoma                          9
+Oregon                           25
+Pennsylvania                     12
+Rhode Island                      8
+South Carolina                   13
+South Dakota                     14
+Tennessee                        23
+Texas                            13
+Utah                             57
+Vermont                          35
+Virginia                         14
+Washington                       30
+West Virginia                    16
+Wisconsin                         6
+Wyoming                          80

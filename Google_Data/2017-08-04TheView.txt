@@ -1,0 +1,28 @@
+                TheView
+geoName                
+Alabama              34
+Arizona              36
+California           57
+Colorado             39
+Florida              49
+Georgia              60
+Illinois             56
+Indiana              62
+Kentucky             59
+Maryland             70
+Massachusetts        56
+Michigan             62
+Minnesota            53
+Missouri             60
+New Jersey           93
+New York            100
+North Carolina       48
+Ohio                 67
+Oklahoma             88
+Pennsylvania         90
+South Carolina       54
+Tennessee            59
+Texas                45
+Virginia             49
+Washington           46
+Wisconsin            51

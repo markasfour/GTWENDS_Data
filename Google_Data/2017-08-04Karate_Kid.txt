@@ -1,0 +1,53 @@
+                      Karate Kid
+geoName                         
+Alabama                       64
+Alaska                        59
+Arizona                       73
+Arkansas                      64
+California                    74
+Colorado                      64
+Connecticut                   65
+Delaware                      65
+District of Columbia          60
+Florida                       63
+Georgia                       62
+Hawaii                       100
+Idaho                         62
+Illinois                      66
+Indiana                       65
+Iowa                          62
+Kansas                        63
+Kentucky                      62
+Louisiana                     68
+Maine                         60
+Maryland                      65
+Massachusetts                 64
+Michigan                      63
+Minnesota                     61
+Mississippi                   63
+Missouri                      64
+Montana                       56
+Nebraska                      69
+Nevada                        80
+New Hampshire                 63
+New Jersey                    72
+New Mexico                    74
+New York                      66
+North Carolina                62
+North Dakota                  58
+Ohio                          65
+Oklahoma                      69
+Oregon                        56
+Pennsylvania                  64
+Rhode Island                  73
+South Carolina                61
+South Dakota                  60
+Tennessee                     65
+Texas                         74
+Utah                          71
+Vermont                       49
+Virginia                      58
+Washington                    66
+West Virginia                 68
+Wisconsin                     61
+Wyoming                       63

@@ -1,0 +1,53 @@
+                      Dallas Cowboys
+geoName                             
+Alabama                           14
+Alaska                            15
+Arizona                           25
+Arkansas                          39
+California                        16
+Colorado                          20
+Connecticut                       16
+Delaware                          27
+District of Columbia              31
+Florida                           15
+Georgia                           20
+Hawaii                            20
+Idaho                             24
+Illinois                          13
+Indiana                           10
+Iowa                              22
+Kansas                            24
+Kentucky                          18
+Louisiana                         33
+Maine                             10
+Maryland                          23
+Massachusetts                      9
+Michigan                          10
+Minnesota                          9
+Mississippi                       41
+Missouri                          16
+Montana                           21
+Nebraska                          17
+Nevada                            25
+New Hampshire                      7
+New Jersey                        19
+New Mexico                        77
+New York                          14
+North Carolina                    24
+North Dakota                      20
+Ohio                              14
+Oklahoma                          49
+Oregon                             9
+Pennsylvania                      19
+Rhode Island                      11
+South Carolina                    29
+South Dakota                      23
+Tennessee                         23
+Texas                            100
+Utah                              17
+Vermont                           10
+Virginia                          28
+Washington                        13
+West Virginia                     25
+Wisconsin                         13
+Wyoming                           24

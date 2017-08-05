@@ -19,7 +19,7 @@ Iowa                            21
 Kansas                           8
 Kentucky                         9
 Louisiana                        6
-Maine                            3
+Maine                            4
 Maryland                         5
 Massachusetts                    7
 Michigan                        20
@@ -27,7 +27,7 @@ Minnesota                       14
 Mississippi                      4
 Missouri                        13
 Montana                          5
-Nebraska                        11
+Nebraska                        12
 Nevada                           5
 New Hampshire                    4
 New Jersey                       5
@@ -39,13 +39,13 @@ Ohio                            12
 Oklahoma                         5
 Oregon                           3
 Pennsylvania                     6
-Rhode Island                     6
+Rhode Island                     5
 South Carolina                   5
 South Dakota                     7
 Tennessee                        7
 Texas                            5
 Utah                             3
-Vermont                          6
+Vermont                          5
 Virginia                         4
 Washington                       4
 West Virginia                    5

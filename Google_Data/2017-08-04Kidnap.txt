@@ -1,53 +1,53 @@
                       Kidnap
 geoName                     
-Alabama                   83
-Alaska                    72
-Arizona                   77
+Alabama                   95
+Alaska                    73
+Arizona                   85
 Arkansas                  86
-California                93
-Colorado                  66
-Connecticut               76
-Delaware                  92
-District of Columbia      79
-Florida                   84
-Georgia                   81
-Hawaii                    65
-Idaho                     67
-Illinois                  80
-Indiana                   78
-Iowa                      68
-Kansas                    67
-Kentucky                  80
-Louisiana                 95
-Maine                     66
-Maryland                  86
-Massachusetts             77
-Michigan                  74
-Minnesota                 66
-Mississippi              100
-Missouri                  74
-Montana                   64
-Nebraska                  61
-Nevada                    83
-New Hampshire             64
-New Jersey                87
-New Mexico                72
-New York                  79
-North Carolina            81
-North Dakota              63
-Ohio                      77
-Oklahoma                  79
-Oregon                    61
-Pennsylvania              76
-Rhode Island              84
-South Carolina            84
-South Dakota              63
-Tennessee                 77
-Texas                     86
-Utah                      73
-Vermont                   51
-Virginia                  79
-Washington                71
-West Virginia             77
-Wisconsin                 63
-Wyoming                   55
+California                97
+Colorado                  69
+Connecticut               84
+Delaware                  88
+District of Columbia      87
+Florida                   91
+Georgia                   84
+Hawaii                    77
+Idaho                     70
+Illinois                  83
+Indiana                   84
+Iowa                      74
+Kansas                    72
+Kentucky                  81
+Louisiana                100
+Maine                     74
+Maryland                  91
+Massachusetts             79
+Michigan                  79
+Minnesota                 67
+Mississippi               99
+Missouri                  78
+Montana                   62
+Nebraska                  68
+Nevada                    93
+New Hampshire             78
+New Jersey                92
+New Mexico                81
+New York                  85
+North Carolina            85
+North Dakota              62
+Ohio                      82
+Oklahoma                  80
+Oregon                    65
+Pennsylvania              81
+Rhode Island              86
+South Carolina            92
+South Dakota              65
+Tennessee                 83
+Texas                     91
+Utah                      77
+Vermont                   67
+Virginia                  84
+Washington                77
+West Virginia             76
+Wisconsin                 65
+Wyoming                   63

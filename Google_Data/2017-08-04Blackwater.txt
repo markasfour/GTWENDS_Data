@@ -1,0 +1,53 @@
+                      Blackwater
+geoName                         
+Alabama                       16
+Alaska                        16
+Arizona                       10
+Arkansas                       8
+California                     7
+Colorado                       9
+Connecticut                    8
+Delaware                      15
+District of Columbia          20
+Florida                       18
+Georgia                       12
+Hawaii                         8
+Idaho                          8
+Illinois                       7
+Indiana                        8
+Iowa                           7
+Kansas                         8
+Kentucky                      11
+Louisiana                     16
+Maine                         10
+Maryland                      22
+Massachusetts                 10
+Michigan                       8
+Minnesota                     11
+Mississippi                   12
+Missouri                      12
+Montana                       11
+Nebraska                       8
+Nevada                         8
+New Hampshire                 33
+New Jersey                     7
+New Mexico                    13
+New York                       7
+North Carolina                12
+North Dakota                   9
+Ohio                           9
+Oklahoma                       9
+Oregon                         9
+Pennsylvania                  11
+Rhode Island                   8
+South Carolina                14
+South Dakota                   9
+Tennessee                     10
+Texas                          9
+Utah                           7
+Vermont                       10
+Virginia                      22
+Washington                     9
+West Virginia                100
+Wisconsin                      9
+Wyoming                       13

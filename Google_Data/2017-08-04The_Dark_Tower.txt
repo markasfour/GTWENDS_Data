@@ -1,53 +1,53 @@
                       The Dark Tower
 geoName                             
-Alabama                           67
+Alabama                           68
 Alaska                            80
 Arizona                           61
-Arkansas                          75
-California                        52
-Colorado                          69
+Arkansas                          78
+California                        54
+Colorado                          71
 Connecticut                       58
-Delaware                          63
-District of Columbia              47
-Florida                           47
-Georgia                           50
-Hawaii                            35
-Idaho                             74
-Illinois                          57
-Indiana                           72
-Iowa                              69
-Kansas                            62
-Kentucky                          70
-Louisiana                         52
+Delaware                          60
+District of Columbia              50
+Florida                           49
+Georgia                           54
+Hawaii                            37
+Idaho                             76
+Illinois                          58
+Indiana                           78
+Iowa                              67
+Kansas                            61
+Kentucky                          73
+Louisiana                         53
 Maine                            100
-Maryland                          56
-Massachusetts                     57
-Michigan                          61
-Minnesota                         59
-Mississippi                       54
-Missouri                          63
-Montana                           83
-Nebraska                          68
-Nevada                            57
-New Hampshire                     80
-New Jersey                        48
-New Mexico                        60
-New York                          48
-North Carolina                    56
-North Dakota                      68
-Ohio                              63
-Oklahoma                          68
+Maryland                          59
+Massachusetts                     58
+Michigan                          64
+Minnesota                         61
+Mississippi                       56
+Missouri                          64
+Montana                           93
+Nebraska                          70
+Nevada                            59
+New Hampshire                     74
+New Jersey                        51
+New Mexico                        59
+New York                          52
+North Carolina                    57
+North Dakota                      69
+Ohio                              66
+Oklahoma                          75
 Oregon                            62
-Pennsylvania                      62
-Rhode Island                      62
-South Carolina                    56
-South Dakota                      67
-Tennessee                         63
-Texas                             54
-Utah                              79
-Vermont                           71
-Virginia                          48
-Washington                        71
-West Virginia                     83
-Wisconsin                         61
-Wyoming                           79
+Pennsylvania                      67
+Rhode Island                      60
+South Carolina                    61
+South Dakota                      64
+Tennessee                         66
+Texas                             56
+Utah                              80
+Vermont                           69
+Virginia                          51
+Washington                        72
+West Virginia                     90
+Wisconsin                         64
+Wyoming                           90

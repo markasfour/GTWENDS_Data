@@ -1,53 +1,53 @@
                       Robert Hardy
 geoName                           
-Alabama                         43
-Alaska                          44
-Arizona                         35
-Arkansas                        38
-California                      32
+Alabama                         51
+Alaska                          37
+Arizona                         39
+Arkansas                        43
+California                      35
 Colorado                        37
-Connecticut                     37
-Delaware                        37
-District of Columbia            55
-Florida                         31
-Georgia                         37
-Hawaii                          30
-Idaho                           50
-Illinois                        37
-Indiana                         38
-Iowa                            23
-Kansas                          40
-Kentucky                        70
-Louisiana                       33
+Connecticut                     59
+Delaware                        39
+District of Columbia            58
+Florida                         33
+Georgia                         48
+Hawaii                          23
+Idaho                           62
+Illinois                        41
+Indiana                         35
+Iowa                            37
+Kansas                          28
+Kentucky                        72
+Louisiana                       47
 Maine                           50
-Maryland                        51
-Massachusetts                   37
-Michigan                        35
-Minnesota                       30
-Mississippi                     49
-Missouri                        37
-Montana                         37
-Nebraska                        33
-Nevada                          41
-New Hampshire                   64
-New Jersey                      35
-New Mexico                      49
-New York                        40
-North Carolina                  35
-North Dakota                    17
-Ohio                            35
-Oklahoma                        34
-Oregon                          28
-Pennsylvania                    37
-Rhode Island                    33
-South Carolina                  41
-South Dakota                    25
-Tennessee                       40
-Texas                           38
-Utah                            34
-Vermont                         46
-Virginia                        42
-Washington                      52
+Maryland                        62
+Massachusetts                   39
+Michigan                        32
+Minnesota                       41
+Mississippi                     67
+Missouri                        41
+Montana                         43
+Nebraska                        42
+Nevada                          55
+New Hampshire                   71
+New Jersey                      40
+New Mexico                      71
+New York                        47
+North Carolina                  47
+North Dakota                    19
+Ohio                            43
+Oklahoma                        32
+Oregon                          32
+Pennsylvania                    45
+Rhode Island                    54
+South Carolina                  45
+South Dakota                    29
+Tennessee                       51
+Texas                           41
+Utah                            40
+Vermont                         68
+Virginia                        46
+Washington                      56
 West Virginia                  100
-Wisconsin                       31
-Wyoming                         50
+Wisconsin                       37
+Wyoming                         73

@@ -1,53 +1,53 @@
                       Ryan Tannehill
 geoName                             
-Alabama                           31
-Alaska                            24
+Alabama                           30
+Alaska                            23
 Arizona                           29
-Arkansas                          23
-California                        25
+Arkansas                          22
+California                        24
 Colorado                          35
-Connecticut                       43
-Delaware                          39
+Connecticut                       42
+Delaware                          40
 District of Columbia              48
 Florida                          100
-Georgia                           32
-Hawaii                            29
-Idaho                             23
-Illinois                          34
-Indiana                           36
-Iowa                              37
-Kansas                            27
-Kentucky                          30
+Georgia                           34
+Hawaii                            26
+Idaho                             26
+Illinois                          33
+Indiana                           33
+Iowa                              39
+Kansas                            26
+Kentucky                          32
 Louisiana                         33
-Maine                             38
-Maryland                          38
-Massachusetts                     46
-Michigan                          27
+Maine                             42
+Maryland                          37
+Massachusetts                     47
+Michigan                          29
 Minnesota                         33
-Mississippi                       30
-Missouri                          30
-Montana                           32
-Nebraska                          29
-Nevada                            29
-New Hampshire                     35
+Mississippi                       31
+Missouri                          32
+Montana                           27
+Nebraska                          30
+Nevada                            30
+New Hampshire                     32
 New Jersey                        44
-New Mexico                        27
-New York                          38
-North Carolina                    36
-North Dakota                      35
+New Mexico                        18
+New York                          37
+North Carolina                    34
+North Dakota                      36
 Ohio                              38
-Oklahoma                          39
-Oregon                            19
+Oklahoma                          36
+Oregon                            18
 Pennsylvania                      44
-Rhode Island                      47
-South Carolina                    35
-South Dakota                      45
-Tennessee                         29
-Texas                             42
-Utah                              25
-Vermont                           24
-Virginia                          34
-Washington                        29
-West Virginia                     44
-Wisconsin                         36
-Wyoming                           36
+Rhode Island                      51
+South Carolina                    34
+South Dakota                      53
+Tennessee                         30
+Texas                             40
+Utah                              24
+Vermont                           31
+Virginia                          35
+Washington                        30
+West Virginia                     42
+Wisconsin                         37
+Wyoming                           33

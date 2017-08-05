@@ -1,0 +1,51 @@
+                      Ken Starr
+geoName                        
+Alabama                      32
+Arizona                      23
+Arkansas                     43
+California                   32
+Colorado                     39
+Connecticut                  33
+Delaware                     43
+District of Columbia         77
+Florida                      29
+Georgia                      32
+Hawaii                       28
+Idaho                        22
+Illinois                     30
+Indiana                      30
+Iowa                         35
+Kansas                       33
+Kentucky                     26
+Louisiana                    33
+Maine                        23
+Maryland                     42
+Massachusetts                32
+Michigan                     31
+Minnesota                    26
+Mississippi                  31
+Missouri                     30
+Montana                      18
+Nebraska                     37
+Nevada                       30
+New Hampshire                24
+New Jersey                   33
+New Mexico                   22
+New York                     35
+North Carolina               29
+Ohio                         28
+Oklahoma                     55
+Oregon                       28
+Pennsylvania                 33
+Rhode Island                 31
+South Carolina               36
+South Dakota                 10
+Tennessee                    34
+Texas                       100
+Utah                         23
+Vermont                      33
+Virginia                     36
+Washington                   27
+West Virginia                35
+Wisconsin                    28
+Wyoming                      23

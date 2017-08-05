@@ -1,0 +1,14 @@
+              Severe Thunderstorm Watch
+geoName                                
+Alabama                              53
+California                           12
+Georgia                              58
+Illinois                             81
+Michigan                             88
+Minnesota                            99
+New York                             42
+Ohio                                 56
+Pennsylvania                         59
+Texas                                57
+Virginia                             51
+Wisconsin                           100

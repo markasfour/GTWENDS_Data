@@ -1,52 +1,52 @@
                       Luann de Lesseps
 geoName                               
-Alabama                             39
-Alaska                              25
-Arizona                             45
-Arkansas                            41
-California                          54
-Colorado                            40
-Connecticut                         93
-Delaware                            72
-District of Columbia                69
-Florida                             62
-Georgia                             42
-Hawaii                              45
-Idaho                               33
-Illinois                            58
-Indiana                             45
-Iowa                                36
-Kansas                              40
-Kentucky                            46
-Louisiana                           56
-Maine                               53
-Maryland                            60
-Massachusetts                       78
-Michigan                            48
-Minnesota                           51
+Alabama                             41
+Alaska                              24
+Arizona                             48
+Arkansas                            39
+California                          57
+Colorado                            41
+Connecticut                         97
+Delaware                            85
+District of Columbia                72
+Florida                             64
+Georgia                             45
+Hawaii                              48
+Idaho                               37
+Illinois                            61
+Indiana                             47
+Iowa                                41
+Kansas                              42
+Kentucky                            41
+Louisiana                           66
+Maine                               55
+Maryland                            64
+Massachusetts                       85
+Michigan                            51
+Minnesota                           48
 Mississippi                         35
-Missouri                            44
-Montana                             32
+Missouri                            41
+Montana                             29
 Nebraska                            43
-Nevada                              53
-New Hampshire                       63
-New Jersey                          99
-New Mexico                          34
-New York                            92
+Nevada                              52
+New Hampshire                       66
+New Jersey                         100
+New Mexico                          36
+New York                            94
 North Carolina                      47
-North Dakota                        42
-Ohio                                50
-Oklahoma                            37
+North Dakota                        46
+Ohio                                53
+Oklahoma                            38
 Oregon                              26
-Pennsylvania                        71
-Rhode Island                       100
+Pennsylvania                        73
+Rhode Island                        96
 South Carolina                      56
 South Dakota                        35
-Tennessee                           42
-Texas                               45
+Tennessee                           43
+Texas                               44
 Utah                                26
-Vermont                             60
-Virginia                            52
-Washington                          51
-West Virginia                       42
-Wisconsin                           47
+Vermont                             59
+Virginia                            54
+Washington                          50
+West Virginia                       40
+Wisconsin                           49

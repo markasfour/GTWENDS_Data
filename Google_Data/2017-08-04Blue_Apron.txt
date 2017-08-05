@@ -1,0 +1,53 @@
+                      Blue Apron
+geoName                         
+Alabama                       58
+Alaska                        22
+Arizona                       48
+Arkansas                      55
+California                    66
+Colorado                      69
+Connecticut                   81
+Delaware                      68
+District of Columbia         100
+Florida                       47
+Georgia                       50
+Hawaii                        22
+Idaho                         51
+Illinois                      54
+Indiana                       51
+Iowa                          41
+Kansas                        40
+Kentucky                      50
+Louisiana                     50
+Maine                         68
+Maryland                      78
+Massachusetts                 80
+Michigan                      48
+Minnesota                     42
+Mississippi                   48
+Missouri                      45
+Montana                       53
+Nebraska                      43
+Nevada                        51
+New Hampshire                 70
+New Jersey                    88
+New Mexico                    49
+New York                      85
+North Carolina                60
+North Dakota                  46
+Ohio                          55
+Oklahoma                      45
+Oregon                        49
+Pennsylvania                  65
+Rhode Island                  71
+South Carolina                59
+South Dakota                  43
+Tennessee                     60
+Texas                         48
+Utah                          55
+Vermont                       77
+Virginia                      69
+Washington                    71
+West Virginia                 60
+Wisconsin                     47
+Wyoming                       62
