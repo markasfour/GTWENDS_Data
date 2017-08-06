@@ -1,0 +1,45 @@
+                      Ta Ta Towel
+geoName                          
+Alabama                        12
+Arizona                        22
+California                     11
+Colorado                        6
+Connecticut                    11
+District of Columbia           11
+Florida                        10
+Georgia                        11
+Hawaii                         26
+Idaho                          32
+Illinois                        5
+Indiana                        25
+Iowa                           16
+Kansas                         28
+Kentucky                       17
+Louisiana                      23
+Maine                          34
+Maryland                        7
+Massachusetts                   9
+Michigan                        8
+Minnesota                      20
+Mississippi                    22
+Missouri                       21
+Montana                        53
+Nebraska                       22
+Nevada                         14
+New Hampshire                  32
+New Jersey                     10
+New Mexico                     29
+New York                       14
+North Carolina                 18
+North Dakota                   66
+Ohio                           14
+Oklahoma                       38
+Pennsylvania                    3
+South Carolina                 26
+Tennessee                      14
+Texas                          16
+Utah                           14
+Virginia                       13
+Washington                     17
+Wisconsin                      15
+Wyoming                       100

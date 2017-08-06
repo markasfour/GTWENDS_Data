@@ -1,0 +1,53 @@
+                      Lomachenko
+geoName                         
+Alabama                       18
+Alaska                        44
+Arizona                       42
+Arkansas                      25
+California                    63
+Colorado                      33
+Connecticut                   41
+Delaware                      44
+District of Columbia          50
+Florida                       42
+Georgia                       28
+Hawaii                        64
+Idaho                         17
+Illinois                      40
+Indiana                       27
+Iowa                          22
+Kansas                        20
+Kentucky                      20
+Louisiana                     36
+Maine                         17
+Maryland                      53
+Massachusetts                 34
+Michigan                      27
+Minnesota                     27
+Mississippi                   18
+Missouri                      26
+Montana                       15
+Nebraska                      27
+Nevada                       100
+New Hampshire                 17
+New Jersey                    54
+New Mexico                    52
+New York                      52
+North Carolina                23
+North Dakota                  30
+Ohio                          26
+Oklahoma                      26
+Oregon                        22
+Pennsylvania                  42
+Rhode Island                  29
+South Carolina                20
+South Dakota                  15
+Tennessee                     23
+Texas                         44
+Utah                          24
+Vermont                       18
+Virginia                      29
+Washington                    39
+West Virginia                 25
+Wisconsin                     20
+Wyoming                       29

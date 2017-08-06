@@ -1,0 +1,53 @@
+                      Jerry Jones
+geoName                          
+Alabama                        31
+Alaska                         17
+Arizona                        27
+Arkansas                       77
+California                     22
+Colorado                       32
+Connecticut                    25
+Delaware                       34
+District of Columbia           42
+Florida                        23
+Georgia                        30
+Hawaii                         22
+Idaho                          22
+Illinois                       23
+Indiana                        24
+Iowa                           26
+Kansas                         28
+Kentucky                       33
+Louisiana                      51
+Maine                          15
+Maryland                       32
+Massachusetts                  20
+Michigan                       21
+Minnesota                      21
+Mississippi                    42
+Missouri                       28
+Montana                        26
+Nebraska                       28
+Nevada                         33
+New Hampshire                  19
+New Jersey                     30
+New Mexico                     47
+New York                       24
+North Carolina                 29
+North Dakota                   24
+Ohio                           23
+Oklahoma                       60
+Oregon                         14
+Pennsylvania                   30
+Rhode Island                   23
+South Carolina                 28
+South Dakota                   25
+Tennessee                      35
+Texas                         100
+Utah                           20
+Vermont                        19
+Virginia                       32
+Washington                     22
+West Virginia                  25
+Wisconsin                      27
+Wyoming                        23

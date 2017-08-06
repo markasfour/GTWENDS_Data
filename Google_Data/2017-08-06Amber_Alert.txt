@@ -1,0 +1,53 @@
+                      Amber Alert
+geoName                          
+Alabama                        80
+Alaska                         25
+Arizona                        61
+Arkansas                       45
+California                     85
+Colorado                       73
+Connecticut                    64
+Delaware                       47
+District of Columbia           59
+Florida                        79
+Georgia                        64
+Hawaii                         17
+Idaho                          80
+Illinois                       51
+Indiana                        76
+Iowa                           73
+Kansas                         69
+Kentucky                       42
+Louisiana                      38
+Maine                          53
+Maryland                       49
+Massachusetts                  54
+Michigan                       83
+Minnesota                      84
+Mississippi                    94
+Missouri                       82
+Montana                       100
+Nebraska                       74
+Nevada                         72
+New Hampshire                  39
+New Jersey                     55
+New Mexico                     89
+New York                       65
+North Carolina                 47
+North Dakota                   71
+Ohio                           75
+Oklahoma                       57
+Oregon                         43
+Pennsylvania                   78
+Rhode Island                   49
+South Carolina                 43
+South Dakota                   42
+Tennessee                      69
+Texas                          64
+Utah                           75
+Vermont                        42
+Virginia                       61
+Washington                     85
+West Virginia                  51
+Wisconsin                      61
+Wyoming                        52

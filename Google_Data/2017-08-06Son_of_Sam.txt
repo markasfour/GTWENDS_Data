@@ -1,0 +1,53 @@
+                      Son of Sam
+geoName                         
+Alabama                       51
+Alaska                        29
+Arizona                       52
+Arkansas                      54
+California                    43
+Colorado                      49
+Connecticut                   59
+Delaware                      44
+District of Columbia          53
+Florida                       47
+Georgia                       46
+Hawaii                        33
+Idaho                         42
+Illinois                      46
+Indiana                       46
+Iowa                          46
+Kansas                        49
+Kentucky                      53
+Louisiana                     51
+Maine                         46
+Maryland                      53
+Massachusetts                 55
+Michigan                      46
+Minnesota                     42
+Mississippi                   42
+Missouri                      50
+Montana                       41
+Nebraska                      44
+Nevada                        44
+New Hampshire                 67
+New Jersey                    76
+New Mexico                    61
+New York                     100
+North Carolina                46
+North Dakota                  60
+Ohio                          47
+Oklahoma                      48
+Oregon                        35
+Pennsylvania                  56
+Rhode Island                  62
+South Carolina                50
+South Dakota                  49
+Tennessee                     48
+Texas                         45
+Utah                          42
+Vermont                       57
+Virginia                      43
+Washington                    41
+West Virginia                 50
+Wisconsin                     44
+Wyoming                       68

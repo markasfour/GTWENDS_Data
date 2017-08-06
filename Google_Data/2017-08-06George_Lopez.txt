@@ -1,0 +1,53 @@
+                      George Lopez
+geoName                           
+Alabama                         41
+Alaska                          43
+Arizona                         79
+Arkansas                        44
+California                      82
+Colorado                        47
+Connecticut                     40
+Delaware                        38
+District of Columbia            36
+Florida                         46
+Georgia                         43
+Hawaii                          53
+Idaho                           38
+Illinois                        51
+Indiana                         43
+Iowa                            35
+Kansas                          42
+Kentucky                        42
+Louisiana                       46
+Maine                           27
+Maryland                        40
+Massachusetts                   33
+Michigan                        44
+Minnesota                       31
+Mississippi                     41
+Missouri                        36
+Montana                         26
+Nebraska                        42
+Nevada                          85
+New Hampshire                   26
+New Jersey                      50
+New Mexico                     100
+New York                        44
+North Carolina                  38
+North Dakota                    30
+Ohio                            39
+Oklahoma                        50
+Oregon                          27
+Pennsylvania                    39
+Rhode Island                    44
+South Carolina                  39
+South Dakota                    34
+Tennessee                       38
+Texas                           80
+Utah                            35
+Vermont                         25
+Virginia                        33
+Washington                      39
+West Virginia                   43
+Wisconsin                       36
+Wyoming                         42
