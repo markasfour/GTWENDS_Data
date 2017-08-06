@@ -1,51 +1,51 @@
                       Nick Robinson
 geoName                            
-Alabama                          71
-Alaska                           77
-Arizona                          98
-Arkansas                         74
-California                      100
-Colorado                         62
-Connecticut                      83
-Delaware                         67
-District of Columbia             68
-Florida                          73
+Alabama                          69
+Alaska                           81
+Arizona                         100
+Arkansas                         73
+California                       99
+Colorado                         67
+Connecticut                      81
+Delaware                         75
+District of Columbia             67
+Florida                          72
 Georgia                          66
-Hawaii                           90
-Idaho                            77
-Illinois                         79
-Indiana                          69
-Iowa                             66
-Kansas                           63
-Kentucky                         65
-Louisiana                        73
-Maine                            57
+Hawaii                           89
+Idaho                            79
+Illinois                         76
+Indiana                          73
+Iowa                             65
+Kansas                           60
+Kentucky                         67
+Louisiana                        69
+Maine                            60
 Maryland                         67
-Massachusetts                    71
+Massachusetts                    68
 Michigan                         78
-Minnesota                        61
-Mississippi                      64
-Missouri                         74
-Montana                          70
-Nebraska                         87
-Nevada                           88
-New Hampshire                    62
-New Jersey                       93
-New Mexico                       76
-New York                         72
-North Carolina                   61
-Ohio                             69
-Oklahoma                         76
-Oregon                           53
+Minnesota                        64
+Mississippi                      66
+Missouri                         67
+Montana                          60
+Nebraska                         79
+Nevada                           96
+New Hampshire                    70
+New Jersey                       88
+New Mexico                       69
+New York                         70
+North Carolina                   63
+Ohio                             71
+Oklahoma                         82
+Oregon                           51
 Pennsylvania                     73
-Rhode Island                     74
-South Carolina                   67
-South Dakota                     53
+Rhode Island                     83
+South Carolina                   69
+South Dakota                     65
 Tennessee                        65
-Texas                            80
-Utah                             85
-Vermont                          67
+Texas                            79
+Utah                             89
+Vermont                          55
 Virginia                         64
-Washington                       85
-West Virginia                    48
+Washington                       82
+West Virginia                    54
 Wisconsin                        69

@@ -1,0 +1,53 @@
+                      Dorado
+geoName                     
+Alabama                    5
+Alaska                     5
+Arizona                   11
+Arkansas                 100
+California                29
+Colorado                   8
+Connecticut                5
+Delaware                   4
+District of Columbia       5
+Florida                   18
+Georgia                    7
+Hawaii                     5
+Idaho                      6
+Illinois                   5
+Indiana                    4
+Iowa                       5
+Kansas                    53
+Kentucky                   5
+Louisiana                 13
+Maine                      3
+Maryland                   4
+Massachusetts              4
+Michigan                   4
+Minnesota                  5
+Mississippi                7
+Missouri                  15
+Montana                    5
+Nebraska                   7
+Nevada                    19
+New Hampshire              3
+New Jersey                 5
+New Mexico                14
+New York                   6
+North Carolina             5
+North Dakota               4
+Ohio                       3
+Oklahoma                  14
+Oregon                     7
+Pennsylvania               4
+Rhode Island               4
+South Carolina             5
+South Dakota               5
+Tennessee                  8
+Texas                     12
+Utah                       6
+Vermont                    3
+Virginia                   4
+Washington                 7
+West Virginia              3
+Wisconsin                  5
+Wyoming                    5

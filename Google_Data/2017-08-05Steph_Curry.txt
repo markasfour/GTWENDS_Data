@@ -1,53 +1,53 @@
                       Steph Curry
 geoName                          
-Alabama                        78
-Alaska                         42
-Arizona                        54
-Arkansas                       73
+Alabama                        80
+Alaska                         43
+Arizona                        56
+Arkansas                       75
 California                    100
-Colorado                       49
+Colorado                       50
 Connecticut                    71
 Delaware                       83
-District of Columbia           98
-Florida                        55
-Georgia                        69
-Hawaii                         67
-Idaho                          51
-Illinois                       72
-Indiana                        73
-Iowa                           67
-Kansas                         51
-Kentucky                       68
-Louisiana                      64
-Maine                          52
-Maryland                       80
-Massachusetts                  69
-Michigan                       76
+District of Columbia           99
+Florida                        54
+Georgia                        71
+Hawaii                         68
+Idaho                          56
+Illinois                       71
+Indiana                        77
+Iowa                           70
+Kansas                         52
+Kentucky                       71
+Louisiana                      65
+Maine                          53
+Maryland                       81
+Massachusetts                  68
+Michigan                       78
 Minnesota                      56
-Mississippi                    71
-Missouri                       60
-Montana                        56
-Nebraska                       74
-Nevada                         66
-New Hampshire                  53
-New Jersey                     80
-New Mexico                     52
-New York                       73
-North Carolina                 74
-North Dakota                   62
-Ohio                           95
-Oklahoma                       61
+Mississippi                    74
+Missouri                       61
+Montana                        57
+Nebraska                       75
+Nevada                         68
+New Hampshire                  54
+New Jersey                     82
+New Mexico                     53
+New York                       75
+North Carolina                 75
+North Dakota                   59
+Ohio                           97
+Oklahoma                       64
 Oregon                         44
-Pennsylvania                   76
-Rhode Island                   70
-South Carolina                 69
-South Dakota                   76
+Pennsylvania                   78
+Rhode Island                   69
+South Carolina                 70
+South Dakota                   74
 Tennessee                      70
-Texas                          67
-Utah                           66
-Vermont                        47
+Texas                          70
+Utah                           69
+Vermont                        48
 Virginia                       58
-Washington                     53
-West Virginia                  73
+Washington                     55
+West Virginia                  76
 Wisconsin                      60
-Wyoming                        46
+Wyoming                        51

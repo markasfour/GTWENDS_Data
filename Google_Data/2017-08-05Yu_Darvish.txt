@@ -1,0 +1,53 @@
+                      Yu Darvish
+geoName                         
+Alabama                       12
+Alaska                         8
+Arizona                       21
+Arkansas                      23
+California                    33
+Colorado                      16
+Connecticut                   26
+Delaware                      18
+District of Columbia          22
+Florida                       13
+Georgia                       14
+Hawaii                        44
+Idaho                         10
+Illinois                      24
+Indiana                       14
+Iowa                          17
+Kansas                        12
+Kentucky                      10
+Louisiana                     22
+Maine                         19
+Maryland                      23
+Massachusetts                 27
+Michigan                      18
+Minnesota                     19
+Mississippi                   11
+Missouri                      24
+Montana                       11
+Nebraska                      15
+Nevada                        18
+New Hampshire                 17
+New Jersey                    30
+New Mexico                    15
+New York                      30
+North Carolina                12
+North Dakota                  13
+Ohio                          18
+Oklahoma                      25
+Oregon                        13
+Pennsylvania                  22
+Rhode Island                  28
+South Carolina                 9
+South Dakota                  10
+Tennessee                     13
+Texas                        100
+Utah                          11
+Vermont                       18
+Virginia                      14
+Washington                    21
+West Virginia                 12
+Wisconsin                     17
+Wyoming                        8

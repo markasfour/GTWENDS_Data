@@ -1,42 +1,43 @@
                       Jab Harry Met Sejal
 geoName                                  
-Alabama                                12
-Arizona                                23
-Arkansas                               22
-California                             72
-Colorado                               28
-Connecticut                            81
-Delaware                               71
-District of Columbia                   33
-Florida                                31
-Georgia                                49
-Hawaii                                 17
-Illinois                               42
-Indiana                                28
-Iowa                                   11
-Kansas                                 72
-Kentucky                               11
-Louisiana                              19
-Maryland                               68
-Massachusetts                          45
-Michigan                               29
-Minnesota                              26
-Missouri                               18
-Nebraska                               22
-Nevada                                 14
-New Hampshire                          32
-New Jersey                            100
-New York                               55
-North Carolina                         38
-Ohio                                   28
-Oklahoma                               17
-Oregon                                 19
-Pennsylvania                           31
-Rhode Island                           25
-South Carolina                         28
-Tennessee                              18
-Texas                                  54
-Utah                                   24
-Virginia                               42
+Alabama                                11
+Arizona                                26
+Arkansas                               26
+California                             55
+Colorado                               38
+Connecticut                            53
+Delaware                              100
+District of Columbia                   31
+Florida                                26
+Georgia                                45
+Hawaii                                 12
+Illinois                               44
+Indiana                                21
+Iowa                                   15
+Kansas                                 66
+Kentucky                               18
+Louisiana                              16
+Maryland                               44
+Massachusetts                          27
+Michigan                               33
+Minnesota                              20
+Mississippi                            11
+Missouri                               25
+Nebraska                               15
+Nevada                                 13
+New Hampshire                          37
+New Jersey                             78
+New York                               45
+North Carolina                         36
+Ohio                                   29
+Oklahoma                               12
+Oregon                                 18
+Pennsylvania                           27
+Rhode Island                           17
+South Carolina                         24
+Tennessee                              11
+Texas                                  45
+Utah                                   23
+Virginia                               35
 Washington                             44
-Wisconsin                              18
+Wisconsin                              12

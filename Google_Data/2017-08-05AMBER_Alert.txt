@@ -1,0 +1,53 @@
+                      AMBER Alert
+geoName                          
+Alabama                        77
+Alaska                         22
+Arizona                        61
+Arkansas                       42
+California                     84
+Colorado                       72
+Connecticut                    64
+Delaware                       46
+District of Columbia           59
+Florida                        77
+Georgia                        64
+Hawaii                         16
+Idaho                          79
+Illinois                       49
+Indiana                        74
+Iowa                           70
+Kansas                         66
+Kentucky                       41
+Louisiana                      38
+Maine                          53
+Maryland                       48
+Massachusetts                  53
+Michigan                       81
+Minnesota                      81
+Mississippi                    93
+Missouri                       81
+Montana                       100
+Nebraska                       71
+Nevada                         72
+New Hampshire                  38
+New Jersey                     54
+New Mexico                     85
+New York                       63
+North Carolina                 47
+North Dakota                   78
+Ohio                           74
+Oklahoma                       53
+Oregon                         43
+Pennsylvania                   79
+Rhode Island                   48
+South Carolina                 43
+South Dakota                   42
+Tennessee                      71
+Texas                          63
+Utah                           74
+Vermont                        39
+Virginia                       58
+Washington                     82
+West Virginia                  51
+Wisconsin                      59
+Wyoming                        50

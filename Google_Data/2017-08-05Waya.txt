@@ -1,0 +1,34 @@
+                      Waya
+geoName                   
+Alabama                 33
+Arizona                 28
+California              30
+Colorado                31
+Connecticut             29
+District of Columbia    34
+Florida                 29
+Georgia                 39
+Illinois                44
+Indiana                 43
+Kansas                  39
+Kentucky                35
+Maryland                29
+Massachusetts           25
+Michigan                38
+Minnesota               26
+Missouri                32
+Nevada                  28
+New Jersey              28
+New York                29
+North Carolina          29
+Ohio                    32
+Oklahoma                41
+Oregon                  36
+Pennsylvania            35
+South Carolina          35
+Tennessee               37
+Texas                  100
+Utah                    31
+Virginia                57
+Washington              26
+Wisconsin               31

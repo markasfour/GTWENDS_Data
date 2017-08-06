@@ -1,0 +1,11 @@
+              NHL100
+geoName             
+California        28
+Florida           10
+Illinois          20
+Michigan          32
+Minnesota        100
+New Jersey        21
+New York          15
+Pennsylvania      33
+Texas              7

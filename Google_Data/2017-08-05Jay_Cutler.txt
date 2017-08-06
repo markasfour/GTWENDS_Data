@@ -1,53 +1,53 @@
                       Jay Cutler
 geoName                         
-Alabama                       15
-Alaska                        16
-Arizona                       25
+Alabama                       16
+Alaska                        17
+Arizona                       26
 Arkansas                      15
 California                    19
-Colorado                      33
+Colorado                      34
 Connecticut                   21
-Delaware                      20
-District of Columbia          25
+Delaware                      21
+District of Columbia          26
 Florida                       19
-Georgia                       18
+Georgia                       19
 Hawaii                        20
 Idaho                         19
 Illinois                     100
 Indiana                       45
-Iowa                          43
+Iowa                          45
 Kansas                        19
 Kentucky                      22
 Louisiana                     20
 Maine                         15
 Maryland                      20
 Massachusetts                 23
-Michigan                      24
-Minnesota                     29
-Mississippi                   17
-Missouri                      23
-Montana                       24
+Michigan                      25
+Minnesota                     30
+Mississippi                   18
+Missouri                      22
+Montana                       23
 Nebraska                      27
-Nevada                        31
-New Hampshire                 18
-New Jersey                    21
+Nevada                        33
+New Hampshire                 17
+New Jersey                    22
 New Mexico                    18
 New York                      20
 North Carolina                18
 North Dakota                  29
 Ohio                          21
-Oklahoma                      19
+Oklahoma                      20
 Oregon                        13
 Pennsylvania                  22
-Rhode Island                  22
-South Carolina                17
-South Dakota                  30
+Rhode Island                  24
+South Carolina                18
+South Dakota                  31
 Tennessee                     24
 Texas                         20
 Utah                          18
 Vermont                       16
 Virginia                      19
 Washington                    20
-West Virginia                 17
-Wisconsin                     59
-Wyoming                       26
+West Virginia                 18
+Wisconsin                     61
+Wyoming                       24

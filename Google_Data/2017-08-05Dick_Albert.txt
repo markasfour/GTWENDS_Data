@@ -1,25 +1,25 @@
                       Dick Albert
 geoName                          
-Arizona                        25
-California                     22
-Colorado                       35
-Connecticut                    14
-District of Columbia           23
-Florida                        26
-Georgia                        27
-Illinois                       22
-Maine                          54
-Maryland                       20
+Arizona                        29
+California                     26
+Colorado                       25
+Connecticut                    26
+District of Columbia           18
+Florida                        27
+Georgia                        35
+Illinois                       32
+Maine                          41
+Maryland                       23
 Massachusetts                 100
-New Hampshire                  86
-New Jersey                     26
-New York                       26
-North Carolina                 24
-Ohio                           19
+New Hampshire                  75
+New Jersey                     34
+New York                       33
+North Carolina                 27
+Ohio                           24
 Pennsylvania                   30
-Rhode Island                   27
-South Carolina                 18
-Texas                          21
-Vermont                        62
-Virginia                       25
-Washington                     24
+Rhode Island                   48
+South Carolina                 44
+Texas                          23
+Vermont                        32
+Virginia                       23
+Washington                     31

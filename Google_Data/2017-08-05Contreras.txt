@@ -1,0 +1,53 @@
+                      Contreras
+geoName                        
+Alabama                      19
+Alaska                       24
+Arizona                      99
+Arkansas                     27
+California                  100
+Colorado                     51
+Connecticut                  30
+Delaware                     19
+District of Columbia         52
+Florida                      57
+Georgia                      32
+Hawaii                       30
+Idaho                        31
+Illinois                     84
+Indiana                      37
+Iowa                         33
+Kansas                       37
+Kentucky                     21
+Louisiana                    29
+Maine                        12
+Maryland                     31
+Massachusetts                31
+Michigan                     24
+Minnesota                    30
+Mississippi                  15
+Missouri                     26
+Montana                      20
+Nebraska                     31
+Nevada                       74
+New Hampshire                15
+New Jersey                   42
+New Mexico                   97
+New York                     50
+North Carolina               26
+North Dakota                 24
+Ohio                         21
+Oklahoma                     37
+Oregon                       53
+Pennsylvania                 21
+Rhode Island                 41
+South Carolina               18
+South Dakota                 20
+Tennessee                    23
+Texas                        97
+Utah                         36
+Vermont                      12
+Virginia                     31
+Washington                   42
+West Virginia                14
+Wisconsin                    27
+Wyoming                      26

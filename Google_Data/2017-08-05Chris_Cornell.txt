@@ -1,53 +1,53 @@
                       Chris Cornell
 geoName                            
-Alabama                          56
-Alaska                           46
-Arizona                          62
-Arkansas                         58
-California                       59
-Colorado                         64
-Connecticut                      62
-Delaware                         70
-District of Columbia             59
-Florida                          51
-Georgia                          51
+Alabama                          55
+Alaska                           49
+Arizona                          63
+Arkansas                         56
+California                       60
+Colorado                         62
+Connecticut                      63
+Delaware                         72
+District of Columbia             61
+Florida                          53
+Georgia                          52
 Hawaii                           39
-Idaho                            56
+Idaho                            57
 Illinois                         61
-Indiana                          69
+Indiana                          72
 Iowa                             57
-Kansas                           43
-Kentucky                         62
-Louisiana                        49
-Maine                            61
-Maryland                         47
+Kansas                           42
+Kentucky                         61
+Louisiana                        50
+Maine                            58
+Maryland                         48
 Massachusetts                    59
 Michigan                         74
-Minnesota                        59
-Mississippi                      45
+Minnesota                        60
+Mississippi                      44
 Missouri                         56
-Montana                          60
-Nebraska                         60
-Nevada                           65
-New Hampshire                    71
-New Jersey                       68
-New Mexico                       61
-New York                         57
-North Carolina                   55
-North Dakota                     51
-Ohio                             65
-Oklahoma                         52
+Montana                          61
+Nebraska                         61
+Nevada                           67
+New Hampshire                    68
+New Jersey                       69
+New Mexico                       56
+New York                         59
+North Carolina                   54
+North Dakota                     50
+Ohio                             67
+Oklahoma                         54
 Oregon                           52
-Pennsylvania                     69
+Pennsylvania                     68
 Rhode Island                     72
-South Carolina                   52
-South Dakota                     55
-Tennessee                        61
-Texas                            57
-Utah                             53
+South Carolina                   54
+South Dakota                     51
+Tennessee                        64
+Texas                            58
+Utah                             51
 Vermont                          54
 Virginia                         38
 Washington                      100
-West Virginia                    63
-Wisconsin                        59
-Wyoming                          53
+West Virginia                    65
+Wisconsin                        57
+Wyoming                          50

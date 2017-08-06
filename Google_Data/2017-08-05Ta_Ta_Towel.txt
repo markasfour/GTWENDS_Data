@@ -1,36 +1,41 @@
-                Ta Ta Towel
-geoName                    
-Alabama                  19
-Arizona                  14
-California                8
-Connecticut              17
-Florida                   6
-Georgia                   8
-Idaho                    47
-Illinois                  8
-Indiana                  12
-Iowa                     37
-Kansas                   28
-Kentucky                 17
-Louisiana                35
-Maryland                 10
-Massachusetts             7
-Michigan                  6
-Minnesota                10
-Mississippi              51
-Missouri                 16
-Nevada                   21
-New Hampshire            47
-New Jersey               15
-New York                 14
-North Carolina           12
-North Dakota            100
-Oklahoma                 19
-Pennsylvania             10
-South Carolina           23
-Tennessee                21
-Texas                    11
-Utah                     44
-Virginia                 11
-Washington               11
-Wisconsin                11
+                      Ta Ta Towel
+geoName                          
+Alabama                        25
+Alaska                         63
+Arizona                        19
+Arkansas                       22
+California                      8
+Connecticut                    11
+District of Columbia           11
+Florida                         7
+Georgia                        15
+Hawaii                         26
+Idaho                          31
+Illinois                        5
+Indiana                        33
+Iowa                           16
+Kansas                         21
+Louisiana                      12
+Maryland                        7
+Massachusetts                  11
+Michigan                       17
+Minnesota                      27
+Mississippi                    56
+Missouri                       21
+Nebraska                       33
+Nevada                         21
+New Jersey                     13
+New York                       11
+North Carolina                 14
+Ohio                           18
+Oklahoma                       39
+Pennsylvania                    7
+South Carolina                 21
+Tennessee                      10
+Texas                          18
+Utah                           15
+Virginia                       14
+Washington                     12
+West Virginia                  36
+Wisconsin                       8
+Wyoming                       100

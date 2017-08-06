@@ -1,53 +1,53 @@
                       Wet Hot American Summer
 geoName                                      
-Alabama                                    32
-Alaska                                     36
-Arizona                                    41
-Arkansas                                   32
-California                                 45
-Colorado                                   53
-Connecticut                                57
-Delaware                                   46
-District of Columbia                       71
-Florida                                    30
-Georgia                                    36
-Hawaii                                     27
-Idaho                                      47
+Alabama                                    34
+Alaska                                     41
+Arizona                                    43
+Arkansas                                   37
+California                                 46
+Colorado                                   55
+Connecticut                                56
+Delaware                                   48
+District of Columbia                       72
+Florida                                    31
+Georgia                                    38
+Hawaii                                     26
+Idaho                                      45
 Illinois                                   56
-Indiana                                    41
-Iowa                                       52
-Kansas                                     37
-Kentucky                                   37
-Louisiana                                  36
-Maine                                      87
-Maryland                                   48
+Indiana                                    43
+Iowa                                       53
+Kansas                                     36
+Kentucky                                   40
+Louisiana                                  38
+Maine                                      88
+Maryland                                   47
 Massachusetts                              65
 Michigan                                   46
-Minnesota                                  49
-Mississippi                                27
-Missouri                                   45
-Montana                                    64
-Nebraska                                   50
-Nevada                                     31
-New Hampshire                              60
-New Jersey                                 50
-New Mexico                                 29
-New York                                   69
-North Carolina                             38
-North Dakota                               47
+Minnesota                                  51
+Mississippi                                30
+Missouri                                   46
+Montana                                    59
+Nebraska                                   54
+Nevada                                     33
+New Hampshire                              65
+New Jersey                                 51
+New Mexico                                 34
+New York                                   71
+North Carolina                             39
+North Dakota                               48
 Ohio                                       48
-Oklahoma                                   37
-Oregon                                     49
-Pennsylvania                               60
-Rhode Island                               64
+Oklahoma                                   36
+Oregon                                     50
+Pennsylvania                               62
+Rhode Island                               67
 South Carolina                             40
-South Dakota                               43
-Tennessee                                  36
-Texas                                      38
-Utah                                       36
-Vermont                                    90
+South Dakota                               47
+Tennessee                                  38
+Texas                                      39
+Utah                                       37
+Vermont                                    85
 Virginia                                  100
-Washington                                 55
-West Virginia                              45
-Wisconsin                                  51
+Washington                                 53
+West Virginia                              44
+Wisconsin                                  53
 Wyoming                                    41
