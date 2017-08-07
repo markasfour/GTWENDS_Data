@@ -1,48 +1,47 @@
                       Tax Free Weekend 2017
 geoName                                    
-Alabama                                  76
+Alabama                                  77
 Arizona                                   1
-Arkansas                                 56
+Arkansas                                 73
 California                                1
 Colorado                                  2
-Connecticut                               4
+Connecticut                               5
 Delaware                                  2
-District of Columbia                      7
-Florida                                  27
-Georgia                                  28
-Hawaii                                    1
+District of Columbia                      9
+Florida                                  33
+Georgia                                  29
 Idaho                                     1
-Illinois                                  3
+Illinois                                  4
 Indiana                                   4
-Iowa                                     17
-Kansas                                   10
-Kentucky                                 10
-Louisiana                                15
+Iowa                                     19
+Kansas                                   13
+Kentucky                                 13
+Louisiana                                20
 Maine                                     1
-Maryland                                  6
-Massachusetts                             7
+Maryland                                  7
+Massachusetts                             8
 Michigan                                  2
 Minnesota                                 1
-Mississippi                              56
-Missouri                                 31
-Nebraska                                  4
-Nevada                                    2
-New Hampshire                             1
-New Jersey                                0
-New Mexico                               37
+Mississippi                              57
+Missouri                                 37
+Nebraska                                  5
+Nevada                                    3
+New Hampshire                             2
+New Jersey                                1
+New Mexico                               42
 New York                                  1
-North Carolina                           11
-Ohio                                     16
-Oklahoma                                 32
+North Carolina                           15
+Ohio                                     24
+Oklahoma                                 41
 Oregon                                    0
 Pennsylvania                              1
 Rhode Island                              5
-South Carolina                           41
-South Dakota                              3
+South Carolina                           51
+South Dakota                              1
 Tennessee                               100
-Texas                                    34
-Utah                                      0
-Virginia                                 16
+Texas                                    41
+Utah                                      1
+Virginia                                 20
 Washington                                0
-West Virginia                             8
-Wisconsin                                 1
+West Virginia                             9
+Wisconsin                                 2

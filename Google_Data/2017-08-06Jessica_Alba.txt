@@ -1,53 +1,53 @@
                       Jessica Alba
 geoName                           
-Alabama                         57
-Alaska                          65
-Arizona                         72
+Alabama                         55
+Alaska                          64
+Arizona                         71
 Arkansas                        56
-California                      85
-Colorado                        68
-Connecticut                     64
-Delaware                        55
+California                      84
+Colorado                        66
+Connecticut                     62
+Delaware                        57
 District of Columbia            58
-Florida                         63
-Georgia                         61
+Florida                         61
+Georgia                         58
 Hawaii                         100
-Idaho                           65
-Illinois                        66
+Idaho                           63
+Illinois                        65
 Indiana                         59
-Iowa                            60
-Kansas                          62
-Kentucky                        63
+Iowa                            58
+Kansas                          60
+Kentucky                        61
 Louisiana                       60
-Maine                           54
-Maryland                        62
-Massachusetts                   64
-Michigan                        65
+Maine                           51
+Maryland                        59
+Massachusetts                   63
+Michigan                        63
 Minnesota                       61
-Mississippi                     56
-Missouri                        61
-Montana                         62
-Nebraska                        60
-Nevada                          80
-New Hampshire                   53
-New Jersey                      69
-New Mexico                      80
-New York                        70
-North Carolina                  55
-North Dakota                    68
-Ohio                            61
+Mississippi                     55
+Missouri                        59
+Montana                         59
+Nebraska                        57
+Nevada                          78
+New Hampshire                   55
+New Jersey                      68
+New Mexico                      77
+New York                        69
+North Carolina                  54
+North Dakota                    63
+Ohio                            59
 Oklahoma                        67
-Oregon                          53
-Pennsylvania                    63
-Rhode Island                    63
-South Carolina                  56
-South Dakota                    59
-Tennessee                       59
-Texas                           68
-Utah                            70
-Vermont                         49
-Virginia                        59
-Washington                      68
-West Virginia                   57
-Wisconsin                       61
-Wyoming                         64
+Oregon                          51
+Pennsylvania                    61
+Rhode Island                    62
+South Carolina                  53
+South Dakota                    53
+Tennessee                       57
+Texas                           66
+Utah                            68
+Vermont                         48
+Virginia                        56
+Washington                      66
+West Virginia                   58
+Wisconsin                       58
+Wyoming                         67

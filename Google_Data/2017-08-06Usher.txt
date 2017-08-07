@@ -1,53 +1,53 @@
                       Usher
 geoName                    
-Alabama                  74
-Alaska                   37
+Alabama                  73
+Alaska                   36
 Arizona                  45
-Arkansas                 60
-California               53
-Colorado                 40
-Connecticut              54
-Delaware                 67
-District of Columbia     78
-Florida                  63
-Georgia                 100
+Arkansas                 58
+California               51
+Colorado                 41
+Connecticut              51
+Delaware                 66
+District of Columbia     79
+Florida                  62
+Georgia                  96
 Hawaii                   47
 Idaho                    31
-Illinois                 62
-Indiana                  54
+Illinois                 60
+Indiana                  52
 Iowa                     42
 Kansas                   49
 Kentucky                 57
 Louisiana                87
 Maine                    33
-Maryland                 72
-Massachusetts            52
-Michigan                 64
-Minnesota                45
+Maryland                 71
+Massachusetts            51
+Michigan                 63
+Minnesota                44
 Mississippi             100
-Missouri                 59
-Montana                  27
-Nebraska                 45
+Missouri                 58
+Montana                  26
+Nebraska                 44
 Nevada                   56
-New Hampshire            33
-New Jersey               61
-New Mexico               42
-New York                 68
+New Hampshire            32
+New Jersey               60
+New Mexico               39
+New York                 65
 North Carolina           68
-North Dakota             39
-Ohio                     58
-Oklahoma                 54
-Oregon                   33
-Pennsylvania             59
+North Dakota             37
+Ohio                     57
+Oklahoma                 55
+Oregon                   32
+Pennsylvania             58
 Rhode Island             53
-South Carolina           79
-South Dakota             36
-Tennessee                68
-Texas                    61
-Utah                     32
-Vermont                  31
-Virginia                 64
+South Carolina           78
+South Dakota             37
+Tennessee                69
+Texas                    60
+Utah                     31
+Vermont                  30
+Virginia                 62
 Washington               43
-West Virginia            47
+West Virginia            46
 Wisconsin                45
-Wyoming                  30
+Wyoming                  31

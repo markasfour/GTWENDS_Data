@@ -1,53 +1,53 @@
                       Barack Obama
 geoName                           
-Alabama                         74
-Alaska                          50
-Arizona                         62
+Alabama                         76
+Alaska                          51
+Arizona                         60
 Arkansas                        67
 California                      65
-Colorado                        58
-Connecticut                     76
+Colorado                        56
+Connecticut                     75
 Delaware                        78
 District of Columbia           100
-Florida                         72
-Georgia                         76
-Hawaii                          68
-Idaho                           48
-Illinois                        84
-Indiana                         75
-Iowa                            73
-Kansas                          60
+Florida                         70
+Georgia                         75
+Hawaii                          67
+Idaho                           47
+Illinois                        83
+Indiana                         73
+Iowa                            69
+Kansas                          59
 Kentucky                        60
 Louisiana                       79
-Maine                           62
-Maryland                        92
-Massachusetts                   74
+Maine                           63
+Maryland                        93
+Massachusetts                   75
 Michigan                        73
 Minnesota                       64
-Mississippi                     86
-Missouri                        70
-Montana                         49
-Nebraska                        64
+Mississippi                     87
+Missouri                        69
+Montana                         50
+Nebraska                        62
 Nevada                          64
 New Hampshire                   62
 New Jersey                      86
-New Mexico                      57
-New York                        80
-North Carolina                  73
-North Dakota                    60
-Ohio                            75
-Oklahoma                        56
-Oregon                          44
-Pennsylvania                    73
+New Mexico                      60
+New York                        79
+North Carolina                  72
+North Dakota                    56
+Ohio                            73
+Oklahoma                        57
+Oregon                          43
+Pennsylvania                    72
 Rhode Island                    69
-South Carolina                  70
-South Dakota                    63
-Tennessee                       62
+South Carolina                  71
+South Dakota                    64
+Tennessee                       63
 Texas                           66
-Utah                            51
-Vermont                         65
+Utah                            50
+Vermont                         63
 Virginia                        65
-Washington                      56
+Washington                      55
 West Virginia                   63
 Wisconsin                       70
 Wyoming                         47

@@ -1,53 +1,53 @@
                       Son of Sam
 geoName                         
-Alabama                       51
-Alaska                        29
+Alabama                       47
+Alaska                        43
 Arizona                       52
-Arkansas                      54
+Arkansas                      49
 California                    43
-Colorado                      49
+Colorado                      46
 Connecticut                   59
-Delaware                      44
-District of Columbia          53
-Florida                       47
-Georgia                       46
+Delaware                      54
+District of Columbia          56
+Florida                       46
+Georgia                       44
 Hawaii                        33
-Idaho                         42
-Illinois                      46
-Indiana                       46
-Iowa                          46
-Kansas                        49
-Kentucky                      53
-Louisiana                     51
-Maine                         46
-Maryland                      53
-Massachusetts                 55
-Michigan                      46
-Minnesota                     42
-Mississippi                   42
-Missouri                      50
-Montana                       41
-Nebraska                      44
-Nevada                        44
-New Hampshire                 67
-New Jersey                    76
-New Mexico                    61
+Idaho                         47
+Illinois                      47
+Indiana                       44
+Iowa                          47
+Kansas                        48
+Kentucky                      52
+Louisiana                     46
+Maine                         48
+Maryland                      54
+Massachusetts                 57
+Michigan                      45
+Minnesota                     43
+Mississippi                   52
+Missouri                      51
+Montana                       43
+Nebraska                      47
+Nevada                        56
+New Hampshire                 68
+New Jersey                    72
+New Mexico                    51
 New York                     100
-North Carolina                46
-North Dakota                  60
-Ohio                          47
-Oklahoma                      48
-Oregon                        35
-Pennsylvania                  56
+North Carolina                50
+North Dakota                  77
+Ohio                          51
+Oklahoma                      49
+Oregon                        40
+Pennsylvania                  59
 Rhode Island                  62
-South Carolina                50
-South Dakota                  49
-Tennessee                     48
+South Carolina                49
+South Dakota                  59
+Tennessee                     50
 Texas                         45
-Utah                          42
-Vermont                       57
-Virginia                      43
+Utah                          46
+Vermont                       49
+Virginia                      40
 Washington                    41
-West Virginia                 50
-Wisconsin                     44
-Wyoming                       68
+West Virginia                 57
+Wisconsin                     43
+Wyoming                       57

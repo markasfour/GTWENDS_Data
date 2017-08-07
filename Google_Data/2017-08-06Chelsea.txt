@@ -1,0 +1,53 @@
+                      Chelsea
+geoName                      
+Alabama                    63
+Alaska                     24
+Arizona                    28
+Arkansas                   24
+California                 33
+Colorado                   29
+Connecticut                70
+Delaware                   41
+District of Columbia       50
+Florida                    32
+Georgia                    32
+Hawaii                     28
+Idaho                      23
+Illinois                   32
+Indiana                    30
+Iowa                       30
+Kansas                     36
+Kentucky                   29
+Louisiana                  27
+Maine                      42
+Maryland                   41
+Massachusetts              91
+Michigan                   65
+Minnesota                  34
+Mississippi                23
+Missouri                   30
+Montana                    25
+Nebraska                   29
+Nevada                     31
+New Hampshire              40
+New Jersey                 55
+New Mexico                 25
+New York                  100
+North Carolina             33
+North Dakota               30
+Ohio                       32
+Oklahoma                   33
+Oregon                     44
+Pennsylvania               39
+Rhode Island               41
+South Carolina             28
+South Dakota               34
+Tennessee                  31
+Texas                      30
+Utah                       27
+Vermont                    53
+Virginia                   60
+Washington                 30
+West Virginia              29
+Wisconsin                  27
+Wyoming                    24

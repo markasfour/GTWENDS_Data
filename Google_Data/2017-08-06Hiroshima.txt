@@ -1,0 +1,53 @@
+                      Hiroshima
+geoName                        
+Alabama                      36
+Alaska                       38
+Arizona                      39
+Arkansas                     38
+California                   42
+Colorado                     38
+Connecticut                  42
+Delaware                     34
+District of Columbia         35
+Florida                      31
+Georgia                      30
+Hawaii                      100
+Idaho                        48
+Illinois                     35
+Indiana                      42
+Iowa                         44
+Kansas                       41
+Kentucky                     34
+Louisiana                    29
+Maine                        50
+Maryland                     34
+Massachusetts                38
+Michigan                     36
+Minnesota                    38
+Mississippi                  28
+Missouri                     35
+Montana                      35
+Nebraska                     39
+Nevada                       34
+New Hampshire                43
+New Jersey                   39
+New Mexico                   45
+New York                     34
+North Carolina               37
+North Dakota                 34
+Ohio                         36
+Oklahoma                     34
+Oregon                       33
+Pennsylvania                 37
+Rhode Island                 40
+South Carolina               37
+South Dakota                 36
+Tennessee                    32
+Texas                        33
+Utah                         39
+Vermont                      51
+Virginia                     32
+Washington                   40
+West Virginia                34
+Wisconsin                    39
+Wyoming                      41

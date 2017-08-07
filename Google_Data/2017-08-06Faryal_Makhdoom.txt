@@ -1,44 +1,45 @@
                       Faryal Makhdoom
 geoName                              
-Alabama                             5
-Arizona                            11
-Arkansas                            9
-California                         33
-Colorado                            8
-Connecticut                        28
-Delaware                           19
-District of Columbia               26
+Alabama                             6
+Arizona                            12
+Arkansas                            8
+California                         34
+Colorado                            6
+Connecticut                        33
+Delaware                           13
+District of Columbia               29
 Florida                            18
-Georgia                            15
-Hawaii                             11
-Illinois                           48
-Indiana                            11
+Georgia                            18
+Hawaii                             14
+Illinois                           46
+Indiana                            12
 Iowa                                6
-Kansas                             10
-Kentucky                            7
-Louisiana                           8
-Maryland                           43
-Massachusetts                      19
-Michigan                           23
-Minnesota                          15
+Kansas                              9
+Kentucky                            6
+Louisiana                          11
+Maryland                           48
+Massachusetts                      21
+Michigan                           26
+Minnesota                          17
 Mississippi                         5
 Missouri                           11
-Nebraska                            6
-Nevada                             16
-New Hampshire                      17
-New Jersey                         78
-New Mexico                         11
+Nebraska                            8
+Nevada                             17
+New Hampshire                      16
+New Jersey                         81
+New Mexico                         15
 New York                          100
-North Carolina                     11
-Ohio                                9
+North Carolina                     12
+Ohio                               10
 Oklahoma                           15
-Oregon                              9
-Pennsylvania                       22
-Rhode Island                        8
-South Carolina                      4
-Tennessee                          14
-Texas                              30
-Utah                               10
-Virginia                           44
-Washington                         10
+Oregon                              8
+Pennsylvania                       21
+Rhode Island                       12
+South Carolina                      5
+Tennessee                          13
+Texas                              29
+Utah                               13
+Virginia                           41
+Washington                         12
+West Virginia                       8
 Wisconsin                           8

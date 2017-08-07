@@ -1,53 +1,53 @@
                       Usain Bolt
 geoName                         
 Alabama                       74
-Alaska                        59
-Arizona                       65
-Arkansas                      71
-California                    72
-Colorado                      70
-Connecticut                  100
-Delaware                      96
-District of Columbia          97
-Florida                       98
-Georgia                       90
-Hawaii                        68
-Idaho                         61
-Illinois                      79
-Indiana                       77
-Iowa                          83
-Kansas                        69
+Alaska                        64
+Arizona                       62
+Arkansas                      69
+California                    71
+Colorado                      69
+Connecticut                   93
+Delaware                     100
+District of Columbia          93
+Florida                       96
+Georgia                       87
+Hawaii                        69
+Idaho                         62
+Illinois                      76
+Indiana                       76
+Iowa                          80
+Kansas                        67
 Kentucky                      61
-Louisiana                     73
-Maine                         74
-Maryland                      97
-Massachusetts                 89
-Michigan                      72
-Minnesota                     75
-Mississippi                   77
-Missouri                      69
-Montana                       62
-Nebraska                      76
+Louisiana                     74
+Maine                         71
+Maryland                      98
+Massachusetts                 85
+Michigan                      73
+Minnesota                     74
+Mississippi                   67
+Missouri                      68
+Montana                       67
+Nebraska                      78
 Nevada                        60
-New Hampshire                 69
+New Hampshire                 68
 New Jersey                    96
-New Mexico                    60
-New York                      97
-North Carolina                79
-North Dakota                  79
-Ohio                          77
-Oklahoma                      66
-Oregon                        57
-Pennsylvania                  77
-Rhode Island                  70
+New Mexico                    59
+New York                      94
+North Carolina                75
+North Dakota                  76
+Ohio                          74
+Oklahoma                      64
+Oregon                        55
+Pennsylvania                  76
+Rhode Island                  65
 South Carolina                75
-South Dakota                  72
-Tennessee                     71
-Texas                         80
-Utah                          74
-Vermont                       64
-Virginia                      72
+South Dakota                  70
+Tennessee                     68
+Texas                         78
+Utah                          71
+Vermont                       74
+Virginia                      69
 Washington                    69
-West Virginia                 63
-Wisconsin                     69
-Wyoming                       64
+West Virginia                 64
+Wisconsin                     67
+Wyoming                       63

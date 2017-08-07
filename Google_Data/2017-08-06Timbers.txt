@@ -1,0 +1,53 @@
+                      Timbers
+geoName                      
+Alabama                     3
+Alaska                      6
+Arizona                     3
+Arkansas                    4
+California                  3
+Colorado                    7
+Connecticut                 2
+Delaware                    2
+District of Columbia        4
+Florida                     3
+Georgia                     3
+Hawaii                      3
+Idaho                       7
+Illinois                    4
+Indiana                     6
+Iowa                        3
+Kansas                      4
+Kentucky                    4
+Louisiana                   5
+Maine                       3
+Maryland                    5
+Massachusetts               2
+Michigan                    9
+Minnesota                   4
+Mississippi                 3
+Missouri                    5
+Montana                     8
+Nebraska                    3
+Nevada                      8
+New Hampshire               3
+New Jersey                  3
+New Mexico                  3
+New York                    2
+North Carolina              4
+North Dakota                3
+Ohio                       29
+Oklahoma                    9
+Oregon                    100
+Pennsylvania                3
+Rhode Island                2
+South Carolina              3
+South Dakota                3
+Tennessee                   3
+Texas                       8
+Utah                        4
+Vermont                     6
+Virginia                    3
+Washington                 25
+West Virginia               4
+Wisconsin                   6
+Wyoming                     5
