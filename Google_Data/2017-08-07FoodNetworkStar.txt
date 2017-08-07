@@ -1,0 +1,13 @@
+              FoodNetworkStar
+geoName                      
+Arizona                    55
+California                 41
+Florida                   100
+Georgia                    51
+Illinois                   29
+New Jersey                 56
+New York                   34
+Ohio                       36
+Pennsylvania               44
+Texas                      52
+Virginia                   40

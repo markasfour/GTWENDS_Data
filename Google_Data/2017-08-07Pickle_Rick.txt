@@ -1,0 +1,49 @@
+                      Pickle Rick
+geoName                          
+Alabama                        45
+Arizona                        73
+Arkansas                       67
+California                     55
+Colorado                       59
+Connecticut                    43
+Delaware                       49
+District of Columbia           38
+Florida                        49
+Georgia                        36
+Hawaii                         48
+Idaho                          29
+Illinois                       46
+Indiana                        80
+Iowa                           52
+Kansas                         41
+Kentucky                       47
+Louisiana                      37
+Maine                          86
+Maryland                       53
+Massachusetts                  53
+Michigan                       43
+Minnesota                      52
+Mississippi                    26
+Missouri                       22
+Nebraska                       45
+Nevada                         59
+New Hampshire                  59
+New Jersey                     52
+New Mexico                    100
+New York                       44
+North Carolina                 50
+Ohio                           57
+Oklahoma                       50
+Oregon                         43
+Pennsylvania                   46
+Rhode Island                   59
+South Carolina                 31
+South Dakota                   62
+Tennessee                      33
+Texas                          53
+Utah                           90
+Vermont                        61
+Virginia                       22
+Washington                     55
+West Virginia                  83
+Wisconsin                      62

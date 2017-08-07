@@ -1,0 +1,53 @@
+                      Eric Bolling
+geoName                           
+Alabama                         96
+Alaska                          32
+Arizona                         63
+Arkansas                        59
+California                      40
+Colorado                        50
+Connecticut                     90
+Delaware                        86
+District of Columbia            72
+Florida                         85
+Georgia                         56
+Hawaii                          36
+Idaho                           57
+Illinois                        55
+Indiana                         73
+Iowa                            43
+Kansas                          43
+Kentucky                        59
+Louisiana                       62
+Maine                           61
+Maryland                        65
+Massachusetts                   56
+Michigan                        58
+Minnesota                       45
+Mississippi                     48
+Missouri                        54
+Montana                         58
+Nebraska                        54
+Nevada                          62
+New Hampshire                   71
+New Jersey                     100
+New Mexico                      59
+New York                        61
+North Carolina                  66
+North Dakota                    47
+Ohio                            61
+Oklahoma                        52
+Oregon                          36
+Pennsylvania                    71
+Rhode Island                    65
+South Carolina                  83
+South Dakota                    37
+Tennessee                       59
+Texas                           49
+Utah                            46
+Vermont                         53
+Virginia                        63
+Washington                      40
+West Virginia                   66
+Wisconsin                       57
+Wyoming                         60
