@@ -1,53 +1,53 @@
                       Ray Donovan
 geoName                          
-Alabama                        37
+Alabama                        36
 Alaska                         35
-Arizona                        52
-Arkansas                       31
-California                     59
+Arizona                        49
+Arkansas                       29
+California                     56
 Colorado                       42
-Connecticut                    86
-Delaware                       70
-District of Columbia           60
+Connecticut                    84
+Delaware                       68
+District of Columbia           58
 Florida                        58
-Georgia                        43
-Hawaii                         45
-Idaho                          28
-Illinois                       54
+Georgia                        42
+Hawaii                         43
+Idaho                          27
+Illinois                       53
 Indiana                        40
 Iowa                           27
 Kansas                         32
-Kentucky                       39
-Louisiana                      42
-Maine                          52
-Maryland                       61
-Massachusetts                  98
-Michigan                       47
-Minnesota                      38
-Mississippi                    30
+Kentucky                       38
+Louisiana                      43
+Maine                          50
+Maryland                       59
+Massachusetts                  96
+Michigan                       48
+Minnesota                      36
+Mississippi                    29
 Missouri                       43
-Montana                        38
-Nebraska                       31
-Nevada                         63
-New Hampshire                  78
+Montana                        36
+Nebraska                       33
+Nevada                         61
+New Hampshire                  79
 New Jersey                    100
 New Mexico                     40
-New York                       89
-North Carolina                 40
-North Dakota                   25
+New York                       88
+North Carolina                 38
+North Dakota                   23
 Ohio                           42
-Oklahoma                       40
+Oklahoma                       37
 Oregon                         33
-Pennsylvania                   69
+Pennsylvania                   67
 Rhode Island                   81
 South Carolina                 44
-South Dakota                   21
-Tennessee                      42
+South Dakota                   24
+Tennessee                      40
 Texas                          40
 Utah                           30
-Vermont                        50
+Vermont                        49
 Virginia                       39
 Washington                     42
-West Virginia                  38
-Wisconsin                      36
-Wyoming                        34
+West Virginia                  34
+Wisconsin                      35
+Wyoming                        32

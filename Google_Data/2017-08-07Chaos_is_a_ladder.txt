@@ -1,49 +1,50 @@
                       Chaos is a ladder
 geoName                                
-Alabama                              42
-Arizona                              39
-Arkansas                             49
-California                           47
-Colorado                             35
-Connecticut                          58
-Delaware                             66
-District of Columbia                100
-Florida                              38
-Georgia                              36
-Hawaii                               82
-Idaho                                49
-Illinois                             40
+Alabama                              32
+Alaska                               46
+Arizona                              21
+Arkansas                             91
+California                           65
+Colorado                             36
+Connecticut                          61
+Delaware                             59
+District of Columbia                 85
+Florida                              42
+Georgia                              41
+Hawaii                               87
+Idaho                                23
+Illinois                             52
 Indiana                              37
-Iowa                                 46
-Kansas                               26
-Kentucky                             42
-Louisiana                            58
-Maine                                64
-Maryland                             85
-Massachusetts                        70
-Michigan                             50
-Minnesota                            48
-Mississippi                          34
-Missouri                             30
-Montana                              67
-Nebraska                             14
-Nevada                               44
-New Hampshire                        40
-New Jersey                           44
-New Mexico                           36
-New York                             60
-North Carolina                       37
-Ohio                                 47
-Oklahoma                             20
-Oregon                               38
-Pennsylvania                         44
-Rhode Island                         92
-South Carolina                       36
-Tennessee                            45
-Texas                                27
-Utah                                 36
-Vermont                              62
-Virginia                             57
-Washington                           40
-West Virginia                        22
-Wisconsin                            54
+Iowa                                 42
+Kansas                               65
+Kentucky                             21
+Louisiana                            76
+Maine                                88
+Maryland                             73
+Massachusetts                       100
+Michigan                             56
+Minnesota                            51
+Mississippi                          66
+Missouri                             28
+Nebraska                             48
+Nevada                               73
+New Hampshire                        70
+New Jersey                           61
+New Mexico                           53
+New York                             82
+North Carolina                       52
+North Dakota                         98
+Ohio                                 56
+Oklahoma                             38
+Oregon                               32
+Pennsylvania                         62
+Rhode Island                         68
+South Carolina                       42
+Tennessee                            43
+Texas                                44
+Utah                                 69
+Vermont                              98
+Virginia                             59
+Washington                           66
+West Virginia                        80
+Wisconsin                            50

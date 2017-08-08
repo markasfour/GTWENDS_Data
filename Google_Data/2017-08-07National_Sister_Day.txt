@@ -1,53 +1,53 @@
                       National Sister Day
 geoName                                  
-Alabama                                66
-Alaska                                 21
-Arizona                                66
-Arkansas                               63
-California                             58
-Colorado                               38
-Connecticut                            56
-Delaware                               66
-District of Columbia                   50
-Florida                                54
-Georgia                                53
-Hawaii                                 58
-Idaho                                  62
-Illinois                               57
-Indiana                                60
-Iowa                                   54
-Kansas                                 58
-Kentucky                               46
-Louisiana                              70
-Maine                                  44
-Maryland                               55
-Massachusetts                          56
-Michigan                               56
-Minnesota                              57
-Mississippi                            75
-Missouri                               50
-Montana                                54
-Nebraska                               92
-Nevada                                 65
-New Hampshire                          58
-New Jersey                             64
-New Mexico                             53
-New York                               51
-North Carolina                         60
-North Dakota                           73
-Ohio                                   55
-Oklahoma                               60
-Oregon                                 33
-Pennsylvania                           66
+Alabama                                68
+Alaska                                 49
+Arizona                                82
+Arkansas                               74
+California                             66
+Colorado                               51
+Connecticut                            61
+Delaware                              100
+District of Columbia                   69
+Florida                                60
+Georgia                                65
+Hawaii                                 79
+Idaho                                  59
+Illinois                               70
+Indiana                                71
+Iowa                                   66
+Kansas                                 65
+Kentucky                               57
+Louisiana                              72
+Maine                                  55
+Maryland                               64
+Massachusetts                          73
+Michigan                               68
+Minnesota                              63
+Mississippi                            96
+Missouri                               59
+Montana                                47
+Nebraska                               73
+Nevada                                 70
+New Hampshire                          42
+New Jersey                             75
+New Mexico                             64
+New York                               61
+North Carolina                         73
+North Dakota                           88
+Ohio                                   68
+Oklahoma                               61
+Oregon                                 35
+Pennsylvania                           80
 Rhode Island                           51
-South Carolina                         72
-South Dakota                           67
-Tennessee                              50
-Texas                                  65
-Utah                                   73
-Vermont                                48
+South Carolina                         75
+South Dakota                           56
+Tennessee                              55
+Texas                                  77
+Utah                                   82
+Vermont                                55
 Virginia                               45
-Washington                             41
-West Virginia                          69
-Wisconsin                              65
-Wyoming                               100
+Washington                             50
+West Virginia                          76
+Wisconsin                              63
+Wyoming                                88

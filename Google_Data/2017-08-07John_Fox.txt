@@ -1,0 +1,53 @@
+                      John Fox
+geoName                       
+Alabama                     50
+Alaska                      33
+Arizona                     48
+Arkansas                    40
+California                  37
+Colorado                   100
+Connecticut                 47
+Delaware                    47
+District of Columbia        50
+Florida                     41
+Georgia                     46
+Hawaii                      30
+Idaho                       43
+Illinois                    72
+Indiana                     59
+Iowa                        53
+Kansas                      47
+Kentucky                    49
+Louisiana                   50
+Maine                       50
+Maryland                    44
+Massachusetts               47
+Michigan                    47
+Minnesota                   45
+Mississippi                 42
+Missouri                    55
+Montana                     55
+Nebraska                    49
+Nevada                      46
+New Hampshire               49
+New Jersey                  45
+New Mexico                  49
+New York                    45
+North Carolina              61
+North Dakota                49
+Ohio                        50
+Oklahoma                    44
+Oregon                      33
+Pennsylvania                55
+Rhode Island                47
+South Carolina              56
+South Dakota                54
+Tennessee                   51
+Texas                       37
+Utah                        45
+Vermont                     42
+Virginia                    43
+Washington                  42
+West Virginia               50
+Wisconsin                   64
+Wyoming                     59

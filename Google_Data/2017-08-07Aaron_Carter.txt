@@ -1,53 +1,53 @@
                       Aaron Carter
 geoName                           
-Alabama                         92
-Alaska                          50
-Arizona                         67
-Arkansas                        83
-California                      67
-Colorado                        67
-Connecticut                     82
-Delaware                        82
-District of Columbia            74
-Florida                         67
-Georgia                         73
-Hawaii                          56
-Idaho                           54
-Illinois                        79
-Indiana                         85
-Iowa                            84
-Kansas                          56
-Kentucky                        79
-Louisiana                       85
-Maine                           75
-Maryland                        68
-Massachusetts                   88
-Michigan                        76
-Minnesota                       78
-Mississippi                     70
-Missouri                        76
-Montana                         59
-Nebraska                        76
+Alabama                         94
+Alaska                          51
+Arizona                         69
+Arkansas                        84
+California                      70
+Colorado                        70
+Connecticut                     86
+Delaware                        84
+District of Columbia            77
+Florida                         70
+Georgia                         76
+Hawaii                          57
+Idaho                           60
+Illinois                        81
+Indiana                         88
+Iowa                            89
+Kansas                          60
+Kentucky                        77
+Louisiana                       86
+Maine                           74
+Maryland                        69
+Massachusetts                   92
+Michigan                        80
+Minnesota                       80
+Mississippi                     73
+Missouri                        80
+Montana                         60
+Nebraska                        78
 Nevada                          69
-New Hampshire                   87
-New Jersey                      76
-New Mexico                      60
-New York                        74
-North Carolina                  68
+New Hampshire                   84
+New Jersey                      77
+New Mexico                      57
+New York                        77
+North Carolina                  71
 North Dakota                   100
-Ohio                            79
-Oklahoma                        69
-Oregon                          54
-Pennsylvania                    85
-Rhode Island                    86
-South Carolina                  64
-South Dakota                    79
-Tennessee                       75
-Texas                           61
-Utah                            58
-Vermont                         82
-Virginia                        60
-Washington                      70
-West Virginia                   98
-Wisconsin                       70
-Wyoming                         58
+Ohio                            82
+Oklahoma                        68
+Oregon                          56
+Pennsylvania                    89
+Rhode Island                    88
+South Carolina                  70
+South Dakota                    76
+Tennessee                       80
+Texas                           64
+Utah                            65
+Vermont                         90
+Virginia                        63
+Washington                      76
+West Virginia                   84
+Wisconsin                       71
+Wyoming                         52

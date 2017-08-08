@@ -1,0 +1,53 @@
+                      VMAs
+geoName                   
+Alabama                 70
+Alaska                  58
+Arizona                 78
+Arkansas                69
+California              84
+Colorado                67
+Connecticut             85
+Delaware                73
+District of Columbia    57
+Florida                 76
+Georgia                 71
+Hawaii                  68
+Idaho                   61
+Illinois                78
+Indiana                 74
+Iowa                    85
+Kansas                  72
+Kentucky                77
+Louisiana               80
+Maine                   73
+Maryland                71
+Massachusetts           85
+Michigan                75
+Minnesota               74
+Mississippi             77
+Missouri                84
+Montana                 56
+Nebraska                72
+Nevada                  89
+New Hampshire           75
+New Jersey              97
+New Mexico              64
+New York               100
+North Carolina          67
+North Dakota            81
+Ohio                    76
+Oklahoma                92
+Oregon                  50
+Pennsylvania            84
+Rhode Island            90
+South Carolina          67
+South Dakota            67
+Tennessee               88
+Texas                   72
+Utah                    82
+Vermont                 70
+Virginia                70
+Washington              73
+West Virginia           78
+Wisconsin               66
+Wyoming                 69

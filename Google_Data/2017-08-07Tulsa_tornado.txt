@@ -1,21 +1,23 @@
                       Tulsa tornado
 geoName                            
 Alabama                           1
+Alaska                            2
 Arizona                           2
 Arkansas                          8
 California                        1
 Colorado                          2
-Connecticut                       0
+Connecticut                       1
 District of Columbia              1
 Florida                           1
 Georgia                           1
+Hawaii                            1
 Idaho                             1
 Illinois                          1
 Indiana                           1
 Iowa                              2
 Kansas                            5
 Kentucky                          1
-Louisiana                         3
+Louisiana                         4
 Maine                             1
 Maryland                          1
 Massachusetts                     0
@@ -24,8 +26,9 @@ Minnesota                         1
 Mississippi                       1
 Missouri                          6
 Montana                           1
-Nebraska                          3
+Nebraska                          4
 Nevada                            1
+New Hampshire                     1
 New Jersey                        1
 New Mexico                        3
 New York                          1
@@ -34,14 +37,15 @@ North Dakota                      2
 Ohio                              1
 Oklahoma                        100
 Oregon                            1
-Pennsylvania                      1
+Pennsylvania                      0
+Rhode Island                      1
 South Carolina                    1
-South Dakota                      2
+South Dakota                      1
 Tennessee                         1
 Texas                             3
 Utah                              1
 Virginia                          1
 Washington                        1
-West Virginia                     2
+West Virginia                     1
 Wisconsin                         2
-Wyoming                           1
+Wyoming                           2

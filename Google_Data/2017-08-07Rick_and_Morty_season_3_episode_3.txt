@@ -1,53 +1,53 @@
                       Rick and Morty season 3 episode 3
 geoName                                                
-Alabama                                              45
-Alaska                                               83
-Arizona                                              80
-Arkansas                                             63
-California                                           72
-Colorado                                             89
-Connecticut                                          65
-Delaware                                             74
-District of Columbia                                 35
+Alabama                                              48
+Alaska                                               94
+Arizona                                              75
+Arkansas                                             60
+California                                           70
+Colorado                                             88
+Connecticut                                          67
+Delaware                                             59
+District of Columbia                                 34
 Florida                                              56
-Georgia                                              43
-Hawaii                                               59
-Idaho                                                81
-Illinois                                             53
-Indiana                                              69
-Iowa                                                 67
-Kansas                                               46
-Kentucky                                             46
-Louisiana                                            54
-Maine                                                80
-Maryland                                             61
-Massachusetts                                        65
-Michigan                                             61
-Minnesota                                            59
-Mississippi                                          37
-Missouri                                             56
-Montana                                              86
-Nebraska                                             60
+Georgia                                              40
+Hawaii                                               64
+Idaho                                                76
+Illinois                                             52
+Indiana                                              63
+Iowa                                                 70
+Kansas                                               55
+Kentucky                                             51
+Louisiana                                            56
+Maine                                                89
+Maryland                                             59
+Massachusetts                                        63
+Michigan                                             60
+Minnesota                                            57
+Mississippi                                          40
+Missouri                                             55
+Montana                                              95
+Nebraska                                             57
 Nevada                                               71
-New Hampshire                                        73
-New Jersey                                           56
-New Mexico                                           83
-New York                                             53
-North Carolina                                       52
-North Dakota                                         83
-Ohio                                                 63
-Oklahoma                                             60
-Oregon                                               75
+New Hampshire                                        86
+New Jersey                                           58
+New Mexico                                           73
+New York                                             50
+North Carolina                                       50
+North Dakota                                         74
+Ohio                                                 61
+Oklahoma                                             55
+Oregon                                               74
 Pennsylvania                                         58
-Rhode Island                                         73
-South Carolina                                       53
-South Dakota                                         58
-Tennessee                                            45
-Texas                                                56
-Utah                                                 88
-Vermont                                              99
+Rhode Island                                         68
+South Carolina                                       50
+South Dakota                                         64
+Tennessee                                            49
+Texas                                                54
+Utah                                                 83
+Vermont                                             100
 Virginia                                             49
-Washington                                           78
-West Virginia                                        56
+Washington                                           77
+West Virginia                                        62
 Wisconsin                                            62
-Wyoming                                             100
+Wyoming                                              63

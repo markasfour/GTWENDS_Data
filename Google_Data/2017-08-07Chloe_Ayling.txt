@@ -1,35 +1,37 @@
                 Chloe Ayling
 geoName                     
-Alabama                   17
-Arizona                    8
-California                12
-Colorado                  18
-Connecticut               15
-Florida                   12
-Georgia                    4
-Hawaii                    36
-Idaho                     43
-Illinois                   9
-Indiana                   11
-Iowa                      22
-Kansas                    18
-Kentucky                  30
-Maryland                  14
-Michigan                   6
-Minnesota                  9
-Missouri                   9
-New Jersey                 8
-New Mexico                39
-New York                   9
-North Carolina            22
-Ohio                      11
-Oregon                    10
-Pennsylvania               4
+Alabama                   50
+Arizona                   17
+California                17
+Connecticut               30
+Florida                   27
+Georgia                   18
+Hawaii                    72
+Illinois                  21
+Indiana                   69
+Iowa                      44
+Kansas                    37
+Kentucky                  31
+Louisiana                 31
+Maryland                  37
+Massachusetts             12
+Michigan                  17
+Minnesota                 18
+Mississippi               60
+Missouri                  19
+Nevada                    39
+New Jersey                11
+New Mexico                79
+New York                  18
+North Carolina            39
+Ohio                      22
+Oregon                    20
+Pennsylvania              18
 Rhode Island             100
-South Carolina            14
-Tennessee                  9
-Texas                     12
-Utah                      19
-Virginia                  12
-Washington                 7
-Wisconsin                 10
+South Carolina            42
+Tennessee                 19
+Texas                     15
+Utah                      39
+Virginia                  29
+Washington                27
+Wisconsin                 41

@@ -1,0 +1,53 @@
+                      Trevor Siemian
+geoName                             
+Alabama                           10
+Alaska                             9
+Arizona                           12
+Arkansas                           9
+California                        10
+Colorado                         100
+Connecticut                       11
+Delaware                          12
+District of Columbia              11
+Florida                           10
+Georgia                            8
+Hawaii                            13
+Idaho                             18
+Illinois                          15
+Indiana                           12
+Iowa                              15
+Kansas                            14
+Kentucky                          10
+Louisiana                         11
+Maine                              8
+Maryland                          11
+Massachusetts                     11
+Michigan                           9
+Minnesota                         11
+Mississippi                       11
+Missouri                          11
+Montana                           25
+Nebraska                          25
+Nevada                            15
+New Hampshire                      9
+New Jersey                        11
+New Mexico                        27
+New York                           8
+North Carolina                    10
+North Dakota                      21
+Ohio                              11
+Oklahoma                           9
+Oregon                             7
+Pennsylvania                      10
+Rhode Island                      11
+South Carolina                    11
+South Dakota                      23
+Tennessee                         12
+Texas                             12
+Utah                              16
+Vermont                           11
+Virginia                           8
+Washington                        10
+West Virginia                     11
+Wisconsin                         10
+Wyoming                           42

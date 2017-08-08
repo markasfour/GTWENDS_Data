@@ -1,0 +1,53 @@
+                      SXSW
+geoName                   
+Alabama                  6
+Alaska                   7
+Arizona                  9
+Arkansas                 9
+California              18
+Colorado                15
+Connecticut              9
+Delaware                 7
+District of Columbia    18
+Florida                  7
+Georgia                  9
+Hawaii                   8
+Idaho                    6
+Illinois                12
+Indiana                  7
+Iowa                     7
+Kansas                   9
+Kentucky                 6
+Louisiana               18
+Maine                    6
+Maryland                11
+Massachusetts           13
+Michigan                 8
+Minnesota               10
+Mississippi              7
+Missouri                 9
+Montana                  7
+Nebraska                 8
+Nevada                  10
+New Hampshire            8
+New Jersey               9
+New Mexico              11
+New York                21
+North Carolina           7
+North Dakota             5
+Ohio                     8
+Oklahoma                16
+Oregon                   9
+Pennsylvania             9
+Rhode Island             9
+South Carolina           5
+South Dakota             5
+Tennessee               10
+Texas                  100
+Utah                     8
+Vermont                 10
+Virginia                 9
+Washington              12
+West Virginia            5
+Wisconsin                8
+Wyoming                  6

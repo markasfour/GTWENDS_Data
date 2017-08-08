@@ -1,53 +1,53 @@
                       Life of Kylie
 geoName                            
-Alabama                          48
-Alaska                           49
-Arizona                          71
-Arkansas                         56
-California                      100
-Colorado                         61
-Connecticut                      68
-Delaware                         33
+Alabama                          50
+Alaska                           59
+Arizona                          70
+Arkansas                         36
+California                       85
+Colorado                         47
+Connecticut                      52
+Delaware                        100
 District of Columbia             39
-Florida                          70
-Georgia                          59
-Hawaii                           77
-Idaho                            39
-Illinois                         60
-Indiana                          40
-Iowa                             53
-Kansas                           36
-Kentucky                         39
-Louisiana                        57
-Maine                            26
-Maryland                         57
-Massachusetts                    64
-Michigan                         54
-Minnesota                        43
-Mississippi                      48
-Missouri                         35
-Montana                          58
+Florida                          61
+Georgia                          50
+Hawaii                           53
+Idaho                            21
+Illinois                         49
+Indiana                          36
+Iowa                             31
+Kansas                           35
+Kentucky                         45
+Louisiana                        62
+Maine                            32
+Maryland                         50
+Massachusetts                    50
+Michigan                         51
+Minnesota                        41
+Mississippi                      39
+Missouri                         33
+Montana                          14
 Nebraska                         41
-Nevada                           81
-New Hampshire                    64
-New Jersey                       74
-New Mexico                       67
-New York                         84
-North Carolina                   54
-North Dakota                     20
-Ohio                             51
-Oklahoma                         62
-Oregon                           43
-Pennsylvania                     59
-Rhode Island                     74
-South Carolina                   56
-South Dakota                     31
-Tennessee                        44
-Texas                            63
-Utah                             43
-Vermont                          62
-Virginia                         53
-Washington                       59
-West Virginia                    34
-Wisconsin                        42
-Wyoming                          31
+Nevada                           76
+New Hampshire                    43
+New Jersey                       61
+New Mexico                       54
+New York                         71
+North Carolina                   40
+North Dakota                     18
+Ohio                             47
+Oklahoma                         48
+Oregon                           35
+Pennsylvania                     49
+Rhode Island                     59
+South Carolina                   54
+South Dakota                     18
+Tennessee                        37
+Texas                            60
+Utah                             48
+Vermont                          54
+Virginia                         40
+Washington                       48
+West Virginia                    29
+Wisconsin                        46
+Wyoming                          54

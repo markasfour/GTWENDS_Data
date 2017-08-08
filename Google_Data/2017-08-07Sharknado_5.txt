@@ -1,53 +1,53 @@
                       Sharknado 5
 geoName                          
-Alabama                        70
-Alaska                         75
+Alabama                        71
+Alaska                         56
 Arizona                        54
 Arkansas                       73
-California                     44
-Colorado                       45
-Connecticut                    66
-Delaware                      100
-District of Columbia           42
-Florida                        67
-Georgia                        45
-Hawaii                         21
-Idaho                          62
-Illinois                       53
-Indiana                        70
-Iowa                           82
-Kansas                         43
-Kentucky                       79
-Louisiana                      48
-Maine                          47
-Maryland                       56
-Massachusetts                  58
-Michigan                       80
-Minnesota                      57
-Mississippi                    62
-Missouri                       57
-Montana                        68
-Nebraska                       71
-Nevada                         60
-New Hampshire                  82
-New Jersey                     73
-New Mexico                     46
-New York                       47
-North Carolina                 65
-North Dakota                   78
-Ohio                           78
-Oklahoma                       69
-Oregon                         33
-Pennsylvania                   81
-Rhode Island                   83
+California                     46
+Colorado                       48
+Connecticut                    63
+Delaware                       58
+District of Columbia           48
+Florida                        70
+Georgia                        52
+Hawaii                         29
+Idaho                          59
+Illinois                       58
+Indiana                        77
+Iowa                           80
+Kansas                         55
+Kentucky                       83
+Louisiana                      51
+Maine                          61
+Maryland                       54
+Massachusetts                  55
+Michigan                       79
+Minnesota                      58
+Mississippi                    53
+Missouri                       56
+Montana                        53
+Nebraska                       54
+Nevada                         67
+New Hampshire                 100
+New Jersey                     83
+New Mexico                     37
+New York                       50
+North Carolina                 76
+North Dakota                   52
+Ohio                           83
+Oklahoma                       59
+Oregon                         37
+Pennsylvania                   76
+Rhode Island                   62
 South Carolina                 77
-South Dakota                   26
-Tennessee                      65
+South Dakota                   27
+Tennessee                      70
 Texas                          54
-Utah                           39
+Utah                           44
 Vermont                        46
-Virginia                       54
-Washington                     41
-West Virginia                  71
-Wisconsin                      59
-Wyoming                        49
+Virginia                       56
+Washington                     42
+West Virginia                  72
+Wisconsin                      63
+Wyoming                        79
