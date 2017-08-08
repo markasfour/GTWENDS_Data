@@ -1,0 +1,53 @@
+                      Don Baylor
+geoName                         
+Alabama                       24
+Alaska                        36
+Arizona                       77
+Arkansas                      34
+California                    91
+Colorado                     100
+Connecticut                   54
+Delaware                      31
+District of Columbia          72
+Florida                       33
+Georgia                       37
+Hawaii                        15
+Idaho                         36
+Illinois                      76
+Indiana                       44
+Iowa                          60
+Kansas                        66
+Kentucky                      25
+Louisiana                     21
+Maine                         67
+Maryland                      51
+Massachusetts                 88
+Michigan                      53
+Minnesota                     87
+Mississippi                   16
+Missouri                      73
+Montana                       43
+Nebraska                      71
+Nevada                        62
+New Hampshire                 77
+New Jersey                    52
+New Mexico                    33
+New York                      55
+North Carolina                32
+North Dakota                  31
+Ohio                          47
+Oklahoma                      49
+Oregon                        47
+Pennsylvania                  58
+Rhode Island                  68
+South Carolina                45
+South Dakota                  46
+Tennessee                     43
+Texas                         72
+Utah                          33
+Vermont                       46
+Virginia                      40
+Washington                    66
+West Virginia                 37
+Wisconsin                     50
+Wyoming                       35

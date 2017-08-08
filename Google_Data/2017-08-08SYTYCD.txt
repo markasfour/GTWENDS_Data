@@ -1,0 +1,53 @@
+                      SYTYCD
+geoName                     
+Alabama                   40
+Alaska                    39
+Arizona                   49
+Arkansas                  34
+California                54
+Colorado                  44
+Connecticut               45
+Delaware                  41
+District of Columbia      44
+Florida                   48
+Georgia                   39
+Hawaii                    66
+Idaho                     44
+Illinois                  39
+Indiana                   38
+Iowa                      38
+Kansas                    36
+Kentucky                  34
+Louisiana                 50
+Maine                     42
+Maryland                  49
+Massachusetts             57
+Michigan                  45
+Minnesota                 44
+Mississippi               26
+Missouri                  43
+Montana                   36
+Nebraska                  36
+Nevada                    53
+New Hampshire             51
+New Jersey                47
+New Mexico                30
+New York                  46
+North Carolina            45
+North Dakota              19
+Ohio                      40
+Oklahoma                  42
+Oregon                    42
+Pennsylvania              41
+Rhode Island              55
+South Carolina            41
+South Dakota              28
+Tennessee                 39
+Texas                     41
+Utah                     100
+Vermont                   43
+Virginia                  41
+Washington                52
+West Virginia             28
+Wisconsin                 37
+Wyoming                   26

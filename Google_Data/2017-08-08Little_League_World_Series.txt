@@ -1,0 +1,53 @@
+                      Little League World Series
+geoName                                         
+Alabama                                       25
+Alaska                                        18
+Arizona                                       26
+Arkansas                                      23
+California                                    37
+Colorado                                      22
+Connecticut                                   56
+Delaware                                      77
+District of Columbia                          47
+Florida                                       22
+Georgia                                       28
+Hawaii                                        47
+Idaho                                         25
+Illinois                                      40
+Indiana                                       36
+Iowa                                          54
+Kansas                                        22
+Kentucky                                      48
+Louisiana                                     29
+Maine                                         39
+Maryland                                      26
+Massachusetts                                 40
+Michigan                                      31
+Minnesota                                     28
+Mississippi                                   25
+Missouri                                      25
+Montana                                       40
+Nebraska                                      34
+Nevada                                        48
+New Hampshire                                 40
+New Jersey                                    43
+New Mexico                                    30
+New York                                      29
+North Carolina                                29
+North Dakota                                  24
+Ohio                                          27
+Oklahoma                                      21
+Oregon                                        24
+Pennsylvania                                 100
+Rhode Island                                  64
+South Carolina                                39
+South Dakota                                  44
+Tennessee                                     52
+Texas                                         35
+Utah                                          19
+Vermont                                       37
+Virginia                                      28
+Washington                                    35
+West Virginia                                 36
+Wisconsin                                     28
+Wyoming                                       25
