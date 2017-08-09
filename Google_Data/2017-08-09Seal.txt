@@ -1,0 +1,53 @@
+                      Seal
+geoName                   
+Alabama                 74
+Alaska                 100
+Arizona                 74
+Arkansas                75
+California              91
+Colorado                69
+Connecticut             68
+Delaware                68
+District of Columbia    65
+Florida                 67
+Georgia                 64
+Hawaii                  92
+Idaho                   83
+Illinois                65
+Indiana                 74
+Iowa                    68
+Kansas                  68
+Kentucky                71
+Louisiana               74
+Maine                   94
+Maryland                66
+Massachusetts           69
+Michigan                70
+Minnesota               68
+Mississippi             72
+Missouri                70
+Montana                 81
+Nebraska                70
+Nevada                  72
+New Hampshire           86
+New Jersey              63
+New Mexico              75
+New York                57
+North Carolina          67
+North Dakota            82
+Ohio                    72
+Oklahoma                75
+Oregon                  61
+Pennsylvania            71
+Rhode Island            75
+South Carolina          70
+South Dakota            75
+Tennessee               71
+Texas                   65
+Utah                    71
+Vermont                 76
+Virginia                67
+Washington              76
+West Virginia           77
+Wisconsin               70
+Wyoming                 77

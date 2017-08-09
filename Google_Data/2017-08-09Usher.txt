@@ -1,0 +1,53 @@
+                      Usher
+geoName                    
+Alabama                  77
+Alaska                   38
+Arizona                  45
+Arkansas                 59
+California               53
+Colorado                 40
+Connecticut              53
+Delaware                 66
+District of Columbia     79
+Florida                  63
+Georgia                  99
+Hawaii                   47
+Idaho                    31
+Illinois                 62
+Indiana                  54
+Iowa                     43
+Kansas                   50
+Kentucky                 57
+Louisiana                87
+Maine                    33
+Maryland                 72
+Massachusetts            51
+Michigan                 64
+Minnesota                45
+Mississippi             100
+Missouri                 59
+Montana                  26
+Nebraska                 45
+Nevada                   54
+New Hampshire            32
+New Jersey               63
+New Mexico               42
+New York                 68
+North Carolina           69
+North Dakota             39
+Ohio                     58
+Oklahoma                 56
+Oregon                   33
+Pennsylvania             58
+Rhode Island             53
+South Carolina           77
+South Dakota             35
+Tennessee                70
+Texas                    61
+Utah                     32
+Vermont                  31
+Virginia                 63
+Washington               44
+West Virginia            47
+Wisconsin                45
+Wyoming                  29

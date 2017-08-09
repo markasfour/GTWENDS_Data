@@ -1,0 +1,53 @@
+                      Overwatch
+geoName                        
+Alabama                      75
+Alaska                      100
+Arizona                      83
+Arkansas                     81
+California                   99
+Colorado                     75
+Connecticut                  84
+Delaware                     80
+District of Columbia         37
+Florida                      76
+Georgia                      59
+Hawaii                       95
+Idaho                        87
+Illinois                     67
+Indiana                      87
+Iowa                         76
+Kansas                       68
+Kentucky                     72
+Louisiana                    68
+Maine                        77
+Maryland                     80
+Massachusetts                73
+Michigan                     74
+Minnesota                    69
+Mississippi                  57
+Missouri                     68
+Montana                      69
+Nebraska                     72
+Nevada                      100
+New Hampshire                90
+New Jersey                   81
+New Mexico                   81
+New York                     61
+North Carolina               67
+North Dakota                 80
+Ohio                         78
+Oklahoma                     71
+Oregon                       73
+Pennsylvania                 71
+Rhode Island                 85
+South Carolina               63
+South Dakota                 76
+Tennessee                    67
+Texas                        73
+Utah                         95
+Vermont                      77
+Virginia                     64
+Washington                   99
+West Virginia                84
+Wisconsin                    68
+Wyoming                      64

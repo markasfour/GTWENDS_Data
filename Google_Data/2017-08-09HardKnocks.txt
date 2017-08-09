@@ -1,0 +1,39 @@
+                      HardKnocks
+geoName                         
+Alabama                       43
+Arizona                       52
+California                    66
+Colorado                      67
+Connecticut                   63
+District of Columbia          72
+Florida                       96
+Georgia                       72
+Illinois                      53
+Indiana                       37
+Iowa                          64
+Kansas                        43
+Kentucky                      50
+Louisiana                     66
+Maryland                      92
+Massachusetts                 83
+Michigan                      42
+Minnesota                     51
+Mississippi                   40
+Missouri                      58
+Nebraska                      66
+Nevada                        71
+New Jersey                    70
+New York                      62
+North Carolina                76
+Ohio                          65
+Oklahoma                      58
+Oregon                        28
+Pennsylvania                  66
+Rhode Island                  71
+South Carolina                59
+Tennessee                     51
+Texas                        100
+Vermont                       64
+Virginia                      41
+Washington                    48
+Wisconsin                     49

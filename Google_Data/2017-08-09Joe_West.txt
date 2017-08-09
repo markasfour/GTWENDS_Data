@@ -1,0 +1,43 @@
+                      Joe West
+geoName                       
+Alabama                     19
+Arizona                     16
+Arkansas                    21
+California                  20
+Colorado                    17
+Connecticut                 38
+District of Columbia        27
+Florida                     26
+Georgia                     16
+Illinois                    27
+Indiana                     24
+Iowa                        31
+Kansas                      18
+Kentucky                    21
+Louisiana                   17
+Maryland                    19
+Massachusetts               27
+Michigan                    25
+Minnesota                   20
+Mississippi                 29
+Missouri                    27
+Nebraska                    24
+Nevada                      19
+New Hampshire               19
+New Jersey                  32
+New Mexico                  23
+New York                    33
+North Carolina              18
+Ohio                        26
+Oklahoma                    20
+Oregon                      12
+Pennsylvania                33
+Rhode Island                32
+South Carolina              20
+Tennessee                   23
+Texas                       18
+Utah                        17
+Virginia                    17
+Washington                  17
+West Virginia              100
+Wisconsin                   25

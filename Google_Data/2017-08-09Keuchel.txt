@@ -1,0 +1,51 @@
+                      Keuchel
+geoName                      
+Alabama                    13
+Arizona                    16
+Arkansas                   68
+California                 16
+Colorado                   15
+Connecticut                30
+Delaware                   14
+District of Columbia       20
+Florida                    14
+Georgia                    13
+Hawaii                     10
+Idaho                       6
+Illinois                   26
+Indiana                    12
+Iowa                       17
+Kansas                     31
+Kentucky                   10
+Louisiana                  36
+Maine                      21
+Maryland                   21
+Massachusetts              27
+Michigan                   15
+Minnesota                  17
+Mississippi                11
+Missouri                   36
+Montana                     6
+Nebraska                   23
+Nevada                     19
+New Hampshire              20
+New Jersey                 32
+New Mexico                  5
+New York                   33
+North Carolina             10
+North Dakota               20
+Ohio                       19
+Oklahoma                   80
+Oregon                      8
+Pennsylvania               23
+Rhode Island               27
+South Carolina             12
+South Dakota               11
+Tennessee                  12
+Texas                     100
+Utah                        8
+Vermont                    21
+Virginia                   12
+Washington                 15
+West Virginia               9
+Wisconsin                  15

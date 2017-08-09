@@ -1,0 +1,53 @@
+                      Raina
+geoName                    
+Alabama                  18
+Alaska                   23
+Arizona                  25
+Arkansas                 26
+California               34
+Colorado                 24
+Connecticut              39
+Delaware                 34
+District of Columbia     30
+Florida                  22
+Georgia                  27
+Hawaii                   35
+Idaho                    19
+Illinois                 34
+Indiana                  25
+Iowa                     29
+Kansas                   30
+Kentucky                 22
+Louisiana                31
+Maine                    33
+Maryland                 39
+Massachusetts            34
+Michigan                 30
+Minnesota                32
+Mississippi              22
+Missouri                 23
+Montana                  25
+Nebraska                 29
+Nevada                   24
+New Hampshire            28
+New Jersey               50
+New Mexico               32
+New York                 43
+North Carolina           26
+North Dakota             22
+Ohio                     26
+Oklahoma                 25
+Oregon                   34
+Pennsylvania             34
+Rhode Island             38
+South Carolina           24
+South Dakota             26
+Tennessee                24
+Texas                    27
+Utah                     21
+Vermont                  40
+Virginia                100
+Washington               31
+West Virginia            19
+Wisconsin                28
+Wyoming                  18

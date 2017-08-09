@@ -1,0 +1,53 @@
+                      Real Madrid
+geoName                          
+Alabama                        23
+Alaska                         17
+Arizona                        46
+Arkansas                       37
+California                     84
+Colorado                       38
+Connecticut                    55
+Delaware                       43
+District of Columbia           85
+Florida                        83
+Georgia                        52
+Hawaii                         26
+Idaho                          24
+Illinois                       54
+Indiana                        34
+Iowa                           32
+Kansas                         53
+Kentucky                       26
+Louisiana                      30
+Maine                          18
+Maryland                       80
+Massachusetts                  51
+Michigan                       38
+Minnesota                      35
+Mississippi                    19
+Missouri                       29
+Montana                         9
+Nebraska                       44
+Nevada                         66
+New Hampshire                  22
+New Jersey                     85
+New Mexico                     36
+New York                       77
+North Carolina                 48
+North Dakota                   26
+Ohio                           26
+Oklahoma                       35
+Oregon                         77
+Pennsylvania                   33
+Rhode Island                   54
+South Carolina                 33
+South Dakota                   33
+Tennessee                      30
+Texas                          74
+Utah                           39
+Vermont                        26
+Virginia                      100
+Washington                     38
+West Virginia                  16
+Wisconsin                      26
+Wyoming                        20

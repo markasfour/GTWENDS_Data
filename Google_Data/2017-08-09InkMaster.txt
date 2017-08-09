@@ -1,0 +1,50 @@
+                      InkMaster
+geoName                        
+Alabama                      39
+Alaska                       60
+Arizona                      90
+Arkansas                     59
+California                   63
+Colorado                     59
+Connecticut                  85
+Delaware                     86
+District of Columbia         62
+Florida                      62
+Georgia                      57
+Hawaii                       74
+Idaho                        52
+Illinois                     55
+Indiana                      59
+Iowa                         58
+Kansas                       59
+Kentucky                     78
+Louisiana                    50
+Maine                        60
+Maryland                     77
+Massachusetts                62
+Michigan                     71
+Minnesota                    50
+Mississippi                  40
+Missouri                     69
+Montana                      61
+Nebraska                     56
+Nevada                       88
+New Hampshire                67
+New Jersey                   80
+New Mexico                   67
+New York                     69
+North Carolina               60
+North Dakota                100
+Ohio                         64
+Oklahoma                     65
+Oregon                       56
+Pennsylvania                 90
+Rhode Island                 89
+South Carolina               53
+Tennessee                    58
+Texas                        54
+Utah                         79
+Virginia                     59
+Washington                   59
+West Virginia                90
+Wisconsin                    65

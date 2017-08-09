@@ -1,0 +1,51 @@
+                      Bridwell
+geoName                       
+Alabama                     23
+Arizona                     40
+Arkansas                    50
+California                  23
+Colorado                    29
+Connecticut                 26
+Delaware                    21
+District of Columbia        24
+Florida                     22
+Georgia                     38
+Hawaii                      10
+Idaho                       37
+Illinois                    26
+Indiana                     65
+Iowa                        23
+Kansas                      56
+Kentucky                    48
+Louisiana                   25
+Maine                       20
+Maryland                    25
+Massachusetts               24
+Michigan                    16
+Minnesota                   23
+Mississippi                 22
+Missouri                    51
+Montana                     38
+Nebraska                    43
+Nevada                      22
+New Hampshire               17
+New Jersey                  18
+New Mexico                  27
+New York                    22
+North Carolina              30
+North Dakota                27
+Ohio                        23
+Oklahoma                    57
+Oregon                      20
+Pennsylvania                21
+Rhode Island                21
+South Carolina             100
+South Dakota                34
+Tennessee                   59
+Texas                       70
+Utah                        24
+Vermont                     30
+Virginia                    23
+Washington                  28
+West Virginia               17
+Wisconsin                   22
