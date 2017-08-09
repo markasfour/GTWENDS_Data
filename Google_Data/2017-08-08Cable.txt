@@ -1,0 +1,53 @@
+                      Cable
+geoName                    
+Alabama                  54
+Alaska                   38
+Arizona                  46
+Arkansas                 45
+California               52
+Colorado                 38
+Connecticut              43
+Delaware                 36
+District of Columbia     39
+Florida                  39
+Georgia                  44
+Hawaii                   85
+Idaho                    85
+Illinois                 40
+Indiana                  42
+Iowa                     41
+Kansas                   55
+Kentucky                 78
+Louisiana                48
+Maine                   100
+Maryland                 38
+Massachusetts            42
+Michigan                 47
+Minnesota                40
+Mississippi              53
+Missouri                 52
+Montana                  39
+Nebraska                 64
+Nevada                   50
+New Hampshire            49
+New Jersey               37
+New Mexico               39
+New York                 64
+North Carolina           93
+North Dakota             54
+Ohio                     98
+Oklahoma                 53
+Oregon                   32
+Pennsylvania             45
+Rhode Island             49
+South Carolina           69
+South Dakota             40
+Tennessee                41
+Texas                    61
+Utah                     36
+Vermont                  38
+Virginia                 40
+Washington               39
+West Virginia            44
+Wisconsin                67
+Wyoming                  43

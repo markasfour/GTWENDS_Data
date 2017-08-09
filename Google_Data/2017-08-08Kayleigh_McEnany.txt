@@ -1,52 +1,52 @@
                       Kayleigh McEnany
 geoName                               
-Alabama                             39
-Alaska                              37
-Arizona                             46
-Arkansas                            38
-California                          64
-Colorado                            43
-Connecticut                         84
-Delaware                            72
+Alabama                             31
+Alaska                              28
+Arizona                             45
+Arkansas                            31
+California                          63
+Colorado                            42
+Connecticut                         88
+Delaware                            78
 District of Columbia               100
-Florida                             52
-Georgia                             48
-Hawaii                              37
-Idaho                               35
-Illinois                            62
-Indiana                             41
-Iowa                                33
-Kansas                              32
-Kentucky                            32
-Louisiana                           33
-Maine                               41
-Maryland                            83
+Florida                             51
+Georgia                             50
+Hawaii                              34
+Idaho                               37
+Illinois                            58
+Indiana                             37
+Iowa                                38
+Kansas                              36
+Kentucky                            29
+Louisiana                           35
+Maine                               29
+Maryland                            78
 Massachusetts                       82
-Michigan                            54
-Minnesota                           49
-Mississippi                         32
-Missouri                            37
-Montana                             43
-Nebraska                            35
-Nevada                              52
+Michigan                            49
+Minnesota                           44
+Mississippi                         34
+Missouri                            39
+Montana                             47
+Nebraska                            37
+Nevada                              47
 New Hampshire                       65
 New Jersey                          81
-New Mexico                          37
-New York                            75
-North Carolina                      48
-North Dakota                        30
-Ohio                                45
-Oklahoma                            33
-Oregon                              32
-Pennsylvania                        65
-Rhode Island                        65
-South Carolina                      40
-South Dakota                        32
-Tennessee                           36
-Texas                               45
-Utah                                25
-Vermont                             40
-Virginia                            53
-Washington                          50
-West Virginia                       34
+New Mexico                          41
+New York                            74
+North Carolina                      43
+North Dakota                        36
+Ohio                                43
+Oklahoma                            24
+Oregon                              37
+Pennsylvania                        64
+Rhode Island                        63
+South Carolina                      38
+South Dakota                        33
+Tennessee                           40
+Texas                               42
+Utah                                31
+Vermont                             54
+Virginia                            58
+Washington                          52
+West Virginia                       42
 Wisconsin                           39

@@ -1,0 +1,48 @@
+                      Ghosted
+geoName                      
+Alabama                    55
+Arizona                    58
+Arkansas                   46
+California                 77
+Colorado                   81
+Connecticut                73
+Delaware                   78
+District of Columbia       84
+Florida                    55
+Georgia                    53
+Hawaii                     49
+Idaho                      43
+Illinois                   69
+Indiana                    67
+Iowa                       66
+Kansas                     60
+Kentucky                   55
+Louisiana                  46
+Maine                      59
+Maryland                   64
+Massachusetts              92
+Michigan                   68
+Minnesota                  58
+Mississippi                43
+Missouri                   62
+Montana                    60
+Nebraska                   56
+Nevada                     73
+New Hampshire              77
+New Jersey                 86
+New Mexico                 73
+New York                   80
+North Carolina             56
+Ohio                       62
+Oklahoma                   54
+Oregon                     60
+Pennsylvania               67
+Rhode Island              100
+South Carolina             58
+Tennessee                  60
+Texas                      58
+Utah                       64
+Virginia                   57
+Washington                 69
+West Virginia              76
+Wisconsin                  56

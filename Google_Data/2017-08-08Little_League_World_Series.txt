@@ -1,53 +1,53 @@
                       Little League World Series
 geoName                                         
 Alabama                                       25
-Alaska                                        18
+Alaska                                        19
 Arizona                                       26
-Arkansas                                      23
-California                                    37
+Arkansas                                      22
+California                                    38
 Colorado                                      22
 Connecticut                                   56
-Delaware                                      77
-District of Columbia                          47
-Florida                                       22
+Delaware                                      79
+District of Columbia                          49
+Florida                                       23
 Georgia                                       28
-Hawaii                                        47
+Hawaii                                        49
 Idaho                                         25
-Illinois                                      40
-Indiana                                       36
-Iowa                                          54
+Illinois                                      41
+Indiana                                       37
+Iowa                                          55
 Kansas                                        22
 Kentucky                                      48
-Louisiana                                     29
-Maine                                         39
+Louisiana                                     30
+Maine                                         40
 Maryland                                      26
-Massachusetts                                 40
+Massachusetts                                 41
 Michigan                                      31
-Minnesota                                     28
-Mississippi                                   25
-Missouri                                      25
-Montana                                       40
-Nebraska                                      34
+Minnesota                                     29
+Mississippi                                   26
+Missouri                                      27
+Montana                                       42
+Nebraska                                      35
 Nevada                                        48
-New Hampshire                                 40
-New Jersey                                    43
-New Mexico                                    30
-New York                                      29
-North Carolina                                29
-North Dakota                                  24
+New Hampshire                                 41
+New Jersey                                    44
+New Mexico                                    33
+New York                                      31
+North Carolina                                30
+North Dakota                                  25
 Ohio                                          27
 Oklahoma                                      21
-Oregon                                        24
+Oregon                                        25
 Pennsylvania                                 100
-Rhode Island                                  64
-South Carolina                                39
+Rhode Island                                  66
+South Carolina                                37
 South Dakota                                  44
-Tennessee                                     52
+Tennessee                                     54
 Texas                                         35
-Utah                                          19
-Vermont                                       37
+Utah                                          20
+Vermont                                       32
 Virginia                                      28
 Washington                                    35
-West Virginia                                 36
+West Virginia                                 37
 Wisconsin                                     28
-Wyoming                                       25
+Wyoming                                       28

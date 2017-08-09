@@ -1,40 +1,40 @@
                       Sinead O'Connor
 geoName                              
-Alabama                            45
-Arizona                            53
-California                         54
-Colorado                           46
-Connecticut                        68
-District of Columbia               90
-Florida                            38
-Georgia                            45
-Illinois                           91
+Alabama                            32
+Arizona                            45
+California                         51
+Colorado                           37
+Connecticut                        72
+District of Columbia               77
+Florida                            33
+Georgia                            38
+Illinois                           85
 Indiana                            40
-Iowa                               36
-Kansas                             56
-Kentucky                           42
-Louisiana                          25
-Maine                              94
-Maryland                           55
+Iowa                               34
+Kansas                             40
+Kentucky                           51
+Louisiana                          30
+Maine                              69
+Maryland                           48
 Massachusetts                     100
-Michigan                           60
-Minnesota                          62
-Missouri                           45
-Nebraska                           65
-Nevada                             58
-New Hampshire                      86
-New Jersey                         53
-New York                           81
-North Carolina                     54
-Ohio                               51
-Oklahoma                           43
-Oregon                             68
-Pennsylvania                       58
-Rhode Island                       50
-South Carolina                     47
-Tennessee                          51
-Texas                              39
-Utah                               47
-Virginia                           45
-Washington                         63
-Wisconsin                          44
+Michigan                           51
+Minnesota                          61
+Missouri                           44
+Nebraska                           50
+Nevada                             60
+New Hampshire                      88
+New Jersey                         49
+New York                           70
+North Carolina                     51
+Ohio                               36
+Oklahoma                           36
+Oregon                             51
+Pennsylvania                       52
+Rhode Island                       63
+South Carolina                     44
+Tennessee                          43
+Texas                              35
+Utah                               44
+Virginia                           46
+Washington                         49
+Wisconsin                          45

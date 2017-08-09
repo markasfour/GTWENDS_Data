@@ -1,0 +1,49 @@
+                      Summer Games
+geoName                           
+Alabama                         31
+Arizona                         28
+Arkansas                        33
+California                      30
+Colorado                        33
+Connecticut                     35
+Delaware                        38
+District of Columbia            19
+Florida                         28
+Georgia                         27
+Hawaii                          29
+Idaho                           35
+Illinois                        29
+Indiana                         35
+Iowa                            54
+Kansas                          28
+Kentucky                        29
+Louisiana                       28
+Maine                           37
+Maryland                        34
+Massachusetts                   32
+Michigan                        32
+Minnesota                       34
+Mississippi                     30
+Missouri                        30
+Montana                         36
+Nebraska                        33
+Nevada                          34
+New Hampshire                   31
+New Jersey                      36
+New Mexico                      31
+New York                        29
+North Carolina                  30
+Ohio                            34
+Oklahoma                        29
+Oregon                          25
+Pennsylvania                    31
+Rhode Island                    35
+South Carolina                  30
+Tennessee                       29
+Texas                           28
+Utah                           100
+Vermont                         40
+Virginia                        29
+Washington                      29
+West Virginia                   27
+Wisconsin                       38

@@ -1,53 +1,53 @@
                       Multiple Myeloma
 geoName                               
-Alabama                             86
-Alaska                              52
-Arizona                             72
-Arkansas                            90
-California                          56
-Colorado                            62
-Connecticut                         96
-Delaware                            77
-District of Columbia                67
-Florida                             70
+Alabama                             85
+Alaska                              57
+Arizona                             69
+Arkansas                            89
+California                          57
+Colorado                            61
+Connecticut                         98
+Delaware                            80
+District of Columbia                66
+Florida                             71
 Georgia                             64
-Hawaii                              54
-Idaho                               66
+Hawaii                              50
+Idaho                               65
 Illinois                            70
-Indiana                             76
-Iowa                                86
-Kansas                              66
-Kentucky                            85
+Indiana                             73
+Iowa                                85
+Kansas                              67
+Kentucky                            82
 Louisiana                           68
-Maine                               93
-Maryland                            88
-Massachusetts                       98
+Maine                               89
+Maryland                            87
+Massachusetts                      100
 Michigan                            78
-Minnesota                           89
-Mississippi                         77
-Missouri                            75
-Montana                             70
-Nebraska                            80
-Nevada                              47
-New Hampshire                       83
+Minnesota                           87
+Mississippi                         74
+Missouri                            76
+Montana                             66
+Nebraska                            79
+Nevada                              50
+New Hampshire                       78
 New Jersey                          86
 New Mexico                          67
-New York                            80
+New York                            82
 North Carolina                      75
-North Dakota                        80
-Ohio                                83
-Oklahoma                            62
-Oregon                              53
-Pennsylvania                        93
-Rhode Island                        72
-South Carolina                      74
-South Dakota                       100
-Tennessee                           86
-Texas                               54
-Utah                                50
-Vermont                             90
-Virginia                            60
+North Dakota                        71
+Ohio                                84
+Oklahoma                            60
+Oregon                              50
+Pennsylvania                        92
+Rhode Island                        75
+South Carolina                      73
+South Dakota                        99
+Tennessee                           85
+Texas                               53
+Utah                                51
+Vermont                             89
+Virginia                            59
 Washington                          61
-West Virginia                       91
+West Virginia                       86
 Wisconsin                           79
-Wyoming                             59
+Wyoming                             53

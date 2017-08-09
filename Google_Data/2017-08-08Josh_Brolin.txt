@@ -1,53 +1,53 @@
                       Josh Brolin
 geoName                          
-Alabama                        66
-Alaska                         85
-Arizona                        82
-Arkansas                       69
-California                     85
-Colorado                       79
-Connecticut                    67
-Delaware                       68
-District of Columbia           62
-Florida                        66
-Georgia                        68
-Hawaii                         67
-Idaho                          68
-Illinois                       69
-Indiana                        67
-Iowa                           68
-Kansas                         70
-Kentucky                       73
-Louisiana                      73
-Maine                          61
-Maryland                       66
-Massachusetts                  70
-Michigan                       66
-Minnesota                      68
-Mississippi                    77
-Missouri                       70
-Montana                        74
-Nebraska                       75
-Nevada                         84
-New Hampshire                  73
-New Jersey                     73
+Alabama                        62
+Alaska                         76
+Arizona                        76
+Arkansas                       64
+California                     81
+Colorado                       74
+Connecticut                    59
+Delaware                       66
+District of Columbia           67
+Florida                        63
+Georgia                        63
+Hawaii                         71
+Idaho                          67
+Illinois                       65
+Indiana                        63
+Iowa                           61
+Kansas                         66
+Kentucky                       70
+Louisiana                      66
+Maine                          62
+Maryland                       62
+Massachusetts                  69
+Michigan                       63
+Minnesota                      63
+Mississippi                    61
+Missouri                       73
+Montana                        59
+Nebraska                       71
+Nevada                         76
+New Hampshire                  70
+New Jersey                     65
 New Mexico                    100
-New York                       74
-North Carolina                 66
-North Dakota                   60
+New York                       68
+North Carolina                 61
+North Dakota                   67
 Ohio                           65
-Oklahoma                       82
-Oregon                         66
-Pennsylvania                   72
-Rhode Island                   64
-South Carolina                 66
-South Dakota                   59
-Tennessee                      72
-Texas                          75
-Utah                           75
-Vermont                        57
-Virginia                       55
-Washington                     79
-West Virginia                  70
-Wisconsin                      62
-Wyoming                        91
+Oklahoma                       79
+Oregon                         58
+Pennsylvania                   66
+Rhode Island                   61
+South Carolina                 62
+South Dakota                   61
+Tennessee                      70
+Texas                          70
+Utah                           76
+Vermont                        65
+Virginia                       53
+Washington                     71
+West Virginia                  59
+Wisconsin                      55
+Wyoming                        83

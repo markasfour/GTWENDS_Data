@@ -4,21 +4,21 @@ Alabama                  75
 Alaska                   36
 Arizona                  45
 Arkansas                 59
-California               52
+California               53
 Colorado                 41
 Connecticut              52
-Delaware                 66
+Delaware                 65
 District of Columbia     79
 Florida                  63
 Georgia                  99
-Hawaii                   47
-Idaho                    31
-Illinois                 61
-Indiana                  54
+Hawaii                   48
+Idaho                    30
+Illinois                 62
+Indiana                  53
 Iowa                     42
 Kansas                   50
 Kentucky                 57
-Louisiana                87
+Louisiana                88
 Maine                    34
 Maryland                 72
 Massachusetts            52
@@ -26,28 +26,28 @@ Michigan                 63
 Minnesota                45
 Mississippi             100
 Missouri                 59
-Montana                  26
-Nebraska                 44
+Montana                  27
+Nebraska                 45
 Nevada                   55
 New Hampshire            33
 New Jersey               61
-New Mexico               40
+New Mexico               42
 New York                 67
 North Carolina           68
-North Dakota             37
+North Dakota             39
 Ohio                     57
 Oklahoma                 55
 Oregon                   33
 Pennsylvania             58
 Rhode Island             55
-South Carolina           79
-South Dakota             37
+South Carolina           78
+South Dakota             35
 Tennessee                69
-Texas                    62
-Utah                     31
-Vermont                  31
+Texas                    61
+Utah                     32
+Vermont                  32
 Virginia                 63
 Washington               43
 West Virginia            47
-Wisconsin                46
-Wyoming                  31
+Wisconsin                45
+Wyoming                  28

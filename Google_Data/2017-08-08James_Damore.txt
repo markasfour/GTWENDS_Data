@@ -1,14 +1,13 @@
-                      James Damore
-geoName                           
-Arizona                         57
-California                      17
-District of Columbia           100
-Florida                         53
-Massachusetts                   59
-New Jersey                      38
-New York                        21
-Ohio                            37
-Pennsylvania                    30
-Texas                           12
-Virginia                        32
-Washington                      45
+               James Damore
+geoName                    
+Arizona                 100
+California               41
+Connecticut              89
+Florida                  24
+Illinois                 21
+Massachusetts            35
+Michigan                 68
+New Jersey               34
+New York                 31
+Pennsylvania             53
+Texas                    17
