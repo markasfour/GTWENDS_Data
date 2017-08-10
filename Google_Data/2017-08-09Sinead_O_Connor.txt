@@ -1,52 +1,52 @@
                       Sinead O Connor
 geoName                              
-Alabama                            52
-Alaska                             47
-Arizona                            57
-Arkansas                           51
-California                         84
-Colorado                           63
-Connecticut                        62
-Delaware                           32
-District of Columbia               62
-Florida                            63
-Georgia                            61
+Alabama                            57
+Alaska                             85
+Arizona                            64
+Arkansas                           63
+California                         81
+Colorado                           60
+Connecticut                        51
+Delaware                           24
+District of Columbia               85
+Florida                            57
+Georgia                            58
 Hawaii                             71
-Idaho                              76
-Illinois                           84
-Indiana                            44
-Iowa                               56
-Kansas                             62
-Kentucky                           51
-Louisiana                          61
-Maine                              51
-Maryland                           66
-Massachusetts                      80
-Michigan                           51
-Minnesota                          72
-Mississippi                        37
-Missouri                           55
-Montana                            64
-Nebraska                           50
-Nevada                             34
-New Hampshire                      81
-New Jersey                         76
-New Mexico                         61
+Idaho                              67
+Illinois                           80
+Indiana                            39
+Iowa                               59
+Kansas                             64
+Kentucky                           64
+Louisiana                          67
+Maine                              62
+Maryland                           61
+Massachusetts                      85
+Michigan                           56
+Minnesota                          61
+Mississippi                        44
+Missouri                           53
+Montana                            80
+Nebraska                           53
+Nevada                             61
+New Hampshire                      77
+New Jersey                         71
+New Mexico                         39
 New York                           86
-North Carolina                     57
-North Dakota                       50
-Ohio                               62
-Oklahoma                           38
-Oregon                             94
-Pennsylvania                       67
+North Carolina                     60
+North Dakota                       60
+Ohio                               57
+Oklahoma                           46
+Oregon                             79
+Pennsylvania                       71
 Rhode Island                      100
-South Carolina                     47
-South Dakota                       60
-Tennessee                          66
-Texas                              58
-Utah                               59
-Vermont                            50
-Virginia                           53
-Washington                         91
-West Virginia                      32
-Wisconsin                          65
+South Carolina                     40
+South Dakota                       70
+Tennessee                          60
+Texas                              59
+Utah                               57
+Vermont                            60
+Virginia                           55
+Washington                         77
+West Virginia                      76
+Wisconsin                          58

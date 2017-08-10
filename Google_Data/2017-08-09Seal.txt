@@ -1,53 +1,53 @@
                       Seal
 geoName                   
-Alabama                 74
+Alabama                 73
 Alaska                 100
-Arizona                 74
-Arkansas                75
-California              91
+Arizona                 71
+Arkansas                72
+California              90
 Colorado                69
-Connecticut             68
+Connecticut             67
 Delaware                68
-District of Columbia    65
+District of Columbia    64
 Florida                 67
-Georgia                 64
-Hawaii                  92
-Idaho                   83
-Illinois                65
-Indiana                 74
-Iowa                    68
+Georgia                 63
+Hawaii                  91
+Idaho                   81
+Illinois                64
+Indiana                 72
+Iowa                    69
 Kansas                  68
-Kentucky                71
-Louisiana               74
-Maine                   94
+Kentucky                70
+Louisiana               72
+Maine                   92
 Maryland                66
-Massachusetts           69
-Michigan                70
-Minnesota               68
-Mississippi             72
-Missouri                70
+Massachusetts           68
+Michigan                69
+Minnesota               69
+Mississippi             71
+Missouri                69
 Montana                 81
 Nebraska                70
-Nevada                  72
-New Hampshire           86
+Nevada                  70
+New Hampshire           85
 New Jersey              63
-New Mexico              75
-New York                57
-North Carolina          67
+New Mexico              74
+New York                55
+North Carolina          66
 North Dakota            82
-Ohio                    72
-Oklahoma                75
-Oregon                  61
+Ohio                    71
+Oklahoma                73
+Oregon                  60
 Pennsylvania            71
 Rhode Island            75
 South Carolina          70
 South Dakota            75
-Tennessee               71
-Texas                   65
-Utah                    71
+Tennessee               72
+Texas                   64
+Utah                    70
 Vermont                 76
-Virginia                67
-Washington              76
+Virginia                65
+Washington              75
 West Virginia           77
 Wisconsin               70
-Wyoming                 77
+Wyoming                 79

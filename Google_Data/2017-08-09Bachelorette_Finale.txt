@@ -1,53 +1,53 @@
                       Bachelorette Finale
 geoName                                  
-Alabama                                47
-Alaska                                 46
-Arizona                                56
-Arkansas                               55
+Alabama                                55
+Alaska                                 37
+Arizona                                62
+Arkansas                               49
 California                             64
-Colorado                               70
-Connecticut                            65
-Delaware                               50
-District of Columbia                   60
-Florida                                51
-Georgia                                58
-Hawaii                                 66
-Idaho                                  64
-Illinois                               67
-Indiana                                64
-Iowa                                   75
-Kansas                                 54
-Kentucky                               41
-Louisiana                              53
-Maine                                  82
-Maryland                               51
-Massachusetts                          83
+Colorado                               69
+Connecticut                            67
+Delaware                               48
+District of Columbia                   68
+Florida                                52
+Georgia                                55
+Hawaii                                 58
+Idaho                                  54
+Illinois                               65
+Indiana                                63
+Iowa                                   74
+Kansas                                 50
+Kentucky                               50
+Louisiana                              49
+Maine                                  77
+Maryland                               57
+Massachusetts                          87
 Michigan                               62
-Minnesota                              96
-Mississippi                            57
-Missouri                               69
-Montana                                65
-Nebraska                               65
-Nevada                                 63
-New Hampshire                          65
+Minnesota                             100
+Mississippi                            52
+Missouri                               67
+Montana                                75
+Nebraska                               64
+Nevada                                 59
+New Hampshire                          82
 New Jersey                             64
-New Mexico                             38
-New York                               63
-North Carolina                         61
-North Dakota                           81
-Ohio                                   64
-Oklahoma                               60
-Oregon                                 54
-Pennsylvania                           65
-Rhode Island                           67
-South Carolina                         52
-South Dakota                           57
-Tennessee                              68
-Texas                                  53
-Utah                                   88
-Vermont                                54
-Virginia                               52
-Washington                             78
-West Virginia                          33
-Wisconsin                             100
-Wyoming                                78
+New Mexico                             51
+New York                               58
+North Carolina                         59
+North Dakota                           80
+Ohio                                   65
+Oklahoma                               52
+Oregon                                 60
+Pennsylvania                           66
+Rhode Island                           64
+South Carolina                         67
+South Dakota                           50
+Tennessee                              65
+Texas                                  50
+Utah                                   94
+Vermont                                64
+Virginia                               55
+Washington                             82
+West Virginia                          46
+Wisconsin                              89
+Wyoming                                82

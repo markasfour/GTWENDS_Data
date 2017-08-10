@@ -1,53 +1,53 @@
                       Mike Trout
 geoName                         
 Alabama                       35
-Alaska                        16
+Alaska                        18
 Arizona                       43
-Arkansas                      31
+Arkansas                      32
 California                    88
 Colorado                      30
-Connecticut                   53
-Delaware                      63
+Connecticut                   54
+Delaware                      65
 District of Columbia          53
-Florida                       29
+Florida                       28
 Georgia                       31
-Hawaii                        50
-Idaho                         32
-Illinois                      47
-Indiana                       36
-Iowa                          44
-Kansas                        41
-Kentucky                      31
+Hawaii                        47
+Idaho                         34
+Illinois                      48
+Indiana                       35
+Iowa                          45
+Kansas                        40
+Kentucky                      30
 Louisiana                     32
-Maine                         37
-Maryland                      35
-Massachusetts                 47
+Maine                         38
+Maryland                      37
+Massachusetts                 50
 Michigan                      45
-Minnesota                     40
-Mississippi                   34
-Missouri                      56
-Montana                       37
-Nebraska                      41
-Nevada                        55
-New Hampshire                 42
+Minnesota                     41
+Mississippi                   32
+Missouri                      55
+Montana                       34
+Nebraska                      37
+Nevada                        53
+New Hampshire                 41
 New Jersey                   100
 New Mexico                    29
 New York                      50
 North Carolina                30
-North Dakota                  38
-Ohio                          36
-Oklahoma                      32
-Oregon                        24
-Pennsylvania                  68
-Rhode Island                  49
-South Carolina                29
-South Dakota                  36
-Tennessee                     29
+North Dakota                  36
+Ohio                          38
+Oklahoma                      33
+Oregon                        25
+Pennsylvania                  67
+Rhode Island                  47
+South Carolina                28
+South Dakota                  32
+Tennessee                     30
 Texas                         33
-Utah                          44
-Vermont                       34
+Utah                          43
+Vermont                       32
 Virginia                      29
-Washington                    42
-West Virginia                 34
-Wisconsin                     38
-Wyoming                       30
+Washington                    44
+West Virginia                 32
+Wisconsin                     39
+Wyoming                       26

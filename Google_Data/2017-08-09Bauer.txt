@@ -1,0 +1,53 @@
+                      Bauer
+geoName                    
+Alabama                  25
+Alaska                   81
+Arizona                  30
+Arkansas                 36
+California               30
+Colorado                 57
+Connecticut              53
+Delaware                 39
+District of Columbia     38
+Florida                  23
+Georgia                  25
+Hawaii                   20
+Idaho                    50
+Illinois                 56
+Indiana                  56
+Iowa                     61
+Kansas                   44
+Kentucky                 39
+Louisiana                24
+Maine                    70
+Maryland                 44
+Massachusetts            59
+Michigan                 59
+Minnesota                87
+Mississippi              22
+Missouri                 49
+Montana                  80
+Nebraska                 65
+Nevada                   26
+New Hampshire            69
+New Jersey               42
+New Mexico               42
+New York                 42
+North Carolina           34
+North Dakota            100
+Ohio                     55
+Oklahoma                 34
+Oregon                   38
+Pennsylvania             49
+Rhode Island             50
+South Carolina           29
+South Dakota             78
+Tennessee                33
+Texas                    28
+Utah                     41
+Vermont                  81
+Virginia                 35
+Washington               60
+West Virginia            32
+Wisconsin                68
+Wyoming                  69

@@ -5,20 +5,20 @@ Alaska                   38
 Arizona                  46
 Arkansas                 45
 California               53
-Colorado                 38
-Connecticut              44
+Colorado                 39
+Connecticut              43
 Delaware                 36
-District of Columbia     40
+District of Columbia     39
 Florida                  40
-Georgia                  44
-Hawaii                   87
-Idaho                    87
+Georgia                  45
+Hawaii                   85
+Idaho                    86
 Illinois                 41
 Indiana                  43
-Iowa                     42
-Kansas                   56
-Kentucky                 80
-Louisiana                48
+Iowa                     43
+Kansas                   55
+Kentucky                 79
+Louisiana                49
 Maine                   100
 Maryland                 39
 Massachusetts            43
@@ -27,27 +27,27 @@ Minnesota                41
 Mississippi              54
 Missouri                 52
 Montana                  39
-Nebraska                 67
-Nevada                   51
+Nebraska                 66
+Nevada                   52
 New Hampshire            50
-New Jersey               38
-New Mexico               40
+New Jersey               37
+New Mexico               39
 New York                 65
-North Carolina           96
-North Dakota             55
-Ohio                     97
+North Carolina           94
+North Dakota             54
+Ohio                     99
 Oklahoma                 54
 Oregon                   33
-Pennsylvania             46
+Pennsylvania             45
 Rhode Island             50
-South Carolina           70
-South Dakota             41
+South Carolina           69
+South Dakota             40
 Tennessee                42
-Texas                    62
-Utah                     36
-Vermont                  39
+Texas                    61
+Utah                     37
+Vermont                  38
 Virginia                 41
-Washington               40
+Washington               39
 West Virginia            45
-Wisconsin                69
-Wyoming                  43
+Wisconsin                68
+Wyoming                  44

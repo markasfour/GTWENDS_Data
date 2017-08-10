@@ -1,53 +1,53 @@
                       North Korea
 geoName                          
-Alabama                        66
+Alabama                        65
 Alaska                         83
-Arizona                        69
-Arkansas                       62
-California                     71
-Colorado                       69
+Arizona                        70
+Arkansas                       63
+California                     72
+Colorado                       71
 Connecticut                    68
-Delaware                       62
+Delaware                       64
 District of Columbia           80
 Florida                        59
-Georgia                        60
+Georgia                        59
 Hawaii                        100
-Idaho                          67
-Illinois                       61
-Indiana                        74
-Iowa                           66
-Kansas                         57
-Kentucky                       63
-Louisiana                      56
-Maine                          71
-Maryland                       65
-Massachusetts                  67
+Idaho                          68
+Illinois                       62
+Indiana                        75
+Iowa                           69
+Kansas                         59
+Kentucky                       64
+Louisiana                      57
+Maine                          74
+Maryland                       67
+Massachusetts                  68
 Michigan                       65
-Minnesota                      64
-Mississippi                    54
-Missouri                       64
-Montana                        62
-Nebraska                       68
-Nevada                         66
+Minnesota                      66
+Mississippi                    55
+Missouri                       65
+Montana                        60
+Nebraska                       69
+Nevada                         69
 New Hampshire                  72
-New Jersey                     64
-New Mexico                     69
-New York                       58
+New Jersey                     66
+New Mexico                     70
+New York                       59
 North Carolina                 62
 North Dakota                   70
-Ohio                           64
-Oklahoma                       63
-Oregon                         54
-Pennsylvania                   66
-Rhode Island                   70
-South Carolina                 58
+Ohio                           66
+Oklahoma                       64
+Oregon                         55
+Pennsylvania                   68
+Rhode Island                   72
+South Carolina                 60
 South Dakota                   63
-Tennessee                      61
-Texas                          63
-Utah                           62
+Tennessee                      62
+Texas                          64
+Utah                           64
 Vermont                        66
 Virginia                       56
-Washington                     77
+Washington                     79
 West Virginia                  69
-Wisconsin                      62
-Wyoming                        69
+Wisconsin                      64
+Wyoming                        70

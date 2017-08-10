@@ -1,53 +1,53 @@
                       Aubrey Plaza
 geoName                           
-Alabama                         51
-Alaska                          66
-Arizona                         66
-Arkansas                        56
-California                      78
-Colorado                        63
-Connecticut                     66
+Alabama                         49
+Alaska                          62
+Arizona                         65
+Arkansas                        53
+California                      75
+Colorado                        61
+Connecticut                     63
 Delaware                       100
-District of Columbia            59
-Florida                         51
-Georgia                         47
-Hawaii                          74
-Idaho                           63
-Illinois                        66
-Indiana                         66
-Iowa                            64
-Kansas                          60
+District of Columbia            58
+Florida                         50
+Georgia                         46
+Hawaii                          70
+Idaho                           55
+Illinois                        63
+Indiana                         63
+Iowa                            62
+Kansas                          58
 Kentucky                        59
-Louisiana                       55
-Maine                           62
-Maryland                        69
-Massachusetts                   72
-Michigan                        67
-Minnesota                       62
-Mississippi                     41
-Missouri                        58
-Montana                         60
-Nebraska                        64
-Nevada                          67
-New Hampshire                   67
-New Jersey                      68
-New Mexico                      67
-New York                        69
-North Carolina                  53
-North Dakota                    69
-Ohio                            66
-Oklahoma                        65
-Oregon                          61
-Pennsylvania                    71
-Rhode Island                    77
-South Carolina                  52
-South Dakota                    61
+Louisiana                       52
+Maine                           61
+Maryland                        65
+Massachusetts                   68
+Michigan                        62
+Minnesota                       61
+Mississippi                     40
+Missouri                        57
+Montana                         59
+Nebraska                        63
+Nevada                          60
+New Hampshire                   66
+New Jersey                      63
+New Mexico                      65
+New York                        64
+North Carolina                  50
+North Dakota                    66
+Ohio                            63
+Oklahoma                        59
+Oregon                          57
+Pennsylvania                    68
+Rhode Island                    72
+South Carolina                  48
+South Dakota                    56
 Tennessee                       54
-Texas                           59
-Utah                            65
+Texas                           58
+Utah                            61
 Vermont                         76
-Virginia                        55
-Washington                      72
-West Virginia                   57
-Wisconsin                       64
-Wyoming                         57
+Virginia                        53
+Washington                      71
+West Virginia                   52
+Wisconsin                       61
+Wyoming                         58
