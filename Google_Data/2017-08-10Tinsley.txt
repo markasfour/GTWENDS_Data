@@ -1,0 +1,53 @@
+                      Tinsley
+geoName                      
+Alabama                    47
+Alaska                     13
+Arizona                    28
+Arkansas                   33
+California                 27
+Colorado                   24
+Connecticut                39
+Delaware                   35
+District of Columbia       42
+Florida                    35
+Georgia                    48
+Hawaii                     18
+Idaho                      18
+Illinois                   34
+Indiana                    47
+Iowa                       28
+Kansas                     24
+Kentucky                   49
+Louisiana                  44
+Maine                      19
+Maryland                   33
+Massachusetts              37
+Michigan                   25
+Minnesota                  23
+Mississippi                58
+Missouri                   34
+Montana                    28
+Nebraska                   25
+Nevada                     21
+New Hampshire              25
+New Jersey                 34
+New Mexico                 19
+New York                   39
+North Carolina             46
+North Dakota               12
+Ohio                       25
+Oklahoma                   32
+Oregon                     19
+Pennsylvania               33
+Rhode Island               28
+South Carolina            100
+South Dakota               16
+Tennessee                  52
+Texas                      57
+Utah                       22
+Vermont                    25
+Virginia                   41
+Washington                 26
+West Virginia              36
+Wisconsin                  19
+Wyoming                    21

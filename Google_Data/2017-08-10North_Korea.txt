@@ -1,0 +1,53 @@
+                      North Korea
+geoName                          
+Alabama                        64
+Alaska                         85
+Arizona                        69
+Arkansas                       62
+California                     71
+Colorado                       70
+Connecticut                    67
+Delaware                       66
+District of Columbia           78
+Florida                        59
+Georgia                        59
+Hawaii                        100
+Idaho                          67
+Illinois                       62
+Indiana                        74
+Iowa                           67
+Kansas                         57
+Kentucky                       63
+Louisiana                      56
+Maine                          70
+Maryland                       64
+Massachusetts                  67
+Michigan                       65
+Minnesota                      64
+Mississippi                    54
+Missouri                       64
+Montana                        60
+Nebraska                       67
+Nevada                         66
+New Hampshire                  71
+New Jersey                     63
+New Mexico                     67
+New York                       57
+North Carolina                 61
+North Dakota                   70
+Ohio                           64
+Oklahoma                       64
+Oregon                         53
+Pennsylvania                   65
+Rhode Island                   71
+South Carolina                 59
+South Dakota                   62
+Tennessee                      61
+Texas                          64
+Utah                           63
+Vermont                        66
+Virginia                       54
+Washington                     78
+West Virginia                  69
+Wisconsin                      62
+Wyoming                        65

@@ -1,0 +1,53 @@
+                      Cardi
+geoName                    
+Alabama                  34
+Alaska                   12
+Arizona                  17
+Arkansas                 23
+California               21
+Colorado                 12
+Connecticut              33
+Delaware                 45
+District of Columbia     44
+Florida                  30
+Georgia                  40
+Hawaii                   13
+Idaho                     6
+Illinois                 25
+Indiana                  23
+Iowa                     10
+Kansas                   11
+Kentucky                 16
+Louisiana                39
+Maine                     8
+Maryland                 48
+Massachusetts            30
+Michigan                 25
+Minnesota                12
+Mississippi              43
+Missouri                 21
+Montana                   6
+Nebraska                 12
+Nevada                   26
+New Hampshire             9
+New Jersey               39
+New Mexico               14
+New York                 46
+North Carolina           39
+North Dakota              8
+Ohio                     24
+Oklahoma                 14
+Oregon                    8
+Pennsylvania             30
+Rhode Island            100
+South Carolina           39
+South Dakota              7
+Tennessee                25
+Texas                    27
+Utah                      8
+Vermont                   7
+Virginia                 27
+Washington               12
+West Virginia            14
+Wisconsin                14
+Wyoming                   8

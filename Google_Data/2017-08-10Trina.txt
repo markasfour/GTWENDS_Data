@@ -1,0 +1,53 @@
+                      Trina
+geoName                    
+Alabama                  74
+Alaska                   26
+Arizona                  31
+Arkansas                 44
+California               37
+Colorado                 28
+Connecticut              34
+Delaware                 50
+District of Columbia     60
+Florida                  65
+Georgia                  82
+Hawaii                   41
+Idaho                    23
+Illinois                 46
+Indiana                  33
+Iowa                     22
+Kansas                   33
+Kentucky                 42
+Louisiana                79
+Maine                    20
+Maryland                 61
+Massachusetts            32
+Michigan                 45
+Minnesota                29
+Mississippi             100
+Missouri                 40
+Montana                  21
+Nebraska                 26
+Nevada                   36
+New Hampshire            22
+New Jersey               41
+New Mexico               25
+New York                 44
+North Carolina           58
+North Dakota             22
+Ohio                     34
+Oklahoma                 40
+Oregon                   19
+Pennsylvania             39
+Rhode Island             27
+South Carolina           70
+South Dakota             22
+Tennessee                51
+Texas                    47
+Utah                     23
+Vermont                  21
+Virginia                 42
+Washington               30
+West Virginia            29
+Wisconsin                29
+Wyoming                  17

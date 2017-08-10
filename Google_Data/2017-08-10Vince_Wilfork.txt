@@ -1,0 +1,53 @@
+                      Vince Wilfork
+geoName                            
+Alabama                          11
+Alaska                            7
+Arizona                          11
+Arkansas                          9
+California                       10
+Colorado                         14
+Connecticut                      34
+Delaware                         13
+District of Columbia             22
+Florida                          15
+Georgia                          13
+Hawaii                           12
+Idaho                             9
+Illinois                         12
+Indiana                          13
+Iowa                             13
+Kansas                           11
+Kentucky                         14
+Louisiana                        12
+Maine                            70
+Maryland                         16
+Massachusetts                   100
+Michigan                         12
+Minnesota                        10
+Mississippi                      12
+Missouri                         11
+Montana                          12
+Nebraska                         13
+Nevada                           10
+New Hampshire                    84
+New Jersey                       15
+New Mexico                        8
+New York                         16
+North Carolina                   13
+North Dakota                     15
+Ohio                             12
+Oklahoma                         13
+Oregon                            7
+Pennsylvania                     15
+Rhode Island                     91
+South Carolina                   13
+South Dakota                     14
+Tennessee                        11
+Texas                            19
+Utah                              9
+Vermont                          39
+Virginia                         13
+Washington                       11
+West Virginia                    11
+Wisconsin                        12
+Wyoming                          14

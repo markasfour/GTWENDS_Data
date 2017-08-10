@@ -1,0 +1,47 @@
+                      Khia
+geoName                   
+Alabama                 77
+Arizona                 27
+Arkansas                30
+California              35
+Colorado                21
+Connecticut             32
+Delaware                49
+District of Columbia    51
+Florida                 68
+Georgia                100
+Hawaii                  30
+Illinois                39
+Indiana                 34
+Iowa                    22
+Kansas                  35
+Kentucky                36
+Louisiana               87
+Maine                   16
+Maryland                59
+Massachusetts           30
+Michigan                39
+Minnesota               26
+Mississippi             79
+Missouri                37
+Nebraska                30
+Nevada                  34
+New Hampshire           14
+New Jersey              38
+New Mexico              24
+New York                41
+North Carolina          60
+Ohio                    34
+Oklahoma                39
+Oregon                  48
+Pennsylvania            39
+Rhode Island            57
+South Carolina          85
+Tennessee               43
+Texas                   45
+Utah                    15
+Vermont                 19
+Virginia                38
+Washington              24
+West Virginia           24
+Wisconsin               28

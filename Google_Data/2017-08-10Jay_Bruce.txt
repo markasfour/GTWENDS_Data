@@ -1,0 +1,51 @@
+                      Jay Bruce
+geoName                        
+Alabama                       9
+Arizona                      12
+Arkansas                      9
+California                   13
+Colorado                      9
+Connecticut                  28
+Delaware                     16
+District of Columbia         20
+Florida                      12
+Georgia                      11
+Hawaii                        8
+Idaho                         7
+Illinois                     17
+Indiana                      34
+Iowa                         11
+Kansas                       10
+Kentucky                     70
+Louisiana                    10
+Maine                        11
+Maryland                     15
+Massachusetts                18
+Michigan                     16
+Minnesota                    12
+Mississippi                  11
+Missouri                     15
+Montana                      11
+Nebraska                     10
+Nevada                       12
+New Hampshire                15
+New Jersey                   38
+New Mexico                    6
+New York                     39
+North Carolina               12
+North Dakota                  7
+Ohio                        100
+Oklahoma                      7
+Oregon                        6
+Pennsylvania                 18
+Rhode Island                 16
+South Carolina               12
+South Dakota                 10
+Tennessee                    14
+Texas                        11
+Utah                          7
+Vermont                      15
+Virginia                     12
+Washington                   10
+West Virginia                38
+Wisconsin                    12
