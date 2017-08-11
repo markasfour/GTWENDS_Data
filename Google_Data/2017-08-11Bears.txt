@@ -1,0 +1,53 @@
+                      Bears
+geoName                    
+Alabama                  15
+Alaska                   61
+Arizona                  22
+Arkansas                 18
+California               17
+Colorado                 23
+Connecticut              18
+Delaware                 15
+District of Columbia     18
+Florida                  17
+Georgia                  17
+Hawaii                   17
+Idaho                    20
+Illinois                100
+Indiana                  43
+Iowa                     45
+Kansas                   17
+Kentucky                 19
+Louisiana                16
+Maine                    20
+Maryland                 15
+Massachusetts            15
+Michigan                 21
+Minnesota                25
+Mississippi              17
+Missouri                 23
+Montana                  31
+Nebraska                 25
+Nevada                   22
+New Hampshire            16
+New Jersey               15
+New Mexico               23
+New York                 14
+North Carolina           17
+North Dakota             32
+Ohio                     18
+Oklahoma                 17
+Oregon                   13
+Pennsylvania             20
+Rhode Island             16
+South Carolina           16
+South Dakota             31
+Tennessee                20
+Texas                    18
+Utah                     20
+Vermont                  17
+Virginia                 15
+Washington               18
+West Virginia            22
+Wisconsin                50
+Wyoming                  26

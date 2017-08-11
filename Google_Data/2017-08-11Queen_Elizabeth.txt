@@ -1,0 +1,53 @@
+                      Queen Elizabeth
+geoName                              
+Alabama                            86
+Alaska                             75
+Arizona                            76
+Arkansas                           84
+California                         74
+Colorado                           75
+Connecticut                        82
+Delaware                           88
+District of Columbia               74
+Florida                            70
+Georgia                            70
+Hawaii                             64
+Idaho                              80
+Illinois                           71
+Indiana                            80
+Iowa                               75
+Kansas                             70
+Kentucky                           77
+Louisiana                          76
+Maine                              96
+Maryland                           80
+Massachusetts                      81
+Michigan                           73
+Minnesota                          74
+Mississippi                        75
+Missouri                           74
+Montana                            76
+Nebraska                           67
+Nevada                             74
+New Hampshire                      89
+New Jersey                         78
+New Mexico                         81
+New York                           70
+North Carolina                     81
+North Dakota                       73
+Ohio                               75
+Oklahoma                           77
+Oregon                             64
+Pennsylvania                       76
+Rhode Island                       83
+South Carolina                     81
+South Dakota                       70
+Tennessee                          82
+Texas                              70
+Utah                               81
+Vermont                           100
+Virginia                           71
+Washington                         84
+West Virginia                      75
+Wisconsin                          72
+Wyoming                            69

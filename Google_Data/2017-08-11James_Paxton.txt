@@ -1,0 +1,47 @@
+                      James Paxton
+geoName                           
+Alabama                         11
+Arizona                         15
+Arkansas                        12
+California                      15
+Colorado                        12
+Connecticut                     18
+Delaware                        10
+District of Columbia            15
+Florida                         10
+Georgia                         11
+Hawaii                          16
+Idaho                           20
+Illinois                        16
+Indiana                         13
+Iowa                            12
+Kansas                          11
+Kentucky                        15
+Louisiana                       12
+Maine                           22
+Maryland                        14
+Massachusetts                   20
+Michigan                        14
+Minnesota                       15
+Mississippi                     11
+Missouri                        16
+Nebraska                        16
+Nevada                          13
+New Hampshire                   18
+New Jersey                      19
+New Mexico                      14
+New York                        16
+North Carolina                  10
+Ohio                            14
+Oklahoma                        11
+Oregon                          20
+Pennsylvania                    16
+Rhode Island                    18
+South Carolina                  11
+Tennessee                       12
+Texas                           11
+Utah                            10
+Virginia                        12
+Washington                     100
+West Virginia                   14
+Wisconsin                       14

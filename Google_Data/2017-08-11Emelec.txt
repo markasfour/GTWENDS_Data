@@ -1,0 +1,36 @@
+                      Emelec
+geoName                     
+Alabama                    2
+Arizona                    3
+California                 7
+Colorado                   2
+Connecticut               33
+District of Columbia      20
+Florida                   32
+Georgia                    5
+Illinois                   8
+Indiana                    4
+Kansas                    14
+Kentucky                   2
+Maryland                   9
+Massachusetts             11
+Michigan                   3
+Minnesota                  7
+Missouri                   3
+Nevada                     7
+New Jersey                69
+New York                  77
+North Carolina             8
+Ohio                       5
+Oklahoma                   4
+Oregon                   100
+Pennsylvania               8
+South Carolina             4
+Tennessee                  2
+Texas                      8
+Utah                       5
+Vermont                    4
+Virginia                  17
+Washington                 2
+West Virginia              3
+Wisconsin                  3

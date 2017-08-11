@@ -1,0 +1,48 @@
+                      Luzon
+geoName                    
+Alabama                  17
+Alaska                   60
+Arizona                  29
+Arkansas                 20
+California               42
+Colorado                 24
+Connecticut              26
+Delaware                 27
+District of Columbia     47
+Florida                  28
+Georgia                  20
+Hawaii                  100
+Idaho                    27
+Illinois                 24
+Indiana                  21
+Iowa                     21
+Kansas                   28
+Kentucky                 18
+Louisiana                18
+Maine                    24
+Maryland                 35
+Massachusetts            26
+Michigan                 19
+Minnesota                29
+Mississippi              18
+Missouri                 21
+Nebraska                 16
+Nevada                   40
+New Hampshire            22
+New Jersey               28
+New Mexico               34
+New York                 32
+North Carolina           24
+Ohio                     21
+Oklahoma                 19
+Oregon                   31
+Pennsylvania             24
+Rhode Island             34
+South Carolina           23
+Tennessee                21
+Texas                    25
+Utah                     34
+Virginia                 30
+Washington               35
+West Virginia            18
+Wisconsin                23

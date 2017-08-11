@@ -1,0 +1,53 @@
+                      Rainbow
+geoName                      
+Alabama                    54
+Alaska                     48
+Arizona                    40
+Arkansas                   40
+California                 40
+Colorado                   40
+Connecticut                42
+Delaware                   43
+District of Columbia       32
+Florida                    41
+Georgia                    39
+Hawaii                     68
+Idaho                      39
+Illinois                   40
+Indiana                    41
+Iowa                       38
+Kansas                     38
+Kentucky                   40
+Louisiana                  43
+Maine                      52
+Maryland                   40
+Massachusetts              37
+Michigan                   39
+Minnesota                  48
+Mississippi                43
+Missouri                   41
+Montana                    52
+Nebraska                   42
+Nevada                    100
+New Hampshire              39
+New Jersey                 43
+New Mexico                 39
+New York                   39
+North Carolina             43
+North Dakota               37
+Ohio                       41
+Oklahoma                   35
+Oregon                     32
+Pennsylvania               42
+Rhode Island               41
+South Carolina             43
+South Dakota               41
+Tennessee                  40
+Texas                      35
+Utah                       45
+Vermont                    40
+Virginia                   34
+Washington                 38
+West Virginia              40
+Wisconsin                  40
+Wyoming                    41
