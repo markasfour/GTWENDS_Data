@@ -1,0 +1,53 @@
+                      Vogue
+geoName                    
+Alabama                  42
+Alaska                   36
+Arizona                  44
+Arkansas                 40
+California               63
+Colorado                 43
+Connecticut              56
+Delaware                 47
+District of Columbia     60
+Florida                  43
+Georgia                  45
+Hawaii                   47
+Idaho                    38
+Illinois                 58
+Indiana                  79
+Iowa                     36
+Kansas                   40
+Kentucky                 40
+Louisiana                50
+Maine                    43
+Maryland                 53
+Massachusetts            55
+Michigan                 51
+Minnesota                42
+Mississippi              42
+Missouri                 52
+Montana                  34
+Nebraska                 32
+Nevada                   44
+New Hampshire            41
+New Jersey               57
+New Mexico               45
+New York                100
+North Carolina           42
+North Dakota             28
+Ohio                     42
+Oklahoma                 38
+Oregon                   44
+Pennsylvania             46
+Rhode Island             59
+South Carolina           40
+South Dakota             24
+Tennessee                42
+Texas                    44
+Utah                     38
+Vermont                  51
+Virginia                 45
+Washington               50
+West Virginia            32
+Wisconsin                38
+Wyoming                  31

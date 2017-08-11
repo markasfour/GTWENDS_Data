@@ -1,41 +1,41 @@
                       Amanda Seales
 geoName                            
-Alabama                          60
-Arizona                          25
-Arkansas                         30
-California                       40
-Colorado                         27
-Connecticut                      36
-Delaware                         84
+Alabama                          64
+Arizona                          27
+Arkansas                         19
+California                       43
+Colorado                         26
+Connecticut                      60
+Delaware                         97
 District of Columbia            100
-Florida                          40
-Georgia                          61
+Florida                          42
+Georgia                          68
 Illinois                         39
 Indiana                          42
-Iowa                             20
-Kansas                           30
-Kentucky                         22
-Louisiana                        53
-Maryland                         93
-Massachusetts                    42
-Michigan                         35
-Minnesota                        30
-Mississippi                      45
-Missouri                         39
-Nebraska                         15
-Nevada                           25
-New Jersey                       56
-New Mexico                       32
-New York                         79
-North Carolina                   48
-Ohio                             39
-Oklahoma                         13
-Oregon                           17
-Pennsylvania                     42
-Rhode Island                     29
-South Carolina                   44
-Tennessee                        42
-Texas                            41
-Virginia                         56
-Washington                       26
-Wisconsin                        18
+Iowa                             29
+Kansas                           28
+Kentucky                         12
+Louisiana                        45
+Maryland                         99
+Massachusetts                    41
+Michigan                         42
+Minnesota                        34
+Mississippi                      30
+Missouri                         34
+Nebraska                         26
+Nevada                           46
+New Jersey                       68
+New Mexico                       17
+New York                         89
+North Carolina                   52
+Ohio                             40
+Oklahoma                         19
+Oregon                           22
+Pennsylvania                     44
+Rhode Island                     35
+South Carolina                   60
+Tennessee                        38
+Texas                            36
+Virginia                         49
+Washington                       24
+Wisconsin                        24

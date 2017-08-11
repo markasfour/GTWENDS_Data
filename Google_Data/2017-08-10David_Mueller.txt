@@ -1,0 +1,53 @@
+                      David Mueller
+geoName                            
+Alabama                          12
+Alaska                           13
+Arizona                          26
+Arkansas                         17
+California                       28
+Colorado                        100
+Connecticut                      24
+Delaware                         31
+District of Columbia             42
+Florida                          19
+Georgia                          16
+Hawaii                           11
+Idaho                            25
+Illinois                         31
+Indiana                          23
+Iowa                             26
+Kansas                           28
+Kentucky                         25
+Louisiana                        19
+Maine                            16
+Maryland                         25
+Massachusetts                    28
+Michigan                         35
+Minnesota                        31
+Mississippi                      19
+Missouri                         46
+Montana                          25
+Nebraska                         49
+Nevada                           16
+New Hampshire                    25
+New Jersey                       27
+New Mexico                       23
+New York                         25
+North Carolina                   24
+North Dakota                     38
+Ohio                             38
+Oklahoma                         27
+Oregon                           18
+Pennsylvania                     23
+Rhode Island                     27
+South Carolina                   15
+South Dakota                     56
+Tennessee                        20
+Texas                            41
+Utah                             17
+Vermont                           7
+Virginia                         21
+Washington                       19
+West Virginia                    11
+Wisconsin                        47
+Wyoming                          26

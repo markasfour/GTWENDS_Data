@@ -1,0 +1,53 @@
+                      The Crown
+geoName                        
+Alabama                      66
+Alaska                       52
+Arizona                      65
+Arkansas                     70
+California                   54
+Colorado                     61
+Connecticut                  63
+Delaware                     63
+District of Columbia         56
+Florida                      57
+Georgia                      57
+Hawaii                       57
+Idaho                        62
+Illinois                     64
+Indiana                     100
+Iowa                         59
+Kansas                       71
+Kentucky                     71
+Louisiana                    62
+Maine                        65
+Maryland                     65
+Massachusetts                60
+Michigan                     61
+Minnesota                    56
+Mississippi                  66
+Missouri                     74
+Montana                      76
+Nebraska                     59
+Nevada                       57
+New Hampshire                61
+New Jersey                   58
+New Mexico                   85
+New York                     63
+North Carolina               69
+North Dakota                 54
+Ohio                         61
+Oklahoma                     64
+Oregon                       46
+Pennsylvania                 62
+Rhode Island                 61
+South Carolina               70
+South Dakota                 54
+Tennessee                    66
+Texas                        60
+Utah                         69
+Vermont                      58
+Virginia                     61
+Washington                   56
+West Virginia                67
+Wisconsin                    54
+Wyoming                      65

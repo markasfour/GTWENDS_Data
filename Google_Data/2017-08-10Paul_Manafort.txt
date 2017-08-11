@@ -1,53 +1,53 @@
                       Paul Manafort
 geoName                            
-Alabama                          30
-Alaska                           31
-Arizona                          30
-Arkansas                         22
-California                       34
-Colorado                         31
+Alabama                          28
+Alaska                           22
+Arizona                          31
+Arkansas                         21
+California                       37
+Colorado                         34
 Connecticut                     100
-Delaware                         38
-District of Columbia             80
-Florida                          32
-Georgia                          25
-Hawaii                           26
-Idaho                            24
-Illinois                         33
+Delaware                         48
+District of Columbia             87
+Florida                          36
+Georgia                          27
+Hawaii                           22
+Idaho                            20
+Illinois                         37
 Indiana                          28
 Iowa                             25
-Kansas                           18
-Kentucky                         20
-Louisiana                        26
-Maine                            33
-Maryland                         47
-Massachusetts                    45
-Michigan                         29
-Minnesota                        26
-Mississippi                      20
-Missouri                         25
-Montana                          35
-Nebraska                         28
-Nevada                           29
-New Hampshire                    42
-New Jersey                       40
-New Mexico                       34
-New York                         51
+Kansas                           24
+Kentucky                         26
+Louisiana                        27
+Maine                            44
+Maryland                         51
+Massachusetts                    49
+Michigan                         32
+Minnesota                        30
+Mississippi                      24
+Missouri                         26
+Montana                          41
+Nebraska                         31
+Nevada                           26
+New Hampshire                    39
+New Jersey                       43
+New Mexico                       28
+New York                         53
 North Carolina                   29
-North Dakota                     13
-Ohio                             29
+North Dakota                     21
+Ohio                             34
 Oklahoma                         19
 Oregon                           29
-Pennsylvania                     36
-Rhode Island                     39
-South Carolina                   29
-South Dakota                     23
-Tennessee                        27
-Texas                            23
-Utah                             23
-Vermont                          42
-Virginia                         37
-Washington                       34
-West Virginia                    18
-Wisconsin                        26
-Wyoming                          34
+Pennsylvania                     33
+Rhode Island                     49
+South Carolina                   31
+South Dakota                     28
+Tennessee                        28
+Texas                            25
+Utah                             26
+Vermont                          28
+Virginia                         38
+Washington                       35
+West Virginia                    19
+Wisconsin                        29
+Wyoming                          23

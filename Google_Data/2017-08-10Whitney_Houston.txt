@@ -1,53 +1,53 @@
                       Whitney Houston
 geoName                              
-Alabama                            76
-Alaska                             36
+Alabama                            75
+Alaska                             33
 Arizona                            41
 Arkansas                           57
-California                         45
-Colorado                           37
-Connecticut                        51
-Delaware                           63
-District of Columbia               84
+California                         46
+Colorado                           36
+Connecticut                        49
+Delaware                           65
+District of Columbia               85
 Florida                            62
 Georgia                            85
-Hawaii                             54
+Hawaii                             55
 Idaho                              30
-Illinois                           57
-Indiana                            47
-Iowa                               38
-Kansas                             44
-Kentucky                           55
+Illinois                           59
+Indiana                            48
+Iowa                               37
+Kansas                             43
+Kentucky                           56
 Louisiana                          86
 Maine                              35
-Maryland                           73
-Massachusetts                      51
+Maryland                           75
+Massachusetts                      50
 Michigan                           56
-Minnesota                          42
+Minnesota                          43
 Mississippi                       100
-Missouri                           53
-Montana                            28
-Nebraska                           40
-Nevada                             49
+Missouri                           54
+Montana                            30
+Nebraska                           42
+Nevada                             50
 New Hampshire                      34
 New Jersey                         68
-New Mexico                         37
-New York                           68
-North Carolina                     65
-North Dakota                       30
-Ohio                               49
-Oklahoma                           52
-Oregon                             30
+New Mexico                         38
+New York                           67
+North Carolina                     64
+North Dakota                       34
+Ohio                               50
+Oklahoma                           51
+Oregon                             29
 Pennsylvania                       57
-Rhode Island                       51
-South Carolina                     77
-South Dakota                       29
-Tennessee                          62
-Texas                              59
+Rhode Island                       53
+South Carolina                     75
+South Dakota                       32
+Tennessee                          64
+Texas                              60
 Utah                               31
-Vermont                            34
+Vermont                            32
 Virginia                           57
 Washington                         38
-West Virginia                      43
-Wisconsin                          41
-Wyoming                            27
+West Virginia                      41
+Wisconsin                          40
+Wyoming                            28

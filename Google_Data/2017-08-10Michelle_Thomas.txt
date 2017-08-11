@@ -1,49 +1,49 @@
                       Michelle Thomas
 geoName                              
-Alabama                            91
-Arizona                            54
-Arkansas                           59
-California                         50
-Colorado                           55
-Connecticut                        64
-Delaware                           91
-District of Columbia              100
-Florida                            66
-Georgia                            87
-Hawaii                             57
-Idaho                              32
-Illinois                           66
-Indiana                            59
-Iowa                               41
-Kansas                             49
-Kentucky                           79
-Louisiana                          96
-Maine                              44
-Maryland                           92
-Massachusetts                      61
-Michigan                           73
-Minnesota                          55
-Mississippi                        99
-Missouri                           62
-Nebraska                           49
-Nevada                             59
-New Hampshire                      53
-New Jersey                         71
-New Mexico                         41
-New York                           71
-North Carolina                     80
-North Dakota                       53
-Ohio                               72
-Oklahoma                           54
-Oregon                             36
-Pennsylvania                       73
-Rhode Island                       70
-South Carolina                     77
+Alabama                            69
+Arizona                            47
+Arkansas                           61
+California                         42
+Colorado                           44
+Connecticut                        52
+Delaware                          100
+District of Columbia               78
+Florida                            58
+Georgia                            78
+Hawaii                             45
+Idaho                              31
+Illinois                           54
+Indiana                            47
+Iowa                               36
+Kansas                             41
+Kentucky                           62
+Louisiana                          75
+Maine                              40
+Maryland                           75
+Massachusetts                      52
+Michigan                           59
+Minnesota                          45
+Mississippi                        78
+Missouri                           53
+Nebraska                           40
+Nevada                             46
+New Hampshire                      47
+New Jersey                         62
+New Mexico                         34
+New York                           64
+North Carolina                     65
+North Dakota                       32
+Ohio                               59
+Oklahoma                           44
+Oregon                             28
+Pennsylvania                       58
+Rhode Island                       52
+South Carolina                     70
 South Dakota                       37
-Tennessee                          72
-Texas                              62
-Utah                               40
-Virginia                           66
-Washington                         45
-West Virginia                      57
-Wisconsin                          55
+Tennessee                          64
+Texas                              51
+Utah                               33
+Virginia                           60
+Washington                         40
+West Virginia                      41
+Wisconsin                          45

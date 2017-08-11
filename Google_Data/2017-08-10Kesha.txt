@@ -1,53 +1,53 @@
                       Kesha
 geoName                    
-Alabama                  72
-Alaska                   81
-Arizona                  72
-Arkansas                 71
-California               71
-Colorado                 77
-Connecticut              85
-Delaware                 84
-District of Columbia     72
-Florida                  70
-Georgia                  74
-Hawaii                   54
+Alabama                  79
+Alaska                   85
+Arizona                  77
+Arkansas                 75
+California               74
+Colorado                 79
+Connecticut              91
+Delaware                 92
+District of Columbia     76
+Florida                  73
+Georgia                  79
+Hawaii                   56
 Idaho                    73
-Illinois                 90
-Indiana                  83
-Iowa                     81
-Kansas                   74
-Kentucky                 79
-Louisiana                73
-Maine                    91
-Maryland                 80
-Massachusetts            93
-Michigan                 88
-Minnesota                88
-Mississippi              71
-Missouri                 85
-Montana                  76
-Nebraska                 90
-Nevada                   72
-New Hampshire            86
-New Jersey               88
-New Mexico               69
-New York                 83
-North Carolina           74
-North Dakota             84
-Ohio                     88
-Oklahoma                 77
-Oregon                   61
-Pennsylvania             90
-Rhode Island             88
-South Carolina           70
-South Dakota             80
-Tennessee                82
-Texas                    71
-Utah                     80
+Illinois                 95
+Indiana                  87
+Iowa                     90
+Kansas                   79
+Kentucky                 82
+Louisiana                78
+Maine                    92
+Maryland                 87
+Massachusetts           100
+Michigan                 89
+Minnesota                92
+Mississippi              80
+Missouri                 89
+Montana                  79
+Nebraska                 96
+Nevada                   75
+New Hampshire            96
+New Jersey               91
+New Mexico               74
+New York                 87
+North Carolina           78
+North Dakota             98
+Ohio                     93
+Oklahoma                 81
+Oregon                   67
+Pennsylvania             96
+Rhode Island             89
+South Carolina           74
+South Dakota             86
+Tennessee                86
+Texas                    76
+Utah                     87
 Vermont                 100
-Virginia                 71
-Washington               72
-West Virginia            88
-Wisconsin                88
-Wyoming                  72
+Virginia                 75
+Washington               74
+West Virginia            95
+Wisconsin                93
+Wyoming                  79
