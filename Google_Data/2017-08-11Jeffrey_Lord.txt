@@ -1,6 +1,7 @@
                       Jeffrey Lord
 geoName                           
 Alabama                         21
+Alaska                           9
 Arizona                         22
 Arkansas                        16
 California                      25
@@ -40,6 +41,7 @@ Oregon                          21
 Pennsylvania                    38
 Rhode Island                    36
 South Carolina                  20
+South Dakota                    11
 Tennessee                       15
 Texas                           18
 Utah                            38

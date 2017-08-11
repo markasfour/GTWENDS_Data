@@ -1,0 +1,53 @@
+                      Buffalo Bills
+geoName                            
+Alabama                           9
+Alaska                           10
+Arizona                          14
+Arkansas                          8
+California                       11
+Colorado                         15
+Connecticut                      20
+Delaware                         16
+District of Columbia             27
+Florida                          21
+Georgia                          14
+Hawaii                           13
+Idaho                            10
+Illinois                         11
+Indiana                          10
+Iowa                             12
+Kansas                           11
+Kentucky                         11
+Louisiana                        10
+Maine                            17
+Maryland                         16
+Massachusetts                    32
+Michigan                         14
+Minnesota                        10
+Mississippi                      12
+Missouri                         10
+Montana                          14
+Nebraska                         11
+Nevada                           24
+New Hampshire                    18
+New Jersey                       16
+New Mexico                       14
+New York                        100
+North Carolina                   19
+North Dakota                     11
+Ohio                             16
+Oklahoma                         10
+Oregon                            7
+Pennsylvania                     24
+Rhode Island                     20
+South Carolina                   22
+South Dakota                     12
+Tennessee                        12
+Texas                            11
+Utah                             10
+Vermont                          20
+Virginia                         18
+Washington                       10
+West Virginia                    14
+Wisconsin                        11
+Wyoming                          16

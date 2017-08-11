@@ -1,0 +1,48 @@
+                      Gunners
+geoName                      
+Alabama                    31
+Alaska                     42
+Arizona                    30
+Arkansas                   40
+California                 36
+Colorado                   36
+Connecticut                32
+District of Columbia       59
+Florida                    29
+Georgia                    36
+Hawaii                     39
+Idaho                      37
+Illinois                   38
+Indiana                    35
+Iowa                       34
+Kansas                     36
+Kentucky                   34
+Louisiana                  26
+Maine                      32
+Maryland                   73
+Massachusetts              37
+Michigan                   34
+Minnesota                  40
+Mississippi                32
+Missouri                   60
+Montana                    41
+Nebraska                   38
+Nevada                     28
+New Hampshire              28
+New Jersey                 39
+New Mexico                 29
+New York                   33
+North Carolina             47
+Ohio                       36
+Oklahoma                   34
+Oregon                     39
+Pennsylvania               63
+South Carolina             35
+Tennessee                  36
+Texas                      32
+Utah                       32
+Virginia                   54
+Washington                 82
+West Virginia              43
+Wisconsin                  51
+Wyoming                   100

@@ -1,11 +1,11 @@
                GoogleDoodle
 geoName                    
-California               74
-Florida                  36
-Illinois                 41
-Massachusetts            55
+California               68
+Florida                  28
+Illinois                 43
+Massachusetts            52
 New Jersey              100
-New York                 44
-Ohio                     79
-Texas                    33
-Virginia                 59
+New York                 36
+Ohio                     63
+Texas                    39
+Virginia                 58
