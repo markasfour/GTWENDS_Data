@@ -1,0 +1,53 @@
+                      Premier League
+geoName                             
+Alabama                           27
+Alaska                            25
+Arizona                           34
+Arkansas                          25
+California                        50
+Colorado                          46
+Connecticut                       67
+Delaware                          57
+District of Columbia              84
+Florida                           53
+Georgia                           46
+Hawaii                            29
+Idaho                             27
+Illinois                          49
+Indiana                           41
+Iowa                              45
+Kansas                            51
+Kentucky                          33
+Louisiana                         27
+Maine                             50
+Maryland                          84
+Massachusetts                     73
+Michigan                          38
+Minnesota                         58
+Mississippi                       20
+Missouri                          39
+Montana                           24
+Nebraska                          40
+Nevada                            49
+New Hampshire                     53
+New Jersey                        77
+New Mexico                        32
+New York                          76
+North Carolina                    44
+North Dakota                      47
+Ohio                              43
+Oklahoma                          34
+Oregon                            57
+Pennsylvania                      56
+Rhode Island                      59
+South Carolina                    34
+South Dakota                      44
+Tennessee                         33
+Texas                             46
+Utah                              38
+Vermont                           63
+Virginia                         100
+Washington                        52
+West Virginia                     30
+Wisconsin                         35
+Wyoming                           26

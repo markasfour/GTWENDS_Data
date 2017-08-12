@@ -7,7 +7,7 @@ Arkansas                            1
 California                          0
 Colorado                            1
 Connecticut                         2
-Delaware                            3
+Delaware                            2
 District of Columbia               23
 Florida                             1
 Georgia                             2
@@ -37,7 +37,7 @@ North Carolina                      4
 North Dakota                        0
 Ohio                                1
 Oklahoma                            0
-Oregon                              1
+Oregon                              0
 Pennsylvania                        2
 Rhode Island                        1
 South Carolina                      2

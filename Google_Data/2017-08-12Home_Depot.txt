@@ -1,0 +1,53 @@
+                      Home Depot
+geoName                         
+Alabama                       67
+Alaska                        69
+Arizona                       84
+Arkansas                      60
+California                    70
+Colorado                      87
+Connecticut                   86
+Delaware                      77
+District of Columbia          65
+Florida                       83
+Georgia                       79
+Hawaii                        69
+Idaho                         83
+Illinois                      63
+Indiana                       44
+Iowa                          43
+Kansas                        62
+Kentucky                      53
+Louisiana                     74
+Maine                         90
+Maryland                      77
+Massachusetts                 80
+Michigan                      80
+Minnesota                     68
+Mississippi                   56
+Missouri                      65
+Montana                       71
+Nebraska                      52
+Nevada                        69
+New Hampshire                100
+New Jersey                    81
+New Mexico                    74
+New York                      70
+North Carolina                53
+North Dakota                  37
+Ohio                          71
+Oklahoma                      61
+Oregon                        62
+Pennsylvania                  77
+Rhode Island                  84
+South Carolina                59
+South Dakota                  26
+Tennessee                     66
+Texas                         74
+Utah                          79
+Vermont                       79
+Virginia                      54
+Washington                    77
+West Virginia                 51
+Wisconsin                     60
+Wyoming                       78

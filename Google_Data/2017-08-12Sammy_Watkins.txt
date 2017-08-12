@@ -1,53 +1,53 @@
                       Sammy Watkins
 geoName                            
-Alabama                          19
+Alabama                          18
 Alaska                            9
 Arizona                          17
-Arkansas                         14
+Arkansas                         15
 California                       17
-Colorado                         19
+Colorado                         18
 Connecticut                      23
-Delaware                         31
-District of Columbia             32
+Delaware                         29
+District of Columbia             31
 Florida                          29
-Georgia                          27
-Hawaii                           18
-Idaho                            11
-Illinois                         21
-Indiana                          16
+Georgia                          26
+Hawaii                           20
+Idaho                            12
+Illinois                         22
+Indiana                          17
 Iowa                             19
-Kansas                           17
-Kentucky                         16
-Louisiana                        22
+Kansas                           15
+Kentucky                         17
+Louisiana                        21
 Maine                            16
-Maryland                         24
-Massachusetts                    28
-Michigan                         26
+Maryland                         25
+Massachusetts                    26
+Michigan                         27
 Minnesota                        24
 Mississippi                      20
-Missouri                         19
-Montana                          14
-Nebraska                         18
-Nevada                           18
-New Hampshire                    19
-New Jersey                       26
-New Mexico                       10
+Missouri                         20
+Montana                          16
+Nebraska                         17
+Nevada                           17
+New Hampshire                    21
+New Jersey                       27
+New Mexico                       11
 New York                         42
 North Carolina                   30
-North Dakota                     19
-Ohio                             30
-Oklahoma                         14
+North Dakota                     23
+Ohio                             29
+Oklahoma                         16
 Oregon                           10
 Pennsylvania                     27
-Rhode Island                     21
+Rhode Island                     24
 South Carolina                  100
 South Dakota                     20
 Tennessee                        18
-Texas                            16
+Texas                            17
 Utah                             11
-Vermont                          15
+Vermont                          17
 Virginia                         21
 Washington                       18
 West Virginia                    19
-Wisconsin                        22
+Wisconsin                        23
 Wyoming                          15

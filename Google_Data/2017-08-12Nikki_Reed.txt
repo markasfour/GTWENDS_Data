@@ -1,53 +1,53 @@
                       Nikki Reed
 geoName                         
-Alabama                       83
-Alaska                        69
+Alabama                       82
+Alaska                        65
 Arizona                       76
-Arkansas                      73
+Arkansas                      74
 California                    79
-Colorado                      65
-Connecticut                   67
-Delaware                      74
-District of Columbia          65
-Florida                       64
-Georgia                       68
+Colorado                      64
+Connecticut                   68
+Delaware                      72
+District of Columbia          62
+Florida                       67
+Georgia                       71
 Hawaii                       100
-Idaho                         69
+Idaho                         73
 Illinois                      66
-Indiana                       69
-Iowa                          66
-Kansas                        58
-Kentucky                      81
-Louisiana                     83
-Maine                         58
-Maryland                      64
-Massachusetts                 66
-Michigan                      62
-Minnesota                     62
-Mississippi                   66
+Indiana                       70
+Iowa                          68
+Kansas                        63
+Kentucky                      80
+Louisiana                     88
+Maine                         52
+Maryland                      63
+Massachusetts                 64
+Michigan                      63
+Minnesota                     63
+Mississippi                   64
 Missouri                      67
-Montana                       68
-Nebraska                      66
-Nevada                        82
-New Hampshire                 62
-New Jersey                    71
-New Mexico                    68
+Montana                       63
+Nebraska                      65
+Nevada                        83
+New Hampshire                 56
+New Jersey                    74
+New Mexico                    71
 New York                      71
-North Carolina                67
-North Dakota                  79
-Ohio                          66
-Oklahoma                      79
-Oregon                        49
-Pennsylvania                  70
-Rhode Island                  63
+North Carolina                64
+North Dakota                  74
+Ohio                          68
+Oklahoma                      80
+Oregon                        47
+Pennsylvania                  73
+Rhode Island                  60
 South Carolina                71
-South Dakota                  63
-Tennessee                     78
-Texas                         69
-Utah                          78
-Vermont                       61
-Virginia                      59
+South Dakota                  61
+Tennessee                     77
+Texas                         71
+Utah                          74
+Vermont                       65
+Virginia                      60
 Washington                    64
-West Virginia                 73
-Wisconsin                     62
-Wyoming                       65
+West Virginia                 79
+Wisconsin                     63
+Wyoming                       63

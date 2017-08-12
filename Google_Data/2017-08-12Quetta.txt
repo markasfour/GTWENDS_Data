@@ -1,0 +1,39 @@
+                      Quetta
+geoName                     
+Alabama                    8
+Arizona                   16
+California                39
+Colorado                  14
+Connecticut               24
+District of Columbia      59
+Florida                   14
+Georgia                   14
+Illinois                  28
+Indiana                   10
+Iowa                       8
+Kansas                    49
+Kentucky                  12
+Louisiana                 15
+Maryland                  34
+Massachusetts             20
+Michigan                  14
+Minnesota                 10
+Missouri                  12
+Nebraska                  16
+Nevada                    10
+New Hampshire             19
+New Jersey                33
+New York                  45
+North Carolina            19
+Ohio                      26
+Oklahoma                  14
+Oregon                    41
+Pennsylvania              28
+Rhode Island              45
+South Carolina            11
+Tennessee                 13
+Texas                     26
+Utah                      11
+Virginia                 100
+Washington                19
+Wisconsin                 11

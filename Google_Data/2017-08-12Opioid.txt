@@ -1,53 +1,53 @@
                       Opioid
 geoName                     
-Alabama                   62
-Alaska                    71
-Arizona                   59
+Alabama                   64
+Alaska                    67
+Arizona                   60
 Arkansas                  60
-California                45
-Colorado                  57
-Connecticut               82
-Delaware                  71
-District of Columbia      94
-Florida                   51
-Georgia                   47
-Hawaii                    45
-Idaho                     56
+California                44
+Colorado                  56
+Connecticut               79
+Delaware                  74
+District of Columbia      91
+Florida                   50
+Georgia                   46
+Hawaii                    43
+Idaho                     54
 Illinois                  50
-Indiana                   67
-Iowa                      50
-Kansas                    47
-Kentucky                  66
-Louisiana                 56
+Indiana                   66
+Iowa                      53
+Kansas                    46
+Kentucky                  67
+Louisiana                 53
 Maine                     85
-Maryland                  91
-Massachusetts            100
-Michigan                  63
+Maryland                  89
+Massachusetts             98
+Michigan                  62
 Minnesota                 66
 Mississippi               64
-Missouri                  58
-Montana                   59
-Nebraska                  56
-Nevada                    52
-New Hampshire             89
-New Jersey                59
-New Mexico                75
-New York                  58
+Missouri                  56
+Montana                   63
+Nebraska                  53
+Nevada                    49
+New Hampshire             90
+New Jersey                58
+New Mexico                76
+New York                  57
 North Carolina            64
-North Dakota              61
-Ohio                      69
-Oklahoma                  55
-Oregon                    50
-Pennsylvania              75
-Rhode Island              79
-South Carolina            57
-South Dakota              61
-Tennessee                 74
+North Dakota              62
+Ohio                      68
+Oklahoma                  53
+Oregon                    48
+Pennsylvania              74
+Rhode Island              84
+South Carolina            59
+South Dakota              65
+Tennessee                 73
 Texas                     41
-Utah                      65
-Vermont                   81
-Virginia                  51
-Washington                59
-West Virginia             97
-Wisconsin                 63
-Wyoming                   56
+Utah                      67
+Vermont                   78
+Virginia                  50
+Washington                57
+West Virginia            100
+Wisconsin                 62
+Wyoming                   54

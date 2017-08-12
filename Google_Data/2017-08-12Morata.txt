@@ -1,0 +1,52 @@
+                      Morata
+geoName                     
+Alabama                   22
+Alaska                    34
+Arizona                   47
+Arkansas                  33
+California                75
+Colorado                  35
+Connecticut               77
+Delaware                  44
+District of Columbia      72
+Florida                   71
+Georgia                   41
+Hawaii                    36
+Idaho                     18
+Illinois                  49
+Indiana                   37
+Iowa                      32
+Kansas                    46
+Kentucky                  22
+Louisiana                 27
+Maine                     23
+Maryland                  78
+Massachusetts             61
+Michigan                  36
+Minnesota                 32
+Mississippi               21
+Missouri                  29
+Montana                   22
+Nebraska                  36
+Nevada                    54
+New Hampshire             23
+New Jersey               100
+New Mexico                30
+New York                  82
+North Carolina            48
+North Dakota              15
+Ohio                      31
+Oklahoma                  33
+Oregon                    52
+Pennsylvania              45
+Rhode Island              57
+South Carolina            35
+South Dakota              34
+Tennessee                 25
+Texas                     58
+Utah                      40
+Vermont                   32
+Virginia                  85
+Washington                40
+West Virginia             25
+Wisconsin                 35

@@ -1,0 +1,53 @@
+                      Confederacy
+geoName                          
+Alabama                       100
+Alaska                         46
+Arizona                        47
+Arkansas                       77
+California                     44
+Colorado                       46
+Connecticut                    48
+Delaware                       43
+District of Columbia           60
+Florida                        49
+Georgia                        71
+Hawaii                         29
+Idaho                          43
+Illinois                       45
+Indiana                        55
+Iowa                           49
+Kansas                         48
+Kentucky                       57
+Louisiana                      83
+Maine                          60
+Maryland                       54
+Massachusetts                  52
+Michigan                       43
+Minnesota                      47
+Mississippi                    78
+Missouri                       53
+Montana                        55
+Nebraska                       45
+Nevada                         40
+New Hampshire                  47
+New Jersey                     54
+New Mexico                     52
+New York                       48
+North Carolina                 77
+North Dakota                   44
+Ohio                           44
+Oklahoma                       59
+Oregon                         30
+Pennsylvania                   51
+Rhode Island                   47
+South Carolina                 86
+South Dakota                   52
+Tennessee                      62
+Texas                          59
+Utah                           43
+Vermont                        54
+Virginia                       78
+Washington                     38
+West Virginia                  76
+Wisconsin                      45
+Wyoming                        48
