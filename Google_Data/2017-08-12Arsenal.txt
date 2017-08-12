@@ -1,0 +1,53 @@
+                      Arsenal
+geoName                      
+Alabama                    62
+Alaska                     19
+Arizona                    23
+Arkansas                   19
+California                 32
+Colorado                   32
+Connecticut                41
+Delaware                   30
+District of Columbia       51
+Florida                    26
+Georgia                    28
+Hawaii                     21
+Idaho                      16
+Illinois                   31
+Indiana                    28
+Iowa                       32
+Kansas                     42
+Kentucky                   22
+Louisiana                  19
+Maine                      28
+Maryland                   47
+Massachusetts              47
+Michigan                   23
+Minnesota                  37
+Mississippi                17
+Missouri                   38
+Montana                    16
+Nebraska                   24
+Nevada                     28
+New Hampshire              24
+New Jersey                 45
+New Mexico                 22
+New York                   44
+North Carolina             27
+North Dakota               28
+Ohio                       24
+Oklahoma                   21
+Oregon                     60
+Pennsylvania               33
+Rhode Island               29
+South Carolina             22
+South Dakota               22
+Tennessee                  23
+Texas                      28
+Utah                       23
+Vermont                    32
+Virginia                  100
+Washington                 28
+West Virginia              19
+Wisconsin                  21
+Wyoming                    20

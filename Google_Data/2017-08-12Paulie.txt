@@ -1,0 +1,53 @@
+                      Paulie
+geoName                     
+Alabama                   33
+Alaska                    30
+Arizona                   44
+Arkansas                  39
+California                50
+Colorado                  39
+Connecticut               68
+Delaware                  73
+District of Columbia      59
+Florida                   49
+Georgia                   37
+Hawaii                    34
+Idaho                     27
+Illinois                  59
+Indiana                   41
+Iowa                      33
+Kansas                    30
+Kentucky                  39
+Louisiana                 46
+Maine                     46
+Maryland                  68
+Massachusetts             60
+Michigan                  47
+Minnesota                 36
+Mississippi               31
+Missouri                  42
+Montana                   34
+Nebraska                  36
+Nevada                    58
+New Hampshire             49
+New Jersey                99
+New Mexico                42
+New York                 100
+North Carolina            40
+North Dakota              42
+Ohio                      55
+Oklahoma                  43
+Oregon                    31
+Pennsylvania              63
+Rhode Island              84
+South Carolina            39
+South Dakota              26
+Tennessee                 37
+Texas                     47
+Utah                      28
+Vermont                   38
+Virginia                  37
+Washington                39
+West Virginia             35
+Wisconsin                 40
+Wyoming                   33

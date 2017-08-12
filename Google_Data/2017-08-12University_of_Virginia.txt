@@ -1,0 +1,53 @@
+                      University of Virginia
+geoName                                     
+Alabama                                   11
+Alaska                                     5
+Arizona                                    5
+Arkansas                                   7
+California                                 5
+Colorado                                   7
+Connecticut                               16
+Delaware                                  25
+District of Columbia                      39
+Florida                                    8
+Georgia                                    9
+Hawaii                                     5
+Idaho                                      7
+Illinois                                   8
+Indiana                                    8
+Iowa                                       7
+Kansas                                     6
+Kentucky                                  11
+Louisiana                                  6
+Maine                                      9
+Maryland                                  34
+Massachusetts                             12
+Michigan                                   7
+Minnesota                                  6
+Mississippi                                8
+Missouri                                   7
+Montana                                    6
+Nebraska                                   6
+Nevada                                     4
+New Hampshire                             10
+New Jersey                                16
+New Mexico                                 6
+New York                                  11
+North Carolina                            15
+North Dakota                               5
+Ohio                                      12
+Oklahoma                                   6
+Oregon                                     5
+Pennsylvania                              18
+Rhode Island                              12
+South Carolina                            13
+South Dakota                               6
+Tennessee                                 12
+Texas                                      6
+Utah                                       9
+Vermont                                   14
+Virginia                                 100
+Washington                                 6
+West Virginia                             57
+Wisconsin                                  6
+Wyoming                                    7

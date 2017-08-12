@@ -1,0 +1,51 @@
+                      Rich Hill
+geoName                        
+Alabama                      10
+Arizona                      16
+Arkansas                     15
+California                   22
+Colorado                     13
+Connecticut                  23
+Delaware                     15
+District of Columbia         24
+Florida                      11
+Georgia                      13
+Hawaii                       10
+Idaho                         9
+Illinois                     24
+Indiana                      14
+Iowa                         17
+Kansas                       44
+Kentucky                     12
+Louisiana                     9
+Maine                        20
+Maryland                     17
+Massachusetts                29
+Michigan                     12
+Minnesota                    13
+Mississippi                  11
+Missouri                    100
+Montana                      11
+Nebraska                     16
+Nevada                       14
+New Hampshire                18
+New Jersey                   17
+New Mexico                   14
+New York                     26
+North Carolina               16
+North Dakota                  9
+Ohio                         13
+Oklahoma                     12
+Oregon                       10
+Pennsylvania                 21
+Rhode Island                 22
+South Carolina               17
+South Dakota                 13
+Tennessee                    13
+Texas                        11
+Utah                         11
+Vermont                      18
+Virginia                     13
+Washington                   13
+West Virginia                13
+Wisconsin                    12

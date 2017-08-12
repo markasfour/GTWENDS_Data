@@ -1,0 +1,53 @@
+                      DuckTales
+geoName                        
+Alabama                      70
+Alaska                       80
+Arizona                      66
+Arkansas                     56
+California                   75
+Colorado                     61
+Connecticut                  65
+Delaware                     60
+District of Columbia         54
+Florida                      64
+Georgia                      62
+Hawaii                       62
+Idaho                        78
+Illinois                     63
+Indiana                      79
+Iowa                         69
+Kansas                       63
+Kentucky                     86
+Louisiana                    64
+Maine                        67
+Maryland                     74
+Massachusetts                66
+Michigan                     73
+Minnesota                    70
+Mississippi                  58
+Missouri                     70
+Montana                      71
+Nebraska                     73
+Nevada                       78
+New Hampshire                80
+New Jersey                   74
+New Mexico                   70
+New York                     63
+North Carolina               57
+North Dakota                 58
+Ohio                         78
+Oklahoma                     70
+Oregon                       76
+Pennsylvania                 74
+Rhode Island                 82
+South Carolina               60
+South Dakota                 57
+Tennessee                    66
+Texas                        56
+Utah                        100
+Vermont                      70
+Virginia                     59
+Washington                   96
+West Virginia                97
+Wisconsin                    69
+Wyoming                      68

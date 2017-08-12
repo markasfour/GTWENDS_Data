@@ -1,0 +1,53 @@
+                      Atypical
+geoName                       
+Alabama                     74
+Alaska                      67
+Arizona                     62
+Arkansas                    72
+California                  58
+Colorado                    61
+Connecticut                 86
+Delaware                    76
+District of Columbia        66
+Florida                     65
+Georgia                     60
+Hawaii                      62
+Idaho                       59
+Illinois                    67
+Indiana                     70
+Iowa                        78
+Kansas                      63
+Kentucky                    87
+Louisiana                   71
+Maine                       88
+Maryland                    82
+Massachusetts               86
+Michigan                    70
+Minnesota                   77
+Mississippi                 70
+Missouri                    75
+Montana                     73
+Nebraska                    74
+Nevada                      57
+New Hampshire               79
+New Jersey                  69
+New Mexico                  74
+New York                    70
+North Carolina              71
+North Dakota                86
+Ohio                        81
+Oklahoma                    64
+Oregon                      51
+Pennsylvania                87
+Rhode Island                87
+South Carolina              72
+South Dakota                90
+Tennessee                   83
+Texas                       56
+Utah                        63
+Vermont                     89
+Virginia                    61
+Washington                  60
+West Virginia              100
+Wisconsin                   77
+Wyoming                     57

@@ -1,0 +1,51 @@
+                      Brach
+geoName                    
+Alabama                  38
+Alaska                   26
+Arizona                  31
+Arkansas                 26
+California               61
+Colorado                 38
+Connecticut              50
+Delaware                 59
+District of Columbia    100
+Florida                  94
+Georgia                  44
+Hawaii                   72
+Idaho                    23
+Illinois                 41
+Indiana                  33
+Iowa                     32
+Kansas                   23
+Kentucky                 34
+Louisiana                33
+Maine                    49
+Maryland                 83
+Massachusetts            53
+Michigan                 35
+Minnesota                38
+Mississippi              42
+Missouri                 29
+Montana                  31
+Nebraska                 26
+Nevada                   31
+New Hampshire            48
+New Jersey               74
+New Mexico               37
+New York                 55
+North Carolina           50
+North Dakota             24
+Ohio                     30
+Oklahoma                 41
+Oregon                   38
+Pennsylvania             42
+Rhode Island             52
+South Carolina           64
+Tennessee                41
+Texas                    29
+Utah                     31
+Vermont                  69
+Virginia                 67
+Washington               42
+West Virginia            41
+Wisconsin                35

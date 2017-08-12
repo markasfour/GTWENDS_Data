@@ -1,0 +1,27 @@
+                Dreamboat
+geoName                  
+Alabama                41
+Arizona                56
+California             59
+Colorado               70
+Florida                51
+Georgia                46
+Illinois               50
+Indiana                50
+Maryland               53
+Massachusetts          66
+Michigan               47
+Minnesota              56
+Missouri               51
+New Jersey             51
+New York               55
+North Carolina         42
+Ohio                   60
+Oregon                 71
+Pennsylvania           69
+South Carolina         58
+Tennessee              50
+Texas                  48
+Virginia               44
+Washington            100
+Wisconsin              70

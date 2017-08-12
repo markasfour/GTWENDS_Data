@@ -1,0 +1,53 @@
+                      Polynesian
+geoName                         
+Alabama                        4
+Alaska                         8
+Arizona                        4
+Arkansas                       3
+California                     5
+Colorado                       3
+Connecticut                    4
+Delaware                       4
+District of Columbia           3
+Florida                       10
+Georgia                        4
+Hawaii                       100
+Idaho                          4
+Illinois                       4
+Indiana                        3
+Iowa                           3
+Kansas                         2
+Kentucky                       3
+Louisiana                      4
+Maine                          3
+Maryland                       4
+Massachusetts                  4
+Michigan                       3
+Minnesota                      3
+Mississippi                    3
+Missouri                       3
+Montana                        3
+Nebraska                       3
+Nevada                         6
+New Hampshire                  4
+New Jersey                     4
+New Mexico                     3
+New York                       3
+North Carolina                 4
+North Dakota                   3
+Ohio                           3
+Oklahoma                       4
+Oregon                         4
+Pennsylvania                   4
+Rhode Island                   4
+South Carolina                 6
+South Dakota                   3
+Tennessee                      4
+Texas                          3
+Utah                          12
+Vermont                        2
+Virginia                       3
+Washington                     6
+West Virginia                  3
+Wisconsin                      5
+Wyoming                        3

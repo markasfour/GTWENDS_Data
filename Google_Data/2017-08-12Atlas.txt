@@ -1,0 +1,53 @@
+                      Atlas
+geoName                    
+Alabama                  44
+Alaska                   63
+Arizona                  49
+Arkansas                 49
+California               61
+Colorado                 70
+Connecticut              50
+Delaware                 43
+District of Columbia     69
+Florida                 100
+Georgia                  52
+Hawaii                   56
+Idaho                    63
+Illinois                 55
+Indiana                  50
+Iowa                     57
+Kansas                   48
+Kentucky                 44
+Louisiana                48
+Maine                    53
+Maryland                 54
+Massachusetts            63
+Michigan                 56
+Minnesota                61
+Mississippi              38
+Missouri                 50
+Montana                  57
+Nebraska                 48
+Nevada                   52
+New Hampshire            57
+New Jersey               46
+New Mexico               52
+New York                 65
+North Carolina           46
+North Dakota             50
+Ohio                     74
+Oklahoma                 59
+Oregon                   57
+Pennsylvania             50
+Rhode Island             47
+South Carolina           52
+South Dakota             49
+Tennessee                45
+Texas                    52
+Utah                     55
+Vermont                  69
+Virginia                 48
+Washington               61
+West Virginia            44
+Wisconsin                55
+Wyoming                  70

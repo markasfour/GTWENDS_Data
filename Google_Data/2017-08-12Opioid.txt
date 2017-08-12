@@ -1,0 +1,53 @@
+                      Opioid
+geoName                     
+Alabama                   62
+Alaska                    71
+Arizona                   59
+Arkansas                  60
+California                45
+Colorado                  57
+Connecticut               82
+Delaware                  71
+District of Columbia      94
+Florida                   51
+Georgia                   47
+Hawaii                    45
+Idaho                     56
+Illinois                  50
+Indiana                   67
+Iowa                      50
+Kansas                    47
+Kentucky                  66
+Louisiana                 56
+Maine                     85
+Maryland                  91
+Massachusetts            100
+Michigan                  63
+Minnesota                 66
+Mississippi               64
+Missouri                  58
+Montana                   59
+Nebraska                  56
+Nevada                    52
+New Hampshire             89
+New Jersey                59
+New Mexico                75
+New York                  58
+North Carolina            64
+North Dakota              61
+Ohio                      69
+Oklahoma                  55
+Oregon                    50
+Pennsylvania              75
+Rhode Island              79
+South Carolina            57
+South Dakota              61
+Tennessee                 74
+Texas                     41
+Utah                      65
+Vermont                   81
+Virginia                  51
+Washington                59
+West Virginia             97
+Wisconsin                 63
+Wyoming                   56
