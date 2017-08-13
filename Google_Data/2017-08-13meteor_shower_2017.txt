@@ -1,0 +1,50 @@
+                      meteor shower 2017
+geoName                                 
+Alabama                               42
+Arizona                               47
+Arkansas                              56
+California                            43
+Colorado                              55
+Connecticut                           40
+Delaware                              47
+District of Columbia                  24
+Florida                               33
+Georgia                               31
+Idaho                                 66
+Illinois                              36
+Indiana                               49
+Iowa                                  48
+Kansas                                34
+Kentucky                              41
+Louisiana                             24
+Maine                                 69
+Maryland                              27
+Massachusetts                         37
+Michigan                              44
+Minnesota                             39
+Mississippi                           47
+Missouri                              42
+Montana                               93
+Nebraska                              45
+Nevada                                53
+New Hampshire                         64
+New Jersey                            30
+New Mexico                            52
+New York                              25
+North Carolina                        38
+Ohio                                  46
+Oklahoma                              39
+Oregon                                68
+Pennsylvania                          36
+Rhode Island                          50
+South Carolina                        40
+South Dakota                          77
+Tennessee                             45
+Texas                                 29
+Utah                                  61
+Vermont                               48
+Virginia                              28
+Washington                            72
+West Virginia                         49
+Wisconsin                             50
+Wyoming                              100

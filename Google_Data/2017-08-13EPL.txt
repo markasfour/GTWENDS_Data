@@ -1,0 +1,53 @@
+                      EPL
+geoName                  
+Alabama                16
+Alaska                 14
+Arizona                19
+Arkansas               13
+California             31
+Colorado               27
+Connecticut            45
+Delaware               41
+District of Columbia   52
+Florida                25
+Georgia                26
+Hawaii                 23
+Idaho                  15
+Illinois               30
+Indiana                23
+Iowa                   22
+Kansas                 42
+Kentucky               18
+Louisiana              18
+Maine                  26
+Maryland               52
+Massachusetts          40
+Michigan               21
+Minnesota              30
+Mississippi            13
+Missouri               23
+Montana                15
+Nebraska               22
+Nevada                 23
+New Hampshire          30
+New Jersey             47
+New Mexico             19
+New York               44
+North Carolina         27
+North Dakota           24
+Ohio                   26
+Oklahoma               18
+Oregon                 53
+Pennsylvania           32
+Rhode Island           34
+South Carolina         20
+South Dakota           17
+Tennessee              19
+Texas                  27
+Utah                   20
+Vermont                40
+Virginia              100
+Washington             32
+West Virginia          18
+Wisconsin              22
+Wyoming                14

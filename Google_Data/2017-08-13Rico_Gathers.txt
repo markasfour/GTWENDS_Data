@@ -1,0 +1,51 @@
+                      Rico Gathers
+geoName                           
+Alabama                         21
+Arizona                         17
+Arkansas                        36
+California                      16
+Colorado                        18
+Connecticut                     27
+Delaware                        38
+District of Columbia            28
+Florida                         13
+Georgia                         21
+Hawaii                          18
+Idaho                           14
+Illinois                        21
+Indiana                         29
+Iowa                            89
+Kansas                          68
+Kentucky                        30
+Louisiana                       92
+Maine                            8
+Maryland                        26
+Massachusetts                   14
+Michigan                        18
+Minnesota                       18
+Mississippi                     26
+Missouri                        28
+Montana                         25
+Nebraska                        39
+Nevada                          21
+New Hampshire                    8
+New Jersey                      27
+New Mexico                      26
+New York                        17
+North Carolina                  28
+North Dakota                    39
+Ohio                            20
+Oklahoma                        40
+Oregon                           8
+Pennsylvania                    23
+Rhode Island                    23
+South Carolina                  22
+South Dakota                    22
+Tennessee                       22
+Texas                          100
+Utah                            12
+Vermont                         12
+Virginia                        23
+Washington                      13
+West Virginia                   84
+Wisconsin                       23

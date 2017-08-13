@@ -1,0 +1,39 @@
+                      ItsOnUs
+geoName                      
+Alabama                    39
+Arizona                    23
+Arkansas                   47
+California                 39
+Colorado                   66
+Connecticut                47
+District of Columbia      100
+Florida                    24
+Georgia                    26
+Illinois                   30
+Indiana                    49
+Iowa                       26
+Kansas                     29
+Kentucky                   24
+Louisiana                  49
+Maryland                   40
+Massachusetts              78
+Michigan                   29
+Minnesota                  46
+Missouri                   44
+Nebraska                   59
+Nevada                     30
+New Jersey                 40
+New Mexico                 30
+New York                   41
+North Carolina             28
+Ohio                       41
+Oklahoma                   20
+Oregon                     42
+Pennsylvania               49
+South Carolina             16
+Tennessee                  48
+Texas                      24
+Utah                       31
+Virginia                   28
+Washington                 45
+Wisconsin                  32

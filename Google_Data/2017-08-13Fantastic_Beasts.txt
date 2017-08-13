@@ -1,0 +1,53 @@
+                      Fantastic Beasts
+geoName                               
+Alabama                             60
+Alaska                              56
+Arizona                             65
+Arkansas                            63
+California                          69
+Colorado                            62
+Connecticut                         59
+Delaware                            59
+District of Columbia                54
+Florida                             57
+Georgia                             54
+Hawaii                              55
+Idaho                               83
+Illinois                            64
+Indiana                             72
+Iowa                                74
+Kansas                              54
+Kentucky                            55
+Louisiana                           57
+Maine                               58
+Maryland                            52
+Massachusetts                       56
+Michigan                            69
+Minnesota                           59
+Mississippi                         55
+Missouri                            57
+Montana                             71
+Nebraska                            75
+Nevada                              65
+New Hampshire                       60
+New Jersey                          57
+New Mexico                          77
+New York                            51
+North Carolina                      56
+North Dakota                        77
+Ohio                                62
+Oklahoma                            58
+Oregon                              51
+Pennsylvania                        58
+Rhode Island                        63
+South Carolina                      52
+South Dakota                        71
+Tennessee                           61
+Texas                               64
+Utah                               100
+Vermont                             50
+Virginia                            43
+Washington                          65
+West Virginia                       62
+Wisconsin                           63
+Wyoming                             68

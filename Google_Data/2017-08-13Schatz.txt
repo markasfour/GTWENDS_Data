@@ -1,0 +1,51 @@
+                      Schatz
+geoName                     
+Alabama                    4
+Arizona                    5
+Arkansas                   4
+California                 7
+Colorado                   7
+Connecticut               10
+Delaware                   7
+District of Columbia      26
+Florida                    6
+Georgia                    4
+Hawaii                    83
+Idaho                      6
+Illinois                  10
+Indiana                    5
+Iowa                       8
+Kansas                     5
+Kentucky                   4
+Louisiana                  3
+Maine                      5
+Maryland                  11
+Massachusetts              7
+Michigan                   5
+Minnesota                 11
+Mississippi                2
+Missouri                   9
+Montana                    6
+Nebraska                  10
+Nevada                     5
+New Hampshire              6
+New Jersey                 7
+New Mexico                 5
+New York                   9
+North Carolina             4
+North Dakota             100
+Ohio                       5
+Oklahoma                   6
+Oregon                    16
+Pennsylvania              11
+Rhode Island               6
+South Carolina             4
+South Dakota              17
+Tennessee                  4
+Texas                      5
+Utah                       7
+Vermont                    8
+Virginia                   6
+Washington                 9
+West Virginia              3
+Wisconsin                  6
