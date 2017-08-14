@@ -1,0 +1,35 @@
+                      GameOfThrones
+geoName                            
+Alabama                          40
+Arizona                          66
+California                       99
+Colorado                         59
+Connecticut                      96
+District of Columbia             72
+Florida                          78
+Georgia                          69
+Illinois                         71
+Indiana                          53
+Iowa                             72
+Kansas                           69
+Kentucky                         72
+Louisiana                        80
+Maryland                         91
+Massachusetts                   100
+Michigan                         81
+Minnesota                        70
+Missouri                         61
+Nevada                           81
+New Jersey                       76
+New York                         88
+North Carolina                   49
+Ohio                             55
+Oregon                           68
+Pennsylvania                     82
+South Carolina                   65
+Tennessee                        60
+Texas                            66
+Utah                             64
+Virginia                         82
+Washington                       81
+Wisconsin                        61

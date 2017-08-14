@@ -1,0 +1,53 @@
+                      Tom Cruise
+geoName                         
+Alabama                       75
+Alaska                        90
+Arizona                       88
+Arkansas                      76
+California                    88
+Colorado                      87
+Connecticut                   74
+Delaware                      72
+District of Columbia          83
+Florida                       85
+Georgia                       78
+Hawaii                        85
+Idaho                         89
+Illinois                      83
+Indiana                       77
+Iowa                          78
+Kansas                        75
+Kentucky                      85
+Louisiana                     82
+Maine                         70
+Maryland                      75
+Massachusetts                 78
+Michigan                      79
+Minnesota                     78
+Mississippi                   74
+Missouri                      87
+Montana                       81
+Nebraska                      79
+Nevada                        92
+New Hampshire                 73
+New Jersey                    78
+New Mexico                    77
+New York                      80
+North Carolina                73
+North Dakota                  82
+Ohio                          77
+Oklahoma                      91
+Oregon                        69
+Pennsylvania                  75
+Rhode Island                  72
+South Carolina                74
+South Dakota                  73
+Tennessee                     78
+Texas                         83
+Utah                         100
+Vermont                       76
+Virginia                      70
+Washington                    91
+West Virginia                 73
+Wisconsin                     72
+Wyoming                       79

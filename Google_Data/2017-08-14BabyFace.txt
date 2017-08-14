@@ -1,0 +1,53 @@
+                      BabyFace
+geoName                       
+Alabama                     75
+Alaska                      30
+Arizona                     40
+Arkansas                    57
+California                  50
+Colorado                    32
+Connecticut                 38
+Delaware                    73
+District of Columbia        84
+Florida                     54
+Georgia                     93
+Hawaii                      47
+Idaho                       19
+Illinois                    60
+Indiana                     60
+Iowa                        26
+Kansas                      45
+Kentucky                    49
+Louisiana                   89
+Maine                       22
+Maryland                    80
+Massachusetts               36
+Michigan                    66
+Minnesota                   33
+Mississippi                100
+Missouri                    53
+Montana                     19
+Nebraska                    31
+Nevada                      56
+New Hampshire               24
+New Jersey                  56
+New Mexico                  34
+New York                    58
+North Carolina              72
+North Dakota                24
+Ohio                        50
+Oklahoma                    46
+Oregon                      25
+Pennsylvania                53
+Rhode Island                34
+South Carolina              71
+South Dakota                18
+Tennessee                   64
+Texas                       60
+Utah                        23
+Vermont                     21
+Virginia                    63
+Washington                  36
+West Virginia               30
+Wisconsin                   35
+Wyoming                     17
