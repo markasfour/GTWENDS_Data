@@ -1,0 +1,53 @@
+                      Chicharito
+geoName                         
+Alabama                       17
+Alaska                         9
+Arizona                       67
+Arkansas                      29
+California                   100
+Colorado                      39
+Connecticut                   22
+Delaware                      23
+District of Columbia          28
+Florida                       29
+Georgia                       37
+Hawaii                        24
+Idaho                         30
+Illinois                      51
+Indiana                       23
+Iowa                          20
+Kansas                        31
+Kentucky                      16
+Louisiana                     18
+Maine                          5
+Maryland                      20
+Massachusetts                 13
+Michigan                      20
+Minnesota                     19
+Mississippi                   11
+Missouri                      18
+Montana                        4
+Nebraska                      36
+Nevada                        75
+New Hampshire                  6
+New Jersey                    28
+New Mexico                    46
+New York                      28
+North Carolina                30
+North Dakota                  10
+Ohio                          11
+Oklahoma                      28
+Oregon                        34
+Pennsylvania                  13
+Rhode Island                  19
+South Carolina                23
+South Dakota                   9
+Tennessee                     19
+Texas                         89
+Utah                          38
+Vermont                        6
+Virginia                      27
+Washington                    37
+West Virginia                  6
+Wisconsin                     22
+Wyoming                       23

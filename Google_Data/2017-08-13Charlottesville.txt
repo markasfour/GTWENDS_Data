@@ -1,0 +1,53 @@
+                      Charlottesville
+geoName                              
+Alabama                             2
+Alaska                              0
+Arizona                             0
+Arkansas                            1
+California                          0
+Colorado                            1
+Connecticut                         2
+Delaware                            3
+District of Columbia               23
+Florida                             1
+Georgia                             2
+Hawaii                              0
+Idaho                               0
+Illinois                            4
+Indiana                             1
+Iowa                                1
+Kansas                              1
+Kentucky                            1
+Louisiana                           1
+Maine                               1
+Maryland                            6
+Massachusetts                       2
+Michigan                            1
+Minnesota                           1
+Mississippi                         1
+Missouri                            2
+Montana                             1
+Nebraska                            1
+Nevada                              0
+New Hampshire                       1
+New Jersey                          1
+New Mexico                          1
+New York                            2
+North Carolina                      4
+North Dakota                        0
+Ohio                                1
+Oklahoma                            1
+Oregon                              0
+Pennsylvania                        2
+Rhode Island                        1
+South Carolina                      2
+South Dakota                        0
+Tennessee                           2
+Texas                               1
+Utah                                1
+Vermont                             7
+Virginia                          100
+Washington                          1
+West Virginia                       6
+Wisconsin                           1
+Wyoming                             1

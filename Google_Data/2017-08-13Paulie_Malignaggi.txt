@@ -1,53 +1,53 @@
                       Paulie Malignaggi
 geoName                                
-Alabama                              24
-Alaska                               19
-Arizona                              50
+Alabama                              22
+Alaska                               10
+Arizona                              53
 Arkansas                             23
 California                           63
 Colorado                             34
-Connecticut                          58
-Delaware                             51
-District of Columbia                 57
+Connecticut                          54
+Delaware                             56
+District of Columbia                 72
 Florida                              43
-Georgia                              33
-Hawaii                               34
-Idaho                                19
+Georgia                              34
+Hawaii                               37
+Idaho                                18
 Illinois                             40
-Indiana                              29
-Iowa                                 24
-Kansas                               20
-Kentucky                             24
-Louisiana                            39
-Maine                                12
-Maryland                             55
+Indiana                              27
+Iowa                                 19
+Kansas                               21
+Kentucky                             28
+Louisiana                            37
+Maine                                13
+Maryland                             57
 Massachusetts                        44
 Michigan                             34
-Minnesota                            21
+Minnesota                            23
 Mississippi                          26
-Missouri                             34
-Montana                              20
-Nebraska                             24
-Nevada                               71
-New Hampshire                        14
-New Jersey                           85
-New Mexico                           50
+Missouri                             32
+Montana                              18
+Nebraska                             25
+Nevada                               74
+New Hampshire                        15
+New Jersey                           88
+New Mexico                           52
 New York                            100
-North Carolina                       25
-North Dakota                         26
-Ohio                                 29
-Oklahoma                             31
-Oregon                               18
-Pennsylvania                         54
-Rhode Island                         59
-South Carolina                       29
-South Dakota                         22
-Tennessee                            22
-Texas                                48
-Utah                                 22
-Vermont                              20
+North Carolina                       27
+North Dakota                         35
+Ohio                                 31
+Oklahoma                             29
+Oregon                               17
+Pennsylvania                         52
+Rhode Island                         58
+South Carolina                       24
+South Dakota                         25
+Tennessee                            23
+Texas                                50
+Utah                                 17
+Vermont                              21
 Virginia                             34
-Washington                           35
-West Virginia                        24
-Wisconsin                            21
-Wyoming                              18
+Washington                           33
+West Virginia                        20
+Wisconsin                            22
+Wyoming                              22

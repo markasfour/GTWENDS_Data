@@ -1,53 +1,53 @@
                       Meteor Shower August 2017
 geoName                                        
-Alabama                                      41
-Alaska                                       34
-Arizona                                      34
-Arkansas                                     53
-California                                   31
-Colorado                                     38
-Connecticut                                  25
-Delaware                                     83
-District of Columbia                         28
-Florida                                      19
-Georgia                                      24
-Hawaii                                       41
-Idaho                                        81
-Illinois                                     22
-Indiana                                      36
+Alabama                                      39
+Alaska                                       38
+Arizona                                      30
+Arkansas                                     51
+California                                   37
+Colorado                                     45
+Connecticut                                  27
+Delaware                                     59
+District of Columbia                         21
+Florida                                      22
+Georgia                                      25
+Hawaii                                       32
+Idaho                                        89
+Illinois                                     26
+Indiana                                      41
 Iowa                                         36
-Kansas                                       23
-Kentucky                                     38
-Louisiana                                     9
+Kansas                                       18
+Kentucky                                     42
+Louisiana                                    13
 Maine                                        72
-Maryland                                     22
-Massachusetts                                29
-Michigan                                     43
-Minnesota                                    28
-Mississippi                                  16
-Missouri                                     34
-Montana                                      83
-Nebraska                                     28
-Nevada                                       40
-New Hampshire                                58
-New Jersey                                   21
-New Mexico                                   24
-New York                                     18
-North Carolina                               27
-North Dakota                                 43
-Ohio                                         32
-Oklahoma                                     42
-Oregon                                       43
-Pennsylvania                                 25
-Rhode Island                                 50
-South Carolina                               23
-South Dakota                                 79
-Tennessee                                    35
-Texas                                        16
-Utah                                         48
-Vermont                                      61
-Virginia                                     24
+Maryland                                     21
+Massachusetts                                34
+Michigan                                     45
+Minnesota                                    40
+Mississippi                                  20
+Missouri                                     38
+Montana                                      59
+Nebraska                                     36
+Nevada                                       44
+New Hampshire                                79
+New Jersey                                   31
+New Mexico                                   35
+New York                                     22
+North Carolina                               28
+North Dakota                                 40
+Ohio                                         36
+Oklahoma                                     47
+Oregon                                       54
+Pennsylvania                                 31
+Rhode Island                                 63
+South Carolina                               33
+South Dakota                                100
+Tennessee                                    32
+Texas                                        21
+Utah                                         64
+Vermont                                      67
+Virginia                                     25
 Washington                                   48
-West Virginia                                49
-Wisconsin                                    29
+West Virginia                                51
+Wisconsin                                    42
 Wyoming                                     100

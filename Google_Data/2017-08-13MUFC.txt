@@ -1,0 +1,27 @@
+                      MUFC
+geoName                   
+California              24
+Colorado                12
+Connecticut             20
+District of Columbia    29
+Florida                 24
+Georgia                 14
+Hawaii                  56
+Illinois                18
+Maryland                55
+Massachusetts           23
+Michigan                20
+Minnesota               20
+Missouri                16
+Nebraska                16
+Nevada                  20
+New Jersey              32
+New York                29
+North Carolina          25
+Ohio                    13
+Oregon                  33
+Pennsylvania            21
+Tennessee               14
+Texas                   18
+Virginia               100
+Washington              24

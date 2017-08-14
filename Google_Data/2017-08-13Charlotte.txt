@@ -1,7 +1,7 @@
                       Charlotte
 geoName                        
 Alabama                       3
-Alaska                        2
+Alaska                        1
 Arizona                       2
 Arkansas                      3
 California                    2
@@ -17,7 +17,7 @@ Illinois                      3
 Indiana                       3
 Iowa                          2
 Kansas                        3
-Kentucky                      3
+Kentucky                      4
 Louisiana                     3
 Maine                         3
 Maryland                      4
@@ -44,7 +44,7 @@ South Carolina               32
 South Dakota                  2
 Tennessee                     7
 Texas                         2
-Utah                          1
+Utah                          2
 Vermont                       5
 Virginia                      5
 Washington                    2

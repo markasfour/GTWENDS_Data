@@ -1,53 +1,53 @@
                       Bryce Harper
 geoName                           
-Alabama                         31
-Alaska                          11
-Arizona                         25
+Alabama                         32
+Alaska                          10
+Arizona                         26
 Arkansas                        21
 California                      24
 Colorado                        21
-Connecticut                     33
+Connecticut                     34
 Delaware                        38
 District of Columbia           100
 Florida                         21
 Georgia                         28
-Hawaii                          17
+Hawaii                          16
 Idaho                           24
-Illinois                        33
+Illinois                        34
 Indiana                         25
-Iowa                            28
+Iowa                            29
 Kansas                          23
 Kentucky                        23
 Louisiana                       24
-Maine                           23
+Maine                           22
 Maryland                        69
 Massachusetts                   29
-Michigan                        23
+Michigan                        24
 Minnesota                       23
-Mississippi                     25
-Missouri                        36
+Mississippi                     24
+Missouri                        35
 Montana                         19
-Nebraska                        25
+Nebraska                        26
 Nevada                          49
 New Hampshire                   24
 New Jersey                      36
-New Mexico                      20
-New York                        32
+New Mexico                      18
+New York                        31
 North Carolina                  24
-North Dakota                    25
+North Dakota                    23
 Ohio                            26
 Oklahoma                        23
-Oregon                          12
+Oregon                          11
 Pennsylvania                    35
 Rhode Island                    26
-South Carolina                  23
+South Carolina                  24
 South Dakota                    21
 Tennessee                       25
 Texas                           21
-Utah                            48
-Vermont                         22
+Utah                            49
+Vermont                         20
 Virginia                        65
 Washington                      19
 West Virginia                   37
 Wisconsin                       25
-Wyoming                         18
+Wyoming                         19

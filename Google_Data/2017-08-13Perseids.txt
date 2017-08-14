@@ -1,0 +1,53 @@
+                      Perseids
+geoName                       
+Alabama                     34
+Alaska                      35
+Arizona                     42
+Arkansas                    39
+California                  48
+Colorado                    63
+Connecticut                 46
+Delaware                    49
+District of Columbia        47
+Florida                     28
+Georgia                     29
+Hawaii                      64
+Idaho                       80
+Illinois                    37
+Indiana                     44
+Iowa                        44
+Kansas                      39
+Kentucky                    34
+Louisiana                   21
+Maine                      100
+Maryland                    44
+Massachusetts               57
+Michigan                    47
+Minnesota                   36
+Mississippi                 28
+Missouri                    41
+Montana                     90
+Nebraska                    48
+Nevada                      41
+New Hampshire               82
+New Jersey                  40
+New Mexico                  59
+New York                    38
+North Carolina              42
+North Dakota                48
+Ohio                        47
+Oklahoma                    37
+Oregon                      59
+Pennsylvania                47
+Rhode Island                58
+South Carolina              44
+South Dakota                40
+Tennessee                   40
+Texas                       32
+Utah                        63
+Vermont                     95
+Virginia                    39
+Washington                  67
+West Virginia               51
+Wisconsin                   50
+Wyoming                     90
