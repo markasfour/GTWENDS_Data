@@ -1,0 +1,52 @@
+                      Big Ben
+geoName                      
+Alabama                    63
+Alaska                     61
+Arizona                    61
+Arkansas                   75
+California                 63
+Colorado                   64
+Connecticut                66
+Delaware                   69
+District of Columbia       65
+Florida                    64
+Georgia                    60
+Hawaii                     69
+Idaho                      61
+Illinois                   63
+Indiana                    74
+Iowa                       71
+Kansas                     60
+Kentucky                   74
+Louisiana                  84
+Maine                      71
+Maryland                   68
+Massachusetts              66
+Michigan                   69
+Minnesota                  63
+Mississippi                62
+Missouri                   69
+Montana                    65
+Nebraska                   62
+Nevada                     65
+New Hampshire              71
+New Jersey                 74
+New Mexico                 66
+New York                   63
+North Carolina             72
+North Dakota               67
+Ohio                       82
+Oklahoma                   61
+Oregon                     51
+Pennsylvania              100
+Rhode Island               67
+South Carolina             69
+South Dakota               70
+Tennessee                  65
+Texas                      71
+Utah                       63
+Vermont                    68
+Virginia                   62
+Washington                 59
+West Virginia              97
+Wisconsin                  66

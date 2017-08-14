@@ -1,0 +1,53 @@
+                      AntiFa
+geoName                     
+Alabama                  100
+Alaska                    82
+Arizona                   68
+Arkansas                  60
+California                62
+Colorado                  68
+Connecticut               57
+Delaware                  67
+District of Columbia      47
+Florida                   55
+Georgia                   50
+Hawaii                    40
+Idaho                     77
+Illinois                  54
+Indiana                   68
+Iowa                      63
+Kansas                    56
+Kentucky                  78
+Louisiana                 66
+Maine                     70
+Maryland                  63
+Massachusetts             58
+Michigan                  59
+Minnesota                 54
+Mississippi               57
+Missouri                  66
+Montana                   91
+Nebraska                  69
+Nevada                    69
+New Hampshire             76
+New Jersey                57
+New Mexico                60
+New York                  49
+North Carolina            55
+North Dakota              66
+Ohio                      65
+Oklahoma                  63
+Oregon                   100
+Pennsylvania              72
+Rhode Island              62
+South Carolina            55
+South Dakota              49
+Tennessee                 64
+Texas                     62
+Utah                      65
+Vermont                   63
+Virginia                  49
+Washington                83
+West Virginia             78
+Wisconsin                 56
+Wyoming                  100

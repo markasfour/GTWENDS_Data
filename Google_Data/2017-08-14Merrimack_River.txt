@@ -1,0 +1,16 @@
+               Merrimack River
+geoName                       
+Arizona                      0
+California                   0
+Florida                      1
+Illinois                     1
+Massachusetts               30
+Minnesota                    1
+Missouri                     3
+New Hampshire              100
+New York                     1
+Ohio                         0
+Oregon                       0
+Pennsylvania                 1
+Texas                        0
+Washington                   0

@@ -1,44 +1,52 @@
                       Daily Stormer
 geoName                            
-Alabama                          43
-Arizona                          42
-Arkansas                         33
-California                       34
-Colorado                         36
-Connecticut                      35
-District of Columbia             38
-Florida                          38
+Alabama                          38
+Alaska                           78
+Arizona                          39
+Arkansas                         35
+California                       32
+Colorado                         35
+Connecticut                      31
+Delaware                         39
+District of Columbia             37
+Florida                          34
 Georgia                          42
-Idaho                            22
-Illinois                         37
-Indiana                          28
-Iowa                             24
-Kansas                           29
-Kentucky                         41
-Louisiana                        35
-Maine                            21
-Maryland                         47
-Massachusetts                    44
-Michigan                         39
-Minnesota                        32
-Missouri                         33
+Hawaii                           19
+Idaho                            19
+Illinois                         32
+Indiana                          24
+Iowa                             28
+Kansas                           38
+Kentucky                         37
+Louisiana                        30
+Maine                            27
+Maryland                         46
+Massachusetts                    42
+Michigan                         34
+Minnesota                        28
+Mississippi                      13
+Missouri                         28
 Montana                         100
-Nebraska                         28
-Nevada                           31
-New Hampshire                    45
-New Jersey                       34
-New Mexico                       49
-New York                         40
-North Carolina                   30
+Nebraska                         23
+Nevada                           32
+New Hampshire                    40
+New Jersey                       33
+New Mexico                       40
+New York                         38
+North Carolina                   29
+North Dakota                     36
 Ohio                             39
-Oklahoma                         54
-Oregon                           44
-Pennsylvania                     49
+Oklahoma                         45
+Oregon                           46
+Pennsylvania                     43
+Rhode Island                     26
 South Carolina                   32
 Tennessee                        38
-Texas                            27
-Utah                             16
+Texas                            25
+Utah                             18
+Vermont                          46
 Virginia                         31
-Washington                       72
-West Virginia                    59
-Wisconsin                        26
+Washington                       70
+West Virginia                    55
+Wisconsin                        22
+Wyoming                          24

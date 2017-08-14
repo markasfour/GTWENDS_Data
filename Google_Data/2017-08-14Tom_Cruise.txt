@@ -1,53 +1,53 @@
                       Tom Cruise
 geoName                         
-Alabama                       75
-Alaska                        90
-Arizona                       88
-Arkansas                      76
-California                    88
-Colorado                      87
-Connecticut                   74
-Delaware                      72
-District of Columbia          83
-Florida                       85
-Georgia                       78
-Hawaii                        85
+Alabama                       76
+Alaska                        94
+Arizona                       90
+Arkansas                      77
+California                    91
+Colorado                      90
+Connecticut                   76
+Delaware                      73
+District of Columbia          84
+Florida                       87
+Georgia                       79
+Hawaii                        88
 Idaho                         89
-Illinois                      83
-Indiana                       77
-Iowa                          78
-Kansas                        75
-Kentucky                      85
-Louisiana                     82
-Maine                         70
-Maryland                      75
-Massachusetts                 78
-Michigan                      79
-Minnesota                     78
-Mississippi                   74
+Illinois                      82
+Indiana                       79
+Iowa                          80
+Kansas                        76
+Kentucky                      84
+Louisiana                     83
+Maine                         72
+Maryland                      79
+Massachusetts                 79
+Michigan                      81
+Minnesota                     79
+Mississippi                   71
 Missouri                      87
-Montana                       81
-Nebraska                      79
-Nevada                        92
-New Hampshire                 73
-New Jersey                    78
-New Mexico                    77
-New York                      80
+Montana                       83
+Nebraska                      83
+Nevada                        93
+New Hampshire                 76
+New Jersey                    80
+New Mexico                    80
+New York                      82
 North Carolina                73
 North Dakota                  82
-Ohio                          77
-Oklahoma                      91
-Oregon                        69
-Pennsylvania                  75
-Rhode Island                  72
-South Carolina                74
-South Dakota                  73
-Tennessee                     78
-Texas                         83
+Ohio                          79
+Oklahoma                      92
+Oregon                        72
+Pennsylvania                  76
+Rhode Island                  73
+South Carolina                75
+South Dakota                  76
+Tennessee                     81
+Texas                         85
 Utah                         100
-Vermont                       76
-Virginia                      70
-Washington                    91
-West Virginia                 73
-Wisconsin                     72
-Wyoming                       79
+Vermont                       75
+Virginia                      71
+Washington                    93
+West Virginia                 78
+Wisconsin                     73
+Wyoming                       81

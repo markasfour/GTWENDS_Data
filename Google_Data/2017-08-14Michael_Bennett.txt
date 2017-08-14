@@ -1,51 +1,51 @@
                       Michael Bennett
 geoName                              
-Alabama                            15
-Alaska                             22
+Alabama                            14
+Alaska                             20
 Arizona                            17
-Arkansas                           14
-California                         16
-Colorado                           41
+Arkansas                           13
+California                         15
+Colorado                           40
 Connecticut                        19
 Delaware                           19
 District of Columbia               24
 Florida                            17
 Georgia                            28
-Hawaii                             53
+Hawaii                             50
 Idaho                              20
 Illinois                           20
-Indiana                            18
-Iowa                               19
-Kansas                             14
+Indiana                            17
+Iowa                               17
+Kansas                             13
 Kentucky                           15
-Louisiana                          18
-Maine                              19
+Louisiana                          19
+Maine                              18
 Maryland                           19
 Massachusetts                      21
 Michigan                           17
 Minnesota                          20
-Mississippi                        16
+Mississippi                        14
 Missouri                           16
 Montana                            21
 Nebraska                           16
 Nevada                             18
 New Hampshire                      21
 New Jersey                         18
-New Mexico                         14
+New Mexico                         13
 New York                           18
-North Carolina                     17
-North Dakota                       22
+North Carolina                     18
+North Dakota                       21
 Ohio                               28
-Oklahoma                           18
-Oregon                             19
+Oklahoma                           16
+Oregon                             18
 Pennsylvania                       18
 Rhode Island                       20
 South Carolina                     18
-South Dakota                       15
+South Dakota                       17
 Tennessee                          17
 Texas                              19
-Utah                               18
-Vermont                            14
+Utah                               17
+Vermont                            13
 Virginia                           15
 Washington                        100
 West Virginia                      16

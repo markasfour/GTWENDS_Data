@@ -1,0 +1,39 @@
+                      Paulinho
+geoName                       
+Alabama                      5
+Arizona                     10
+Arkansas                    10
+California                  19
+Colorado                    11
+Connecticut                 41
+District of Columbia        23
+Florida                     31
+Georgia                     14
+Illinois                    18
+Indiana                     12
+Iowa                         8
+Kansas                      20
+Kentucky                     6
+Louisiana                    9
+Maryland                    25
+Massachusetts               45
+Michigan                    19
+Minnesota                   15
+Missouri                    12
+Nebraska                    12
+Nevada                       9
+New Jersey                  33
+New York                    30
+North Carolina              13
+Ohio                        10
+Oklahoma                     9
+Oregon                     100
+Pennsylvania                15
+Rhode Island                31
+South Carolina               7
+Tennessee                    9
+Texas                       16
+Utah                        11
+Virginia                    36
+Washington                  10
+Wisconsin                   11

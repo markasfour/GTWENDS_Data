@@ -1,0 +1,53 @@
+                      Macron
+geoName                     
+Alabama                   31
+Alaska                    40
+Arizona                   42
+Arkansas                  31
+California                64
+Colorado                  46
+Connecticut               72
+Delaware                  58
+District of Columbia     100
+Florida                   49
+Georgia                   35
+Hawaii                    59
+Idaho                     36
+Illinois                  51
+Indiana                   39
+Iowa                      31
+Kansas                    31
+Kentucky                  28
+Louisiana                 35
+Maine                     52
+Maryland                  73
+Massachusetts             77
+Michigan                  41
+Minnesota                 44
+Mississippi               25
+Missouri                  32
+Montana                   43
+Nebraska                  35
+Nevada                    42
+New Hampshire             50
+New Jersey                64
+New Mexico                41
+New York                  84
+North Carolina            43
+North Dakota              25
+Ohio                      57
+Oklahoma                  25
+Oregon                    43
+Pennsylvania              51
+Rhode Island              65
+South Carolina            34
+South Dakota              29
+Tennessee                 32
+Texas                     40
+Utah                      37
+Vermont                   75
+Virginia                  49
+Washington                56
+West Virginia             26
+Wisconsin                 35
+Wyoming                   31
