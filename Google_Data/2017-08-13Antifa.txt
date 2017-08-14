@@ -1,53 +1,53 @@
                       Antifa
 geoName                     
-Alabama                   91
-Alaska                    77
-Arizona                   63
-Arkansas                  59
-California                59
-Colorado                  69
-Connecticut               58
-Delaware                  71
-District of Columbia      49
-Florida                   52
-Georgia                   48
-Hawaii                    36
-Idaho                     80
-Illinois                  52
-Indiana                   69
-Iowa                      60
-Kansas                    55
-Kentucky                  69
-Louisiana                 65
-Maine                     62
-Maryland                  57
-Massachusetts             54
-Michigan                  56
-Minnesota                 50
-Mississippi               50
-Missouri                  54
-Montana                   85
-Nebraska                  62
+Alabama                   94
+Alaska                    74
+Arizona                   71
+Arkansas                  68
+California                65
+Colorado                  71
+Connecticut               57
+Delaware                  74
+District of Columbia      56
+Florida                   57
+Georgia                   51
+Hawaii                    47
+Idaho                     75
+Illinois                  54
+Indiana                   73
+Iowa                      63
+Kansas                    54
+Kentucky                  79
+Louisiana                 72
+Maine                     75
+Maryland                  63
+Massachusetts             60
+Michigan                  58
+Minnesota                 55
+Mississippi               63
+Missouri                  66
+Montana                   94
+Nebraska                  70
 Nevada                    65
-New Hampshire             72
-New Jersey                53
-New Mexico                63
-New York                  48
-North Carolina            51
-North Dakota              60
-Ohio                      61
-Oklahoma                  59
-Oregon                    95
-Pennsylvania              69
-Rhode Island              66
-South Carolina            54
-South Dakota              50
-Tennessee                 64
-Texas                     59
-Utah                      62
-Vermont                   74
-Virginia                  48
-Washington                82
-West Virginia             73
-Wisconsin                 50
-Wyoming                  100
+New Hampshire             73
+New Jersey                58
+New Mexico                66
+New York                  49
+North Carolina            56
+North Dakota              67
+Ohio                      63
+Oklahoma                  63
+Oregon                   100
+Pennsylvania              71
+Rhode Island              69
+South Carolina            59
+South Dakota              62
+Tennessee                 66
+Texas                     63
+Utah                      70
+Vermont                   59
+Virginia                  50
+Washington                84
+West Virginia             75
+Wisconsin                 54
+Wyoming                   86

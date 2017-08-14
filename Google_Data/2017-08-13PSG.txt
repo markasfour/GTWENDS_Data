@@ -1,0 +1,53 @@
+                      PSG
+geoName                  
+Alabama                29
+Alaska                 31
+Arizona                47
+Arkansas               36
+California             75
+Colorado               39
+Connecticut            64
+Delaware               50
+District of Columbia   73
+Florida                73
+Georgia                49
+Hawaii                 38
+Idaho                  26
+Illinois               62
+Indiana                45
+Iowa                   38
+Kansas                 60
+Kentucky               32
+Louisiana              32
+Maine                  38
+Maryland               71
+Massachusetts          82
+Michigan               48
+Minnesota              45
+Mississippi            27
+Missouri               35
+Montana                17
+Nebraska               45
+Nevada                 66
+New Hampshire          39
+New Jersey             90
+New Mexico             32
+New York               82
+North Carolina         55
+North Dakota           32
+Ohio                   48
+Oklahoma               35
+Oregon                 92
+Pennsylvania           44
+Rhode Island           63
+South Carolina         41
+South Dakota           34
+Tennessee              37
+Texas                  58
+Utah                   41
+Vermont                43
+Virginia              100
+Washington             49
+West Virginia          29
+Wisconsin              42
+Wyoming                25

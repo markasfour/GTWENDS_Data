@@ -1,0 +1,44 @@
+                      TeenChoice
+geoName                         
+Alabama                       31
+Arizona                       47
+Arkansas                      34
+California                    47
+Colorado                      26
+Connecticut                   41
+District of Columbia          19
+Florida                       47
+Georgia                       27
+Hawaii                       100
+Idaho                         40
+Illinois                      34
+Indiana                       36
+Iowa                          33
+Kansas                        14
+Kentucky                      11
+Louisiana                     43
+Maryland                      29
+Massachusetts                 37
+Michigan                      34
+Minnesota                     27
+Mississippi                   45
+Missouri                      30
+Nebraska                      11
+Nevada                        46
+New Hampshire                 16
+New Jersey                    35
+New Mexico                    50
+New York                      39
+North Carolina                33
+Ohio                          30
+Oklahoma                      39
+Oregon                        42
+Pennsylvania                  36
+Rhode Island                  37
+South Carolina                34
+Tennessee                     22
+Texas                         38
+Utah                          18
+Virginia                      20
+Washington                    31
+Wisconsin                     27

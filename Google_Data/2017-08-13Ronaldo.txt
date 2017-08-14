@@ -1,0 +1,53 @@
+                      Ronaldo
+geoName                      
+Alabama                    43
+Alaska                     32
+Arizona                    67
+Arkansas                   50
+California                 92
+Colorado                   57
+Connecticut                80
+Delaware                   63
+District of Columbia       69
+Florida                    78
+Georgia                    60
+Hawaii                     53
+Idaho                      43
+Illinois                   72
+Indiana                    53
+Iowa                       46
+Kansas                     69
+Kentucky                   44
+Louisiana                  45
+Maine                      41
+Maryland                   71
+Massachusetts              70
+Michigan                   53
+Minnesota                  49
+Mississippi                95
+Missouri                   49
+Montana                    25
+Nebraska                   57
+Nevada                     77
+New Hampshire              46
+New Jersey                100
+New Mexico                 55
+New York                   86
+North Carolina             58
+North Dakota               35
+Ohio                       45
+Oklahoma                   55
+Oregon                    100
+Pennsylvania               54
+Rhode Island               80
+South Carolina             47
+South Dakota               41
+Tennessee                  46
+Texas                      84
+Utah                       62
+Vermont                    53
+Virginia                  100
+Washington                 56
+West Virginia              32
+Wisconsin                  45
+Wyoming                    34

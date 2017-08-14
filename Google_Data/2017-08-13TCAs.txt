@@ -1,0 +1,49 @@
+                      TCAs
+geoName                   
+Alabama                 50
+Arizona                 76
+Arkansas                54
+California              65
+Colorado                58
+Connecticut             61
+Delaware                76
+District of Columbia    67
+Florida                 78
+Georgia                 57
+Hawaii                  82
+Idaho                   45
+Illinois                51
+Indiana                 66
+Iowa                    99
+Kansas                 100
+Kentucky                52
+Louisiana               41
+Maine                   44
+Maryland                91
+Massachusetts           77
+Michigan                62
+Minnesota               61
+Mississippi             31
+Missouri                57
+Nebraska                62
+Nevada                  61
+New Hampshire           45
+New Jersey              78
+New Mexico              75
+New York                58
+North Carolina          55
+Ohio                    64
+Oklahoma                87
+Oregon                  42
+Pennsylvania            59
+Rhode Island            57
+South Carolina          41
+South Dakota            37
+Tennessee               59
+Texas                   66
+Utah                    76
+Vermont                 58
+Virginia                71
+Washington              64
+West Virginia           61
+Wisconsin               52

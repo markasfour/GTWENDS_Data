@@ -1,51 +1,51 @@
                       Terry McAuliffe
 geoName                              
 Alabama                             4
-Alaska                              3
+Alaska                              6
 Arizona                             3
-Arkansas                            4
+Arkansas                            5
 California                          4
 Colorado                            4
-Connecticut                         5
-Delaware                            6
-District of Columbia               51
-Florida                             4
+Connecticut                         6
+Delaware                            7
+District of Columbia               57
+Florida                             5
 Georgia                             4
-Hawaii                              3
+Hawaii                              2
 Idaho                               3
 Illinois                            4
 Indiana                             4
 Iowa                                4
-Kansas                              5
+Kansas                              3
 Kentucky                            4
 Louisiana                           4
-Maine                               7
-Maryland                           19
-Massachusetts                       6
+Maine                               5
+Maryland                           20
+Massachusetts                       7
 Michigan                            3
-Minnesota                           5
+Minnesota                           4
 Mississippi                         3
-Missouri                            4
-Montana                             5
-Nebraska                            4
+Missouri                            5
+Montana                             3
+Nebraska                            3
 Nevada                              3
-New Hampshire                       5
+New Hampshire                       7
 New Jersey                          6
-New Mexico                          3
+New Mexico                          2
 New York                            7
 North Carolina                      6
-North Dakota                        4
-Ohio                                4
+North Dakota                        3
+Ohio                                3
 Oklahoma                            4
 Oregon                              3
-Pennsylvania                        5
-Rhode Island                        4
+Pennsylvania                        6
+Rhode Island                        5
 South Carolina                      5
-Tennessee                           5
+Tennessee                           6
 Texas                               3
-Utah                                2
-Vermont                            10
+Utah                                3
+Vermont                             9
 Virginia                          100
 Washington                          3
-West Virginia                       8
+West Virginia                       9
 Wisconsin                           3

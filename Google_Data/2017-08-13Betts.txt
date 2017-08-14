@@ -1,0 +1,53 @@
+                      Betts
+geoName                    
+Alabama                  40
+Alaska                   36
+Arizona                  30
+Arkansas                 51
+California               32
+Colorado                 33
+Connecticut              69
+Delaware                 77
+District of Columbia     42
+Florida                  34
+Georgia                  35
+Hawaii                   24
+Idaho                    28
+Illinois                 37
+Indiana                  33
+Iowa                     53
+Kansas                   38
+Kentucky                 65
+Louisiana                32
+Maine                   100
+Maryland                 35
+Massachusetts            91
+Michigan                 41
+Minnesota                38
+Mississippi              52
+Missouri                 49
+Montana                  26
+Nebraska                 33
+Nevada                   23
+New Hampshire            85
+New Jersey               40
+New Mexico               58
+New York                 40
+North Carolina           50
+North Dakota             34
+Ohio                     40
+Oklahoma                 28
+Oregon                   31
+Pennsylvania             43
+Rhode Island             78
+South Carolina           37
+South Dakota             30
+Tennessee                80
+Texas                    33
+Utah                     29
+Vermont                  72
+Virginia                 31
+Washington               35
+West Virginia            29
+Wisconsin                37
+Wyoming                  36

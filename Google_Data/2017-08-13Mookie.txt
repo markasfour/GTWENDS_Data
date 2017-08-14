@@ -1,0 +1,53 @@
+                      Mookie
+geoName                     
+Alabama                   16
+Alaska                    11
+Arizona                   15
+Arkansas                  13
+California                16
+Colorado                  14
+Connecticut               55
+Delaware                  18
+District of Columbia      28
+Florida                   17
+Georgia                   27
+Hawaii                    11
+Idaho                     11
+Illinois                  19
+Indiana                   19
+Iowa                      16
+Kansas                    15
+Kentucky                  15
+Louisiana                 18
+Maine                     88
+Maryland                  22
+Massachusetts            100
+Michigan                  18
+Minnesota                 16
+Mississippi               20
+Missouri                  16
+Montana                   11
+Nebraska                  14
+Nevada                    14
+New Hampshire             84
+New Jersey                27
+New Mexico                12
+New York                  31
+North Carolina            17
+North Dakota               8
+Ohio                      15
+Oklahoma                  20
+Oregon                    11
+Pennsylvania              21
+Rhode Island              82
+South Carolina            20
+South Dakota              13
+Tennessee                 33
+Texas                     15
+Utah                      11
+Vermont                   64
+Virginia                  15
+Washington                15
+West Virginia             13
+Wisconsin                 14
+Wyoming                   13

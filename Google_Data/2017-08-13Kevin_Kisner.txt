@@ -1,47 +1,47 @@
                       Kevin Kisner
 geoName                           
-Alabama                         20
-Arizona                         11
-Arkansas                         7
-California                       8
-Colorado                        12
-Connecticut                     11
-Delaware                        12
-District of Columbia            10
-Florida                         14
-Georgia                         41
-Idaho                            9
-Illinois                        12
-Indiana                         11
-Iowa                            13
-Kansas                           7
+Alabama                         22
+Arizona                         10
+Arkansas                         4
+California                       7
+Colorado                         7
+Connecticut                     17
+Delaware                        13
+District of Columbia            13
+Florida                         15
+Georgia                         39
+Idaho                            7
+Illinois                        10
+Indiana                         10
+Iowa                            12
+Kansas                           6
 Kentucky                        13
-Louisiana                       14
-Maine                           11
-Maryland                         9
-Massachusetts                   12
-Michigan                         9
-Minnesota                       13
-Mississippi                     13
+Louisiana                       12
+Maine                            6
+Maryland                        11
+Massachusetts                   13
+Michigan                         8
+Minnesota                       14
+Mississippi                      9
 Missouri                        11
 Montana                          7
-Nebraska                        12
-Nevada                          11
+Nebraska                        15
+Nevada                           8
 New Hampshire                    8
-New Jersey                      12
+New Jersey                      11
 New Mexico                       5
 New York                        10
 North Carolina                  28
 Ohio                            12
-Oklahoma                        14
-Oregon                           6
+Oklahoma                        19
+Oregon                           5
 Pennsylvania                    13
-Rhode Island                    10
+Rhode Island                     9
 South Carolina                 100
-Tennessee                       14
-Texas                           11
-Utah                             4
+Tennessee                       17
+Texas                            9
+Utah                             9
 Virginia                         8
-Washington                       6
+Washington                       5
 West Virginia                   10
-Wisconsin                        9
+Wisconsin                       11

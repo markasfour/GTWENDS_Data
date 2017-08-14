@@ -1,0 +1,47 @@
+                      SuperCopa
+geoName                        
+Alabama                      14
+Arizona                      47
+Arkansas                     40
+California                   81
+Colorado                     32
+Connecticut                  56
+Delaware                     33
+District of Columbia        100
+Florida                      93
+Georgia                      38
+Hawaii                       37
+Idaho                        21
+Illinois                     53
+Indiana                      25
+Iowa                         22
+Kansas                       53
+Kentucky                     19
+Louisiana                    28
+Maine                         8
+Maryland                     68
+Massachusetts                42
+Michigan                     28
+Minnesota                    23
+Mississippi                  16
+Missouri                     23
+Nebraska                     26
+Nevada                       66
+New Hampshire                12
+New Jersey                   69
+New Mexico                   43
+New York                     77
+North Carolina               31
+Ohio                         17
+Oklahoma                     45
+Oregon                       79
+Pennsylvania                 30
+Rhode Island                 44
+South Carolina               25
+Tennessee                    20
+Texas                        87
+Utah                         36
+Vermont                      16
+Virginia                     62
+Washington                   27
+Wisconsin                    18

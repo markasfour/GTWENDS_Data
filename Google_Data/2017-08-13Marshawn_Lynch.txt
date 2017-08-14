@@ -1,38 +1,38 @@
                       Marshawn Lynch
 geoName                             
 Alabama                           17
-Alaska                            23
+Alaska                            21
 Arizona                           19
-Arkansas                          17
+Arkansas                          16
 California                        22
-Colorado                          20
+Colorado                          19
 Connecticut                       17
-Delaware                          19
+Delaware                          18
 District of Columbia              26
 Florida                           14
 Georgia                           18
 Hawaii                            24
-Idaho                             26
+Idaho                             27
 Illinois                          17
 Indiana                           17
 Iowa                              18
-Kansas                            15
-Kentucky                          18
+Kansas                            14
+Kentucky                          17
 Louisiana                         19
-Maine                             14
+Maine                             15
 Maryland                          19
 Massachusetts                     19
-Michigan                          17
+Michigan                          16
 Minnesota                         18
-Mississippi                       21
+Mississippi                       20
 Missouri                          16
-Montana                           25
-Nebraska                          18
-Nevada                            21
-New Hampshire                     14
+Montana                           26
+Nebraska                          19
+Nevada                            20
+New Hampshire                     13
 New Jersey                        19
-New Mexico                        14
-New York                          18
+New Mexico                        15
+New York                          17
 North Carolina                    18
 North Dakota                      21
 Ohio                              17
@@ -41,13 +41,13 @@ Oregon                            22
 Pennsylvania                      19
 Rhode Island                      19
 South Carolina                    18
-South Dakota                      19
+South Dakota                      18
 Tennessee                         17
 Texas                             17
 Utah                              17
-Vermont                           14
-Virginia                          17
+Vermont                           13
+Virginia                          16
 Washington                       100
-West Virginia                     15
-Wisconsin                         20
-Wyoming                           18
+West Virginia                     14
+Wisconsin                         19
+Wyoming                           17

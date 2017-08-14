@@ -1,0 +1,53 @@
+                      Suarez
+geoName                     
+Alabama                   26
+Alaska                    25
+Arizona                   47
+Arkansas                  29
+California                67
+Colorado                  37
+Connecticut               62
+Delaware                  43
+District of Columbia      64
+Florida                  100
+Georgia                   47
+Hawaii                    37
+Idaho                     26
+Illinois                  49
+Indiana                   32
+Iowa                      28
+Kansas                    39
+Kentucky                  29
+Louisiana                 35
+Maine                     30
+Maryland                  55
+Massachusetts             52
+Michigan                  35
+Minnesota                 33
+Mississippi               24
+Missouri                  32
+Montana                   24
+Nebraska                  33
+Nevada                    56
+New Hampshire             34
+New Jersey                81
+New Mexico                41
+New York                  75
+North Carolina            47
+North Dakota              21
+Ohio                      38
+Oklahoma                  38
+Oregon                    63
+Pennsylvania              40
+Rhode Island              46
+South Carolina            38
+South Dakota              23
+Tennessee                 29
+Texas                     58
+Utah                      36
+Vermont                   37
+Virginia                  65
+Washington                39
+West Virginia             24
+Wisconsin                 28
+Wyoming                   18

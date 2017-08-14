@@ -1,14 +1,14 @@
                       Charlottesville
 geoName                              
 Alabama                             2
-Alaska                              0
+Alaska                              1
 Arizona                             0
 Arkansas                            1
 California                          0
 Colorado                            1
 Connecticut                         2
 Delaware                            3
-District of Columbia               23
+District of Columbia               24
 Florida                             1
 Georgia                             2
 Hawaii                              0
