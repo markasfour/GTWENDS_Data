@@ -1,48 +1,48 @@
                       Rafael Devers
 geoName                            
-Alabama                           3
-Arizona                           5
-Arkansas                          6
-California                        6
-Colorado                          5
-Connecticut                      43
-Delaware                          6
-District of Columbia              9
+Alabama                           5
+Arizona                           7
+Arkansas                          5
+California                        7
+Colorado                          7
+Connecticut                      51
+Delaware                         11
+District of Columbia             13
 Florida                          10
-Georgia                           6
-Hawaii                            6
-Idaho                             3
+Georgia                           7
+Hawaii                            5
+Idaho                             6
 Illinois                         11
 Indiana                           8
-Iowa                             14
-Kansas                            1
-Kentucky                          5
-Louisiana                         7
-Maine                            90
-Maryland                         13
-Massachusetts                    87
-Michigan                          7
-Minnesota                         9
-Mississippi                       8
-Missouri                          8
-Montana                          27
-Nebraska                          6
-Nevada                            9
-New Hampshire                    85
-New Jersey                       17
+Iowa                              8
+Kansas                            5
+Kentucky                          7
+Louisiana                         8
+Maine                           100
+Maryland                         11
+Massachusetts                    99
+Michigan                          6
+Minnesota                         8
+Mississippi                       7
+Missouri                          9
+Montana                           9
+Nebraska                          8
+Nevada                            7
+New Hampshire                    76
+New Jersey                       18
 New Mexico                        3
-New York                         17
-North Carolina                    9
-Ohio                             10
-Oklahoma                          3
-Oregon                            6
+New York                         16
+North Carolina                    8
+Ohio                              9
+Oklahoma                          4
+Oregon                            5
 Pennsylvania                     12
-Rhode Island                    100
-South Carolina                    6
+Rhode Island                     90
+South Carolina                   10
 Tennessee                         4
-Texas                             4
-Utah                              3
-Vermont                          34
-Virginia                          6
-Washington                        7
-Wisconsin                         6
+Texas                             5
+Utah                              4
+Vermont                          52
+Virginia                          8
+Washington                        9
+Wisconsin                         7

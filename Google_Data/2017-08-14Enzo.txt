@@ -1,0 +1,53 @@
+                      Enzo
+geoName                   
+Alabama                 47
+Alaska                  39
+Arizona                 49
+Arkansas                46
+California              67
+Colorado                48
+Connecticut             82
+Delaware                64
+District of Columbia    67
+Florida                 61
+Georgia                 56
+Hawaii                  49
+Idaho                   43
+Illinois                65
+Indiana                 66
+Iowa                    41
+Kansas                  40
+Kentucky                49
+Louisiana               50
+Maine                   48
+Maryland                64
+Massachusetts           76
+Michigan                54
+Minnesota               43
+Mississippi             44
+Missouri                45
+Montana                 87
+Nebraska                48
+Nevada                  63
+New Hampshire           56
+New Jersey             100
+New Mexico              43
+New York                98
+North Carolina          57
+North Dakota            38
+Ohio                    52
+Oklahoma                45
+Oregon                  62
+Pennsylvania            66
+Rhode Island            74
+South Carolina          52
+South Dakota            42
+Tennessee               48
+Texas                   51
+Utah                    50
+Vermont                 47
+Virginia                53
+Washington              53
+West Virginia           54
+Wisconsin               46
+Wyoming                 40

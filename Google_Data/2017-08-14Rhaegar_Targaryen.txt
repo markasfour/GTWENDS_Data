@@ -1,53 +1,53 @@
                       Rhaegar Targaryen
 geoName                                
 Alabama                              53
-Alaska                               69
-Arizona                              60
-Arkansas                             59
-California                           75
-Colorado                             62
-Connecticut                          76
-Delaware                            100
-District of Columbia                 80
-Florida                              61
-Georgia                              53
-Hawaii                               68
-Idaho                                37
-Illinois                             66
-Indiana                              57
-Iowa                                 58
-Kansas                               59
-Kentucky                             44
-Louisiana                            65
-Maine                                50
-Maryland                             82
-Massachusetts                        85
-Michigan                             65
-Minnesota                            61
-Mississippi                          39
-Missouri                             59
-Montana                              33
-Nebraska                             56
-Nevada                               72
-New Hampshire                        75
-New Jersey                           91
-New Mexico                           66
-New York                             81
-North Carolina                       55
-North Dakota                         62
-Ohio                                 61
-Oklahoma                             67
-Oregon                               58
-Pennsylvania                         73
-Rhode Island                         81
-South Carolina                       55
-South Dakota                         43
-Tennessee                            57
-Texas                                61
-Utah                                 50
-Vermont                              78
-Virginia                             60
-Washington                           69
-West Virginia                        64
-Wisconsin                            49
-Wyoming                              49
+Alaska                               59
+Arizona                              67
+Arkansas                             67
+California                           83
+Colorado                             69
+Connecticut                          85
+Delaware                             76
+District of Columbia                 79
+Florida                              67
+Georgia                              58
+Hawaii                               77
+Idaho                                53
+Illinois                             74
+Indiana                              65
+Iowa                                 53
+Kansas                               65
+Kentucky                             58
+Louisiana                            75
+Maine                                51
+Maryland                             81
+Massachusetts                        96
+Michigan                             73
+Minnesota                            67
+Mississippi                          48
+Missouri                             63
+Montana                              46
+Nebraska                             61
+Nevada                               69
+New Hampshire                        87
+New Jersey                          100
+New Mexico                           67
+New York                             91
+North Carolina                       56
+North Dakota                         61
+Ohio                                 65
+Oklahoma                             64
+Oregon                               55
+Pennsylvania                         85
+Rhode Island                         84
+South Carolina                       57
+South Dakota                         47
+Tennessee                            62
+Texas                                67
+Utah                                 57
+Vermont                              62
+Virginia                             62
+Washington                           71
+West Virginia                        67
+Wisconsin                            63
+Wyoming                              54

@@ -1,53 +1,53 @@
                       Zendaya
 geoName                      
-Alabama                    87
-Alaska                     50
-Arizona                    66
+Alabama                    85
+Alaska                     52
+Arizona                    65
 Arkansas                   76
-California                 74
-Colorado                   52
-Connecticut                72
-Delaware                   86
+California                 73
+Colorado                   51
+Connecticut                69
+Delaware                   85
 District of Columbia       69
-Florida                    79
-Georgia                    93
+Florida                    78
+Georgia                    92
 Hawaii                     79
-Idaho                      44
+Idaho                      43
 Illinois                   69
-Indiana                    64
-Iowa                       53
+Indiana                    63
+Iowa                       51
 Kansas                     58
 Kentucky                   60
-Louisiana                  98
-Maine                      41
-Maryland                   98
+Louisiana                  99
+Maine                      43
+Maryland                   97
 Massachusetts              61
-Michigan                   70
-Minnesota                  52
+Michigan                   68
+Minnesota                  51
 Mississippi               100
-Missouri                   63
+Missouri                   64
 Montana                    35
 Nebraska                   58
 Nevada                     83
-New Hampshire              48
-New Jersey                 85
-New Mexico                 61
-New York                   81
-North Carolina             81
-North Dakota               47
+New Hampshire              46
+New Jersey                 86
+New Mexico                 65
+New York                   82
+North Carolina             77
+North Dakota               48
 Ohio                       67
-Oklahoma                   65
-Oregon                     38
+Oklahoma                   66
+Oregon                     39
 Pennsylvania               71
 Rhode Island               70
-South Carolina             88
-South Dakota               56
-Tennessee                  67
-Texas                      78
-Utah                       51
+South Carolina             87
+South Dakota               51
+Tennessee                  68
+Texas                      79
+Utah                       49
 Vermont                    39
-Virginia                   69
+Virginia                   70
 Washington                 50
-West Virginia              58
-Wisconsin                  52
-Wyoming                    45
+West Virginia              57
+Wisconsin                  51
+Wyoming                    42

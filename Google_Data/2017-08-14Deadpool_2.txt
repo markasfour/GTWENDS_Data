@@ -1,53 +1,53 @@
                       Deadpool 2
 geoName                         
-Alabama                       77
-Alaska                        84
-Arizona                       81
-Arkansas                      84
-California                    71
-Colorado                      75
-Connecticut                   67
-Delaware                      76
-District of Columbia          48
-Florida                       70
-Georgia                       66
-Hawaii                        44
-Idaho                         91
-Illinois                      68
-Indiana                       92
-Iowa                          80
-Kansas                        70
-Kentucky                      73
-Louisiana                     73
-Maine                         66
-Maryland                      68
-Massachusetts                 58
-Michigan                      81
-Minnesota                     64
-Mississippi                   71
-Missouri                      78
-Montana                       73
-Nebraska                      78
-Nevada                        78
-New Hampshire                 71
-New Jersey                    70
-New Mexico                    84
-New York                      60
-North Carolina                71
-North Dakota                  79
-Ohio                          79
-Oklahoma                      85
-Oregon                        57
-Pennsylvania                  72
-Rhode Island                  77
-South Carolina                70
-South Dakota                  73
-Tennessee                     73
-Texas                         76
-Utah                          75
-Vermont                       60
-Virginia                      57
-Washington                    69
-West Virginia                 88
-Wisconsin                     68
-Wyoming                      100
+Alabama                       80
+Alaska                        83
+Arizona                       87
+Arkansas                      96
+California                    77
+Colorado                      83
+Connecticut                   69
+Delaware                      89
+District of Columbia          55
+Florida                       78
+Georgia                       71
+Hawaii                        52
+Idaho                         95
+Illinois                      76
+Indiana                      100
+Iowa                          93
+Kansas                        76
+Kentucky                      78
+Louisiana                     79
+Maine                         69
+Maryland                      78
+Massachusetts                 63
+Michigan                      88
+Minnesota                     66
+Mississippi                   82
+Missouri                      86
+Montana                       88
+Nebraska                      85
+Nevada                        91
+New Hampshire                 74
+New Jersey                    78
+New Mexico                    90
+New York                      65
+North Carolina                77
+North Dakota                  84
+Ohio                          89
+Oklahoma                      90
+Oregon                        65
+Pennsylvania                  78
+Rhode Island                  79
+South Carolina                77
+South Dakota                  81
+Tennessee                     83
+Texas                         83
+Utah                          90
+Vermont                       58
+Virginia                      61
+Washington                    78
+West Virginia                 97
+Wisconsin                     78
+Wyoming                       99

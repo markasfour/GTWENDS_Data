@@ -1,0 +1,53 @@
+                      Trump Tower
+geoName                          
+Alabama                        22
+Alaska                         17
+Arizona                        21
+Arkansas                       19
+California                     21
+Colorado                       20
+Connecticut                    33
+Delaware                       25
+District of Columbia           31
+Florida                        26
+Georgia                        20
+Hawaii                         61
+Idaho                          19
+Illinois                      100
+Indiana                        33
+Iowa                           24
+Kansas                         19
+Kentucky                       20
+Louisiana                      19
+Maine                          24
+Maryland                       23
+Massachusetts                  25
+Michigan                       26
+Minnesota                      20
+Mississippi                    18
+Missouri                       23
+Montana                        22
+Nebraska                       22
+Nevada                         56
+New Hampshire                  25
+New Jersey                     38
+New Mexico                     19
+New York                       60
+North Carolina                 20
+North Dakota                   20
+Ohio                           22
+Oklahoma                       18
+Oregon                         17
+Pennsylvania                   24
+Rhode Island                   24
+South Carolina                 20
+South Dakota                   21
+Tennessee                      20
+Texas                          19
+Utah                           19
+Vermont                        25
+Virginia                       19
+Washington                     21
+West Virginia                  21
+Wisconsin                      28
+Wyoming                        19

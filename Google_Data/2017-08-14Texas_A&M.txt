@@ -1,0 +1,53 @@
+                      Texas A&M
+geoName                        
+Alabama                      29
+Alaska                        8
+Arizona                       6
+Arkansas                     22
+California                    4
+Colorado                     10
+Connecticut                   5
+Delaware                      5
+District of Columbia          7
+Florida                       6
+Georgia                      12
+Hawaii                        6
+Idaho                         7
+Illinois                      6
+Indiana                       6
+Iowa                          7
+Kansas                       10
+Kentucky                     12
+Louisiana                    27
+Maine                         4
+Maryland                      5
+Massachusetts                 4
+Michigan                      5
+Minnesota                     5
+Mississippi                  23
+Missouri                      9
+Montana                       9
+Nebraska                      9
+Nevada                        6
+New Hampshire                 4
+New Jersey                    4
+New Mexico                   13
+New York                      4
+North Carolina                7
+North Dakota                  7
+Ohio                          5
+Oklahoma                     24
+Oregon                        4
+Pennsylvania                  5
+Rhode Island                  4
+South Carolina               11
+South Dakota                  7
+Tennessee                    15
+Texas                       100
+Utah                          6
+Vermont                       4
+Virginia                      6
+Washington                    5
+West Virginia                 7
+Wisconsin                     5
+Wyoming                      10

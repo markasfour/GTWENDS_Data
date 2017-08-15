@@ -1,0 +1,53 @@
+                      Boston Red Sox
+geoName                             
+Alabama                            7
+Alaska                             8
+Arizona                            8
+Arkansas                           7
+California                         6
+Colorado                           7
+Connecticut                       44
+Delaware                           9
+District of Columbia              12
+Florida                           13
+Georgia                            6
+Hawaii                             7
+Idaho                              9
+Illinois                           7
+Indiana                            6
+Iowa                               8
+Kansas                             7
+Kentucky                           7
+Louisiana                          7
+Maine                            100
+Maryland                          10
+Massachusetts                     96
+Michigan                           7
+Minnesota                          6
+Mississippi                        8
+Missouri                           8
+Montana                           12
+Nebraska                           9
+Nevada                             9
+New Hampshire                     88
+New Jersey                        11
+New Mexico                        11
+New York                          15
+North Carolina                    10
+North Dakota                       7
+Ohio                               7
+Oklahoma                           8
+Oregon                             5
+Pennsylvania                       9
+Rhode Island                      79
+South Carolina                    12
+South Dakota                       7
+Tennessee                          8
+Texas                              6
+Utah                              10
+Vermont                           75
+Virginia                          10
+Washington                         6
+West Virginia                      8
+Wisconsin                          5
+Wyoming                           10

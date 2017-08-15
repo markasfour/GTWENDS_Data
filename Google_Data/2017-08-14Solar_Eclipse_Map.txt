@@ -1,0 +1,53 @@
+                      Solar Eclipse Map
+geoName                                
+Alabama                              34
+Alaska                               21
+Arizona                              17
+Arkansas                             32
+California                           19
+Colorado                             55
+Connecticut                          20
+Delaware                             20
+District of Columbia                 19
+Florida                              20
+Georgia                              36
+Hawaii                               12
+Idaho                                81
+Illinois                             27
+Indiana                              33
+Iowa                                 31
+Kansas                               37
+Kentucky                             41
+Louisiana                            18
+Maine                                20
+Maryland                             26
+Massachusetts                        17
+Michigan                             24
+Minnesota                            27
+Mississippi                          18
+Missouri                             50
+Montana                              64
+Nebraska                             56
+Nevada                               21
+New Hampshire                        24
+New Jersey                           17
+New Mexico                           23
+New York                             13
+North Carolina                       43
+North Dakota                         26
+Ohio                                 26
+Oklahoma                             24
+Oregon                               63
+Pennsylvania                         21
+Rhode Island                         22
+South Carolina                       52
+South Dakota                         46
+Tennessee                            61
+Texas                                16
+Utah                                 53
+Vermont                              21
+Virginia                             22
+Washington                           44
+West Virginia                        27
+Wisconsin                            25
+Wyoming                             100

@@ -1,0 +1,53 @@
+                      Shield
+geoName                     
+Alabama                  100
+Alaska                    61
+Arizona                   67
+Arkansas                  81
+California                61
+Colorado                  52
+Connecticut               49
+Delaware                  62
+District of Columbia      54
+Florida                   57
+Georgia                   62
+Hawaii                    46
+Idaho                     63
+Illinois                  68
+Indiana                   59
+Iowa                      60
+Kansas                    70
+Kentucky                  56
+Louisiana                 75
+Maine                     53
+Maryland                  61
+Massachusetts             61
+Michigan                  64
+Minnesota                 64
+Mississippi               71
+Missouri                  60
+Montana                   77
+Nebraska                  72
+Nevada                    54
+New Hampshire             61
+New Jersey                61
+New Mexico                69
+New York                  49
+North Carolina            71
+North Dakota              83
+Ohio                      52
+Oklahoma                  76
+Oregon                    45
+Pennsylvania              58
+Rhode Island              69
+South Carolina            72
+South Dakota              61
+Tennessee                 70
+Texas                     63
+Utah                      61
+Vermont                   67
+Virginia                  51
+Washington                53
+West Virginia             62
+Wisconsin                 51
+Wyoming                   74

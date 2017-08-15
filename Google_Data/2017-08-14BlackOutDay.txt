@@ -1,12 +1,11 @@
-              BlackOutDay
-geoName                  
-California             55
-Florida                35
-Georgia                39
-Illinois               31
-Maryland               82
-New Jersey            100
-New York               54
-Pennsylvania           79
-Texas                  65
-Virginia               85
+            BlackOutDay
+geoName                
+California           30
+Florida              29
+Georgia              36
+Illinois             19
+Maryland            100
+New Jersey           92
+New York             28
+Texas                30
+Virginia             65

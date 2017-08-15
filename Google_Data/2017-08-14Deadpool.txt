@@ -1,0 +1,53 @@
+                      Deadpool
+geoName                       
+Alabama                     79
+Alaska                      88
+Arizona                     90
+Arkansas                    90
+California                  82
+Colorado                    83
+Connecticut                 69
+Delaware                    79
+District of Columbia        61
+Florida                     79
+Georgia                     71
+Hawaii                      71
+Idaho                       91
+Illinois                    77
+Indiana                     95
+Iowa                        87
+Kansas                      78
+Kentucky                    79
+Louisiana                   71
+Maine                       74
+Maryland                    72
+Massachusetts               62
+Michigan                    85
+Minnesota                   65
+Mississippi                 73
+Missouri                    81
+Montana                     79
+Nebraska                    86
+Nevada                      96
+New Hampshire               72
+New Jersey                  74
+New Mexico                 100
+New York                    68
+North Carolina              74
+North Dakota                85
+Ohio                        81
+Oklahoma                    83
+Oregon                      64
+Pennsylvania                75
+Rhode Island                75
+South Carolina              76
+South Dakota                81
+Tennessee                   79
+Texas                       86
+Utah                        93
+Vermont                     68
+Virginia                    64
+Washington                  79
+West Virginia               88
+Wisconsin                   75
+Wyoming                     92

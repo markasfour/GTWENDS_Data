@@ -1,0 +1,32 @@
+                      AC360
+geoName                    
+Alabama                  46
+Arizona                  58
+California               64
+Colorado                 67
+Connecticut              78
+District of Columbia    100
+Florida                  69
+Georgia                  59
+Illinois                 53
+Indiana                  44
+Kansas                   32
+Louisiana                43
+Maryland                 72
+Massachusetts            94
+Michigan                 48
+Minnesota                80
+Missouri                 46
+Nevada                   72
+New Jersey               83
+New York                 92
+North Carolina           50
+Ohio                     53
+Oklahoma                 83
+Oregon                   41
+Pennsylvania             54
+Tennessee                60
+Texas                    48
+Virginia                 58
+Washington               54
+Wisconsin                42

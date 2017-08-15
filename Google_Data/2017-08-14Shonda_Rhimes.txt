@@ -1,52 +1,52 @@
                       Shonda Rhimes
 geoName                            
-Alabama                          66
-Alaska                           35
-Arizona                          46
+Alabama                          68
+Alaska                           32
+Arizona                          47
 Arkansas                         53
-California                       61
+California                       63
 Colorado                         40
-Connecticut                      61
-Delaware                         71
+Connecticut                      66
+Delaware                         84
 District of Columbia            100
-Florida                          58
-Georgia                          82
-Hawaii                           48
-Idaho                            33
-Illinois                         62
-Indiana                          50
+Florida                          57
+Georgia                          85
+Hawaii                           43
+Idaho                            34
+Illinois                         66
+Indiana                          49
 Iowa                             41
-Kansas                           43
-Kentucky                         51
-Louisiana                        71
-Maine                            51
-Maryland                         87
-Massachusetts                    63
-Michigan                         53
-Minnesota                        44
-Mississippi                      69
-Missouri                         53
+Kansas                           44
+Kentucky                         52
+Louisiana                        77
+Maine                            52
+Maryland                         90
+Massachusetts                    66
+Michigan                         57
+Minnesota                        49
+Mississippi                      70
+Missouri                         56
 Montana                          32
-Nebraska                         41
-Nevada                           52
-New Hampshire                    50
-New Jersey                       66
-New Mexico                       41
-New York                         76
+Nebraska                         45
+Nevada                           51
+New Hampshire                    61
+New Jersey                       67
+New Mexico                       46
+New York                         80
 North Carolina                   67
-North Dakota                     27
-Ohio                             51
-Oklahoma                         55
-Oregon                           32
-Pennsylvania                     59
-Rhode Island                     58
-South Carolina                   60
-South Dakota                     32
-Tennessee                        59
-Texas                            53
-Utah                             38
-Vermont                          50
-Virginia                         61
-Washington                       46
-West Virginia                    44
+North Dakota                     39
+Ohio                             54
+Oklahoma                         56
+Oregon                           34
+Pennsylvania                     61
+Rhode Island                     65
+South Carolina                   63
+South Dakota                     35
+Tennessee                        62
+Texas                            55
+Utah                             41
+Vermont                          53
+Virginia                         63
+Washington                       48
+West Virginia                    50
 Wisconsin                        42
