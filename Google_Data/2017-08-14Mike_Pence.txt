@@ -1,53 +1,53 @@
                       Mike Pence
 geoName                         
 Alabama                       29
-Alaska                        22
+Alaska                        21
 Arizona                       24
-Arkansas                      25
+Arkansas                      26
 California                    25
 Colorado                      24
 Connecticut                   33
-Delaware                      31
-District of Columbia          43
-Florida                       25
+Delaware                      32
+District of Columbia          44
+Florida                       26
 Georgia                       24
 Hawaii                        18
-Idaho                         20
+Idaho                         21
 Illinois                      30
 Indiana                      100
-Iowa                          26
-Kansas                        20
-Kentucky                      28
+Iowa                          25
+Kansas                        21
+Kentucky                      29
 Louisiana                     24
 Maine                         29
-Maryland                      32
-Massachusetts                 32
+Maryland                      33
+Massachusetts                 33
 Michigan                      28
 Minnesota                     25
 Mississippi                   24
 Missouri                      25
-Montana                       27
-Nebraska                      25
+Montana                       26
+Nebraska                      26
 Nevada                        23
 New Hampshire                 31
-New Jersey                    31
-New Mexico                    24
+New Jersey                    32
+New Mexico                    25
 New York                      30
 North Carolina                26
-North Dakota                  21
+North Dakota                  22
 Ohio                          29
 Oklahoma                      21
 Oregon                        21
 Pennsylvania                  31
-Rhode Island                  31
+Rhode Island                  33
 South Carolina                24
-South Dakota                  25
+South Dakota                  26
 Tennessee                     28
 Texas                         22
 Utah                          21
 Vermont                       30
 Virginia                      25
-Washington                    24
+Washington                    25
 West Virginia                 28
 Wisconsin                     24
 Wyoming                       25

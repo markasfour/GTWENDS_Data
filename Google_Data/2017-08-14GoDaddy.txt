@@ -1,0 +1,53 @@
+                      GoDaddy
+geoName                      
+Alabama                    39
+Alaska                     36
+Arizona                   100
+Arkansas                   33
+California                 59
+Colorado                   57
+Connecticut                42
+Delaware                   39
+District of Columbia       33
+Florida                    68
+Georgia                    44
+Hawaii                     49
+Idaho                      55
+Illinois                   38
+Indiana                    38
+Iowa                       50
+Kansas                     33
+Kentucky                   34
+Louisiana                  39
+Maine                      42
+Maryland                   47
+Massachusetts              42
+Michigan                   38
+Minnesota                  40
+Mississippi                28
+Missouri                   37
+Montana                    49
+Nebraska                   31
+Nevada                     72
+New Hampshire              49
+New Jersey                 48
+New Mexico                 45
+New York                   45
+North Carolina             45
+North Dakota               34
+Ohio                       37
+Oklahoma                   38
+Oregon                     39
+Pennsylvania               39
+Rhode Island               45
+South Carolina             43
+South Dakota               34
+Tennessee                  42
+Texas                      44
+Utah                       55
+Vermont                    47
+Virginia                   35
+Washington                 45
+West Virginia              31
+Wisconsin                  37
+Wyoming                    40

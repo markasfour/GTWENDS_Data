@@ -1,0 +1,10 @@
+                      djangocon
+geoName                        
+California                   50
+District of Columbia         97
+Illinois                     28
+Oregon                      100
+Pennsylvania                 69
+Texas                        38
+Virginia                     47
+Washington                   75

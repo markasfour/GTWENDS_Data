@@ -1,53 +1,53 @@
                       Trump Twitter
 geoName                            
-Alabama                          48
-Alaska                           41
-Arizona                          56
+Alabama                          49
+Alaska                           39
+Arizona                          54
 Arkansas                         45
-California                       64
+California                       65
 Colorado                         61
 Connecticut                      84
-Delaware                         68
+Delaware                         66
 District of Columbia            100
 Florida                          58
 Georgia                          47
-Hawaii                           38
+Hawaii                           39
 Idaho                            44
-Illinois                         65
-Indiana                          56
-Iowa                             56
-Kansas                           39
-Kentucky                         44
+Illinois                         66
+Indiana                          55
+Iowa                             54
+Kansas                           38
+Kentucky                         43
 Louisiana                        42
-Maine                            65
-Maryland                         82
-Massachusetts                    85
+Maine                            64
+Maryland                         83
+Massachusetts                    83
 Michigan                         59
-Minnesota                        62
+Minnesota                        61
 Mississippi                      31
 Missouri                         50
-Montana                          51
-Nebraska                         55
+Montana                          50
+Nebraska                         53
 Nevada                           58
-New Hampshire                    74
-New Jersey                       80
-New Mexico                       49
-New York                         84
-North Carolina                   56
-North Dakota                     47
-Ohio                             59
-Oklahoma                         38
+New Hampshire                    71
+New Jersey                       79
+New Mexico                       51
+New York                         83
+North Carolina                   54
+North Dakota                     48
+Ohio                             58
+Oklahoma                         37
 Oregon                           57
-Pennsylvania                     72
-Rhode Island                     79
+Pennsylvania                     74
+Rhode Island                     80
 South Carolina                   49
 South Dakota                     45
 Tennessee                        52
 Texas                            44
 Utah                             46
-Vermont                          76
+Vermont                          74
 Virginia                         55
 Washington                       72
-West Virginia                    50
-Wisconsin                        50
-Wyoming                          50
+West Virginia                    52
+Wisconsin                        51
+Wyoming                          48

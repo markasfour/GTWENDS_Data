@@ -1,0 +1,53 @@
+                      Gallup
+geoName                     
+Alabama                    1
+Alaska                     1
+Arizona                   10
+Arkansas                   1
+California                 2
+Colorado                   3
+Connecticut                1
+Delaware                   1
+District of Columbia       3
+Florida                    1
+Georgia                    1
+Hawaii                     1
+Idaho                      1
+Illinois                   1
+Indiana                    1
+Iowa                       2
+Kansas                     2
+Kentucky                   1
+Louisiana                  1
+Maine                      1
+Maryland                   2
+Massachusetts              1
+Michigan                   2
+Minnesota                  2
+Mississippi                1
+Missouri                   2
+Montana                    2
+Nebraska                   7
+Nevada                     6
+New Hampshire              1
+New Jersey                 1
+New Mexico               100
+New York                   1
+North Carolina             1
+North Dakota               1
+Ohio                       1
+Oklahoma                   2
+Oregon                     1
+Pennsylvania               1
+Rhode Island               1
+South Carolina             1
+South Dakota               2
+Tennessee                  1
+Texas                      2
+Utah                       2
+Vermont                    2
+Virginia                   1
+Washington                 1
+West Virginia              1
+Wisconsin                  1
+Wyoming                    2

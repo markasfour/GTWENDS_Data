@@ -1,53 +1,53 @@
                       Justin Thomas
 geoName                            
-Alabama                          95
-Alaska                           14
+Alabama                          91
+Alaska                           12
 Arizona                          30
-Arkansas                         34
-California                       25
+Arkansas                         32
+California                       24
 Colorado                         27
-Connecticut                      41
-Delaware                         38
+Connecticut                      36
+Delaware                         33
 District of Columbia             37
 Florida                          34
 Georgia                          60
-Hawaii                           33
-Idaho                            22
-Illinois                         34
+Hawaii                           34
+Idaho                            26
+Illinois                         33
 Indiana                          40
-Iowa                             38
-Kansas                           31
+Iowa                             41
+Kansas                           28
 Kentucky                        100
-Louisiana                        43
-Maine                            26
-Maryland                         34
+Louisiana                        42
+Maine                            27
+Maryland                         33
 Massachusetts                    33
-Michigan                         33
-Minnesota                        38
-Mississippi                      43
+Michigan                         34
+Minnesota                        37
+Mississippi                      41
 Missouri                         33
-Montana                          33
-Nebraska                         42
-Nevada                           28
-New Hampshire                    31
+Montana                          36
+Nebraska                         40
+Nevada                           25
+New Hampshire                    26
 New Jersey                       33
 New Mexico                       22
-New York                         32
-North Carolina                   39
-North Dakota                     42
-Ohio                             46
-Oklahoma                         33
-Oregon                           21
+New York                         33
+North Carolina                   40
+North Dakota                     37
+Ohio                             45
+Oklahoma                         31
+Oregon                           19
 Pennsylvania                     36
-Rhode Island                     35
-South Carolina                   46
-South Dakota                     32
-Tennessee                        41
-Texas                            31
+Rhode Island                     26
+South Carolina                   48
+South Dakota                     35
+Tennessee                        40
+Texas                            30
 Utah                             26
-Vermont                          30
-Virginia                         30
+Vermont                          29
+Virginia                         31
 Washington                       25
 West Virginia                    36
 Wisconsin                        35
-Wyoming                          31
+Wyoming                          24

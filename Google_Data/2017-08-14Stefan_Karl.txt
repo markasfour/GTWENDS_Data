@@ -1,53 +1,53 @@
                       Stefan Karl
 geoName                          
-Alabama                        69
-Alaska                         49
-Arizona                        53
-Arkansas                       51
-California                     60
-Colorado                       48
-Connecticut                    76
-Delaware                       75
-District of Columbia           27
+Alabama                        55
+Alaska                         62
+Arizona                        51
+Arkansas                       61
+California                     58
+Colorado                       52
+Connecticut                    68
+Delaware                       79
+District of Columbia           29
 Florida                        68
-Georgia                        48
-Hawaii                         31
-Idaho                          49
-Illinois                       55
+Georgia                        45
+Hawaii                         33
+Idaho                          38
+Illinois                       57
 Indiana                        70
-Iowa                           47
-Kansas                         44
-Kentucky                       59
-Louisiana                      49
-Maine                          91
-Maryland                       62
-Massachusetts                  54
+Iowa                           40
+Kansas                         47
+Kentucky                       54
+Louisiana                      55
+Maine                          81
+Maryland                       59
+Massachusetts                  63
 Michigan                       67
-Minnesota                      52
-Mississippi                    51
-Missouri                       52
+Minnesota                      51
+Mississippi                    46
+Missouri                       57
 Montana                        38
-Nebraska                       66
-Nevada                         79
+Nebraska                       72
+Nevada                         68
 New Hampshire                 100
 New Jersey                     81
 New Mexico                     59
-New York                       53
-North Carolina                 60
-North Dakota                   63
-Ohio                           68
-Oklahoma                       50
-Oregon                         52
-Pennsylvania                   69
-Rhode Island                   86
-South Carolina                 48
-South Dakota                   45
-Tennessee                      52
-Texas                          59
-Utah                           54
-Vermont                        37
-Virginia                       45
+New York                       54
+North Carolina                 53
+North Dakota                   44
+Ohio                           71
+Oklahoma                       57
+Oregon                         50
+Pennsylvania                   70
+Rhode Island                   90
+South Carolina                 57
+South Dakota                   56
+Tennessee                      54
+Texas                          58
+Utah                           51
+Vermont                        44
+Virginia                       47
 Washington                     49
-West Virginia                  78
-Wisconsin                      56
-Wyoming                        33
+West Virginia                  82
+Wisconsin                      54
+Wyoming                        66
