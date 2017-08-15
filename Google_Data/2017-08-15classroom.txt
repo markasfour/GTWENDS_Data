@@ -4,7 +4,7 @@ Alabama                      35
 Alaska                       11
 Arizona                      19
 Arkansas                    100
-California                   32
+California                   31
 Colorado                     29
 Connecticut                  51
 Delaware                     13
@@ -20,9 +20,9 @@ Kansas                       37
 Kentucky                     22
 Louisiana                    21
 Maine                        36
-Maryland                     33
+Maryland                     34
 Massachusetts                27
-Michigan                     31
+Michigan                     32
 Minnesota                    24
 Mississippi                  21
 Missouri                     45
@@ -34,20 +34,20 @@ New Jersey                   54
 New Mexico                   16
 New York                     20
 North Carolina               35
-North Dakota                 32
+North Dakota                 31
 Ohio                         38
 Oklahoma                     20
 Oregon                       20
 Pennsylvania                 24
 Rhode Island                 51
-South Carolina               54
+South Carolina               55
 South Dakota                 42
-Tennessee                    16
+Tennessee                    17
 Texas                        24
 Utah                         18
 Vermont                      32
 Virginia                     26
 Washington                   18
 West Virginia                 9
-Wisconsin                    45
+Wisconsin                    46
 Wyoming                      60

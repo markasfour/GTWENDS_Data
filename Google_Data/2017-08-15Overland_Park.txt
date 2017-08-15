@@ -1,0 +1,40 @@
+                      Overland Park
+geoName                            
+Alabama                           0
+Arizona                           0
+Arkansas                          1
+California                        0
+Colorado                          1
+Connecticut                       0
+District of Columbia              0
+Florida                           0
+Georgia                           0
+Idaho                             3
+Illinois                          2
+Indiana                           0
+Iowa                              2
+Kansas                          100
+Kentucky                          0
+Maryland                          0
+Massachusetts                     0
+Michigan                          0
+Minnesota                         2
+Missouri                         27
+Nebraska                          4
+Nevada                            0
+New Jersey                        0
+New Mexico                        0
+New York                          0
+North Carolina                    0
+Ohio                              0
+Oklahoma                          1
+Oregon                            0
+Pennsylvania                      0
+South Carolina                    0
+South Dakota                      1
+Tennessee                         1
+Texas                             1
+Utah                              0
+Virginia                          0
+Washington                        0
+Wisconsin                         1

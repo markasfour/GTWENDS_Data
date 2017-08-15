@@ -1,0 +1,53 @@
+                      Woodstock
+geoName                        
+Alabama                      11
+Alaska                        4
+Arizona                       3
+Arkansas                      4
+California                    4
+Colorado                      4
+Connecticut                  28
+Delaware                      5
+District of Columbia         12
+Florida                       5
+Georgia                      85
+Hawaii                        3
+Idaho                         3
+Illinois                     34
+Indiana                       6
+Iowa                          5
+Kansas                        5
+Kentucky                      8
+Louisiana                     4
+Maine                        14
+Maryland                      8
+Massachusetts                15
+Michigan                      6
+Minnesota                     5
+Mississippi                   9
+Missouri                      5
+Montana                       4
+Nebraska                      4
+Nevada                        3
+New Hampshire                41
+New Jersey                    7
+New Mexico                    3
+New York                     14
+North Carolina                5
+North Dakota                  3
+Ohio                          5
+Oklahoma                      4
+Oregon                       13
+Pennsylvania                  6
+Rhode Island                 16
+South Carolina                6
+South Dakota                  4
+Tennessee                     8
+Texas                         4
+Utah                          3
+Vermont                     100
+Virginia                     13
+Washington                    5
+West Virginia                 6
+Wisconsin                     9
+Wyoming                       4

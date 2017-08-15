@@ -1,0 +1,29 @@
+                      I-24
+geoName                   
+Alabama                 10
+California               1
+Colorado                 3
+Connecticut              1
+District of Columbia     2
+Florida                  4
+Georgia                 15
+Illinois                 7
+Indiana                  7
+Kentucky                29
+Louisiana                2
+Massachusetts            1
+Michigan                 2
+Minnesota                2
+Mississippi              4
+Missouri                 8
+New Jersey               1
+New York                 1
+North Carolina           4
+Ohio                     1
+Oklahoma                 2
+Pennsylvania             1
+South Carolina           5
+Tennessee              100
+Texas                    1
+Virginia                 1
+Wisconsin                3

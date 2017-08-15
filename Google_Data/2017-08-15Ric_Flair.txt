@@ -1,53 +1,53 @@
                       Ric Flair
 geoName                        
-Alabama                      69
+Alabama                      65
 Alaska                       24
-Arizona                      34
-Arkansas                     58
-California                   32
-Colorado                     27
-Connecticut                  47
-Delaware                     58
-District of Columbia         61
-Florida                      48
-Georgia                      76
-Hawaii                       30
-Idaho                        21
-Illinois                     54
-Indiana                      56
-Iowa                         48
-Kansas                       41
-Kentucky                     77
-Louisiana                    59
-Maine                        38
-Maryland                     54
-Massachusetts                49
-Michigan                     52
-Minnesota                    43
+Arizona                      33
+Arkansas                     56
+California                   31
+Colorado                     26
+Connecticut                  46
+Delaware                     54
+District of Columbia         58
+Florida                      46
+Georgia                      73
+Hawaii                       29
+Idaho                        20
+Illinois                     53
+Indiana                      55
+Iowa                         47
+Kansas                       39
+Kentucky                     74
+Louisiana                    57
+Maine                        37
+Maryland                     52
+Massachusetts                48
+Michigan                     49
+Minnesota                    42
 Mississippi                  65
 Missouri                     52
-Montana                      22
-Nebraska                     46
-Nevada                       41
-New Hampshire                41
-New Jersey                   54
-New Mexico                   31
-New York                     52
-North Carolina               88
-North Dakota                 46
-Ohio                         59
-Oklahoma                     45
-Oregon                       21
-Pennsylvania                 62
-Rhode Island                 59
-South Carolina               96
-South Dakota                 34
-Tennessee                    74
-Texas                        44
-Utah                         18
-Vermont                      29
-Virginia                     57
-Washington                   31
+Montana                      19
+Nebraska                     45
+Nevada                       40
+New Hampshire                40
+New Jersey                   52
+New Mexico                   29
+New York                     51
+North Carolina               87
+North Dakota                 45
+Ohio                         58
+Oklahoma                     43
+Oregon                       20
+Pennsylvania                 60
+Rhode Island                 57
+South Carolina               95
+South Dakota                 33
+Tennessee                    73
+Texas                        43
+Utah                         17
+Vermont                      27
+Virginia                     56
+Washington                   30
 West Virginia               100
-Wisconsin                    45
-Wyoming                      25
+Wisconsin                    44
+Wyoming                      22

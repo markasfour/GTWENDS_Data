@@ -1,53 +1,53 @@
                       liberals
 geoName                       
-Alabama                     76
-Alaska                      90
-Arizona                     73
-Arkansas                    72
-California                  64
-Colorado                    69
-Connecticut                 69
-Delaware                    67
-District of Columbia        65
-Florida                     61
-Georgia                     60
-Hawaii                      54
-Idaho                       84
-Illinois                    64
-Indiana                     79
-Iowa                        76
-Kansas                      70
-Kentucky                    72
-Louisiana                   64
-Maine                       78
-Maryland                    73
-Massachusetts               65
-Michigan                    74
-Minnesota                   71
-Mississippi                 69
-Missouri                    71
-Montana                     91
-Nebraska                    77
-Nevada                      71
-New Hampshire               71
-New Jersey                  64
-New Mexico                  71
-New York                    60
-North Carolina              66
-North Dakota                74
-Ohio                        73
-Oklahoma                    72
-Oregon                      57
-Pennsylvania                71
-Rhode Island                64
-South Carolina              64
-South Dakota                79
-Tennessee                   70
-Texas                       63
-Utah                        68
-Vermont                     77
-Virginia                    63
-Washington                  76
-West Virginia               82
-Wisconsin                   74
-Wyoming                    100
+Alabama                     84
+Alaska                      98
+Arizona                     80
+Arkansas                    81
+California                  71
+Colorado                    78
+Connecticut                 77
+Delaware                    81
+District of Columbia        75
+Florida                     70
+Georgia                     65
+Hawaii                      62
+Idaho                       94
+Illinois                    73
+Indiana                     88
+Iowa                        80
+Kansas                      81
+Kentucky                    82
+Louisiana                   70
+Maine                       87
+Maryland                    78
+Massachusetts               71
+Michigan                    83
+Minnesota                   79
+Mississippi                 75
+Missouri                    78
+Montana                    100
+Nebraska                    85
+Nevada                      81
+New Hampshire               77
+New Jersey                  72
+New Mexico                  75
+New York                    66
+North Carolina              76
+North Dakota                91
+Ohio                        83
+Oklahoma                    79
+Oregon                      64
+Pennsylvania                79
+Rhode Island                70
+South Carolina              76
+South Dakota                83
+Tennessee                   78
+Texas                       70
+Utah                        74
+Vermont                     84
+Virginia                    72
+Washington                  86
+West Virginia               91
+Wisconsin                   79
+Wyoming                     96

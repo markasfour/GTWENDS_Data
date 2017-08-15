@@ -1,53 +1,53 @@
                       Sonic Mania
 geoName                          
-Alabama                        71
-Alaska                         47
-Arizona                        60
-Arkansas                       60
-California                     59
-Colorado                       42
+Alabama                        72
+Alaska                         44
+Arizona                        61
+Arkansas                       63
+California                     56
+Colorado                       45
 Connecticut                   100
-Delaware                       92
-District of Columbia           42
-Florida                        69
-Georgia                        63
-Hawaii                         31
-Idaho                          41
+Delaware                       83
+District of Columbia           32
+Florida                        67
+Georgia                        66
+Hawaii                         24
+Idaho                          37
 Illinois                       66
 Indiana                        78
-Iowa                           53
-Kansas                         41
-Kentucky                       80
-Louisiana                      45
-Maine                          59
-Maryland                       75
-Massachusetts                  51
-Michigan                       81
-Minnesota                      48
-Mississippi                    73
-Missouri                       50
-Montana                        34
-Nebraska                       53
-Nevada                         63
-New Hampshire                  73
-New Jersey                     82
-New Mexico                     52
-New York                       64
-North Carolina                 66
-North Dakota                   39
-Ohio                           77
-Oklahoma                       58
-Oregon                         39
-Pennsylvania                   72
-Rhode Island                   83
+Iowa                           48
+Kansas                         33
+Kentucky                       70
+Louisiana                      59
+Maine                          61
+Maryland                       76
+Massachusetts                  55
+Michigan                       75
+Minnesota                      54
+Mississippi                    83
+Missouri                       48
+Montana                        46
+Nebraska                       46
+Nevada                         72
+New Hampshire                  67
+New Jersey                     90
+New Mexico                     60
+New York                       61
+North Carolina                 71
+North Dakota                   32
+Ohio                           80
+Oklahoma                       55
+Oregon                         45
+Pennsylvania                   78
+Rhode Island                   84
 South Carolina                 76
-South Dakota                   46
-Tennessee                      59
-Texas                          60
-Utah                           58
-Vermont                        39
-Virginia                       63
-Washington                     53
-West Virginia                  75
-Wisconsin                      67
-Wyoming                        43
+South Dakota                   54
+Tennessee                      65
+Texas                          58
+Utah                           55
+Vermont                        43
+Virginia                       59
+Washington                     55
+West Virginia                  93
+Wisconsin                      58
+Wyoming                        32

@@ -1,0 +1,53 @@
+                      Dick's Sporting Goods
+geoName                                    
+Alabama                                  58
+Alaska                                    6
+Arizona                                  34
+Arkansas                                 30
+California                               28
+Colorado                                 52
+Connecticut                              61
+Delaware                                 78
+District of Columbia                     63
+Florida                                  42
+Georgia                                  52
+Hawaii                                   11
+Idaho                                    43
+Illinois                                 66
+Indiana                                  79
+Iowa                                     57
+Kansas                                   69
+Kentucky                                 81
+Louisiana                                37
+Maine                                    74
+Maryland                                 64
+Massachusetts                            68
+Michigan                                 74
+Minnesota                                61
+Mississippi                              53
+Missouri                                 63
+Montana                                   9
+Nebraska                                 51
+Nevada                                   22
+New Hampshire                            74
+New Jersey                               58
+New Mexico                               38
+New York                                 52
+North Carolina                           79
+North Dakota                             21
+Ohio                                     98
+Oklahoma                                 54
+Oregon                                   29
+Pennsylvania                             93
+Rhode Island                             74
+South Carolina                           65
+South Dakota                             35
+Tennessee                                63
+Texas                                    29
+Utah                                     35
+Vermont                                  86
+Virginia                                 64
+Washington                               25
+West Virginia                           100
+Wisconsin                                60
+Wyoming                                  36

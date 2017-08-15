@@ -1,0 +1,45 @@
+                      Retail Sales
+geoName                           
+Alabama                         74
+Arizona                         78
+Arkansas                        90
+California                      77
+Colorado                        84
+Connecticut                     75
+District of Columbia            73
+Florida                         75
+Georgia                         76
+Hawaii                          88
+Idaho                           61
+Illinois                        76
+Indiana                         74
+Iowa                            67
+Kansas                          70
+Kentucky                        59
+Louisiana                       69
+Maine                           68
+Maryland                        73
+Massachusetts                   66
+Michigan                        63
+Minnesota                       68
+Mississippi                     75
+Missouri                        82
+Nebraska                        62
+Nevada                          78
+New Hampshire                   71
+New Jersey                      78
+New Mexico                      65
+New York                       100
+North Carolina                  82
+Ohio                            72
+Oklahoma                        62
+Oregon                          56
+Pennsylvania                    66
+Rhode Island                    91
+South Carolina                  87
+Tennessee                       70
+Texas                           67
+Utah                            62
+Virginia                        75
+Washington                      86
+Wisconsin                       67
