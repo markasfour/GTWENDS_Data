@@ -1,0 +1,53 @@
+                      Colbert
+geoName                      
+Alabama                    73
+Alaska                     57
+Arizona                    42
+Arkansas                   33
+California                 52
+Colorado                   58
+Connecticut                59
+Delaware                   45
+District of Columbia       73
+Florida                    35
+Georgia                    42
+Hawaii                     47
+Idaho                      50
+Illinois                   50
+Indiana                    42
+Iowa                       49
+Kansas                     43
+Kentucky                   36
+Louisiana                  36
+Maine                      67
+Maryland                   57
+Massachusetts              69
+Michigan                   42
+Minnesota                  55
+Mississippi                27
+Missouri                   44
+Montana                    65
+Nebraska                   44
+Nevada                     36
+New Hampshire              61
+New Jersey                 51
+New Mexico                 53
+New York                   64
+North Carolina             42
+North Dakota               36
+Ohio                       43
+Oklahoma                   49
+Oregon                     59
+Pennsylvania               49
+Rhode Island               58
+South Carolina             41
+South Dakota               42
+Tennessee                  38
+Texas                      34
+Utah                       54
+Vermont                   100
+Virginia                   48
+Washington                 73
+West Virginia              35
+Wisconsin                  53
+Wyoming                    46

@@ -1,0 +1,53 @@
+                      Burkina Faso
+geoName                           
+Alabama                         15
+Alaska                          21
+Arizona                         18
+Arkansas                        21
+California                      20
+Colorado                        25
+Connecticut                     30
+Delaware                        32
+District of Columbia           100
+Florida                         21
+Georgia                         25
+Hawaii                          22
+Idaho                           19
+Illinois                        23
+Indiana                         27
+Iowa                            27
+Kansas                          22
+Kentucky                        18
+Louisiana                       17
+Maine                           30
+Maryland                        55
+Massachusetts                   34
+Michigan                        20
+Minnesota                       29
+Mississippi                     14
+Missouri                        23
+Montana                         22
+Nebraska                        40
+Nevada                          17
+New Hampshire                   27
+New Jersey                      32
+New Mexico                      23
+New York                        42
+North Carolina                  22
+North Dakota                    20
+Ohio                            23
+Oklahoma                        22
+Oregon                          27
+Pennsylvania                    28
+Rhode Island                    23
+South Carolina                  18
+South Dakota                    29
+Tennessee                       17
+Texas                           22
+Utah                            22
+Vermont                         42
+Virginia                        39
+Washington                      28
+West Virginia                   20
+Wisconsin                       26
+Wyoming                         18

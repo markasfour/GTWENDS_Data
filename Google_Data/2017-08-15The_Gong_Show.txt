@@ -1,0 +1,53 @@
+                      The Gong Show
+geoName                            
+Alabama                          62
+Alaska                           60
+Arizona                          62
+Arkansas                         86
+California                       59
+Colorado                         59
+Connecticut                      71
+Delaware                         90
+District of Columbia             49
+Florida                          64
+Georgia                          47
+Hawaii                           50
+Idaho                            54
+Illinois                         79
+Indiana                          88
+Iowa                             83
+Kansas                           64
+Kentucky                         68
+Louisiana                        71
+Maine                            71
+Maryland                         45
+Massachusetts                    67
+Michigan                         75
+Minnesota                        73
+Mississippi                      61
+Missouri                         74
+Montana                          73
+Nebraska                         83
+Nevada                           61
+New Hampshire                   100
+New Jersey                       75
+New Mexico                       67
+New York                         58
+North Carolina                   59
+North Dakota                     62
+Ohio                             87
+Oklahoma                         84
+Oregon                           51
+Pennsylvania                     79
+Rhode Island                     77
+South Carolina                   61
+South Dakota                     73
+Tennessee                        71
+Texas                            56
+Utah                             55
+Vermont                          64
+Virginia                         42
+Washington                       67
+West Virginia                    71
+Wisconsin                        96
+Wyoming                          53

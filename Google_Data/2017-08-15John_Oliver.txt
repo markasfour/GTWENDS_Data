@@ -1,0 +1,53 @@
+                      John Oliver
+geoName                          
+Alabama                        26
+Alaska                         58
+Arizona                        40
+Arkansas                       27
+California                     53
+Colorado                       61
+Connecticut                    61
+Delaware                       52
+District of Columbia           87
+Florida                        31
+Georgia                        30
+Hawaii                         42
+Idaho                          40
+Illinois                       48
+Indiana                        40
+Iowa                           41
+Kansas                         32
+Kentucky                       31
+Louisiana                      27
+Maine                          72
+Maryland                       62
+Massachusetts                  78
+Michigan                       42
+Minnesota                      52
+Mississippi                    18
+Missouri                       37
+Montana                        57
+Nebraska                       37
+Nevada                         34
+New Hampshire                  64
+New Jersey                     53
+New Mexico                     47
+New York                       68
+North Carolina                 36
+North Dakota                   33
+Ohio                           39
+Oklahoma                       29
+Oregon                         62
+Pennsylvania                   51
+Rhode Island                   63
+South Carolina                 29
+South Dakota                   31
+Tennessee                      32
+Texas                          30
+Utah                           51
+Vermont                       100
+Virginia                       45
+Washington                     68
+West Virginia                  30
+Wisconsin                      48
+Wyoming                        46

@@ -1,0 +1,53 @@
+                      Jason Jordan
+geoName                           
+Alabama                         99
+Alaska                          34
+Arizona                         69
+Arkansas                        78
+California                      64
+Colorado                        63
+Connecticut                     83
+Delaware                        68
+District of Columbia            77
+Florida                         70
+Georgia                         83
+Hawaii                          74
+Idaho                           62
+Illinois                        83
+Indiana                         93
+Iowa                            98
+Kansas                          57
+Kentucky                        83
+Louisiana                       72
+Maine                           58
+Maryland                        88
+Massachusetts                   77
+Michigan                        78
+Minnesota                       76
+Mississippi                     97
+Missouri                        81
+Montana                         48
+Nebraska                        83
+Nevada                          78
+New Hampshire                   64
+New Jersey                      94
+New Mexico                      58
+New York                        87
+North Carolina                  84
+North Dakota                    80
+Ohio                            86
+Oklahoma                        70
+Oregon                          48
+Pennsylvania                   100
+Rhode Island                    75
+South Carolina                  90
+South Dakota                    70
+Tennessee                       87
+Texas                           73
+Utah                            86
+Vermont                         75
+Virginia                        67
+Washington                      59
+West Virginia                   84
+Wisconsin                       75
+Wyoming                         55

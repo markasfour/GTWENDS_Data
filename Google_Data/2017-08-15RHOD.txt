@@ -1,0 +1,40 @@
+                      RHOD
+geoName                   
+Alabama                  4
+Arizona                  5
+Arkansas                 3
+California               5
+Colorado                 4
+Connecticut              9
+District of Columbia     7
+Florida                  4
+Georgia                  4
+Illinois                 4
+Indiana                  4
+Iowa                     4
+Kansas                   3
+Kentucky                 3
+Louisiana                4
+Maryland                 6
+Massachusetts           11
+Michigan                 4
+Minnesota                4
+Mississippi              3
+Missouri                 5
+Nebraska                 3
+Nevada                   6
+New Jersey               5
+New York                 5
+North Carolina           4
+Ohio                     5
+Oklahoma                 4
+Oregon                   5
+Pennsylvania             4
+Rhode Island           100
+South Carolina           3
+Tennessee                4
+Texas                    7
+Utah                     5
+Virginia                 4
+Washington               6
+Wisconsin                4
