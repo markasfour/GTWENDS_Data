@@ -1,0 +1,53 @@
+                      CinemaSins
+geoName                         
+Alabama                       63
+Alaska                        71
+Arizona                       68
+Arkansas                      74
+California                    62
+Colorado                      66
+Connecticut                   69
+Delaware                      58
+District of Columbia          50
+Florida                       51
+Georgia                       52
+Hawaii                        51
+Idaho                         72
+Illinois                      58
+Indiana                       80
+Iowa                          86
+Kansas                        59
+Kentucky                      52
+Louisiana                     40
+Maine                         86
+Maryland                      93
+Massachusetts                 70
+Michigan                      63
+Minnesota                     66
+Mississippi                   60
+Missouri                      67
+Montana                       83
+Nebraska                      73
+Nevada                        61
+New Hampshire                100
+New Jersey                    71
+New Mexico                    93
+New York                      59
+North Carolina                58
+North Dakota                  39
+Ohio                          80
+Oklahoma                      58
+Oregon                        66
+Pennsylvania                  74
+Rhode Island                  82
+South Carolina                66
+South Dakota                  55
+Tennessee                     57
+Texas                         54
+Utah                          73
+Vermont                       97
+Virginia                      75
+Washington                    72
+West Virginia                 66
+Wisconsin                     95
+Wyoming                       54

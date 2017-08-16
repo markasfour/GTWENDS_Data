@@ -1,45 +1,44 @@
                       Ken Frazier
 geoName                          
-Alabama                        15
-Arizona                        16
+Alabama                        13
+Arizona                        18
 Arkansas                       28
-California                     17
-Colorado                       22
+California                     18
+Colorado                       20
 Connecticut                    19
-Delaware                       17
-District of Columbia           67
-Florida                        17
-Georgia                        15
+Delaware                       33
+District of Columbia           78
+Florida                        20
+Georgia                        23
 Hawaii                         21
-Illinois                       15
-Indiana                        12
-Iowa                           18
-Kansas                         13
-Kentucky                       28
-Louisiana                      14
-Maine                          32
-Maryland                       30
-Massachusetts                  22
-Michigan                       12
-Minnesota                      15
-Mississippi                    24
-Missouri                       13
-Nebraska                       14
-Nevada                         18
+Illinois                       18
+Indiana                        17
+Iowa                           20
+Kansas                         11
+Kentucky                       29
+Louisiana                       7
+Maryland                       33
+Massachusetts                  21
+Michigan                       17
+Minnesota                      16
+Mississippi                    21
+Missouri                       10
+Nebraska                       34
+Nevada                         29
 New Hampshire                  10
-New Jersey                     65
-New Mexico                      9
-New York                       29
-North Carolina                 45
-Ohio                           20
-Oklahoma                       28
+New Jersey                     66
+New Mexico                     13
+New York                       33
+North Carolina                 48
+Ohio                           27
+Oklahoma                       18
 Oregon                         12
 Pennsylvania                  100
 Rhode Island                   12
-South Carolina                 10
-Tennessee                      20
-Texas                          15
+South Carolina                 16
+Tennessee                      17
+Texas                          18
 Utah                           14
 Virginia                       21
-Washington                      9
-Wisconsin                      11
+Washington                     13
+Wisconsin                      14

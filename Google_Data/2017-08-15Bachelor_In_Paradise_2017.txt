@@ -1,53 +1,53 @@
                       Bachelor In Paradise 2017
 geoName                                        
-Alabama                                      52
-Alaska                                       55
-Arizona                                      55
-Arkansas                                     92
-California                                   49
-Colorado                                     65
-Connecticut                                  64
-Delaware                                     58
-District of Columbia                         39
-Florida                                      43
+Alabama                                      58
+Alaska                                       46
+Arizona                                      59
+Arkansas                                     83
+California                                   51
+Colorado                                     62
+Connecticut                                  62
+Delaware                                     53
+District of Columbia                         43
+Florida                                      42
 Georgia                                      45
-Hawaii                                       29
-Idaho                                        78
-Illinois                                     58
-Indiana                                      61
-Iowa                                         61
-Kansas                                       70
-Kentucky                                     43
-Louisiana                                    43
-Maine                                        65
+Hawaii                                       24
+Idaho                                        83
+Illinois                                     61
+Indiana                                      60
+Iowa                                         63
+Kansas                                       54
+Kentucky                                     46
+Louisiana                                    51
+Maine                                        55
 Maryland                                     48
-Massachusetts                                53
+Massachusetts                                55
 Michigan                                     60
 Minnesota                                    80
-Mississippi                                  39
-Missouri                                     72
-Montana                                      52
-Nebraska                                     73
-Nevada                                       39
-New Hampshire                                70
-New Jersey                                   53
-New Mexico                                   39
-New York                                     41
+Mississippi                                  43
+Missouri                                     70
+Montana                                      60
+Nebraska                                     87
+Nevada                                       44
+New Hampshire                                69
+New Jersey                                   59
+New Mexico                                   48
+New York                                     43
 North Carolina                               54
-North Dakota                                 45
-Ohio                                         60
+North Dakota                                 74
+Ohio                                         63
 Oklahoma                                     48
-Oregon                                       51
-Pennsylvania                                 60
-Rhode Island                                 50
-South Carolina                               51
-South Dakota                                 81
-Tennessee                                    63
-Texas                                        46
+Oregon                                       47
+Pennsylvania                                 59
+Rhode Island                                 61
+South Carolina                               47
+South Dakota                                 72
+Tennessee                                    71
+Texas                                        45
 Utah                                        100
-Vermont                                      54
-Virginia                                     32
-Washington                                   64
-West Virginia                                47
-Wisconsin                                    72
-Wyoming                                      63
+Vermont                                      52
+Virginia                                     37
+Washington                                   61
+West Virginia                                45
+Wisconsin                                    74
+Wyoming                                      60

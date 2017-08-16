@@ -1,0 +1,45 @@
+                      CSRs
+geoName                   
+Alabama                 24
+Arizona                 16
+Arkansas                14
+California              14
+Colorado                22
+Connecticut             12
+District of Columbia   100
+Florida                 16
+Georgia                 19
+Hawaii                  33
+Idaho                   20
+Illinois                15
+Indiana                 15
+Iowa                    15
+Kansas                  20
+Kentucky                17
+Louisiana               43
+Maine                   15
+Maryland                71
+Massachusetts           12
+Michigan                12
+Minnesota               15
+Mississippi             24
+Missouri                23
+Nebraska                17
+Nevada                  18
+New Jersey              16
+New Mexico              31
+New York                12
+North Carolina          23
+Ohio                    15
+Oklahoma                32
+Oregon                  13
+Pennsylvania            19
+Rhode Island            16
+South Carolina          16
+Tennessee               18
+Texas                   14
+Utah                    18
+Virginia                48
+Washington              21
+West Virginia           25
+Wisconsin               11

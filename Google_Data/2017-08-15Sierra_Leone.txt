@@ -1,53 +1,53 @@
                       Sierra Leone
 geoName                           
 Alabama                         15
-Alaska                          25
-Arizona                         22
-Arkansas                        18
+Alaska                          24
+Arizona                         20
+Arkansas                        17
 California                      21
 Colorado                        24
-Connecticut                     28
-Delaware                        40
+Connecticut                     29
+Delaware                        47
 District of Columbia           100
 Florida                         18
-Georgia                         30
+Georgia                         29
 Hawaii                          18
-Idaho                           21
+Idaho                           23
 Illinois                        23
 Indiana                         25
 Iowa                            27
-Kansas                          18
-Kentucky                        19
-Louisiana                       17
-Maine                           27
+Kansas                          19
+Kentucky                        18
+Louisiana                       20
+Maine                           28
 Maryland                        98
-Massachusetts                   36
-Michigan                        21
+Massachusetts                   35
+Michigan                        22
 Minnesota                       33
-Mississippi                     16
+Mississippi                     15
 Missouri                        20
-Montana                         18
-Nebraska                        19
+Montana                         19
+Nebraska                        18
 Nevada                          18
-New Hampshire                   31
-New Jersey                      37
-New Mexico                      17
-New York                        33
+New Hampshire                   30
+New Jersey                      36
+New Mexico                      16
+New York                        32
 North Carolina                  26
-North Dakota                    28
-Ohio                            26
-Oklahoma                        18
+North Dakota                    29
+Ohio                            27
+Oklahoma                        17
 Oregon                          22
 Pennsylvania                    38
-Rhode Island                    31
+Rhode Island                    33
 South Carolina                  19
-South Dakota                    20
-Tennessee                       17
+South Dakota                    19
+Tennessee                       18
 Texas                           22
 Utah                            23
-Vermont                         38
+Vermont                         34
 Virginia                        54
-Washington                      24
-West Virginia                   20
-Wisconsin                       24
+Washington                      23
+West Virginia                   17
+Wisconsin                       25
 Wyoming                         17

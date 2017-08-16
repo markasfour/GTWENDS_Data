@@ -10,38 +10,38 @@ Connecticut                  40
 Delaware                    100
 District of Columbia          6
 Florida                      12
-Georgia                      19
+Georgia                      20
 Hawaii                        6
-Idaho                        44
+Idaho                        45
 Illinois                     21
 Indiana                      17
 Iowa                         24
 Kansas                       12
 Kentucky                     15
-Louisiana                    16
+Louisiana                    17
 Maine                         9
-Maryland                      6
-Massachusetts                13
+Maryland                      7
+Massachusetts                14
 Michigan                     26
-Minnesota                    86
+Minnesota                    87
 Mississippi                  10
-Missouri                     21
+Missouri                     22
 Montana                       8
 Nebraska                     18
 Nevada                       14
 New Hampshire                 7
 New Jersey                   13
 New Mexico                   10
-New York                     10
-North Carolina               18
+New York                     11
+North Carolina               19
 North Dakota                  9
 Ohio                         55
 Oklahoma                      8
 Oregon                       11
 Pennsylvania                 27
 Rhode Island                  6
-South Carolina               24
-South Dakota                 23
+South Carolina               25
+South Dakota                 22
 Tennessee                     9
 Texas                        19
 Utah                          7
@@ -50,4 +50,4 @@ Virginia                     11
 Washington                   14
 West Virginia                28
 Wisconsin                    24
-Wyoming                      34
+Wyoming                      33

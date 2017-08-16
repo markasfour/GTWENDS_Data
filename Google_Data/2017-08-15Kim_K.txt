@@ -1,53 +1,53 @@
                       Kim K
 geoName                    
 Alabama                  60
-Alaska                   55
-Arizona                  94
+Alaska                   58
+Arizona                  93
 Arkansas                 55
 California              100
 Colorado                 59
-Connecticut              82
-Delaware                 76
-District of Columbia     89
+Connecticut              81
+Delaware                 75
+District of Columbia     86
 Florida                  75
 Georgia                  75
-Hawaii                   86
+Hawaii                   83
 Idaho                    46
 Illinois                 78
-Indiana                  59
-Iowa                     50
-Kansas                   57
-Kentucky                 72
-Louisiana                74
-Maine                    48
-Maryland                 76
-Massachusetts            76
-Michigan                 75
-Minnesota                60
-Mississippi              67
-Missouri                 60
-Montana                  42
-Nebraska                 62
-Nevada                   96
-New Hampshire            54
+Indiana                  60
+Iowa                     51
+Kansas                   56
+Kentucky                 70
+Louisiana                75
+Maine                    46
+Maryland                 78
+Massachusetts            75
+Michigan                 77
+Minnesota                58
+Mississippi              70
+Missouri                 61
+Montana                  40
+Nebraska                 65
+Nevada                   98
+New Hampshire            51
 New Jersey               90
-New Mexico               86
-New York                 90
-North Carolina           73
-North Dakota             54
+New Mexico               85
+New York                 89
+North Carolina           71
+North Dakota             55
 Ohio                     66
-Oklahoma                 65
+Oklahoma                 67
 Oregon                   44
-Pennsylvania             74
-Rhode Island             98
-South Carolina           67
-South Dakota             49
-Tennessee                66
-Texas                    84
+Pennsylvania             73
+Rhode Island             99
+South Carolina           66
+South Dakota             46
+Tennessee                65
+Texas                    83
 Utah                     50
-Vermont                  46
+Vermont                  43
 Virginia                 64
-Washington               64
-West Virginia            71
+Washington               63
+West Virginia            70
 Wisconsin                54
-Wyoming                  41
+Wyoming                  39

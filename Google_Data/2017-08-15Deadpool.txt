@@ -1,28 +1,28 @@
                       Deadpool
 geoName                       
-Alabama                     80
-Alaska                      92
-Arizona                     91
-Arkansas                    91
-California                  84
+Alabama                     79
+Alaska                      90
+Arizona                     92
+Arkansas                    90
+California                  83
 Colorado                    84
 Connecticut                 70
-Delaware                    78
+Delaware                    77
 District of Columbia        62
 Florida                     79
 Georgia                     72
 Hawaii                      72
-Idaho                       91
+Idaho                       90
 Illinois                    77
 Indiana                     96
-Iowa                        88
+Iowa                        87
 Kansas                      78
-Kentucky                    80
-Louisiana                   72
-Maine                       73
-Maryland                    74
+Kentucky                    79
+Louisiana                   70
+Maine                       74
+Maryland                    73
 Massachusetts               63
-Michigan                    86
+Michigan                    85
 Minnesota                   66
 Mississippi                 72
 Missouri                    82
@@ -33,21 +33,21 @@ New Hampshire               73
 New Jersey                  75
 New Mexico                 100
 New York                    68
-North Carolina              75
+North Carolina              74
 North Dakota                84
 Ohio                        82
-Oklahoma                    85
-Oregon                      64
-Pennsylvania                75
-Rhode Island                76
+Oklahoma                    84
+Oregon                      63
+Pennsylvania                76
+Rhode Island                77
 South Carolina              77
-South Dakota                83
+South Dakota                82
 Tennessee                   80
 Texas                       87
-Utah                        94
-Vermont                     69
+Utah                        93
+Vermont                     70
 Virginia                    64
-Washington                  80
-West Virginia               89
-Wisconsin                   76
-Wyoming                     93
+Washington                  79
+West Virginia               88
+Wisconsin                   75
+Wyoming                     91

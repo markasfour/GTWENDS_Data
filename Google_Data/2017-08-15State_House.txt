@@ -1,0 +1,29 @@
+                State House
+geoName                    
+California               28
+Colorado                 36
+Connecticut              56
+Florida                  34
+Georgia                  44
+Illinois                 42
+Indiana                  55
+Kentucky                 41
+Maryland                 47
+Massachusetts            80
+Michigan                 49
+Minnesota                43
+Missouri                 49
+New Hampshire            78
+New Jersey               46
+New York                 39
+North Carolina           45
+Ohio                     64
+Oklahoma                 45
+Oregon                   37
+Pennsylvania             62
+Rhode Island            100
+South Carolina           68
+Tennessee                40
+Texas                    32
+Virginia                 39
+Washington               82
