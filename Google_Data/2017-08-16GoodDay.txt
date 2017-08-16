@@ -1,0 +1,14 @@
+              GoodDay
+geoName              
+California        100
+Colorado           95
+Florida            28
+Georgia            43
+Illinois           26
+Michigan           24
+New Jersey         46
+New York           37
+Oregon             33
+Pennsylvania       35
+Texas              30
+Virginia           50

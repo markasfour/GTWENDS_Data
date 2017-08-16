@@ -1,0 +1,53 @@
+                      Skyway
+geoName                     
+Alabama                    7
+Alaska                     4
+Arizona                    7
+Arkansas                   4
+California                 9
+Colorado                  13
+Connecticut                6
+Delaware                   5
+District of Columbia       6
+Florida                   54
+Georgia                    9
+Hawaii                     4
+Idaho                     15
+Illinois                  15
+Indiana                   11
+Iowa                       7
+Kansas                     6
+Kentucky                   7
+Louisiana                  4
+Maine                      6
+Maryland                   5
+Massachusetts              5
+Michigan                   9
+Minnesota                100
+Mississippi                5
+Missouri                   6
+Montana                    7
+Nebraska                   7
+Nevada                     4
+New Hampshire              5
+New Jersey                16
+New Mexico                 5
+New York                  11
+North Carolina             9
+North Dakota              17
+Ohio                      13
+Oklahoma                   8
+Oregon                     8
+Pennsylvania               6
+Rhode Island               4
+South Carolina             7
+South Dakota              11
+Tennessee                 14
+Texas                      6
+Utah                       4
+Vermont                    4
+Virginia                   4
+Washington                29
+West Virginia              5
+Wisconsin                 16
+Wyoming                    4

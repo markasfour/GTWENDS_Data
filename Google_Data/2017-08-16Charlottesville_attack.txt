@@ -1,0 +1,52 @@
+                      Charlottesville attack
+geoName                                     
+Alabama                                   11
+Arizona                                   11
+Arkansas                                  16
+California                                10
+Colorado                                  18
+Connecticut                                6
+Delaware                                  31
+District of Columbia                      30
+Florida                                   10
+Georgia                                   11
+Hawaii                                    15
+Idaho                                     11
+Illinois                                  13
+Indiana                                   12
+Iowa                                      11
+Kansas                                     8
+Kentucky                                  14
+Louisiana                                  9
+Maine                                     24
+Maryland                                  17
+Massachusetts                             12
+Michigan                                  10
+Minnesota                                 17
+Mississippi                               18
+Missouri                                  15
+Montana                                   56
+Nebraska                                  18
+Nevada                                    10
+New Hampshire                             22
+New Jersey                                11
+New Mexico                                13
+New York                                   8
+North Carolina                            16
+North Dakota                              23
+Ohio                                      12
+Oklahoma                                  13
+Oregon                                    13
+Pennsylvania                              12
+Rhode Island                              22
+South Carolina                            11
+South Dakota                              24
+Tennessee                                 19
+Texas                                     10
+Utah                                      12
+Vermont                                   58
+Virginia                                 100
+Washington                                13
+West Virginia                             38
+Wisconsin                                  9
+Wyoming                                   35

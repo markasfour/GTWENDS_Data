@@ -1,0 +1,53 @@
+                      AGT
+geoName                  
+Alabama                51
+Alaska                 78
+Arizona                65
+Arkansas               62
+California             50
+Colorado               68
+Connecticut            73
+Delaware               75
+District of Columbia   46
+Florida                65
+Georgia                48
+Hawaii                 63
+Idaho                  83
+Illinois               63
+Indiana                78
+Iowa                   81
+Kansas                 56
+Kentucky               87
+Louisiana              49
+Maine                  90
+Maryland               66
+Massachusetts          77
+Michigan               71
+Minnesota              63
+Mississippi            55
+Missouri               65
+Montana                72
+Nebraska               64
+Nevada                 71
+New Hampshire          93
+New Jersey             79
+New Mexico             62
+New York               62
+North Carolina         61
+North Dakota           84
+Ohio                   71
+Oklahoma               62
+Oregon                 52
+Pennsylvania           86
+Rhode Island          100
+South Carolina         72
+South Dakota           65
+Tennessee              66
+Texas                  54
+Utah                   75
+Vermont                84
+Virginia               52
+Washington             69
+West Virginia          81
+Wisconsin              67
+Wyoming                61
