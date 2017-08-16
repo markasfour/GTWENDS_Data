@@ -5,29 +5,29 @@ Alaska                               7
 Arizona                             16
 Arkansas                           100
 California                          31
-Colorado                            27
-Connecticut                         47
+Colorado                            26
+Connecticut                         46
 Delaware                             8
-District of Columbia                 5
-Florida                              9
-Georgia                             16
+District of Columbia                 6
+Florida                              8
+Georgia                             15
 Hawaii                              33
-Idaho                               34
-Illinois                            28
+Idaho                               33
+Illinois                            27
 Indiana                             36
 Iowa                                47
-Kansas                              33
+Kansas                              32
 Kentucky                            19
 Louisiana                           17
 Maine                               33
-Maryland                            28
+Maryland                            29
 Massachusetts                       23
-Michigan                            28
+Michigan                            29
 Minnesota                           20
 Mississippi                         15
-Missouri                            40
+Missouri                            41
 Montana                             28
-Nebraska                            29
+Nebraska                            30
 Nevada                              25
 New Hampshire                       32
 New Jersey                          49
@@ -37,17 +37,17 @@ North Carolina                      33
 North Dakota                        25
 Ohio                                33
 Oklahoma                            16
-Oregon                              18
+Oregon                              17
 Pennsylvania                        19
 Rhode Island                        47
-South Carolina                      54
+South Carolina                      55
 South Dakota                        39
 Tennessee                           13
-Texas                               21
+Texas                               20
 Utah                                14
 Vermont                             26
 Virginia                            23
 Washington                          15
 West Virginia                        3
-Wisconsin                           40
-Wyoming                             53
+Wisconsin                           41
+Wyoming                             54

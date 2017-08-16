@@ -1,0 +1,53 @@
+                      Sonny Gray
+geoName                         
+Alabama                       24
+Alaska                        10
+Arizona                       32
+Arkansas                      15
+California                    69
+Colorado                      22
+Connecticut                   90
+Delaware                      34
+District of Columbia          39
+Florida                       24
+Georgia                       25
+Hawaii                        27
+Idaho                         20
+Illinois                      55
+Indiana                       34
+Iowa                          29
+Kansas                        25
+Kentucky                      28
+Louisiana                     17
+Maine                         46
+Maryland                      32
+Massachusetts                 56
+Michigan                      40
+Minnesota                     32
+Mississippi                   28
+Missouri                      33
+Montana                       28
+Nebraska                      36
+Nevada                        41
+New Hampshire                 40
+New Jersey                    81
+New Mexico                    17
+New York                      75
+North Carolina                26
+North Dakota                  20
+Ohio                          31
+Oklahoma                      22
+Oregon                        22
+Pennsylvania                  38
+Rhode Island                  60
+South Carolina                27
+South Dakota                  22
+Tennessee                    100
+Texas                         25
+Utah                          18
+Vermont                       47
+Virginia                      22
+Washington                    34
+West Virginia                 16
+Wisconsin                     44
+Wyoming                       23

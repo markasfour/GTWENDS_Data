@@ -1,53 +1,53 @@
                       Jimmy Fallon
 geoName                           
-Alabama                         54
-Alaska                          64
-Arizona                         64
-Arkansas                        57
+Alabama                         53
+Alaska                          61
+Arizona                         60
+Arkansas                        56
 California                      55
-Colorado                        75
+Colorado                        73
 Connecticut                     77
-Delaware                        69
-District of Columbia            71
+Delaware                        67
+District of Columbia            67
 Florida                         53
 Georgia                         48
-Hawaii                          60
-Idaho                           73
-Illinois                        67
-Indiana                         64
-Iowa                            76
+Hawaii                          61
+Idaho                           72
+Illinois                        64
+Indiana                         63
+Iowa                            74
 Kansas                          57
 Kentucky                        60
-Louisiana                       50
-Maine                           74
+Louisiana                       49
+Maine                           72
 Maryland                        63
-Massachusetts                   77
-Michigan                        63
-Minnesota                       76
+Massachusetts                   76
+Michigan                        62
+Minnesota                       75
 Mississippi                     46
 Missouri                        69
 Montana                         66
-Nebraska                        71
-Nevada                          54
-New Hampshire                   74
-New Jersey                      79
-New Mexico                      53
-New York                        81
-North Carolina                  55
-North Dakota                    69
-Ohio                            62
-Oklahoma                        69
-Oregon                          51
-Pennsylvania                    76
-Rhode Island                    84
-South Carolina                  55
+Nebraska                        69
+Nevada                          53
+New Hampshire                   72
+New Jersey                      75
+New Mexico                      55
+New York                        82
+North Carolina                  54
+North Dakota                    68
+Ohio                            61
+Oklahoma                        68
+Oregon                          48
+Pennsylvania                    74
+Rhode Island                    79
+South Carolina                  56
 South Dakota                    65
-Tennessee                       65
-Texas                           52
+Tennessee                       64
+Texas                           51
 Utah                           100
-Vermont                         82
-Virginia                        54
-Washington                      66
-West Virginia                   56
-Wisconsin                       69
-Wyoming                         57
+Vermont                         78
+Virginia                        53
+Washington                      63
+West Virginia                   55
+Wisconsin                       68
+Wyoming                         55

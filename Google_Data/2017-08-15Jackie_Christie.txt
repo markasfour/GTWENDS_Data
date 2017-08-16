@@ -1,45 +1,47 @@
                       Jackie Christie
 geoName                              
-Alabama                            68
-Arizona                            26
-Arkansas                           41
-California                         38
-Colorado                           18
-Connecticut                        38
-Delaware                           77
-District of Columbia               79
-Florida                            47
-Georgia                            84
-Hawaii                             22
-Illinois                           48
-Indiana                            30
-Iowa                                8
-Kansas                             22
-Kentucky                           25
-Louisiana                          85
-Maryland                           94
-Massachusetts                      29
-Michigan                           48
+Alabama                            76
+Alaska                             12
+Arizona                            29
+Arkansas                           40
+California                         40
+Colorado                           22
+Connecticut                        43
+Delaware                           85
+District of Columbia               81
+Florida                            48
+Georgia                            91
+Hawaii                             21
+Idaho                               7
+Illinois                           50
+Indiana                            33
+Iowa                               10
+Kansas                             23
+Kentucky                           29
+Louisiana                          93
+Maryland                           97
+Massachusetts                      30
+Michigan                           52
 Minnesota                          17
 Mississippi                       100
-Missouri                           35
-Nebraska                           18
-Nevada                             42
-New Hampshire                      11
-New Jersey                         50
-New Mexico                         15
-New York                           58
-North Carolina                     60
-Ohio                               39
+Missouri                           38
+Nebraska                           22
+Nevada                             48
+New Hampshire                      12
+New Jersey                         54
+New Mexico                         17
+New York                           59
+North Carolina                     64
+Ohio                               40
 Oklahoma                           24
-Oregon                             10
+Oregon                              8
 Pennsylvania                       41
-Rhode Island                       34
-South Carolina                     64
-Tennessee                          43
-Texas                              48
-Utah                                6
-Virginia                           45
+Rhode Island                       30
+South Carolina                     67
+Tennessee                          50
+Texas                              54
+Utah                                7
+Virginia                           47
 Washington                         22
-West Virginia                       8
-Wisconsin                          19
+West Virginia                      11
+Wisconsin                          21

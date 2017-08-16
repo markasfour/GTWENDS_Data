@@ -1,0 +1,52 @@
+                      Hardball
+geoName                       
+Alabama                     50
+Alaska                      66
+Arizona                     75
+Arkansas                    55
+California                  75
+Colorado                    65
+Connecticut                 73
+Delaware                    61
+District of Columbia       100
+Florida                     55
+Georgia                     57
+Hawaii                      91
+Idaho                       57
+Illinois                    77
+Indiana                     61
+Iowa                        72
+Kansas                      52
+Kentucky                    60
+Louisiana                   65
+Maine                       90
+Maryland                    85
+Massachusetts               71
+Michigan                    70
+Minnesota                   75
+Mississippi                 63
+Missouri                    68
+Montana                     91
+Nebraska                    59
+Nevada                      65
+New Hampshire               66
+New Jersey                  64
+New Mexico                  68
+New York                    77
+North Carolina              60
+North Dakota                52
+Ohio                        68
+Oklahoma                    54
+Oregon                      56
+Pennsylvania                68
+Rhode Island                58
+South Carolina              61
+South Dakota                70
+Tennessee                   51
+Texas                       65
+Utah                        53
+Vermont                     89
+Virginia                    56
+Washington                  74
+West Virginia               58
+Wisconsin                   71

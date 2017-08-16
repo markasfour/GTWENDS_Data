@@ -1,53 +1,53 @@
                       Marvin Bagley
 geoName                            
-Alabama                          12
-Alaska                            9
+Alabama                          13
+Alaska                           12
 Arizona                         100
-Arkansas                         11
+Arkansas                         16
 California                       19
-Colorado                          8
+Colorado                          9
 Connecticut                      20
-Delaware                         14
-District of Columbia             13
+Delaware                         15
+District of Columbia             12
 Florida                           8
-Georgia                          15
-Hawaii                           15
-Idaho                             5
-Illinois                         17
-Indiana                          19
-Iowa                             10
-Kansas                           22
-Kentucky                         39
+Georgia                          14
+Hawaii                           12
+Idaho                             9
+Illinois                         13
+Indiana                          21
+Iowa                             15
+Kansas                           24
+Kentucky                         41
 Louisiana                         9
-Maine                            11
-Maryland                         14
-Massachusetts                    18
-Michigan                         13
-Minnesota                        11
+Maine                            10
+Maryland                         15
+Massachusetts                    17
+Michigan                         14
+Minnesota                        12
 Mississippi                      12
 Missouri                         15
-Montana                          11
-Nebraska                          5
-Nevada                           14
-New Hampshire                     9
-New Jersey                       15
-New Mexico                       10
+Montana                           9
+Nebraska                          7
+Nevada                           17
+New Hampshire                    14
+New Jersey                       13
+New Mexico                       12
 New York                         12
 North Carolina                   35
-North Dakota                     11
-Ohio                             12
+North Dakota                      8
+Ohio                             11
 Oklahoma                          6
 Oregon                            9
 Pennsylvania                     14
 Rhode Island                     13
-South Carolina                   22
-South Dakota                      8
-Tennessee                        16
-Texas                             9
-Utah                             13
-Vermont                          11
-Virginia                         13
-Washington                       11
-West Virginia                    15
-Wisconsin                        11
+South Carolina                   23
+South Dakota                      9
+Tennessee                        18
+Texas                            10
+Utah                             17
+Vermont                          12
+Virginia                         11
+Washington                       10
+West Virginia                     9
+Wisconsin                        12
 Wyoming                           9

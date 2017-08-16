@@ -1,0 +1,53 @@
+                      Blake Griffin
+geoName                            
+Alabama                          42
+Alaska                           34
+Arizona                          39
+Arkansas                         42
+California                       67
+Colorado                         31
+Connecticut                      39
+Delaware                         47
+District of Columbia             42
+Florida                          39
+Georgia                          45
+Hawaii                           46
+Idaho                            27
+Illinois                         45
+Indiana                          42
+Iowa                             32
+Kansas                           39
+Kentucky                         39
+Louisiana                        49
+Maine                            30
+Maryland                         44
+Massachusetts                    44
+Michigan                         37
+Minnesota                        31
+Mississippi                      48
+Missouri                         39
+Montana                          25
+Nebraska                         36
+Nevada                           50
+New Hampshire                    32
+New Jersey                       43
+New Mexico                       29
+New York                         45
+North Carolina                   39
+North Dakota                     31
+Ohio                             38
+Oklahoma                        100
+Oregon                           30
+Pennsylvania                     38
+Rhode Island                     35
+South Carolina                   37
+South Dakota                     38
+Tennessee                        38
+Texas                            45
+Utah                             39
+Vermont                          30
+Virginia                         32
+Washington                       35
+West Virginia                    40
+Wisconsin                        31
+Wyoming                          29

@@ -1,53 +1,53 @@
                       Lincoln Memorial
 geoName                               
 Alabama                             12
-Alaska                               6
+Alaska                               8
 Arizona                              8
 Arkansas                            10
 California                           7
-Colorado                             8
+Colorado                             9
 Connecticut                         10
-Delaware                            13
-District of Columbia                86
-Florida                              8
+Delaware                            15
+District of Columbia                92
+Florida                              9
 Georgia                             12
 Hawaii                               6
-Idaho                                8
-Illinois                            15
-Indiana                             14
+Idaho                                7
+Illinois                            16
+Indiana                             15
 Iowa                                14
 Kansas                              11
-Kentucky                            28
-Louisiana                            8
-Maine                               13
-Maryland                            36
+Kentucky                            30
+Louisiana                            9
+Maine                               12
+Maryland                            39
 Massachusetts                       11
 Michigan                            10
 Minnesota                           10
-Mississippi                          9
+Mississippi                         10
 Missouri                            11
-Montana                             10
+Montana                              9
 Nebraska                           100
 Nevada                               6
-New Hampshire                       11
-New Jersey                          11
-New Mexico                           8
+New Hampshire                       12
+New Jersey                          12
+New Mexico                           7
 New York                             9
 North Carolina                      15
-North Dakota                        10
+North Dakota                         7
 Ohio                                14
-Oklahoma                            14
-Oregon                               8
-Pennsylvania                        11
-Rhode Island                        13
-South Carolina                      14
-South Dakota                        19
-Tennessee                           61
+Oklahoma                            15
+Oregon                               9
+Pennsylvania                        12
+Rhode Island                        14
+South Carolina                      15
+South Dakota                        20
+Tennessee                           65
 Texas                                7
 Utah                                 8
-Vermont                             10
-Virginia                            30
+Vermont                             12
+Virginia                            32
 Washington                           6
 West Virginia                       16
 Wisconsin                           14
-Wyoming                             10
+Wyoming                             11

@@ -1,0 +1,53 @@
+                      Colon
+geoName                    
+Alabama                  97
+Alaska                   75
+Arizona                  79
+Arkansas                 89
+California               76
+Colorado                 72
+Connecticut              93
+Delaware                 80
+District of Columbia     88
+Florida                 100
+Georgia                  90
+Hawaii                   71
+Idaho                    69
+Illinois                 84
+Indiana                  87
+Iowa                     81
+Kansas                   80
+Kentucky                 89
+Louisiana                85
+Maine                    77
+Maryland                 87
+Massachusetts            87
+Michigan                 89
+Minnesota                85
+Mississippi              92
+Missouri                 85
+Montana                  73
+Nebraska                 89
+Nevada                   77
+New Hampshire            80
+New Jersey               97
+New Mexico               80
+New York                 95
+North Carolina           82
+North Dakota             77
+Ohio                     81
+Oklahoma                 85
+Oregon                   76
+Pennsylvania             88
+Rhode Island             81
+South Carolina           84
+South Dakota             81
+Tennessee                88
+Texas                    80
+Utah                     71
+Vermont                  71
+Virginia                 72
+Washington               72
+West Virginia            86
+Wisconsin                77
+Wyoming                  69

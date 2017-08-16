@@ -1,53 +1,53 @@
                       Tiger Woods
 geoName                          
 Alabama                        76
-Alaska                         43
-Arizona                        76
-Arkansas                       63
-California                     64
+Alaska                         41
+Arizona                        75
+Arkansas                       62
+California                     63
 Colorado                       71
 Connecticut                    79
-Delaware                       76
-District of Columbia           88
-Florida                        88
-Georgia                        86
-Hawaii                         82
-Idaho                          60
-Illinois                       77
-Indiana                        73
-Iowa                           80
-Kansas                         59
+Delaware                       73
+District of Columbia           90
+Florida                        86
+Georgia                        84
+Hawaii                         81
+Idaho                          62
+Illinois                       76
+Indiana                        72
+Iowa                           79
+Kansas                         60
 Kentucky                       76
 Louisiana                      69
-Maine                          68
-Maryland                       75
+Maine                          67
+Maryland                       74
 Massachusetts                  79
-Michigan                       87
+Michigan                       85
 Minnesota                      89
 Mississippi                    73
-Missouri                       70
-Montana                        69
-Nebraska                       82
-Nevada                         72
-New Hampshire                  73
-New Jersey                     68
+Missouri                       72
+Montana                        71
+Nebraska                       83
+Nevada                         71
+New Hampshire                  74
+New Jersey                     67
 New Mexico                     57
-New York                       66
-North Carolina                 89
-North Dakota                   77
-Ohio                           86
+New York                       67
+North Carolina                 88
+North Dakota                   73
+Ohio                           82
 Oklahoma                       80
 Oregon                         53
-Pennsylvania                   79
+Pennsylvania                   78
 Rhode Island                   72
 South Carolina                100
-South Dakota                   70
-Tennessee                      80
+South Dakota                   69
+Tennessee                      78
 Texas                          65
 Utah                           64
-Vermont                        67
-Virginia                       66
-Washington                     63
-West Virginia                  74
-Wisconsin                      75
+Vermont                        68
+Virginia                       64
+Washington                     62
+West Virginia                  73
+Wisconsin                      74
 Wyoming                        60

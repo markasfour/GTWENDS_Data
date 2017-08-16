@@ -20,7 +20,7 @@ LA 1
 ME 1
 MD 15
 MA 15
-MI 4
+MI 5
 MN 5
 MS 0
 MO 2
@@ -41,7 +41,7 @@ RI 15
 SC 6
 SD 0
 TN 3
-TX 6
+TX 5
 UT 1
 VT 3
 VA 6

@@ -1,53 +1,53 @@
                       Jeffree Star
 geoName                           
-Alabama                         43
+Alabama                         45
 Alaska                          50
-Arizona                         79
-Arkansas                        51
-California                      77
-Colorado                        48
+Arizona                         80
+Arkansas                        52
+California                      79
+Colorado                        50
 Connecticut                     41
-Delaware                        46
-District of Columbia            28
-Florida                         48
+Delaware                        48
+District of Columbia            30
+Florida                         47
 Georgia                         38
-Hawaii                          42
-Idaho                           53
+Hawaii                          44
+Idaho                           56
 Illinois                        51
 Indiana                         53
-Iowa                            44
-Kansas                          44
+Iowa                            45
+Kansas                          43
 Kentucky                        50
-Louisiana                       47
-Maine                           38
-Maryland                        39
-Massachusetts                   39
-Michigan                        49
-Minnesota                       38
-Mississippi                     42
-Missouri                        42
+Louisiana                       46
+Maine                           42
+Maryland                        42
+Massachusetts                   40
+Michigan                        51
+Minnesota                       40
+Mississippi                     41
+Missouri                        43
 Montana                         46
-Nebraska                        44
-Nevada                          79
-New Hampshire                   38
-New Jersey                      46
+Nebraska                        46
+Nevada                          83
+New Hampshire                   40
+New Jersey                      48
 New Mexico                     100
-New York                        38
-North Carolina                  39
+New York                        40
+North Carolina                  40
 North Dakota                    53
-Ohio                            49
-Oklahoma                        57
+Ohio                            51
+Oklahoma                        59
 Oregon                          42
-Pennsylvania                    48
-Rhode Island                    47
-South Carolina                  40
+Pennsylvania                    49
+Rhode Island                    49
+South Carolina                  42
 South Dakota                    45
-Tennessee                       45
-Texas                           71
-Utah                            58
-Vermont                         33
-Virginia                        31
-Washington                      50
-West Virginia                   72
-Wisconsin                       40
-Wyoming                         54
+Tennessee                       46
+Texas                           74
+Utah                            60
+Vermont                         34
+Virginia                        32
+Washington                      51
+West Virginia                   74
+Wisconsin                       41
+Wyoming                         52
