@@ -1,53 +1,53 @@
                       Robert E Lee
 geoName                           
-Alabama                         80
-Alaska                          17
+Alabama                         81
+Alaska                          20
 Arizona                         26
 Arkansas                        55
 California                      16
 Colorado                        19
-Connecticut                     19
-Delaware                        21
-District of Columbia            42
+Connecticut                     20
+Delaware                        19
+District of Columbia            43
 Florida                         26
 Georgia                         43
-Hawaii                          14
+Hawaii                          17
 Idaho                           25
-Illinois                        20
+Illinois                        21
 Indiana                         31
-Iowa                            31
-Kansas                          23
-Kentucky                        32
+Iowa                            30
+Kansas                          25
+Kentucky                        31
 Louisiana                      100
-Maine                           27
+Maine                           28
 Maryland                        39
 Massachusetts                   17
-Michigan                        17
+Michigan                        18
 Minnesota                       21
-Mississippi                     62
-Missouri                        24
+Mississippi                     63
+Missouri                        25
 Montana                         22
 Nebraska                        23
-Nevada                          20
+Nevada                          21
 New Hampshire                   19
 New Jersey                      22
-New Mexico                      21
+New Mexico                      20
 New York                        16
-North Carolina                  41
-North Dakota                    16
-Ohio                            20
-Oklahoma                        30
-Oregon                          12
+North Carolina                  42
+North Dakota                    17
+Ohio                            21
+Oklahoma                        28
+Oregon                          13
 Pennsylvania                    25
-Rhode Island                    18
-South Carolina                  52
+Rhode Island                    20
+South Carolina                  53
 South Dakota                    27
 Tennessee                       42
-Texas                           49
-Utah                            21
-Vermont                         27
-Virginia                        73
+Texas                           50
+Utah                            20
+Vermont                         23
+Virginia                        75
 Washington                      15
-West Virginia                   44
-Wisconsin                       22
-Wyoming                         28
+West Virginia                   43
+Wisconsin                       23
+Wyoming                         26

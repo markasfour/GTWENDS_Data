@@ -1,0 +1,53 @@
+                      Rizzo
+geoName                    
+Alabama                  18
+Alaska                   10
+Arizona                  28
+Arkansas                 15
+California               23
+Colorado                 20
+Connecticut              34
+Delaware                 35
+District of Columbia     31
+Florida                  25
+Georgia                  16
+Hawaii                   19
+Idaho                    13
+Illinois                100
+Indiana                  47
+Iowa                     52
+Kansas                   15
+Kentucky                 20
+Louisiana                26
+Maine                    29
+Maryland                 21
+Massachusetts            38
+Michigan                 51
+Minnesota                18
+Mississippi              15
+Missouri                 25
+Montana                  14
+Nebraska                 28
+Nevada                   23
+New Hampshire            25
+New Jersey               41
+New Mexico               17
+New York                 37
+North Carolina           20
+North Dakota             16
+Ohio                     40
+Oklahoma                 17
+Oregon                   14
+Pennsylvania             37
+Rhode Island             34
+South Carolina           16
+South Dakota             15
+Tennessee                18
+Texas                    17
+Utah                     14
+Vermont                  26
+Virginia                 18
+Washington               17
+West Virginia            17
+Wisconsin                31
+Wyoming                  12

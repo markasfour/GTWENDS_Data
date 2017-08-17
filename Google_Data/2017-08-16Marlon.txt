@@ -1,0 +1,53 @@
+                      Marlon
+geoName                     
+Alabama                   99
+Alaska                    50
+Arizona                   66
+Arkansas                  64
+California                83
+Colorado                  59
+Connecticut               77
+Delaware                  80
+District of Columbia      96
+Florida                   84
+Georgia                   86
+Hawaii                    71
+Idaho                     46
+Illinois                  75
+Indiana                   66
+Iowa                      52
+Kansas                    60
+Kentucky                  61
+Louisiana                 89
+Maine                     52
+Maryland                  98
+Massachusetts             71
+Michigan                  69
+Minnesota                 59
+Mississippi               79
+Missouri                  67
+Montana                   50
+Nebraska                  68
+Nevada                    84
+New Hampshire             52
+New Jersey                90
+New Mexico                58
+New York                 100
+North Carolina            69
+North Dakota              43
+Ohio                      69
+Oklahoma                  63
+Oregon                    54
+Pennsylvania              78
+Rhode Island              69
+South Carolina            76
+South Dakota              44
+Tennessee                 75
+Texas                     70
+Utah                      51
+Vermont                   54
+Virginia                  67
+Washington                61
+West Virginia             58
+Wisconsin                 53
+Wyoming                   41

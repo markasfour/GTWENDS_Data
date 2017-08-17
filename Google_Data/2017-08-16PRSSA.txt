@@ -1,0 +1,31 @@
+                      PRSSA
+geoName                    
+Alabama                  98
+Arizona                  17
+California               33
+District of Columbia     58
+Florida                  32
+Georgia                  68
+Illinois                 51
+Indiana                  92
+Iowa                     81
+Kentucky                 46
+Louisiana                76
+Maryland                 45
+Massachusetts            34
+Michigan                 70
+Minnesota                30
+Missouri                 38
+Nevada                   37
+New Jersey               49
+New York                 38
+North Carolina           48
+Ohio                    100
+Oklahoma                 76
+Pennsylvania             87
+Tennessee                51
+Texas                    30
+Utah                     97
+Virginia                 44
+Washington               33
+Wisconsin                65

@@ -1,0 +1,53 @@
+                      Halsey
+geoName                     
+Alabama                   40
+Alaska                    30
+Arizona                   39
+Arkansas                  38
+California                39
+Colorado                  39
+Connecticut               46
+Delaware                  41
+District of Columbia      40
+Florida                   34
+Georgia                   33
+Hawaii                    42
+Idaho                     38
+Illinois                  35
+Indiana                   39
+Iowa                      35
+Kansas                    35
+Kentucky                  42
+Louisiana                 31
+Maine                     38
+Maryland                  36
+Massachusetts             42
+Michigan                  40
+Minnesota                 32
+Mississippi               28
+Missouri                  34
+Montana                   31
+Nebraska                  58
+Nevada                    38
+New Hampshire             41
+New Jersey                63
+New Mexico                33
+New York                  57
+North Carolina            34
+North Dakota              29
+Ohio                      40
+Oklahoma                  33
+Oregon                   100
+Pennsylvania              42
+Rhode Island              54
+South Carolina            39
+South Dakota              33
+Tennessee                 34
+Texas                     36
+Utah                      34
+Vermont                   34
+Virginia                  31
+Washington                45
+West Virginia             39
+Wisconsin                 35
+Wyoming                   35

@@ -1,53 +1,53 @@
                       Trump
 geoName                    
-Alabama                  67
-Alaska                   61
+Alabama                  66
+Alaska                   62
 Arizona                  68
-Arkansas                 63
+Arkansas                 65
 California               74
-Colorado                 68
+Colorado                 69
 Connecticut              86
-Delaware                 79
+Delaware                 81
 District of Columbia    100
 Florida                  73
-Georgia                  61
-Hawaii                   57
-Idaho                    62
-Illinois                 73
-Indiana                  71
-Iowa                     66
+Georgia                  62
+Hawaii                   58
+Idaho                    64
+Illinois                 74
+Indiana                  72
+Iowa                     65
 Kansas                   51
-Kentucky                 57
-Louisiana                56
-Maine                    78
+Kentucky                 59
+Louisiana                57
+Maine                    81
 Maryland                 81
-Massachusetts            81
-Michigan                 71
+Massachusetts            82
+Michigan                 72
 Minnesota                64
-Mississippi              53
+Mississippi              54
 Missouri                 61
 Montana                  71
-Nebraska                 64
-Nevada                   73
-New Hampshire            83
-New Jersey               87
+Nebraska                 66
+Nevada                   74
+New Hampshire            85
+New Jersey               89
 New Mexico               72
 New York                 83
 North Carolina           66
-North Dakota             58
+North Dakota             60
 Ohio                     70
 Oklahoma                 53
 Oregon                   62
-Pennsylvania             77
-Rhode Island             81
+Pennsylvania             80
+Rhode Island             82
 South Carolina           62
 South Dakota             57
-Tennessee                65
-Texas                    59
-Utah                     60
+Tennessee                66
+Texas                    60
+Utah                     62
 Vermont                  84
-Virginia                 59
-Washington               76
+Virginia                 61
+Washington               77
 West Virginia            67
-Wisconsin                61
-Wyoming                  61
+Wisconsin                62
+Wyoming                  62

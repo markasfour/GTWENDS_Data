@@ -1,53 +1,53 @@
                       MoviePass
 geoName                        
-Alabama                      24
-Alaska                       24
-Arizona                      30
-Arkansas                     14
-California                   71
-Colorado                     46
-Connecticut                  36
-Delaware                     45
-District of Columbia         43
-Florida                      47
-Georgia                      29
-Hawaii                       42
-Idaho                        17
-Illinois                     33
-Indiana                      28
-Iowa                         25
-Kansas                       23
-Kentucky                     18
-Louisiana                    19
-Maine                        24
-Maryland                     45
-Massachusetts                57
-Michigan                     26
-Minnesota                    27
-Mississippi                  19
-Missouri                     32
+Alabama                      19
+Alaska                       36
+Arizona                      26
+Arkansas                     26
+California                   72
+Colorado                     51
+Connecticut                  28
+Delaware                     36
+District of Columbia         53
+Florida                      44
+Georgia                      34
+Hawaii                       44
+Idaho                        25
+Illinois                     37
+Indiana                      32
+Iowa                         22
+Kansas                       29
+Kentucky                     17
+Louisiana                    22
+Maine                        16
+Maryland                     44
+Massachusetts                64
+Michigan                     24
+Minnesota                    23
+Mississippi                  21
+Missouri                     38
 Montana                      17
-Nebraska                     29
-Nevada                       42
-New Hampshire                34
-New Jersey                   52
-New Mexico                    9
+Nebraska                     38
+Nevada                       38
+New Hampshire                23
+New Jersey                   51
+New Mexico                   21
 New York                    100
-North Carolina               22
-North Dakota                 20
-Ohio                         28
-Oklahoma                     26
-Oregon                       31
+North Carolina               25
+North Dakota                 24
+Ohio                         25
+Oklahoma                     31
+Oregon                       32
 Pennsylvania                 29
-Rhode Island                 28
-South Carolina               22
-South Dakota                 41
-Tennessee                    32
-Texas                        31
-Utah                         38
-Vermont                      25
-Virginia                     39
-Washington                   35
-West Virginia                19
-Wisconsin                    18
-Wyoming                      61
+Rhode Island                 29
+South Carolina               24
+South Dakota                 28
+Tennessee                    40
+Texas                        33
+Utah                         34
+Vermont                      31
+Virginia                     40
+Washington                   40
+West Virginia                17
+Wisconsin                    17
+Wyoming                      16

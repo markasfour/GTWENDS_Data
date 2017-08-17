@@ -1,37 +1,37 @@
                       Elvis Presley
 geoName                            
-Alabama                          45
-Alaska                           27
+Alabama                          44
+Alaska                           28
 Arizona                          34
-Arkansas                         60
+Arkansas                         58
 California                       30
 Colorado                         30
-Connecticut                      28
-Delaware                         29
+Connecticut                      27
+Delaware                         30
 District of Columbia             25
 Florida                          32
 Georgia                          39
-Hawaii                           32
-Idaho                            30
-Illinois                         36
+Hawaii                           33
+Idaho                            31
+Illinois                         35
 Indiana                          41
 Iowa                             38
 Kansas                           38
-Kentucky                         52
-Louisiana                        44
+Kentucky                         53
+Louisiana                        43
 Maine                            32
 Maryland                         25
 Massachusetts                    28
 Michigan                         34
-Minnesota                        32
-Mississippi                      92
+Minnesota                        31
+Mississippi                      91
 Missouri                         41
 Montana                          31
-Nebraska                         36
-Nevada                           42
-New Hampshire                    30
+Nebraska                         35
+Nevada                           43
+New Hampshire                    28
 New Jersey                       31
-New Mexico                       42
+New Mexico                       41
 New York                         28
 North Carolina                   34
 North Dakota                     35
@@ -39,15 +39,15 @@ Ohio                             35
 Oklahoma                         45
 Oregon                           23
 Pennsylvania                     32
-Rhode Island                     30
+Rhode Island                     29
 South Carolina                   39
-South Dakota                     40
+South Dakota                     39
 Tennessee                       100
-Texas                            38
-Utah                             27
+Texas                            39
+Utah                             28
 Vermont                          25
 Virginia                         24
 Washington                       26
-West Virginia                    49
+West Virginia                    48
 Wisconsin                        35
-Wyoming                          35
+Wyoming                          33

@@ -1,53 +1,53 @@
                       Mindy Kaling
 geoName                           
-Alabama                         44
-Alaska                          49
-Arizona                         52
-Arkansas                        46
-California                      72
-Colorado                        51
-Connecticut                     68
+Alabama                         41
+Alaska                          47
+Arizona                         51
+Arkansas                        42
+California                      70
+Colorado                        49
+Connecticut                     64
 Delaware                        66
 District of Columbia           100
-Florida                         42
-Georgia                         46
-Hawaii                          56
-Idaho                           41
-Illinois                        67
-Indiana                         54
+Florida                         41
+Georgia                         47
+Hawaii                          55
+Idaho                           40
+Illinois                        65
+Indiana                         52
 Iowa                            49
-Kansas                          42
-Kentucky                        47
-Louisiana                       44
-Maine                           60
-Maryland                        74
-Massachusetts                   98
-Michigan                        51
-Minnesota                       56
-Mississippi                     32
+Kansas                          45
+Kentucky                        46
+Louisiana                       42
+Maine                           57
+Maryland                        73
+Massachusetts                   97
+Michigan                        52
+Minnesota                       54
+Mississippi                     36
 Missouri                        52
-Montana                         48
-Nebraska                        49
-Nevada                          49
-New Hampshire                   72
-New Jersey                      76
-New Mexico                      47
-New York                        87
-North Carolina                  50
-North Dakota                    45
-Ohio                            57
-Oklahoma                        50
-Oregon                          47
-Pennsylvania                    65
-Rhode Island                    70
-South Carolina                  41
-South Dakota                    42
-Tennessee                       49
-Texas                           52
-Utah                            49
-Vermont                         73
-Virginia                        58
-Washington                      69
-West Virginia                   45
-Wisconsin                       49
-Wyoming                         34
+Montana                         50
+Nebraska                        47
+Nevada                          46
+New Hampshire                   73
+New Jersey                      77
+New Mexico                      48
+New York                        86
+North Carolina                  49
+North Dakota                    39
+Ohio                            55
+Oklahoma                        48
+Oregon                          46
+Pennsylvania                    66
+Rhode Island                    66
+South Carolina                  40
+South Dakota                    38
+Tennessee                       50
+Texas                           51
+Utah                            50
+Vermont                         69
+Virginia                        57
+Washington                      66
+West Virginia                   42
+Wisconsin                       50
+Wyoming                         36
