@@ -1,0 +1,53 @@
+                      MoviePass
+geoName                        
+Alabama                      22
+Alaska                       19
+Arizona                      28
+Arkansas                     20
+California                   70
+Colorado                     44
+Connecticut                  28
+Delaware                     32
+District of Columbia         51
+Florida                      41
+Georgia                      35
+Hawaii                       44
+Idaho                        21
+Illinois                     34
+Indiana                      33
+Iowa                         23
+Kansas                       25
+Kentucky                     15
+Louisiana                    16
+Maine                        15
+Maryland                     45
+Massachusetts                63
+Michigan                     26
+Minnesota                    26
+Mississippi                  20
+Missouri                     36
+Montana                      16
+Nebraska                     33
+Nevada                       33
+New Hampshire                14
+New Jersey                   53
+New Mexico                   15
+New York                    100
+North Carolina               23
+North Dakota                 30
+Ohio                         24
+Oklahoma                     24
+Oregon                       35
+Pennsylvania                 26
+Rhode Island                 22
+South Carolina               27
+South Dakota                 30
+Tennessee                    37
+Texas                        32
+Utah                         34
+Vermont                      25
+Virginia                     37
+Washington                   37
+West Virginia                16
+Wisconsin                    15
+Wyoming                      15

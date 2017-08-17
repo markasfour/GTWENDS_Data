@@ -1,0 +1,53 @@
+                      Butler
+geoName                     
+Alabama                   33
+Alaska                    17
+Arizona                   20
+Arkansas                  24
+California                18
+Colorado                  20
+Connecticut               23
+Delaware                  21
+District of Columbia      26
+Florida                   24
+Georgia                   30
+Hawaii                    17
+Idaho                     19
+Illinois                  34
+Indiana                   88
+Iowa                      29
+Kansas                    66
+Kentucky                  39
+Louisiana                 24
+Maine                     23
+Maryland                  23
+Massachusetts             26
+Michigan                  26
+Minnesota                 23
+Mississippi               28
+Missouri                  43
+Montana                   20
+Nebraska                  32
+Nevada                    19
+New Hampshire             22
+New Jersey                31
+New Mexico                18
+New York                  23
+North Carolina            26
+North Dakota              27
+Ohio                      71
+Oklahoma                  24
+Oregon                    16
+Pennsylvania             100
+Rhode Island              39
+South Carolina            29
+South Dakota              23
+Tennessee                 27
+Texas                     21
+Utah                      21
+Vermont                   23
+Virginia                  20
+Washington                18
+West Virginia             25
+Wisconsin                 29
+Wyoming                   19

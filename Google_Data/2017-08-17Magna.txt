@@ -1,0 +1,53 @@
+                      Magna
+geoName                    
+Alabama                  16
+Alaska                   15
+Arizona                  17
+Arkansas                 15
+California               17
+Colorado                 17
+Connecticut              18
+Delaware                 17
+District of Columbia     17
+Florida                  16
+Georgia                  16
+Hawaii                   13
+Idaho                    17
+Illinois                 16
+Indiana                  17
+Iowa                     15
+Kansas                   15
+Kentucky                 19
+Louisiana                16
+Maine                    15
+Maryland                 18
+Massachusetts            19
+Michigan                 29
+Minnesota                16
+Mississippi              14
+Missouri                 18
+Montana                  15
+Nebraska                 14
+Nevada                   15
+New Hampshire            16
+New Jersey               18
+New Mexico               14
+New York                 19
+North Carolina           18
+North Dakota             15
+Ohio                     18
+Oklahoma                 16
+Oregon                   12
+Pennsylvania             17
+Rhode Island             17
+South Carolina           22
+South Dakota             14
+Tennessee                20
+Texas                    16
+Utah                    100
+Vermont                  16
+Virginia                 19
+Washington               14
+West Virginia            15
+Wisconsin                15
+Wyoming                  19

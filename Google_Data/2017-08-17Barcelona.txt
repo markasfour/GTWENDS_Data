@@ -1,0 +1,53 @@
+                      Barcelona
+geoName                        
+Alabama                      25
+Alaska                       26
+Arizona                      48
+Arkansas                     34
+California                   81
+Colorado                     45
+Connecticut                  82
+Delaware                     52
+District of Columbia        100
+Florida                      82
+Georgia                      56
+Hawaii                       35
+Idaho                        31
+Illinois                     55
+Indiana                      37
+Iowa                         33
+Kansas                       59
+Kentucky                     30
+Louisiana                    33
+Maine                        29
+Maryland                     79
+Massachusetts                74
+Michigan                     35
+Minnesota                    40
+Mississippi                  20
+Missouri                     32
+Montana                      19
+Nebraska                     41
+Nevada                       61
+New Hampshire                34
+New Jersey                   86
+New Mexico                   45
+New York                     88
+North Carolina               49
+North Dakota                 26
+Ohio                         32
+Oklahoma                     36
+Oregon                       69
+Pennsylvania                 42
+Rhode Island                 60
+South Carolina               36
+South Dakota                 30
+Tennessee                    35
+Texas                        67
+Utah                         42
+Vermont                      41
+Virginia                     86
+Washington                   46
+West Virginia                20
+Wisconsin                    29
+Wyoming                      24
