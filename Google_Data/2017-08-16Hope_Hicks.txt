@@ -1,53 +1,53 @@
                       Hope Hicks
 geoName                         
 Alabama                       25
-Alaska                        27
-Arizona                       23
-Arkansas                      43
-California                    29
-Colorado                      27
-Connecticut                   66
-Delaware                      45
+Alaska                        39
+Arizona                       21
+Arkansas                      44
+California                    30
+Colorado                      25
+Connecticut                   70
+Delaware                      36
 District of Columbia         100
-Florida                       22
-Georgia                       21
-Hawaii                        21
+Florida                       24
+Georgia                       23
+Hawaii                        14
 Idaho                         15
-Illinois                      29
-Indiana                       21
-Iowa                          21
-Kansas                        23
-Kentucky                      20
+Illinois                      30
+Indiana                       22
+Iowa                          23
+Kansas                        19
+Kentucky                      18
 Louisiana                     18
-Maine                         28
-Maryland                      47
-Massachusetts                 46
-Michigan                      23
-Minnesota                     28
-Mississippi                   17
-Missouri                      22
-Montana                       23
-Nebraska                      17
-Nevada                        16
-New Hampshire                 34
-New Jersey                    34
-New Mexico                    27
-New York                      46
-North Carolina                26
-North Dakota                  19
-Ohio                          24
-Oklahoma                      17
-Oregon                        22
+Maine                         35
+Maryland                      48
+Massachusetts                 43
+Michigan                      24
+Minnesota                     30
+Mississippi                   25
+Missouri                      21
+Montana                       29
+Nebraska                      20
+Nevada                        19
+New Hampshire                 38
+New Jersey                    35
+New Mexico                    24
+New York                      49
+North Carolina                24
+North Dakota                  15
+Ohio                          23
+Oklahoma                      20
+Oregon                        25
 Pennsylvania                  30
-Rhode Island                  36
-South Carolina                21
-South Dakota                   9
+Rhode Island                  38
+South Carolina                20
+South Dakota                  16
 Tennessee                     24
 Texas                         23
 Utah                          15
-Vermont                       29
-Virginia                      32
-Washington                    29
+Vermont                       35
+Virginia                      34
+Washington                    28
 West Virginia                 20
 Wisconsin                     21
-Wyoming                       23
+Wyoming                       11

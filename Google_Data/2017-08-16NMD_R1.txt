@@ -1,0 +1,44 @@
+                      NMD R1
+geoName                     
+Alabama                   62
+Arizona                   48
+Arkansas                  49
+California               100
+Colorado                  33
+Connecticut               55
+District of Columbia      38
+Florida                   50
+Georgia                   52
+Hawaii                    97
+Illinois                  58
+Indiana                   46
+Iowa                      49
+Kansas                    48
+Kentucky                  40
+Louisiana                 72
+Maine                     38
+Maryland                  47
+Massachusetts             54
+Michigan                  47
+Minnesota                 34
+Mississippi               64
+Missouri                  44
+Nebraska                  60
+Nevada                    73
+New Hampshire             46
+New Jersey                65
+New Mexico                35
+New York                  63
+North Carolina            42
+Ohio                      40
+Oklahoma                  46
+Oregon                    26
+Pennsylvania              47
+Rhode Island              59
+South Carolina            40
+Tennessee                 46
+Texas                     68
+Utah                      38
+Virginia                  36
+Washington                48
+Wisconsin                 39

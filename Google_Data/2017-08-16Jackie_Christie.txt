@@ -1,47 +1,47 @@
                       Jackie Christie
 geoName                              
-Alabama                            71
-Alaska                             12
-Arizona                            27
-Arkansas                           38
-California                         38
-Colorado                           19
-Connecticut                        36
+Alabama                            79
+Alaska                             15
+Arizona                            28
+Arkansas                           40
+California                         40
+Colorado                           21
+Connecticut                        37
 Delaware                           80
 District of Columbia               78
-Florida                            45
-Georgia                            86
-Hawaii                             22
-Idaho                               7
-Illinois                           47
-Indiana                            32
-Iowa                                9
+Florida                            47
+Georgia                            88
+Hawaii                             25
+Idaho                               3
+Illinois                           48
+Indiana                            35
+Iowa                                7
 Kansas                             25
-Kentucky                           31
+Kentucky                           27
 Louisiana                          91
-Maryland                           90
-Massachusetts                      27
-Michigan                           48
-Minnesota                          14
+Maryland                           96
+Massachusetts                      29
+Michigan                           51
+Minnesota                          18
 Mississippi                       100
-Missouri                           38
-Nebraska                           20
-Nevada                             46
-New Hampshire                       9
-New Jersey                         51
+Missouri                           34
+Nebraska                           16
+Nevada                             43
+New Hampshire                       7
+New Jersey                         53
 New Mexico                         14
 New York                           58
-North Carolina                     60
+North Carolina                     62
 Ohio                               39
-Oklahoma                           27
+Oklahoma                           26
 Oregon                              9
 Pennsylvania                       41
-Rhode Island                       26
-South Carolina                     63
-Tennessee                          47
-Texas                              50
-Utah                                7
-Virginia                           44
-Washington                         23
-West Virginia                      11
-Wisconsin                          21
+Rhode Island                       37
+South Carolina                     66
+Tennessee                          46
+Texas                              49
+Utah                                5
+Virginia                           48
+Washington                         22
+West Virginia                      14
+Wisconsin                          20

@@ -1,0 +1,48 @@
+                      Roark
+geoName                    
+Alabama                  26
+Arizona                  20
+Arkansas                 85
+California               28
+Colorado                 29
+Connecticut              32
+Delaware                 33
+District of Columbia     43
+Florida                  24
+Georgia                  37
+Hawaii                   18
+Idaho                    57
+Illinois                 37
+Indiana                  46
+Iowa                     22
+Kansas                   40
+Kentucky                100
+Louisiana                29
+Maine                    19
+Maryland                 35
+Massachusetts            23
+Michigan                 20
+Minnesota                22
+Mississippi              26
+Missouri                 77
+Montana                  30
+Nebraska                 24
+Nevada                   20
+New Hampshire            18
+New Jersey               21
+New Mexico               30
+New York                 27
+North Carolina           37
+Ohio                     36
+Oklahoma                 55
+Oregon                   23
+Pennsylvania             24
+Rhode Island             19
+South Carolina           34
+Tennessee                55
+Texas                    34
+Utah                     30
+Virginia                 35
+Washington               24
+West Virginia            42
+Wisconsin                21

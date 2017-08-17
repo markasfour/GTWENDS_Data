@@ -1,53 +1,53 @@
                       Roberto Aguayo
 geoName                             
-Alabama                           42
-Alaska                             4
-Arizona                           19
-Arkansas                          14
-California                        23
-Colorado                          19
-Connecticut                       20
-Delaware                          25
+Alabama                           32
+Alaska                             8
+Arizona                           20
+Arkansas                          13
+California                        25
+Colorado                          21
+Connecticut                       22
+Delaware                          24
 District of Columbia              27
 Florida                          100
-Georgia                           32
-Hawaii                            23
-Idaho                             12
-Illinois                          19
-Indiana                           24
-Iowa                              17
-Kansas                            14
-Kentucky                          17
-Louisiana                         21
+Georgia                           34
+Hawaii                            17
+Idaho                              8
+Illinois                          22
+Indiana                           15
+Iowa                              19
+Kansas                            21
+Kentucky                          19
+Louisiana                         27
 Maine                             11
-Maryland                          21
-Massachusetts                     20
-Michigan                          17
-Minnesota                         19
-Mississippi                       26
-Missouri                          13
-Montana                           14
+Maryland                          25
+Massachusetts                     19
+Michigan                          19
+Minnesota                         21
+Mississippi                       20
+Missouri                          15
+Montana                           19
 Nebraska                          16
-Nevada                            25
+Nevada                            26
 New Hampshire                     13
-New Jersey                        25
-New Mexico                        17
-New York                          18
-North Carolina                    27
-North Dakota                      27
-Ohio                              19
-Oklahoma                          30
-Oregon                            10
-Pennsylvania                      22
-Rhode Island                      16
-South Carolina                    25
-South Dakota                      19
-Tennessee                         25
-Texas                             27
-Utah                              18
-Vermont                           17
+New Jersey                        28
+New Mexico                        18
+New York                          19
+North Carolina                    31
+North Dakota                      21
+Ohio                              21
+Oklahoma                          25
+Oregon                            12
+Pennsylvania                      21
+Rhode Island                      22
+South Carolina                    24
+South Dakota                      15
+Tennessee                         24
+Texas                             26
+Utah                              14
+Vermont                           13
 Virginia                          19
-Washington                        20
-West Virginia                     14
-Wisconsin                         18
-Wyoming                           13
+Washington                        22
+West Virginia                     26
+Wisconsin                         16
+Wyoming                            9

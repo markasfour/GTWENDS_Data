@@ -1,0 +1,49 @@
+                      Joe Thomas
+geoName                         
+Alabama                       49
+Arizona                       32
+Arkansas                      44
+California                    30
+Colorado                      40
+Connecticut                   42
+Delaware                      50
+District of Columbia          54
+Florida                       35
+Georgia                       42
+Hawaii                        29
+Idaho                         31
+Illinois                      42
+Indiana                       41
+Iowa                          39
+Kansas                        36
+Kentucky                      43
+Louisiana                     39
+Maine                         36
+Maryland                      48
+Massachusetts                 41
+Michigan                      47
+Minnesota                     50
+Mississippi                   43
+Missouri                      40
+Nebraska                      35
+Nevada                        34
+New Hampshire                 32
+New Jersey                    46
+New Mexico                    30
+New York                      41
+North Carolina                44
+North Dakota                  41
+Ohio                         100
+Oklahoma                      37
+Oregon                        23
+Pennsylvania                  47
+Rhode Island                  44
+South Carolina                52
+South Dakota                  35
+Tennessee                     48
+Texas                         32
+Utah                          24
+Virginia                      41
+Washington                    35
+Wisconsin                     80
+Wyoming                       42
