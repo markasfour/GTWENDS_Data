@@ -1,0 +1,44 @@
+                      Mozzy
+geoName                    
+Alabama                   4
+Alaska                   13
+Arizona                  21
+Arkansas                  7
+California              100
+Colorado                 16
+Connecticut               3
+District of Columbia      4
+Florida                   4
+Georgia                   7
+Hawaii                    8
+Idaho                     6
+Illinois                  6
+Indiana                   8
+Iowa                      4
+Kansas                   45
+Kentucky                  4
+Louisiana                 6
+Maryland                  4
+Massachusetts             3
+Michigan                  7
+Minnesota                 8
+Mississippi               5
+Missouri                 47
+Nebraska                 16
+Nevada                   70
+New Jersey                3
+New Mexico               11
+New York                  4
+North Carolina            5
+Ohio                     11
+Oklahoma                 66
+Oregon                   22
+Pennsylvania              4
+South Carolina            4
+Tennessee                 4
+Texas                    10
+Utah                     10
+Virginia                  3
+Washington               45
+West Virginia             3
+Wisconsin                 2

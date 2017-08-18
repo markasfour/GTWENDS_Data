@@ -1,0 +1,53 @@
+                      Jaguars
+geoName                      
+Alabama                    22
+Alaska                     13
+Arizona                    21
+Arkansas                   16
+California                 14
+Colorado                   20
+Connecticut                17
+Delaware                   25
+District of Columbia       24
+Florida                   100
+Georgia                    32
+Hawaii                     17
+Idaho                      14
+Illinois                   18
+Indiana                    20
+Iowa                       20
+Kansas                     16
+Kentucky                   17
+Louisiana                  23
+Maine                      14
+Maryland                   21
+Massachusetts              18
+Michigan                   19
+Minnesota                  18
+Mississippi                21
+Missouri                   17
+Montana                    18
+Nebraska                   17
+Nevada                     19
+New Hampshire              17
+New Jersey                 21
+New Mexico                 21
+New York                   17
+North Carolina             20
+North Dakota               24
+Ohio                       17
+Oklahoma                   25
+Oregon                      9
+Pennsylvania               20
+Rhode Island               20
+South Carolina             25
+South Dakota               19
+Tennessee                  19
+Texas                      24
+Utah                       13
+Vermont                    16
+Virginia                   17
+Washington                 16
+West Virginia              14
+Wisconsin                  22
+Wyoming                    18
