@@ -1,0 +1,53 @@
+                      Camp David
+geoName                         
+Alabama                       50
+Alaska                        34
+Arizona                       47
+Arkansas                      51
+California                    41
+Colorado                      42
+Connecticut                   59
+Delaware                      51
+District of Columbia         100
+Florida                       49
+Georgia                       56
+Hawaii                        35
+Idaho                         38
+Illinois                      41
+Indiana                       48
+Iowa                          53
+Kansas                        51
+Kentucky                      41
+Louisiana                     50
+Maine                         59
+Maryland                      93
+Massachusetts                 56
+Michigan                      47
+Minnesota                     48
+Mississippi                   59
+Missouri                      52
+Montana                       39
+Nebraska                      38
+Nevada                        38
+New Hampshire                 61
+New Jersey                    52
+New Mexico                    35
+New York                      58
+North Carolina                56
+North Dakota                  52
+Ohio                          48
+Oklahoma                      50
+Oregon                        37
+Pennsylvania                  65
+Rhode Island                  47
+South Carolina                52
+South Dakota                  40
+Tennessee                     53
+Texas                         50
+Utah                          35
+Vermont                       62
+Virginia                      59
+Washington                    44
+West Virginia                 58
+Wisconsin                     49
+Wyoming                       39

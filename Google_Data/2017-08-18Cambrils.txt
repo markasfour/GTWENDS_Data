@@ -1,37 +1,39 @@
                       Cambrils
 geoName                       
-Alabama                      4
-Arizona                     14
-California                  21
-Colorado                    16
-Connecticut                 12
-District of Columbia        15
-Florida                     24
-Georgia                     12
-Illinois                    12
-Indiana                      7
-Iowa                        10
+Alabama                      6
+Arizona                     16
+California                  29
+Colorado                    26
+Connecticut                 10
+District of Columbia        21
+Florida                     29
+Georgia                     14
+Illinois                    13
+Indiana                      8
+Iowa                        12
 Kansas                     100
-Kentucky                    12
-Louisiana                    4
-Maine                       12
-Massachusetts               31
+Kentucky                    16
+Louisiana                    5
+Maine                       16
+Maryland                    30
+Massachusetts               36
 Michigan                    14
-Minnesota                    6
-Nevada                      69
-New Hampshire               23
-New Jersey                  24
-New Mexico                  31
-New York                    38
-North Carolina              18
-Oklahoma                     8
-Oregon                      33
-Pennsylvania                25
-Rhode Island                47
-South Carolina               6
-Tennessee                   10
-Texas                       14
-Utah                        11
-Virginia                    69
-Washington                  11
-Wisconsin                   14
+Minnesota                    9
+Missouri                    10
+Nevada                      93
+New Hampshire               45
+New Jersey                  34
+New Mexico                  20
+New York                    53
+North Carolina              23
+Ohio                         9
+Oklahoma                    12
+Oregon                      39
+Pennsylvania                31
+Rhode Island                69
+South Carolina               7
+Tennessee                   13
+Texas                       19
+Virginia                    86
+Washington                  16
+Wisconsin                   18
