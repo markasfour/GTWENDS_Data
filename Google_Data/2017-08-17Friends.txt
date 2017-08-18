@@ -1,0 +1,53 @@
+                      Friends
+geoName                      
+Alabama                    78
+Alaska                     81
+Arizona                    79
+Arkansas                   80
+California                 77
+Colorado                   90
+Connecticut                85
+Delaware                  100
+District of Columbia       75
+Florida                    75
+Georgia                    75
+Hawaii                     80
+Idaho                      81
+Illinois                   80
+Indiana                    85
+Iowa                       85
+Kansas                     82
+Kentucky                   84
+Louisiana                  79
+Maine                      91
+Maryland                   85
+Massachusetts              85
+Michigan                   82
+Minnesota                  80
+Mississippi                79
+Missouri                   81
+Montana                    82
+Nebraska                   80
+Nevada                     76
+New Hampshire              91
+New Jersey                 89
+New Mexico                 76
+New York                   84
+North Carolina             79
+North Dakota               86
+Ohio                       83
+Oklahoma                   82
+Oregon                     64
+Pennsylvania               95
+Rhode Island               89
+South Carolina             78
+South Dakota               79
+Tennessee                  78
+Texas                      75
+Utah                       83
+Vermont                    82
+Virginia                   75
+Washington                 76
+West Virginia              91
+Wisconsin                  83
+Wyoming                    80

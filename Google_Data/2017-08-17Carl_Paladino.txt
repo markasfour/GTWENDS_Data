@@ -1,0 +1,53 @@
+                      Carl Paladino
+geoName                            
+Alabama                          10
+Alaska                           13
+Arizona                          11
+Arkansas                         11
+California                       15
+Colorado                          9
+Connecticut                      21
+Delaware                          9
+District of Columbia             39
+Florida                          15
+Georgia                          14
+Hawaii                            9
+Idaho                            10
+Illinois                         13
+Indiana                          10
+Iowa                             10
+Kansas                            7
+Kentucky                          8
+Louisiana                        13
+Maine                            17
+Maryland                         27
+Massachusetts                    20
+Michigan                         14
+Minnesota                        10
+Mississippi                       7
+Missouri                          9
+Montana                           7
+Nebraska                          8
+Nevada                           12
+New Hampshire                    25
+New Jersey                       21
+New Mexico                       17
+New York                        100
+North Carolina                   13
+North Dakota                     11
+Ohio                             15
+Oklahoma                         14
+Oregon                           12
+Pennsylvania                     15
+Rhode Island                     12
+South Carolina                   10
+South Dakota                      6
+Tennessee                        12
+Texas                             9
+Utah                             10
+Vermont                          38
+Virginia                         14
+Washington                       15
+West Virginia                     6
+Wisconsin                         9
+Wyoming                          16

@@ -1,0 +1,53 @@
+                      Brees
+geoName                    
+Alabama                  14
+Alaska                    8
+Arizona                  10
+Arkansas                 13
+California                9
+Colorado                 14
+Connecticut              10
+Delaware                 11
+District of Columbia     12
+Florida                  10
+Georgia                  13
+Hawaii                   10
+Idaho                    10
+Illinois                 11
+Indiana                  16
+Iowa                     12
+Kansas                   10
+Kentucky                 11
+Louisiana               100
+Maine                     8
+Maryland                 11
+Massachusetts            10
+Michigan                 10
+Minnesota                11
+Mississippi              41
+Missouri                 11
+Montana                  11
+Nebraska                 11
+Nevada                   11
+New Hampshire             9
+New Jersey               12
+New Mexico               10
+New York                 10
+North Carolina           11
+North Dakota             12
+Ohio                     11
+Oklahoma                 16
+Oregon                    6
+Pennsylvania             11
+Rhode Island             11
+South Carolina           11
+South Dakota             12
+Tennessee                12
+Texas                    17
+Utah                      9
+Vermont                   6
+Virginia                 10
+Washington               12
+West Virginia            10
+Wisconsin                12
+Wyoming                  12

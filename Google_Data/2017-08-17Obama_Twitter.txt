@@ -1,53 +1,53 @@
                       Obama Twitter
 geoName                            
-Alabama                          39
-Alaska                           37
-Arizona                          37
-Arkansas                         27
-California                       48
-Colorado                         35
+Alabama                          41
+Alaska                           39
+Arizona                          36
+Arkansas                         30
+California                       50
+Colorado                         37
 Connecticut                      48
-Delaware                         46
+Delaware                         40
 District of Columbia            100
-Florida                          37
-Georgia                          39
-Hawaii                           37
-Idaho                            25
-Illinois                         46
-Indiana                          37
-Iowa                             33
-Kansas                           27
-Kentucky                         34
+Florida                          38
+Georgia                          40
+Hawaii                           38
+Idaho                            30
+Illinois                         44
+Indiana                          38
+Iowa                             40
+Kansas                           28
+Kentucky                         32
 Louisiana                        32
-Maine                            38
-Maryland                         60
-Massachusetts                    54
-Michigan                         39
-Minnesota                        42
-Mississippi                      26
-Missouri                         36
-Montana                          26
-Nebraska                         31
+Maine                            39
+Maryland                         64
+Massachusetts                    57
+Michigan                         40
+Minnesota                        39
+Mississippi                      29
+Missouri                         35
+Montana                          29
+Nebraska                         34
 Nevada                           39
 New Hampshire                    42
-New Jersey                       55
-New Mexico                       29
+New Jersey                       58
+New Mexico                       32
 New York                         60
-North Carolina                   39
-North Dakota                     30
-Ohio                             42
+North Carolina                   38
+North Dakota                     29
+Ohio                             41
 Oklahoma                         28
 Oregon                           31
-Pennsylvania                     44
-Rhode Island                     59
-South Carolina                   30
-South Dakota                     35
+Pennsylvania                     45
+Rhode Island                     56
+South Carolina                   32
+South Dakota                     38
 Tennessee                        38
-Texas                            34
-Utah                             31
+Texas                            35
+Utah                             30
 Vermont                          42
-Virginia                         46
-Washington                       43
-West Virginia                    30
+Virginia                         48
+Washington                       44
+West Virginia                    35
 Wisconsin                        34
-Wyoming                          30
+Wyoming                          31

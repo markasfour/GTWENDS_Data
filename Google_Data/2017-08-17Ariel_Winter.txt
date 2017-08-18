@@ -1,53 +1,53 @@
                       Ariel Winter
 geoName                           
 Alabama                         66
-Alaska                          75
-Arizona                         97
+Alaska                          76
+Arizona                         98
 Arkansas                        67
 California                      98
-Colorado                        76
-Connecticut                     87
-Delaware                        90
+Colorado                        77
+Connecticut                     88
+Delaware                        94
 District of Columbia            79
-Florida                         69
-Georgia                         65
+Florida                         71
+Georgia                         66
 Hawaii                          65
-Idaho                           69
-Illinois                        89
-Indiana                         89
+Idaho                           68
+Illinois                        90
+Indiana                         90
 Iowa                            83
-Kansas                          72
-Kentucky                        78
-Louisiana                       67
-Maine                           70
-Maryland                        85
-Massachusetts                   94
-Michigan                        85
-Minnesota                       80
-Mississippi                     56
-Missouri                        75
-Montana                         77
-Nebraska                        91
+Kansas                          74
+Kentucky                        80
+Louisiana                       64
+Maine                           69
+Maryland                        86
+Massachusetts                   95
+Michigan                        86
+Minnesota                       81
+Mississippi                     57
+Missouri                        74
+Montana                         78
+Nebraska                        92
 Nevada                          90
-New Hampshire                   93
-New Jersey                      97
+New Hampshire                   92
+New Jersey                      98
 New Mexico                     100
-New York                        81
-North Carolina                  71
+New York                        82
+North Carolina                  70
 North Dakota                    83
-Ohio                            92
-Oklahoma                        77
+Ohio                            93
+Oklahoma                        78
 Oregon                          57
-Pennsylvania                    94
-Rhode Island                    87
+Pennsylvania                    93
+Rhode Island                    92
 South Carolina                  70
-South Dakota                    75
+South Dakota                    77
 Tennessee                       72
-Texas                           91
-Utah                            79
-Vermont                         77
-Virginia                        72
+Texas                           92
+Utah                            80
+Vermont                         78
+Virginia                        74
 Washington                      80
-West Virginia                   80
+West Virginia                   79
 Wisconsin                       86
 Wyoming                         71

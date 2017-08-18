@@ -1,0 +1,53 @@
+                      Superbad
+geoName                       
+Alabama                     64
+Alaska                      67
+Arizona                     90
+Arkansas                    65
+California                 100
+Colorado                    86
+Connecticut                 93
+Delaware                    77
+District of Columbia        78
+Florida                     68
+Georgia                     70
+Hawaii                      74
+Idaho                       69
+Illinois                    91
+Indiana                     82
+Iowa                        84
+Kansas                      70
+Kentucky                    73
+Louisiana                   72
+Maine                       71
+Maryland                    74
+Massachusetts               93
+Michigan                    84
+Minnesota                   75
+Mississippi                 64
+Missouri                    78
+Montana                     76
+Nebraska                    78
+Nevada                      91
+New Hampshire               84
+New Jersey                  91
+New Mexico                  87
+New York                    86
+North Carolina              62
+North Dakota                80
+Ohio                        79
+Oklahoma                    78
+Oregon                      61
+Pennsylvania                88
+Rhode Island                90
+South Carolina              68
+South Dakota                82
+Tennessee                   66
+Texas                       83
+Utah                        67
+Vermont                     84
+Virginia                    63
+Washington                  80
+West Virginia               70
+Wisconsin                   76
+Wyoming                     69

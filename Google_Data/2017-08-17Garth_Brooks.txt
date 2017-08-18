@@ -1,53 +1,53 @@
                       Garth Brooks
 geoName                           
-Alabama                         41
-Alaska                          23
-Arizona                         35
-Arkansas                        53
-California                      20
-Colorado                        40
-Connecticut                     18
+Alabama                         38
+Alaska                          22
+Arizona                         34
+Arkansas                        52
+California                      19
+Colorado                        39
+Connecticut                     17
 Delaware                        26
 District of Columbia            27
-Florida                         27
-Georgia                         35
+Florida                         25
+Georgia                         34
 Hawaii                          19
-Idaho                           40
-Illinois                        34
-Indiana                         40
-Iowa                            69
-Kansas                          58
-Kentucky                        61
-Louisiana                       55
-Maine                           30
-Maryland                        20
-Massachusetts                   20
-Michigan                        36
-Minnesota                       50
-Mississippi                     46
-Missouri                        56
-Montana                         68
+Idaho                           37
+Illinois                        32
+Indiana                         39
+Iowa                            68
+Kansas                          57
+Kentucky                        59
+Louisiana                       54
+Maine                           29
+Maryland                        19
+Massachusetts                   19
+Michigan                        35
+Minnesota                       48
+Mississippi                     45
+Missouri                        54
+Montana                         66
 Nebraska                        68
-Nevada                          34
-New Hampshire                   25
+Nevada                          33
+New Hampshire                   24
 New Jersey                      17
-New Mexico                      46
+New Mexico                      44
 New York                        19
 North Carolina                  32
 North Dakota                   100
-Ohio                            46
-Oklahoma                        91
+Ohio                            43
+Oklahoma                        88
 Oregon                          23
 Pennsylvania                    31
-Rhode Island                    18
-South Carolina                  39
-South Dakota                    88
-Tennessee                       56
-Texas                           40
-Utah                            43
-Vermont                         25
-Virginia                        23
-Washington                      26
-West Virginia                   61
-Wisconsin                       42
-Wyoming                         64
+Rhode Island                    17
+South Carolina                  38
+South Dakota                    84
+Tennessee                       55
+Texas                           39
+Utah                            42
+Vermont                         24
+Virginia                        22
+Washington                      24
+West Virginia                   60
+Wisconsin                       41
+Wyoming                         65

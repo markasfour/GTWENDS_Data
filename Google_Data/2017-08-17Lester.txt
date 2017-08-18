@@ -1,0 +1,53 @@
+                      Lester
+geoName                     
+Alabama                   51
+Alaska                    37
+Arizona                   37
+Arkansas                  46
+California                36
+Colorado                  35
+Connecticut               48
+Delaware                  45
+District of Columbia      51
+Florida                   37
+Georgia                   49
+Hawaii                    88
+Idaho                     31
+Illinois                  55
+Indiana                   46
+Iowa                      53
+Kansas                    37
+Kentucky                  46
+Louisiana                 45
+Maine                     59
+Maryland                  44
+Massachusetts             58
+Michigan                  39
+Minnesota                 70
+Mississippi               48
+Missouri                  48
+Montana                   41
+Nebraska                  41
+Nevada                    32
+New Hampshire             52
+New Jersey                70
+New Mexico                34
+New York                  44
+North Carolina            41
+North Dakota              37
+Ohio                      41
+Oklahoma                  43
+Oregon                    31
+Pennsylvania              45
+Rhode Island              57
+South Carolina            44
+South Dakota              51
+Tennessee                 53
+Texas                     35
+Utah                      30
+Vermont                   48
+Virginia                  39
+Washington                37
+West Virginia            100
+Wisconsin                 43
+Wyoming                   34

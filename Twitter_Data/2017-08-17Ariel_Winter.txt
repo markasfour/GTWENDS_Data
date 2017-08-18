@@ -1,13 +1,13 @@
-AL 3
+AL 4
 AK 0
 AZ 1
 AR 0
-CA 12
-CO 4
-CT 6
+CA 4
+CO 15
+CT 8
 DE 0
 DC 0
-FL 1
+FL 2
 GA 3
 HI 0
 ID 0
@@ -28,7 +28,7 @@ MT 0
 NE 0
 NV 0
 NH 0
-NJ 8
+NJ 10
 NM 0
 NY 0
 NC 1
@@ -47,5 +47,5 @@ VT 0
 VA 0
 WA 0
 WV 0
-WI 7
+WI 15
 WY 0

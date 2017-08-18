@@ -1,53 +1,53 @@
                       FC Barcelona
 geoName                           
-Alabama                         25
-Alaska                          20
+Alabama                         26
+Alaska                          21
 Arizona                         50
 Arkansas                        41
 California                      95
 Colorado                        45
-Connecticut                     64
-Delaware                        53
-District of Columbia            96
-Florida                         89
+Connecticut                     63
+Delaware                        54
+District of Columbia            95
+Florida                         90
 Georgia                         57
-Hawaii                          30
-Idaho                           35
+Hawaii                          31
+Idaho                           34
 Illinois                        61
 Indiana                         41
-Iowa                            43
-Kansas                          49
+Iowa                            42
+Kansas                          48
 Kentucky                        31
-Louisiana                       32
-Maine                           27
-Maryland                        95
+Louisiana                       33
+Maine                           26
+Maryland                        94
 Massachusetts                   58
-Michigan                        37
-Minnesota                       43
-Mississippi                     19
-Missouri                        32
-Montana                         12
-Nebraska                        58
-Nevada                          74
+Michigan                        38
+Minnesota                       44
+Mississippi                     20
+Missouri                        31
+Montana                         11
+Nebraska                        57
+Nevada                          73
 New Hampshire                   26
 New Jersey                     100
-New Mexico                      43
-New York                        87
+New Mexico                      42
+New York                        89
 North Carolina                  57
-North Dakota                    35
+North Dakota                    37
 Ohio                            29
 Oklahoma                        40
 Oregon                          49
 Pennsylvania                    41
-Rhode Island                    68
-South Carolina                  38
+Rhode Island                    66
+South Carolina                  39
 South Dakota                    41
-Tennessee                       37
+Tennessee                       36
 Texas                           77
 Utah                            52
-Vermont                         36
+Vermont                         37
 Virginia                        91
 Washington                      47
-West Virginia                   19
+West Virginia                   20
 Wisconsin                       30
-Wyoming                         21
+Wyoming                         20

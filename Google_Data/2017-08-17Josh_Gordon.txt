@@ -1,0 +1,53 @@
+                      Josh Gordon
+geoName                          
+Alabama                        18
+Alaska                         15
+Arizona                        22
+Arkansas                       16
+California                     22
+Colorado                       26
+Connecticut                    27
+Delaware                       35
+District of Columbia           36
+Florida                        21
+Georgia                        21
+Hawaii                         30
+Idaho                          16
+Illinois                       32
+Indiana                        27
+Iowa                           26
+Kansas                         22
+Kentucky                       26
+Louisiana                      27
+Maine                          26
+Maryland                       30
+Massachusetts                  36
+Michigan                       32
+Minnesota                      38
+Mississippi                    18
+Missouri                       24
+Montana                        18
+Nebraska                       26
+Nevada                         23
+New Hampshire                  29
+New Jersey                     32
+New Mexico                     16
+New York                       29
+North Carolina                 24
+North Dakota                   32
+Ohio                          100
+Oklahoma                       22
+Oregon                         14
+Pennsylvania                   37
+Rhode Island                   37
+South Carolina                 23
+South Dakota                   25
+Tennessee                      21
+Texas                          24
+Utah                           16
+Vermont                        20
+Virginia                       26
+Washington                     26
+West Virginia                  26
+Wisconsin                      34
+Wyoming                        18

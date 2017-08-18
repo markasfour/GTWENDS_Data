@@ -1,53 +1,53 @@
                       Robert De Niro
 geoName                             
-Alabama                           55
-Alaska                            56
-Arizona                           70
-Arkansas                          52
+Alabama                           54
+Alaska                            54
+Arizona                           71
+Arkansas                          54
 California                        72
 Colorado                          59
-Connecticut                       78
-Delaware                          73
+Connecticut                       80
+Delaware                          77
 District of Columbia              73
 Florida                           76
-Georgia                           63
-Hawaii                            56
-Idaho                             48
-Illinois                          74
-Indiana                           58
-Iowa                              54
+Georgia                           62
+Hawaii                            57
+Idaho                             50
+Illinois                          73
+Indiana                           57
+Iowa                              56
 Kansas                            50
-Kentucky                          57
-Louisiana                         61
+Kentucky                          58
+Louisiana                         62
 Maine                             56
-Maryland                          70
+Maryland                          69
 Massachusetts                     77
 Michigan                          70
 Minnesota                         56
 Mississippi                       57
 Missouri                          62
-Montana                           52
-Nebraska                          54
-Nevada                            85
+Montana                           49
+Nebraska                          53
+Nevada                            86
 New Hampshire                     65
 New Jersey                        96
-New Mexico                        56
+New Mexico                        59
 New York                         100
-North Carolina                    55
-North Dakota                      50
+North Carolina                    56
+North Dakota                      51
 Ohio                              62
-Oklahoma                          63
-Oregon                            44
+Oklahoma                          62
+Oregon                            45
 Pennsylvania                      77
-Rhode Island                      84
-South Carolina                    55
-South Dakota                      44
-Tennessee                         55
-Texas                             62
+Rhode Island                      85
+South Carolina                    53
+South Dakota                      43
+Tennessee                         57
+Texas                             63
 Utah                              49
-Vermont                           55
-Virginia                          55
-Washington                        59
-West Virginia                     56
+Vermont                           52
+Virginia                          54
+Washington                        60
+West Virginia                     57
 Wisconsin                         55
-Wyoming                           56
+Wyoming                           55

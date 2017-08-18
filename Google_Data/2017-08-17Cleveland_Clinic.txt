@@ -1,0 +1,51 @@
+                      Cleveland Clinic
+geoName                               
+Alabama                              1
+Alaska                               1
+Arizona                              1
+Arkansas                             1
+California                           1
+Colorado                             1
+Connecticut                          2
+Delaware                             2
+District of Columbia                 3
+Florida                              9
+Georgia                              2
+Hawaii                               1
+Idaho                                1
+Illinois                             3
+Indiana                              4
+Iowa                                 1
+Kansas                               1
+Kentucky                             4
+Louisiana                            1
+Maine                                1
+Maryland                             2
+Massachusetts                        2
+Michigan                             7
+Minnesota                            3
+Mississippi                          3
+Missouri                             2
+Montana                              1
+Nebraska                             1
+Nevada                               3
+New Hampshire                        1
+New Jersey                           1
+New Mexico                           1
+New York                             2
+North Carolina                       2
+Ohio                               100
+Oklahoma                             2
+Oregon                               1
+Pennsylvania                         5
+Rhode Island                         2
+South Carolina                       2
+South Dakota                         1
+Tennessee                            4
+Texas                                1
+Utah                                 1
+Vermont                              2
+Virginia                             2
+Washington                           1
+West Virginia                       12
+Wisconsin                            2

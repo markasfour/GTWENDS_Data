@@ -1,52 +1,52 @@
                       Barcelona
 geoName                        
 Alabama                      25
-Alaska                       26
-Arizona                      48
+Alaska                       25
+Arizona                      47
 Arkansas                     34
 California                   81
 Colorado                     45
-Connecticut                  82
-Delaware                     52
+Connecticut                  83
+Delaware                     53
 District of Columbia        100
 Florida                      82
 Georgia                      56
-Hawaii                       35
+Hawaii                       36
 Idaho                        31
-Illinois                     55
+Illinois                     54
 Indiana                      37
 Iowa                         33
 Kansas                       59
 Kentucky                     30
 Louisiana                    33
 Maine                        29
-Maryland                     79
-Massachusetts                74
+Maryland                     78
+Massachusetts                75
 Michigan                     35
-Minnesota                    40
+Minnesota                    39
 Mississippi                  20
 Missouri                     32
 Montana                      19
 Nebraska                     41
 Nevada                       61
-New Hampshire                34
-New Jersey                   86
+New Hampshire                35
+New Jersey                   87
 New Mexico                   45
 New York                     88
 North Carolina               49
-North Dakota                 26
+North Dakota                 25
 Ohio                         32
 Oklahoma                     36
-Oregon                       69
+Oregon                       67
 Pennsylvania                 42
-Rhode Island                 60
-South Carolina               36
+Rhode Island                 61
+South Carolina               37
 South Dakota                 30
 Tennessee                    35
-Texas                        67
+Texas                        66
 Utah                         42
-Vermont                      41
-Virginia                     86
+Vermont                      40
+Virginia                     88
 Washington                   46
 West Virginia                20
 Wisconsin                    29
