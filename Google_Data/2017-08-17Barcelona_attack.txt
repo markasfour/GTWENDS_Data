@@ -1,0 +1,44 @@
+                      Barcelona attack
+geoName                               
+Alabama                             16
+Alaska                              80
+Arizona                             47
+California                          52
+Colorado                            21
+Connecticut                         77
+District of Columbia                28
+Florida                             22
+Georgia                             23
+Hawaii                             100
+Idaho                               40
+Illinois                            41
+Indiana                             32
+Iowa                                61
+Kansas                              35
+Kentucky                            22
+Louisiana                           37
+Maine                               43
+Maryland                            56
+Massachusetts                       25
+Michigan                            11
+Minnesota                           34
+Mississippi                         29
+Missouri                            35
+Nebraska                            28
+Nevada                              63
+New Jersey                          45
+New York                            47
+North Carolina                      33
+Ohio                                26
+Oklahoma                            33
+Oregon                              32
+Pennsylvania                        40
+Rhode Island                        47
+South Carolina                      40
+Tennessee                           18
+Texas                               27
+Utah                                18
+Virginia                            46
+Washington                          25
+West Virginia                       46
+Wisconsin                           24

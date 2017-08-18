@@ -1,20 +1,20 @@
                 Obi-Wan Kenobi
 geoName                       
-Arizona                     90
-California                  75
-Colorado                    81
-Florida                     75
-Georgia                     64
-Illinois                    65
+Arizona                     77
+California                  70
+Colorado                    75
+Florida                     68
+Georgia                     61
+Illinois                    62
 Indiana                    100
-Massachusetts               64
-Michigan                    85
-Minnesota                   87
-New Jersey                  69
+Massachusetts               54
+Michigan                    74
+Minnesota                   84
+New Jersey                  61
 New York                    50
-North Carolina              72
-Ohio                        83
-Pennsylvania                77
-Texas                       67
-Virginia                    65
-Washington                  90
+North Carolina              61
+Ohio                        78
+Pennsylvania                68
+Texas                       60
+Virginia                    67
+Washington                  87

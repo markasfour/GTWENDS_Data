@@ -1,53 +1,53 @@
                       Barcelona
 geoName                        
 Alabama                      25
-Alaska                       25
-Arizona                      47
-Arkansas                     34
+Alaska                       26
+Arizona                      48
+Arkansas                     33
 California                   81
 Colorado                     45
-Connecticut                  83
-Delaware                     53
+Connecticut                  81
+Delaware                     52
 District of Columbia        100
-Florida                      82
-Georgia                      56
-Hawaii                       36
-Idaho                        31
-Illinois                     54
+Florida                      81
+Georgia                      55
+Hawaii                       35
+Idaho                        30
+Illinois                     56
 Indiana                      37
 Iowa                         33
 Kansas                       59
-Kentucky                     30
+Kentucky                     29
 Louisiana                    33
 Maine                        29
 Maryland                     78
-Massachusetts                75
-Michigan                     35
+Massachusetts                73
+Michigan                     34
 Minnesota                    39
 Mississippi                  20
 Missouri                     32
 Montana                      19
-Nebraska                     41
+Nebraska                     39
 Nevada                       61
-New Hampshire                35
-New Jersey                   87
+New Hampshire                34
+New Jersey                   86
 New Mexico                   45
-New York                     88
+New York                     86
 North Carolina               49
 North Dakota                 25
 Ohio                         32
-Oklahoma                     36
-Oregon                       67
+Oklahoma                     35
+Oregon                       68
 Pennsylvania                 42
 Rhode Island                 61
-South Carolina               37
-South Dakota                 30
+South Carolina               36
+South Dakota                 29
 Tennessee                    35
-Texas                        66
+Texas                        65
 Utah                         42
-Vermont                      40
-Virginia                     88
+Vermont                      41
+Virginia                     87
 Washington                   46
-West Virginia                20
+West Virginia                19
 Wisconsin                    29
-Wyoming                      24
+Wyoming                      25

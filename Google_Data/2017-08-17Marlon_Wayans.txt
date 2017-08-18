@@ -1,53 +1,53 @@
                       Marlon Wayans
 geoName                            
-Alabama                          80
-Alaska                           35
-Arizona                          55
-Arkansas                         59
-California                       66
-Colorado                         45
-Connecticut                      55
-Delaware                         83
+Alabama                          85
+Alaska                           40
+Arizona                          56
+Arkansas                         55
+California                       65
+Colorado                         44
+Connecticut                      52
+Delaware                         68
 District of Columbia             85
-Florida                          71
-Georgia                          93
-Hawaii                           42
-Idaho                            30
+Florida                          72
+Georgia                          95
+Hawaii                           48
+Idaho                            25
 Illinois                         68
-Indiana                          56
-Iowa                             42
-Kansas                           53
-Kentucky                         56
+Indiana                          53
+Iowa                             39
+Kansas                           54
+Kentucky                         50
 Louisiana                       100
-Maine                            30
-Maryland                         91
-Massachusetts                    49
-Michigan                         69
-Minnesota                        38
-Mississippi                      99
-Missouri                         65
-Montana                          27
-Nebraska                         43
+Maine                            29
+Maryland                         95
+Massachusetts                    48
+Michigan                         68
+Minnesota                        43
+Mississippi                      94
+Missouri                         67
+Montana                          29
+Nebraska                         41
 Nevada                           69
-New Hampshire                    29
-New Jersey                       74
-New Mexico                       44
-New York                         80
-North Carolina                   75
-North Dakota                     39
-Ohio                             59
-Oklahoma                         51
-Oregon                           24
-Pennsylvania                     60
-Rhode Island                     50
-South Carolina                   87
-South Dakota                     26
-Tennessee                        64
-Texas                            71
-Utah                             28
-Vermont                          21
-Virginia                         63
-Washington                       41
-West Virginia                    43
-Wisconsin                        39
-Wyoming                          29
+New Hampshire                    28
+New Jersey                       72
+New Mexico                       39
+New York                         81
+North Carolina                   71
+North Dakota                     37
+Ohio                             56
+Oklahoma                         54
+Oregon                           27
+Pennsylvania                     61
+Rhode Island                     45
+South Carolina                   94
+South Dakota                     34
+Tennessee                        63
+Texas                            73
+Utah                             26
+Vermont                          27
+Virginia                         65
+Washington                       40
+West Virginia                    42
+Wisconsin                        41
+Wyoming                          23

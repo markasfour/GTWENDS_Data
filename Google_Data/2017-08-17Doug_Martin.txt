@@ -1,0 +1,53 @@
+                      Doug Martin
+geoName                          
+Alabama                        17
+Alaska                         16
+Arizona                        23
+Arkansas                       18
+California                     24
+Colorado                       26
+Connecticut                    28
+Delaware                       29
+District of Columbia           31
+Florida                        34
+Georgia                        19
+Hawaii                         29
+Idaho                         100
+Illinois                       30
+Indiana                        24
+Iowa                           27
+Kansas                         19
+Kentucky                       21
+Louisiana                      24
+Maine                          20
+Maryland                       26
+Massachusetts                  33
+Michigan                       25
+Minnesota                      35
+Mississippi                    17
+Missouri                       22
+Montana                        22
+Nebraska                       22
+Nevada                         21
+New Hampshire                  22
+New Jersey                     32
+New Mexico                     19
+New York                       26
+North Carolina                 21
+North Dakota                   31
+Ohio                           27
+Oklahoma                       18
+Oregon                         14
+Pennsylvania                   30
+Rhode Island                   33
+South Carolina                 20
+South Dakota                   32
+Tennessee                      18
+Texas                          21
+Utah                           17
+Vermont                        21
+Virginia                       21
+Washington                     25
+West Virginia                  22
+Wisconsin                      33
+Wyoming                        18

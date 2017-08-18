@@ -1,53 +1,53 @@
                       Grace VanderWaal
 geoName                               
-Alabama                             61
-Alaska                              70
+Alabama                             62
+Alaska                              73
 Arizona                             64
-Arkansas                            65
-California                          58
-Colorado                            67
-Connecticut                         84
-Delaware                            69
+Arkansas                            67
+California                          60
+Colorado                            68
+Connecticut                         83
+Delaware                            70
 District of Columbia                47
-Florida                             57
-Georgia                             48
-Hawaii                              65
-Idaho                               95
-Illinois                            62
-Indiana                             82
-Iowa                                80
-Kansas                              60
-Kentucky                            61
-Louisiana                           49
-Maine                               93
-Maryland                            54
-Massachusetts                       75
-Michigan                            71
-Minnesota                           66
-Mississippi                         47
-Missouri                            58
+Florida                             60
+Georgia                             53
+Hawaii                              66
+Idaho                               99
+Illinois                            64
+Indiana                             83
+Iowa                                85
+Kansas                              59
+Kentucky                            66
+Louisiana                           52
+Maine                               94
+Maryland                            58
+Massachusetts                       77
+Michigan                            73
+Minnesota                           70
+Mississippi                         50
+Missouri                            60
 Montana                             96
-Nebraska                            75
-Nevada                              61
-New Hampshire                      100
-New Jersey                          79
-New Mexico                          60
-New York                            59
-North Carolina                      58
-North Dakota                        81
-Ohio                                70
-Oklahoma                            55
-Oregon                              55
-Pennsylvania                        71
-Rhode Island                        75
-South Carolina                      63
-South Dakota                        68
-Tennessee                           56
-Texas                               56
-Utah                                94
-Vermont                             78
-Virginia                            46
-Washington                          70
-West Virginia                       64
-Wisconsin                           72
-Wyoming                             69
+Nebraska                            77
+Nevada                              66
+New Hampshire                       99
+New Jersey                          82
+New Mexico                          63
+New York                            61
+North Carolina                      59
+North Dakota                        79
+Ohio                                72
+Oklahoma                            54
+Oregon                              58
+Pennsylvania                        73
+Rhode Island                        81
+South Carolina                      65
+South Dakota                        75
+Tennessee                           58
+Texas                               58
+Utah                               100
+Vermont                             80
+Virginia                            48
+Washington                          71
+West Virginia                       65
+Wisconsin                           73
+Wyoming                             66

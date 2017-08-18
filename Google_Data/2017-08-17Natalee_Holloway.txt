@@ -1,53 +1,53 @@
                       Natalee Holloway
 geoName                               
 Alabama                            100
-Alaska                              20
-Arizona                             25
-Arkansas                            34
-California                          24
-Colorado                            23
-Connecticut                         32
-Delaware                            35
-District of Columbia                35
+Alaska                              21
+Arizona                             24
+Arkansas                            33
+California                          25
+Colorado                            24
+Connecticut                         33
+Delaware                            34
+District of Columbia                36
 Florida                             34
 Georgia                             41
 Hawaii                              24
-Idaho                               21
+Idaho                               22
 Illinois                            30
-Indiana                             32
-Iowa                                28
-Kansas                              23
-Kentucky                            37
-Louisiana                           37
-Maine                               31
-Maryland                            28
-Massachusetts                       31
-Michigan                            31
+Indiana                             34
+Iowa                                29
+Kansas                              26
+Kentucky                            38
+Louisiana                           40
+Maine                               28
+Maryland                            32
+Massachusetts                       33
+Michigan                            32
 Minnesota                           24
-Mississippi                         54
-Missouri                            29
-Montana                             23
-Nebraska                            27
-Nevada                              29
-New Hampshire                       33
-New Jersey                          38
-New Mexico                          25
-New York                            30
+Mississippi                         58
+Missouri                            30
+Montana                             30
+Nebraska                            26
+Nevada                              28
+New Hampshire                       31
+New Jersey                          37
+New Mexico                          28
+New York                            31
 North Carolina                      36
-North Dakota                        35
+North Dakota                        28
 Ohio                                34
-Oklahoma                            34
-Oregon                              16
-Pennsylvania                        37
-Rhode Island                        43
-South Carolina                      40
-South Dakota                        37
-Tennessee                           42
+Oklahoma                            35
+Oregon                              18
+Pennsylvania                        41
+Rhode Island                        45
+South Carolina                      38
+South Dakota                        39
+Tennessee                           39
 Texas                               31
-Utah                                24
-Vermont                             16
-Virginia                            25
-Washington                          23
-West Virginia                       41
-Wisconsin                           25
-Wyoming                             18
+Utah                                21
+Vermont                             23
+Virginia                            24
+Washington                          24
+West Virginia                       35
+Wisconsin                           26
+Wyoming                             21

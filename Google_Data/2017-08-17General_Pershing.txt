@@ -1,0 +1,53 @@
+                      General Pershing
+geoName                               
+Alabama                             16
+Alaska                              22
+Arizona                             13
+Arkansas                            19
+California                          10
+Colorado                            12
+Connecticut                         10
+Delaware                             9
+District of Columbia                13
+Florida                             10
+Georgia                             11
+Hawaii                              11
+Idaho                               15
+Illinois                            13
+Indiana                             11
+Iowa                                12
+Kansas                              20
+Kentucky                            14
+Louisiana                          100
+Maine                                7
+Maryland                            10
+Massachusetts                        8
+Michigan                            10
+Minnesota                           10
+Mississippi                         25
+Missouri                            23
+Montana                             15
+Nebraska                            18
+Nevada                              19
+New Hampshire                       11
+New Jersey                          12
+New Mexico                          15
+New York                             9
+North Carolina                      17
+North Dakota                        13
+Ohio                                11
+Oklahoma                            48
+Oregon                               7
+Pennsylvania                        11
+Rhode Island                        11
+South Carolina                      13
+South Dakota                        13
+Tennessee                           13
+Texas                               17
+Utah                                10
+Vermont                             11
+Virginia                            12
+Washington                          10
+West Virginia                       19
+Wisconsin                           12
+Wyoming                             20

@@ -1,53 +1,53 @@
                       Daniel Craig
 geoName                           
-Alabama                         65
-Alaska                          88
-Arizona                         81
-Arkansas                        63
-California                      90
-Colorado                        88
-Connecticut                     87
-Delaware                        73
-District of Columbia            97
-Florida                         75
-Georgia                         75
-Hawaii                          78
-Idaho                           82
-Illinois                        84
+Alabama                         66
+Alaska                          84
+Arizona                         80
+Arkansas                        61
+California                      87
+Colorado                        86
+Connecticut                     80
+Delaware                        72
+District of Columbia            96
+Florida                         74
+Georgia                         71
+Hawaii                          75
+Idaho                           77
+Illinois                        81
 Indiana                         69
 Iowa                            66
-Kansas                          69
-Kentucky                        66
-Louisiana                       68
-Maine                           76
-Maryland                        85
-Massachusetts                   91
-Michigan                        80
-Minnesota                       80
-Mississippi                     54
-Missouri                        78
-Montana                         73
-Nebraska                        69
+Kansas                          63
+Kentucky                        63
+Louisiana                       65
+Maine                           72
+Maryland                        84
+Massachusetts                   88
+Michigan                        76
+Minnesota                       77
+Mississippi                     58
+Missouri                        75
+Montana                         68
+Nebraska                        67
 Nevada                          76
-New Hampshire                   81
-New Jersey                      88
-New Mexico                      73
-New York                        95
-North Carolina                  68
+New Hampshire                   78
+New Jersey                      82
+New Mexico                      69
+New York                        93
+North Carolina                  67
 North Dakota                    64
 Ohio                            72
-Oklahoma                        80
-Oregon                          67
-Pennsylvania                    79
-Rhode Island                    82
-South Carolina                  67
-South Dakota                    59
-Tennessee                       74
-Texas                           73
-Utah                            95
+Oklahoma                        77
+Oregon                          66
+Pennsylvania                    76
+Rhode Island                    72
+South Carolina                  65
+South Dakota                    54
+Tennessee                       72
+Texas                           71
+Utah                            93
 Vermont                        100
-Virginia                        75
-Washington                      94
-West Virginia                   70
-Wisconsin                       71
-Wyoming                         85
+Virginia                        71
+Washington                      93
+West Virginia                   61
+Wisconsin                       70
+Wyoming                         70
