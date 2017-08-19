@@ -1,0 +1,53 @@
+                      Kluber
+geoName                     
+Alabama                    9
+Alaska                     6
+Arizona                   10
+Arkansas                   8
+California                 9
+Colorado                   8
+Connecticut               16
+Delaware                  14
+District of Columbia      14
+Florida                   10
+Georgia                    7
+Hawaii                     5
+Idaho                      7
+Illinois                  26
+Indiana                   16
+Iowa                      17
+Kansas                    10
+Kentucky                  10
+Louisiana                  7
+Maine                     14
+Maryland                   9
+Massachusetts             19
+Michigan                  18
+Minnesota                 10
+Mississippi                5
+Missouri                  13
+Montana                    5
+Nebraska                  11
+Nevada                     9
+New Hampshire             22
+New Jersey                14
+New Mexico                 5
+New York                  13
+North Carolina             9
+North Dakota              11
+Ohio                     100
+Oklahoma                   7
+Oregon                     6
+Pennsylvania              15
+Rhode Island               8
+South Carolina            10
+South Dakota              14
+Tennessee                  9
+Texas                     10
+Utah                       6
+Vermont                   15
+Virginia                   7
+Washington                10
+West Virginia              8
+Wisconsin                 16
+Wyoming                    6

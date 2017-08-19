@@ -1,53 +1,53 @@
                       Heather Heyer
 geoName                            
-Alabama                          36
-Alaska                           44
-Arizona                          47
-Arkansas                         30
-California                       60
-Colorado                         52
-Connecticut                      66
-Delaware                         91
-District of Columbia            100
-Florida                          44
-Georgia                          47
-Hawaii                           32
-Idaho                            43
-Illinois                         54
-Indiana                          47
-Iowa                             27
-Kansas                           39
-Kentucky                         48
-Louisiana                        41
-Maine                            56
-Maryland                         92
-Massachusetts                    64
-Michigan                         47
+Alabama                          37
+Alaska                           33
+Arizona                          48
+Arkansas                         31
+California                       59
+Colorado                         57
+Connecticut                      69
+Delaware                         92
+District of Columbia             88
+Florida                          42
+Georgia                          53
+Hawaii                           25
+Idaho                            49
+Illinois                         55
+Indiana                          48
+Iowa                             34
+Kansas                           54
+Kentucky                         40
+Louisiana                        35
+Maine                            45
+Maryland                         82
+Massachusetts                    63
+Michigan                         55
 Minnesota                        47
 Mississippi                      29
-Missouri                         45
-Montana                          28
-Nebraska                         57
-Nevada                           46
-New Hampshire                    68
-New Jersey                       63
-New Mexico                       69
-New York                         57
-North Carolina                   56
-North Dakota                     17
+Missouri                         49
+Montana                          32
+Nebraska                         38
+Nevada                           45
+New Hampshire                    77
+New Jersey                       57
+New Mexico                       78
+New York                         55
+North Carolina                   52
+North Dakota                     29
 Ohio                             43
-Oklahoma                         41
-Oregon                           60
+Oklahoma                         28
+Oregon                           53
 Pennsylvania                     56
-Rhode Island                     70
-South Carolina                   43
-South Dakota                     34
-Tennessee                        42
-Texas                            40
-Utah                             42
-Vermont                          57
-Virginia                         98
-Washington                       60
-West Virginia                    25
-Wisconsin                        38
-Wyoming                          34
+Rhode Island                     74
+South Carolina                   49
+South Dakota                     29
+Tennessee                        50
+Texas                            42
+Utah                             34
+Vermont                          70
+Virginia                        100
+Washington                       57
+West Virginia                    37
+Wisconsin                        50
+Wyoming                          43

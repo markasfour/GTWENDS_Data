@@ -1,0 +1,50 @@
+                      Devers
+geoName                     
+Alabama                   32
+Alaska                    33
+Arizona                   32
+Arkansas                  21
+California                25
+Colorado                  23
+Connecticut               57
+Delaware                  31
+District of Columbia      38
+Florida                   23
+Georgia                   32
+Hawaii                    19
+Idaho                     22
+Illinois                  29
+Indiana                   38
+Iowa                      18
+Kansas                    26
+Kentucky                  90
+Louisiana                 37
+Maine                     90
+Maryland                  35
+Massachusetts             98
+Michigan                  51
+Minnesota                 28
+Mississippi               26
+Missouri                  32
+Montana                   26
+Nebraska                  34
+Nevada                    28
+New Hampshire             72
+New Jersey                36
+New Mexico                21
+New York                  31
+North Carolina            43
+Ohio                     100
+Oklahoma                  30
+Oregon                    91
+Pennsylvania              45
+Rhode Island              85
+South Carolina            27
+Tennessee                 28
+Texas                     42
+Utah                      13
+Vermont                   51
+Virginia                  33
+Washington                30
+West Virginia             30
+Wisconsin                 21

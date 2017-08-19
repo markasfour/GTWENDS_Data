@@ -1,53 +1,53 @@
                       Breitbart
 geoName                        
-Alabama                      84
-Alaska                       84
-Arizona                      80
-Arkansas                     62
+Alabama                      85
+Alaska                       83
+Arizona                      82
+Arkansas                     64
 California                   55
-Colorado                     75
-Connecticut                  66
-Delaware                     74
+Colorado                     74
+Connecticut                  67
+Delaware                     77
 District of Columbia         69
-Florida                      64
-Georgia                      55
-Hawaii                       47
-Idaho                        88
-Illinois                     60
+Florida                      63
+Georgia                      54
+Hawaii                       46
+Idaho                        92
+Illinois                     61
 Indiana                      73
-Iowa                         60
-Kansas                       60
+Iowa                         59
+Kansas                       59
 Kentucky                     55
-Louisiana                    70
-Maine                        82
-Maryland                     67
-Massachusetts                67
-Michigan                     64
-Minnesota                    60
-Mississippi                  66
+Louisiana                    71
+Maine                        78
+Maryland                     68
+Massachusetts                66
+Michigan                     66
+Minnesota                    61
+Mississippi                  68
 Missouri                     69
 Montana                     100
-Nebraska                     75
-Nevada                       70
-New Hampshire                79
+Nebraska                     76
+Nevada                       71
+New Hampshire                78
 New Jersey                   59
-New Mexico                   74
+New Mexico                   72
 New York                     51
 North Carolina               66
-North Dakota                 65
+North Dakota                 68
 Ohio                         66
 Oklahoma                     64
 Oregon                       55
-Pennsylvania                 65
-Rhode Island                 57
+Pennsylvania                 66
+Rhode Island                 56
 South Carolina               72
 South Dakota                 74
-Tennessee                    71
+Tennessee                    70
 Texas                        61
-Utah                         56
+Utah                         58
 Vermont                      65
 Virginia                     60
-Washington                   67
-West Virginia                60
+Washington                   68
+West Virginia                59
 Wisconsin                    61
 Wyoming                      91

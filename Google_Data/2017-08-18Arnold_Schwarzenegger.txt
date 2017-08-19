@@ -1,53 +1,53 @@
                       Arnold Schwarzenegger
 geoName                                    
-Alabama                                  73
-Alaska                                   92
+Alabama                                  74
+Alaska                                   90
 Arizona                                  93
-Arkansas                                 77
+Arkansas                                 76
 California                               93
 Colorado                                 84
-Connecticut                              77
-Delaware                                 76
-District of Columbia                     79
+Connecticut                              76
+Delaware                                 79
+District of Columbia                     78
 Florida                                  85
-Georgia                                  76
-Hawaii                                   86
+Georgia                                  75
+Hawaii                                   87
 Idaho                                    94
-Illinois                                 85
-Indiana                                  83
-Iowa                                     85
+Illinois                                 83
+Indiana                                  81
+Iowa                                     82
 Kansas                                   78
-Kentucky                                 84
+Kentucky                                 82
 Louisiana                                80
-Maine                                    78
-Maryland                                 74
+Maine                                    75
+Maryland                                 71
 Massachusetts                            78
-Michigan                                 84
-Minnesota                                74
+Michigan                                 85
+Minnesota                                75
 Mississippi                              75
-Missouri                                 83
+Missouri                                 82
 Montana                                  78
 Nebraska                                 86
 Nevada                                  100
-New Hampshire                            76
-New Jersey                               89
-New Mexico                               91
-New York                                 83
-North Carolina                           74
-North Dakota                             86
-Ohio                                     88
-Oklahoma                                 93
-Oregon                                   64
+New Hampshire                            77
+New Jersey                               88
+New Mexico                               89
+New York                                 81
+North Carolina                           73
+North Dakota                             82
+Ohio                                     85
+Oklahoma                                 90
+Oregon                                   63
 Pennsylvania                             83
 Rhode Island                             84
-South Carolina                           76
-South Dakota                             84
-Tennessee                                78
-Texas                                    86
-Utah                                     87
-Vermont                                  72
+South Carolina                           72
+South Dakota                             78
+Tennessee                                77
+Texas                                    87
+Utah                                     84
+Vermont                                  74
 Virginia                                 68
-Washington                               86
+Washington                               84
 West Virginia                            87
-Wisconsin                                81
-Wyoming                                  89
+Wisconsin                                80
+Wyoming                                  91

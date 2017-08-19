@@ -1,53 +1,53 @@
                       Steve Bannon
 geoName                           
 Alabama                         49
-Alaska                          46
-Arizona                         51
+Alaska                          48
+Arizona                         54
 Arkansas                        45
-California                      67
-Colorado                        62
-Connecticut                     78
-Delaware                        70
+California                      68
+Colorado                        64
+Connecticut                     77
+Delaware                        64
 District of Columbia           100
-Florida                         51
-Georgia                         46
-Hawaii                          47
-Idaho                           48
+Florida                         54
+Georgia                         49
+Hawaii                          38
+Idaho                           51
 Illinois                        62
 Indiana                         53
-Iowa                            49
-Kansas                          41
-Kentucky                        44
-Louisiana                       44
+Iowa                            50
+Kansas                          43
+Kentucky                        45
+Louisiana                       45
 Maine                           67
-Maryland                        74
-Massachusetts                   75
-Michigan                        59
-Minnesota                       58
-Mississippi                     34
+Maryland                        78
+Massachusetts                   79
+Michigan                        61
+Minnesota                       56
+Mississippi                     35
 Missouri                        50
-Montana                         59
-Nebraska                        51
-Nevada                          46
-New Hampshire                   66
-New Jersey                      68
-New Mexico                      56
+Montana                         60
+Nebraska                        50
+Nevada                          45
+New Hampshire                   70
+New Jersey                      70
+New Mexico                      52
 New York                        75
-North Carolina                  51
-North Dakota                    42
-Ohio                            56
+North Carolina                  53
+North Dakota                    44
+Ohio                            57
 Oklahoma                        42
-Oregon                          58
-Pennsylvania                    63
-Rhode Island                    81
-South Carolina                  48
-South Dakota                    45
-Tennessee                       49
-Texas                           43
-Utah                            48
-Vermont                         81
+Oregon                          62
+Pennsylvania                    65
+Rhode Island                    77
+South Carolina                  49
+South Dakota                    42
+Tennessee                       51
+Texas                           44
+Utah                            50
+Vermont                         85
 Virginia                        59
-Washington                      70
-West Virginia                   54
-Wisconsin                       48
-Wyoming                         54
+Washington                      73
+West Virginia                   50
+Wisconsin                       50
+Wyoming                         43

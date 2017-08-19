@@ -1,53 +1,53 @@
                       Trump impeachment
 geoName                                
-Alabama                              57
-Alaska                               47
-Arizona                              71
-Arkansas                             51
-California                           80
-Colorado                             88
-Connecticut                          82
-Delaware                             98
-District of Columbia                 83
-Florida                              66
-Georgia                              59
-Hawaii                               61
-Idaho                                70
-Illinois                             71
+Alabama                              54
+Alaska                               39
+Arizona                              69
+Arkansas                             50
+California                           78
+Colorado                             85
+Connecticut                          79
+Delaware                             90
+District of Columbia                 82
+Florida                              61
+Georgia                              56
+Hawaii                               60
+Idaho                                61
+Illinois                             70
 Indiana                              74
-Iowa                                 70
-Kansas                               49
-Kentucky                             57
-Louisiana                            56
-Maine                                94
+Iowa                                 68
+Kansas                               47
+Kentucky                             54
+Louisiana                            51
+Maine                                79
 Maryland                             83
-Massachusetts                        79
-Michigan                             71
-Minnesota                            71
-Mississippi                          51
-Missouri                             57
+Massachusetts                        78
+Michigan                             67
+Minnesota                            72
+Mississippi                          43
+Missouri                             55
 Montana                              70
-Nebraska                             65
-Nevada                               77
-New Hampshire                        78
-New Jersey                           76
-New Mexico                           79
-New York                             74
-North Carolina                       66
-North Dakota                         63
-Ohio                                 69
-Oklahoma                             47
-Oregon                               73
-Pennsylvania                         80
-Rhode Island                         76
-South Carolina                       65
-South Dakota                         75
-Tennessee                            62
-Texas                                58
-Utah                                 57
+Nebraska                             60
+Nevada                               75
+New Hampshire                        75
+New Jersey                           73
+New Mexico                           80
+New York                             72
+North Carolina                       62
+North Dakota                         58
+Ohio                                 68
+Oklahoma                             41
+Oregon                               75
+Pennsylvania                         76
+Rhode Island                         85
+South Carolina                       63
+South Dakota                         63
+Tennessee                            59
+Texas                                56
+Utah                                 53
 Vermont                             100
 Virginia                             54
-Washington                           95
-West Virginia                        66
-Wisconsin                            57
-Wyoming                              50
+Washington                           89
+West Virginia                        56
+Wisconsin                            55
+Wyoming                              57

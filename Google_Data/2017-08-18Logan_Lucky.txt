@@ -1,53 +1,53 @@
                       Logan Lucky
 geoName                          
-Alabama                        67
-Alaska                         29
-Arizona                        46
-Arkansas                       44
-California                     51
-Colorado                       51
-Connecticut                    38
-Delaware                       46
-District of Columbia           46
-Florida                        45
-Georgia                        84
-Hawaii                         47
-Idaho                          62
-Illinois                       48
-Indiana                        51
-Iowa                           52
-Kansas                         46
-Kentucky                       97
-Louisiana                      45
-Maine                          84
-Maryland                       48
-Massachusetts                  50
-Michigan                       45
-Minnesota                      41
-Mississippi                    34
-Missouri                       44
-Montana                        49
-Nebraska                       60
-Nevada                         51
-New Hampshire                  58
-New Jersey                     51
-New Mexico                     45
-New York                       46
-North Carolina                 87
-North Dakota                   56
-Ohio                           51
-Oklahoma                       64
-Oregon                         36
+Alabama                        77
+Alaska                         32
+Arizona                        47
+Arkansas                       55
+California                     49
+Colorado                       42
+Connecticut                    47
+Delaware                       41
+District of Columbia           42
+Florida                        41
+Georgia                        75
+Hawaii                         23
+Idaho                          69
+Illinois                       52
+Indiana                        63
+Iowa                           45
+Kansas                         47
+Kentucky                       84
+Louisiana                      49
+Maine                          61
+Maryland                       51
+Massachusetts                  46
+Michigan                       48
+Minnesota                      37
+Mississippi                    52
+Missouri                       43
+Montana                        41
+Nebraska                       46
+Nevada                         45
+New Hampshire                  50
+New Jersey                     43
+New Mexico                     31
+New York                       45
+North Carolina                 83
+North Dakota                   46
+Ohio                           54
+Oklahoma                       47
+Oregon                         28
 Pennsylvania                   51
-Rhode Island                   24
-South Carolina                 64
-South Dakota                   31
-Tennessee                      91
-Texas                          46
-Utah                           79
-Vermont                        57
-Virginia                       49
-Washington                     45
+Rhode Island                   70
+South Carolina                 57
+South Dakota                   38
+Tennessee                      81
+Texas                          41
+Utah                           96
+Vermont                        51
+Virginia                       43
+Washington                     48
 West Virginia                 100
-Wisconsin                      43
-Wyoming                        59
+Wisconsin                      36
+Wyoming                        57

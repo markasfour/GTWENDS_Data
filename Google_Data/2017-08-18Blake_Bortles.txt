@@ -1,53 +1,53 @@
                       Blake Bortles
 geoName                            
-Alabama                          30
-Alaska                           17
-Arizona                          28
+Alabama                          36
+Alaska                           16
+Arizona                          30
 Arkansas                         24
 California                       24
-Colorado                         33
-Connecticut                      36
-Delaware                         37
-District of Columbia             39
+Colorado                         35
+Connecticut                      35
+Delaware                         35
+District of Columbia             40
 Florida                         100
 Georgia                          38
-Hawaii                           25
-Idaho                            25
-Illinois                         35
-Indiana                          36
+Hawaii                           24
+Idaho                            23
+Illinois                         37
+Indiana                          33
 Iowa                             44
 Kansas                           29
 Kentucky                         41
-Louisiana                        36
-Maine                            22
-Maryland                         37
+Louisiana                        38
+Maine                            24
+Maryland                         36
 Massachusetts                    39
-Michigan                         33
-Minnesota                        52
-Mississippi                      36
-Missouri                         32
+Michigan                         32
+Minnesota                        53
+Mississippi                      38
+Missouri                         35
 Montana                          27
-Nebraska                         42
-Nevada                           31
-New Hampshire                    29
-New Jersey                       42
-New Mexico                       18
+Nebraska                         40
+Nevada                           33
+New Hampshire                    33
+New Jersey                       40
+New Mexico                       17
 New York                         33
-North Carolina                   31
-North Dakota                     64
-Ohio                             51
-Oklahoma                         42
+North Carolina                   34
+North Dakota                     48
+Ohio                             54
+Oklahoma                         38
 Oregon                           17
-Pennsylvania                     41
-Rhode Island                     38
+Pennsylvania                     42
+Rhode Island                     40
 South Carolina                   35
-South Dakota                     47
-Tennessee                        36
+South Dakota                     45
+Tennessee                        35
 Texas                            39
-Utah                             18
+Utah                             22
 Vermont                          29
-Virginia                         33
-Washington                       31
-West Virginia                    29
-Wisconsin                        41
-Wyoming                          25
+Virginia                         32
+Washington                       30
+West Virginia                    33
+Wisconsin                        42
+Wyoming                          23
