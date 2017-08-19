@@ -6,7 +6,7 @@ Arizona                        25
 Arkansas                       19
 California                     28
 Colorado                       21
-Connecticut                    91
+Connecticut                    92
 Delaware                       35
 District of Columbia           35
 Florida                        32
@@ -19,7 +19,7 @@ Iowa                           27
 Kansas                         23
 Kentucky                       22
 Louisiana                      24
-Maine                          37
+Maine                          38
 Maryland                       29
 Massachusetts                  44
 Michigan                       25
@@ -37,7 +37,7 @@ North Carolina                 28
 North Dakota                   24
 Ohio                           28
 Oklahoma                       21
-Oregon                         15
+Oregon                         14
 Pennsylvania                   37
 Rhode Island                   65
 South Carolina                 27

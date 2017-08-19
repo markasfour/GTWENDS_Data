@@ -1,0 +1,53 @@
+                      Bayern
+geoName                     
+Alabama                   36
+Alaska                    26
+Arizona                   53
+Arkansas                  36
+California                83
+Colorado                  50
+Connecticut               73
+Delaware                  63
+District of Columbia      77
+Florida                   75
+Georgia                   55
+Hawaii                    44
+Idaho                     32
+Illinois                  72
+Indiana                   46
+Iowa                      45
+Kansas                    61
+Kentucky                  36
+Louisiana                 33
+Maine                     42
+Maryland                  76
+Massachusetts             67
+Michigan                  47
+Minnesota                 46
+Mississippi               26
+Missouri                  41
+Montana                   83
+Nebraska                  49
+Nevada                    66
+New Hampshire             41
+New Jersey               100
+New Mexico                45
+New York                  87
+North Carolina            57
+North Dakota              31
+Ohio                      39
+Oklahoma                  43
+Oregon                    74
+Pennsylvania              54
+Rhode Island              56
+South Carolina            52
+South Dakota              37
+Tennessee                 36
+Texas                     66
+Utah                      51
+Vermont                   57
+Virginia                  89
+Washington                55
+West Virginia             26
+Wisconsin                 45
+Wyoming                   33

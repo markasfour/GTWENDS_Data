@@ -1,53 +1,53 @@
                       Arnold Schwarzenegger
 geoName                                    
-Alabama                                  74
-Alaska                                   96
+Alabama                                  73
+Alaska                                   92
 Arizona                                  93
-Arkansas                                 79
+Arkansas                                 77
 California                               93
-Colorado                                 87
-Connecticut                              80
+Colorado                                 84
+Connecticut                              77
 Delaware                                 76
-District of Columbia                     78
+District of Columbia                     79
 Florida                                  85
 Georgia                                  76
-Hawaii                                   88
-Idaho                                    99
-Illinois                                 86
-Indiana                                  85
-Iowa                                     84
-Kansas                                   79
+Hawaii                                   86
+Idaho                                    94
+Illinois                                 85
+Indiana                                  83
+Iowa                                     85
+Kansas                                   78
 Kentucky                                 84
-Louisiana                                81
-Maine                                    75
+Louisiana                                80
+Maine                                    78
 Maryland                                 74
-Massachusetts                            81
-Michigan                                 86
-Minnesota                                75
-Mississippi                              76
+Massachusetts                            78
+Michigan                                 84
+Minnesota                                74
+Mississippi                              75
 Missouri                                 83
-Montana                                  80
+Montana                                  78
 Nebraska                                 86
 Nevada                                  100
-New Hampshire                            79
+New Hampshire                            76
 New Jersey                               89
-New Mexico                               90
+New Mexico                               91
 New York                                 83
-North Carolina                           73
-North Dakota                             84
+North Carolina                           74
+North Dakota                             86
 Ohio                                     88
-Oklahoma                                 91
+Oklahoma                                 93
 Oregon                                   64
-Pennsylvania                             84
+Pennsylvania                             83
 Rhode Island                             84
-South Carolina                           74
-South Dakota                             81
+South Carolina                           76
+South Dakota                             84
 Tennessee                                78
-Texas                                    85
+Texas                                    86
 Utah                                     87
-Vermont                                  73
+Vermont                                  72
 Virginia                                 68
-Washington                               85
-West Virginia                            85
-Wisconsin                                80
-Wyoming                                  91
+Washington                               86
+West Virginia                            87
+Wisconsin                                81
+Wyoming                                  89

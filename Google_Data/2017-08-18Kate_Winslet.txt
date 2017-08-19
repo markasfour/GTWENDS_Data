@@ -1,53 +1,53 @@
                       Kate Winslet
 geoName                           
-Alabama                         73
-Alaska                          81
-Arizona                         89
-Arkansas                        72
+Alabama                         75
+Alaska                          89
+Arizona                         87
+Arkansas                        71
 California                      96
-Colorado                        87
-Connecticut                     97
-Delaware                        88
-District of Columbia            77
+Colorado                        88
+Connecticut                     99
+Delaware                        91
+District of Columbia            76
 Florida                         78
 Georgia                         71
-Hawaii                          82
-Idaho                           82
-Illinois                        85
-Indiana                         80
-Iowa                            80
-Kansas                          87
-Kentucky                        80
-Louisiana                       76
-Maine                           87
+Hawaii                          84
+Idaho                           84
+Illinois                        86
+Indiana                         84
+Iowa                            83
+Kansas                          85
+Kentucky                        81
+Louisiana                       77
+Maine                           95
 Maryland                        88
-Massachusetts                   97
-Michigan                        81
+Massachusetts                   99
+Michigan                        85
 Minnesota                       82
-Mississippi                     71
-Missouri                        79
-Montana                         90
-Nebraska                        78
+Mississippi                     72
+Missouri                        82
+Montana                         93
+Nebraska                        82
 Nevada                          87
-New Hampshire                   88
-New Jersey                      97
-New Mexico                      84
-New York                        97
-North Carolina                  73
+New Hampshire                   87
+New Jersey                     100
+New Mexico                      83
+New York                        99
+North Carolina                  74
 North Dakota                    79
-Ohio                            80
-Oklahoma                        81
-Oregon                          83
-Pennsylvania                    94
-Rhode Island                   100
+Ohio                            81
+Oklahoma                        84
+Oregon                          85
+Pennsylvania                    93
+Rhode Island                    96
 South Carolina                  74
-South Dakota                    70
-Tennessee                       82
-Texas                           79
-Utah                            94
-Vermont                         90
-Virginia                        91
-Washington                      86
-West Virginia                   82
-Wisconsin                       80
+South Dakota                    80
+Tennessee                       83
+Texas                           82
+Utah                            91
+Vermont                         85
+Virginia                        94
+Washington                      89
+West Virginia                   75
+Wisconsin                       81
 Wyoming                         80

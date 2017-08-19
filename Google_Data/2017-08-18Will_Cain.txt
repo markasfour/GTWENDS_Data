@@ -1,39 +1,39 @@
                       Will Cain
 geoName                        
-Alabama                      78
-Arizona                      68
-California                   70
+Alabama                      69
+Arizona                      64
+California                   66
 Colorado                     59
-Connecticut                  87
-District of Columbia         91
-Florida                      62
-Georgia                      77
-Illinois                     65
-Indiana                      61
-Iowa                         82
-Kansas                       58
-Kentucky                     79
+Connecticut                  80
+District of Columbia         85
+Florida                      58
+Georgia                      72
+Illinois                     60
+Indiana                      58
+Iowa                         84
+Kansas                       57
+Kentucky                     77
 Louisiana                   100
-Maryland                     92
-Massachusetts                61
-Michigan                     59
-Minnesota                    46
-Mississippi                  67
-Missouri                     82
-Nebraska                     68
-Nevada                       79
-New Jersey                   72
-New York                     80
-North Carolina               79
+Maryland                     84
+Massachusetts                50
+Michigan                     55
+Minnesota                    47
+Mississippi                  60
+Missouri                     80
+Nebraska                     72
+Nevada                       62
+New Jersey                   69
+New York                     76
+North Carolina               71
 Ohio                         70
-Oklahoma                     76
-Oregon                       40
-Pennsylvania                 70
-Rhode Island                 53
-South Carolina               80
-Tennessee                    70
-Texas                        82
-Utah                         58
-Virginia                     65
-Washington                   53
-Wisconsin                    62
+Oklahoma                     73
+Oregon                       37
+Pennsylvania                 69
+Rhode Island                 42
+South Carolina               72
+Tennessee                    65
+Texas                        77
+Utah                         49
+Virginia                     60
+Washington                   54
+Wisconsin                    56

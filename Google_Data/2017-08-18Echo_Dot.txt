@@ -1,0 +1,53 @@
+                      Echo Dot
+geoName                       
+Alabama                     75
+Alaska                      44
+Arizona                     62
+Arkansas                    60
+California                  60
+Colorado                    65
+Connecticut                 82
+Delaware                   100
+District of Columbia        54
+Florida                     71
+Georgia                     66
+Hawaii                      46
+Idaho                       70
+Illinois                    63
+Indiana                     73
+Iowa                        72
+Kansas                      56
+Kentucky                    66
+Louisiana                   64
+Maine                       64
+Maryland                    80
+Massachusetts               68
+Michigan                    64
+Minnesota                   60
+Mississippi                 57
+Missouri                    68
+Montana                     65
+Nebraska                    72
+Nevada                      66
+New Hampshire               79
+New Jersey                  85
+New Mexico                  54
+New York                    66
+North Carolina              77
+North Dakota                69
+Ohio                        81
+Oklahoma                    54
+Oregon                      45
+Pennsylvania                72
+Rhode Island                79
+South Carolina              73
+South Dakota                60
+Tennessee                   67
+Texas                       62
+Utah                        69
+Vermont                     57
+Virginia                    64
+Washington                  80
+West Virginia               72
+Wisconsin                   66
+Wyoming                     56

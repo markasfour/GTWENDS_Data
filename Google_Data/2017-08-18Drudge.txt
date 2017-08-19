@@ -1,0 +1,53 @@
+                      Drudge
+geoName                     
+Alabama                   78
+Alaska                   100
+Arizona                   77
+Arkansas                  54
+California                45
+Colorado                  64
+Connecticut               65
+Delaware                  70
+District of Columbia      67
+Florida                   60
+Georgia                   63
+Hawaii                    43
+Idaho                     80
+Illinois                  50
+Indiana                   58
+Iowa                      59
+Kansas                    59
+Kentucky                  58
+Louisiana                 71
+Maine                     76
+Maryland                  64
+Massachusetts             60
+Michigan                  54
+Minnesota                 60
+Mississippi               59
+Missouri                  66
+Montana                   79
+Nebraska                  60
+Nevada                    62
+New Hampshire             83
+New Jersey                59
+New Mexico                65
+New York                  47
+North Carolina            62
+North Dakota              66
+Ohio                      64
+Oklahoma                  66
+Oregon                    44
+Pennsylvania              63
+Rhode Island              57
+South Carolina            65
+South Dakota              64
+Tennessee                 67
+Texas                     59
+Utah                      57
+Vermont                   56
+Virginia                  63
+Washington                59
+West Virginia             55
+Wisconsin                 62
+Wyoming                   72

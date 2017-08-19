@@ -1,18 +1,18 @@
                       Heather Heyer
 geoName                            
 Alabama                          36
-Alaska                           43
-Arizona                          48
-Arkansas                         31
+Alaska                           44
+Arizona                          47
+Arkansas                         30
 California                       60
 Colorado                         52
 Connecticut                      66
 Delaware                         91
 District of Columbia            100
 Florida                          44
-Georgia                          46
+Georgia                          47
 Hawaii                           32
-Idaho                            44
+Idaho                            43
 Illinois                         54
 Indiana                          47
 Iowa                             27
@@ -37,7 +37,7 @@ North Carolina                   56
 North Dakota                     17
 Ohio                             43
 Oklahoma                         41
-Oregon                           61
+Oregon                           60
 Pennsylvania                     56
 Rhode Island                     70
 South Carolina                   43
@@ -45,9 +45,9 @@ South Dakota                     34
 Tennessee                        42
 Texas                            40
 Utah                             42
-Vermont                          58
+Vermont                          57
 Virginia                         98
-Washington                       59
+Washington                       60
 West Virginia                    25
 Wisconsin                        38
 Wyoming                          34

@@ -1,0 +1,53 @@
+                      Finland
+geoName                      
+Alabama                    42
+Alaska                     97
+Arizona                    52
+Arkansas                   45
+California                 59
+Colorado                   62
+Connecticut                67
+Delaware                   56
+District of Columbia       70
+Florida                    50
+Georgia                    42
+Hawaii                     50
+Idaho                      70
+Illinois                   56
+Indiana                    52
+Iowa                       59
+Kansas                     51
+Kentucky                   43
+Louisiana                  40
+Maine                      84
+Maryland                   60
+Massachusetts              74
+Michigan                   60
+Minnesota                 100
+Mississippi                37
+Missouri                   49
+Montana                    77
+Nebraska                   51
+Nevada                     54
+New Hampshire              78
+New Jersey                 55
+New Mexico                 54
+New York                   62
+North Carolina             48
+North Dakota               69
+Ohio                       53
+Oklahoma                   45
+Oregon                     63
+Pennsylvania               57
+Rhode Island               63
+South Carolina             41
+South Dakota               65
+Tennessee                  44
+Texas                      46
+Utah                       73
+Vermont                    94
+Virginia                   57
+Washington                 72
+West Virginia              45
+Wisconsin                  70
+Wyoming                    65

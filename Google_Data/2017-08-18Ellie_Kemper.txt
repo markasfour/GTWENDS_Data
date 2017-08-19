@@ -1,51 +1,51 @@
                       Ellie Kemper
 geoName                           
 Alabama                         59
-Alaska                          65
-Arizona                         71
-Arkansas                        59
+Alaska                          67
+Arizona                         69
+Arkansas                        57
 California                      72
-Colorado                        73
-Connecticut                     79
-Delaware                        78
-District of Columbia            71
-Florida                         50
-Georgia                         53
-Hawaii                          61
-Idaho                           79
-Illinois                        77
-Indiana                         77
-Iowa                            75
-Kansas                          76
-Kentucky                        71
-Louisiana                       61
-Maine                           78
-Maryland                        74
-Massachusetts                   85
-Michigan                        72
+Colorado                        70
+Connecticut                     77
+Delaware                        73
+District of Columbia            69
+Florida                         49
+Georgia                         51
+Hawaii                          64
+Idaho                           73
+Illinois                        75
+Indiana                         74
+Iowa                            69
+Kansas                          75
+Kentucky                        67
+Louisiana                       62
+Maine                           79
+Maryland                        71
+Massachusetts                   82
+Michigan                        73
 Minnesota                       83
-Mississippi                     48
+Mississippi                     45
 Missouri                       100
 Montana                         75
-Nebraska                        80
+Nebraska                        81
 Nevada                          59
-New Hampshire                   77
-New Jersey                      74
-New Mexico                      72
-New York                        75
+New Hampshire                   79
+New Jersey                      70
+New Mexico                      66
+New York                        73
 North Carolina                  60
 North Dakota                    84
-Ohio                            79
-Oklahoma                        71
-Oregon                          66
-Pennsylvania                    86
-Rhode Island                    84
-South Carolina                  61
-South Dakota                    71
-Tennessee                       66
+Ohio                            75
+Oklahoma                        67
+Oregon                          64
+Pennsylvania                    84
+Rhode Island                    81
+South Carolina                  59
+South Dakota                    68
+Tennessee                       64
 Texas                           62
-Utah                            83
-Vermont                         88
+Utah                            80
+Vermont                         83
 Virginia                        63
 Washington                      79
 West Virginia                   69

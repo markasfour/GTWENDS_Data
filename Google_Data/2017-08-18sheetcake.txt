@@ -1,18 +1,26 @@
-                sheetcake
-geoName                  
-California             21
-Florida                27
-Georgia                46
-Illinois               53
-Indiana                88
-Massachusetts          33
-Michigan               69
-Missouri              100
-New Jersey             42
-New York               36
-North Carolina         64
-Ohio                   67
-Pennsylvania           59
-Texas                  49
-Virginia               43
-Washington             29
+                      sheetcake
+geoName                        
+California                   26
+Colorado                     36
+Connecticut                  43
+District of Columbia         38
+Florida                      32
+Georgia                      51
+Illinois                     58
+Indiana                     100
+Kentucky                     66
+Maryland                     69
+Massachusetts                31
+Michigan                     67
+Minnesota                    43
+Missouri                     97
+New Jersey                   38
+New York                     35
+North Carolina               63
+Ohio                         83
+Oregon                       37
+Pennsylvania                 66
+Tennessee                    54
+Texas                        47
+Virginia                     58
+Washington                   27

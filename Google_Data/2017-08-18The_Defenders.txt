@@ -5,28 +5,28 @@ Alaska                           76
 Arizona                          80
 Arkansas                         79
 California                       79
-Colorado                         72
+Colorado                         73
 Connecticut                      79
-Delaware                         81
-District of Columbia             77
-Florida                          77
-Georgia                          67
+Delaware                         82
+District of Columbia             78
+Florida                          78
+Georgia                          68
 Hawaii                           70
 Idaho                           100
 Illinois                         67
-Indiana                          84
-Iowa                             77
+Indiana                          85
+Iowa                             78
 Kansas                           74
 Kentucky                         75
 Louisiana                        70
-Maine                            80
+Maine                            81
 Maryland                         94
 Massachusetts                    67
-Michigan                         75
-Minnesota                        73
+Michigan                         76
+Minnesota                        74
 Mississippi                      61
 Missouri                         77
-Montana                          89
+Montana                          90
 Nebraska                         81
 Nevada                           84
 New Hampshire                    85
@@ -35,19 +35,19 @@ New Mexico                       82
 New York                         87
 North Carolina                   74
 North Dakota                     74
-Ohio                             76
-Oklahoma                         75
+Ohio                             77
+Oklahoma                         76
 Oregon                           65
-Pennsylvania                     79
+Pennsylvania                     80
 Rhode Island                     85
-South Carolina                   74
-South Dakota                     93
+South Carolina                   75
+South Dakota                     94
 Tennessee                        75
-Texas                            77
+Texas                            78
 Utah                             91
 Vermont                          89
-Virginia                         66
-Washington                       82
-West Virginia                    91
-Wisconsin                        73
-Wyoming                          68
+Virginia                         67
+Washington                       83
+West Virginia                    92
+Wisconsin                        74
+Wyoming                          69

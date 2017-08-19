@@ -1,26 +1,26 @@
                       Logan Lucky
 geoName                          
-Alabama                        68
+Alabama                        67
 Alaska                         29
-Arizona                        47
+Arizona                        46
 Arkansas                       44
 California                     51
-Colorado                       52
+Colorado                       51
 Connecticut                    38
 Delaware                       46
 District of Columbia           46
 Florida                        45
 Georgia                        84
 Hawaii                         47
-Idaho                          63
-Illinois                       49
+Idaho                          62
+Illinois                       48
 Indiana                        51
-Iowa                           53
+Iowa                           52
 Kansas                         46
-Kentucky                       98
+Kentucky                       97
 Louisiana                      45
 Maine                          84
-Maryland                       49
+Maryland                       48
 Massachusetts                  50
 Michigan                       45
 Minnesota                      41
@@ -29,12 +29,12 @@ Missouri                       44
 Montana                        49
 Nebraska                       60
 Nevada                         51
-New Hampshire                  59
+New Hampshire                  58
 New Jersey                     51
-New Mexico                     46
+New Mexico                     45
 New York                       46
-North Carolina                 88
-North Dakota                   57
+North Carolina                 87
+North Dakota                   56
 Ohio                           51
 Oklahoma                       64
 Oregon                         36
@@ -42,12 +42,12 @@ Pennsylvania                   51
 Rhode Island                   24
 South Carolina                 64
 South Dakota                   31
-Tennessee                      92
+Tennessee                      91
 Texas                          46
 Utah                           79
-Vermont                        58
+Vermont                        57
 Virginia                       49
 Washington                     45
 West Virginia                 100
-Wisconsin                      44
-Wyoming                        60
+Wisconsin                      43
+Wyoming                        59
