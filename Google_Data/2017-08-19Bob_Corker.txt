@@ -1,11 +1,11 @@
                       Bob Corker
 geoName                         
-Alabama                        5
-Arizona                        2
-Arkansas                       4
+Alabama                        4
+Arizona                        3
+Arkansas                       5
 California                     3
 Colorado                       3
-Connecticut                    4
+Connecticut                    6
 Delaware                       4
 District of Columbia          30
 Florida                        3
@@ -14,10 +14,10 @@ Hawaii                         2
 Idaho                          2
 Illinois                       3
 Indiana                        3
-Iowa                           3
+Iowa                           2
 Kansas                         2
 Kentucky                       6
-Louisiana                      3
+Louisiana                      2
 Maine                          2
 Maryland                       6
 Massachusetts                  4
@@ -25,7 +25,7 @@ Michigan                       3
 Minnesota                      3
 Mississippi                    5
 Missouri                       3
-Nebraska                       3
+Nebraska                       4
 Nevada                         2
 New Hampshire                  3
 New Jersey                     3
@@ -37,12 +37,12 @@ Oklahoma                       2
 Oregon                         2
 Pennsylvania                   3
 Rhode Island                   4
-South Carolina                 4
+South Carolina                 5
 Tennessee                    100
 Texas                          3
-Utah                           1
-Vermont                        5
+Utah                           2
+Vermont                        4
 Virginia                       5
 Washington                     3
-West Virginia                  2
-Wisconsin                      2
+West Virginia                  3
+Wisconsin                      3

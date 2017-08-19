@@ -1,0 +1,53 @@
+                      Common
+geoName                     
+Alabama                   63
+Alaska                    61
+Arizona                   58
+Arkansas                  71
+California                59
+Colorado                  60
+Connecticut               78
+Delaware                  77
+District of Columbia      55
+Florida                   52
+Georgia                   57
+Hawaii                    65
+Idaho                     74
+Illinois                  63
+Indiana                   67
+Iowa                      68
+Kansas                    58
+Kentucky                  62
+Louisiana                 65
+Maine                     94
+Maryland                  69
+Massachusetts             90
+Michigan                  67
+Minnesota                 63
+Mississippi               72
+Missouri                  59
+Montana                   68
+Nebraska                  59
+Nevada                    51
+New Hampshire            100
+New Jersey                66
+New Mexico                66
+New York                  69
+North Carolina            70
+North Dakota              67
+Ohio                      90
+Oklahoma                  57
+Oregon                    51
+Pennsylvania              68
+Rhode Island              80
+South Carolina            70
+South Dakota              79
+Tennessee                 60
+Texas                     49
+Utah                      66
+Vermont                   96
+Virginia                  54
+Washington                60
+West Virginia             65
+Wisconsin                 68
+Wyoming                   71

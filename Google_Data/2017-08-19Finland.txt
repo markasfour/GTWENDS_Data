@@ -1,53 +1,53 @@
                       Finland
 geoName                      
-Alabama                    39
-Alaska                     94
+Alabama                    40
+Alaska                     95
 Arizona                    51
 Arkansas                   45
 California                 58
 Colorado                   61
 Connecticut                65
-Delaware                   52
-District of Columbia       69
+Delaware                   55
+District of Columbia       70
 Florida                    49
 Georgia                    41
-Hawaii                     52
-Idaho                      65
+Hawaii                     53
+Idaho                      70
 Illinois                   56
 Indiana                    51
 Iowa                       56
 Kansas                     49
-Kentucky                   44
-Louisiana                  38
-Maine                      83
-Maryland                   58
-Massachusetts              74
-Michigan                   62
+Kentucky                   42
+Louisiana                  39
+Maine                      85
+Maryland                   59
+Massachusetts              73
+Michigan                   61
 Minnesota                 100
 Mississippi                37
 Missouri                   49
-Montana                    72
-Nebraska                   52
-Nevada                     52
-New Hampshire              79
+Montana                    73
+Nebraska                   51
+Nevada                     51
+New Hampshire              77
 New Jersey                 56
 New Mexico                 52
-New York                   62
-North Carolina             48
-North Dakota               67
+New York                   61
+North Carolina             47
+North Dakota               66
 Ohio                       52
-Oklahoma                   45
+Oklahoma                   44
 Oregon                     62
 Pennsylvania               57
-Rhode Island               64
+Rhode Island               62
 South Carolina             42
-South Dakota               62
-Tennessee                  45
+South Dakota               64
+Tennessee                  44
 Texas                      45
-Utah                       75
+Utah                       74
 Vermont                    86
-Virginia                   58
-Washington                 71
-West Virginia              45
-Wisconsin                  71
-Wyoming                    65
+Virginia                   56
+Washington                 72
+West Virginia              46
+Wisconsin                  69
+Wyoming                    63

@@ -1,53 +1,53 @@
                       The Defenders
 geoName                            
-Alabama                          72
-Alaska                           62
-Arizona                          75
-Arkansas                         83
-California                       78
-Colorado                         71
-Connecticut                      79
-Delaware                         82
-District of Columbia             84
-Florida                          75
-Georgia                          66
-Hawaii                           73
+Alabama                          74
+Alaska                           75
+Arizona                          82
+Arkansas                         89
+California                       83
+Colorado                         76
+Connecticut                      82
+Delaware                         88
+District of Columbia             86
+Florida                          79
+Georgia                          71
+Hawaii                           74
 Idaho                            96
-Illinois                         71
-Indiana                          80
-Iowa                             79
-Kansas                           72
-Kentucky                         75
-Louisiana                        68
-Maine                            83
-Maryland                         94
-Massachusetts                    64
-Michigan                         74
-Minnesota                        70
-Mississippi                      65
-Missouri                         78
-Montana                          91
-Nebraska                         74
-Nevada                           86
-New Hampshire                    82
-New Jersey                       80
-New Mexico                       82
-New York                         85
-North Carolina                   74
-North Dakota                     79
-Ohio                             77
-Oklahoma                         75
-Oregon                           64
-Pennsylvania                     79
-Rhode Island                     84
-South Carolina                   78
-South Dakota                     72
-Tennessee                        74
-Texas                            79
-Utah                            100
-Vermont                          87
-Virginia                         69
-Washington                       82
-West Virginia                    81
-Wisconsin                        70
-Wyoming                          80
+Illinois                         73
+Indiana                          88
+Iowa                             81
+Kansas                           79
+Kentucky                         78
+Louisiana                        74
+Maine                            82
+Maryland                        100
+Massachusetts                    67
+Michigan                         78
+Minnesota                        74
+Mississippi                      70
+Missouri                         82
+Montana                          93
+Nebraska                         76
+Nevada                           89
+New Hampshire                    87
+New Jersey                       84
+New Mexico                       84
+New York                         90
+North Carolina                   77
+North Dakota                     88
+Ohio                             84
+Oklahoma                         79
+Oregon                           66
+Pennsylvania                     83
+Rhode Island                     88
+South Carolina                   81
+South Dakota                     73
+Tennessee                        75
+Texas                            83
+Utah                             99
+Vermont                          88
+Virginia                         71
+Washington                       84
+West Virginia                    92
+Wisconsin                        75
+Wyoming                          84

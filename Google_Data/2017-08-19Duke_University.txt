@@ -1,0 +1,53 @@
+                      Duke University
+geoName                              
+Alabama                            13
+Alaska                              7
+Arizona                             8
+Arkansas                           10
+California                          9
+Colorado                           10
+Connecticut                        15
+Delaware                           15
+District of Columbia               19
+Florida                            12
+Georgia                            17
+Hawaii                              9
+Idaho                               8
+Illinois                           11
+Indiana                            12
+Iowa                               10
+Kansas                              9
+Kentucky                           13
+Louisiana                           9
+Maine                              12
+Maryland                           18
+Massachusetts                      14
+Michigan                           10
+Minnesota                          10
+Mississippi                        11
+Missouri                           10
+Montana                             9
+Nebraska                           10
+Nevada                              6
+New Hampshire                      12
+New Jersey                         15
+New Mexico                         10
+New York                           14
+North Carolina                    100
+North Dakota                        9
+Ohio                               12
+Oklahoma                            9
+Oregon                              6
+Pennsylvania                       13
+Rhode Island                       13
+South Carolina                     26
+South Dakota                       10
+Tennessee                          15
+Texas                               9
+Utah                                8
+Vermont                            13
+Virginia                           18
+Washington                          8
+West Virginia                      14
+Wisconsin                          11
+Wyoming                             8

@@ -1,0 +1,44 @@
+                      Grandy
+geoName                     
+Alabama                    9
+Arizona                   12
+Arkansas                  14
+California                11
+Colorado                  19
+Connecticut               18
+District of Columbia      44
+Florida                   14
+Georgia                   14
+Illinois                  12
+Indiana                    9
+Iowa                      13
+Kansas                    10
+Kentucky                  10
+Louisiana                  9
+Maine                     34
+Maryland                  19
+Massachusetts             17
+Michigan                  22
+Minnesota                 47
+Mississippi               10
+Missouri                  12
+Nebraska                  14
+Nevada                    10
+New Hampshire             26
+New Jersey                11
+New Mexico                14
+New York                  13
+North Carolina           100
+Ohio                      11
+Oklahoma                  13
+Oregon                    11
+Pennsylvania              15
+Rhode Island              13
+South Carolina            23
+Tennessee                 11
+Texas                     15
+Utah                      11
+Virginia                  61
+Washington                27
+West Virginia             15
+Wisconsin                 14

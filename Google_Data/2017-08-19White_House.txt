@@ -1,0 +1,53 @@
+                      White House
+geoName                          
+Alabama                        31
+Alaska                         23
+Arizona                        26
+Arkansas                       29
+California                     25
+Colorado                       27
+Connecticut                    34
+Delaware                       38
+District of Columbia          100
+Florida                        28
+Georgia                        30
+Hawaii                         23
+Idaho                          26
+Illinois                       29
+Indiana                        29
+Iowa                           30
+Kansas                         25
+Kentucky                       34
+Louisiana                      28
+Maine                          29
+Maryland                       56
+Massachusetts                  33
+Michigan                       29
+Minnesota                      28
+Mississippi                    30
+Missouri                       28
+Montana                        24
+Nebraska                       28
+Nevada                         24
+New Hampshire                  31
+New Jersey                     34
+New Mexico                     26
+New York                       31
+North Carolina                 31
+North Dakota                   26
+Ohio                           32
+Oklahoma                       26
+Oregon                         20
+Pennsylvania                   33
+Rhode Island                   32
+South Carolina                 31
+South Dakota                   28
+Tennessee                      58
+Texas                          25
+Utah                           22
+Vermont                        31
+Virginia                       40
+Washington                     25
+West Virginia                  30
+Wisconsin                      28
+Wyoming                        22

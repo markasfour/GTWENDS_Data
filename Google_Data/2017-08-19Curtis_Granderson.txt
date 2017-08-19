@@ -1,48 +1,48 @@
                       Curtis Granderson
 geoName                                
 Alabama                              11
-Arizona                              13
-Arkansas                              8
-California                           15
+Arizona                              14
+Arkansas                              6
+California                           14
 Colorado                             10
-Connecticut                          69
-Delaware                             27
-District of Columbia                 32
+Connecticut                          72
+Delaware                             22
+District of Columbia                 34
 Florida                              21
-Georgia                              14
-Hawaii                               12
+Georgia                              13
+Hawaii                                9
 Idaho                                 5
-Illinois                             47
-Indiana                              20
-Iowa                                 18
-Kansas                               15
+Illinois                             45
+Indiana                              18
+Iowa                                 21
+Kansas                               14
 Kentucky                             12
-Louisiana                             8
-Maine                                16
-Maryland                             22
-Massachusetts                        33
-Michigan                             69
-Minnesota                            19
-Mississippi                          16
-Missouri                             23
-Nebraska                             14
-Nevada                               16
+Louisiana                             9
+Maine                                17
+Maryland                             21
+Massachusetts                        32
+Michigan                             66
+Minnesota                            18
+Mississippi                          14
+Missouri                             22
+Nebraska                             15
+Nevada                               15
 New Hampshire                        25
-New Jersey                           89
-New Mexico                            8
+New Jersey                           86
+New Mexico                           10
 New York                            100
 North Carolina                       15
-Ohio                                 18
-Oklahoma                             10
-Oregon                                7
+Ohio                                 19
+Oklahoma                              9
+Oregon                                8
 Pennsylvania                         28
-Rhode Island                         26
-South Carolina                       11
-Tennessee                            12
+Rhode Island                         32
+South Carolina                       13
+Tennessee                            11
 Texas                                10
 Utah                                  8
-Vermont                              19
-Virginia                             16
-Washington                           11
-West Virginia                        11
-Wisconsin                            18
+Vermont                              17
+Virginia                             15
+Washington                           10
+West Virginia                        15
+Wisconsin                            17
