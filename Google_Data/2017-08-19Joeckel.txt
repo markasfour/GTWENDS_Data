@@ -1,0 +1,47 @@
+                      Joeckel
+geoName                      
+Alabama                    17
+Alaska                     17
+Arizona                    22
+Arkansas                   18
+California                 18
+Colorado                   25
+Connecticut                23
+Delaware                   33
+District of Columbia       26
+Florida                    46
+Georgia                    23
+Hawaii                     14
+Idaho                      15
+Illinois                   18
+Indiana                    20
+Iowa                       28
+Kansas                     67
+Kentucky                   14
+Louisiana                  37
+Maryland                   28
+Massachusetts              20
+Michigan                   26
+Minnesota                  25
+Mississippi                24
+Missouri                   52
+Montana                    12
+Nebraska                   52
+Nevada                     17
+New Hampshire              14
+New Jersey                 27
+New Mexico                 17
+New York                   24
+North Carolina             18
+Ohio                       15
+Oklahoma                   34
+Oregon                     17
+Pennsylvania               30
+Rhode Island               13
+South Carolina             19
+Tennessee                  18
+Texas                     100
+Utah                       14
+Virginia                   20
+Washington                 57
+Wisconsin                  19

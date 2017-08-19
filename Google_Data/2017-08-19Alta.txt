@@ -1,0 +1,53 @@
+                      Alta
+geoName                   
+Alabama                 11
+Alaska                   9
+Arizona                 24
+Arkansas                10
+California              34
+Colorado                20
+Connecticut             14
+Delaware                10
+District of Columbia    15
+Florida                 17
+Georgia                 21
+Hawaii                  10
+Idaho                   17
+Illinois                13
+Indiana                  9
+Iowa                    22
+Kansas                  13
+Kentucky                10
+Louisiana                8
+Maine                   10
+Maryland                13
+Massachusetts           14
+Michigan                11
+Minnesota               11
+Mississippi              9
+Missouri                10
+Montana                 15
+Nebraska                10
+Nevada                  24
+New Hampshire           11
+New Jersey              12
+New Mexico              21
+New York                14
+North Carolina          12
+North Dakota             8
+Ohio                    10
+Oklahoma                13
+Oregon                  17
+Pennsylvania            10
+Rhode Island            11
+South Carolina          10
+South Dakota            11
+Tennessee               10
+Texas                   19
+Utah                   100
+Vermont                 13
+Virginia                12
+Washington              15
+West Virginia           24
+Wisconsin               13
+Wyoming                 21

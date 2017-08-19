@@ -1,0 +1,53 @@
+                      Logan Lucky
+geoName                          
+Alabama                        66
+Alaska                         39
+Arizona                        38
+Arkansas                       52
+California                     43
+Colorado                       40
+Connecticut                    42
+Delaware                       36
+District of Columbia           30
+Florida                        34
+Georgia                        66
+Hawaii                         28
+Idaho                          55
+Illinois                       46
+Indiana                        52
+Iowa                           48
+Kansas                         43
+Kentucky                       70
+Louisiana                      46
+Maine                          39
+Maryland                       43
+Massachusetts                  42
+Michigan                       44
+Minnesota                      36
+Mississippi                    32
+Missouri                       46
+Montana                        48
+Nebraska                       46
+Nevada                         45
+New Hampshire                  47
+New Jersey                     44
+New Mexico                     46
+New York                       41
+North Carolina                 76
+North Dakota                   30
+Ohio                           44
+Oklahoma                       45
+Oregon                         32
+Pennsylvania                   46
+Rhode Island                   40
+South Carolina                 60
+South Dakota                   23
+Tennessee                      72
+Texas                          36
+Utah                           88
+Vermont                        30
+Virginia                       39
+Washington                     39
+West Virginia                 100
+Wisconsin                      36
+Wyoming                        62

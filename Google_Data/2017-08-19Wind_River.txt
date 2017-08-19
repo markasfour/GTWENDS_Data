@@ -1,0 +1,53 @@
+                      Wind River
+geoName                         
+Alabama                        1
+Alaska                         2
+Arizona                        1
+Arkansas                       1
+California                     1
+Colorado                       6
+Connecticut                    1
+Delaware                       1
+District of Columbia           1
+Florida                        1
+Georgia                        1
+Hawaii                         1
+Idaho                          5
+Illinois                       1
+Indiana                        1
+Iowa                           1
+Kansas                         2
+Kentucky                       1
+Louisiana                      1
+Maine                          1
+Maryland                       1
+Massachusetts                  2
+Michigan                       1
+Minnesota                      2
+Mississippi                    1
+Missouri                       1
+Montana                       11
+Nebraska                       2
+Nevada                         1
+New Hampshire                  2
+New Jersey                     1
+New Mexico                     2
+New York                       1
+North Carolina                 1
+North Dakota                   2
+Ohio                           1
+Oklahoma                       3
+Oregon                         4
+Pennsylvania                   1
+Rhode Island                   2
+South Carolina                 1
+South Dakota                   3
+Tennessee                      2
+Texas                          1
+Utah                           6
+Vermont                        2
+Virginia                       1
+Washington                     3
+West Virginia                  1
+Wisconsin                      2
+Wyoming                      100

@@ -1,0 +1,53 @@
+                      Dauntless
+geoName                        
+Alabama                      77
+Alaska                       79
+Arizona                      72
+Arkansas                     73
+California                   68
+Colorado                     78
+Connecticut                  88
+Delaware                     94
+District of Columbia         59
+Florida                      86
+Georgia                      66
+Hawaii                       89
+Idaho                        82
+Illinois                     68
+Indiana                      82
+Iowa                         67
+Kansas                       71
+Kentucky                     74
+Louisiana                    81
+Maine                       100
+Maryland                     76
+Massachusetts                75
+Michigan                     77
+Minnesota                    66
+Mississippi                  68
+Missouri                     65
+Montana                      70
+Nebraska                     66
+Nevada                       76
+New Hampshire                91
+New Jersey                   97
+New Mexico                   70
+New York                     60
+North Carolina               75
+North Dakota                 60
+Ohio                         69
+Oklahoma                     83
+Oregon                       54
+Pennsylvania                 79
+Rhode Island                 92
+South Carolina               81
+South Dakota                 67
+Tennessee                    61
+Texas                        65
+Utah                         79
+Vermont                     100
+Virginia                     72
+Washington                   73
+West Virginia                73
+Wisconsin                    73
+Wyoming                      78
