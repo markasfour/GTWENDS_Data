@@ -1,53 +1,53 @@
                       Essential Phone
 geoName                              
-Alabama                            51
-Alaska                             89
+Alabama                            52
+Alaska                             70
 Arizona                            70
-Arkansas                           62
-California                         83
-Colorado                           69
-Connecticut                        61
-Delaware                           88
-District of Columbia               42
-Florida                            55
-Georgia                            63
-Hawaii                             71
-Idaho                              70
-Illinois                           59
+Arkansas                           55
+California                         77
+Colorado                           61
+Connecticut                        60
+Delaware                           92
+District of Columbia               38
+Florida                            51
+Georgia                            58
+Hawaii                             63
+Idaho                              60
+Illinois                           57
 Indiana                            59
-Iowa                               60
-Kansas                             72
-Kentucky                           47
-Louisiana                          74
-Maine                              47
-Maryland                           63
+Iowa                               54
+Kansas                             68
+Kentucky                           42
+Louisiana                          64
+Maine                              48
+Maryland                           58
 Massachusetts                      62
-Michigan                           69
-Minnesota                          83
-Mississippi                        43
-Missouri                           56
-Montana                            76
-Nebraska                           80
-Nevada                             56
-New Hampshire                      57
-New Jersey                         65
+Michigan                           60
+Minnesota                          71
+Mississippi                        41
+Missouri                           51
+Montana                            74
+Nebraska                           77
+Nevada                             47
+New Hampshire                      52
+New Jersey                         59
 New Mexico                        100
-New York                           76
-North Carolina                     57
-North Dakota                       75
-Ohio                               65
-Oklahoma                           55
-Oregon                             59
-Pennsylvania                       61
-Rhode Island                       73
-South Carolina                     53
-South Dakota                       44
-Tennessee                          60
-Texas                              59
-Utah                               97
-Vermont                            67
-Virginia                           51
-Washington                         82
-West Virginia                      55
-Wisconsin                          52
-Wyoming                            52
+New York                           69
+North Carolina                     58
+North Dakota                       70
+Ohio                               63
+Oklahoma                           52
+Oregon                             54
+Pennsylvania                       60
+Rhode Island                       61
+South Carolina                     48
+South Dakota                       53
+Tennessee                          59
+Texas                              57
+Utah                               72
+Vermont                            49
+Virginia                           49
+Washington                         77
+West Virginia                      45
+Wisconsin                          50
+Wyoming                            40

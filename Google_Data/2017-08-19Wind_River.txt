@@ -1,11 +1,11 @@
                       Wind River
 geoName                         
 Alabama                        1
-Alaska                         2
+Alaska                         3
 Arizona                        1
 Arkansas                       1
 California                     1
-Colorado                       6
+Colorado                       5
 Connecticut                    1
 Delaware                       1
 District of Columbia           1
@@ -26,7 +26,7 @@ Michigan                       1
 Minnesota                      2
 Mississippi                    1
 Missouri                       1
-Montana                       11
+Montana                       10
 Nebraska                       2
 Nevada                         1
 New Hampshire                  2
@@ -36,7 +36,7 @@ New York                       1
 North Carolina                 1
 North Dakota                   2
 Ohio                           1
-Oklahoma                       3
+Oklahoma                       2
 Oregon                         4
 Pennsylvania                   1
 Rhode Island                   2

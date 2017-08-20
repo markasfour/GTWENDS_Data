@@ -1,53 +1,53 @@
                       Kennedy Center Honors
 geoName                                    
 Alabama                                  32
-Alaska                                   28
-Arizona                                  41
-Arkansas                                 35
+Alaska                                   31
+Arizona                                  39
+Arkansas                                 31
 California                               41
-Colorado                                 49
-Connecticut                              69
-Delaware                                 57
+Colorado                                 45
+Connecticut                              72
+Delaware                                 66
 District of Columbia                    100
 Florida                                  39
 Georgia                                  31
-Hawaii                                   44
-Idaho                                    31
-Illinois                                 49
-Indiana                                  41
+Hawaii                                   42
+Idaho                                    30
+Illinois                                 47
+Indiana                                  39
 Iowa                                     52
-Kansas                                   43
-Kentucky                                 43
-Louisiana                                34
-Maine                                    65
-Maryland                                 74
-Massachusetts                            63
-Michigan                                 39
-Minnesota                                53
-Mississippi                              32
+Kansas                                   39
+Kentucky                                 41
+Louisiana                                37
+Maine                                    67
+Maryland                                 71
+Massachusetts                            64
+Michigan                                 38
+Minnesota                                51
+Mississippi                              31
 Missouri                                 42
-Montana                                  52
-Nebraska                                 36
-Nevada                                   33
+Montana                                  47
+Nebraska                                 40
+Nevada                                   34
 New Hampshire                            62
-New Jersey                               57
-New Mexico                               43
-New York                                 60
-North Carolina                           43
-North Dakota                             43
+New Jersey                               59
+New Mexico                               49
+New York                                 61
+North Carolina                           42
+North Dakota                             34
 Ohio                                     46
-Oklahoma                                 42
-Oregon                                   34
-Pennsylvania                             51
-Rhode Island                             61
-South Carolina                           40
-South Dakota                             36
-Tennessee                                45
-Texas                                    29
+Oklahoma                                 40
+Oregon                                   33
+Pennsylvania                             53
+Rhode Island                             66
+South Carolina                           36
+South Dakota                             30
+Tennessee                                44
+Texas                                    30
 Utah                                     31
-Vermont                                  72
-Virginia                                 43
-Washington                               38
-West Virginia                            29
+Vermont                                  77
+Virginia                                 44
+Washington                               40
+West Virginia                            32
 Wisconsin                                46
-Wyoming                                  26
+Wyoming                                  23

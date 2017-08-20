@@ -1,47 +1,47 @@
                       Bruce Forsyth
 geoName                            
-Alabama                          39
-Arizona                          41
-Arkansas                         54
-California                       56
+Alabama                          34
+Arizona                          45
+Arkansas                         72
+California                       54
 Colorado                         47
-Connecticut                      79
+Connecticut                      66
 Delaware                         85
-District of Columbia             50
-Florida                          67
-Georgia                          97
-Hawaii                           63
+District of Columbia             44
+Florida                          71
+Georgia                          93
+Hawaii                           84
 Idaho                           100
-Illinois                         47
-Indiana                          49
-Iowa                             26
-Kansas                           49
-Kentucky                         39
-Louisiana                        55
-Maine                            64
-Maryland                         56
-Massachusetts                    67
-Michigan                         50
-Minnesota                        69
+Illinois                         49
+Indiana                          60
+Iowa                             32
+Kansas                           54
+Kentucky                         41
+Louisiana                        51
+Maine                            41
+Maryland                         52
+Massachusetts                    64
+Michigan                         42
+Minnesota                        72
 Mississippi                      36
-Missouri                         50
-Nebraska                         26
-Nevada                           41
-New Hampshire                    67
-New Jersey                       53
-New Mexico                       38
-New York                         71
-North Carolina                   89
-Ohio                             45
-Oklahoma                         58
-Oregon                           63
-Pennsylvania                     52
+Missouri                         47
+Nebraska                         35
+Nevada                           51
+New Hampshire                    88
+New Jersey                       55
+New Mexico                       35
+New York                         69
+North Carolina                   97
+Ohio                             52
+Oklahoma                         51
+Oregon                           66
+Pennsylvania                     55
 Rhode Island                     59
-South Carolina                   55
-Tennessee                        42
-Texas                            41
+South Carolina                   70
+Tennessee                        49
+Texas                            40
 Utah                             58
 Vermont                          54
-Virginia                         46
-Washington                       53
-Wisconsin                        40
+Virginia                         52
+Washington                       48
+Wisconsin                        30

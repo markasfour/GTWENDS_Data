@@ -1,0 +1,49 @@
+                      Welbeck
+geoName                      
+Alabama                    19
+Arizona                    22
+Arkansas                   20
+California                 43
+Colorado                   30
+Connecticut                50
+Delaware                   36
+District of Columbia       70
+Florida                    40
+Georgia                    34
+Hawaii                     23
+Idaho                      13
+Illinois                   37
+Indiana                    30
+Iowa                       51
+Kansas                     39
+Kentucky                   25
+Louisiana                  20
+Maine                      22
+Maryland                  100
+Massachusetts              50
+Michigan                   26
+Minnesota                  35
+Mississippi                13
+Missouri                   31
+Nebraska                   31
+Nevada                     32
+New Hampshire              39
+New Jersey                 52
+New Mexico                 13
+New York                   56
+North Carolina             31
+North Dakota               28
+Ohio                       30
+Oklahoma                   25
+Oregon                     36
+Pennsylvania               36
+Rhode Island               42
+South Carolina             26
+Tennessee                  28
+Texas                      36
+Utah                       18
+Vermont                    64
+Virginia                   89
+Washington                 39
+West Virginia              20
+Wisconsin                  29

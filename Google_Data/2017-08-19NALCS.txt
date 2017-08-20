@@ -1,0 +1,39 @@
+                      NALCS
+geoName                    
+Alabama                  36
+Arizona                  63
+California               98
+Colorado                 45
+Connecticut              66
+District of Columbia     21
+Florida                  43
+Georgia                  38
+Hawaii                  100
+Idaho                    37
+Illinois                 53
+Indiana                  61
+Iowa                     49
+Kansas                   39
+Kentucky                 38
+Louisiana                36
+Maryland                 52
+Massachusetts            74
+Michigan                 58
+Minnesota                66
+Missouri                 57
+Nebraska                 73
+Nevada                   55
+New Jersey               62
+New York                 57
+North Carolina           40
+Ohio                     48
+Oklahoma                 55
+Oregon                   52
+Pennsylvania             46
+South Carolina           34
+Tennessee                41
+Texas                    49
+Utah                     65
+Virginia                 52
+Washington               78
+Wisconsin                75

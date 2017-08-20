@@ -1,0 +1,7 @@
+               FlameCon
+geoName                
+California            8
+Massachusetts        32
+New Jersey           39
+New York            100
+Pennsylvania         17

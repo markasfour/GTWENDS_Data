@@ -1,0 +1,53 @@
+                      USS Indianapolis
+geoName                               
+Alabama                             50
+Alaska                              35
+Arizona                             33
+Arkansas                            33
+California                          23
+Colorado                            27
+Connecticut                         29
+Delaware                            27
+District of Columbia                24
+Florida                             29
+Georgia                             26
+Hawaii                              31
+Idaho                               41
+Illinois                            31
+Indiana                            100
+Iowa                                32
+Kansas                              29
+Kentucky                            37
+Louisiana                           30
+Maine                               35
+Maryland                            24
+Massachusetts                       26
+Michigan                            32
+Minnesota                           25
+Mississippi                         35
+Missouri                            30
+Montana                             29
+Nebraska                            30
+Nevada                              28
+New Hampshire                       41
+New Jersey                          25
+New Mexico                          30
+New York                            20
+North Carolina                      32
+North Dakota                        31
+Ohio                                33
+Oklahoma                            31
+Oregon                              20
+Pennsylvania                        30
+Rhode Island                        37
+South Carolina                      33
+South Dakota                        28
+Tennessee                           37
+Texas                               26
+Utah                                27
+Vermont                             36
+Virginia                            26
+Washington                          25
+West Virginia                       38
+Wisconsin                           32
+Wyoming                             37

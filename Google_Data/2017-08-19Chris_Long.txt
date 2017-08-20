@@ -1,53 +1,53 @@
                       Chris Long
 geoName                         
-Alabama                       44
-Alaska                        38
-Arizona                       47
-Arkansas                      46
-California                    57
+Alabama                       47
+Alaska                        36
+Arizona                       49
+Arkansas                      41
+California                    58
 Colorado                      45
-Connecticut                   62
-Delaware                      66
-District of Columbia          69
-Florida                       43
-Georgia                       49
-Hawaii                        40
-Idaho                         38
+Connecticut                   66
+Delaware                      72
+District of Columbia          71
+Florida                       48
+Georgia                       50
+Hawaii                        39
+Idaho                         42
 Illinois                      56
-Indiana                       47
-Iowa                          49
-Kansas                        39
-Kentucky                      45
-Louisiana                     52
-Maine                         64
+Indiana                       48
+Iowa                          54
+Kansas                        41
+Kentucky                      49
+Louisiana                     54
+Maine                         68
 Maryland                      59
 Massachusetts                100
-Michigan                      43
-Minnesota                     44
-Mississippi                   54
-Missouri                      84
-Montana                       46
-Nebraska                      45
-Nevada                        50
-New Hampshire                 76
-New Jersey                    69
-New Mexico                    46
-New York                      76
-North Carolina                51
+Michigan                      46
+Minnesota                     45
+Mississippi                   59
+Missouri                      86
+Montana                       45
+Nebraska                      43
+Nevada                        53
+New Hampshire                 75
+New Jersey                    70
+New Mexico                    40
+New York                      78
+North Carolina                54
 North Dakota                  45
-Ohio                          46
-Oklahoma                      44
-Oregon                        38
-Pennsylvania                  60
-Rhode Island                  90
-South Carolina                51
-South Dakota                  43
-Tennessee                     47
-Texas                         43
-Utah                          39
-Vermont                       56
-Virginia                      65
-Washington                    46
-West Virginia                 53
-Wisconsin                     48
-Wyoming                       44
+Ohio                          48
+Oklahoma                      45
+Oregon                        36
+Pennsylvania                  59
+Rhode Island                  94
+South Carolina                53
+South Dakota                  52
+Tennessee                     52
+Texas                         45
+Utah                          41
+Vermont                       58
+Virginia                      68
+Washington                    50
+West Virginia                 49
+Wisconsin                     47
+Wyoming                       42

@@ -1,53 +1,53 @@
                       Tina Fey
 geoName                       
-Alabama                     61
-Alaska                      80
-Arizona                     72
+Alabama                     59
+Alaska                      76
+Arizona                     71
 Arkansas                    67
-California                  79
+California                  77
 Colorado                    80
-Connecticut                 89
-Delaware                    86
-District of Columbia       100
-Florida                     63
-Georgia                     60
-Hawaii                      69
-Idaho                       68
+Connecticut                 88
+Delaware                    83
+District of Columbia        97
+Florida                     62
+Georgia                     59
+Hawaii                      68
+Idaho                       66
 Illinois                    85
 Indiana                     73
 Iowa                        83
-Kansas                      68
-Kentucky                    70
+Kansas                      69
+Kentucky                    68
 Louisiana                   64
-Maine                       79
+Maine                       80
 Maryland                    84
 Massachusetts              100
-Michigan                    78
+Michigan                    76
 Minnesota                   83
-Mississippi                 55
-Missouri                    77
-Montana                     75
-Nebraska                    77
-Nevada                      65
+Mississippi                 54
+Missouri                    76
+Montana                     73
+Nebraska                    75
+Nevada                      64
 New Hampshire               89
 New Jersey                  89
-New Mexico                  84
-New York                    98
-North Carolina              67
-North Dakota                67
-Ohio                        75
-Oklahoma                    77
-Oregon                      70
-Pennsylvania                95
-Rhode Island                94
+New Mexico                  80
+New York                    97
+North Carolina              66
+North Dakota                70
+Ohio                        74
+Oklahoma                    76
+Oregon                      68
+Pennsylvania                93
+Rhode Island                95
 South Carolina              62
-South Dakota                64
-Tennessee                   69
+South Dakota                63
+Tennessee                   67
 Texas                       64
 Utah                        83
-Vermont                     99
+Vermont                     94
 Virginia                    75
 Washington                  87
-West Virginia               66
-Wisconsin                   78
-Wyoming                     73
+West Virginia               62
+Wisconsin                   76
+Wyoming                     70

@@ -1,0 +1,53 @@
+                      Wenger
+geoName                     
+Alabama                   40
+Alaska                    47
+Arizona                   42
+Arkansas                  54
+California                55
+Colorado                  50
+Connecticut               68
+Delaware                  58
+District of Columbia      73
+Florida                   45
+Georgia                   42
+Hawaii                    33
+Idaho                     39
+Illinois                  53
+Indiana                   56
+Iowa                      60
+Kansas                    71
+Kentucky                  38
+Louisiana                 30
+Maine                     48
+Maryland                  66
+Massachusetts             60
+Michigan                  48
+Minnesota                 76
+Mississippi               32
+Missouri                  46
+Montana                   49
+Nebraska                  50
+Nevada                    40
+New Hampshire             49
+New Jersey                70
+New Mexico                39
+New York                  63
+North Carolina            44
+North Dakota              43
+Ohio                      81
+Oklahoma                  49
+Oregon                    51
+Pennsylvania             100
+Rhode Island              50
+South Carolina            44
+South Dakota              60
+Tennessee                 42
+Texas                     42
+Utah                      43
+Vermont                   61
+Virginia                  68
+Washington                50
+West Virginia             42
+Wisconsin                 57
+Wyoming                   43

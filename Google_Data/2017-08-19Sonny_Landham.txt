@@ -1,38 +1,51 @@
                       Sonny Landham
 geoName                            
 Alabama                          41
+Alaska                           34
 Arizona                          45
 Arkansas                         32
 California                       29
 Colorado                         28
 Connecticut                      23
+Delaware                         43
 District of Columbia             34
 Florida                          24
 Georgia                          39
+Hawaii                           52
+Idaho                            34
 Illinois                         35
 Indiana                          43
 Iowa                             30
 Kansas                           34
 Kentucky                        100
 Louisiana                        47
+Maine                            31
 Maryland                         29
 Massachusetts                    27
 Michigan                         38
 Minnesota                        22
+Mississippi                      46
 Missouri                         32
+Montana                          43
 Nebraska                         40
 Nevada                           21
+New Hampshire                    28
 New Jersey                       28
 New Mexico                       52
 New York                         27
 North Carolina                   26
+North Dakota                     42
 Ohio                             34
 Oklahoma                         57
 Oregon                           23
 Pennsylvania                     31
+Rhode Island                     30
 South Carolina                   22
+South Dakota                     36
 Tennessee                        45
 Texas                            36
+Utah                             29
+Vermont                          12
 Virginia                         27
 Washington                       28
 West Virginia                    35

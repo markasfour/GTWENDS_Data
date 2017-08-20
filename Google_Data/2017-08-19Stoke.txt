@@ -1,0 +1,53 @@
+                      Stoke
+geoName                    
+Alabama                  56
+Alaska                   69
+Arizona                  49
+Arkansas                 43
+California               67
+Colorado                 58
+Connecticut              75
+Delaware                 66
+District of Columbia     78
+Florida                  68
+Georgia                  55
+Hawaii                   63
+Idaho                    53
+Illinois                 58
+Indiana                  52
+Iowa                     49
+Kansas                   87
+Kentucky                 53
+Louisiana                46
+Maine                    62
+Maryland                 68
+Massachusetts            78
+Michigan                 52
+Minnesota                57
+Mississippi              46
+Missouri                 54
+Montana                  59
+Nebraska                 49
+Nevada                   63
+New Hampshire           100
+New Jersey               76
+New Mexico               55
+New York                 77
+North Carolina           78
+North Dakota             48
+Ohio                     53
+Oklahoma                 48
+Oregon                   78
+Pennsylvania             75
+Rhode Island             72
+South Carolina           65
+South Dakota             48
+Tennessee                52
+Texas                    56
+Utah                     63
+Vermont                  80
+Virginia                 86
+Washington               63
+West Virginia            50
+Wisconsin                49
+Wyoming                  59

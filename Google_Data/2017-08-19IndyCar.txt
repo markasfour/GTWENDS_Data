@@ -1,0 +1,53 @@
+                      IndyCar
+geoName                      
+Alabama                    13
+Alaska                      5
+Arizona                    14
+Arkansas                    7
+California                 11
+Colorado                    9
+Connecticut                10
+Delaware                   10
+District of Columbia        7
+Florida                    13
+Georgia                     9
+Hawaii                      7
+Idaho                       8
+Illinois                   16
+Indiana                   100
+Iowa                       18
+Kansas                      9
+Kentucky                   14
+Louisiana                   8
+Maine                      10
+Maryland                    8
+Massachusetts               8
+Michigan                   16
+Minnesota                  10
+Mississippi                 5
+Missouri                   10
+Montana                     7
+Nebraska                   11
+Nevada                     12
+New Hampshire              11
+New Jersey                  9
+New Mexico                 12
+New York                    7
+North Carolina             11
+North Dakota                8
+Ohio                       20
+Oklahoma                   10
+Oregon                      7
+Pennsylvania               15
+Rhode Island                6
+South Carolina              9
+South Dakota                8
+Tennessee                  10
+Texas                       8
+Utah                        6
+Vermont                    10
+Virginia                    8
+Washington                  8
+West Virginia               9
+Wisconsin                  22
+Wyoming                     7
