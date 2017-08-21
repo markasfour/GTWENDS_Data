@@ -1,0 +1,43 @@
+                      Dolphin Mall
+geoName                           
+Alabama                          1
+Arizona                          0
+Arkansas                         1
+California                       1
+Colorado                         0
+Connecticut                      1
+Delaware                         1
+District of Columbia             2
+Florida                        100
+Georgia                          4
+Hawaii                           1
+Illinois                         1
+Indiana                          1
+Iowa                             0
+Kansas                           1
+Kentucky                         1
+Louisiana                        1
+Maryland                         1
+Massachusetts                    1
+Michigan                         1
+Minnesota                        1
+Mississippi                      1
+Missouri                         1
+Nebraska                         0
+Nevada                           1
+New Jersey                       1
+New Mexico                       0
+New York                         2
+North Carolina                   1
+Ohio                             1
+Oklahoma                        11
+Oregon                           0
+Pennsylvania                     1
+Rhode Island                     0
+South Carolina                   2
+Tennessee                        1
+Texas                            1
+Utah                             0
+Virginia                         1
+Washington                       0
+Wisconsin                        0

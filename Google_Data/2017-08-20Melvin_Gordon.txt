@@ -1,0 +1,53 @@
+                      Melvin Gordon
+geoName                            
+Alabama                          11
+Alaska                            6
+Arizona                          13
+Arkansas                         11
+California                       14
+Colorado                         11
+Connecticut                      13
+Delaware                         12
+District of Columbia             18
+Florida                          10
+Georgia                          11
+Hawaii                           11
+Idaho                             9
+Illinois                         19
+Indiana                          11
+Iowa                             21
+Kansas                            9
+Kentucky                         10
+Louisiana                        12
+Maine                             8
+Maryland                         13
+Massachusetts                    13
+Michigan                         13
+Minnesota                        22
+Mississippi                       9
+Missouri                         12
+Montana                          10
+Nebraska                         20
+Nevada                           11
+New Hampshire                    10
+New Jersey                       15
+New Mexico                        8
+New York                         12
+North Carolina                   10
+North Dakota                     18
+Ohio                             14
+Oklahoma                         11
+Oregon                            8
+Pennsylvania                     14
+Rhode Island                     15
+South Carolina                   11
+South Dakota                     15
+Tennessee                        10
+Texas                            11
+Utah                              8
+Vermont                           9
+Virginia                          9
+Washington                       11
+West Virginia                     9
+Wisconsin                       100
+Wyoming                          10

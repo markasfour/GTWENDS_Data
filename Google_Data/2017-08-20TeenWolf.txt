@@ -1,0 +1,44 @@
+                      TeenWolf
+geoName                       
+Alabama                     51
+Arizona                     61
+Arkansas                    56
+California                  58
+Colorado                    40
+Connecticut                 55
+District of Columbia        42
+Florida                     58
+Georgia                     56
+Hawaii                     100
+Illinois                    45
+Indiana                     48
+Iowa                        53
+Kansas                      58
+Kentucky                    56
+Louisiana                   58
+Maryland                    50
+Massachusetts               51
+Michigan                    52
+Minnesota                   43
+Mississippi                 59
+Missouri                    42
+Nebraska                    53
+Nevada                      75
+New Hampshire               52
+New Jersey                  61
+New Mexico                  46
+New York                    56
+North Carolina              53
+Ohio                        53
+Oklahoma                    44
+Oregon                      44
+Pennsylvania                51
+Rhode Island                67
+South Carolina              56
+Tennessee                   48
+Texas                       57
+Utah                        44
+Virginia                    55
+Washington                  44
+West Virginia               72
+Wisconsin                   41

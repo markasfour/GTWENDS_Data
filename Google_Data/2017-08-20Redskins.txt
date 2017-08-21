@@ -1,0 +1,53 @@
+                      Redskins
+geoName                       
+Alabama                      5
+Alaska                       6
+Arizona                      8
+Arkansas                     5
+California                   6
+Colorado                     8
+Connecticut                  9
+Delaware                    30
+District of Columbia       100
+Florida                      8
+Georgia                      9
+Hawaii                       8
+Idaho                        6
+Illinois                     6
+Indiana                      5
+Iowa                         7
+Kansas                       6
+Kentucky                     6
+Louisiana                    7
+Maine                        6
+Maryland                    98
+Massachusetts                8
+Michigan                     6
+Minnesota                    5
+Mississippi                  8
+Missouri                     6
+Montana                      8
+Nebraska                     6
+Nevada                       8
+New Hampshire                6
+New Jersey                  11
+New Mexico                  13
+New York                     9
+North Carolina              21
+North Dakota                 7
+Ohio                         6
+Oklahoma                     7
+Oregon                       4
+Pennsylvania                15
+Rhode Island                 7
+South Carolina              16
+South Dakota                 8
+Tennessee                    8
+Texas                        9
+Utah                         5
+Vermont                      7
+Virginia                    81
+Washington                   7
+West Virginia               30
+Wisconsin                    7
+Wyoming                      7

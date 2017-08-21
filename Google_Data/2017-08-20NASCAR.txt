@@ -1,0 +1,53 @@
+                      NASCAR
+geoName                     
+Alabama                   64
+Alaska                    32
+Arizona                   40
+Arkansas                  45
+California                22
+Colorado                  31
+Connecticut               36
+Delaware                  62
+District of Columbia      40
+Florida                   47
+Georgia                   62
+Hawaii                    16
+Idaho                     41
+Illinois                  40
+Indiana                   70
+Iowa                      81
+Kansas                    46
+Kentucky                  72
+Louisiana                 36
+Maine                     78
+Maryland                  32
+Massachusetts             30
+Michigan                  54
+Minnesota                 48
+Mississippi               55
+Missouri                  53
+Montana                   47
+Nebraska                  59
+Nevada                    46
+New Hampshire             64
+New Jersey                26
+New Mexico                30
+New York                  29
+North Carolina           100
+North Dakota              69
+Ohio                      58
+Oklahoma                  45
+Oregon                    24
+Pennsylvania              52
+Rhode Island              31
+South Carolina            89
+South Dakota              71
+Tennessee                 73
+Texas                     29
+Utah                      27
+Vermont                   73
+Virginia                  48
+Washington                28
+West Virginia             96
+Wisconsin                 71
+Wyoming                   53
