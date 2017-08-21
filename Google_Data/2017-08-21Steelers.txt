@@ -1,52 +1,52 @@
                       Steelers
 geoName                       
-Alabama                     12
-Alaska                      18
-Arizona                     22
+Alabama                     11
+Alaska                      16
+Arizona                     21
 Arkansas                    14
 California                  14
-Colorado                    19
+Colorado                    18
 Connecticut                 17
-Delaware                    37
-District of Columbia        40
+Delaware                    35
+District of Columbia        42
 Florida                     18
 Georgia                     19
 Hawaii                      20
-Idaho                       17
+Idaho                       16
 Illinois                    14
 Indiana                     17
-Iowa                        22
+Iowa                        21
 Kansas                      15
 Kentucky                    23
 Louisiana                   13
 Maine                       14
-Maryland                    37
+Maryland                    38
 Massachusetts               14
-Michigan                    19
+Michigan                    18
 Minnesota                   10
-Mississippi                 22
-Missouri                    14
-Montana                     23
-Nebraska                    17
-Nevada                      23
+Mississippi                 21
+Missouri                    13
+Montana                     24
+Nebraska                    16
+Nevada                      22
 New Hampshire               13
 New Jersey                  21
 New Mexico                  35
-New York                    17
-North Carolina              28
+New York                    16
+North Carolina              27
 North Dakota                19
-Ohio                        53
+Ohio                        52
 Oklahoma                    13
 Oregon                       9
 Pennsylvania               100
-Rhode Island                16
-South Carolina              32
+Rhode Island                15
+South Carolina              31
 South Dakota                22
 Tennessee                   21
 Texas                       16
-Utah                        16
+Utah                        15
 Vermont                     13
-Virginia                    30
+Virginia                    29
 Washington                  13
 West Virginia               84
 Wisconsin                   12

@@ -1,0 +1,49 @@
+                      Hopkinsville
+geoName                           
+Alabama                          1
+Alaska                           0
+Arizona                          0
+Arkansas                         1
+California                       0
+Colorado                         0
+Connecticut                      0
+Delaware                         0
+District of Columbia             1
+Florida                          0
+Georgia                          6
+Hawaii                           0
+Idaho                            0
+Illinois                         1
+Indiana                          3
+Iowa                             0
+Kansas                           1
+Kentucky                       100
+Louisiana                        1
+Maine                            0
+Maryland                         0
+Massachusetts                    0
+Michigan                         1
+Minnesota                        0
+Mississippi                      2
+Missouri                         1
+Nebraska                         0
+Nevada                           0
+New Hampshire                    0
+New Jersey                       0
+New Mexico                       0
+New York                         0
+North Carolina                   1
+Ohio                             1
+Oklahoma                         0
+Oregon                           0
+Pennsylvania                     0
+Rhode Island                     0
+South Carolina                   2
+Tennessee                       23
+Texas                            1
+Utah                             0
+Vermont                          0
+Virginia                         0
+Washington                       0
+West Virginia                    1
+Wisconsin                        0

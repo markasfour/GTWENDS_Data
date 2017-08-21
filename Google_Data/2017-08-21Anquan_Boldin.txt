@@ -1,53 +1,53 @@
                       Anquan Boldin
 geoName                            
 Alabama                          19
-Alaska                           19
-Arizona                          44
-Arkansas                         18
-California                       37
+Alaska                           20
+Arizona                          43
+Arkansas                         19
+California                       38
 Colorado                         25
 Connecticut                      27
 Delaware                         46
-District of Columbia             51
-Florida                          34
+District of Columbia             50
+Florida                          35
 Georgia                          23
-Hawaii                           32
-Idaho                            20
+Hawaii                           28
+Idaho                            23
 Illinois                         25
 Indiana                          23
-Iowa                             25
-Kansas                           17
+Iowa                             23
+Kansas                           18
 Kentucky                         19
-Louisiana                        29
-Maine                            20
+Louisiana                        31
+Maine                            22
 Maryland                        100
 Massachusetts                    32
-Michigan                         38
-Minnesota                        28
-Mississippi                      29
-Missouri                         22
-Montana                          26
+Michigan                         39
+Minnesota                        27
+Mississippi                      28
+Missouri                         23
+Montana                          23
 Nebraska                         19
-Nevada                           32
-New Hampshire                    25
-New Jersey                       30
-New Mexico                       20
+Nevada                           31
+New Hampshire                    20
+New Jersey                       31
+New Mexico                       19
 New York                         28
 North Carolina                   24
 North Dakota                     31
-Ohio                             24
-Oklahoma                         18
+Ohio                             23
+Oklahoma                         16
 Oregon                           16
-Pennsylvania                     32
-Rhode Island                     33
-South Carolina                   24
-South Dakota                     24
+Pennsylvania                     33
+Rhode Island                     32
+South Carolina                   23
+South Dakota                     25
 Tennessee                        22
-Texas                            22
+Texas                            21
 Utah                             18
-Vermont                          23
-Virginia                         29
-Washington                       28
-West Virginia                    19
-Wisconsin                        28
-Wyoming                          20
+Vermont                          21
+Virginia                         30
+Washington                       30
+West Virginia                    22
+Wisconsin                        29
+Wyoming                          22

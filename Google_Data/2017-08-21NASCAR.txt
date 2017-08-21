@@ -1,53 +1,53 @@
                       NASCAR
 geoName                     
-Alabama                   64
-Alaska                    32
-Arizona                   40
+Alabama                   65
+Alaska                    33
+Arizona                   42
 Arkansas                  45
-California                22
-Colorado                  31
-Connecticut               36
-Delaware                  62
-District of Columbia      40
-Florida                   47
-Georgia                   62
-Hawaii                    16
-Idaho                     41
-Illinois                  40
-Indiana                   70
-Iowa                      81
-Kansas                    46
-Kentucky                  72
-Louisiana                 36
-Maine                     78
+California                23
+Colorado                  32
+Connecticut               38
+Delaware                  63
+District of Columbia      41
+Florida                   48
+Georgia                   64
+Hawaii                    17
+Idaho                     42
+Illinois                  41
+Indiana                   71
+Iowa                      83
+Kansas                    48
+Kentucky                  73
+Louisiana                 37
+Maine                     80
 Maryland                  32
-Massachusetts             30
-Michigan                  54
-Minnesota                 48
-Mississippi               55
-Missouri                  53
-Montana                   47
-Nebraska                  59
+Massachusetts             31
+Michigan                  56
+Minnesota                 49
+Mississippi               56
+Missouri                  55
+Montana                   49
+Nebraska                  60
 Nevada                    46
-New Hampshire             64
-New Jersey                26
+New Hampshire             65
+New Jersey                27
 New Mexico                30
-New York                  29
+New York                  30
 North Carolina           100
-North Dakota              69
-Ohio                      58
-Oklahoma                  45
+North Dakota              71
+Ohio                      60
+Oklahoma                  46
 Oregon                    24
-Pennsylvania              52
+Pennsylvania              54
 Rhode Island              31
-South Carolina            89
-South Dakota              71
-Tennessee                 73
-Texas                     29
-Utah                      27
-Vermont                   73
-Virginia                  48
-Washington                28
-West Virginia             96
-Wisconsin                 71
-Wyoming                   53
+South Carolina            93
+South Dakota              75
+Tennessee                 76
+Texas                     30
+Utah                      29
+Vermont                   74
+Virginia                  50
+Washington                29
+West Virginia             97
+Wisconsin                 73
+Wyoming                   55

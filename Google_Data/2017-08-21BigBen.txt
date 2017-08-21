@@ -1,0 +1,8 @@
+            BigBen
+geoName           
+California      58
+Florida         71
+New York        60
+Oregon         100
+Texas           56
+Virginia        69

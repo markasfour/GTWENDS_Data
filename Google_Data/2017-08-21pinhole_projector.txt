@@ -1,47 +1,49 @@
                       pinhole projector
 geoName                                
-Alabama                              33
-Arizona                              28
-Arkansas                             40
-California                           24
-Colorado                             41
-Connecticut                          30
-Delaware                             48
+Alabama                              90
+Arizona                              40
+Arkansas                             41
+California                           28
+Colorado                             55
+Connecticut                          47
+Delaware                             65
 District of Columbia                 20
-Florida                              20
-Georgia                              34
-Idaho                                57
-Illinois                             28
-Indiana                              37
-Iowa                                 29
-Kansas                               49
-Kentucky                             31
-Louisiana                            36
-Maine                                31
-Maryland                             18
-Massachusetts                        12
-Michigan                             24
-Minnesota                            33
-Mississippi                          51
-Missouri                             31
-Montana                              97
-Nebraska                             50
-Nevada                               25
-New Jersey                           15
-New Mexico                           52
-New York                             11
-North Carolina                       42
-Ohio                                 18
-Oklahoma                             46
-Oregon                               16
-Pennsylvania                         26
-Rhode Island                        100
-South Carolina                       46
-South Dakota                         59
-Tennessee                            31
-Texas                                19
-Utah                                 39
-Virginia                             11
-Washington                           42
-West Virginia                        65
-Wisconsin                            17
+Florida                              38
+Georgia                              62
+Idaho                                48
+Illinois                             39
+Indiana                              66
+Iowa                                 40
+Kansas                               33
+Kentucky                             49
+Louisiana                            38
+Maine                                21
+Maryland                             41
+Massachusetts                        24
+Michigan                             28
+Minnesota                            20
+Mississippi                          55
+Missouri                             32
+Montana                              49
+Nebraska                            100
+Nevada                               26
+New Hampshire                        58
+New Jersey                           19
+New Mexico                           61
+New York                             22
+North Carolina                       55
+Ohio                                 51
+Oklahoma                             43
+Oregon                               46
+Pennsylvania                         48
+Rhode Island                         67
+South Carolina                       41
+South Dakota                         41
+Tennessee                            69
+Texas                                33
+Utah                                 57
+Vermont                              41
+Virginia                             33
+Washington                           53
+West Virginia                        88
+Wisconsin                            37

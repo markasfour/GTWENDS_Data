@@ -1,53 +1,53 @@
                       USS John McCain
 geoName                              
-Alabama                            43
-Alaska                             63
-Arizona                            79
-Arkansas                           28
-California                         36
-Colorado                           43
-Connecticut                        42
-Delaware                           54
-District of Columbia               65
-Florida                            35
-Georgia                            33
-Hawaii                             87
-Idaho                              56
-Illinois                           30
-Indiana                            21
-Iowa                               25
-Kansas                             42
-Kentucky                           35
-Louisiana                          29
-Maine                              18
-Maryland                           50
-Massachusetts                      29
-Michigan                           30
-Minnesota                          28
-Mississippi                        45
-Missouri                           28
-Montana                            27
-Nebraska                           17
-Nevada                             36
-New Hampshire                      72
-New Jersey                         35
-New Mexico                         87
-New York                           21
-North Carolina                     34
-North Dakota                       67
-Ohio                               32
-Oklahoma                           36
-Oregon                             33
-Pennsylvania                       33
-Rhode Island                       93
-South Carolina                     47
-South Dakota                       67
-Tennessee                          31
-Texas                              28
-Utah                               44
-Vermont                            51
-Virginia                           66
-Washington                         41
-West Virginia                      64
+Alabama                            46
+Alaska                             21
+Arizona                            33
+Arkansas                           15
+California                         27
+Colorado                           25
+Connecticut                        35
+Delaware                           36
+District of Columbia               48
+Florida                            22
+Georgia                            17
+Hawaii                             36
+Idaho                              42
+Illinois                           17
+Indiana                            17
+Iowa                               16
+Kansas                             18
+Kentucky                           23
+Louisiana                          23
+Maine                              23
+Maryland                           47
+Massachusetts                      21
+Michigan                           13
+Minnesota                          25
+Mississippi                        22
+Missouri                           17
+Montana                            18
+Nebraska                            7
+Nevada                             19
+New Hampshire                      37
+New Jersey                         20
+New Mexico                         34
+New York                           13
+North Carolina                     23
+North Dakota                       22
+Ohio                               26
+Oklahoma                           34
+Oregon                             27
+Pennsylvania                       26
+Rhode Island                       49
+South Carolina                     23
+South Dakota                       22
+Tennessee                          29
+Texas                              20
+Utah                               29
+Vermont                            45
+Virginia                           34
+Washington                         23
+West Virginia                      24
 Wisconsin                          19
 Wyoming                           100

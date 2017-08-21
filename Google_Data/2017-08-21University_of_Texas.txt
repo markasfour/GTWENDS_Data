@@ -6,7 +6,7 @@ Arizona                                 9
 Arkansas                               19
 California                              7
 Colorado                               12
-Connecticut                             9
+Connecticut                             8
 Delaware                                8
 District of Columbia                   11
 Florida                                 7
@@ -15,10 +15,10 @@ Hawaii                                  8
 Idaho                                   8
 Illinois                                9
 Indiana                                 7
-Iowa                                   10
-Kansas                                 13
+Iowa                                    9
+Kansas                                 12
 Kentucky                                8
-Louisiana                              19
+Louisiana                              18
 Maine                                   6
 Maryland                               10
 Massachusetts                           7
@@ -48,6 +48,6 @@ Utah                                    9
 Vermont                                 7
 Virginia                                8
 Washington                              7
-West Virginia                           6
+West Virginia                           7
 Wisconsin                               6
-Wyoming                                11
+Wyoming                                12

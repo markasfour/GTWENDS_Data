@@ -1,0 +1,51 @@
+                      Nasa Eclipse Map
+geoName                               
+Alabama                             31
+Arizona                              9
+Arkansas                            17
+California                          11
+Colorado                            37
+Connecticut                          8
+Delaware                             9
+District of Columbia                16
+Florida                              9
+Georgia                             24
+Idaho                               67
+Illinois                            18
+Indiana                             25
+Iowa                                18
+Kansas                              39
+Kentucky                            26
+Louisiana                           11
+Maine                               12
+Maryland                            17
+Massachusetts                        8
+Michigan                            14
+Minnesota                           19
+Mississippi                         13
+Missouri                            52
+Montana                             41
+Nebraska                            35
+Nevada                              12
+New Hampshire                        8
+New Jersey                          10
+New Mexico                          14
+New York                             7
+North Carolina                      33
+North Dakota                        16
+Ohio                                14
+Oklahoma                            15
+Oregon                              35
+Pennsylvania                         9
+Rhode Island                         7
+South Carolina                      39
+South Dakota                        24
+Tennessee                           60
+Texas                                8
+Utah                                38
+Vermont                             16
+Virginia                            18
+Washington                          24
+West Virginia                       19
+Wisconsin                           11
+Wyoming                            100

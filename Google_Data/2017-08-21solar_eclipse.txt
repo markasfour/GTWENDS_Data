@@ -1,0 +1,53 @@
+                      solar eclipse
+geoName                            
+Alabama                          56
+Alaska                           26
+Arizona                          33
+Arkansas                         49
+California                       30
+Colorado                         53
+Connecticut                      31
+Delaware                         37
+District of Columbia             33
+Florida                          39
+Georgia                          51
+Hawaii                           26
+Idaho                            81
+Illinois                         39
+Indiana                          56
+Iowa                             41
+Kansas                           49
+Kentucky                         64
+Louisiana                        33
+Maine                            34
+Maryland                         35
+Massachusetts                    28
+Michigan                         35
+Minnesota                        32
+Mississippi                      41
+Missouri                         64
+Montana                          57
+Nebraska                         71
+Nevada                           32
+New Hampshire                    35
+New Jersey                       33
+New Mexico                       37
+New York                         25
+North Carolina                   56
+North Dakota                     35
+Ohio                             42
+Oklahoma                         37
+Oregon                           62
+Pennsylvania                     35
+Rhode Island                     31
+South Carolina                   75
+South Dakota                     47
+Tennessee                        73
+Texas                            29
+Utah                             52
+Vermont                          32
+Virginia                         32
+Washington                       50
+West Virginia                    48
+Wisconsin                        34
+Wyoming                         100

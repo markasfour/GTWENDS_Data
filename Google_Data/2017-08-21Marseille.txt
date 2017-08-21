@@ -1,0 +1,53 @@
+                      Marseille
+geoName                        
+Alabama                      26
+Alaska                       34
+Arizona                      37
+Arkansas                     25
+California                   55
+Colorado                     43
+Connecticut                  58
+Delaware                     47
+District of Columbia         72
+Florida                      54
+Georgia                      35
+Hawaii                       40
+Idaho                        29
+Illinois                     43
+Indiana                      32
+Iowa                         28
+Kansas                       64
+Kentucky                     25
+Louisiana                    35
+Maine                        49
+Maryland                     56
+Massachusetts                63
+Michigan                     31
+Minnesota                    37
+Mississippi                  20
+Missouri                     32
+Montana                      31
+Nebraska                     26
+Nevada                       35
+New Hampshire                46
+New Jersey                   61
+New Mexico                   41
+New York                    100
+North Carolina               38
+North Dakota                 25
+Ohio                         32
+Oklahoma                     26
+Oregon                       56
+Pennsylvania                 44
+Rhode Island                 52
+South Carolina               30
+South Dakota                 18
+Tennessee                    30
+Texas                        36
+Utah                         36
+Vermont                      61
+Virginia                     75
+Washington                   56
+West Virginia                19
+Wisconsin                    30
+Wyoming                      30
