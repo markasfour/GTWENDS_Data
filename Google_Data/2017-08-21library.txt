@@ -1,0 +1,53 @@
+                      library
+geoName                      
+Alabama                    54
+Alaska                     70
+Arizona                    66
+Arkansas                   59
+California                 67
+Colorado                   86
+Connecticut                92
+Delaware                   70
+District of Columbia       77
+Florida                    51
+Georgia                    48
+Hawaii                     65
+Idaho                      76
+Illinois                   80
+Indiana                    76
+Iowa                       87
+Kansas                     63
+Kentucky                   57
+Louisiana                  54
+Maine                      86
+Maryland                   80
+Massachusetts             100
+Michigan                   68
+Minnesota                  82
+Mississippi                42
+Missouri                   68
+Montana                    67
+Nebraska                   63
+Nevada                     50
+New Hampshire              87
+New Jersey                 66
+New Mexico                 64
+New York                   71
+North Carolina             64
+North Dakota               56
+Ohio                       94
+Oklahoma                   56
+Oregon                     68
+Pennsylvania               67
+Rhode Island               94
+South Carolina             58
+South Dakota               69
+Tennessee                  55
+Texas                      51
+Utah                       99
+Vermont                    86
+Virginia                   66
+Washington                 78
+West Virginia              53
+Wisconsin                  81
+Wyoming                    71

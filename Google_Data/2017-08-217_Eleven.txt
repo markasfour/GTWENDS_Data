@@ -1,0 +1,52 @@
+                      7 Eleven
+geoName                       
+Alabama                      8
+Alaska                       3
+Arizona                     21
+Arkansas                     8
+California                  72
+Colorado                    46
+Connecticut                 21
+Delaware                    32
+District of Columbia       100
+Florida                     71
+Georgia                     15
+Hawaii                      56
+Idaho                       11
+Illinois                    40
+Indiana                     11
+Iowa                         7
+Kansas                      18
+Kentucky                     8
+Louisiana                   10
+Maine                       12
+Maryland                    94
+Massachusetts               32
+Michigan                    46
+Minnesota                    9
+Mississippi                  7
+Missouri                    22
+Montana                      5
+Nebraska                     9
+Nevada                      76
+New Hampshire               16
+New Jersey                  52
+New Mexico                  17
+New York                    51
+North Carolina              20
+North Dakota                 6
+Ohio                        12
+Oklahoma                    51
+Oregon                      28
+Pennsylvania                29
+Rhode Island                30
+South Carolina              20
+South Dakota                 6
+Tennessee                   10
+Texas                       45
+Utah                        45
+Virginia                    78
+Washington                  36
+West Virginia               40
+Wisconsin                   11
+Wyoming                      7

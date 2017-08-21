@@ -1,53 +1,53 @@
                       SummerSlam 2017
 geoName                              
-Alabama                            52
-Alaska                             29
-Arizona                            29
-Arkansas                           54
-California                         32
-Colorado                           23
-Connecticut                        79
-Delaware                           73
-District of Columbia               34
-Florida                            55
-Georgia                            39
-Hawaii                             23
-Idaho                              25
-Illinois                           52
-Indiana                            69
-Iowa                               48
-Kansas                             39
-Kentucky                           60
-Louisiana                          48
-Maine                              63
-Maryland                           51
-Massachusetts                      54
-Michigan                           61
-Minnesota                          27
-Mississippi                        52
-Missouri                           44
-Montana                            15
-Nebraska                           45
-Nevada                             50
-New Hampshire                      49
+Alabama                            59
+Alaska                             22
+Arizona                            33
+Arkansas                           47
+California                         27
+Colorado                           21
+Connecticut                        71
+Delaware                           72
+District of Columbia               30
+Florida                            46
+Georgia                            32
+Hawaii                             19
+Idaho                              19
+Illinois                           42
+Indiana                            61
+Iowa                               37
+Kansas                             37
+Kentucky                           65
+Louisiana                          38
+Maine                              43
+Maryland                           47
+Massachusetts                      51
+Michigan                           53
+Minnesota                          30
+Mississippi                        53
+Missouri                           37
+Montana                            21
+Nebraska                           38
+Nevada                             42
+New Hampshire                      35
 New Jersey                        100
-New Mexico                         36
-New York                           94
-North Carolina                     50
-North Dakota                       42
-Ohio                               63
-Oklahoma                           35
-Oregon                             20
-Pennsylvania                       71
-Rhode Island                       53
-South Carolina                     48
-South Dakota                       69
-Tennessee                          54
-Texas                              41
-Utah                               18
-Vermont                            46
-Virginia                           37
-Washington                         27
-West Virginia                      68
-Wisconsin                          34
-Wyoming                            17
+New Mexico                         27
+New York                           79
+North Carolina                     42
+North Dakota                       27
+Ohio                               54
+Oklahoma                           27
+Oregon                             16
+Pennsylvania                       59
+Rhode Island                       50
+South Carolina                     42
+South Dakota                       40
+Tennessee                          50
+Texas                              38
+Utah                               14
+Vermont                            37
+Virginia                           35
+Washington                         23
+West Virginia                      62
+Wisconsin                          35
+Wyoming                            15

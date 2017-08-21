@@ -1,0 +1,49 @@
+                      Eclipse Schedule
+geoName                               
+Alabama                             55
+Arizona                             33
+Arkansas                            48
+California                          39
+Colorado                            71
+Connecticut                         45
+Delaware                            48
+District of Columbia                41
+Florida                             38
+Georgia                             52
+Idaho                               88
+Illinois                            51
+Indiana                             61
+Iowa                                49
+Kansas                              58
+Kentucky                            64
+Louisiana                           35
+Maine                               27
+Maryland                            42
+Massachusetts                       48
+Michigan                            39
+Minnesota                           55
+Mississippi                         20
+Missouri                            72
+Montana                             48
+Nebraska                            84
+Nevada                              42
+New Hampshire                       69
+New Jersey                          58
+New Mexico                          40
+New York                            38
+North Carolina                      52
+Ohio                                56
+Oklahoma                            39
+Oregon                              67
+Pennsylvania                        40
+South Carolina                      91
+South Dakota                        60
+Tennessee                           68
+Texas                               36
+Utah                                61
+Vermont                             25
+Virginia                            35
+Washington                          69
+West Virginia                       42
+Wisconsin                           53
+Wyoming                            100

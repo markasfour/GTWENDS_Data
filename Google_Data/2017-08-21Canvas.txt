@@ -1,0 +1,53 @@
+                      Canvas
+geoName                     
+Alabama                   42
+Alaska                    18
+Arizona                   47
+Arkansas                  21
+California                25
+Colorado                  42
+Connecticut               14
+Delaware                  57
+District of Columbia      14
+Florida                   31
+Georgia                   14
+Hawaii                    15
+Idaho                     18
+Illinois                  17
+Indiana                   50
+Iowa                      21
+Kansas                    18
+Kentucky                  33
+Louisiana                 20
+Maine                     23
+Maryland                  21
+Massachusetts             19
+Michigan                  25
+Minnesota                 16
+Mississippi               56
+Missouri                  32
+Montana                   19
+Nebraska                  22
+Nevada                    42
+New Hampshire             28
+New Jersey                21
+New Mexico                45
+New York                  13
+North Carolina            21
+North Dakota              19
+Ohio                      17
+Oklahoma                  18
+Oregon                    22
+Pennsylvania              25
+Rhode Island              33
+South Carolina            18
+South Dakota              21
+Tennessee                 23
+Texas                     25
+Utah                     100
+Vermont                   26
+Virginia                  25
+Washington                58
+West Virginia             12
+Wisconsin                 16
+Wyoming                   22

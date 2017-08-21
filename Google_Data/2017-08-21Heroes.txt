@@ -1,0 +1,53 @@
+                      Heroes
+geoName                     
+Alabama                   83
+Alaska                    91
+Arizona                   82
+Arkansas                  90
+California                87
+Colorado                  72
+Connecticut               75
+Delaware                  78
+District of Columbia      51
+Florida                   73
+Georgia                   67
+Hawaii                    91
+Idaho                     95
+Illinois                  71
+Indiana                   91
+Iowa                      89
+Kansas                    82
+Kentucky                  81
+Louisiana                 74
+Maine                     86
+Maryland                  80
+Massachusetts             70
+Michigan                  77
+Minnesota                 77
+Mississippi               70
+Missouri                  82
+Montana                   79
+Nebraska                  82
+Nevada                    87
+New Hampshire             78
+New Jersey                80
+New Mexico                75
+New York                  69
+North Carolina            74
+North Dakota              82
+Ohio                      84
+Oklahoma                  79
+Oregon                    74
+Pennsylvania              78
+Rhode Island              84
+South Carolina            79
+South Dakota              85
+Tennessee                 74
+Texas                     77
+Utah                     100
+Vermont                   81
+Virginia                  75
+Washington                88
+West Virginia             84
+Wisconsin                 83
+Wyoming                   75

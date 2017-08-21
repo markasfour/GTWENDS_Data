@@ -1,45 +1,48 @@
                       Cereal Box Eclipse Viewer
 geoName                                        
-Alabama                                      34
-Arizona                                      24
-Arkansas                                     49
-California                                   15
-Colorado                                     28
-Connecticut                                  30
-District of Columbia                         18
-Florida                                      37
-Georgia                                      30
-Idaho                                        34
-Illinois                                     23
-Indiana                                     100
-Iowa                                         18
-Kansas                                       52
-Kentucky                                     62
-Louisiana                                    13
-Maine                                        56
+Alabama                                      29
+Arizona                                      20
+Arkansas                                     42
+California                                   13
+Colorado                                     27
+Connecticut                                  24
+Delaware                                    100
+District of Columbia                         14
+Florida                                      33
+Georgia                                      25
+Idaho                                        40
+Illinois                                     20
+Indiana                                      66
+Iowa                                         20
+Kansas                                       43
+Kentucky                                     61
+Louisiana                                    11
+Maine                                        43
 Maryland                                     30
-Massachusetts                                21
-Michigan                                     39
-Minnesota                                    15
-Mississippi                                  25
-Missouri                                     19
-Nebraska                                     24
-Nevada                                       23
-New Hampshire                                52
-New Jersey                                   23
-New York                                      7
-North Carolina                               37
-Ohio                                         28
-Oklahoma                                     14
-Oregon                                       16
-Pennsylvania                                 38
-Rhode Island                                 80
-South Carolina                               34
-South Dakota                                 73
+Massachusetts                                15
+Michigan                                     37
+Minnesota                                    13
+Mississippi                                  28
+Missouri                                     20
+Montana                                      50
+Nebraska                                     21
+Nevada                                       20
+New Hampshire                                50
+New Jersey                                   20
+New Mexico                                   54
+New York                                      6
+North Carolina                               36
+Ohio                                         29
+Oklahoma                                     16
+Oregon                                       23
+Pennsylvania                                 28
+Rhode Island                                 70
+South Carolina                               33
+South Dakota                                 63
 Tennessee                                    22
-Texas                                         6
-Utah                                         16
-Virginia                                     14
-Washington                                   38
-West Virginia                                79
-Wisconsin                                    33
+Texas                                         7
+Utah                                         14
+Virginia                                     15
+Washington                                   28
+West Virginia                                68
+Wisconsin                                    24
