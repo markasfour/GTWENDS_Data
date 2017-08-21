@@ -1,0 +1,53 @@
+                      Steelers
+geoName                       
+Alabama                     12
+Alaska                      18
+Arizona                     22
+Arkansas                    14
+California                  14
+Colorado                    19
+Connecticut                 17
+Delaware                    37
+District of Columbia        40
+Florida                     18
+Georgia                     19
+Hawaii                      20
+Idaho                       17
+Illinois                    14
+Indiana                     17
+Iowa                        22
+Kansas                      15
+Kentucky                    23
+Louisiana                   13
+Maine                       14
+Maryland                    37
+Massachusetts               14
+Michigan                    19
+Minnesota                   10
+Mississippi                 22
+Missouri                    14
+Montana                     23
+Nebraska                    17
+Nevada                      23
+New Hampshire               13
+New Jersey                  21
+New Mexico                  35
+New York                    17
+North Carolina              28
+North Dakota                19
+Ohio                        53
+Oklahoma                    13
+Oregon                       9
+Pennsylvania               100
+Rhode Island                16
+South Carolina              32
+South Dakota                22
+Tennessee                   21
+Texas                       16
+Utah                        16
+Vermont                     13
+Virginia                    30
+Washington                  13
+West Virginia               84
+Wisconsin                   12
+Wyoming                     24

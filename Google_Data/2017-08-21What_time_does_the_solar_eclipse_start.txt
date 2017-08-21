@@ -1,0 +1,45 @@
+                What time does the solar eclipse start
+geoName                                               
+Alabama                                             25
+Arizona                                              6
+Arkansas                                            23
+California                                           8
+Colorado                                            12
+Connecticut                                         11
+Delaware                                            27
+Florida                                             10
+Georgia                                             18
+Idaho                                               24
+Illinois                                            13
+Indiana                                             21
+Iowa                                                12
+Kansas                                              10
+Kentucky                                            32
+Louisiana                                            9
+Maine                                               18
+Maryland                                             7
+Massachusetts                                        9
+Michigan                                            14
+Minnesota                                           12
+Mississippi                                         11
+Missouri                                            25
+Montana                                             27
+Nebraska                                            28
+New Hampshire                                       16
+New Jersey                                           7
+New Mexico                                          15
+New York                                             7
+North Carolina                                       7
+North Dakota                                        34
+Ohio                                                14
+Oklahoma                                            10
+Oregon                                               9
+Pennsylvania                                         8
+South Carolina                                      21
+Tennessee                                           29
+Texas                                                7
+Utah                                                33
+Virginia                                             8
+Washington                                          14
+Wisconsin                                            6
+Wyoming                                            100

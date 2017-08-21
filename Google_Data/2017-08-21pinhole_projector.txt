@@ -1,0 +1,47 @@
+                      pinhole projector
+geoName                                
+Alabama                              33
+Arizona                              28
+Arkansas                             40
+California                           24
+Colorado                             41
+Connecticut                          30
+Delaware                             48
+District of Columbia                 20
+Florida                              20
+Georgia                              34
+Idaho                                57
+Illinois                             28
+Indiana                              37
+Iowa                                 29
+Kansas                               49
+Kentucky                             31
+Louisiana                            36
+Maine                                31
+Maryland                             18
+Massachusetts                        12
+Michigan                             24
+Minnesota                            33
+Mississippi                          51
+Missouri                             31
+Montana                              97
+Nebraska                             50
+Nevada                               25
+New Jersey                           15
+New Mexico                           52
+New York                             11
+North Carolina                       42
+Ohio                                 18
+Oklahoma                             46
+Oregon                               16
+Pennsylvania                         26
+Rhode Island                        100
+South Carolina                       46
+South Dakota                         59
+Tennessee                            31
+Texas                                19
+Utah                                 39
+Virginia                             11
+Washington                           42
+West Virginia                        65
+Wisconsin                            17
