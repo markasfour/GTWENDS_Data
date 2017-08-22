@@ -1,0 +1,11 @@
+            Eclipse Los Angeles
+geoName                        
+Arizona                       5
+California                  100
+Florida                       3
+Illinois                      2
+Nevada                       11
+New York                      3
+Oregon                        6
+Texas                         3
+Washington                    5

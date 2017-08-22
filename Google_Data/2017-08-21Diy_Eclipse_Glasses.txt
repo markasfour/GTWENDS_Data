@@ -1,52 +1,52 @@
                       Diy Eclipse Glasses
 geoName                                  
-Alabama                                87
-Arizona                                34
-Arkansas                               66
-California                             34
-Colorado                              100
-Connecticut                            33
-Delaware                               39
-District of Columbia                   37
-Florida                                57
-Georgia                                71
-Hawaii                                 39
-Idaho                                  87
-Illinois                               47
-Indiana                                66
-Iowa                                   54
-Kansas                                 58
-Kentucky                               90
-Louisiana                              34
-Maine                                  13
-Maryland                               53
-Massachusetts                          33
-Michigan                               39
-Minnesota                              28
-Mississippi                            41
-Missouri                               56
-Montana                                98
-Nebraska                               53
-Nevada                                 21
-New Hampshire                          81
-New Jersey                             45
-New Mexico                             42
-New York                               27
+Alabama                                92
+Arizona                                36
+Arkansas                               64
+California                             39
+Colorado                               97
+Connecticut                            49
+Delaware                               69
+District of Columbia                   32
+Florida                                69
+Georgia                                81
+Hawaii                                 27
+Idaho                                 100
+Illinois                               57
+Indiana                                87
+Iowa                                   58
+Kansas                                 69
+Kentucky                               85
+Louisiana                              56
+Maine                                  44
+Maryland                               58
+Massachusetts                          40
+Michigan                               47
+Minnesota                              31
+Mississippi                            42
+Missouri                               71
+Montana                                77
+Nebraska                               38
+Nevada                                 30
+New Hampshire                          50
+New Jersey                             54
+New Mexico                             37
+New York                               31
 North Carolina                         94
-North Dakota                           37
-Ohio                                   50
-Oklahoma                               40
-Oregon                                 86
-Pennsylvania                           50
-Rhode Island                           27
-South Carolina                         98
-South Dakota                           62
-Tennessee                              84
-Texas                                  32
-Utah                                   80
-Vermont                                49
-Virginia                               48
-Washington                             92
-West Virginia                          73
-Wisconsin                              25
-Wyoming                                73
+North Dakota                           67
+Ohio                                   61
+Oklahoma                               53
+Oregon                                 74
+Pennsylvania                           57
+Rhode Island                           37
+South Carolina                         94
+South Dakota                           86
+Tennessee                              94
+Texas                                  38
+Utah                                   81
+Vermont                                38
+Virginia                               53
+Washington                             96
+West Virginia                          98
+Wisconsin                              44
+Wyoming                                86

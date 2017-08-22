@@ -1,0 +1,53 @@
+                      Univision
+geoName                        
+Alabama                      21
+Alaska                       12
+Arizona                      75
+Arkansas                     28
+California                   95
+Colorado                     55
+Connecticut                  38
+Delaware                     23
+District of Columbia         48
+Florida                      83
+Georgia                      63
+Hawaii                       15
+Idaho                        26
+Illinois                     73
+Indiana                      27
+Iowa                         21
+Kansas                       52
+Kentucky                     22
+Louisiana                    27
+Maine                         5
+Maryland                     37
+Massachusetts                33
+Michigan                     26
+Minnesota                    28
+Mississippi                  20
+Missouri                     26
+Montana                       6
+Nebraska                     34
+Nevada                       84
+New Hampshire                 8
+New Jersey                   57
+New Mexico                   49
+New York                     54
+North Carolina               41
+North Dakota                  9
+Ohio                         10
+Oklahoma                     32
+Oregon                       34
+Pennsylvania                 20
+Rhode Island                 32
+South Carolina               30
+South Dakota                  9
+Tennessee                    27
+Texas                       100
+Utah                         51
+Vermont                       5
+Virginia                     32
+Washington                   46
+West Virginia                 7
+Wisconsin                    24
+Wyoming                      19

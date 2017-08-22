@@ -1,0 +1,49 @@
+                      Welding Helmet For Eclipse
+geoName                                         
+Alabama                                       34
+Arizona                                        8
+Arkansas                                      44
+California                                     6
+Colorado                                      32
+Connecticut                                   22
+District of Columbia                          11
+Florida                                        9
+Georgia                                       20
+Idaho                                         47
+Illinois                                      18
+Indiana                                       27
+Iowa                                          36
+Kansas                                        62
+Kentucky                                      45
+Louisiana                                     11
+Maine                                         17
+Maryland                                      10
+Massachusetts                                  4
+Michigan                                      25
+Minnesota                                     13
+Mississippi                                   28
+Missouri                                      52
+Montana                                       40
+Nebraska                                      44
+Nevada                                        14
+New Hampshire                                 31
+New Jersey                                     6
+New Mexico                                    14
+New York                                       5
+North Carolina                                32
+North Dakota                                  33
+Ohio                                          17
+Oklahoma                                      32
+Oregon                                        22
+Pennsylvania                                  16
+Rhode Island                                  55
+South Carolina                                26
+South Dakota                                  33
+Tennessee                                     46
+Texas                                         14
+Utah                                          33
+Vermont                                       33
+Virginia                                      17
+Washington                                    25
+Wisconsin                                     32
+Wyoming                                      100

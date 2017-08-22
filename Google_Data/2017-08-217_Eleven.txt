@@ -1,52 +1,52 @@
                       7 Eleven
 geoName                       
 Alabama                      8
-Alaska                       3
-Arizona                     21
+Alaska                       5
+Arizona                     22
 Arkansas                     8
 California                  72
-Colorado                    46
+Colorado                    48
 Connecticut                 21
-Delaware                    32
+Delaware                    34
 District of Columbia       100
-Florida                     71
-Georgia                     15
-Hawaii                      56
-Idaho                       11
+Florida                     73
+Georgia                     16
+Hawaii                      54
+Idaho                       12
 Illinois                    40
-Indiana                     11
+Indiana                     12
 Iowa                         7
 Kansas                      18
-Kentucky                     8
+Kentucky                     9
 Louisiana                   10
 Maine                       12
-Maryland                    94
+Maryland                    97
 Massachusetts               32
-Michigan                    46
+Michigan                    47
 Minnesota                    9
 Mississippi                  7
-Missouri                    22
+Missouri                    21
 Montana                      5
 Nebraska                     9
-Nevada                      76
-New Hampshire               16
-New Jersey                  52
-New Mexico                  17
-New York                    51
+Nevada                      75
+New Hampshire               15
+New Jersey                  53
+New Mexico                  18
+New York                    53
 North Carolina              20
-North Dakota                 6
+North Dakota                 5
 Ohio                        12
 Oklahoma                    51
 Oregon                      28
-Pennsylvania                29
-Rhode Island                30
+Pennsylvania                30
+Rhode Island                27
 South Carolina              20
-South Dakota                 6
+South Dakota                 7
 Tennessee                   10
-Texas                       45
-Utah                        45
-Virginia                    78
+Texas                       46
+Utah                        43
+Virginia                    79
 Washington                  36
-West Virginia               40
+West Virginia               39
 Wisconsin                   11
 Wyoming                      7

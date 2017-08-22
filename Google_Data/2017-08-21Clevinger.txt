@@ -1,0 +1,44 @@
+                      Clevinger
+geoName                        
+Alabama                      10
+Arizona                      15
+Arkansas                     10
+California                   11
+Colorado                     13
+Connecticut                   8
+District of Columbia         12
+Florida                      21
+Georgia                       7
+Idaho                        13
+Illinois                     19
+Indiana                      15
+Iowa                         16
+Kansas                       27
+Kentucky                     25
+Louisiana                    10
+Maryland                     17
+Massachusetts                13
+Michigan                     16
+Minnesota                    11
+Mississippi                  10
+Missouri                     19
+Montana                      11
+Nebraska                     17
+Nevada                        9
+New Jersey                    9
+New Mexico                   17
+New York                     11
+North Carolina               15
+North Dakota                 10
+Ohio                        100
+Oklahoma                     11
+Oregon                       12
+Pennsylvania                 11
+South Carolina               12
+Tennessee                    14
+Texas                        10
+Utah                          8
+Virginia                     17
+Washington                   12
+West Virginia                24
+Wisconsin                    11

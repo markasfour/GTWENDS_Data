@@ -1,0 +1,53 @@
+                      Abc News
+geoName                       
+Alabama                     49
+Alaska                      41
+Arizona                     56
+Arkansas                    55
+California                  57
+Colorado                    43
+Connecticut                 48
+Delaware                   100
+District of Columbia        64
+Florida                     57
+Georgia                     47
+Hawaii                      41
+Idaho                       45
+Illinois                    72
+Indiana                     45
+Iowa                        62
+Kansas                      47
+Kentucky                    46
+Louisiana                   40
+Maine                       48
+Maryland                    52
+Massachusetts               45
+Michigan                    53
+Minnesota                   50
+Mississippi                 49
+Missouri                    45
+Montana                     50
+Nebraska                    60
+Nevada                      42
+New Hampshire               71
+New Jersey                  65
+New Mexico                  71
+New York                    51
+North Carolina              65
+North Dakota                42
+Ohio                        53
+Oklahoma                    45
+Oregon                      38
+Pennsylvania                89
+Rhode Island                52
+South Carolina              50
+South Dakota                61
+Tennessee                   49
+Texas                       52
+Utah                        41
+Vermont                     50
+Virginia                    48
+Washington                  45
+West Virginia               46
+Wisconsin                   56
+Wyoming                     52

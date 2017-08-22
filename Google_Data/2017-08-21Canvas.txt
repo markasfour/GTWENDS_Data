@@ -2,52 +2,52 @@
 geoName                     
 Alabama                   42
 Alaska                    18
-Arizona                   47
-Arkansas                  21
-California                25
-Colorado                  42
+Arizona                   46
+Arkansas                  22
+California                24
+Colorado                  41
 Connecticut               14
 Delaware                  57
 District of Columbia      14
 Florida                   31
-Georgia                   14
+Georgia                   15
 Hawaii                    15
 Idaho                     18
 Illinois                  17
 Indiana                   50
 Iowa                      21
 Kansas                    18
-Kentucky                  33
+Kentucky                  32
 Louisiana                 20
 Maine                     23
 Maryland                  21
 Massachusetts             19
-Michigan                  25
+Michigan                  26
 Minnesota                 16
 Mississippi               56
-Missouri                  32
+Missouri                  31
 Montana                   19
 Nebraska                  22
 Nevada                    42
 New Hampshire             28
-New Jersey                21
+New Jersey                22
 New Mexico                45
 New York                  13
-North Carolina            21
-North Dakota              19
+North Carolina            22
+North Dakota              18
 Ohio                      17
-Oklahoma                  18
-Oregon                    22
+Oklahoma                  17
+Oregon                    23
 Pennsylvania              25
 Rhode Island              33
-South Carolina            18
+South Carolina            19
 South Dakota              21
 Tennessee                 23
 Texas                     25
 Utah                     100
-Vermont                   26
+Vermont                   27
 Virginia                  25
 Washington                58
 West Virginia             12
-Wisconsin                 16
+Wisconsin                 17
 Wyoming                   22

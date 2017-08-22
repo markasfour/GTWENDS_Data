@@ -1,0 +1,43 @@
+                      Derek Holland
+geoName                            
+Alabama                           8
+Arizona                          13
+Arkansas                         13
+California                       11
+Colorado                         11
+Connecticut                      14
+District of Columbia             10
+Florida                           9
+Georgia                           8
+Idaho                             5
+Illinois                         20
+Indiana                          12
+Iowa                              6
+Kansas                           13
+Kentucky                         10
+Louisiana                        20
+Maryland                         14
+Massachusetts                    15
+Michigan                         19
+Minnesota                        11
+Mississippi                       8
+Missouri                         16
+Montana                           6
+Nebraska                          9
+Nevada                           12
+New Jersey                       13
+New Mexico                       11
+New York                         16
+North Carolina                    8
+Ohio                             25
+Oklahoma                         36
+Oregon                            9
+Pennsylvania                     11
+Rhode Island                     14
+South Carolina                    8
+Tennessee                        12
+Texas                           100
+Utah                              6
+Virginia                          6
+Washington                       11
+Wisconsin                         9

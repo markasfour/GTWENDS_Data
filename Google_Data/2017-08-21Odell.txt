@@ -1,0 +1,53 @@
+                      Odell
+geoName                    
+Alabama                  66
+Alaska                   25
+Arizona                  42
+Arkansas                 56
+California               36
+Colorado                 66
+Connecticut              68
+Delaware                 60
+District of Columbia     73
+Florida                  49
+Georgia                  64
+Hawaii                   35
+Idaho                    36
+Illinois                 48
+Indiana                  48
+Iowa                     45
+Kansas                   42
+Kentucky                 41
+Louisiana               100
+Maine                    35
+Maryland                 61
+Massachusetts            44
+Michigan                 46
+Minnesota                49
+Mississippi              88
+Missouri                 48
+Montana                  32
+Nebraska                 61
+Nevada                   38
+New Hampshire            39
+New Jersey               92
+New Mexico               39
+New York                 67
+North Carolina           75
+North Dakota             40
+Ohio                     47
+Oklahoma                 44
+Oregon                   45
+Pennsylvania             54
+Rhode Island             56
+South Carolina           74
+South Dakota             50
+Tennessee                53
+Texas                    57
+Utah                     33
+Vermont                  43
+Virginia                 46
+Washington               39
+West Virginia            56
+Wisconsin                47
+Wyoming                  54

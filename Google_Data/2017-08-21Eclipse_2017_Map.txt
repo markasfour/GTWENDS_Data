@@ -1,0 +1,53 @@
+                      Eclipse 2017 Map
+geoName                               
+Alabama                             35
+Alaska                              17
+Arizona                             17
+Arkansas                            29
+California                          18
+Colorado                            51
+Connecticut                         18
+Delaware                            27
+District of Columbia                20
+Florida                             19
+Georgia                             33
+Hawaii                              11
+Idaho                               90
+Illinois                            25
+Indiana                             33
+Iowa                                33
+Kansas                              38
+Kentucky                            37
+Louisiana                           21
+Maine                               17
+Maryland                            24
+Massachusetts                       15
+Michigan                            22
+Minnesota                           27
+Mississippi                         19
+Missouri                            49
+Montana                             64
+Nebraska                            55
+Nevada                              19
+New Hampshire                       20
+New Jersey                          17
+New Mexico                          26
+New York                            12
+North Carolina                      41
+North Dakota                        28
+Ohio                                27
+Oklahoma                            23
+Oregon                              58
+Pennsylvania                        20
+Rhode Island                        16
+South Carolina                      46
+South Dakota                        48
+Tennessee                           58
+Texas                               17
+Utah                                53
+Vermont                             22
+Virginia                            20
+Washington                          42
+West Virginia                       27
+Wisconsin                           24
+Wyoming                            100

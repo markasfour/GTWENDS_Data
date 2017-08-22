@@ -1,0 +1,53 @@
+                      jeopardy
+geoName                       
+Alabama                     61
+Alaska                      55
+Arizona                     58
+Arkansas                    66
+California                  54
+Colorado                    59
+Connecticut                 85
+Delaware                    89
+District of Columbia        72
+Florida                     63
+Georgia                     77
+Hawaii                      48
+Idaho                       66
+Illinois                    58
+Indiana                     84
+Iowa                        68
+Kansas                      52
+Kentucky                    80
+Louisiana                   63
+Maine                       97
+Maryland                    80
+Massachusetts               84
+Michigan                    76
+Minnesota                   59
+Mississippi                 72
+Missouri                    63
+Montana                     73
+Nebraska                    70
+Nevada                      55
+New Hampshire               85
+New Jersey                  85
+New Mexico                  57
+New York                    73
+North Carolina              83
+North Dakota                61
+Ohio                        83
+Oklahoma                    53
+Oregon                      49
+Pennsylvania                85
+Rhode Island                93
+South Carolina              82
+South Dakota                68
+Tennessee                   69
+Texas                       47
+Utah                        59
+Vermont                    100
+Virginia                    74
+Washington                  65
+West Virginia               87
+Wisconsin                   73
+Wyoming                     72

@@ -1,0 +1,53 @@
+                      eclips
+geoName                     
+Alabama                   34
+Alaska                    35
+Arizona                   37
+Arkansas                  36
+California                32
+Colorado                  39
+Connecticut               28
+Delaware                  23
+District of Columbia      38
+Florida                   27
+Georgia                   32
+Hawaii                    35
+Idaho                     83
+Illinois                  33
+Indiana                   38
+Iowa                      56
+Kansas                    40
+Kentucky                  40
+Louisiana                 22
+Maine                     39
+Maryland                  26
+Massachusetts             24
+Michigan                  35
+Minnesota                 36
+Mississippi               25
+Missouri                  59
+Montana                   46
+Nebraska                  56
+Nevada                    35
+New Hampshire             33
+New Jersey                25
+New Mexico                45
+New York                  24
+North Carolina            33
+North Dakota              33
+Ohio                      33
+Oklahoma                  33
+Oregon                    52
+Pennsylvania              28
+Rhode Island              22
+South Carolina            37
+South Dakota              70
+Tennessee                 40
+Texas                     29
+Utah                      54
+Vermont                   38
+Virginia                  53
+Washington                46
+West Virginia             36
+Wisconsin                 43
+Wyoming                  100

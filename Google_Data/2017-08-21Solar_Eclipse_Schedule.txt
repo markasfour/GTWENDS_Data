@@ -1,0 +1,52 @@
+                      Solar Eclipse Schedule
+geoName                                     
+Alabama                                   91
+Arizona                                   36
+Arkansas                                  68
+California                                36
+Colorado                                  61
+Connecticut                               52
+Delaware                                  58
+District of Columbia                      34
+Florida                                   45
+Georgia                                   66
+Hawaii                                    62
+Idaho                                     97
+Illinois                                  61
+Indiana                                   84
+Iowa                                      67
+Kansas                                    62
+Kentucky                                  68
+Louisiana                                 60
+Maine                                     31
+Maryland                                  47
+Massachusetts                             42
+Michigan                                  43
+Minnesota                                 78
+Mississippi                               41
+Missouri                                  71
+Montana                                   39
+Nebraska                                  87
+Nevada                                    43
+New Hampshire                             74
+New Jersey                                44
+New Mexico                                57
+New York                                  29
+North Carolina                            62
+North Dakota                              24
+Ohio                                      86
+Oklahoma                                  51
+Oregon                                    89
+Pennsylvania                              42
+Rhode Island                              60
+South Carolina                            94
+South Dakota                              36
+Tennessee                                100
+Texas                                     39
+Utah                                      73
+Vermont                                   36
+Virginia                                  52
+Washington                                70
+West Virginia                             52
+Wisconsin                                 56
+Wyoming                                   91
