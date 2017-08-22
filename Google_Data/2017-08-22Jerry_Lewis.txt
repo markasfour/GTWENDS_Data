@@ -1,0 +1,53 @@
+                      Jerry Lewis
+geoName                          
+Alabama                        70
+Alaska                         54
+Arizona                        64
+Arkansas                       82
+California                     51
+Colorado                       56
+Connecticut                    50
+Delaware                       61
+District of Columbia           57
+Florida                        60
+Georgia                        63
+Hawaii                         42
+Idaho                          55
+Illinois                       65
+Indiana                        68
+Iowa                           62
+Kansas                         63
+Kentucky                       82
+Louisiana                      84
+Maine                          66
+Maryland                       53
+Massachusetts                  55
+Michigan                       66
+Minnesota                      60
+Mississippi                    98
+Missouri                       80
+Montana                        55
+Nebraska                       59
+Nevada                         73
+New Hampshire                  63
+New Jersey                     61
+New Mexico                     64
+New York                       57
+North Carolina                 55
+North Dakota                   61
+Ohio                           70
+Oklahoma                       79
+Oregon                         47
+Pennsylvania                   62
+Rhode Island                   59
+South Carolina                 63
+South Dakota                   64
+Tennessee                     100
+Texas                          60
+Utah                           45
+Vermont                        45
+Virginia                       44
+Washington                     56
+West Virginia                  72
+Wisconsin                      62
+Wyoming                        54

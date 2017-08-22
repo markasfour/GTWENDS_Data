@@ -1,0 +1,53 @@
+                      Geno
+geoName                   
+Alabama                 16
+Alaska                  11
+Arizona                 14
+Arkansas                12
+California              12
+Colorado                13
+Connecticut             48
+Delaware                20
+District of Columbia    26
+Florida                 18
+Georgia                 18
+Hawaii                  12
+Idaho                    9
+Illinois                16
+Indiana                 14
+Iowa                    15
+Kansas                  16
+Kentucky                17
+Louisiana               21
+Maine                   13
+Maryland                19
+Massachusetts           21
+Michigan                14
+Minnesota               15
+Mississippi             17
+Missouri                15
+Montana                 11
+Nebraska                14
+Nevada                  15
+New Hampshire           16
+New Jersey              33
+New Mexico              12
+New York                28
+North Carolina          15
+North Dakota            13
+Ohio                    20
+Oklahoma                15
+Oregon                   9
+Pennsylvania            28
+Rhode Island            18
+South Carolina          17
+South Dakota            12
+Tennessee               15
+Texas                   14
+Utah                    10
+Vermont                 16
+Virginia                16
+Washington              12
+West Virginia          100
+Wisconsin               15
+Wyoming                 10

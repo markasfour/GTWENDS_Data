@@ -1,0 +1,53 @@
+                      Trout
+geoName                    
+Alabama                  15
+Alaska                   38
+Arizona                  19
+Arkansas                 27
+California               22
+Colorado                 37
+Connecticut              22
+Delaware                 20
+District of Columbia     26
+Florida                  13
+Georgia                  19
+Hawaii                   11
+Idaho                    49
+Illinois                 17
+Indiana                  13
+Iowa                     22
+Kansas                   17
+Kentucky                 16
+Louisiana                19
+Maine                    37
+Maryland                 20
+Massachusetts            19
+Michigan                 26
+Minnesota                30
+Mississippi              17
+Missouri                 27
+Montana                 100
+Nebraska                 19
+Nevada                   20
+New Hampshire            29
+New Jersey               22
+New Mexico               30
+New York                 17
+North Carolina           23
+North Dakota             18
+Ohio                     16
+Oklahoma                 20
+Oregon                   31
+Pennsylvania             38
+Rhode Island             17
+South Carolina           18
+South Dakota             21
+Tennessee                22
+Texas                    17
+Utah                     36
+Vermont                  46
+Virginia                 21
+Washington               31
+West Virginia            89
+Wisconsin                30
+Wyoming                  68

@@ -1,0 +1,53 @@
+                      SNES Classic
+geoName                           
+Alabama                         52
+Alaska                          45
+Arizona                         58
+Arkansas                        60
+California                      65
+Colorado                        58
+Connecticut                     59
+Delaware                        56
+District of Columbia            43
+Florida                         50
+Georgia                         42
+Hawaii                          43
+Idaho                           54
+Illinois                        60
+Indiana                         80
+Iowa                            59
+Kansas                          56
+Kentucky                        65
+Louisiana                       48
+Maine                           62
+Maryland                        57
+Massachusetts                   48
+Michigan                        61
+Minnesota                       63
+Mississippi                     46
+Missouri                        52
+Montana                         47
+Nebraska                        65
+Nevada                          61
+New Hampshire                   54
+New Jersey                      55
+New Mexico                      61
+New York                        47
+North Carolina                  56
+North Dakota                    69
+Ohio                            69
+Oklahoma                        50
+Oregon                          48
+Pennsylvania                    61
+Rhode Island                    47
+South Carolina                  52
+South Dakota                    71
+Tennessee                       56
+Texas                           54
+Utah                           100
+Vermont                         40
+Virginia                        45
+Washington                      76
+West Virginia                   63
+Wisconsin                       57
+Wyoming                         43

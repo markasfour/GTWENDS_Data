@@ -1,0 +1,53 @@
+                      Afghanistan
+geoName                          
+Alabama                        48
+Alaska                         59
+Arizona                        43
+Arkansas                       40
+California                     43
+Colorado                       54
+Connecticut                    44
+Delaware                       42
+District of Columbia          100
+Florida                        37
+Georgia                        49
+Hawaii                         53
+Idaho                          45
+Illinois                       35
+Indiana                        41
+Iowa                           42
+Kansas                         54
+Kentucky                       41
+Louisiana                      37
+Maine                          53
+Maryland                       56
+Massachusetts                  42
+Michigan                       34
+Minnesota                      39
+Mississippi                    37
+Missouri                       40
+Montana                        44
+Nebraska                       42
+Nevada                         41
+New Hampshire                  48
+New Jersey                     37
+New Mexico                     53
+New York                       43
+North Carolina                 57
+North Dakota                   42
+Ohio                           38
+Oklahoma                       43
+Oregon                         34
+Pennsylvania                   38
+Rhode Island                   43
+South Carolina                 42
+South Dakota                   46
+Tennessee                      52
+Texas                          44
+Utah                           37
+Vermont                        55
+Virginia                       70
+Washington                     49
+West Virginia                  37
+Wisconsin                      38
+Wyoming                        47

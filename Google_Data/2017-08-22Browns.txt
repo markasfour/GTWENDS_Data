@@ -1,0 +1,53 @@
+                      Browns
+geoName                     
+Alabama                    9
+Alaska                    10
+Arizona                    8
+Arkansas                   7
+California                 6
+Colorado                   9
+Connecticut                7
+Delaware                   8
+District of Columbia      13
+Florida                    8
+Georgia                   10
+Hawaii                     6
+Idaho                      7
+Illinois                   9
+Indiana                    9
+Iowa                      10
+Kansas                     8
+Kentucky                  11
+Louisiana                  8
+Maine                      8
+Maryland                  11
+Massachusetts              8
+Michigan                  14
+Minnesota                  9
+Mississippi                8
+Missouri                   8
+Montana                   10
+Nebraska                   9
+Nevada                     8
+New Hampshire              7
+New Jersey                10
+New Mexico                 7
+New York                   8
+North Carolina            10
+North Dakota               9
+Ohio                     100
+Oklahoma                   8
+Oregon                     5
+Pennsylvania              14
+Rhode Island               7
+South Carolina            11
+South Dakota              10
+Tennessee                 10
+Texas                      7
+Utah                       6
+Vermont                   12
+Virginia                  10
+Washington                 8
+West Virginia             18
+Wisconsin                  9
+Wyoming                    8

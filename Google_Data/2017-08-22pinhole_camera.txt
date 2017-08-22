@@ -1,0 +1,53 @@
+                      pinhole camera
+geoName                             
+Alabama                           38
+Alaska                            48
+Arizona                           52
+Arkansas                          47
+California                        53
+Colorado                          58
+Connecticut                       53
+Delaware                          33
+District of Columbia              36
+Florida                           48
+Georgia                           42
+Hawaii                            47
+Idaho                             61
+Illinois                          41
+Indiana                           47
+Iowa                              43
+Kansas                            44
+Kentucky                          43
+Louisiana                         34
+Maine                             74
+Maryland                          68
+Massachusetts                     46
+Michigan                          43
+Minnesota                         39
+Mississippi                       37
+Missouri                          44
+Montana                           47
+Nebraska                          47
+Nevada                            41
+New Hampshire                     64
+New Jersey                        41
+New Mexico                        89
+New York                          45
+North Carolina                    40
+North Dakota                      50
+Ohio                              48
+Oklahoma                          49
+Oregon                            64
+Pennsylvania                      43
+Rhode Island                      47
+South Carolina                    38
+South Dakota                      62
+Tennessee                         41
+Texas                             41
+Utah                              57
+Vermont                          100
+Virginia                          49
+Washington                        72
+West Virginia                     40
+Wisconsin                         49
+Wyoming                           48

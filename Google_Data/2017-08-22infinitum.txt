@@ -1,0 +1,51 @@
+                      infinitum
+geoName                        
+Alabama                      43
+Alaska                       58
+Arizona                      51
+Arkansas                     48
+California                   61
+Colorado                     50
+Connecticut                  46
+District of Columbia         49
+Florida                      42
+Georgia                      34
+Hawaii                       42
+Idaho                        55
+Illinois                     46
+Indiana                      44
+Iowa                         46
+Kansas                       47
+Kentucky                     39
+Louisiana                    34
+Maine                        49
+Maryland                     43
+Massachusetts                46
+Michigan                     51
+Minnesota                    44
+Mississippi                  34
+Missouri                     39
+Montana                      68
+Nebraska                     38
+Nevada                       43
+New Hampshire                33
+New Jersey                   45
+New Mexico                   46
+New York                     54
+North Carolina               44
+North Dakota                 36
+Ohio                         45
+Oklahoma                     42
+Oregon                       78
+Pennsylvania                 45
+Rhode Island                 40
+South Carolina               34
+South Dakota                 49
+Tennessee                    36
+Texas                       100
+Utah                         45
+Vermont                      58
+Virginia                     56
+Washington                   52
+West Virginia                42
+Wisconsin                    55

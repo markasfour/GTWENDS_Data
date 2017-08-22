@@ -1,0 +1,53 @@
+                      Eclipse Box
+geoName                          
+Alabama                        78
+Alaska                         14
+Arizona                        52
+Arkansas                       65
+California                     43
+Colorado                       67
+Connecticut                    41
+Delaware                       59
+District of Columbia           34
+Florida                        45
+Georgia                        65
+Hawaii                         31
+Idaho                          44
+Illinois                       56
+Indiana                        70
+Iowa                           56
+Kansas                         54
+Kentucky                       66
+Louisiana                      42
+Maine                          34
+Maryland                       50
+Massachusetts                  41
+Michigan                       48
+Minnesota                      39
+Mississippi                    52
+Missouri                       75
+Montana                        65
+Nebraska                       56
+Nevada                         44
+New Hampshire                  63
+New Jersey                     39
+New Mexico                     38
+New York                       31
+North Carolina                 67
+North Dakota                   41
+Ohio                           54
+Oklahoma                       60
+Oregon                         50
+Pennsylvania                   45
+Rhode Island                   31
+South Carolina                 71
+South Dakota                   55
+Tennessee                      74
+Texas                          40
+Utah                           76
+Vermont                        30
+Virginia                       44
+Washington                     74
+West Virginia                  72
+Wisconsin                      49
+Wyoming                       100

@@ -1,0 +1,53 @@
+                      Eclipse Photos
+geoName                             
+Alabama                           31
+Alaska                            23
+Arizona                           33
+Arkansas                          36
+California                        32
+Colorado                          51
+Connecticut                       26
+Delaware                          34
+District of Columbia              34
+Florida                           31
+Georgia                           34
+Hawaii                            33
+Idaho                             83
+Illinois                          29
+Indiana                           37
+Iowa                              28
+Kansas                            42
+Kentucky                          43
+Louisiana                         19
+Maine                             31
+Maryland                          38
+Massachusetts                     33
+Michigan                          19
+Minnesota                         34
+Mississippi                       22
+Missouri                          43
+Montana                           39
+Nebraska                          64
+Nevada                            28
+New Hampshire                     29
+New Jersey                        28
+New Mexico                        65
+New York                          24
+North Carolina                    34
+North Dakota                      24
+Ohio                              30
+Oklahoma                          22
+Oregon                            72
+Pennsylvania                      24
+Rhode Island                      47
+South Carolina                    47
+South Dakota                      60
+Tennessee                         45
+Texas                             22
+Utah                              54
+Vermont                           73
+Virginia                          23
+Washington                        44
+West Virginia                     23
+Wisconsin                         27
+Wyoming                          100
