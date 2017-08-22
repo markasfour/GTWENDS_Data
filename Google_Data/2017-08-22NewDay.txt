@@ -1,0 +1,36 @@
+                      NewDay
+geoName                     
+Alabama                   15
+Arizona                   14
+California                10
+Colorado                  13
+Connecticut               12
+Delaware                  26
+District of Columbia      36
+Florida                   17
+Georgia                   15
+Illinois                  11
+Indiana                   18
+Kansas                    11
+Kentucky                  13
+Louisiana                 11
+Maryland                 100
+Massachusetts             10
+Michigan                  11
+Minnesota                 11
+Missouri                  13
+Nevada                    13
+New Jersey                16
+New Mexico                28
+New York                  73
+North Carolina            17
+Ohio                      13
+Oklahoma                  16
+Oregon                    12
+Pennsylvania              19
+South Carolina            20
+Tennessee                 18
+Texas                     12
+Virginia                  23
+Washington                18
+Wisconsin                 12

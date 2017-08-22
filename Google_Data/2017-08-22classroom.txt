@@ -1,53 +1,53 @@
                       classroom
 geoName                        
-Alabama                      35
+Alabama                      36
 Alaska                       11
-Arizona                      19
+Arizona                      20
 Arkansas                    100
 California                   32
 Colorado                     29
-Connecticut                  51
+Connecticut                  52
 Delaware                     13
 District of Columbia          8
 Florida                      12
-Georgia                      19
-Hawaii                       35
+Georgia                      20
+Hawaii                       36
 Idaho                        38
 Illinois                     31
 Indiana                      40
-Iowa                         50
-Kansas                       36
-Kentucky                     23
-Louisiana                    21
-Maine                        35
-Maryland                     32
+Iowa                         51
+Kansas                       37
+Kentucky                     24
+Louisiana                    22
+Maine                        36
+Maryland                     33
 Massachusetts                26
 Michigan                     31
 Minnesota                    24
-Mississippi                  20
-Missouri                     44
+Mississippi                  21
+Missouri                     46
 Montana                      35
-Nebraska                     33
+Nebraska                     34
 Nevada                       27
-New Hampshire                38
-New Jersey                   53
+New Hampshire                39
+New Jersey                   55
 New Mexico                   16
 New York                     20
-North Carolina               34
+North Carolina               35
 North Dakota                 31
-Ohio                         37
-Oklahoma                     20
+Ohio                         38
+Oklahoma                     21
 Oregon                       20
 Pennsylvania                 23
-Rhode Island                 49
-South Carolina               53
-South Dakota                 42
+Rhode Island                 51
+South Carolina               54
+South Dakota                 43
 Tennessee                    17
 Texas                        24
-Utah                         17
+Utah                         18
 Vermont                      32
-Virginia                     25
+Virginia                     26
 Washington                   18
 West Virginia                 9
-Wisconsin                    45
-Wyoming                      59
+Wisconsin                    46
+Wyoming                      60

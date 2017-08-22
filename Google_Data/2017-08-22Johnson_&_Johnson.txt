@@ -1,0 +1,51 @@
+                      Johnson & Johnson
+geoName                                
+Alabama                              29
+Arizona                              21
+Arkansas                             25
+California                           22
+Colorado                             27
+Connecticut                          36
+Delaware                             37
+District of Columbia                 40
+Florida                              28
+Georgia                              32
+Hawaii                               14
+Idaho                                19
+Illinois                             31
+Indiana                              30
+Iowa                                 28
+Kansas                               39
+Kentucky                             26
+Louisiana                            29
+Maine                                30
+Maryland                             32
+Massachusetts                        38
+Michigan                             22
+Minnesota                            42
+Mississippi                          22
+Missouri                             29
+Montana                              29
+Nebraska                             29
+Nevada                               20
+New Hampshire                        38
+New Jersey                           62
+New Mexico                           21
+New York                             34
+North Carolina                       40
+North Dakota                         31
+Ohio                                 26
+Oklahoma                             22
+Oregon                               18
+Pennsylvania                         35
+Rhode Island                        100
+South Carolina                       33
+South Dakota                         35
+Tennessee                            47
+Texas                                24
+Utah                                 22
+Vermont                              35
+Virginia                             27
+Washington                           21
+West Virginia                        34
+Wisconsin                            37

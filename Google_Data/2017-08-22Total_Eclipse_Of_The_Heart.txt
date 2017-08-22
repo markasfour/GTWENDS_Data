@@ -1,53 +1,53 @@
                       Total Eclipse Of The Heart
 geoName                                         
-Alabama                                       63
-Alaska                                        84
-Arizona                                       66
-Arkansas                                      69
-California                                    66
-Colorado                                      83
-Connecticut                                   68
-Delaware                                      62
-District of Columbia                          77
-Florida                                       69
+Alabama                                       64
+Alaska                                        69
+Arizona                                       68
+Arkansas                                      72
+California                                    63
+Colorado                                      78
+Connecticut                                   65
+Delaware                                      63
+District of Columbia                          78
+Florida                                       66
 Georgia                                       69
-Hawaii                                        66
-Idaho                                         97
-Illinois                                      79
-Indiana                                       76
-Iowa                                          82
-Kansas                                        78
-Kentucky                                      84
-Louisiana                                     70
-Maine                                         92
-Maryland                                      62
-Massachusetts                                 80
-Michigan                                      76
-Minnesota                                     84
-Mississippi                                   64
-Missouri                                      94
-Montana                                       83
-Nebraska                                      90
-Nevada                                        72
-New Hampshire                                 74
-New Jersey                                    66
-New Mexico                                    65
-New York                                      73
-North Carolina                                69
-North Dakota                                  75
-Ohio                                          78
-Oklahoma                                      77
-Oregon                                        86
-Pennsylvania                                  79
-Rhode Island                                  61
+Hawaii                                        67
+Idaho                                        100
+Illinois                                      76
+Indiana                                       75
+Iowa                                          76
+Kansas                                        76
+Kentucky                                      81
+Louisiana                                     67
+Maine                                         86
+Maryland                                      60
+Massachusetts                                 74
+Michigan                                      75
+Minnesota                                     77
+Mississippi                                   60
+Missouri                                      89
+Montana                                       90
+Nebraska                                      93
+Nevada                                        77
+New Hampshire                                 69
+New Jersey                                    63
+New Mexico                                    61
+New York                                      70
+North Carolina                                65
+North Dakota                                  79
+Ohio                                          73
+Oklahoma                                      76
+Oregon                                        78
+Pennsylvania                                  74
+Rhode Island                                  71
 South Carolina                                67
 South Dakota                                  72
-Tennessee                                     80
-Texas                                         68
-Utah                                         100
-Vermont                                       67
-Virginia                                      63
-Washington                                    92
-West Virginia                                 86
-Wisconsin                                     83
-Wyoming                                       93
+Tennessee                                     76
+Texas                                         63
+Utah                                          92
+Vermont                                       80
+Virginia                                      61
+Washington                                    86
+West Virginia                                 77
+Wisconsin                                     81
+Wyoming                                       92

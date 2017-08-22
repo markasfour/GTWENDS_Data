@@ -1,0 +1,51 @@
+                      Postal Service
+geoName                             
+Alabama                           89
+Alaska                            99
+Arizona                           88
+Arkansas                          81
+California                        72
+Colorado                          84
+Connecticut                       75
+Delaware                          84
+District of Columbia              94
+Florida                           87
+Georgia                           84
+Hawaii                            87
+Idaho                             96
+Illinois                          71
+Indiana                           76
+Iowa                              90
+Kansas                            79
+Kentucky                          81
+Louisiana                         89
+Maine                             80
+Maryland                          92
+Massachusetts                     68
+Michigan                          79
+Minnesota                         91
+Mississippi                       87
+Missouri                          91
+Montana                           88
+Nebraska                          89
+Nevada                            84
+New Hampshire                     72
+New Jersey                        75
+New Mexico                        87
+New York                          74
+North Carolina                    90
+North Dakota                     100
+Ohio                              87
+Oklahoma                          77
+Oregon                            65
+Pennsylvania                      85
+Rhode Island                      68
+South Carolina                    89
+Tennessee                         80
+Texas                             76
+Utah                              90
+Vermont                           77
+Virginia                          74
+Washington                        76
+West Virginia                     81
+Wisconsin                         88

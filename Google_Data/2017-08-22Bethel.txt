@@ -1,0 +1,53 @@
+                      Bethel
+geoName                     
+Alabama                   10
+Alaska                   100
+Arizona                    4
+Arkansas                  11
+California                 6
+Colorado                   5
+Connecticut               85
+Delaware                  11
+District of Columbia      10
+Florida                    6
+Georgia                   10
+Hawaii                     7
+Idaho                      6
+Illinois                   7
+Indiana                   17
+Iowa                       7
+Kansas                    12
+Kentucky                  10
+Louisiana                  6
+Maine                     50
+Maryland                   8
+Massachusetts             11
+Michigan                   9
+Minnesota                 44
+Mississippi                9
+Missouri                   8
+Montana                    8
+Nebraska                   6
+Nevada                     3
+New Hampshire             13
+New Jersey                 9
+New Mexico                 5
+New York                  13
+North Carolina            11
+North Dakota              15
+Ohio                      28
+Oklahoma                  11
+Oregon                    11
+Pennsylvania              40
+Rhode Island               7
+South Carolina            13
+South Dakota              10
+Tennessee                 21
+Texas                      7
+Utah                       2
+Vermont                   34
+Virginia                  11
+Washington                22
+West Virginia              9
+Wisconsin                  8
+Wyoming                    6

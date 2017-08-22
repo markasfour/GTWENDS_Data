@@ -1,53 +1,53 @@
                       Jerry Lewis
 geoName                          
-Alabama                        70
-Alaska                         54
-Arizona                        64
-Arkansas                       82
-California                     51
-Colorado                       56
-Connecticut                    50
-Delaware                       61
-District of Columbia           57
-Florida                        60
-Georgia                        63
-Hawaii                         42
-Idaho                          55
-Illinois                       65
-Indiana                        68
-Iowa                           62
-Kansas                         63
-Kentucky                       82
-Louisiana                      84
-Maine                          66
-Maryland                       53
-Massachusetts                  55
-Michigan                       66
-Minnesota                      60
-Mississippi                    98
-Missouri                       80
+Alabama                        75
+Alaska                         51
+Arizona                        68
+Arkansas                       80
+California                     54
+Colorado                       57
+Connecticut                    55
+Delaware                       69
+District of Columbia           60
+Florida                        64
+Georgia                        65
+Hawaii                         44
+Idaho                          57
+Illinois                       67
+Indiana                        72
+Iowa                           64
+Kansas                         65
+Kentucky                       85
+Louisiana                      83
+Maine                          70
+Maryland                       57
+Massachusetts                  57
+Michigan                       68
+Minnesota                      62
+Mississippi                   100
+Missouri                       82
 Montana                        55
-Nebraska                       59
-Nevada                         73
-New Hampshire                  63
-New Jersey                     61
-New Mexico                     64
-New York                       57
-North Carolina                 55
-North Dakota                   61
-Ohio                           70
-Oklahoma                       79
-Oregon                         47
-Pennsylvania                   62
-Rhode Island                   59
-South Carolina                 63
-South Dakota                   64
-Tennessee                     100
-Texas                          60
-Utah                           45
-Vermont                        45
-Virginia                       44
-Washington                     56
-West Virginia                  72
+Nebraska                       64
+Nevada                         78
+New Hampshire                  66
+New Jersey                     65
+New Mexico                     67
+New York                       59
+North Carolina                 58
+North Dakota                   63
+Ohio                           72
+Oklahoma                       83
+Oregon                         49
+Pennsylvania                   66
+Rhode Island                   63
+South Carolina                 65
+South Dakota                   66
+Tennessee                      99
+Texas                          63
+Utah                           41
+Vermont                        50
+Virginia                       49
+Washington                     57
+West Virginia                  76
 Wisconsin                      62
-Wyoming                        54
+Wyoming                        64

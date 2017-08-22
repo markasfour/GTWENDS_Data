@@ -1,52 +1,53 @@
                       Solar Eclipse Science
 geoName                                    
-Alabama                                  53
-Alaska                                   36
-Arizona                                  40
-Arkansas                                 70
-California                               31
-Colorado                                 40
-Connecticut                              34
-Delaware                                 31
-District of Columbia                     35
-Florida                                  42
-Georgia                                  39
-Hawaii                                   18
-Idaho                                    40
-Illinois                                 34
-Indiana                                  67
-Iowa                                     47
-Kansas                                   35
-Kentucky                                 42
-Louisiana                                36
-Maine                                    24
-Maryland                                 36
-Massachusetts                            41
-Michigan                                 37
-Minnesota                                28
-Mississippi                              37
-Missouri                                 81
-Montana                                  19
-Nebraska                                 66
-Nevada                                   24
-New Hampshire                            33
-New Jersey                               35
-New Mexico                               40
-New York                                 36
-North Carolina                           67
-North Dakota                             54
-Ohio                                     32
-Oklahoma                                 45
-Oregon                                   25
-Pennsylvania                             19
-Rhode Island                             43
-South Carolina                           68
+Alabama                                  61
+Alaska                                   42
+Arizona                                  37
+Arkansas                                 63
+California                               36
+Colorado                                 52
+Connecticut                              47
+Delaware                                 43
+District of Columbia                     30
+Florida                                  45
+Georgia                                  42
+Hawaii                                   14
+Idaho                                    38
+Illinois                                 37
+Indiana                                  61
+Iowa                                     43
+Kansas                                   53
+Kentucky                                 52
+Louisiana                                35
+Maine                                    50
+Maryland                                 39
+Massachusetts                            49
+Michigan                                 34
+Minnesota                                38
+Mississippi                              51
+Missouri                                 93
+Montana                                  43
+Nebraska                                 50
+Nevada                                   32
+New Hampshire                            34
+New Jersey                               44
+New Mexico                               50
+New York                                 45
+North Carolina                           84
+North Dakota                             62
+Ohio                                     36
+Oklahoma                                 69
+Oregon                                   21
+Pennsylvania                             24
+Rhode Island                             44
+South Carolina                           76
+South Dakota                             36
 Tennessee                               100
-Texas                                    24
-Utah                                     15
-Vermont                                  23
-Virginia                                 38
-Washington                               31
-West Virginia                            38
-Wisconsin                                33
-Wyoming                                  35
+Texas                                    28
+Utah                                     17
+Vermont                                  18
+Virginia                                 46
+Washington                               45
+West Virginia                            43
+Wisconsin                                37
+Wyoming                                  40

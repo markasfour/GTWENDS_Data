@@ -1,0 +1,52 @@
+                      USS John McCain
+geoName                              
+Alabama                            52
+Alaska                             62
+Arizona                            57
+Arkansas                           28
+California                         41
+Colorado                           50
+Connecticut                        44
+Delaware                           27
+District of Columbia               80
+Florida                            34
+Georgia                            27
+Hawaii                             59
+Idaho                              16
+Illinois                           25
+Indiana                            25
+Iowa                               28
+Kansas                             34
+Kentucky                           28
+Louisiana                          17
+Maine                              17
+Maryland                           61
+Massachusetts                      33
+Michigan                           28
+Minnesota                          23
+Mississippi                        28
+Missouri                           42
+Nebraska                           22
+Nevada                             42
+New Hampshire                      48
+New Jersey                         29
+New Mexico                         50
+New York                           25
+North Carolina                     28
+North Dakota                       33
+Ohio                               28
+Oklahoma                           45
+Oregon                             33
+Pennsylvania                       30
+Rhode Island                       55
+South Carolina                     44
+South Dakota                       67
+Tennessee                          40
+Texas                              28
+Utah                               33
+Vermont                            83
+Virginia                           55
+Washington                         32
+West Virginia                      72
+Wisconsin                          30
+Wyoming                           100

@@ -1,0 +1,53 @@
+                      Santa Maria
+geoName                          
+Alabama                         3
+Alaska                          5
+Arizona                        16
+Arkansas                        5
+California                    100
+Colorado                        9
+Connecticut                     6
+Delaware                        4
+District of Columbia            7
+Florida                         8
+Georgia                         5
+Hawaii                         21
+Idaho                           6
+Illinois                        6
+Indiana                         4
+Iowa                            5
+Kansas                          6
+Kentucky                        4
+Louisiana                       6
+Maine                           3
+Maryland                        4
+Massachusetts                   6
+Michigan                        4
+Minnesota                       4
+Mississippi                     3
+Missouri                        4
+Montana                         5
+Nebraska                        5
+Nevada                         17
+New Hampshire                   4
+New Jersey                      6
+New Mexico                     12
+New York                        6
+North Carolina                  4
+North Dakota                    4
+Ohio                            4
+Oklahoma                        5
+Oregon                          9
+Pennsylvania                    4
+Rhode Island                    6
+South Carolina                  4
+South Dakota                    4
+Tennessee                       3
+Texas                           7
+Utah                            6
+Vermont                         4
+Virginia                        4
+Washington                      7
+West Virginia                   3
+Wisconsin                       4
+Wyoming                         6

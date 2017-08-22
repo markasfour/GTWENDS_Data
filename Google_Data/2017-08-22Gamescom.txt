@@ -1,0 +1,53 @@
+                      Gamescom
+geoName                       
+Alabama                     71
+Alaska                      49
+Arizona                     74
+Arkansas                    69
+California                  91
+Colorado                    60
+Connecticut                 70
+Delaware                    79
+District of Columbia        38
+Florida                     73
+Georgia                     58
+Hawaii                      53
+Idaho                       76
+Illinois                    58
+Indiana                     72
+Iowa                        69
+Kansas                      60
+Kentucky                    60
+Louisiana                   64
+Maine                       66
+Maryland                    80
+Massachusetts               62
+Michigan                    69
+Minnesota                   58
+Mississippi                 60
+Missouri                    59
+Montana                     77
+Nebraska                    67
+Nevada                      84
+New Hampshire               70
+New Jersey                  82
+New Mexico                  68
+New York                    72
+North Carolina              68
+North Dakota                70
+Ohio                        70
+Oklahoma                    64
+Oregon                      67
+Pennsylvania                69
+Rhode Island                78
+South Carolina              64
+South Dakota                54
+Tennessee                   66
+Texas                       67
+Utah                        98
+Vermont                     68
+Virginia                    72
+Washington                 100
+West Virginia               91
+Wisconsin                   65
+Wyoming                     46

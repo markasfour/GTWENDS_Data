@@ -1,0 +1,53 @@
+                      flood
+geoName                    
+Alabama                  35
+Alaska                   37
+Arizona                  35
+Arkansas                 44
+California               33
+Colorado                 53
+Connecticut              38
+Delaware                 36
+District of Columbia     38
+Florida                  37
+Georgia                  32
+Hawaii                   40
+Idaho                    43
+Illinois                 35
+Indiana                  33
+Iowa                     50
+Kansas                   37
+Kentucky                 35
+Louisiana               100
+Maine                    36
+Maryland                 35
+Massachusetts            37
+Michigan                 31
+Minnesota                33
+Mississippi              46
+Missouri                 46
+Montana                  43
+Nebraska                 38
+Nevada                   39
+New Hampshire            35
+New Jersey               43
+New Mexico               32
+New York                 34
+North Carolina           37
+North Dakota             60
+Ohio                     31
+Oklahoma                 38
+Oregon                   29
+Pennsylvania             38
+Rhode Island             90
+South Carolina           47
+South Dakota             39
+Tennessee                37
+Texas                    45
+Utah                     37
+Vermont                  46
+Virginia                 32
+Washington               35
+West Virginia            57
+Wisconsin                36
+Wyoming                  42
