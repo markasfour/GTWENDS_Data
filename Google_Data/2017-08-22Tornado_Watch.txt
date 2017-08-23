@@ -1,0 +1,48 @@
+                      Tornado Watch
+geoName                            
+Alabama                         100
+Arizona                           8
+Arkansas                         86
+California                        8
+Colorado                         28
+Connecticut                      22
+Delaware                         43
+District of Columbia             42
+Florida                          45
+Georgia                          81
+Illinois                         54
+Indiana                          63
+Iowa                             66
+Kansas                           68
+Kentucky                         63
+Louisiana                        81
+Maine                            13
+Maryland                         42
+Massachusetts                    20
+Michigan                         31
+Minnesota                        43
+Mississippi                      89
+Missouri                         79
+Nebraska                         68
+Nevada                            9
+New Hampshire                    12
+New Jersey                       26
+New Mexico                       16
+New York                         23
+North Carolina                   63
+Ohio                             47
+Oklahoma                         86
+Oregon                            7
+Pennsylvania                     33
+Rhode Island                     14
+South Carolina                   65
+South Dakota                     37
+Tennessee                        71
+Texas                            58
+Utah                             10
+Vermont                          14
+Virginia                         40
+Washington                        7
+West Virginia                    34
+Wisconsin                        44
+Wyoming                          27

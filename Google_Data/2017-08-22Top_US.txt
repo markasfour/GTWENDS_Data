@@ -1,0 +1,25 @@
+                Top US
+geoName               
+Arizona             81
+California          77
+Colorado            88
+Florida             80
+Georgia             82
+Illinois            96
+Indiana             98
+Maryland            97
+Massachusetts       97
+Michigan            88
+Minnesota           96
+Missouri            93
+New Jersey         100
+New York            91
+North Carolina      93
+Ohio                95
+Oregon              59
+Pennsylvania        97
+Tennessee           84
+Texas               80
+Virginia            83
+Washington          80
+Wisconsin           90

@@ -1,0 +1,52 @@
+                      streamys
+geoName                       
+Alabama                     68
+Alaska                      33
+Arizona                     77
+Arkansas                    67
+California                 100
+Colorado                    42
+Connecticut                 75
+Delaware                    97
+District of Columbia        47
+Florida                     62
+Georgia                     54
+Hawaii                      55
+Idaho                       58
+Illinois                    66
+Indiana                     55
+Iowa                        81
+Kansas                      43
+Kentucky                    58
+Louisiana                   48
+Maine                       71
+Maryland                    67
+Massachusetts               80
+Michigan                    75
+Minnesota                   75
+Mississippi                 44
+Missouri                    52
+Montana                     42
+Nebraska                    70
+Nevada                      88
+New Hampshire               87
+New Jersey                  98
+New Mexico                  49
+New York                    95
+North Carolina              56
+North Dakota                69
+Ohio                        76
+Oklahoma                    50
+Oregon                      46
+Pennsylvania                76
+Rhode Island                87
+South Carolina              57
+South Dakota                96
+Tennessee                   46
+Texas                       59
+Utah                        69
+Vermont                     70
+Virginia                    60
+Washington                  72
+West Virginia               60
+Wisconsin                   66

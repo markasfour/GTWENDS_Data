@@ -1,0 +1,53 @@
+                      Eclipse Times
+geoName                            
+Alabama                          32
+Alaska                           21
+Arizona                          23
+Arkansas                         37
+California                       24
+Colorado                         41
+Connecticut                      24
+Delaware                         30
+District of Columbia             19
+Florida                          24
+Georgia                          28
+Hawaii                           18
+Idaho                            67
+Illinois                         28
+Indiana                          32
+Iowa                             34
+Kansas                           32
+Kentucky                         39
+Louisiana                        16
+Maine                            27
+Maryland                         22
+Massachusetts                    20
+Michigan                         21
+Minnesota                        23
+Mississippi                      21
+Missouri                         52
+Montana                          36
+Nebraska                         58
+Nevada                           34
+New Hampshire                    25
+New Jersey                       21
+New Mexico                       36
+New York                         21
+North Carolina                   37
+North Dakota                     34
+Ohio                             28
+Oklahoma                         28
+Oregon                           40
+Pennsylvania                     23
+Rhode Island                     20
+South Carolina                   43
+South Dakota                     55
+Tennessee                        48
+Texas                            19
+Utah                             36
+Vermont                          14
+Virginia                         21
+Washington                       46
+West Virginia                    35
+Wisconsin                        30
+Wyoming                         100

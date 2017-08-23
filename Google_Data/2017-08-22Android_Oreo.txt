@@ -1,0 +1,44 @@
+                Android Oreo
+geoName                     
+Alabama                   12
+Arizona                   23
+Arkansas                  21
+California                34
+Colorado                  37
+Connecticut               10
+Florida                   27
+Georgia                   34
+Hawaii                    25
+Idaho                     60
+Illinois                  30
+Indiana                   16
+Iowa                      46
+Kansas                    26
+Kentucky                  32
+Louisiana                 22
+Maine                     32
+Maryland                  35
+Massachusetts             27
+Michigan                  29
+Minnesota                 12
+Missouri                  29
+Nebraska                  21
+Nevada                    40
+New Jersey                25
+New Mexico                27
+New York                  29
+North Carolina            21
+North Dakota              62
+Ohio                      26
+Oklahoma                  24
+Oregon                    40
+Pennsylvania              14
+Rhode Island              35
+South Carolina            44
+Tennessee                 29
+Texas                     26
+Utah                      27
+Virginia                  37
+Washington                28
+West Virginia            100
+Wisconsin                 25

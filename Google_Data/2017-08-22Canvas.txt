@@ -1,53 +1,53 @@
                       Canvas
 geoName                     
-Alabama                   44
-Alaska                    18
+Alabama                   43
+Alaska                    17
 Arizona                   47
 Arkansas                  22
-California                25
-Colorado                  42
+California                24
+Colorado                  41
 Connecticut               15
 Delaware                  58
 District of Columbia      14
 Florida                   31
-Georgia                   15
+Georgia                   14
 Hawaii                    15
 Idaho                     19
-Illinois                  18
-Indiana                   51
+Illinois                  17
+Indiana                   50
 Iowa                      21
 Kansas                    18
 Kentucky                  33
-Louisiana                 21
-Maine                     23
-Maryland                  21
+Louisiana                 20
+Maine                     22
+Maryland                  22
 Massachusetts             19
-Michigan                  26
+Michigan                  25
 Minnesota                 16
-Mississippi               57
+Mississippi               56
 Missouri                  32
-Montana                   19
+Montana                   18
 Nebraska                  22
 Nevada                    43
 New Hampshire             28
 New Jersey                22
-New Mexico                46
+New Mexico                45
 New York                  13
 North Carolina            22
-North Dakota              19
+North Dakota              18
 Ohio                      17
-Oklahoma                  18
+Oklahoma                  17
 Oregon                    23
 Pennsylvania              25
-Rhode Island              33
+Rhode Island              32
 South Carolina            19
 South Dakota              21
-Tennessee                 23
+Tennessee                 22
 Texas                     25
 Utah                     100
-Vermont                   26
+Vermont                   27
 Virginia                  25
-Washington                59
-West Virginia             11
-Wisconsin                 17
+Washington                58
+West Virginia             12
+Wisconsin                 16
 Wyoming                   22

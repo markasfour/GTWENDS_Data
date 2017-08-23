@@ -1,53 +1,53 @@
                       Trump eclipse
 geoName                            
-Alabama                          39
-Alaska                           23
-Arizona                          22
-Arkansas                         31
-California                       32
-Colorado                         51
-Connecticut                      38
-Delaware                         35
-District of Columbia             35
-Florida                          30
-Georgia                          34
-Hawaii                           30
+Alabama                          40
+Alaska                           24
+Arizona                          30
+Arkansas                         32
+California                       37
+Colorado                         43
+Connecticut                      36
+Delaware                         15
+District of Columbia             41
+Florida                          34
+Georgia                          43
+Hawaii                           23
 Idaho                           100
-Illinois                         36
-Indiana                          36
-Iowa                             30
-Kansas                           40
-Kentucky                         41
-Louisiana                        25
-Maine                            48
-Maryland                         34
+Illinois                         38
+Indiana                          44
+Iowa                             42
+Kansas                           38
+Kentucky                         51
+Louisiana                        27
+Maine                            49
+Maryland                         43
 Massachusetts                    38
-Michigan                         36
-Minnesota                        27
-Mississippi                      10
-Missouri                         51
-Montana                          85
-Nebraska                         35
-Nevada                           25
-New Hampshire                    27
-New Jersey                       38
-New Mexico                       45
-New York                         33
-North Carolina                   47
-North Dakota                     31
-Ohio                             32
-Oklahoma                         21
-Oregon                           60
-Pennsylvania                     27
-Rhode Island                     31
-South Carolina                   47
-South Dakota                     12
-Tennessee                        58
-Texas                            25
+Michigan                         40
+Minnesota                        34
+Mississippi                      19
+Missouri                         62
+Montana                          77
+Nebraska                         42
+Nevada                           38
+New Hampshire                    40
+New Jersey                       41
+New Mexico                       38
+New York                         37
+North Carolina                   54
+North Dakota                     25
+Ohio                             36
+Oklahoma                         24
+Oregon                           71
+Pennsylvania                     33
+Rhode Island                     39
+South Carolina                   60
+South Dakota                     13
+Tennessee                        53
+Texas                            27
 Utah                             36
-Vermont                          80
-Virginia                         33
-Washington                       51
-West Virginia                    33
-Wisconsin                        33
-Wyoming                          84
+Vermont                          58
+Virginia                         36
+Washington                       61
+West Virginia                    24
+Wisconsin                        37
+Wyoming                          96

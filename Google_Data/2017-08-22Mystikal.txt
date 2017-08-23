@@ -1,49 +1,49 @@
                       Mystikal
 geoName                       
-Alabama                     40
-Alaska                      12
-Arizona                     13
+Alabama                     39
+Alaska                      14
+Arizona                     12
 Arkansas                    26
-California                  13
-Colorado                    14
-Connecticut                 11
-Delaware                    17
-District of Columbia        25
-Florida                     26
+California                  14
+Colorado                    13
+Connecticut                  9
+Delaware                    15
+District of Columbia        26
+Florida                     27
 Georgia                     45
 Hawaii                      12
 Illinois                    22
 Indiana                     17
 Iowa                        10
-Kansas                      17
-Kentucky                    24
+Kansas                      16
+Kentucky                    23
 Louisiana                  100
-Maine                        6
-Maryland                    21
-Massachusetts               10
+Maine                        7
+Maryland                    22
+Massachusetts               11
 Michigan                    22
-Minnesota                   12
-Mississippi                 69
+Minnesota                   13
+Mississippi                 65
 Missouri                    21
-Nebraska                    15
+Nebraska                    13
 Nevada                      18
-New Hampshire                5
-New Jersey                  11
-New Mexico                  13
+New Hampshire                6
+New Jersey                  10
+New Mexico                  12
 New York                    15
 North Carolina              23
-North Dakota                 8
-Ohio                        17
-Oklahoma                    22
+North Dakota                 7
+Ohio                        18
+Oklahoma                    23
 Oregon                       8
-Pennsylvania                15
-Rhode Island                11
-South Carolina              35
-Tennessee                   27
+Pennsylvania                16
+Rhode Island                12
+South Carolina              34
+Tennessee                   28
 Texas                       30
-Utah                         6
-Vermont                      8
+Utah                         7
+Vermont                     12
 Virginia                    17
 Washington                  12
 West Virginia               11
-Wisconsin                   13
+Wisconsin                   14

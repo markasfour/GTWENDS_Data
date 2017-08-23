@@ -1,0 +1,53 @@
+                      Beecher
+geoName                      
+Alabama                    18
+Alaska                     17
+Arizona                    14
+Arkansas                   18
+California                 14
+Colorado                   17
+Connecticut                88
+Delaware                   15
+District of Columbia       20
+Florida                    16
+Georgia                    27
+Hawaii                     11
+Idaho                      17
+Illinois                  100
+Indiana                    50
+Iowa                       52
+Kansas                     20
+Kentucky                   27
+Louisiana                  13
+Maine                      76
+Maryland                   16
+Massachusetts              25
+Michigan                   58
+Minnesota                  20
+Mississippi                15
+Missouri                   20
+Montana                    16
+Nebraska                   19
+Nevada                     15
+New Hampshire              24
+New Jersey                 20
+New Mexico                 15
+New York                   23
+North Carolina             21
+North Dakota               12
+Ohio                       29
+Oklahoma                   13
+Oregon                     12
+Pennsylvania               19
+Rhode Island               22
+South Carolina             22
+South Dakota               19
+Tennessee                  18
+Texas                      15
+Utah                       23
+Vermont                    31
+Virginia                   15
+Washington                 17
+West Virginia              17
+Wisconsin                  29
+Wyoming                    17
