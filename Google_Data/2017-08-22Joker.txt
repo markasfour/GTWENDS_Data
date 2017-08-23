@@ -1,0 +1,53 @@
+                      Joker
+geoName                    
+Alabama                  82
+Alaska                   78
+Arizona                  89
+Arkansas                 90
+California               85
+Colorado                 75
+Connecticut              70
+Delaware                 75
+District of Columbia     66
+Florida                  81
+Georgia                  77
+Hawaii                   66
+Idaho                    77
+Illinois                 83
+Indiana                  92
+Iowa                     76
+Kansas                   84
+Kentucky                 98
+Louisiana                76
+Maine                    64
+Maryland                 69
+Massachusetts            66
+Michigan                 82
+Minnesota                60
+Mississippi              82
+Missouri                 80
+Montana                  68
+Nebraska                 79
+Nevada                   98
+New Hampshire            64
+New Jersey               82
+New Mexico              100
+New York                 76
+North Carolina           72
+North Dakota             78
+Ohio                     81
+Oklahoma                 91
+Oregon                   88
+Pennsylvania             77
+Rhode Island             80
+South Carolina           80
+South Dakota             81
+Tennessee                83
+Texas                    91
+Utah                     86
+Vermont                  58
+Virginia                 71
+Washington               67
+West Virginia            96
+Wisconsin                70
+Wyoming                  83

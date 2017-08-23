@@ -1,0 +1,53 @@
+                      maddow
+geoName                     
+Alabama                   33
+Alaska                    66
+Arizona                   48
+Arkansas                  34
+California                54
+Colorado                  58
+Connecticut               55
+Delaware                  46
+District of Columbia      63
+Florida                   38
+Georgia                   30
+Hawaii                    56
+Idaho                     47
+Illinois                  45
+Indiana                   40
+Iowa                      47
+Kansas                    36
+Kentucky                  34
+Louisiana                 32
+Maine                     80
+Maryland                  55
+Massachusetts             61
+Michigan                  43
+Minnesota                 50
+Mississippi               28
+Missouri                  39
+Montana                   77
+Nebraska                  42
+Nevada                    41
+New Hampshire             59
+New Jersey                45
+New Mexico                72
+New York                  53
+North Carolina            42
+North Dakota              41
+Ohio                      42
+Oklahoma                  32
+Oregon                    66
+Pennsylvania              46
+Rhode Island              49
+South Carolina            33
+South Dakota              40
+Tennessee                 33
+Texas                     30
+Utah                      39
+Vermont                  100
+Virginia                  40
+Washington                76
+West Virginia             36
+Wisconsin                 54
+Wyoming                   48

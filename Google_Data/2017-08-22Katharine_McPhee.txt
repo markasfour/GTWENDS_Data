@@ -1,53 +1,53 @@
                       Katharine McPhee
 geoName                               
-Alabama                             68
-Alaska                              41
-Arizona                             73
-Arkansas                            67
-California                          68
-Colorado                            73
-Connecticut                         72
-Delaware                            70
-District of Columbia                56
-Florida                             64
+Alabama                             78
+Alaska                              52
+Arizona                             75
+Arkansas                            76
+California                          73
+Colorado                            76
+Connecticut                         76
+Delaware                            86
+District of Columbia                57
+Florida                             68
 Georgia                             57
-Hawaii                              85
-Idaho                               66
+Hawaii                              87
+Idaho                               76
 Illinois                            68
-Indiana                             73
-Iowa                                72
-Kansas                              65
-Kentucky                            71
+Indiana                             78
+Iowa                                77
+Kansas                              64
+Kentucky                            73
 Louisiana                           65
-Maine                               57
-Maryland                            67
-Massachusetts                       76
-Michigan                            70
-Minnesota                           69
-Mississippi                         56
-Missouri                            71
-Montana                             56
-Nebraska                            75
-Nevada                              72
-New Hampshire                       74
-New Jersey                          75
-New Mexico                          75
-New York                            66
-North Carolina                      64
-North Dakota                        72
-Ohio                                76
-Oklahoma                            72
-Oregon                              54
-Pennsylvania                        77
-Rhode Island                        80
-South Carolina                      72
-South Dakota                        75
-Tennessee                           69
-Texas                               59
+Maine                               59
+Maryland                            72
+Massachusetts                       81
+Michigan                            74
+Minnesota                           71
+Mississippi                         60
+Missouri                            75
+Montana                             64
+Nebraska                            78
+Nevada                              79
+New Hampshire                       82
+New Jersey                          80
+New Mexico                          76
+New York                            68
+North Carolina                      67
+North Dakota                        70
+Ohio                                80
+Oklahoma                            74
+Oregon                              53
+Pennsylvania                        78
+Rhode Island                        78
+South Carolina                      67
+South Dakota                        85
+Tennessee                           72
+Texas                               64
 Utah                                77
-Vermont                             62
-Virginia                            57
-Washington                          69
-West Virginia                       78
-Wisconsin                           73
+Vermont                             51
+Virginia                            58
+Washington                          71
+West Virginia                       68
+Wisconsin                           74
 Wyoming                            100

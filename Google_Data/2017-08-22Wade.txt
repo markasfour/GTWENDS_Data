@@ -1,0 +1,53 @@
+                      Wade
+geoName                   
+Alabama                 54
+Alaska                  38
+Arizona                 32
+Arkansas                49
+California              32
+Colorado                36
+Connecticut             40
+Delaware                42
+District of Columbia    49
+Florida                 65
+Georgia                 67
+Hawaii                  38
+Idaho                   34
+Illinois                49
+Indiana                 42
+Iowa                    39
+Kansas                  42
+Kentucky                43
+Louisiana               52
+Maine                   33
+Maryland                47
+Massachusetts           40
+Michigan                39
+Minnesota               35
+Mississippi             77
+Missouri                45
+Montana                 44
+Nebraska                39
+Nevada                  36
+New Hampshire           31
+New Jersey              39
+New Mexico              32
+New York                43
+North Carolina          59
+North Dakota            40
+Ohio                    51
+Oklahoma                51
+Oregon                  25
+Pennsylvania            41
+Rhode Island            35
+South Carolina         100
+South Dakota            39
+Tennessee               53
+Texas                   48
+Utah                    70
+Vermont                 31
+Virginia                39
+Washington              33
+West Virginia           43
+Wisconsin               40
+Wyoming                 38

@@ -1,0 +1,53 @@
+                      Eclipse Glasses
+geoName                              
+Alabama                            67
+Alaska                              7
+Arizona                            20
+Arkansas                           42
+California                         20
+Colorado                           51
+Connecticut                        27
+Delaware                           45
+District of Columbia               31
+Florida                            39
+Georgia                            58
+Hawaii                              5
+Idaho                              54
+Illinois                           37
+Indiana                            52
+Iowa                               34
+Kansas                             46
+Kentucky                           67
+Louisiana                          26
+Maine                              22
+Maryland                           36
+Massachusetts                      21
+Michigan                           29
+Minnesota                          20
+Mississippi                        38
+Missouri                           63
+Montana                            41
+Nebraska                           58
+Nevada                             21
+New Hampshire                      29
+New Jersey                         32
+New Mexico                         22
+New York                           19
+North Carolina                     64
+North Dakota                       25
+Ohio                               40
+Oklahoma                           32
+Oregon                             46
+Pennsylvania                       33
+Rhode Island                       27
+South Carolina                    100
+South Dakota                       36
+Tennessee                          88
+Texas                              21
+Utah                               44
+Vermont                            21
+Virginia                           33
+Washington                         45
+West Virginia                      46
+Wisconsin                          26
+Wyoming                            56

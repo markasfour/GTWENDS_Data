@@ -1,0 +1,53 @@
+                      Gordon Hayward
+geoName                             
+Alabama                            6
+Alaska                             5
+Arizona                            6
+Arkansas                           5
+California                         8
+Colorado                           5
+Connecticut                       12
+Delaware                           8
+District of Columbia               8
+Florida                            8
+Georgia                            6
+Hawaii                             6
+Idaho                             16
+Illinois                           8
+Indiana                           19
+Iowa                               5
+Kansas                             4
+Kentucky                           6
+Louisiana                          6
+Maine                             17
+Maryland                           7
+Massachusetts                     25
+Michigan                           6
+Minnesota                          6
+Mississippi                        5
+Missouri                           5
+Montana                            9
+Nebraska                           6
+Nevada                             9
+New Hampshire                     21
+New Jersey                         8
+New Mexico                         4
+New York                           8
+North Carolina                     7
+North Dakota                       4
+Ohio                               8
+Oklahoma                           6
+Oregon                             4
+Pennsylvania                       6
+Rhode Island                      22
+South Carolina                     6
+South Dakota                       6
+Tennessee                          5
+Texas                              5
+Utah                             100
+Vermont                           11
+Virginia                           5
+Washington                         5
+West Virginia                      6
+Wisconsin                          6
+Wyoming                           10

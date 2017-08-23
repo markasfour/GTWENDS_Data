@@ -1,53 +1,53 @@
                       Odell Beckham
 geoName                            
-Alabama                          60
-Alaska                           21
-Arizona                          35
+Alabama                          59
+Alaska                           19
+Arizona                          34
 Arkansas                         49
-California                       29
+California                       30
 Colorado                         32
-Connecticut                      60
-Delaware                         58
-District of Columbia             68
+Connecticut                      61
+Delaware                         59
+District of Columbia             67
 Florida                          44
 Georgia                          57
 Hawaii                           31
 Idaho                            25
 Illinois                         35
 Indiana                          40
-Iowa                             37
-Kansas                           28
+Iowa                             36
+Kansas                           29
 Kentucky                         33
 Louisiana                       100
-Maine                            29
+Maine                            28
 Maryland                         57
 Massachusetts                    38
 Michigan                         39
 Minnesota                        36
 Mississippi                      84
-Missouri                         35
+Missouri                         36
 Montana                          25
 Nebraska                         35
-Nevada                           34
+Nevada                           33
 New Hampshire                    29
-New Jersey                       87
+New Jersey                       90
 New Mexico                       30
-New York                         58
+New York                         59
 North Carolina                   54
-North Dakota                     36
-Ohio                             41
+North Dakota                     34
+Ohio                             40
 Oklahoma                         35
 Oregon                           17
-Pennsylvania                     48
-Rhode Island                     46
-South Carolina                   61
+Pennsylvania                     47
+Rhode Island                     47
+South Carolina                   60
 South Dakota                     36
-Tennessee                        43
-Texas                            51
-Utah                             24
-Vermont                          29
+Tennessee                        44
+Texas                            50
+Utah                             23
+Vermont                          31
 Virginia                         40
-Washington                       30
-West Virginia                    33
+Washington                       29
+West Virginia                    32
 Wisconsin                        41
-Wyoming                          25
+Wyoming                          24

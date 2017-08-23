@@ -1,0 +1,53 @@
+                      Warriors
+geoName                       
+Alabama                     31
+Alaska                      27
+Arizona                     29
+Arkansas                    31
+California                 100
+Colorado                    24
+Connecticut                 23
+Delaware                    28
+District of Columbia        27
+Florida                     24
+Georgia                     29
+Hawaii                      45
+Idaho                       29
+Illinois                    29
+Indiana                     28
+Iowa                        25
+Kansas                      20
+Kentucky                    25
+Louisiana                   28
+Maine                       21
+Maryland                    26
+Massachusetts               23
+Michigan                    28
+Minnesota                   22
+Mississippi                 31
+Missouri                    23
+Montana                     27
+Nebraska                    26
+Nevada                      45
+New Hampshire               20
+New Jersey                  25
+New Mexico                  32
+New York                    25
+North Carolina              28
+North Dakota                24
+Ohio                        44
+Oklahoma                    30
+Oregon                      25
+Pennsylvania                24
+Rhode Island                23
+South Carolina              28
+South Dakota                28
+Tennessee                   28
+Texas                       30
+Utah                        33
+Vermont                     20
+Virginia                    21
+Washington                  34
+West Virginia               25
+Wisconsin                   24
+Wyoming                     26

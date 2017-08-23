@@ -1,53 +1,53 @@
                       Dallas McCarver
 geoName                              
-Alabama                            45
-Alaska                             23
-Arizona                            29
-Arkansas                           50
-California                         23
-Colorado                           26
+Alabama                            30
+Alaska                             11
+Arizona                            31
+Arkansas                           48
+California                         20
+Colorado                           22
 Connecticut                        26
-Delaware                           30
-District of Columbia               15
+Delaware                           38
+District of Columbia               17
 Florida                            35
-Georgia                            35
-Hawaii                             27
-Idaho                              15
+Georgia                            34
+Hawaii                             24
+Idaho                              31
 Illinois                           30
-Indiana                            33
-Iowa                               21
+Indiana                            25
+Iowa                               29
 Kansas                             24
-Kentucky                           55
-Louisiana                          26
-Maine                              16
-Maryland                           19
-Massachusetts                      23
-Michigan                           30
-Minnesota                          17
-Mississippi                        52
-Missouri                           33
-Montana                            15
-Nebraska                           27
-Nevada                             39
-New Hampshire                      26
-New Jersey                         34
-New Mexico                         32
-New York                           24
-North Carolina                     26
+Kentucky                           53
+Louisiana                          36
+Maine                              15
+Maryland                           16
+Massachusetts                      19
+Michigan                           28
+Minnesota                          15
+Mississippi                        48
+Missouri                           25
+Montana                            29
+Nebraska                           24
+Nevada                             34
+New Hampshire                      14
+New Jersey                         36
+New Mexico                         28
+New York                           22
+North Carolina                     29
 North Dakota                       12
-Ohio                               29
-Oklahoma                           13
-Oregon                             14
+Ohio                               27
+Oklahoma                           18
+Oregon                             13
 Pennsylvania                       25
-Rhode Island                       24
-South Carolina                     29
-South Dakota                       19
+Rhode Island                       23
+South Carolina                     23
+South Dakota                       36
 Tennessee                         100
-Texas                              31
-Utah                               29
+Texas                              27
+Utah                               18
 Vermont                            12
 Virginia                           23
 Washington                         21
-West Virginia                      23
-Wisconsin                          19
-Wyoming                            28
+West Virginia                      25
+Wisconsin                          14
+Wyoming                            18

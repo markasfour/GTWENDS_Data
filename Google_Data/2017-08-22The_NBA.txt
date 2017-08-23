@@ -1,0 +1,53 @@
+                      The NBA
+geoName                      
+Alabama                    82
+Alaska                     58
+Arizona                    67
+Arkansas                   85
+California                 77
+Colorado                   54
+Connecticut                76
+Delaware                   84
+District of Columbia       74
+Florida                    78
+Georgia                    86
+Hawaii                     62
+Idaho                      57
+Illinois                   91
+Indiana                    98
+Iowa                       76
+Kansas                     71
+Kentucky                   96
+Louisiana                  89
+Maine                      63
+Maryland                   76
+Massachusetts              73
+Michigan                   82
+Minnesota                  67
+Mississippi                98
+Missouri                   70
+Montana                    58
+Nebraska                   74
+Nevada                     76
+New Hampshire              60
+New Jersey                 85
+New Mexico                 58
+New York                   86
+North Carolina             83
+North Dakota               71
+Ohio                      100
+Oklahoma                   95
+Oregon                     57
+Pennsylvania               75
+Rhode Island               75
+South Carolina             80
+South Dakota               78
+Tennessee                  77
+Texas                      78
+Utah                       88
+Vermont                    56
+Virginia                   60
+Washington                 54
+West Virginia              72
+Wisconsin                  77
+Wyoming                    54

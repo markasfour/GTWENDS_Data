@@ -1,53 +1,53 @@
                       Paul Ryan
 geoName                        
 Alabama                      34
-Alaska                       34
+Alaska                       32
 Arizona                      35
-Arkansas                     30
-California                   40
-Colorado                     43
-Connecticut                  48
-Delaware                     41
+Arkansas                     31
+California                   39
+Colorado                     42
+Connecticut                  46
+Delaware                     43
 District of Columbia        100
 Florida                      36
-Georgia                      34
-Hawaii                       28
+Georgia                      33
+Hawaii                       25
 Idaho                        36
 Illinois                     47
-Indiana                      39
-Iowa                         42
+Indiana                      37
+Iowa                         43
 Kansas                       32
-Kentucky                     34
-Louisiana                    33
+Kentucky                     32
+Louisiana                    32
 Maine                        42
-Maryland                     52
+Maryland                     49
 Massachusetts                51
 Michigan                     39
 Minnesota                    52
-Mississippi                  29
-Missouri                     39
-Montana                      48
-Nebraska                     39
-Nevada                       32
-New Hampshire                45
-New Jersey                   44
+Mississippi                  27
+Missouri                     38
+Montana                      47
+Nebraska                     37
+Nevada                       31
+New Hampshire                42
+New Jersey                   42
 New Mexico                   35
 New York                     46
-North Carolina               38
-North Dakota                 38
-Ohio                         43
-Oklahoma                     31
+North Carolina               37
+North Dakota                 35
+Ohio                         42
+Oklahoma                     30
 Oregon                       32
-Pennsylvania                 43
-Rhode Island                 44
+Pennsylvania                 44
+Rhode Island                 43
 South Carolina               30
-South Dakota                 35
-Tennessee                    34
+South Dakota                 37
+Tennessee                    33
 Texas                        32
-Utah                         36
-Vermont                      44
-Virginia                     41
-Washington                   43
-West Virginia                35
-Wisconsin                    92
-Wyoming                      33
+Utah                         35
+Vermont                      43
+Virginia                     40
+Washington                   41
+West Virginia                34
+Wisconsin                    90
+Wyoming                      32

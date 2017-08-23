@@ -1,0 +1,53 @@
+                      Lackey
+geoName                     
+Alabama                  100
+Alaska                    48
+Arizona                   39
+Arkansas                  80
+California                41
+Colorado                  42
+Connecticut               50
+Delaware                  35
+District of Columbia      73
+Florida                   36
+Georgia                   59
+Hawaii                    31
+Idaho                     39
+Illinois                  95
+Indiana                   68
+Iowa                      56
+Kansas                    50
+Kentucky                  71
+Louisiana                 33
+Maine                     70
+Maryland                  89
+Massachusetts             91
+Michigan                  38
+Minnesota                 36
+Mississippi              100
+Missouri                  92
+Montana                   39
+Nebraska                  43
+Nevada                    37
+New Hampshire             80
+New Jersey                36
+New Mexico                49
+New York                  40
+North Carolina            77
+North Dakota              32
+Ohio                      47
+Oklahoma                  67
+Oregon                    35
+Pennsylvania              37
+Rhode Island              75
+South Carolina            55
+South Dakota              29
+Tennessee                 80
+Texas                     54
+Utah                      31
+Vermont                   69
+Virginia                  55
+Washington                46
+West Virginia             57
+Wisconsin                 51
+Wyoming                   41
