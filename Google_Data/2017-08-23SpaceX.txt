@@ -1,0 +1,53 @@
+                      SpaceX
+geoName                     
+Alabama                   47
+Alaska                    53
+Arizona                   52
+Arkansas                  30
+California                98
+Colorado                  69
+Connecticut               45
+Delaware                  39
+District of Columbia      56
+Florida                  100
+Georgia                   35
+Hawaii                    48
+Idaho                     43
+Illinois                  40
+Indiana                   44
+Iowa                      42
+Kansas                    38
+Kentucky                  29
+Louisiana                 26
+Maine                     43
+Maryland                  56
+Massachusetts             53
+Michigan                  41
+Minnesota                 44
+Mississippi               22
+Missouri                  37
+Montana                   56
+Nebraska                  42
+Nevada                    43
+New Hampshire             55
+New Jersey                38
+New Mexico                52
+New York                  37
+North Carolina            36
+North Dakota              33
+Ohio                      40
+Oklahoma                  42
+Oregon                    50
+Pennsylvania              42
+Rhode Island              36
+South Carolina            32
+South Dakota              31
+Tennessee                 27
+Texas                     49
+Utah                      64
+Vermont                   60
+Virginia                  46
+Washington                78
+West Virginia             28
+Wisconsin                 41
+Wyoming                   44

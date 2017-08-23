@@ -1,53 +1,53 @@
                       Last Solar Eclipse In Usa
 geoName                                        
-Alabama                                      39
-Alaska                                       21
-Arizona                                      20
-Arkansas                                     37
-California                                   12
-Colorado                                     33
-Connecticut                                  18
-Delaware                                     24
+Alabama                                      40
+Alaska                                       33
+Arizona                                      15
+Arkansas                                     36
+California                                   11
+Colorado                                     34
+Connecticut                                  15
+Delaware                                     22
 District of Columbia                         19
 Florida                                      24
-Georgia                                      37
-Hawaii                                        9
-Idaho                                        41
-Illinois                                     25
-Indiana                                      41
-Iowa                                         33
-Kansas                                       40
-Kentucky                                     47
+Georgia                                      34
+Hawaii                                        3
+Idaho                                        43
+Illinois                                     22
+Indiana                                      38
+Iowa                                         26
+Kansas                                       35
+Kentucky                                     43
 Louisiana                                    27
-Maine                                        19
-Maryland                                     16
-Massachusetts                                13
-Michigan                                     16
-Minnesota                                    16
-Mississippi                                  46
-Missouri                                     44
-Montana                                      36
-Nebraska                                     57
+Maine                                        20
+Maryland                                     18
+Massachusetts                                16
+Michigan                                     17
+Minnesota                                    13
+Mississippi                                  33
+Missouri                                     38
+Montana                                      28
+Nebraska                                     61
 Nevada                                       13
-New Hampshire                                35
-New Jersey                                   19
+New Hampshire                                23
+New Jersey                                   20
 New Mexico                                   14
 New York                                     10
-North Carolina                               49
+North Carolina                               41
 North Dakota                                 18
-Ohio                                         18
-Oklahoma                                     21
+Ohio                                         22
+Oklahoma                                     18
 Oregon                                       26
-Pennsylvania                                 20
+Pennsylvania                                 21
 Rhode Island                                 31
 South Carolina                               64
-South Dakota                                 37
-Tennessee                                    49
-Texas                                        17
-Utah                                         21
-Vermont                                      19
-Virginia                                     19
-Washington                                   28
-West Virginia                                44
+South Dakota                                 35
+Tennessee                                    51
+Texas                                        16
+Utah                                         28
+Vermont                                      24
+Virginia                                     20
+Washington                                   24
+West Virginia                                42
 Wisconsin                                    19
 Wyoming                                     100

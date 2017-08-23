@@ -1,46 +1,49 @@
                       Android Oreo
 geoName                           
-Alabama                         23
-Arizona                         11
-Arkansas                        21
-California                      34
-Colorado                        18
-Connecticut                     20
-District of Columbia            15
-Florida                         18
-Georgia                         26
-Hawaii                          24
-Idaho                           43
-Illinois                        27
-Indiana                         23
-Iowa                            30
-Kansas                          31
-Kentucky                        63
-Louisiana                       11
-Maryland                        34
-Massachusetts                   26
-Michigan                        29
-Minnesota                       18
-Mississippi                     31
-Missouri                        13
-Nevada                          13
-New Hampshire                   29
+Alabama                         19
+Alaska                         100
+Arizona                         12
+Arkansas                        18
+California                      30
+Colorado                        21
+Connecticut                     30
+Delaware                        42
+District of Columbia             9
+Florida                         22
+Georgia                         22
+Hawaii                          21
+Idaho                           25
+Illinois                        12
+Indiana                         20
+Iowa                            26
+Kansas                          22
+Kentucky                        41
+Louisiana                       14
+Maine                           27
+Maryland                        21
+Massachusetts                   29
+Michigan                        33
+Minnesota                       10
+Mississippi                     35
+Missouri                        14
+Nebraska                        18
+Nevada                          44
+New Hampshire                   37
 New Jersey                      23
-New Mexico                      26
-New York                        21
-North Carolina                  18
-North Dakota                    61
-Ohio                            22
-Oklahoma                        24
-Oregon                          20
-Pennsylvania                    15
-Rhode Island                   100
-South Carolina                  48
-Tennessee                       28
-Texas                           33
-Utah                            40
-Virginia                        20
-Washington                       9
-West Virginia                   50
-Wisconsin                       14
-Wyoming                         91
+New York                        25
+North Carolina                  16
+North Dakota                    52
+Ohio                            21
+Oklahoma                        30
+Oregon                          17
+Pennsylvania                    12
+South Carolina                  45
+South Dakota                    53
+Tennessee                       14
+Texas                           27
+Utah                            34
+Virginia                        25
+Washington                      21
+West Virginia                   57
+Wisconsin                       15
+Wyoming                         78

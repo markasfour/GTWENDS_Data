@@ -1,0 +1,53 @@
+                      Trump Eclipse
+geoName                            
+Alabama                          38
+Alaska                           40
+Arizona                          35
+Arkansas                         41
+California                       36
+Colorado                         49
+Connecticut                      35
+Delaware                         34
+District of Columbia             38
+Florida                          33
+Georgia                          37
+Hawaii                           24
+Idaho                            98
+Illinois                         37
+Indiana                          39
+Iowa                             36
+Kansas                           35
+Kentucky                         47
+Louisiana                        21
+Maine                            19
+Maryland                         33
+Massachusetts                    43
+Michigan                         31
+Minnesota                        29
+Mississippi                      16
+Missouri                         60
+Montana                          88
+Nebraska                         24
+Nevada                           35
+New Hampshire                    29
+New Jersey                       36
+New Mexico                       42
+New York                         34
+North Carolina                   43
+North Dakota                     30
+Ohio                             35
+Oklahoma                         22
+Oregon                           73
+Pennsylvania                     30
+Rhode Island                     43
+South Carolina                   48
+South Dakota                     12
+Tennessee                        55
+Texas                            24
+Utah                             29
+Vermont                          54
+Virginia                         34
+Washington                       55
+West Virginia                    33
+Wisconsin                        35
+Wyoming                         100

@@ -1,53 +1,53 @@
                       SNES Classic
 geoName                           
-Alabama                         55
-Alaska                          61
-Arizona                         59
-Arkansas                        62
-California                      71
-Colorado                        63
-Connecticut                     66
-Delaware                        47
-District of Columbia            46
-Florida                         54
-Georgia                         47
-Hawaii                          48
-Idaho                           57
-Illinois                        62
-Indiana                         81
-Iowa                            64
-Kansas                          57
-Kentucky                        75
-Louisiana                       53
-Maine                           74
-Maryland                        61
-Massachusetts                   50
-Michigan                        70
-Minnesota                       60
+Alabama                         54
+Alaska                          55
+Arizona                         57
+Arkansas                        58
+California                      64
+Colorado                        57
+Connecticut                     54
+Delaware                        49
+District of Columbia            43
+Florida                         50
+Georgia                         46
+Hawaii                          47
+Idaho                           58
+Illinois                        59
+Indiana                         79
+Iowa                            57
+Kansas                          54
+Kentucky                        65
+Louisiana                       47
+Maine                           62
+Maryland                        57
+Massachusetts                   48
+Michigan                        65
+Minnesota                       57
 Mississippi                     41
 Missouri                        57
-Montana                         67
-Nebraska                        67
-Nevada                          67
-New Hampshire                   58
-New Jersey                      60
-New Mexico                      64
-New York                        51
-North Carolina                  57
-North Dakota                    79
-Ohio                            76
-Oklahoma                        56
-Oregon                          55
-Pennsylvania                    65
-Rhode Island                    57
-South Carolina                  58
-South Dakota                    69
-Tennessee                       55
-Texas                           58
+Montana                         60
+Nebraska                        54
+Nevada                          69
+New Hampshire                   67
+New Jersey                      53
+New Mexico                      60
+New York                        49
+North Carolina                  54
+North Dakota                    98
+Ohio                            69
+Oklahoma                        46
+Oregon                          50
+Pennsylvania                    61
+Rhode Island                    64
+South Carolina                  46
+South Dakota                    51
+Tennessee                       58
+Texas                           55
 Utah                           100
-Vermont                         38
-Virginia                        47
-Washington                      79
-West Virginia                   74
-Wisconsin                       65
-Wyoming                         43
+Vermont                         36
+Virginia                        45
+Washington                      71
+West Virginia                   72
+Wisconsin                       60
+Wyoming                         29
