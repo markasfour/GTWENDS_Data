@@ -1,0 +1,37 @@
+                      Hato
+geoName                   
+Alabama                 25
+Arizona                  5
+Arkansas                13
+California               6
+Colorado                 4
+Connecticut              8
+District of Columbia    18
+Florida                 81
+Georgia                 74
+Illinois                 8
+Indiana                  6
+Kansas                  10
+Kentucky                20
+Louisiana               13
+Maryland                 8
+Massachusetts           11
+Michigan                 5
+Minnesota                6
+Mississippi             35
+Missouri                 4
+Nebraska                 4
+Nevada                   4
+New Jersey              13
+New York                18
+North Carolina          13
+Ohio                     6
+Oklahoma               100
+Oregon                  13
+Pennsylvania             8
+South Carolina          15
+Tennessee               11
+Texas                    8
+Virginia                13
+Washington               5
+Wisconsin                5

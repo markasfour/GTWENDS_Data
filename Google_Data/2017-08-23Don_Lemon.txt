@@ -1,0 +1,53 @@
+                      Don Lemon
+geoName                        
+Alabama                      59
+Alaska                       29
+Arizona                      47
+Arkansas                     49
+California                   51
+Colorado                     33
+Connecticut                  58
+Delaware                     65
+District of Columbia        100
+Florida                      53
+Georgia                      72
+Hawaii                       43
+Idaho                        24
+Illinois                     50
+Indiana                      39
+Iowa                         31
+Kansas                       37
+Kentucky                     42
+Louisiana                    77
+Maine                        25
+Maryland                     87
+Massachusetts                56
+Michigan                     43
+Minnesota                    41
+Mississippi                  47
+Missouri                     49
+Montana                      30
+Nebraska                     37
+Nevada                       49
+New Hampshire                33
+New Jersey                   62
+New Mexico                   33
+New York                     69
+North Carolina               52
+North Dakota                 30
+Ohio                         40
+Oklahoma                     38
+Oregon                       30
+Pennsylvania                 53
+Rhode Island                 45
+South Carolina               53
+South Dakota                 29
+Tennessee                    48
+Texas                        46
+Utah                         23
+Vermont                      39
+Virginia                     57
+Washington                   41
+West Virginia                36
+Wisconsin                    30
+Wyoming                      27

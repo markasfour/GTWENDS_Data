@@ -1,0 +1,53 @@
+                      Hundley
+geoName                      
+Alabama                    60
+Alaska                     42
+Arizona                    74
+Arkansas                   35
+California                 79
+Colorado                   54
+Connecticut                38
+Delaware                   66
+District of Columbia       63
+Florida                    32
+Georgia                    37
+Hawaii                     61
+Idaho                      40
+Illinois                   52
+Indiana                    39
+Iowa                       46
+Kansas                     46
+Kentucky                   72
+Louisiana                  42
+Maine                      19
+Maryland                   50
+Massachusetts              27
+Michigan                   36
+Minnesota                  42
+Mississippi                24
+Missouri                   55
+Montana                    29
+Nebraska                   50
+Nevada                     47
+New Hampshire              25
+New Jersey                 40
+New Mexico                 28
+New York                   38
+North Carolina             45
+North Dakota               30
+Ohio                       69
+Oklahoma                   40
+Oregon                     36
+Pennsylvania               40
+Rhode Island               36
+South Carolina             45
+South Dakota               38
+Tennessee                  49
+Texas                      36
+Utah                       73
+Vermont                    23
+Virginia                   70
+Washington                 53
+West Virginia             100
+Wisconsin                  90
+Wyoming                    42

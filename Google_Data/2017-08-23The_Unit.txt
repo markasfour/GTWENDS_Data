@@ -1,0 +1,50 @@
+                      The Unit
+geoName                       
+Alabama                     98
+Alaska                      63
+Arizona                     75
+Arkansas                    94
+California                  61
+Colorado                    59
+Connecticut                 65
+Delaware                    77
+District of Columbia        49
+Florida                     76
+Georgia                     88
+Hawaii                      64
+Idaho                       76
+Illinois                    66
+Indiana                     88
+Iowa                        74
+Kansas                      72
+Kentucky                    78
+Louisiana                   89
+Maine                       60
+Maryland                    71
+Massachusetts               56
+Michigan                    70
+Minnesota                   57
+Mississippi                100
+Missouri                    67
+Montana                     59
+Nebraska                    66
+Nevada                      66
+New Hampshire               57
+New Jersey                  70
+New Mexico                  82
+New York                    57
+North Carolina              85
+Ohio                        75
+Oklahoma                    75
+Oregon                      43
+Pennsylvania                71
+Rhode Island                64
+South Carolina              91
+South Dakota                92
+Tennessee                   70
+Texas                       76
+Utah                        65
+Virginia                    64
+Washington                  49
+West Virginia               81
+Wisconsin                   63
