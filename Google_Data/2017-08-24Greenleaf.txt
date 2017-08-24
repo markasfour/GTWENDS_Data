@@ -1,0 +1,53 @@
+                      Greenleaf
+geoName                        
+Alabama                      49
+Alaska                       12
+Arizona                      24
+Arkansas                     33
+California                   37
+Colorado                     24
+Connecticut                  30
+Delaware                     35
+District of Columbia         39
+Florida                      26
+Georgia                      52
+Hawaii                       19
+Idaho                        80
+Illinois                     50
+Indiana                      35
+Iowa                         15
+Kansas                       27
+Kentucky                     24
+Louisiana                    42
+Maine                        46
+Maryland                     41
+Massachusetts                34
+Michigan                     40
+Minnesota                    32
+Mississippi                  47
+Missouri                     26
+Montana                      23
+Nebraska                     23
+Nevada                       22
+New Hampshire                54
+New Jersey                   29
+New Mexico                   75
+New York                     25
+North Carolina               38
+North Dakota                 14
+Ohio                         29
+Oklahoma                     57
+Oregon                       34
+Pennsylvania                 30
+Rhode Island                100
+South Carolina               38
+South Dakota                 13
+Tennessee                    33
+Texas                        26
+Utah                         17
+Vermont                      30
+Virginia                     28
+Washington                   27
+West Virginia                25
+Wisconsin                    50
+Wyoming                      10

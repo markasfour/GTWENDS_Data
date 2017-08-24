@@ -1,0 +1,7 @@
+            RCTID
+geoName          
+California      2
+New York        1
+Oregon        100
+Texas           1
+Washington     25

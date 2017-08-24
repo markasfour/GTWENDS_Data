@@ -1,0 +1,41 @@
+                      SegWit
+geoName                     
+Alabama                   44
+Arizona                   45
+California               100
+Colorado                  67
+Connecticut               76
+District of Columbia      71
+Florida                   58
+Georgia                   34
+Hawaii                    66
+Idaho                     39
+Illinois                  57
+Indiana                   61
+Iowa                      24
+Kansas                    28
+Kentucky                  14
+Louisiana                 22
+Maryland                  64
+Massachusetts             78
+Michigan                  44
+Minnesota                 33
+Missouri                  39
+Nebraska                  46
+Nevada                    73
+New Hampshire             92
+New Jersey                64
+New York                  67
+North Carolina            44
+Ohio                      40
+Oklahoma                  29
+Oregon                    52
+Pennsylvania              47
+Rhode Island              46
+South Carolina            49
+Tennessee                 46
+Texas                     48
+Utah                      78
+Virginia                  59
+Washington                85
+Wisconsin                 42

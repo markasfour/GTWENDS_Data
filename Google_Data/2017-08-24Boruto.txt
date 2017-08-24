@@ -1,0 +1,53 @@
+                      Boruto
+geoName                     
+Alabama                   59
+Alaska                    64
+Arizona                   60
+Arkansas                  63
+California                72
+Colorado                  35
+Connecticut               56
+Delaware                  74
+District of Columbia      44
+Florida                   75
+Georgia                   68
+Hawaii                   100
+Idaho                     40
+Illinois                  48
+Indiana                   53
+Iowa                      41
+Kansas                    81
+Kentucky                  45
+Louisiana                 66
+Maine                     32
+Maryland                  79
+Massachusetts             47
+Michigan                  51
+Minnesota                 46
+Mississippi               64
+Missouri                  43
+Montana                   31
+Nebraska                  40
+Nevada                    80
+New Hampshire             32
+New Jersey                72
+New Mexico                52
+New York                  69
+North Carolina            62
+North Dakota              40
+Ohio                      44
+Oklahoma                  51
+Oregon                    34
+Pennsylvania              49
+Rhode Island              60
+South Carolina            66
+South Dakota              35
+Tennessee                 51
+Texas                     76
+Utah                      40
+Vermont                   28
+Virginia                  58
+Washington                49
+West Virginia             49
+Wisconsin                 41
+Wyoming                   32

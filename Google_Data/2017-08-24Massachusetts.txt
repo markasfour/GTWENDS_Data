@@ -1,0 +1,53 @@
+                      Massachusetts
+geoName                            
+Alabama                           1
+Alaska                            1
+Arizona                           1
+Arkansas                          1
+California                        1
+Colorado                          2
+Connecticut                      13
+Delaware                          3
+District of Columbia              7
+Florida                           2
+Georgia                           1
+Hawaii                            1
+Idaho                             1
+Illinois                          2
+Indiana                           2
+Iowa                              1
+Kansas                            2
+Kentucky                          2
+Louisiana                         1
+Maine                            15
+Maryland                          3
+Massachusetts                   100
+Michigan                          2
+Minnesota                         2
+Mississippi                       1
+Missouri                          1
+Montana                           1
+Nebraska                          1
+Nevada                            1
+New Hampshire                    26
+New Jersey                        3
+New Mexico                        1
+New York                          5
+North Carolina                    2
+North Dakota                      1
+Ohio                              2
+Oklahoma                          1
+Oregon                            1
+Pennsylvania                      3
+Rhode Island                     29
+South Carolina                    2
+South Dakota                      1
+Tennessee                         1
+Texas                             1
+Utah                              1
+Vermont                          14
+Virginia                          2
+Washington                        1
+West Virginia                     1
+Wisconsin                         1
+Wyoming                           1

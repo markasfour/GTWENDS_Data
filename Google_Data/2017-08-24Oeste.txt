@@ -1,0 +1,44 @@
+                      Oeste
+geoName                    
+Alabama                  14
+Arizona                  37
+Arkansas                 26
+California               21
+Colorado                 12
+Connecticut              22
+District of Columbia     16
+Florida                  51
+Georgia                  38
+Idaho                     9
+Illinois                 15
+Indiana                   8
+Iowa                      7
+Kansas                   21
+Kentucky                 10
+Louisiana                12
+Maryland                 10
+Massachusetts            16
+Michigan                 10
+Minnesota                 8
+Mississippi              13
+Missouri                  7
+Nebraska                  8
+Nevada                   25
+New Jersey               21
+New Mexico               47
+New York                 28
+North Carolina           14
+Ohio                      9
+Oklahoma                 32
+Oregon                  100
+Pennsylvania             11
+Rhode Island             11
+South Carolina           11
+Tennessee                11
+Texas                    25
+Utah                     15
+Vermont                   4
+Virginia                 24
+Washington               10
+West Virginia             5
+Wisconsin                 9

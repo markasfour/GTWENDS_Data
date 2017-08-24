@@ -1,0 +1,53 @@
+                      Dallas McCarver
+geoName                              
+Alabama                            40
+Alaska                             33
+Arizona                            28
+Arkansas                           37
+California                         20
+Colorado                           21
+Connecticut                        27
+Delaware                           40
+District of Columbia               20
+Florida                            32
+Georgia                            35
+Hawaii                             32
+Idaho                              24
+Illinois                           28
+Indiana                            25
+Iowa                               23
+Kansas                             28
+Kentucky                           51
+Louisiana                          32
+Maine                              22
+Maryland                           17
+Massachusetts                      22
+Michigan                           25
+Minnesota                          15
+Mississippi                        39
+Missouri                           28
+Montana                            19
+Nebraska                           23
+Nevada                             32
+New Hampshire                      13
+New Jersey                         34
+New Mexico                         30
+New York                           25
+North Carolina                     25
+North Dakota                       17
+Ohio                               26
+Oklahoma                           14
+Oregon                             15
+Pennsylvania                       23
+Rhode Island                       23
+South Carolina                     20
+South Dakota                       17
+Tennessee                         100
+Texas                              28
+Utah                               19
+Vermont                            23
+Virginia                           20
+Washington                         16
+West Virginia                      28
+Wisconsin                          21
+Wyoming                            17
