@@ -1,0 +1,53 @@
+                      The Batman
+geoName                         
+Alabama                       89
+Alaska                        82
+Arizona                       91
+Arkansas                      94
+California                    86
+Colorado                      77
+Connecticut                   80
+Delaware                      86
+District of Columbia          59
+Florida                       80
+Georgia                       80
+Hawaii                        63
+Idaho                         90
+Illinois                      87
+Indiana                       98
+Iowa                          88
+Kansas                        82
+Kentucky                      95
+Louisiana                     81
+Maine                         74
+Maryland                      83
+Massachusetts                 74
+Michigan                      89
+Minnesota                     71
+Mississippi                   85
+Missouri                      89
+Montana                       78
+Nebraska                      83
+Nevada                        93
+New Hampshire                 76
+New Jersey                    93
+New Mexico                    93
+New York                      82
+North Carolina                80
+North Dakota                  74
+Ohio                          91
+Oklahoma                      91
+Oregon                        61
+Pennsylvania                  86
+Rhode Island                  89
+South Carolina                87
+South Dakota                  77
+Tennessee                     87
+Texas                         89
+Utah                         100
+Vermont                       74
+Virginia                      70
+Washington                    72
+West Virginia                 98
+Wisconsin                     78
+Wyoming                       83

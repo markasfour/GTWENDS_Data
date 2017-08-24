@@ -1,0 +1,53 @@
+                      Hurricane
+geoName                        
+Alabama                      36
+Alaska                       19
+Arizona                      21
+Arkansas                     27
+California                   19
+Colorado                     23
+Connecticut                  34
+Delaware                     39
+District of Columbia         45
+Florida                      90
+Georgia                      35
+Hawaii                       79
+Idaho                        19
+Illinois                     21
+Indiana                      22
+Iowa                         20
+Kansas                       18
+Kentucky                     23
+Louisiana                    62
+Maine                        32
+Maryland                     34
+Massachusetts                30
+Michigan                     20
+Minnesota                    18
+Mississippi                  45
+Missouri                     22
+Montana                      18
+Nebraska                     17
+Nevada                       20
+New Hampshire                29
+New Jersey                   44
+New Mexico                   22
+New York                     37
+North Carolina               46
+North Dakota                 16
+Ohio                         22
+Oklahoma                     26
+Oregon                       16
+Pennsylvania                 30
+Rhode Island                 37
+South Carolina               58
+South Dakota                 17
+Tennessee                    27
+Texas                        32
+Utah                         49
+Vermont                      32
+Virginia                     31
+Washington                   23
+West Virginia               100
+Wisconsin                    19
+Wyoming                      18

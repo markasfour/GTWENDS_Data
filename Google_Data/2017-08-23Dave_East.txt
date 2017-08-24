@@ -1,48 +1,48 @@
                       Dave East
 geoName                        
-Alabama                      16
-Alaska                       12
-Arizona                      16
+Alabama                      17
+Alaska                       10
+Arizona                      15
 Arkansas                     13
-California                   17
-Colorado                     13
-Connecticut                  80
-Delaware                     70
-District of Columbia         60
-Florida                      26
-Georgia                      32
+California                   16
+Colorado                     12
+Connecticut                  78
+Delaware                     76
+District of Columbia         59
+Florida                      25
+Georgia                      31
 Hawaii                        7
-Idaho                        12
+Idaho                        10
 Illinois                     24
-Indiana                      19
-Iowa                         10
-Kansas                       11
+Indiana                      18
+Iowa                         11
+Kansas                       13
 Kentucky                     15
-Louisiana                    29
-Maine                        14
-Maryland                     50
-Massachusetts                51
-Michigan                     29
-Minnesota                    16
-Mississippi                  14
-Missouri                     15
-Nebraska                     15
-Nevada                       17
-New Hampshire                20
+Louisiana                    31
+Maine                        15
+Maryland                     49
+Massachusetts                48
+Michigan                     27
+Minnesota                    15
+Mississippi                  18
+Missouri                     14
+Nebraska                     13
+Nevada                       16
+New Hampshire                21
 New Jersey                   76
-New Mexico                   11
+New Mexico                   10
 New York                    100
-North Carolina               34
+North Carolina               33
 Ohio                         24
-Oklahoma                     11
-Oregon                        7
-Pennsylvania                 46
+Oklahoma                     10
+Oregon                        6
+Pennsylvania                 47
 Rhode Island                 73
-South Carolina               24
+South Carolina               27
 Tennessee                    22
-Texas                        17
-Utah                          7
+Texas                        16
+Utah                          8
 Virginia                     28
-Washington                   13
+Washington                   12
 West Virginia                12
-Wisconsin                    16
+Wisconsin                    15

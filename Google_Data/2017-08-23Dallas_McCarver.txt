@@ -1,53 +1,53 @@
                       Dallas McCarver
 geoName                              
-Alabama                            38
-Alaska                             11
+Alabama                            44
+Alaska                             34
 Arizona                            24
-Arkansas                           44
-California                         22
-Colorado                           24
+Arkansas                           32
+California                         24
+Colorado                           28
 Connecticut                        21
-Delaware                           38
-District of Columbia               17
-Florida                            35
-Georgia                            36
-Hawaii                             23
-Idaho                              28
-Illinois                           31
+Delaware                           29
+District of Columbia               21
+Florida                            31
+Georgia                            37
+Hawaii                             24
+Idaho                              23
+Illinois                           33
 Indiana                            24
-Iowa                               20
-Kansas                             21
+Iowa                               15
+Kansas                             22
 Kentucky                           55
-Louisiana                          35
+Louisiana                          33
 Maine                              15
 Maryland                           16
-Massachusetts                      23
+Massachusetts                      24
 Michigan                           30
-Minnesota                          14
-Mississippi                        48
-Missouri                           22
-Montana                            28
-Nebraska                           16
-Nevada                             29
-New Hampshire                      17
-New Jersey                         38
-New Mexico                         23
+Minnesota                           9
+Mississippi                        44
+Missouri                           21
+Montana                            14
+Nebraska                           24
+Nevada                             33
+New Hampshire                      20
+New Jersey                         37
+New Mexico                         28
 New York                           24
-North Carolina                     29
+North Carolina                     26
 North Dakota                       12
-Ohio                               31
-Oklahoma                           21
-Oregon                             11
-Pennsylvania                       22
-Rhode Island                       23
-South Carolina                     23
-South Dakota                       53
+Ohio                               35
+Oklahoma                           20
+Oregon                             10
+Pennsylvania                       28
+Rhode Island                       30
+South Carolina                     22
+South Dakota                       42
 Tennessee                         100
-Texas                              26
-Utah                               26
+Texas                              27
+Utah                               20
 Vermont                            18
-Virginia                           22
-Washington                         21
-West Virginia                      16
-Wisconsin                          18
-Wyoming                            18
+Virginia                           23
+Washington                         20
+West Virginia                      26
+Wisconsin                          20
+Wyoming                            36

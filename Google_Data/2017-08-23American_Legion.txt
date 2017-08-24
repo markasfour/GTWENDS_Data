@@ -1,0 +1,53 @@
+                      American Legion
+geoName                              
+Alabama                            32
+Alaska                             62
+Arizona                            42
+Arkansas                           36
+California                         21
+Colorado                           27
+Connecticut                        57
+Delaware                           68
+District of Columbia               55
+Florida                            38
+Georgia                            33
+Hawaii                             16
+Idaho                              49
+Illinois                           49
+Indiana                            82
+Iowa                               61
+Kansas                             49
+Kentucky                           39
+Louisiana                          41
+Maine                              73
+Maryland                           61
+Massachusetts                      70
+Michigan                           52
+Minnesota                          88
+Mississippi                        29
+Missouri                           51
+Montana                            68
+Nebraska                           88
+Nevada                             23
+New Hampshire                      80
+New Jersey                         44
+New Mexico                         34
+New York                           37
+North Carolina                     39
+North Dakota                       77
+Ohio                               47
+Oklahoma                           32
+Oregon                             21
+Pennsylvania                       63
+Rhode Island                       41
+South Carolina                     41
+South Dakota                      100
+Tennessee                          27
+Texas                              22
+Utah                               18
+Vermont                            77
+Virginia                           35
+Washington                         26
+West Virginia                      47
+Wisconsin                          63
+Wyoming                            68

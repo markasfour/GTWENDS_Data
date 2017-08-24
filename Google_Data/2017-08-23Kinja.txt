@@ -1,0 +1,50 @@
+                      Kinja
+geoName                    
+Alabama                  13
+Arizona                  18
+Arkansas                 15
+California               30
+Colorado                 21
+Connecticut              24
+Delaware                 24
+District of Columbia     34
+Florida                  16
+Georgia                  16
+Hawaii                   22
+Idaho                    14
+Illinois                 28
+Indiana                  22
+Iowa                     15
+Kansas                   17
+Kentucky                 18
+Louisiana                13
+Maine                    16
+Maryland                 29
+Massachusetts            27
+Michigan                 21
+Minnesota                28
+Mississippi              10
+Missouri                 20
+Nebraska                100
+Nevada                   18
+New Hampshire            20
+New Jersey               26
+New Mexico               18
+New York                 32
+North Carolina           18
+North Dakota             23
+Ohio                     19
+Oklahoma                 16
+Oregon                   23
+Pennsylvania             25
+Rhode Island             19
+South Carolina           14
+South Dakota             13
+Tennessee                19
+Texas                    18
+Utah                     21
+Vermont                  27
+Virginia                 21
+Washington               43
+West Virginia            11
+Wisconsin                24

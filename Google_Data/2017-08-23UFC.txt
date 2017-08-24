@@ -1,0 +1,53 @@
+                      UFC
+geoName                  
+Alabama                31
+Alaska                 55
+Arizona                61
+Arkansas               36
+California             58
+Colorado               47
+Connecticut            33
+Delaware               32
+District of Columbia   36
+Florida                42
+Georgia                35
+Hawaii                100
+Idaho                  44
+Illinois               39
+Indiana                37
+Iowa                   39
+Kansas                 34
+Kentucky               38
+Louisiana              40
+Maine                  31
+Maryland               32
+Massachusetts          33
+Michigan               35
+Minnesota              34
+Mississippi            34
+Missouri               38
+Montana                46
+Nebraska               41
+Nevada                 93
+New Hampshire          29
+New Jersey             39
+New Mexico             82
+New York               38
+North Carolina         34
+North Dakota           52
+Ohio                   37
+Oklahoma               47
+Oregon                 35
+Pennsylvania           34
+Rhode Island           35
+South Carolina         34
+South Dakota           41
+Tennessee              36
+Texas                  48
+Utah                   41
+Vermont                25
+Virginia               30
+Washington             47
+West Virginia          45
+Wisconsin              34
+Wyoming                45

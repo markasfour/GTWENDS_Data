@@ -1,49 +1,50 @@
                       Marcellus Williams
 geoName                                 
-Alabama                               24
-Alaska                                62
-Arizona                               22
-Arkansas                              29
+Alabama                               30
+Alaska                                58
+Arizona                               25
+Arkansas                              55
 California                            21
-Colorado                              15
-Connecticut                           36
-Delaware                              35
-District of Columbia                  40
-Florida                               21
-Georgia                               23
-Idaho                                 62
-Illinois                              25
-Indiana                               27
-Iowa                                  16
-Kansas                                58
-Kentucky                              22
-Louisiana                             19
-Maryland                              43
-Massachusetts                         30
-Michigan                              26
+Colorado                              10
+Connecticut                           34
+Delaware                              49
+District of Columbia                  44
+Florida                               22
+Georgia                               20
+Idaho                                 58
+Illinois                              21
+Indiana                               23
+Iowa                                  15
+Kansas                                50
+Kentucky                              18
+Louisiana                             21
+Maine                                 21
+Maryland                              29
+Massachusetts                         31
+Michigan                              23
 Minnesota                              4
-Mississippi                           29
+Mississippi                           27
 Missouri                             100
-Nebraska                              29
-Nevada                                23
-New Hampshire                         21
-New Jersey                            29
-New Mexico                            37
-New York                              35
-North Carolina                        24
-North Dakota                          44
-Ohio                                  25
-Oklahoma                              42
-Oregon                                 9
-Pennsylvania                          57
-Rhode Island                          36
-South Carolina                        37
-South Dakota                          87
-Tennessee                             29
-Texas                                 27
-Utah                                  33
-Vermont                               43
-Virginia                              37
-Washington                            19
-West Virginia                         35
-Wisconsin                             10
+Montana                               33
+Nebraska                              20
+Nevada                                21
+New Hampshire                         19
+New Jersey                            27
+New Mexico                            26
+New York                              37
+North Carolina                        26
+Ohio                                  31
+Oklahoma                              32
+Oregon                                 4
+Pennsylvania                          46
+Rhode Island                          45
+South Carolina                        32
+South Dakota                          82
+Tennessee                             25
+Texas                                 23
+Utah                                  35
+Vermont                               40
+Virginia                              43
+Washington                            26
+West Virginia                         55
+Wisconsin                              9

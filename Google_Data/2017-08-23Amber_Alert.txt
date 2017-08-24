@@ -1,53 +1,53 @@
                       Amber Alert
 geoName                          
-Alabama                        77
-Alaska                         23
-Arizona                        60
-Arkansas                       44
-California                     83
+Alabama                        78
+Alaska                         24
+Arizona                        61
+Arkansas                       46
+California                     85
 Colorado                       70
-Connecticut                    63
+Connecticut                    64
 Delaware                       49
-District of Columbia           59
-Florida                        78
-Georgia                        61
+District of Columbia           61
+Florida                        79
+Georgia                        62
 Hawaii                         16
 Idaho                          77
-Illinois                       49
-Indiana                        84
-Iowa                           69
-Kansas                         68
-Kentucky                       45
+Illinois                       50
+Indiana                        85
+Iowa                           70
+Kansas                         69
+Kentucky                       46
 Louisiana                      37
-Maine                          52
-Maryland                       51
-Massachusetts                  59
-Michigan                       81
-Minnesota                      79
-Mississippi                    91
+Maine                          53
+Maryland                       52
+Massachusetts                  60
+Michigan                       82
+Minnesota                      81
+Mississippi                    93
 Missouri                       80
 Montana                       100
-Nebraska                       70
-Nevada                         70
+Nebraska                       72
+Nevada                         72
 New Hampshire                  37
-New Jersey                     54
-New Mexico                     87
-New York                       63
-North Carolina                 48
+New Jersey                     55
+New Mexico                     86
+New York                       64
+North Carolina                 49
 North Dakota                   74
-Ohio                           72
-Oklahoma                       56
-Oregon                         41
-Pennsylvania                   76
-Rhode Island                   48
-South Carolina                 41
-South Dakota                   41
+Ohio                           73
+Oklahoma                       57
+Oregon                         42
+Pennsylvania                   77
+Rhode Island                   49
+South Carolina                 42
+South Dakota                   42
 Tennessee                      74
-Texas                          63
-Utah                           71
-Vermont                        41
-Virginia                       58
-Washington                     81
-West Virginia                  47
-Wisconsin                      59
-Wyoming                        52
+Texas                          65
+Utah                           73
+Vermont                        42
+Virginia                       59
+Washington                     82
+West Virginia                  45
+Wisconsin                      60
+Wyoming                        51

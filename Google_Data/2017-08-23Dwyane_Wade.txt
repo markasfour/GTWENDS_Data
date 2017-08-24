@@ -1,20 +1,20 @@
                       Dwyane Wade
 geoName                          
-Alabama                        48
+Alabama                        49
 Alaska                         22
 Arizona                        23
 Arkansas                       37
-California                     28
-Colorado                       20
+California                     27
+Colorado                       21
 Connecticut                    34
-Delaware                       44
-District of Columbia           43
+Delaware                       45
+District of Columbia           42
 Florida                       100
 Georgia                        59
-Hawaii                         28
+Hawaii                         27
 Idaho                          16
 Illinois                       58
-Indiana                        38
+Indiana                        36
 Iowa                           26
 Kansas                         27
 Kentucky                       34
@@ -23,31 +23,31 @@ Maine                          18
 Maryland                       48
 Massachusetts                  29
 Michigan                       37
-Minnesota                      25
-Mississippi                    68
+Minnesota                      24
+Mississippi                    66
 Missouri                       32
 Montana                        17
-Nebraska                       31
-Nevada                         29
+Nebraska                       30
+Nevada                         30
 New Hampshire                  16
-New Jersey                     44
-New Mexico                     21
+New Jersey                     43
+New Mexico                     23
 New York                       45
-North Carolina                 42
-North Dakota                   24
+North Carolina                 41
+North Dakota                   23
 Ohio                           44
 Oklahoma                       38
 Oregon                         15
 Pennsylvania                   33
 Rhode Island                   25
-South Carolina                 46
-South Dakota                   26
-Tennessee                      39
+South Carolina                 47
+South Dakota                   23
+Tennessee                      38
 Texas                          36
 Utah                           20
-Vermont                        18
+Vermont                        17
 Virginia                       34
 Washington                     21
-West Virginia                  26
-Wisconsin                      35
-Wyoming                        17
+West Virginia                  25
+Wisconsin                      34
+Wyoming                        16

@@ -1,0 +1,53 @@
+                      Polygon
+geoName                      
+Alabama                    77
+Alaska                     93
+Arizona                    74
+Arkansas                   76
+California                 82
+Colorado                   88
+Connecticut                76
+Delaware                   67
+District of Columbia       54
+Florida                    75
+Georgia                    66
+Hawaii                     78
+Idaho                      86
+Illinois                   79
+Indiana                   100
+Iowa                       79
+Kansas                     75
+Kentucky                   73
+Louisiana                  65
+Maine                      86
+Maryland                   74
+Massachusetts              76
+Michigan                   78
+Minnesota                  85
+Mississippi                68
+Missouri                   70
+Montana                    73
+Nebraska                   73
+Nevada                     75
+New Hampshire              82
+New Jersey                 83
+New Mexico                 86
+New York                   66
+North Carolina             70
+North Dakota               77
+Ohio                       80
+Oklahoma                   80
+Oregon                     89
+Pennsylvania               77
+Rhode Island               70
+South Carolina             76
+South Dakota               90
+Tennessee                  63
+Texas                      79
+Utah                       79
+Vermont                    87
+Virginia                   75
+Washington                 97
+West Virginia              75
+Wisconsin                  85
+Wyoming                    92

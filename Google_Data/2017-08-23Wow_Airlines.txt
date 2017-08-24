@@ -1,0 +1,53 @@
+                      Wow Airlines
+geoName                           
+Alabama                          8
+Alaska                          14
+Arizona                         24
+Arkansas                         8
+California                      59
+Colorado                        19
+Connecticut                     24
+Delaware                        34
+District of Columbia            88
+Florida                         24
+Georgia                         13
+Hawaii                          19
+Idaho                           14
+Illinois                        18
+Indiana                         12
+Iowa                             9
+Kansas                           8
+Kentucky                        11
+Louisiana                        8
+Maine                           60
+Maryland                       100
+Massachusetts                   70
+Michigan                        13
+Minnesota                       11
+Mississippi                      5
+Missouri                        11
+Montana                         13
+Nebraska                         7
+Nevada                          27
+New Hampshire                   52
+New Jersey                      16
+New Mexico                      13
+New York                        16
+North Carolina                  19
+North Dakota                     9
+Ohio                            16
+Oklahoma                         8
+Oregon                          13
+Pennsylvania                    35
+Rhode Island                    56
+South Carolina                  15
+South Dakota                     7
+Tennessee                       15
+Texas                           11
+Utah                            26
+Vermont                         53
+Virginia                        38
+Washington                      14
+West Virginia                   19
+Wisconsin                       13
+Wyoming                         10
