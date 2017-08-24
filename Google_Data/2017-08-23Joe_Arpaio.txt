@@ -1,14 +1,14 @@
                       Joe Arpaio
 geoName                         
-Alabama                        5
+Alabama                        6
 Alaska                         8
 Arizona                      100
 Arkansas                       6
 California                     8
-Colorado                       7
+Colorado                       8
 Connecticut                    5
-Delaware                       5
-District of Columbia           7
+Delaware                       6
+District of Columbia           8
 Florida                        5
 Georgia                        5
 Hawaii                         5
@@ -16,38 +16,38 @@ Idaho                          7
 Illinois                       6
 Indiana                        6
 Iowa                           7
-Kansas                         6
-Kentucky                       5
+Kansas                         7
+Kentucky                       6
 Louisiana                      5
 Maine                          6
 Maryland                       6
-Massachusetts                  5
+Massachusetts                  6
 Michigan                       5
 Minnesota                      7
-Mississippi                    4
+Mississippi                    5
 Missouri                       6
-Montana                        8
-Nebraska                       6
+Montana                        9
+Nebraska                       7
 Nevada                        12
 New Hampshire                  5
 New Jersey                     5
-New Mexico                    10
+New Mexico                    12
 New York                       5
 North Carolina                 5
 North Dakota                   9
 Ohio                           5
-Oklahoma                       6
+Oklahoma                       7
 Oregon                         7
 Pennsylvania                   5
-Rhode Island                   6
+Rhode Island                   5
 South Carolina                 5
-South Dakota                  10
+South Dakota                   6
 Tennessee                      6
-Texas                          6
-Utah                           6
+Texas                          7
+Utah                           7
 Vermont                        6
 Virginia                       5
-Washington                     8
-West Virginia                  6
+Washington                     7
+West Virginia                  5
 Wisconsin                      5
-Wyoming                       10
+Wyoming                        8

@@ -1,0 +1,53 @@
+                      Starfire
+geoName                       
+Alabama                     47
+Alaska                      52
+Arizona                     71
+Arkansas                    52
+California                  41
+Colorado                    40
+Connecticut                 38
+Delaware                    45
+District of Columbia        26
+Florida                     42
+Georgia                     46
+Hawaii                      40
+Idaho                       48
+Illinois                    38
+Indiana                     46
+Iowa                        48
+Kansas                      40
+Kentucky                    49
+Louisiana                   45
+Maine                       37
+Maryland                    43
+Massachusetts               32
+Michigan                    44
+Minnesota                   39
+Mississippi                 51
+Missouri                    41
+Montana                     43
+Nebraska                    44
+Nevada                      52
+New Hampshire               39
+New Jersey                  43
+New Mexico                  54
+New York                    38
+North Carolina              45
+North Dakota                44
+Ohio                        52
+Oklahoma                    46
+Oregon                      40
+Pennsylvania                44
+Rhode Island                39
+South Carolina              59
+South Dakota                46
+Tennessee                   44
+Texas                       45
+Utah                        38
+Vermont                     39
+Virginia                    35
+Washington                 100
+West Virginia               54
+Wisconsin                   42
+Wyoming                     49

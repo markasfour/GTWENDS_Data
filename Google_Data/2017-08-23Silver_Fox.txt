@@ -1,0 +1,41 @@
+                      Silver Fox
+geoName                         
+Alabama                       16
+Arizona                       18
+Arkansas                      20
+California                    15
+Colorado                      23
+Connecticut                   16
+District of Columbia          22
+Florida                       18
+Georgia                       18
+Idaho                         35
+Illinois                      20
+Indiana                       20
+Iowa                          19
+Kansas                        16
+Kentucky                      18
+Louisiana                     19
+Maryland                      23
+Massachusetts                 24
+Michigan                      21
+Minnesota                     19
+Missouri                      21
+Nebraska                      18
+Nevada                        21
+New Hampshire                 29
+New Jersey                    16
+New York                      19
+North Carolina                20
+Ohio                          19
+Oklahoma                      20
+Oregon                        18
+Pennsylvania                  19
+South Carolina                27
+Tennessee                     18
+Texas                         29
+Utah                          23
+Virginia                      16
+Washington                    19
+Wisconsin                     27
+Wyoming                      100

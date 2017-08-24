@@ -1,53 +1,53 @@
                       Dallas McCarver
 geoName                              
-Alabama                            44
-Alaska                             34
-Arizona                            24
-Arkansas                           32
-California                         24
-Colorado                           28
-Connecticut                        21
-Delaware                           29
-District of Columbia               21
-Florida                            31
-Georgia                            37
-Hawaii                             24
-Idaho                              23
-Illinois                           33
-Indiana                            24
-Iowa                               15
-Kansas                             22
-Kentucky                           55
-Louisiana                          33
-Maine                              15
-Maryland                           16
-Massachusetts                      24
-Michigan                           30
-Minnesota                           9
-Mississippi                        44
-Missouri                           21
-Montana                            14
-Nebraska                           24
-Nevada                             33
-New Hampshire                      20
-New Jersey                         37
-New Mexico                         28
-New York                           24
-North Carolina                     26
-North Dakota                       12
-Ohio                               35
-Oklahoma                           20
-Oregon                             10
-Pennsylvania                       28
-Rhode Island                       30
-South Carolina                     22
-South Dakota                       42
+Alabama                            45
+Alaska                             33
+Arizona                            28
+Arkansas                           33
+California                         21
+Colorado                           22
+Connecticut                        23
+Delaware                           42
+District of Columbia               24
+Florida                            32
+Georgia                            36
+Hawaii                             37
+Idaho                              27
+Illinois                           26
+Indiana                            22
+Iowa                               24
+Kansas                             26
+Kentucky                           51
+Louisiana                          30
+Maine                              21
+Maryland                           18
+Massachusetts                      21
+Michigan                           24
+Minnesota                          15
+Mississippi                        33
+Missouri                           28
+Montana                            19
+Nebraska                           19
+Nevada                             28
+New Hampshire                      17
+New Jersey                         34
+New Mexico                         35
+New York                           25
+North Carolina                     27
+North Dakota                       23
+Ohio                               26
+Oklahoma                           17
+Oregon                             18
+Pennsylvania                       23
+Rhode Island                       26
+South Carolina                     21
+South Dakota                       17
 Tennessee                         100
-Texas                              27
-Utah                               20
-Vermont                            18
-Virginia                           23
-Washington                         20
-West Virginia                      26
-Wisconsin                          20
-Wyoming                            36
+Texas                              29
+Utah                               24
+Vermont                            23
+Virginia                           20
+Washington                         14
+West Virginia                      12
+Wisconsin                          23
+Wyoming                            17

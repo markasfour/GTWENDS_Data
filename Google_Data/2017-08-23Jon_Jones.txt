@@ -1,53 +1,53 @@
                       Jon Jones
 geoName                        
-Alabama                      37
-Alaska                       49
-Arizona                      55
-Arkansas                     38
-California                   53
-Colorado                     43
-Connecticut                  37
-Delaware                     42
-District of Columbia         48
-Florida                      45
-Georgia                      45
-Hawaii                       73
-Idaho                        37
-Illinois                     41
-Indiana                      42
-Iowa                         42
-Kansas                       37
-Kentucky                     44
-Louisiana                    46
-Maine                        32
-Maryland                     45
-Massachusetts                42
-Michigan                     40
-Minnesota                    36
-Mississippi                  38
-Missouri                     41
-Montana                      42
-Nebraska                     39
-Nevada                       72
-New Hampshire                29
-New Jersey                   44
+Alabama                      39
+Alaska                       53
+Arizona                      58
+Arkansas                     41
+California                   55
+Colorado                     46
+Connecticut                  38
+Delaware                     40
+District of Columbia         50
+Florida                      47
+Georgia                      48
+Hawaii                       77
+Idaho                        36
+Illinois                     43
+Indiana                      43
+Iowa                         44
+Kansas                       39
+Kentucky                     46
+Louisiana                    50
+Maine                        34
+Maryland                     48
+Massachusetts                43
+Michigan                     42
+Minnesota                    37
+Mississippi                  42
+Missouri                     43
+Montana                      43
+Nebraska                     41
+Nevada                       78
+New Hampshire                30
+New Jersey                   47
 New Mexico                  100
-New York                     51
-North Carolina               41
+New York                     54
+North Carolina               44
 North Dakota                 50
-Ohio                         40
-Oklahoma                     49
-Oregon                       32
-Pennsylvania                 41
-Rhode Island                 41
-South Carolina               41
-South Dakota                 34
-Tennessee                    41
-Texas                        45
-Utah                         39
-Vermont                      29
-Virginia                     36
-Washington                   44
-West Virginia                45
-Wisconsin                    33
-Wyoming                      37
+Ohio                         41
+Oklahoma                     51
+Oregon                       34
+Pennsylvania                 43
+Rhode Island                 46
+South Carolina               42
+South Dakota                 36
+Tennessee                    42
+Texas                        47
+Utah                         41
+Vermont                      32
+Virginia                     38
+Washington                   47
+West Virginia                44
+Wisconsin                    34
+Wyoming                      40

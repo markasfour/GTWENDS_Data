@@ -1,53 +1,53 @@
                       Carmelo Anthony
 geoName                              
-Alabama                            33
+Alabama                            35
 Alaska                             16
 Arizona                            22
-Arkansas                           28
+Arkansas                           29
 California                         29
-Colorado                           25
+Colorado                           27
 Connecticut                        52
-Delaware                           44
-District of Columbia               43
+Delaware                           43
+District of Columbia               42
 Florida                            40
-Georgia                            42
+Georgia                            43
 Hawaii                             24
-Idaho                              12
-Illinois                           53
+Idaho                              11
+Illinois                           55
 Indiana                            31
-Iowa                               21
+Iowa                               20
 Kansas                             25
 Kentucky                           25
-Louisiana                          40
+Louisiana                          38
 Maine                              19
-Maryland                           48
-Massachusetts                      35
+Maryland                           49
+Massachusetts                      36
 Michigan                           34
-Minnesota                          20
-Mississippi                        48
+Minnesota                          21
+Mississippi                        49
 Missouri                           27
 Montana                            14
-Nebraska                           23
-Nevada                             28
+Nebraska                           21
+Nevada                             30
 New Hampshire                      19
-New Jersey                         69
-New Mexico                         18
+New Jersey                         70
+New Mexico                         17
 New York                          100
 North Carolina                     35
-North Dakota                       18
-Ohio                               34
-Oklahoma                           27
+North Dakota                       19
+Ohio                               36
+Oklahoma                           28
 Oregon                             16
-Pennsylvania                       33
-Rhode Island                       31
-South Carolina                     35
-South Dakota                       23
-Tennessee                          28
-Texas                              36
-Utah                               15
-Vermont                            18
-Virginia                           30
+Pennsylvania                       34
+Rhode Island                       32
+South Carolina                     37
+South Dakota                       20
+Tennessee                          29
+Texas                              37
+Utah                               16
+Vermont                            17
+Virginia                           31
 Washington                         18
-West Virginia                      23
+West Virginia                      22
 Wisconsin                          22
-Wyoming                            12
+Wyoming                            15

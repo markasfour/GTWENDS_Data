@@ -1,0 +1,46 @@
+                      zingbot
+geoName                      
+Alabama                    57
+Arizona                    48
+Arkansas                   48
+California                 44
+Colorado                   38
+Connecticut                46
+Delaware                  100
+District of Columbia       47
+Florida                    53
+Georgia                    49
+Hawaii                     29
+Idaho                      27
+Illinois                   55
+Indiana                    64
+Iowa                       85
+Kansas                     64
+Kentucky                   69
+Louisiana                  72
+Maine                      79
+Maryland                   57
+Massachusetts              59
+Michigan                   63
+Minnesota                  52
+Mississippi                26
+Missouri                   73
+Nebraska                   54
+Nevada                     65
+New Hampshire              78
+New Jersey                 73
+New Mexico                 62
+New York                   56
+North Carolina             45
+Ohio                       78
+Oklahoma                   85
+Oregon                     39
+Pennsylvania               70
+Rhode Island               53
+South Carolina             75
+Tennessee                  56
+Texas                      49
+Utah                       36
+Virginia                   43
+Washington                 52
+Wisconsin                  35

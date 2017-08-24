@@ -1,0 +1,53 @@
+                      Wahlburgers
+geoName                          
+Alabama                        13
+Alaska                          7
+Arizona                        12
+Arkansas                        9
+California                     11
+Colorado                       10
+Connecticut                    25
+Delaware                       17
+District of Columbia           16
+Florida                        26
+Georgia                        13
+Hawaii                         12
+Idaho                           8
+Illinois                       12
+Indiana                        12
+Iowa                           11
+Kansas                          9
+Kentucky                       12
+Louisiana                      10
+Maine                          29
+Maryland                       11
+Massachusetts                 100
+Michigan                       40
+Minnesota                      10
+Mississippi                     8
+Missouri                       10
+Montana                         9
+Nebraska                       12
+Nevada                         62
+New Hampshire                  51
+New Jersey                     17
+New Mexico                      9
+New York                       27
+North Carolina                 16
+North Dakota                   12
+Ohio                           25
+Oklahoma                       13
+Oregon                          6
+Pennsylvania                   23
+Rhode Island                   51
+South Carolina                 32
+South Dakota                   12
+Tennessee                      11
+Texas                          10
+Utah                            9
+Vermont                        19
+Virginia                       10
+Washington                      8
+West Virginia                  13
+Wisconsin                      11
+Wyoming                        13

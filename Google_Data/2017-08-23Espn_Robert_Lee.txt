@@ -1,39 +1,37 @@
                       Espn Robert Lee
 geoName                              
-Alabama                            56
-Arizona                             9
-California                         15
-Colorado                           10
-Connecticut                        17
-Delaware                           80
-District of Columbia               42
-Florida                            10
-Georgia                            20
-Illinois                            8
-Indiana                            13
-Kansas                             21
-Kentucky                           34
+Alabama                           100
+Arizona                            11
+California                         19
+Colorado                           12
+Delaware                           96
+District of Columbia               49
+Florida                            19
+Georgia                            24
+Illinois                            9
+Indiana                            15
+Kansas                             24
+Kentucky                           41
 Louisiana                          52
-Maine                              51
-Maryland                           31
-Massachusetts                      33
-Michigan                           25
-Minnesota                          30
-Missouri                           16
-Nebraska                           33
-Nevada                             63
-New Jersey                         22
-New York                           14
-North Carolina                     15
-Ohio                                6
-Oklahoma                           19
-Oregon                             16
-Pennsylvania                       25
-South Carolina                     39
-Tennessee                          41
-Texas                              24
-Utah                               22
-Vermont                           100
-Virginia                           32
-Washington                         22
-Wisconsin                          23
+Maine                              61
+Maryland                           85
+Massachusetts                      27
+Michigan                           11
+Minnesota                          24
+Mississippi                        41
+Missouri                           19
+Nevada                             25
+New Hampshire                      57
+New Jersey                         30
+New York                           18
+North Carolina                     33
+Ohio                                7
+Oklahoma                           23
+Oregon                             19
+Pennsylvania                       24
+South Carolina                     74
+Tennessee                          37
+Texas                              33
+Virginia                           67
+Washington                         18
+Wisconsin                          67

@@ -1,53 +1,53 @@
                       Wow Airlines
 geoName                           
 Alabama                          8
-Alaska                          14
+Alaska                          15
 Arizona                         24
-Arkansas                         8
-California                      59
-Colorado                        19
-Connecticut                     24
+Arkansas                         9
+California                      60
+Colorado                        21
+Connecticut                     23
 Delaware                        34
-District of Columbia            88
-Florida                         24
+District of Columbia            86
+Florida                         25
 Georgia                         13
-Hawaii                          19
-Idaho                           14
-Illinois                        18
+Hawaii                          17
+Idaho                           17
+Illinois                        20
 Indiana                         12
-Iowa                             9
-Kansas                           8
+Iowa                             8
+Kansas                           9
 Kentucky                        11
-Louisiana                        8
-Maine                           60
+Louisiana                       10
+Maine                           59
 Maryland                       100
-Massachusetts                   70
-Michigan                        13
+Massachusetts                   72
+Michigan                        14
 Minnesota                       11
-Mississippi                      5
-Missouri                        11
-Montana                         13
-Nebraska                         7
-Nevada                          27
+Mississippi                      4
+Missouri                        12
+Montana                         11
+Nebraska                         8
+Nevada                          28
 New Hampshire                   52
 New Jersey                      16
-New Mexico                      13
+New Mexico                      15
 New York                        16
-North Carolina                  19
+North Carolina                  20
 North Dakota                     9
-Ohio                            16
-Oklahoma                         8
-Oregon                          13
-Pennsylvania                    35
-Rhode Island                    56
+Ohio                            17
+Oklahoma                        11
+Oregon                          15
+Pennsylvania                    34
+Rhode Island                    58
 South Carolina                  15
-South Dakota                     7
+South Dakota                     8
 Tennessee                       15
 Texas                           11
-Utah                            26
-Vermont                         53
-Virginia                        38
-Washington                      14
-West Virginia                   19
+Utah                            25
+Vermont                         47
+Virginia                        40
+Washington                      15
+West Virginia                   22
 Wisconsin                       13
 Wyoming                         10

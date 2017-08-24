@@ -1,53 +1,53 @@
                       Katharine McPhee
 geoName                               
-Alabama                             75
-Alaska                              45
-Arizona                             73
-Arkansas                            72
-California                          71
-Colorado                            76
-Connecticut                         78
-Delaware                            82
-District of Columbia                55
-Florida                             66
-Georgia                             60
-Hawaii                              86
-Idaho                               74
-Illinois                            69
-Indiana                             75
-Iowa                                74
-Kansas                              66
-Kentucky                            72
-Louisiana                           69
-Maine                               61
-Maryland                            69
-Massachusetts                       74
-Michigan                            70
-Minnesota                           73
-Mississippi                         58
-Missouri                            72
-Montana                             57
-Nebraska                            78
-Nevada                              78
-New Hampshire                       78
-New Jersey                          78
-New Mexico                          77
-New York                            68
-North Carolina                      62
-North Dakota                        76
-Ohio                                78
-Oklahoma                            73
-Oregon                              51
-Pennsylvania                        79
-Rhode Island                        74
+Alabama                             82
+Alaska                              53
+Arizona                             81
+Arkansas                            79
+California                          76
+Colorado                            83
+Connecticut                         79
+Delaware                            85
+District of Columbia                59
+Florida                             71
+Georgia                             64
+Hawaii                              90
+Idaho                               78
+Illinois                            73
+Indiana                             79
+Iowa                                78
+Kansas                              70
+Kentucky                            76
+Louisiana                           70
+Maine                               66
+Maryland                            73
+Massachusetts                       84
+Michigan                            78
+Minnesota                           76
+Mississippi                         63
+Missouri                            79
+Montana                             68
+Nebraska                            76
+Nevada                              76
+New Hampshire                       91
+New Jersey                          84
+New Mexico                          83
+New York                            71
+North Carolina                      69
+North Dakota                        85
+Ohio                                86
+Oklahoma                            82
+Oregon                              55
+Pennsylvania                        83
+Rhode Island                        79
 South Carolina                      75
-South Dakota                        82
-Tennessee                           71
-Texas                               61
-Utah                                76
-Vermont                             63
-Virginia                            58
-Washington                          73
-West Virginia                       67
-Wisconsin                           79
+South Dakota                        80
+Tennessee                           77
+Texas                               68
+Utah                                86
+Vermont                             66
+Virginia                            62
+Washington                          79
+West Virginia                       77
+Wisconsin                           82
 Wyoming                            100

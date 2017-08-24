@@ -1,53 +1,53 @@
                       James Clapper
 geoName                            
-Alabama                          25
-Alaska                           13
-Arizona                          21
-Arkansas                         15
-California                       24
-Colorado                         26
-Connecticut                      31
-Delaware                         32
+Alabama                          23
+Alaska                           17
+Arizona                          23
+Arkansas                         23
+California                       26
+Colorado                         25
+Connecticut                      32
+Delaware                         30
 District of Columbia            100
 Florida                          26
-Georgia                          21
-Hawaii                           26
-Idaho                            19
+Georgia                          25
+Hawaii                           20
+Idaho                            21
 Illinois                         22
-Indiana                          22
-Iowa                             17
-Kansas                           21
-Kentucky                         20
+Indiana                          20
+Iowa                             15
+Kansas                           22
+Kentucky                         22
 Louisiana                        20
 Maine                            19
-Maryland                         51
-Massachusetts                    31
-Michigan                         22
-Minnesota                        23
-Mississippi                      18
-Missouri                         23
-Montana                          31
-Nebraska                         23
-Nevada                           23
-New Hampshire                    45
-New Jersey                       29
-New Mexico                       27
-New York                         32
+Maryland                         53
+Massachusetts                    32
+Michigan                         21
+Minnesota                        25
+Mississippi                      22
+Missouri                         25
+Montana                          37
+Nebraska                         25
+Nevada                           22
+New Hampshire                    37
+New Jersey                       30
+New Mexico                       25
+New York                         33
 North Carolina                   24
-North Dakota                     12
-Ohio                             22
+North Dakota                     18
+Ohio                             25
 Oklahoma                         21
 Oregon                           23
-Pennsylvania                     25
-Rhode Island                     23
-South Carolina                   22
-South Dakota                     26
+Pennsylvania                     27
+Rhode Island                     24
+South Carolina                   20
+South Dakota                     31
 Tennessee                        20
-Texas                            19
+Texas                            20
 Utah                             22
-Vermont                          32
-Virginia                         42
-Washington                       28
+Vermont                          42
+Virginia                         44
+Washington                       30
 West Virginia                    21
-Wisconsin                        20
-Wyoming                          24
+Wisconsin                        19
+Wyoming                          17

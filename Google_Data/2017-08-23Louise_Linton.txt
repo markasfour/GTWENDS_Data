@@ -1,53 +1,53 @@
                       Louise Linton
 geoName                            
-Alabama                          22
-Alaska                           26
-Arizona                          28
-Arkansas                         36
-California                       46
-Colorado                         33
+Alabama                          19
+Alaska                           27
+Arizona                          27
+Arkansas                         30
+California                       43
+Colorado                         29
 Connecticut                      53
-Delaware                         37
+Delaware                         49
 District of Columbia            100
-Florida                          31
-Georgia                          27
-Hawaii                           29
-Idaho                            32
-Illinois                         36
-Indiana                          29
-Iowa                             27
-Kansas                           23
-Kentucky                         24
-Louisiana                        18
-Maine                            44
-Maryland                         56
-Massachusetts                    50
-Michigan                         30
-Minnesota                        32
-Mississippi                      21
-Missouri                         29
-Montana                          59
-Nebraska                         26
-Nevada                           31
-New Hampshire                    39
-New Jersey                       51
-New Mexico                       26
-New York                         66
-North Carolina                   32
-North Dakota                     31
-Ohio                             29
+Florida                          24
+Georgia                          22
+Hawaii                           22
+Idaho                            26
+Illinois                         34
+Indiana                          28
+Iowa                             24
+Kansas                           18
+Kentucky                         16
+Louisiana                        19
+Maine                            43
+Maryland                         51
+Massachusetts                    44
+Michigan                         29
+Minnesota                        29
+Mississippi                      16
+Missouri                         30
+Montana                          38
+Nebraska                         19
+Nevada                           27
+New Hampshire                    37
+New Jersey                       42
+New Mexico                       35
+New York                         59
+North Carolina                   31
+North Dakota                     22
+Ohio                             25
 Oklahoma                         21
-Oregon                           30
-Pennsylvania                     35
-Rhode Island                     39
-South Carolina                   30
-South Dakota                     15
-Tennessee                        29
-Texas                            26
+Oregon                           25
+Pennsylvania                     33
+Rhode Island                     28
+South Carolina                   28
+South Dakota                     17
+Tennessee                        25
+Texas                            24
 Utah                             27
-Vermont                          31
-Virginia                         45
-Washington                       33
-West Virginia                    28
-Wisconsin                        24
-Wyoming                          28
+Vermont                          39
+Virginia                         43
+Washington                       32
+West Virginia                    34
+Wisconsin                        23
+Wyoming                          37

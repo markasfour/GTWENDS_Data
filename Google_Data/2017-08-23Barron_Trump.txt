@@ -1,53 +1,53 @@
                       Barron Trump
 geoName                           
-Alabama                         83
-Alaska                          48
+Alabama                         77
+Alaska                          44
 Arizona                         59
-Arkansas                        63
+Arkansas                        62
 California                      62
-Colorado                        53
-Connecticut                     97
-Delaware                        97
-District of Columbia            99
-Florida                         72
-Georgia                         61
-Hawaii                          47
-Idaho                           48
-Illinois                        68
-Indiana                         70
-Iowa                            61
-Kansas                          46
+Colorado                        54
+Connecticut                     96
+Delaware                        90
+District of Columbia           100
+Florida                         71
+Georgia                         60
+Hawaii                          53
+Idaho                           52
+Illinois                        67
+Indiana                         68
+Iowa                            59
+Kansas                          47
 Kentucky                        55
-Louisiana                       67
-Maine                           81
-Maryland                        98
-Massachusetts                   86
-Michigan                        73
-Minnesota                       62
-Mississippi                     58
-Missouri                        60
-Montana                         64
-Nebraska                        60
-Nevada                          60
-New Hampshire                   84
-New Jersey                     100
-New Mexico                      61
-New York                        89
-North Carolina                  64
-North Dakota                    57
+Louisiana                       64
+Maine                           76
+Maryland                        95
+Massachusetts                   84
+Michigan                        71
+Minnesota                       61
+Mississippi                     62
+Missouri                        59
+Montana                         58
+Nebraska                        55
+Nevada                          58
+New Hampshire                   78
+New Jersey                      99
+New Mexico                      62
+New York                        88
+North Carolina                  65
+North Dakota                    53
 Ohio                            70
-Oklahoma                        54
-Oregon                          50
-Pennsylvania                    83
-Rhode Island                    97
-South Carolina                  71
-South Dakota                    64
-Tennessee                       69
+Oklahoma                        52
+Oregon                          47
+Pennsylvania                    84
+Rhode Island                    91
+South Carolina                  70
+South Dakota                    52
+Tennessee                       66
 Texas                           55
-Utah                            48
+Utah                            44
 Vermont                         82
-Virginia                        66
-Washington                      60
-West Virginia                   68
-Wisconsin                       59
-Wyoming                         49
+Virginia                        64
+Washington                      58
+West Virginia                   66
+Wisconsin                       60
+Wyoming                         47
