@@ -1,0 +1,53 @@
+                      Detroit Tigers
+geoName                             
+Alabama                            1
+Alaska                             2
+Arizona                            2
+Arkansas                           1
+California                         1
+Colorado                           2
+Connecticut                        1
+Delaware                           1
+District of Columbia               2
+Florida                            3
+Georgia                            2
+Hawaii                             1
+Idaho                              1
+Illinois                           4
+Indiana                            4
+Iowa                               2
+Kansas                             3
+Kentucky                           2
+Louisiana                          1
+Maine                              1
+Maryland                           2
+Massachusetts                      2
+Michigan                         100
+Minnesota                          4
+Mississippi                        1
+Missouri                           3
+Montana                            2
+Nebraska                           2
+Nevada                             2
+New Hampshire                      1
+New Jersey                         1
+New Mexico                         2
+New York                           1
+North Carolina                     2
+North Dakota                       2
+Ohio                               9
+Oklahoma                           1
+Oregon                             1
+Pennsylvania                       2
+Rhode Island                       1
+South Carolina                     2
+South Dakota                       2
+Tennessee                          2
+Texas                              1
+Utah                               1
+Vermont                            1
+Virginia                           2
+Washington                         1
+West Virginia                      1
+Wisconsin                          3
+Wyoming                            2

@@ -1,0 +1,53 @@
+                      Supreme
+geoName                      
+Alabama                    55
+Alaska                     53
+Arizona                    64
+Arkansas                   56
+California                 67
+Colorado                   57
+Connecticut                65
+Delaware                   63
+District of Columbia      100
+Florida                    55
+Georgia                    58
+Hawaii                     52
+Idaho                      61
+Illinois                   58
+Indiana                    58
+Iowa                       58
+Kansas                     51
+Kentucky                   51
+Louisiana                  69
+Maine                      56
+Maryland                   69
+Massachusetts              63
+Michigan                   57
+Minnesota                  57
+Mississippi                63
+Missouri                   58
+Montana                    70
+Nebraska                   61
+Nevada                     67
+New Hampshire              70
+New Jersey                 66
+New Mexico                 57
+New York                   86
+North Carolina             55
+North Dakota               77
+Ohio                       69
+Oklahoma                   56
+Oregon                     43
+Pennsylvania               59
+Rhode Island               77
+South Carolina             54
+South Dakota               62
+Tennessee                  49
+Texas                      53
+Utah                       52
+Vermont                    67
+Virginia                   59
+Washington                 55
+West Virginia              70
+Wisconsin                  55
+Wyoming                    74

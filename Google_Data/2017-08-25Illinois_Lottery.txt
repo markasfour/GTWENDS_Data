@@ -1,0 +1,45 @@
+                      Illinois Lottery
+geoName                               
+Alabama                              3
+Alaska                               0
+Arizona                              1
+Arkansas                             0
+California                           1
+Colorado                             1
+Connecticut                          0
+District of Columbia                 1
+Florida                              1
+Georgia                              2
+Hawaii                               0
+Illinois                           100
+Indiana                              5
+Iowa                                 2
+Kansas                               5
+Kentucky                             2
+Louisiana                            1
+Maryland                             0
+Massachusetts                        1
+Michigan                             3
+Minnesota                            2
+Mississippi                          1
+Missouri                             8
+Nebraska                             2
+Nevada                               1
+New Jersey                           0
+New Mexico                           0
+New York                             1
+North Carolina                       3
+Ohio                                 1
+Oklahoma                             0
+Oregon                               0
+Pennsylvania                         0
+Rhode Island                         0
+South Carolina                       1
+Tennessee                            6
+Texas                                2
+Utah                                 0
+Vermont                              0
+Virginia                             1
+Washington                           0
+West Virginia                        0
+Wisconsin                            5

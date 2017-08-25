@@ -1,0 +1,47 @@
+                      NightShift
+geoName                         
+Alabama                       11
+Arizona                       13
+Arkansas                       9
+California                   100
+Colorado                      12
+Connecticut                   16
+District of Columbia          15
+Florida                       10
+Georgia                       10
+Hawaii                        15
+Idaho                         12
+Illinois                      11
+Indiana                       12
+Iowa                           9
+Kansas                         9
+Kentucky                      15
+Louisiana                     12
+Maine                         15
+Maryland                      16
+Massachusetts                 49
+Michigan                      11
+Minnesota                     11
+Mississippi                   16
+Missouri                      15
+Montana                       17
+Nebraska                      13
+Nevada                        27
+New Hampshire                 21
+New Jersey                    10
+New Mexico                    16
+New York                      13
+North Carolina                11
+Ohio                          11
+Oklahoma                      11
+Oregon                        14
+Pennsylvania                  14
+Rhode Island                  18
+South Carolina                11
+Tennessee                     14
+Texas                         11
+Utah                           9
+Virginia                      11
+Washington                    18
+West Virginia                 18
+Wisconsin                     11

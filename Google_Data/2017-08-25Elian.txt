@@ -1,0 +1,53 @@
+                      Elian
+geoName                    
+Alabama                  30
+Alaska                   29
+Arizona                  42
+Arkansas                 30
+California               50
+Colorado                 38
+Connecticut              53
+Delaware                 40
+District of Columbia     84
+Florida                 100
+Georgia                  43
+Hawaii                   36
+Idaho                    23
+Illinois                 47
+Indiana                  39
+Iowa                     34
+Kansas                   35
+Kentucky                 36
+Louisiana                40
+Maine                    42
+Maryland                 53
+Massachusetts            54
+Michigan                 46
+Minnesota                38
+Mississippi              22
+Missouri                 33
+Montana                  28
+Nebraska                 33
+Nevada                   45
+New Hampshire            40
+New Jersey               61
+New Mexico               38
+New York                 66
+North Carolina           36
+North Dakota             18
+Ohio                     35
+Oklahoma                 50
+Oregon                   44
+Pennsylvania             45
+Rhode Island             52
+South Carolina           40
+South Dakota             25
+Tennessee                34
+Texas                    62
+Utah                     32
+Vermont                  40
+Virginia                 45
+Washington               36
+West Virginia            38
+Wisconsin                55
+Wyoming                  33

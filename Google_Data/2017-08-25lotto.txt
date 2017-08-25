@@ -1,0 +1,53 @@
+                      lotto
+geoName                    
+Alabama                  14
+Alaska                    4
+Arizona                   6
+Arkansas                  6
+California               29
+Colorado                 13
+Connecticut              19
+Delaware                 12
+District of Columbia     10
+Florida                 100
+Georgia                  18
+Hawaii                    8
+Idaho                     4
+Illinois                 19
+Indiana                  22
+Iowa                      7
+Kansas                   10
+Kentucky                 10
+Louisiana                22
+Maine                     4
+Maryland                  6
+Massachusetts             7
+Michigan                 18
+Minnesota                 7
+Mississippi              10
+Missouri                 12
+Montana                   6
+Nebraska                  4
+Nevada                   14
+New Hampshire             4
+New Jersey               12
+New Mexico                9
+New York                 33
+North Carolina            7
+North Dakota              6
+Ohio                      7
+Oklahoma                 15
+Oregon                    9
+Pennsylvania              6
+Rhode Island              3
+South Carolina            8
+South Dakota              6
+Tennessee                 9
+Texas                    35
+Utah                      4
+Vermont                   3
+Virginia                 19
+Washington               15
+West Virginia             8
+Wisconsin                 6
+Wyoming                  21

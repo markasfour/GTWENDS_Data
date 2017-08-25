@@ -1,0 +1,52 @@
+                      Freudian
+geoName                       
+Alabama                     67
+Alaska                      71
+Arizona                     80
+Arkansas                    71
+California                  90
+Colorado                    75
+Connecticut                 88
+Delaware                    75
+District of Columbia        79
+Florida                     69
+Georgia                     69
+Hawaii                      77
+Idaho                       79
+Illinois                    73
+Indiana                     71
+Iowa                        78
+Kansas                      72
+Kentucky                    74
+Louisiana                   64
+Maine                       77
+Maryland                    84
+Massachusetts               90
+Michigan                    73
+Minnesota                   78
+Mississippi                 59
+Missouri                    75
+Montana                     69
+Nebraska                    77
+Nevada                      72
+New Hampshire               96
+New Jersey                  82
+New Mexico                  87
+New York                    85
+North Carolina              70
+North Dakota                72
+Ohio                        75
+Oklahoma                    75
+Oregon                      69
+Pennsylvania                83
+Rhode Island                84
+South Carolina              68
+South Dakota                75
+Tennessee                   64
+Texas                       69
+Utah                        84
+Vermont                    100
+Virginia                    69
+Washington                  79
+West Virginia               66
+Wisconsin                   71
