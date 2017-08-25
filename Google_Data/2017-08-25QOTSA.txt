@@ -1,0 +1,44 @@
+                      QOTSA
+geoName                    
+Alabama                  54
+Arizona                  59
+Arkansas                 45
+California               80
+Colorado                 81
+Connecticut              60
+District of Columbia     45
+Florida                  41
+Georgia                  50
+Idaho                    42
+Illinois                 73
+Indiana                  47
+Iowa                     58
+Kansas                   70
+Kentucky                 67
+Louisiana                51
+Maine                    97
+Maryland                 53
+Massachusetts            69
+Michigan                 63
+Minnesota                67
+Missouri                 67
+Nebraska                 48
+Nevada                   62
+New Hampshire            56
+New Jersey               58
+New Mexico               77
+New York                 65
+North Carolina           47
+Ohio                     66
+Oklahoma                 54
+Oregon                   77
+Pennsylvania             68
+Rhode Island             73
+South Carolina           47
+Tennessee                76
+Texas                    55
+Utah                     63
+Virginia                 48
+Washington              100
+West Virginia            47
+Wisconsin                55

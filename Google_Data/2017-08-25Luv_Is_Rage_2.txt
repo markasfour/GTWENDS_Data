@@ -1,52 +1,51 @@
                       Luv Is Rage 2
 geoName                            
-Alabama                         100
-Alaska                           22
-Arizona                          39
-Arkansas                         36
-California                       36
+Alabama                          98
+Alaska                           12
+Arizona                          42
+Arkansas                         31
+California                       41
 Colorado                         21
-Connecticut                      75
-Delaware                         86
-District of Columbia             49
-Florida                          64
-Georgia                          86
+Connecticut                      82
+Delaware                         90
+District of Columbia             52
+Florida                          72
+Georgia                          80
 Hawaii                           12
-Idaho                            17
-Illinois                         55
-Indiana                          81
-Iowa                             41
-Kansas                           37
-Kentucky                         53
-Louisiana                        69
-Maine                            56
-Maryland                         93
-Massachusetts                    66
-Michigan                         51
-Minnesota                        29
-Mississippi                      76
-Missouri                         48
-Montana                          10
-Nebraska                         14
-Nevada                           30
-New Hampshire                    57
-New Jersey                       89
-New Mexico                       39
-New York                         60
-North Carolina                   91
-North Dakota                     12
-Ohio                             64
-Oklahoma                         34
-Oregon                           19
-Pennsylvania                     74
-Rhode Island                     79
-South Carolina                   74
-South Dakota                     18
-Tennessee                        50
-Texas                            57
-Utah                             14
-Vermont                          18
-Virginia                         57
-Washington                       33
-West Virginia                    55
+Idaho                            12
+Illinois                         60
+Indiana                          88
+Iowa                             29
+Kansas                           27
+Kentucky                         47
+Louisiana                        70
+Maine                            42
+Maryland                         95
+Massachusetts                    68
+Michigan                         50
+Minnesota                        28
+Mississippi                      61
+Missouri                         54
+Nebraska                         29
+Nevada                           41
+New Hampshire                    63
+New Jersey                      100
+New Mexico                       30
+New York                         65
+North Carolina                   97
+North Dakota                     25
+Ohio                             76
+Oklahoma                         52
+Oregon                           12
+Pennsylvania                     75
+Rhode Island                     93
+South Carolina                   89
+South Dakota                     19
+Tennessee                        60
+Texas                            53
+Utah                             18
+Vermont                          19
+Virginia                         58
+Washington                       34
+West Virginia                    51
 Wisconsin                        41

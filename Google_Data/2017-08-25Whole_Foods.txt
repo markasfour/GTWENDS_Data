@@ -1,0 +1,53 @@
+                      Whole Foods
+geoName                          
+Alabama                        30
+Alaska                         11
+Arizona                        46
+Arkansas                       30
+California                     69
+Colorado                       89
+Connecticut                    68
+Delaware                       33
+District of Columbia          100
+Florida                        54
+Georgia                        45
+Hawaii                         72
+Idaho                          33
+Illinois                       64
+Indiana                        25
+Iowa                           19
+Kansas                         31
+Kentucky                       29
+Louisiana                      60
+Maine                          48
+Maryland                       63
+Massachusetts                 100
+Michigan                       36
+Minnesota                      45
+Mississippi                    25
+Missouri                       33
+Montana                        11
+Nebraska                       39
+Nevada                         60
+New Hampshire                  42
+New Jersey                     58
+New Mexico                     58
+New York                       58
+North Carolina                 49
+North Dakota                    9
+Ohio                           36
+Oklahoma                       44
+Oregon                         39
+Pennsylvania                   48
+Rhode Island                   89
+South Carolina                 40
+South Dakota                   10
+Tennessee                      42
+Texas                          49
+Utah                           38
+Vermont                        21
+Virginia                       50
+Washington                     52
+West Virginia                  12
+Wisconsin                      27
+Wyoming                        16

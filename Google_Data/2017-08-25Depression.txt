@@ -1,53 +1,53 @@
                       Depression
 geoName                         
-Alabama                       84
-Alaska                        77
-Arizona                       79
-Arkansas                      91
+Alabama                       83
+Alaska                        76
+Arizona                       77
+Arkansas                      90
 California                    72
 Colorado                      77
-Connecticut                   86
+Connecticut                   84
 Delaware                      81
-District of Columbia          65
-Florida                       67
-Georgia                       72
+District of Columbia          63
+Florida                       66
+Georgia                       71
 Hawaii                        72
-Idaho                         89
-Illinois                      78
-Indiana                       94
-Iowa                          91
-Kansas                        78
+Idaho                         88
+Illinois                      77
+Indiana                       91
+Iowa                          89
+Kansas                        76
 Kentucky                      86
-Louisiana                     78
-Maine                         94
-Maryland                      81
+Louisiana                     76
+Maine                         92
+Maryland                      79
 Massachusetts                 81
-Michigan                      85
-Minnesota                     84
-Mississippi                   84
-Missouri                      83
-Montana                       83
-Nebraska                      82
-Nevada                        70
-New Hampshire                 89
-New Jersey                    80
-New Mexico                    86
+Michigan                      81
+Minnesota                     83
+Mississippi                   82
+Missouri                      82
+Montana                       84
+Nebraska                      80
+Nevada                        68
+New Hampshire                 86
+New Jersey                    78
+New Mexico                    84
 New York                      72
-North Carolina                78
-North Dakota                  87
-Ohio                          86
-Oklahoma                      78
-Oregon                        63
-Pennsylvania                  87
-Rhode Island                  87
-South Carolina                83
-South Dakota                  93
-Tennessee                     80
-Texas                         71
-Utah                          89
-Vermont                       93
-Virginia                      68
-Washington                    77
+North Carolina                77
+North Dakota                  85
+Ohio                          84
+Oklahoma                      77
+Oregon                        61
+Pennsylvania                  86
+Rhode Island                  85
+South Carolina                81
+South Dakota                  91
+Tennessee                     78
+Texas                         68
+Utah                          87
+Vermont                       91
+Virginia                      67
+Washington                    75
 West Virginia                100
-Wisconsin                     86
-Wyoming                       89
+Wisconsin                     84
+Wyoming                       90

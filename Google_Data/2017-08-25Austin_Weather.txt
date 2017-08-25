@@ -7,6 +7,7 @@ Arkansas                           3
 California                         4
 Colorado                           7
 Connecticut                        2
+Delaware                           1
 District of Columbia               3
 Florida                            2
 Georgia                            3
@@ -17,7 +18,7 @@ Indiana                            2
 Iowa                               2
 Kansas                             4
 Kentucky                           3
-Louisiana                          7
+Louisiana                          6
 Maine                              2
 Maryland                           2
 Massachusetts                      3
@@ -25,6 +26,7 @@ Michigan                           3
 Minnesota                          8
 Mississippi                        2
 Missouri                           3
+Montana                            3
 Nebraska                           2
 Nevada                             3
 New Hampshire                      2
@@ -36,11 +38,14 @@ Ohio                               2
 Oklahoma                           9
 Oregon                             3
 Pennsylvania                       2
-South Carolina                     1
+Rhode Island                       2
+South Carolina                     2
 Tennessee                          2
 Texas                            100
 Utah                               2
 Vermont                            2
 Virginia                           2
 Washington                         4
+West Virginia                      2
 Wisconsin                          3
+Wyoming                            2

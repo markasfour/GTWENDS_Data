@@ -1,10 +1,10 @@
                 Category 2
 geoName                   
-Florida                 67
-Georgia                 58
-Louisiana               86
-New Jersey              65
+Florida                 66
+Georgia                 56
+Louisiana               80
+New Jersey              61
 New York                63
-North Carolina          77
+North Carolina          72
 South Carolina         100
-Virginia                63
+Virginia                61

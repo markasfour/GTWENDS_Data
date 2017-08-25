@@ -1,14 +1,14 @@
                 Lee Jae-yong
 geoName                     
-California                83
-Florida                   24
-Georgia                   40
-Illinois                  45
-Maryland                  59
-Massachusetts             53
-New Jersey                58
+California                77
+Florida                   18
+Georgia                   20
+Illinois                  24
+Maryland                  42
+Massachusetts             66
+New Jersey                64
 New York                 100
-North Carolina            28
-Pennsylvania              45
-Texas                     50
-Virginia                  87
+North Carolina            37
+Pennsylvania              30
+Texas                     42
+Virginia                  66

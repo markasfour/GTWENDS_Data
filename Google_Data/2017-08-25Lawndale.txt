@@ -1,0 +1,47 @@
+                      Lawndale
+geoName                       
+Alabama                      4
+Arizona                     10
+Arkansas                     4
+California                  89
+Colorado                     7
+Connecticut                  4
+Delaware                     5
+District of Columbia        10
+Florida                      4
+Georgia                     10
+Hawaii                      23
+Idaho                        6
+Illinois                   100
+Indiana                     15
+Iowa                         5
+Kansas                       9
+Kentucky                     5
+Louisiana                    5
+Maryland                     7
+Massachusetts                7
+Michigan                    14
+Minnesota                    9
+Mississippi                 13
+Missouri                     9
+Nebraska                     6
+Nevada                      19
+New Hampshire                4
+New Jersey                   4
+New Mexico                   4
+New York                     5
+North Carolina              89
+Ohio                         7
+Oklahoma                     4
+Oregon                       4
+Pennsylvania                14
+South Carolina              12
+South Dakota                 5
+Tennessee                    9
+Texas                       26
+Utah                         6
+Virginia                     5
+Washington                   6
+West Virginia                3
+Wisconsin                    8
+Wyoming                      4

@@ -1,42 +1,44 @@
                       Anna Diop
 geoName                        
-Alabama                      43
-Arizona                      16
-Arkansas                     22
-California                   39
-Colorado                     20
-Connecticut                  44
-Delaware                     54
+Alabama                      53
+Arizona                      12
+California                   29
+Colorado                     25
+Connecticut                  21
+Delaware                     50
 District of Columbia        100
-Florida                      32
-Georgia                      53
-Hawaii                       26
-Illinois                     36
-Indiana                      21
+Florida                      35
+Georgia                      59
+Idaho                        30
+Illinois                     25
+Indiana                      12
 Iowa                         16
-Kansas                       14
-Kentucky                     17
-Louisiana                    35
-Maryland                     76
-Massachusetts                17
-Michigan                     44
-Minnesota                    20
-Mississippi                  22
-Missouri                     35
-Nebraska                     22
-Nevada                       28
-New Jersey                   53
-New Mexico                   44
-New York                     40
-North Carolina               38
-Ohio                         37
-Oklahoma                     13
-Oregon                       11
-Pennsylvania                 38
-South Carolina               41
-Tennessee                    42
-Texas                        30
-Utah                         15
-Virginia                     33
+Kansas                       13
+Kentucky                     38
+Louisiana                    33
+Maine                        32
+Maryland                     45
+Massachusetts                21
+Michigan                     40
+Minnesota                    13
+Mississippi                  21
+Missouri                     30
+Nebraska                     21
+Nevada                       33
+New Jersey                   50
+New Mexico                   28
+New York                     43
+North Carolina               19
+Ohio                         35
+Oklahoma                     12
+Oregon                       14
+Pennsylvania                 31
+Rhode Island                 70
+South Carolina               29
+Tennessee                    33
+Texas                        26
+Utah                         14
+Virginia                     27
 Washington                   12
+West Virginia                34
 Wisconsin                    15

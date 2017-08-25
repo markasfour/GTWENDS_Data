@@ -3,7 +3,7 @@ AK 0
 AZ 0
 AR 0
 CA 0
-CO 13
+CO 4
 CT 0
 DE 0
 DC 0
@@ -11,7 +11,7 @@ FL 0
 GA 0
 HI 0
 ID 0
-IL 0
+IL 1
 IN 0
 IA 0
 KS 0
