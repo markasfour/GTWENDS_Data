@@ -1,45 +1,47 @@
                       Hurricane Harvey
 geoName                               
-Alabama                             11
-Arizona                              2
-California                           3
-Colorado                             3
-Connecticut                          7
-Delaware                            28
-District of Columbia                15
-Florida                             15
-Georgia                              4
+Alabama                             18
+Alaska                              13
+Arizona                              5
+Arkansas                            23
+California                           4
+Colorado                             8
+Connecticut                         10
+Delaware                            33
+District of Columbia                26
+Florida                             26
+Georgia                              6
 Hawaii                               5
-Idaho                                8
-Illinois                             4
+Idaho                                6
+Illinois                             5
 Indiana                              4
-Iowa                                 2
-Kansas                               5
+Kansas                               7
 Kentucky                             2
-Louisiana                           33
-Maine                                4
-Maryland                             6
-Massachusetts                        7
-Michigan                             3
-Minnesota                            2
-Mississippi                          9
-Missouri                             3
-New Hampshire                        8
-New Jersey                          16
-New Mexico                           4
-New York                             7
-North Carolina                       6
-Ohio                                 3
-Oklahoma                             3
+Louisiana                           87
+Maine                               14
+Maryland                            10
+Massachusetts                       12
+Michigan                             4
+Minnesota                            5
+Mississippi                         16
+Missouri                            10
+Nebraska                            14
+New Hampshire                       16
+New Jersey                          25
+New Mexico                           6
+New York                            14
+North Carolina                       8
+Ohio                                 5
+Oklahoma                             7
 Oregon                               2
-Pennsylvania                         9
-Rhode Island                         7
-South Carolina                       4
-Tennessee                            4
-Texas                                9
-Utah                                 4
-Vermont                             18
-Virginia                             6
-Washington                           3
+Pennsylvania                        15
+Rhode Island                        26
+South Carolina                       6
+Tennessee                            8
+Texas                               55
+Utah                                 3
+Vermont                             14
+Virginia                            11
+Washington                           5
 West Virginia                      100
-Wisconsin                            4
+Wisconsin                            7

@@ -1,53 +1,53 @@
                       Mel B
 geoName                    
-Alabama                  77
-Alaska                   81
-Arizona                  81
-Arkansas                 75
-California               79
-Colorado                 84
-Connecticut              89
-Delaware                 86
-District of Columbia     70
-Florida                  80
-Georgia                  80
-Hawaii                   86
-Idaho                    94
-Illinois                 86
-Indiana                  94
-Iowa                     90
-Kansas                   70
-Kentucky                 82
-Louisiana                79
-Maine                    84
-Maryland                 96
-Massachusetts            88
+Alabama                  74
+Alaska                   78
+Arizona                  78
+Arkansas                 76
+California               76
+Colorado                 81
+Connecticut              86
+Delaware                 91
+District of Columbia     67
+Florida                  81
+Georgia                  78
+Hawaii                   85
+Idaho                    93
+Illinois                 84
+Indiana                  90
+Iowa                     96
+Kansas                   69
+Kentucky                 84
+Louisiana                78
+Maine                    88
+Maryland                 91
+Massachusetts            87
 Michigan                 91
-Minnesota                81
-Mississippi              83
+Minnesota                78
+Mississippi              80
 Missouri                 83
-Montana                  85
-Nebraska                 85
-Nevada                   87
+Montana                  73
+Nebraska                 82
+Nevada                   85
 New Hampshire            85
 New Jersey              100
-New Mexico               82
-New York                 86
-North Carolina           75
+New Mexico               78
+New York                 84
+North Carolina           76
 North Dakota             86
-Ohio                     90
+Ohio                     87
 Oklahoma                 81
 Oregon                   58
-Pennsylvania             98
-Rhode Island            100
-South Carolina           89
-South Dakota             65
-Tennessee                83
-Texas                    76
+Pennsylvania             96
+Rhode Island             98
+South Carolina           90
+South Dakota             75
+Tennessee                81
+Texas                    75
 Utah                     83
-Vermont                  83
-Virginia                 76
-Washington               80
-West Virginia            94
-Wisconsin                76
-Wyoming                  65
+Vermont                  84
+Virginia                 75
+Washington               78
+West Virginia            88
+Wisconsin                77
+Wyoming                  70

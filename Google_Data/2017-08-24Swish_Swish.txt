@@ -1,0 +1,53 @@
+                      Swish Swish
+geoName                          
+Alabama                        37
+Alaska                         27
+Arizona                        32
+Arkansas                       39
+California                     37
+Colorado                       35
+Connecticut                    47
+Delaware                       41
+District of Columbia           40
+Florida                        33
+Georgia                        32
+Hawaii                         37
+Idaho                          34
+Illinois                       42
+Indiana                        36
+Iowa                           38
+Kansas                         30
+Kentucky                       35
+Louisiana                      32
+Maine                          60
+Maryland                       39
+Massachusetts                  52
+Michigan                       38
+Minnesota                      39
+Mississippi                    32
+Missouri                       34
+Montana                        41
+Nebraska                       36
+Nevada                         52
+New Hampshire                  46
+New Jersey                     41
+New Mexico                     30
+New York                       41
+North Carolina                 37
+North Dakota                   36
+Ohio                           44
+Oklahoma                       38
+Oregon                         35
+Pennsylvania                   38
+Rhode Island                   43
+South Carolina                 32
+South Dakota                   33
+Tennessee                      39
+Texas                          33
+Utah                           35
+Vermont                       100
+Virginia                       34
+Washington                     60
+West Virginia                  36
+Wisconsin                      42
+Wyoming                        35

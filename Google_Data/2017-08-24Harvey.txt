@@ -1,0 +1,53 @@
+                      Harvey
+geoName                     
+Alabama                   38
+Alaska                    18
+Arizona                   22
+Arkansas                  30
+California                25
+Colorado                  22
+Connecticut               35
+Delaware                  36
+District of Columbia      41
+Florida                   32
+Georgia                   41
+Hawaii                    19
+Idaho                     18
+Illinois                  48
+Indiana                   30
+Iowa                      22
+Kansas                    32
+Kentucky                  28
+Louisiana                100
+Maine                     28
+Maryland                  38
+Massachusetts             33
+Michigan                  31
+Minnesota                 24
+Mississippi               43
+Missouri                  28
+Montana                   21
+Nebraska                  28
+Nevada                    22
+New Hampshire             34
+New Jersey                34
+New Mexico                23
+New York                  34
+North Carolina            36
+North Dakota              66
+Ohio                      27
+Oklahoma                  34
+Oregon                    18
+Pennsylvania              30
+Rhode Island              29
+South Carolina            37
+South Dakota              23
+Tennessee                 34
+Texas                     31
+Utah                      20
+Vermont                   26
+Virginia                  29
+Washington                21
+West Virginia             37
+Wisconsin                 25
+Wyoming                   19

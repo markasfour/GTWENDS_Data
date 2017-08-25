@@ -1,0 +1,53 @@
+                      UEFA
+geoName                   
+Alabama                 24
+Alaska                  28
+Arizona                 43
+Arkansas                30
+California              73
+Colorado                45
+Connecticut             75
+Delaware                52
+District of Columbia    75
+Florida                 64
+Georgia                 45
+Hawaii                  34
+Idaho                   30
+Illinois                57
+Indiana                 35
+Iowa                    33
+Kansas                  52
+Kentucky                29
+Louisiana               29
+Maine                   29
+Maryland                72
+Massachusetts           64
+Michigan                40
+Minnesota               42
+Mississippi             17
+Missouri                35
+Montana                 20
+Nebraska                41
+Nevada                  52
+New Hampshire           33
+New Jersey              88
+New Mexico              37
+New York                81
+North Carolina          43
+North Dakota            29
+Ohio                    34
+Oklahoma                33
+Oregon                  72
+Pennsylvania            44
+Rhode Island            60
+South Carolina          32
+South Dakota            32
+Tennessee               28
+Texas                   53
+Utah                    40
+Vermont                 41
+Virginia               100
+Washington              49
+West Virginia           20
+Wisconsin               33
+Wyoming                 27

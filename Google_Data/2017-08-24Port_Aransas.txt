@@ -1,0 +1,34 @@
+                Port Aransas
+geoName                     
+Alabama                    1
+Arizona                    1
+Arkansas                   5
+California                 1
+Colorado                   5
+Florida                    1
+Georgia                    2
+Illinois                   2
+Indiana                    1
+Iowa                       3
+Kansas                     7
+Kentucky                   3
+Louisiana                  7
+Massachusetts              1
+Michigan                   1
+Minnesota                  3
+Missouri                   3
+Nebraska                   3
+New Jersey                 0
+New Mexico                 9
+New York                   1
+North Carolina             1
+Ohio                       1
+Oklahoma                  20
+Oregon                     1
+Pennsylvania               1
+South Carolina             1
+Tennessee                  1
+Texas                    100
+Virginia                   1
+Washington                 1
+Wisconsin                  2

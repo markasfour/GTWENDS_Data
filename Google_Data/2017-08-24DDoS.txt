@@ -1,0 +1,53 @@
+                      DDoS
+geoName                   
+Alabama                 67
+Alaska                  76
+Arizona                 83
+Arkansas                77
+California              89
+Colorado                79
+Connecticut             75
+Delaware                75
+District of Columbia    59
+Florida                 73
+Georgia                 61
+Hawaii                  71
+Idaho                   91
+Illinois                68
+Indiana                 76
+Iowa                    74
+Kansas                  79
+Kentucky                66
+Louisiana               53
+Maine                   83
+Maryland                92
+Massachusetts           87
+Michigan                74
+Minnesota               74
+Mississippi             51
+Missouri                72
+Montana                 74
+Nebraska                70
+Nevada                  82
+New Hampshire          100
+New Jersey              84
+New Mexico              65
+New York                81
+North Carolina          71
+North Dakota            71
+Ohio                    76
+Oklahoma                69
+Oregon                  72
+Pennsylvania            76
+Rhode Island            79
+South Carolina          60
+South Dakota            79
+Tennessee               63
+Texas                   66
+Utah                    90
+Vermont                 90
+Virginia                86
+Washington              99
+West Virginia           82
+Wisconsin               68
+Wyoming                 63

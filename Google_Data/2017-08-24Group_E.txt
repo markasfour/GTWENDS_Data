@@ -1,0 +1,33 @@
+                      Group E
+geoName                      
+Arizona                   100
+California                 50
+Colorado                   58
+Connecticut                46
+District of Columbia       52
+Florida                    46
+Georgia                    38
+Illinois                   55
+Indiana                    56
+Kentucky                   35
+Louisiana                  31
+Maryland                   47
+Massachusetts              42
+Michigan                   39
+Minnesota                  46
+Missouri                   45
+Nevada                     55
+New Jersey                 55
+New Mexico                 30
+New York                   58
+North Carolina             43
+Ohio                       51
+Oregon                     29
+Pennsylvania               48
+South Carolina             35
+Tennessee                  43
+Texas                      41
+Utah                       52
+Virginia                   42
+Washington                 46
+Wisconsin                  44

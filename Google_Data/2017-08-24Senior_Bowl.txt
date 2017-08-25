@@ -1,0 +1,53 @@
+                      Senior Bowl
+geoName                          
+Alabama                       100
+Alaska                          4
+Arizona                         8
+Arkansas                       24
+California                      6
+Colorado                        8
+Connecticut                     8
+Delaware                        8
+District of Columbia            8
+Florida                        13
+Georgia                        20
+Hawaii                         11
+Idaho                          13
+Illinois                        8
+Indiana                         9
+Iowa                           14
+Kansas                         11
+Kentucky                       11
+Louisiana                      27
+Maine                           4
+Maryland                        9
+Massachusetts                   5
+Michigan                       10
+Minnesota                      11
+Mississippi                    46
+Missouri                        9
+Montana                        11
+Nebraska                       16
+Nevada                          8
+New Hampshire                   4
+New Jersey                      7
+New Mexico                      7
+New York                        6
+North Carolina                 11
+North Dakota                   61
+Ohio                           17
+Oklahoma                       12
+Oregon                          7
+Pennsylvania                   10
+Rhode Island                    5
+South Carolina                 15
+South Dakota                   17
+Tennessee                      17
+Texas                          11
+Utah                           13
+Vermont                         4
+Virginia                        8
+Washington                      7
+West Virginia                  16
+Wisconsin                      11
+Wyoming                        11

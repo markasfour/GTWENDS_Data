@@ -1,53 +1,53 @@
                       High School Musical 4
 geoName                                    
 Alabama                                  80
-Alaska                                   50
-Arizona                                  66
-Arkansas                                 84
-California                               72
-Colorado                                 55
-Connecticut                              93
-Delaware                                 60
-District of Columbia                     51
-Florida                                  69
-Georgia                                  75
-Hawaii                                   71
-Idaho                                    77
-Illinois                                 74
-Indiana                                  90
-Iowa                                     78
-Kansas                                   60
-Kentucky                                 77
-Louisiana                                69
-Maine                                    57
-Maryland                                 81
-Massachusetts                            73
-Michigan                                 81
+Alaska                                   44
+Arizona                                  59
+Arkansas                                 83
+California                               68
+Colorado                                 49
+Connecticut                              91
+Delaware                                 65
+District of Columbia                     47
+Florida                                  67
+Georgia                                  69
+Hawaii                                   69
+Idaho                                    78
+Illinois                                 70
+Indiana                                  78
+Iowa                                     84
+Kansas                                   62
+Kentucky                                 72
+Louisiana                                70
+Maine                                    55
+Maryland                                 70
+Massachusetts                            69
+Michigan                                 78
 Minnesota                                69
-Mississippi                              75
-Missouri                                 68
-Montana                                  43
-Nebraska                                 76
+Mississippi                              80
+Missouri                                 60
+Montana                                  39
+Nebraska                                 79
 Nevada                                   61
-New Hampshire                            72
-New Jersey                              100
-New Mexico                               56
-New York                                 70
-North Carolina                           75
-North Dakota                             57
-Ohio                                     80
-Oklahoma                                 59
-Oregon                                   40
-Pennsylvania                             85
+New Hampshire                            68
+New Jersey                               92
+New Mexico                               49
+New York                                 66
+North Carolina                           70
+North Dakota                             44
+Ohio                                     73
+Oklahoma                                 55
+Oregon                                   34
+Pennsylvania                             80
 Rhode Island                             81
-South Carolina                           81
-South Dakota                             95
-Tennessee                                77
-Texas                                    72
-Utah                                     98
-Vermont                                  51
-Virginia                                 60
-Washington                               54
-West Virginia                            77
-Wisconsin                                78
-Wyoming                                  31
+South Carolina                           66
+South Dakota                             88
+Tennessee                                72
+Texas                                    69
+Utah                                    100
+Vermont                                  39
+Virginia                                 59
+Washington                               48
+West Virginia                            74
+Wisconsin                                67
+Wyoming                                  65

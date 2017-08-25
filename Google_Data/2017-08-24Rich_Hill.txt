@@ -1,51 +1,51 @@
                       Rich Hill
 geoName                        
-Alabama                      11
-Arizona                      16
+Alabama                      10
+Arizona                      15
 Arkansas                     16
-California                   22
-Colorado                     14
-Connecticut                  24
-Delaware                     17
+California                   21
+Colorado                     13
+Connecticut                  22
+Delaware                     13
 District of Columbia         25
 Florida                      11
-Georgia                      13
-Hawaii                       11
-Idaho                        10
-Illinois                     26
-Indiana                      13
-Iowa                         19
-Kansas                       45
-Kentucky                     12
-Louisiana                    10
-Maine                        18
-Maryland                     17
+Georgia                      14
+Hawaii                        8
+Idaho                         8
+Illinois                     24
+Indiana                      12
+Iowa                         17
+Kansas                       42
+Kentucky                     11
+Louisiana                     8
+Maine                        20
+Maryland                     16
 Massachusetts                29
-Michigan                     12
-Minnesota                    13
+Michigan                     13
+Minnesota                    12
 Mississippi                  11
 Missouri                    100
-Montana                      14
-Nebraska                     14
+Montana                      12
+Nebraska                     13
 Nevada                       14
-New Hampshire                20
-New Jersey                   17
-New Mexico                   15
+New Hampshire                17
+New Jersey                   15
+New Mexico                   14
 New York                     27
-North Carolina               17
-North Dakota                 10
-Ohio                         14
-Oklahoma                     14
+North Carolina               15
+North Dakota                  9
+Ohio                         13
+Oklahoma                     12
 Oregon                       10
-Pennsylvania                 21
+Pennsylvania                 20
 Rhode Island                 21
-South Carolina               19
-South Dakota                 14
-Tennessee                    14
-Texas                        12
+South Carolina               16
+South Dakota                 16
+Tennessee                    13
+Texas                        11
 Utah                         12
 Vermont                      17
-Virginia                     13
-Washington                   13
-West Virginia                13
+Virginia                     12
+Washington                   12
+West Virginia                11
 Wisconsin                    12

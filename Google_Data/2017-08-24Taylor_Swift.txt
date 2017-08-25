@@ -3,51 +3,51 @@ geoName
 Alabama                         66
 Alaska                          59
 Arizona                         69
-Arkansas                        64
-California                      69
+Arkansas                        65
+California                      70
 Colorado                        68
 Connecticut                     79
 Delaware                        70
-District of Columbia            77
-Florida                         59
+District of Columbia            78
+Florida                         60
 Georgia                         64
-Hawaii                          65
+Hawaii                          66
 Idaho                           71
 Illinois                        71
-Indiana                         74
-Iowa                            73
-Kansas                          65
-Kentucky                        80
+Indiana                         73
+Iowa                            74
+Kansas                          66
+Kentucky                        81
 Louisiana                       64
-Maine                           75
-Maryland                        67
+Maine                           76
+Maryland                        66
 Massachusetts                   88
-Michigan                        72
-Minnesota                       72
+Michigan                        71
+Minnesota                       73
 Mississippi                     60
 Missouri                        71
 Montana                         67
 Nebraska                        78
-Nevada                          60
-New Hampshire                   76
-New Jersey                      76
-New Mexico                      60
-New York                        69
-North Carolina                  69
-North Dakota                    80
-Ohio                            71
-Oklahoma                        72
+Nevada                          61
+New Hampshire                   78
+New Jersey                      75
+New Mexico                      59
+New York                        70
+North Carolina                  68
+North Dakota                    81
+Ohio                            72
+Oklahoma                        73
 Oregon                          55
-Pennsylvania                    82
+Pennsylvania                    83
 Rhode Island                   100
-South Carolina                  67
-South Dakota                    73
+South Carolina                  68
+South Dakota                    74
 Tennessee                       79
 Texas                           68
-Utah                            88
-Vermont                         74
-Virginia                        65
+Utah                            89
+Vermont                         75
+Virginia                        67
 Washington                      68
-West Virginia                   69
-Wisconsin                       67
-Wyoming                         67
+West Virginia                   70
+Wisconsin                       69
+Wyoming                         66

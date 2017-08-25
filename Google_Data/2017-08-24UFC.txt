@@ -1,53 +1,53 @@
                       UFC
 geoName                  
 Alabama                31
-Alaska                 54
-Arizona                60
-Arkansas               35
-California             58
-Colorado               45
-Connecticut            33
-Delaware               31
-District of Columbia   35
-Florida                40
-Georgia                34
+Alaska                 55
+Arizona                61
+Arkansas               36
+California             59
+Colorado               47
+Connecticut            34
+Delaware               32
+District of Columbia   36
+Florida                42
+Georgia                35
 Hawaii                100
-Idaho                  45
-Illinois               39
+Idaho                  44
+Illinois               40
 Indiana                37
-Iowa                   39
+Iowa                   40
 Kansas                 34
-Kentucky               37
+Kentucky               38
 Louisiana              41
-Maine                  31
-Maryland               31
-Massachusetts          32
-Michigan               35
-Minnesota              34
-Mississippi            33
-Missouri               38
+Maine                  32
+Maryland               32
+Massachusetts          33
+Michigan               36
+Minnesota              35
+Mississippi            34
+Missouri               39
 Montana                46
 Nebraska               41
-Nevada                 92
+Nevada                 93
 New Hampshire          29
-New Jersey             38
-New Mexico             81
-New York               38
+New Jersey             40
+New Mexico             84
+New York               39
 North Carolina         34
-North Dakota           52
-Ohio                   36
-Oklahoma               46
-Oregon                 34
-Pennsylvania           34
+North Dakota           53
+Ohio                   37
+Oklahoma               47
+Oregon                 35
+Pennsylvania           35
 Rhode Island           35
 South Carolina         35
-South Dakota           42
-Tennessee              36
+South Dakota           41
+Tennessee              37
 Texas                  48
-Utah                   41
+Utah                   42
 Vermont                26
 Virginia               30
-Washington             46
-West Virginia          43
+Washington             47
+West Virginia          45
 Wisconsin              34
 Wyoming                45

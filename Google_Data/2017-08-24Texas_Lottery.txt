@@ -15,11 +15,11 @@ Idaho                             0
 Illinois                          2
 Indiana                           0
 Iowa                              0
-Kansas                            4
+Kansas                            5
 Kentucky                          2
 Louisiana                        12
 Maine                             0
-Maryland                          0
+Maryland                          1
 Massachusetts                     0
 Michigan                          2
 Minnesota                         0
@@ -31,7 +31,7 @@ New Jersey                        0
 New Mexico                        4
 New York                          1
 North Carolina                    1
-Ohio                              0
+Ohio                              1
 Oklahoma                          8
 Oregon                            0
 Pennsylvania                      0

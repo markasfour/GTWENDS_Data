@@ -1,0 +1,53 @@
+                      Dortmund
+geoName                       
+Alabama                     41
+Alaska                      26
+Arizona                     57
+Arkansas                    42
+California                  88
+Colorado                    52
+Connecticut                 82
+Delaware                    81
+District of Columbia        79
+Florida                     72
+Georgia                     58
+Hawaii                      43
+Idaho                       49
+Illinois                    72
+Indiana                     53
+Iowa                        48
+Kansas                      74
+Kentucky                    45
+Louisiana                   40
+Maine                       45
+Maryland                    78
+Massachusetts               74
+Michigan                    52
+Minnesota                   50
+Mississippi                 28
+Missouri                    52
+Montana                     33
+Nebraska                    62
+Nevada                      67
+New Hampshire               55
+New Jersey                 100
+New Mexico                  49
+New York                    89
+North Carolina              60
+North Dakota                45
+Ohio                        47
+Oklahoma                    42
+Oregon                      74
+Pennsylvania                64
+Rhode Island                72
+South Carolina              50
+South Dakota                42
+Tennessee                   41
+Texas                       67
+Utah                        53
+Vermont                     65
+Virginia                    93
+Washington                  58
+West Virginia               31
+Wisconsin                   56
+Wyoming                     37
