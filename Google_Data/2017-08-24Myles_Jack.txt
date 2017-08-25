@@ -1,0 +1,53 @@
+                      Myles Jack
+geoName                         
+Alabama                       33
+Alaska                        33
+Arizona                       45
+Arkansas                      31
+California                    77
+Colorado                      33
+Connecticut                   39
+Delaware                      57
+District of Columbia          55
+Florida                       46
+Georgia                       48
+Hawaii                        50
+Idaho                         32
+Illinois                      38
+Indiana                       30
+Iowa                          53
+Kansas                        26
+Kentucky                      20
+Louisiana                     43
+Maine                         29
+Maryland                      69
+Massachusetts                 30
+Michigan                      31
+Minnesota                     56
+Mississippi                   36
+Missouri                      25
+Montana                       36
+Nebraska                      43
+Nevada                        47
+New Hampshire                 28
+New Jersey                    54
+New Mexico                    32
+New York                      36
+North Carolina                36
+North Dakota                  41
+Ohio                          51
+Oklahoma                      24
+Oregon                        32
+Pennsylvania                  47
+Rhode Island                  31
+South Carolina                34
+South Dakota                  46
+Tennessee                     37
+Texas                         45
+Utah                          27
+Vermont                       26
+Virginia                      32
+Washington                   100
+West Virginia                 28
+Wisconsin                     57
+Wyoming                       17

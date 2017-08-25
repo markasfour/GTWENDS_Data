@@ -1,34 +1,53 @@
                       Jay Thomas
 geoName                         
-Arizona                       76
-California                    70
-Colorado                      65
-Connecticut                   88
-District of Columbia          91
-Florida                       73
-Georgia                       85
-Illinois                      77
-Indiana                       74
-Iowa                          74
-Kansas                        69
-Kentucky                      76
-Louisiana                     97
-Maryland                      80
-Massachusetts                 99
-Michigan                      78
-Minnesota                     86
-Missouri                      85
-Nebraska                      65
-New Jersey                    92
-New York                     100
-North Carolina                89
-Ohio                          79
-Oklahoma                      78
-Oregon                        50
-Pennsylvania                  96
-Tennessee                     78
-Texas                         70
-Vermont                       85
-Virginia                      70
-Washington                    69
-Wisconsin                     65
+Alabama                       27
+Alaska                        14
+Arizona                       29
+Arkansas                      27
+California                    25
+Colorado                      25
+Connecticut                   32
+Delaware                      25
+District of Columbia          34
+Florida                       27
+Georgia                       30
+Hawaii                        20
+Idaho                         33
+Illinois                      29
+Indiana                       29
+Iowa                          31
+Kansas                        23
+Kentucky                      29
+Louisiana                     39
+Maine                         37
+Maryland                      32
+Massachusetts                 36
+Michigan                      29
+Minnesota                     33
+Mississippi                   23
+Missouri                      31
+Montana                       30
+Nebraska                      27
+Nevada                        27
+New Hampshire                 33
+New Jersey                    35
+New Mexico                    21
+New York                      37
+North Carolina                33
+North Dakota                 100
+Ohio                          30
+Oklahoma                      31
+Oregon                        18
+Pennsylvania                  35
+Rhode Island                  28
+South Carolina                32
+South Dakota                  30
+Tennessee                     30
+Texas                         26
+Utah                          30
+Vermont                       29
+Virginia                      26
+Washington                    26
+West Virginia                 28
+Wisconsin                     24
+Wyoming                       26

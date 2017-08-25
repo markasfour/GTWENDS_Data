@@ -1,0 +1,53 @@
+                      The Rock
+geoName                       
+Alabama                     26
+Alaska                      23
+Arizona                     23
+Arkansas                   100
+California                  21
+Colorado                    28
+Connecticut                 19
+Delaware                    19
+District of Columbia        19
+Florida                     21
+Georgia                     21
+Hawaii                      20
+Idaho                       22
+Illinois                    23
+Indiana                     22
+Iowa                        26
+Kansas                      26
+Kentucky                    23
+Louisiana                   22
+Maine                       21
+Maryland                    19
+Massachusetts               19
+Michigan                    24
+Minnesota                   24
+Mississippi                 22
+Missouri                    30
+Montana                     22
+Nebraska                    22
+Nevada                      30
+New Hampshire               19
+New Jersey                  21
+New Mexico                  22
+New York                    23
+North Carolina              24
+North Dakota                21
+Ohio                        26
+Oklahoma                    27
+Oregon                      18
+Pennsylvania                22
+Rhode Island                20
+South Carolina              31
+South Dakota                22
+Tennessee                   25
+Texas                       23
+Utah                        22
+Vermont                     19
+Virginia                    18
+Washington                  23
+West Virginia               26
+Wisconsin                   29
+Wyoming                     35

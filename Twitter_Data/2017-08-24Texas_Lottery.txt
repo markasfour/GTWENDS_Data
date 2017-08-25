@@ -2,8 +2,8 @@ AL 0
 AK 0
 AZ 0
 AR 0
-CA 1
-CO 7
+CA 2
+CO 15
 CT 5
 DE 0
 DC 1

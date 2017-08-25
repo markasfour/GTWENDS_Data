@@ -1,0 +1,53 @@
+                      Mercy
+geoName                    
+Alabama                  11
+Alaska                    9
+Arizona                  17
+Arkansas                 43
+California               12
+Colorado                 10
+Connecticut              14
+Delaware                 11
+District of Columbia     14
+Florida                  10
+Georgia                  11
+Hawaii                    9
+Idaho                     9
+Illinois                 18
+Indiana                  12
+Iowa                    100
+Kansas                   24
+Kentucky                 16
+Louisiana                14
+Maine                    32
+Maryland                 21
+Massachusetts            12
+Michigan                 31
+Minnesota                17
+Mississippi              11
+Missouri                 66
+Montana                   8
+Nebraska                 29
+Nevada                    8
+New Hampshire            10
+New Jersey               11
+New Mexico               10
+New York                 18
+North Carolina           12
+North Dakota             15
+Ohio                     31
+Oklahoma                 36
+Oregon                   10
+Pennsylvania             22
+Rhode Island             13
+South Carolina           10
+South Dakota             13
+Tennessee                14
+Texas                    11
+Utah                      7
+Vermont                  10
+Virginia                 10
+Washington                9
+West Virginia            10
+Wisconsin                23
+Wyoming                   7

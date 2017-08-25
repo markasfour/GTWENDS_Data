@@ -1,0 +1,52 @@
+                      Ertz
+geoName                   
+Alabama                 16
+Alaska                  36
+Arizona                 24
+Arkansas                14
+California              27
+Colorado                27
+Connecticut             30
+Delaware               100
+District of Columbia    56
+Florida                 20
+Georgia                 19
+Hawaii                  29
+Idaho                   23
+Illinois                28
+Indiana                 23
+Iowa                    49
+Kansas                  46
+Kentucky                17
+Louisiana               24
+Maine                   18
+Maryland                32
+Massachusetts           30
+Michigan                21
+Minnesota               31
+Mississippi             15
+Missouri                24
+Montana                 17
+Nebraska                43
+Nevada                  21
+New Hampshire           20
+New Jersey              61
+New Mexico              16
+New York                26
+North Carolina          21
+North Dakota            34
+Ohio                    25
+Oklahoma                20
+Oregon                  17
+Pennsylvania            90
+Rhode Island            27
+South Carolina          18
+South Dakota            50
+Tennessee               17
+Texas                   20
+Utah                    14
+Vermont                 20
+Virginia                25
+Washington              23
+West Virginia           21
+Wisconsin               34

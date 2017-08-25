@@ -1,0 +1,53 @@
+                      Arrieta
+geoName                      
+Alabama                     8
+Alaska                      6
+Arizona                    14
+Arkansas                   10
+California                 12
+Colorado                   11
+Connecticut                12
+Delaware                   11
+District of Columbia       17
+Florida                    16
+Georgia                    10
+Hawaii                      6
+Idaho                       6
+Illinois                  100
+Indiana                    40
+Iowa                       48
+Kansas                      9
+Kentucky                   11
+Louisiana                   8
+Maine                       6
+Maryland                   17
+Massachusetts              11
+Michigan                   11
+Minnesota                   9
+Mississippi                 8
+Missouri                   19
+Montana                     9
+Nebraska                   21
+Nevada                     13
+New Hampshire               7
+New Jersey                 12
+New Mexico                 12
+New York                   12
+North Carolina              8
+North Dakota                9
+Ohio                       11
+Oklahoma                   12
+Oregon                      7
+Pennsylvania               14
+Rhode Island                7
+South Carolina              9
+South Dakota               12
+Tennessee                   9
+Texas                      12
+Utah                        9
+Vermont                     7
+Virginia                    9
+Washington                  6
+West Virginia              11
+Wisconsin                  21
+Wyoming                     7

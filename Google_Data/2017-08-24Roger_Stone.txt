@@ -1,53 +1,53 @@
                       Roger Stone
 geoName                          
-Alabama                        45
-Alaska                         46
-Arizona                        51
-Arkansas                       42
-California                     53
-Colorado                       47
-Connecticut                    66
-Delaware                       51
+Alabama                        52
+Alaska                         54
+Arizona                        56
+Arkansas                       40
+California                     57
+Colorado                       51
+Connecticut                    78
+Delaware                       59
 District of Columbia          100
-Florida                        56
-Georgia                        40
-Hawaii                         32
-Idaho                          33
-Illinois                       49
-Indiana                        49
-Iowa                           40
-Kansas                         35
-Kentucky                       31
-Louisiana                      39
-Maine                          56
-Maryland                       61
-Massachusetts                  66
-Michigan                       45
-Minnesota                      44
-Mississippi                    35
-Missouri                       41
-Montana                        43
-Nebraska                       39
-Nevada                         47
-New Hampshire                  55
-New Jersey                     58
-New Mexico                     44
-New York                       66
-North Carolina                 44
-North Dakota                   37
-Ohio                           46
-Oklahoma                       34
-Oregon                         45
-Pennsylvania                   53
+Florida                        58
+Georgia                        43
+Hawaii                         35
+Idaho                          41
+Illinois                       53
+Indiana                        51
+Iowa                           42
+Kansas                         36
+Kentucky                       38
+Louisiana                      43
+Maine                          58
+Maryland                       72
+Massachusetts                  71
+Michigan                       48
+Minnesota                      48
+Mississippi                    36
+Missouri                       46
+Montana                        47
+Nebraska                       50
+Nevada                         48
+New Hampshire                  58
+New Jersey                     65
+New Mexico                     50
+New York                       71
+North Carolina                 46
+North Dakota                   35
+Ohio                           48
+Oklahoma                       31
+Oregon                         46
+Pennsylvania                   58
 Rhode Island                   75
-South Carolina                 42
-South Dakota                   45
-Tennessee                      44
-Texas                          40
-Utah                           39
-Vermont                        55
-Virginia                       43
-Washington                     53
-West Virginia                  43
-Wisconsin                      38
-Wyoming                        43
+South Carolina                 43
+South Dakota                   44
+Tennessee                      50
+Texas                          42
+Utah                           45
+Vermont                        65
+Virginia                       47
+Washington                     54
+West Virginia                  47
+Wisconsin                      40
+Wyoming                        51

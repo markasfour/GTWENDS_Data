@@ -1,0 +1,53 @@
+                      Tannehill
+geoName                        
+Alabama                     100
+Alaska                        8
+Arizona                       8
+Arkansas                      8
+California                    7
+Colorado                     10
+Connecticut                  12
+Delaware                     11
+District of Columbia         12
+Florida                      27
+Georgia                      14
+Hawaii                        9
+Idaho                         7
+Illinois                      9
+Indiana                      10
+Iowa                         10
+Kansas                        8
+Kentucky                     10
+Louisiana                    12
+Maine                         9
+Maryland                     10
+Massachusetts                13
+Michigan                      7
+Minnesota                    10
+Mississippi                  18
+Missouri                      9
+Montana                       9
+Nebraska                      9
+Nevada                        8
+New Hampshire                10
+New Jersey                   11
+New Mexico                    7
+New York                     10
+North Carolina               10
+North Dakota                 11
+Ohio                         11
+Oklahoma                     11
+Oregon                        5
+Pennsylvania                 12
+Rhode Island                 15
+South Carolina                9
+South Dakota                 15
+Tennessee                    10
+Texas                        12
+Utah                          7
+Vermont                       8
+Virginia                      9
+Washington                    9
+West Virginia                10
+Wisconsin                    10
+Wyoming                       8

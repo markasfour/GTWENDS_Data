@@ -1,53 +1,53 @@
                       Powerball
 geoName                        
-Alabama                      44
+Alabama                      45
 Alaska                       14
-Arizona                      67
-Arkansas                     61
+Arizona                      68
+Arkansas                     62
 California                   38
 Colorado                     51
 Connecticut                  55
-Delaware                     88
+Delaware                     87
 District of Columbia         59
-Florida                      62
+Florida                      61
 Georgia                      53
-Hawaii                       13
+Hawaii                       14
 Idaho                        64
 Illinois                     48
-Indiana                      63
-Iowa                         73
+Indiana                      65
+Iowa                         74
 Kansas                       58
 Kentucky                     76
-Louisiana                    67
+Louisiana                    69
 Maine                        55
-Maryland                     65
-Massachusetts                60
-Michigan                     54
+Maryland                     64
+Massachusetts                62
+Michigan                     53
 Minnesota                    63
-Mississippi                  55
-Missouri                     72
+Mississippi                  56
+Missouri                     71
 Montana                      48
-Nebraska                     80
-Nevada                       43
+Nebraska                     81
+Nevada                       44
 New Hampshire                77
-New Jersey                   58
-New Mexico                   67
+New Jersey                   59
+New Mexico                   68
 New York                     43
 North Carolina               70
-North Dakota                 60
-Ohio                         43
+North Dakota                 61
+Ohio                         44
 Oklahoma                     60
-Oregon                       36
-Pennsylvania                 63
+Oregon                       35
+Pennsylvania                 62
 Rhode Island                 92
-South Carolina               70
-South Dakota                 69
-Tennessee                    68
+South Carolina               68
+South Dakota                 70
+Tennessee                    69
 Texas                        44
-Utah                         32
-Vermont                      48
+Utah                         33
+Vermont                      49
 Virginia                     46
 Washington                   34
 West Virginia               100
-Wisconsin                    77
-Wyoming                      55
+Wisconsin                    79
+Wyoming                      56

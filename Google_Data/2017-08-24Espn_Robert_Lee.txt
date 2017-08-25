@@ -1,42 +1,44 @@
                       Espn Robert Lee
 geoName                              
-Alabama                            65
-Arkansas                           34
-California                         20
-Colorado                           10
-Connecticut                        17
-Delaware                           81
-District of Columbia               84
-Florida                            22
-Georgia                            25
-Illinois                           18
-Indiana                            51
-Kansas                             21
-Kentucky                           17
-Louisiana                          70
-Maine                              52
-Maryland                           41
-Massachusetts                      20
-Michigan                           19
-Minnesota                          25
-Mississippi                        34
-Missouri                           21
-Montana                            81
-Nebraska                           33
-Nevada                             43
-New Hampshire                      48
-New Jersey                         22
+Alabama                           100
+Arizona                             8
+Arkansas                           28
+California                         17
+Colorado                           25
+Connecticut                        28
+Delaware                           67
+District of Columbia               14
+Florida                            18
+Georgia                            31
+Hawaii                             33
+Idaho                              40
+Illinois                            8
+Indiana                            31
+Kansas                             17
+Kentucky                           50
+Louisiana                          43
+Maine                              43
+Maryland                           17
+Massachusetts                      22
+Michigan                           18
+Minnesota                          33
+Mississippi                        28
+Missouri                           17
+Montana                            67
+Nebraska                           28
+Nevada                             18
+New Jersey                         16
+New Mexico                         36
 New York                           18
-North Carolina                     18
-Ohio                               24
-Oklahoma                           38
-Oregon                             22
-Pennsylvania                       20
-South Carolina                     31
-Tennessee                          31
-Texas                              32
-Utah                               44
-Vermont                           100
-Virginia                           38
+North Carolina                     20
+Ohio                                5
+Oklahoma                           16
+Oregon                              9
+Pennsylvania                       16
+South Carolina                     52
+Tennessee                          30
+Texas                              27
+Virginia                           31
 Washington                         15
-Wisconsin                          11
+West Virginia                      45
+Wisconsin                          33

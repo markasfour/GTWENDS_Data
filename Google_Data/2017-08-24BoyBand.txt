@@ -1,0 +1,48 @@
+                      BoyBand
+geoName                      
+Alabama                    13
+Alaska                     33
+Arizona                    14
+Arkansas                   12
+California                 28
+Colorado                   12
+Connecticut                21
+Delaware                   18
+District of Columbia       11
+Florida                    15
+Georgia                    14
+Hawaii                     37
+Idaho                      13
+Illinois                   18
+Indiana                    15
+Iowa                       12
+Kansas                     45
+Kentucky                   15
+Louisiana                  13
+Maine                      13
+Maryland                   15
+Massachusetts              17
+Michigan                   14
+Minnesota                  15
+Mississippi                21
+Missouri                   13
+Nebraska                   13
+Nevada                     24
+New Hampshire              22
+New Jersey                 22
+New Mexico                 18
+New York                   18
+North Carolina             14
+Ohio                       15
+Oklahoma                   12
+Oregon                    100
+Pennsylvania               18
+Rhode Island               20
+South Carolina             14
+Tennessee                  16
+Texas                      18
+Utah                       15
+Virginia                   51
+Washington                 17
+West Virginia              14
+Wisconsin                  15

@@ -1,0 +1,53 @@
+                      Darby
+geoName                    
+Alabama                  11
+Alaska                   10
+Arizona                   7
+Arkansas                 12
+California                8
+Colorado                  9
+Connecticut               9
+Delaware                 35
+District of Columbia     30
+Florida                   8
+Georgia                  13
+Hawaii                   34
+Idaho                    14
+Illinois                  7
+Indiana                   8
+Iowa                      6
+Kansas                    9
+Kentucky                 11
+Louisiana                10
+Maine                     8
+Maryland                 14
+Massachusetts             9
+Michigan                  8
+Minnesota                 7
+Mississippi              10
+Missouri                  8
+Montana                  63
+Nebraska                  7
+Nevada                    8
+New Hampshire            10
+New Jersey               17
+New Mexico                7
+New York                 11
+North Carolina            9
+North Dakota              7
+Ohio                     27
+Oklahoma                  8
+Oregon                    7
+Pennsylvania            100
+Rhode Island              8
+South Carolina           12
+South Dakota              7
+Tennessee                 9
+Texas                     8
+Utah                      9
+Vermont                   9
+Virginia                 12
+Washington                9
+West Virginia             9
+Wisconsin                 6
+Wyoming                  11
