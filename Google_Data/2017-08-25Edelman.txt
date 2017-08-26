@@ -1,0 +1,53 @@
+                      Edelman
+geoName                      
+Alabama                    22
+Alaska                     15
+Arizona                    21
+Arkansas                   18
+California                 33
+Colorado                   22
+Connecticut                53
+Delaware                   28
+District of Columbia       60
+Florida                    24
+Georgia                    22
+Hawaii                     24
+Idaho                      14
+Illinois                   31
+Indiana                    18
+Iowa                       17
+Kansas                     18
+Kentucky                   17
+Louisiana                  22
+Maine                      61
+Maryland                   36
+Massachusetts             100
+Michigan                   20
+Minnesota                  19
+Mississippi                17
+Missouri                   22
+Montana                    18
+Nebraska                   20
+Nevada                     21
+New Hampshire              77
+New Jersey                 41
+New Mexico                 17
+New York                   55
+North Carolina             24
+North Dakota               17
+Ohio                       23
+Oklahoma                   20
+Oregon                     16
+Pennsylvania               28
+Rhode Island               95
+South Carolina             24
+South Dakota               16
+Tennessee                  20
+Texas                      21
+Utah                       17
+Vermont                    43
+Virginia                   28
+Washington                 26
+West Virginia              16
+Wisconsin                  18
+Wyoming                    16

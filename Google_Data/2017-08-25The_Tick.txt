@@ -1,0 +1,53 @@
+                      The Tick
+geoName                       
+Alabama                     54
+Alaska                      45
+Arizona                     43
+Arkansas                    69
+California                  40
+Colorado                    41
+Connecticut                 63
+Delaware                    56
+District of Columbia        45
+Florida                     40
+Georgia                     46
+Hawaii                      32
+Idaho                       47
+Illinois                    46
+Indiana                     55
+Iowa                        49
+Kansas                      52
+Kentucky                    61
+Louisiana                   41
+Maine                      100
+Maryland                    53
+Massachusetts               64
+Michigan                    53
+Minnesota                   53
+Mississippi                 52
+Missouri                    59
+Montana                     56
+Nebraska                    45
+Nevada                      37
+New Hampshire               94
+New Jersey                  53
+New Mexico                  49
+New York                    54
+North Carolina              53
+North Dakota                52
+Ohio                        51
+Oklahoma                    63
+Oregon                      40
+Pennsylvania                65
+Rhode Island                74
+South Carolina              48
+South Dakota                50
+Tennessee                   58
+Texas                       40
+Utah                        45
+Vermont                     99
+Virginia                    50
+Washington                  45
+West Virginia               69
+Wisconsin                   61
+Wyoming                     36

@@ -1,53 +1,53 @@
                       Lottery Winner
 geoName                             
-Alabama                           80
-Alaska                            34
-Arizona                           73
-Arkansas                          78
+Alabama                           81
+Alaska                            36
+Arizona                           76
+Arkansas                          81
 California                        62
-Colorado                          47
-Connecticut                       52
-Delaware                          61
-District of Columbia              77
-Florida                           93
-Georgia                          100
+Colorado                          48
+Connecticut                       53
+Delaware                          65
+District of Columbia              76
+Florida                           92
+Georgia                           99
 Hawaii                            29
-Idaho                             60
+Idaho                             68
 Illinois                          77
-Indiana                           60
-Iowa                              53
-Kansas                            55
-Kentucky                          65
-Louisiana                         63
+Indiana                           59
+Iowa                              58
+Kansas                            51
+Kentucky                          66
+Louisiana                         65
 Maine                             43
-Maryland                          76
-Massachusetts                     59
-Michigan                          70
+Maryland                          77
+Massachusetts                     60
+Michigan                          67
 Minnesota                         56
-Mississippi                       81
+Mississippi                       80
 Missouri                          65
-Montana                           57
-Nebraska                          69
+Montana                           55
+Nebraska                          64
 Nevada                            64
-New Hampshire                     62
+New Hampshire                     55
 New Jersey                        88
-New Mexico                        65
+New Mexico                        62
 New York                          61
 North Carolina                   100
-North Dakota                      72
-Ohio                              56
-Oklahoma                          65
-Oregon                            40
-Pennsylvania                      61
-Rhode Island                      63
-South Carolina                    95
-South Dakota                      63
-Tennessee                         90
-Texas                             60
-Utah                              45
-Vermont                           44
+North Dakota                      78
+Ohio                              57
+Oklahoma                          66
+Oregon                            41
+Pennsylvania                      60
+Rhode Island                      64
+South Carolina                    90
+South Dakota                      59
+Tennessee                         92
+Texas                             59
+Utah                              46
+Vermont                           47
 Virginia                          58
 Washington                        49
-West Virginia                     64
-Wisconsin                         59
-Wyoming                           59
+West Virginia                     59
+Wisconsin                         60
+Wyoming                           47

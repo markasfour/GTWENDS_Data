@@ -1,53 +1,53 @@
                       Mayweather vs McGregor fight
 geoName                                           
-Alabama                                         68
-Alaska                                          39
-Arizona                                         74
-Arkansas                                        71
+Alabama                                         72
+Alaska                                          44
+Arizona                                         77
+Arkansas                                        62
 California                                      65
-Colorado                                        61
-Connecticut                                     53
-Delaware                                        60
-District of Columbia                            50
-Florida                                         62
-Georgia                                         58
-Hawaii                                          72
-Idaho                                           55
+Colorado                                        62
+Connecticut                                     49
+Delaware                                        64
+District of Columbia                            46
+Florida                                         64
+Georgia                                         56
+Hawaii                                          67
+Idaho                                           56
 Illinois                                        56
-Indiana                                         67
-Iowa                                            52
-Kansas                                          51
-Kentucky                                        53
-Louisiana                                       62
-Maine                                           41
-Maryland                                        53
+Indiana                                         66
+Iowa                                            60
+Kansas                                          48
+Kentucky                                        55
+Louisiana                                       68
+Maine                                           44
+Maryland                                        50
 Massachusetts                                   41
 Michigan                                        59
-Minnesota                                       44
-Mississippi                                     63
-Missouri                                        59
-Montana                                         46
-Nebraska                                        69
+Minnesota                                       45
+Mississippi                                     60
+Missouri                                        57
+Montana                                         53
+Nebraska                                        65
 Nevada                                         100
-New Hampshire                                   42
+New Hampshire                                   49
 New Jersey                                      57
-New Mexico                                      86
-New York                                        47
-North Carolina                                  64
-North Dakota                                    59
-Ohio                                            58
-Oklahoma                                        66
-Oregon                                          35
-Pennsylvania                                    52
-Rhode Island                                    67
-South Carolina                                  61
-South Dakota                                    59
+New Mexico                                      87
+New York                                        45
+North Carolina                                  63
+North Dakota                                    61
+Ohio                                            59
+Oklahoma                                        68
+Oregon                                          36
+Pennsylvania                                    54
+Rhode Island                                    64
+South Carolina                                  67
+South Dakota                                    57
 Tennessee                                       61
 Texas                                           76
-Utah                                            62
-Vermont                                         27
+Utah                                            66
+Vermont                                         25
 Virginia                                        38
-Washington                                      49
+Washington                                      56
 West Virginia                                   58
 Wisconsin                                       49
-Wyoming                                         60
+Wyoming                                         54

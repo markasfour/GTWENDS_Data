@@ -1,12 +1,12 @@
                       Whole Foods
 geoName                          
 Alabama                        30
-Alaska                         10
-Arizona                        44
+Alaska                         11
+Arizona                        46
 Arkansas                       29
-California                     66
-Colorado                       88
-Connecticut                    67
+California                     67
+Colorado                       89
+Connecticut                    68
 Delaware                       32
 District of Columbia          100
 Florida                        53
@@ -14,40 +14,40 @@ Georgia                        44
 Hawaii                         70
 Idaho                          33
 Illinois                       64
-Indiana                        25
+Indiana                        26
 Iowa                           19
 Kansas                         30
-Kentucky                       28
+Kentucky                       29
 Louisiana                      59
-Maine                          46
-Maryland                       62
+Maine                          47
+Maryland                       63
 Massachusetts                  99
 Michigan                       35
-Minnesota                      44
+Minnesota                      45
 Mississippi                    25
 Missouri                       32
-Montana                        10
+Montana                        11
 Nebraska                       38
 Nevada                         60
-New Hampshire                  42
-New Jersey                     57
-New Mexico                     57
-New York                       55
-North Carolina                 47
-North Dakota                    9
+New Hampshire                  41
+New Jersey                     58
+New Mexico                     59
+New York                       56
+North Carolina                 48
+North Dakota                    8
 Ohio                           35
-Oklahoma                       44
+Oklahoma                       45
 Oregon                         39
 Pennsylvania                   47
 Rhode Island                   86
 South Carolina                 40
-South Dakota                   10
+South Dakota                    9
 Tennessee                      41
-Texas                          49
+Texas                          48
 Utah                           36
-Vermont                        19
-Virginia                       50
-Washington                     50
+Vermont                        20
+Virginia                       49
+Washington                     52
 West Virginia                  12
 Wisconsin                      27
 Wyoming                        16

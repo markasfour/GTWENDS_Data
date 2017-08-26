@@ -1,0 +1,53 @@
+                      Cespedes
+geoName                       
+Alabama                     13
+Alaska                       7
+Arizona                     20
+Arkansas                     9
+California                  34
+Colorado                    15
+Connecticut                 67
+Delaware                    22
+District of Columbia        38
+Florida                     41
+Georgia                     16
+Hawaii                      14
+Idaho                       13
+Illinois                    30
+Indiana                     16
+Iowa                        16
+Kansas                      18
+Kentucky                    13
+Louisiana                   13
+Maine                       31
+Maryland                    28
+Massachusetts               45
+Michigan                    46
+Minnesota                   17
+Mississippi                 11
+Missouri                    23
+Montana                     11
+Nebraska                    16
+Nevada                      25
+New Hampshire               30
+New Jersey                  90
+New Mexico                  13
+New York                   100
+North Carolina              16
+North Dakota                19
+Ohio                        18
+Oklahoma                    12
+Oregon                      14
+Pennsylvania                28
+Rhode Island                40
+South Carolina              15
+South Dakota                13
+Tennessee                   13
+Texas                       16
+Utah                        12
+Vermont                     23
+Virginia                    20
+Washington                  18
+West Virginia               12
+Wisconsin                   15
+Wyoming                      8

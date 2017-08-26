@@ -1,0 +1,19 @@
+                Set 3
+geoName              
+Arizona            90
+California         80
+Colorado           83
+Florida            82
+Georgia            79
+Illinois           79
+Massachusetts      77
+Michigan           89
+New Jersey         88
+New York          100
+North Carolina     83
+Ohio               95
+Pennsylvania       89
+Tennessee          87
+Texas              77
+Virginia           77
+Wisconsin          87
