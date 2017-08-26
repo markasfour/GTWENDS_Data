@@ -1,53 +1,53 @@
                       Rich Piana
 geoName                         
-Alabama                       61
-Alaska                        45
-Arizona                       82
-Arkansas                      61
-California                    82
-Colorado                      59
-Connecticut                   75
-Delaware                      65
-District of Columbia          58
+Alabama                       63
+Alaska                        44
+Arizona                       84
+Arkansas                      57
+California                    83
+Colorado                      58
+Connecticut                   74
+Delaware                      70
+District of Columbia          56
 Florida                       77
-Georgia                       55
-Hawaii                        89
-Idaho                         59
+Georgia                       56
+Hawaii                        94
+Idaho                         57
 Illinois                      63
-Indiana                       68
-Iowa                          56
+Indiana                       69
+Iowa                          64
 Kansas                        55
-Kentucky                      66
+Kentucky                      67
 Louisiana                     70
-Maine                         55
-Maryland                      54
-Massachusetts                 62
-Michigan                      67
-Minnesota                     47
+Maine                         48
+Maryland                      56
+Massachusetts                 61
+Michigan                      66
+Minnesota                     49
 Mississippi                   51
-Missouri                      55
-Montana                       50
-Nebraska                      69
+Missouri                      59
+Montana                       48
+Nebraska                      64
 Nevada                       100
-New Hampshire                 65
-New Jersey                    81
-New Mexico                    73
+New Hampshire                 66
+New Jersey                    79
+New Mexico                    76
 New York                      67
 North Carolina                65
-North Dakota                  61
-Ohio                          79
-Oklahoma                      71
-Oregon                        44
-Pennsylvania                  71
-Rhode Island                  69
-South Carolina                58
-South Dakota                  53
-Tennessee                     60
-Texas                         69
-Utah                          80
-Vermont                       54
-Virginia                      47
-Washington                    55
-West Virginia                 96
-Wisconsin                     53
-Wyoming                       63
+North Dakota                  67
+Ohio                          80
+Oklahoma                      68
+Oregon                        41
+Pennsylvania                  74
+Rhode Island                  71
+South Carolina                57
+South Dakota                  52
+Tennessee                     67
+Texas                         71
+Utah                          73
+Vermont                       51
+Virginia                      48
+Washington                    56
+West Virginia                 99
+Wisconsin                     51
+Wyoming                       59

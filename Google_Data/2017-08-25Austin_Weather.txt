@@ -4,10 +4,10 @@ Alabama                            2
 Alaska                             3
 Arizona                            3
 Arkansas                           3
-California                         4
+California                         3
 Colorado                           7
 Connecticut                        2
-Delaware                           1
+Delaware                           2
 District of Columbia               3
 Florida                            2
 Georgia                            3
@@ -15,7 +15,7 @@ Hawaii                             2
 Idaho                              2
 Illinois                           4
 Indiana                            2
-Iowa                               2
+Iowa                               3
 Kansas                             4
 Kentucky                           3
 Louisiana                          6
@@ -39,13 +39,13 @@ Oklahoma                           9
 Oregon                             3
 Pennsylvania                       2
 Rhode Island                       2
-South Carolina                     2
+South Carolina                     1
 Tennessee                          2
 Texas                            100
 Utah                               2
 Vermont                            2
 Virginia                           2
 Washington                         4
-West Virginia                      2
+West Virginia                      1
 Wisconsin                          3
 Wyoming                            2

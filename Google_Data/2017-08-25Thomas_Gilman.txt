@@ -1,20 +1,20 @@
                 Thomas Gilman
 geoName                      
 California                  4
-Colorado                    5
-Florida                     5
+Colorado                    6
+Florida                     4
 Georgia                     4
-Illinois                    9
+Illinois                    8
 Iowa                      100
-Michigan                    5
-Minnesota                  13
-Missouri                   10
-Nebraska                   96
+Michigan                    7
+Minnesota                  12
+Missouri                   11
+Nebraska                   87
 New Jersey                 14
-New York                    6
+New York                    7
 North Carolina              4
-Ohio                        9
-Pennsylvania               13
+Ohio                        8
+Pennsylvania               10
 Texas                       3
-Virginia                    7
-Wisconsin                  13
+Virginia                    8
+Wisconsin                  14

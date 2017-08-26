@@ -1,0 +1,53 @@
+                      Mnuchin
+geoName                      
+Alabama                    19
+Alaska                     18
+Arizona                    23
+Arkansas                   17
+California                 33
+Colorado                   25
+Connecticut                50
+Delaware                   32
+District of Columbia      100
+Florida                    25
+Georgia                    18
+Hawaii                     18
+Idaho                      17
+Illinois                   28
+Indiana                    20
+Iowa                       20
+Kansas                     13
+Kentucky                   15
+Louisiana                  19
+Maine                      28
+Maryland                   50
+Massachusetts              38
+Michigan                   22
+Minnesota                  24
+Mississippi                12
+Missouri                   20
+Montana                    21
+Nebraska                   18
+Nevada                     24
+New Hampshire              31
+New Jersey                 42
+New Mexico                 26
+New York                   62
+North Carolina             22
+North Dakota               13
+Ohio                       23
+Oklahoma                   14
+Oregon                     20
+Pennsylvania               28
+Rhode Island               30
+South Carolina             19
+South Dakota               11
+Tennessee                  19
+Texas                      19
+Utah                       20
+Vermont                    32
+Virginia                   31
+Washington                 24
+West Virginia              16
+Wisconsin                  20
+Wyoming                    16

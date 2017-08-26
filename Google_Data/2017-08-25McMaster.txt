@@ -1,0 +1,53 @@
+                      McMaster
+geoName                       
+Alabama                     53
+Alaska                      24
+Arizona                     35
+Arkansas                    31
+California                  57
+Colorado                    39
+Connecticut                 70
+Delaware                    55
+District of Columbia        24
+Florida                     25
+Georgia                     39
+Hawaii                      18
+Idaho                       47
+Illinois                    70
+Indiana                     72
+Iowa                        58
+Kansas                      36
+Kentucky                    45
+Louisiana                   28
+Maine                       55
+Maryland                    44
+Massachusetts               63
+Michigan                    73
+Minnesota                   70
+Mississippi                 25
+Missouri                    42
+Montana                     38
+Nebraska                    34
+Nevada                      27
+New Hampshire               93
+New Jersey                  53
+New Mexico                  43
+New York                    36
+North Carolina              41
+North Dakota                39
+Ohio                        91
+Oklahoma                    27
+Oregon                      40
+Pennsylvania                69
+Rhode Island                58
+South Carolina              54
+South Dakota                44
+Tennessee                   41
+Texas                       28
+Utah                        49
+Vermont                     81
+Virginia                    30
+Washington                  41
+West Virginia               32
+Wisconsin                  100
+Wyoming                     31

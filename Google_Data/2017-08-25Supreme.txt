@@ -1,53 +1,53 @@
                       Supreme
 geoName                      
 Alabama                    55
-Alaska                     53
+Alaska                     54
 Arizona                    65
 Arkansas                   55
 California                 68
 Colorado                   57
-Connecticut                64
-Delaware                   63
+Connecticut                65
+Delaware                   62
 District of Columbia      100
 Florida                    55
-Georgia                    57
-Hawaii                     52
-Idaho                      63
-Illinois                   59
-Indiana                    58
+Georgia                    58
+Hawaii                     53
+Idaho                      62
+Illinois                   58
+Indiana                    59
 Iowa                       57
-Kansas                     51
+Kansas                     52
 Kentucky                   50
-Louisiana                  68
+Louisiana                  69
 Maine                      55
 Maryland                   68
 Massachusetts              63
-Michigan                   56
+Michigan                   57
 Minnesota                  56
-Mississippi                63
+Mississippi                64
 Missouri                   57
-Montana                    70
+Montana                    69
 Nebraska                   61
 Nevada                     67
-New Hampshire              69
+New Hampshire              70
 New Jersey                 65
 New Mexico                 56
-New York                   84
+New York                   86
 North Carolina             56
-North Dakota               75
-Ohio                       71
-Oklahoma                   56
-Oregon                     43
-Pennsylvania               58
-Rhode Island               76
-South Carolina             54
-South Dakota               61
+North Dakota               78
+Ohio                       69
+Oklahoma                   55
+Oregon                     44
+Pennsylvania               60
+Rhode Island               77
+South Carolina             52
+South Dakota               62
 Tennessee                  49
-Texas                      52
+Texas                      54
 Utah                       52
-Vermont                    68
+Vermont                    67
 Virginia                   59
 Washington                 54
-West Virginia              70
+West Virginia              69
 Wisconsin                  55
-Wyoming                    74
+Wyoming                    72

@@ -1,53 +1,53 @@
                       Birth of the Dragon
 geoName                                  
-Alabama                                49
-Alaska                                 59
-Arizona                                66
+Alabama                                56
+Alaska                                 46
+Arizona                                57
 Arkansas                               64
-California                             77
-Colorado                               39
-Connecticut                            44
-Delaware                               63
-District of Columbia                   42
-Florida                                60
-Georgia                                45
+California                             72
+Colorado                               37
+Connecticut                            47
+Delaware                               39
+District of Columbia                   34
+Florida                                51
+Georgia                                43
 Hawaii                                100
-Idaho                                  56
+Idaho                                  51
 Illinois                               49
-Indiana                                53
-Iowa                                   37
-Kansas                                 44
-Kentucky                               52
-Louisiana                              55
-Maine                                  42
-Maryland                               50
+Indiana                                58
+Iowa                                   51
+Kansas                                 40
+Kentucky                               54
+Louisiana                              58
+Maine                                  44
+Maryland                               52
 Massachusetts                          37
-Michigan                               47
+Michigan                               54
 Minnesota                              37
-Mississippi                            59
-Missouri                               53
-Montana                                32
-Nebraska                               52
-Nevada                                 84
+Mississippi                            55
+Missouri                               44
+Montana                                50
+Nebraska                               44
+Nevada                                 73
 New Hampshire                          28
-New Jersey                             54
-New Mexico                             82
+New Jersey                             47
+New Mexico                             74
 New York                               49
-North Carolina                         53
-North Dakota                           39
-Ohio                                   39
-Oklahoma                               51
-Oregon                                 34
-Pennsylvania                           48
-Rhode Island                           30
-South Carolina                         38
-South Dakota                           47
-Tennessee                              48
-Texas                                  64
-Utah                                   52
-Vermont                                28
-Virginia                               44
-Washington                             51
-West Virginia                          81
-Wisconsin                              37
-Wyoming                                65
+North Carolina                         51
+North Dakota                           52
+Ohio                                   48
+Oklahoma                               55
+Oregon                                 33
+Pennsylvania                           47
+Rhode Island                           45
+South Carolina                         44
+South Dakota                           59
+Tennessee                              40
+Texas                                  59
+Utah                                   57
+Vermont                                33
+Virginia                               37
+Washington                             58
+West Virginia                          56
+Wisconsin                              33
+Wyoming                                33

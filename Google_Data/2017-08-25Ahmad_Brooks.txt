@@ -1,0 +1,41 @@
+                      Ahmad Brooks
+geoName                           
+Alabama                         33
+Arizona                         27
+Arkansas                        15
+California                      76
+Colorado                        31
+Connecticut                     30
+District of Columbia            57
+Florida                         25
+Georgia                         31
+Hawaii                          44
+Illinois                        24
+Indiana                         21
+Iowa                            29
+Kansas                          25
+Kentucky                        26
+Louisiana                       56
+Maryland                        51
+Massachusetts                   28
+Michigan                        21
+Minnesota                       24
+Mississippi                     39
+Missouri                        17
+Nebraska                        30
+Nevada                          43
+New Jersey                      25
+New York                        26
+North Carolina                  26
+North Dakota                    37
+Ohio                            29
+Oklahoma                        24
+Oregon                          20
+Pennsylvania                    28
+South Carolina                  30
+Tennessee                       26
+Texas                           48
+Utah                            28
+Virginia                       100
+Washington                      46
+Wisconsin                       25

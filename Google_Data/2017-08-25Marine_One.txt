@@ -1,0 +1,47 @@
+                      Marine One
+geoName                         
+Alabama                       63
+Alaska                        92
+Arizona                       43
+Arkansas                      48
+California                    48
+Colorado                      36
+Connecticut                   53
+Delaware                      45
+District of Columbia         100
+Florida                       74
+Georgia                       47
+Idaho                         43
+Illinois                      38
+Indiana                       47
+Iowa                          43
+Kansas                        38
+Kentucky                      45
+Louisiana                     73
+Maine                         59
+Maryland                      68
+Massachusetts                 49
+Michigan                      51
+Minnesota                     36
+Mississippi                   65
+Missouri                      40
+Nebraska                      36
+Nevada                        38
+New Hampshire                 55
+New Jersey                    41
+New Mexico                    41
+New York                      43
+North Carolina                68
+Ohio                          45
+Oklahoma                      52
+Oregon                        32
+Pennsylvania                  44
+Rhode Island                  56
+South Carolina                53
+Tennessee                     45
+Texas                         48
+Utah                          36
+Virginia                      61
+Washington                    48
+West Virginia                 54
+Wisconsin                     49

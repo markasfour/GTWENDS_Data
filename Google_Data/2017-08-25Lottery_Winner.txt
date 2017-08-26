@@ -1,0 +1,53 @@
+                      Lottery Winner
+geoName                             
+Alabama                           80
+Alaska                            34
+Arizona                           73
+Arkansas                          78
+California                        62
+Colorado                          47
+Connecticut                       52
+Delaware                          61
+District of Columbia              77
+Florida                           93
+Georgia                          100
+Hawaii                            29
+Idaho                             60
+Illinois                          77
+Indiana                           60
+Iowa                              53
+Kansas                            55
+Kentucky                          65
+Louisiana                         63
+Maine                             43
+Maryland                          76
+Massachusetts                     59
+Michigan                          70
+Minnesota                         56
+Mississippi                       81
+Missouri                          65
+Montana                           57
+Nebraska                          69
+Nevada                            64
+New Hampshire                     62
+New Jersey                        88
+New Mexico                        65
+New York                          61
+North Carolina                   100
+North Dakota                      72
+Ohio                              56
+Oklahoma                          65
+Oregon                            40
+Pennsylvania                      61
+Rhode Island                      63
+South Carolina                    95
+South Dakota                      63
+Tennessee                         90
+Texas                             60
+Utah                              45
+Vermont                           44
+Virginia                          58
+Washington                        49
+West Virginia                     64
+Wisconsin                         59
+Wyoming                           59

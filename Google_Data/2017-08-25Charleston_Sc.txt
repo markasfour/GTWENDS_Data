@@ -1,6 +1,6 @@
                       Charleston Sc
 geoName                            
-Alabama                           1
+Alabama                           2
 Alaska                            0
 Arizona                           0
 Arkansas                          1
@@ -15,7 +15,7 @@ Hawaii                            0
 Idaho                             0
 Illinois                          1
 Indiana                           1
-Iowa                              0
+Iowa                              1
 Kansas                            1
 Kentucky                          2
 Louisiana                         1

@@ -1,52 +1,52 @@
                       Champions League Draw
 geoName                                    
-Alabama                                  22
-Alaska                                   21
-Arizona                                  46
-Arkansas                                 31
+Alabama                                  26
+Alaska                                   17
+Arizona                                  42
+Arkansas                                 35
 California                               69
 Colorado                                 45
-Connecticut                              78
-Delaware                                 75
-District of Columbia                     86
-Florida                                  56
-Georgia                                  43
-Hawaii                                   30
-Idaho                                    20
-Illinois                                 55
-Indiana                                  38
-Iowa                                     34
-Kansas                                   57
-Kentucky                                 32
-Louisiana                                28
-Maine                                    26
-Maryland                                 80
-Massachusetts                            73
-Michigan                                 43
-Minnesota                                46
-Mississippi                              15
-Missouri                                 39
-Montana                                  16
-Nebraska                                 51
-Nevada                                   49
-New Hampshire                            31
-New Jersey                               85
-New Mexico                               30
-New York                                 86
-North Carolina                           43
-North Dakota                             32
-Ohio                                     41
-Oklahoma                                 32
-Oregon                                   46
-Pennsylvania                             55
-Rhode Island                             53
+Connecticut                              75
+Delaware                                 54
+District of Columbia                     88
+Florida                                  59
+Georgia                                  46
+Hawaii                                   27
+Idaho                                    27
+Illinois                                 58
+Indiana                                  40
+Iowa                                     38
+Kansas                                   55
+Kentucky                                 34
+Louisiana                                30
+Maine                                    40
+Maryland                                 71
+Massachusetts                            68
+Michigan                                 45
+Minnesota                                50
+Mississippi                              23
+Missouri                                 40
+Montana                                  29
+Nebraska                                 39
+Nevada                                   47
+New Hampshire                            41
+New Jersey                               88
+New Mexico                               31
+New York                                 87
+North Carolina                           44
+North Dakota                             44
+Ohio                                     43
+Oklahoma                                 36
+Oregon                                   48
+Pennsylvania                             56
+Rhode Island                             71
 South Carolina                           35
-South Dakota                             20
-Tennessee                                35
-Texas                                    47
-Utah                                     40
-Vermont                                  56
+South Dakota                             38
+Tennessee                                31
+Texas                                    51
+Utah                                     42
+Vermont                                  62
 Virginia                                100
-Washington                               48
-West Virginia                            35
-Wisconsin                                39
+Washington                               44
+West Virginia                            26
+Wisconsin                                35
