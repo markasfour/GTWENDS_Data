@@ -1,0 +1,53 @@
+                      Chapman
+geoName                      
+Alabama                    51
+Alaska                     32
+Arizona                   100
+Arkansas                   37
+California                 87
+Colorado                   41
+Connecticut                44
+Delaware                   46
+District of Columbia       45
+Florida                    34
+Georgia                    47
+Hawaii                     57
+Idaho                      43
+Illinois                   43
+Indiana                    47
+Iowa                       43
+Kansas                     56
+Kentucky                   50
+Louisiana                  37
+Maine                      49
+Maryland                   35
+Massachusetts              48
+Michigan                   37
+Minnesota                  35
+Mississippi                40
+Missouri                   43
+Montana                    38
+Nebraska                   43
+Nevada                     71
+New Hampshire              41
+New Jersey                 38
+New Mexico                 35
+New York                   37
+North Carolina             42
+North Dakota               31
+Ohio                       47
+Oklahoma                   45
+Oregon                     41
+Pennsylvania               49
+Rhode Island               42
+South Carolina             57
+South Dakota               32
+Tennessee                  87
+Texas                      38
+Utah                       39
+Vermont                    42
+Virginia                   33
+Washington                 42
+West Virginia              66
+Wisconsin                  35
+Wyoming                    35

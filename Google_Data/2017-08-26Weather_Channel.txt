@@ -1,0 +1,53 @@
+                      Weather Channel
+geoName                              
+Alabama                            72
+Alaska                             19
+Arizona                            30
+Arkansas                           97
+California                         25
+Colorado                           46
+Connecticut                        72
+Delaware                           79
+District of Columbia               52
+Florida                            54
+Georgia                            78
+Hawaii                             15
+Idaho                              37
+Illinois                           58
+Indiana                            63
+Iowa                               70
+Kansas                             66
+Kentucky                           74
+Louisiana                          75
+Maine                              82
+Maryland                           63
+Massachusetts                      65
+Michigan                           65
+Minnesota                          54
+Mississippi                        87
+Missouri                           67
+Montana                            49
+Nebraska                           76
+Nevada                             27
+New Hampshire                      67
+New Jersey                         55
+New Mexico                         48
+New York                           50
+North Carolina                     73
+North Dakota                       55
+Ohio                               71
+Oklahoma                           73
+Oregon                             24
+Pennsylvania                       72
+Rhode Island                       78
+South Carolina                     84
+South Dakota                       63
+Tennessee                          85
+Texas                              55
+Utah                               26
+Vermont                            78
+Virginia                           58
+Washington                         26
+West Virginia                     100
+Wisconsin                          94
+Wyoming                            73

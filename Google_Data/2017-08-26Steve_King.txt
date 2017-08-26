@@ -1,0 +1,53 @@
+                      Steve King
+geoName                         
+Alabama                       10
+Alaska                         9
+Arizona                       10
+Arkansas                      11
+California                    11
+Colorado                      13
+Connecticut                   11
+Delaware                      12
+District of Columbia          30
+Florida                       10
+Georgia                       10
+Hawaii                         8
+Idaho                         10
+Illinois                      13
+Indiana                       12
+Iowa                         100
+Kansas                        11
+Kentucky                      11
+Louisiana                     12
+Maine                         13
+Maryland                      15
+Massachusetts                 13
+Michigan                      12
+Minnesota                     14
+Mississippi                   10
+Missouri                      12
+Montana                       12
+Nebraska                      23
+Nevada                        10
+New Hampshire                 20
+New Jersey                    12
+New Mexico                    11
+New York                      13
+North Carolina                11
+North Dakota                   7
+Ohio                          11
+Oklahoma                       9
+Oregon                         9
+Pennsylvania                  13
+Rhode Island                  14
+South Carolina                11
+South Dakota                  15
+Tennessee                     10
+Texas                          9
+Utah                           9
+Vermont                       14
+Virginia                      12
+Washington                    18
+West Virginia                  8
+Wisconsin                     12
+Wyoming                       12

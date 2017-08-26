@@ -1,0 +1,48 @@
+                      TORNADO WATCH
+geoName                            
+Alabama                         100
+Arizona                           8
+Arkansas                         87
+California                        7
+Colorado                         29
+Connecticut                      21
+Delaware                         43
+District of Columbia             43
+Florida                          46
+Georgia                          84
+Illinois                         55
+Indiana                          65
+Iowa                             65
+Kansas                           71
+Kentucky                         65
+Louisiana                        82
+Maine                            10
+Maryland                         45
+Massachusetts                    20
+Michigan                         32
+Minnesota                        44
+Mississippi                      89
+Missouri                         79
+Nebraska                         64
+Nevada                            9
+New Hampshire                    11
+New Jersey                       27
+New Mexico                       18
+New York                         24
+North Carolina                   62
+Ohio                             47
+Oklahoma                         85
+Oregon                            6
+Pennsylvania                     33
+Rhode Island                     13
+South Carolina                   67
+South Dakota                     38
+Tennessee                        72
+Texas                            59
+Utah                              9
+Vermont                          16
+Virginia                         40
+Washington                        8
+West Virginia                    33
+Wisconsin                        47
+Wyoming                          27

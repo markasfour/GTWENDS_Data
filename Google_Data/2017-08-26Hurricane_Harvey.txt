@@ -1,0 +1,53 @@
+                      Hurricane Harvey
+geoName                               
+Alabama                              7
+Alaska                               6
+Arizona                              2
+Arkansas                             9
+California                           3
+Colorado                             6
+Connecticut                          5
+Delaware                            11
+District of Columbia                12
+Florida                             12
+Georgia                              6
+Hawaii                               3
+Idaho                                6
+Illinois                             4
+Indiana                              4
+Iowa                                 3
+Kansas                               7
+Kentucky                             5
+Louisiana                           73
+Maine                                5
+Maryland                             6
+Massachusetts                        6
+Michigan                             3
+Minnesota                            4
+Mississippi                         15
+Missouri                             5
+Montana                              4
+Nebraska                             4
+Nevada                               2
+New Hampshire                       10
+New Jersey                          11
+New Mexico                           5
+New York                             5
+North Carolina                       5
+North Dakota                         5
+Ohio                                 4
+Oklahoma                            11
+Oregon                               3
+Pennsylvania                         7
+Rhode Island                         6
+South Carolina                       6
+South Dakota                         5
+Tennessee                            5
+Texas                              100
+Utah                                 4
+Vermont                             13
+Virginia                             5
+Washington                           4
+West Virginia                       33
+Wisconsin                            4
+Wyoming                             17

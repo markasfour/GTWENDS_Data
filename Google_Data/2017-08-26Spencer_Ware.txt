@@ -1,0 +1,53 @@
+                      Spencer Ware
+geoName                           
+Alabama                         28
+Alaska                          26
+Arizona                         28
+Arkansas                        31
+California                      29
+Colorado                        35
+Connecticut                     39
+Delaware                        41
+District of Columbia            38
+Florida                         26
+Georgia                         28
+Hawaii                          30
+Idaho                           26
+Illinois                        38
+Indiana                         34
+Iowa                            36
+Kansas                          66
+Kentucky                        30
+Louisiana                      100
+Maine                           26
+Maryland                        36
+Massachusetts                   51
+Michigan                        38
+Minnesota                       44
+Mississippi                     33
+Missouri                        58
+Montana                         35
+Nebraska                        43
+Nevada                          31
+New Hampshire                   37
+New Jersey                      43
+New Mexico                      19
+New York                        33
+North Carolina                  29
+North Dakota                    31
+Ohio                            66
+Oklahoma                        27
+Oregon                          19
+Pennsylvania                    43
+Rhode Island                    35
+South Carolina                  27
+South Dakota                    38
+Tennessee                       28
+Texas                           33
+Utah                            23
+Vermont                         29
+Virginia                        26
+Washington                      51
+West Virginia                   31
+Wisconsin                       44
+Wyoming                         12

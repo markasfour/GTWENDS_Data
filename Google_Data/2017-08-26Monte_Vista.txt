@@ -1,0 +1,8 @@
+            Monte Vista
+geoName                
+Arizona              48
+California           50
+Colorado            100
+Nevada               26
+New Mexico           84
+Texas                 9

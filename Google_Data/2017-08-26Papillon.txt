@@ -1,0 +1,53 @@
+                      Papillon
+geoName                       
+Alabama                     30
+Alaska                      39
+Arizona                     46
+Arkansas                    33
+California                  46
+Colorado                    37
+Connecticut                 33
+Delaware                    34
+District of Columbia        35
+Florida                     38
+Georgia                     30
+Hawaii                      46
+Idaho                       32
+Illinois                    28
+Indiana                     33
+Iowa                        39
+Kansas                      40
+Kentucky                    35
+Louisiana                   37
+Maine                       39
+Maryland                    31
+Massachusetts               33
+Michigan                    31
+Minnesota                   36
+Mississippi                 33
+Missouri                    39
+Montana                     44
+Nebraska                   100
+Nevada                      94
+New Hampshire               40
+New Jersey                  36
+New Mexico                  37
+New York                    42
+North Carolina              29
+North Dakota                31
+Ohio                        34
+Oklahoma                    42
+Oregon                      35
+Pennsylvania                37
+Rhode Island                41
+South Carolina              32
+South Dakota                41
+Tennessee                   33
+Texas                       33
+Utah                        34
+Vermont                     37
+Virginia                    30
+Washington                  42
+West Virginia               30
+Wisconsin                   32
+Wyoming                     41
