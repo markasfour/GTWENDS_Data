@@ -1,0 +1,53 @@
+                      Darren McFadden
+geoName                              
+Alabama                            10
+Alaska                              8
+Arizona                            12
+Arkansas                          100
+California                         15
+Colorado                           12
+Connecticut                        13
+Delaware                           14
+District of Columbia               17
+Florida                             9
+Georgia                            11
+Hawaii                             13
+Idaho                               8
+Illinois                           12
+Indiana                            10
+Iowa                               12
+Kansas                             10
+Kentucky                           11
+Louisiana                          15
+Maine                               9
+Maryland                           14
+Massachusetts                      13
+Michigan                           11
+Minnesota                          14
+Mississippi                        12
+Missouri                           13
+Montana                            10
+Nebraska                           11
+Nevada                             12
+New Hampshire                      10
+New Jersey                         15
+New Mexico                         15
+New York                           13
+North Carolina                     10
+North Dakota                       14
+Ohio                               12
+Oklahoma                           16
+Oregon                              7
+Pennsylvania                       15
+Rhode Island                       12
+South Carolina                     12
+South Dakota                       12
+Tennessee                          13
+Texas                              20
+Utah                                8
+Vermont                             5
+Virginia                           11
+Washington                         12
+West Virginia                      11
+Wisconsin                          13
+Wyoming                             8

@@ -1,0 +1,53 @@
+                      Witten
+geoName                     
+Alabama                   26
+Alaska                    31
+Arizona                   37
+Arkansas                  47
+California                31
+Colorado                  37
+Connecticut               37
+Delaware                  43
+District of Columbia      56
+Florida                   29
+Georgia                   30
+Hawaii                    31
+Idaho                     34
+Illinois                  33
+Indiana                   29
+Iowa                      40
+Kansas                    36
+Kentucky                  50
+Louisiana                 42
+Maine                     26
+Maryland                  46
+Massachusetts             37
+Michigan                  26
+Minnesota                 28
+Mississippi               38
+Missouri                  37
+Montana                   44
+Nebraska                  33
+Nevada                    37
+New Hampshire             22
+New Jersey                46
+New Mexico                64
+New York                  35
+North Carolina            37
+North Dakota              39
+Ohio                      36
+Oklahoma                  64
+Oregon                    19
+Pennsylvania              41
+Rhode Island              40
+South Carolina            34
+South Dakota              63
+Tennessee                 65
+Texas                    100
+Utah                      28
+Vermont                   29
+Virginia                  48
+Washington                30
+West Virginia             59
+Wisconsin                 34
+Wyoming                   40

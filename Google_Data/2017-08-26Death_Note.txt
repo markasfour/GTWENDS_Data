@@ -1,53 +1,53 @@
                       Death Note
 geoName                         
-Alabama                       79
-Alaska                        87
-Arizona                       91
-Arkansas                      82
+Alabama                       78
+Alaska                        96
+Arizona                       92
+Arkansas                      90
 California                    87
 Colorado                      69
-Connecticut                   68
-Delaware                      79
+Connecticut                   71
+Delaware                      77
 District of Columbia          43
 Florida                       81
-Georgia                       69
-Hawaii                        79
-Idaho                         85
+Georgia                       70
+Hawaii                        83
+Idaho                         87
 Illinois                      70
-Indiana                       84
-Iowa                          75
-Kansas                        79
-Kentucky                      82
-Louisiana                     72
-Maine                         79
-Maryland                      80
-Massachusetts                 69
-Michigan                      79
+Indiana                       85
+Iowa                          74
+Kansas                        77
+Kentucky                      84
+Louisiana                     75
+Maine                         86
+Maryland                      78
+Massachusetts                 68
+Michigan                      80
 Minnesota                     65
 Mississippi                   70
-Missouri                      72
-Montana                       69
-Nebraska                      74
+Missouri                      75
+Montana                       66
+Nebraska                      71
 Nevada                       100
-New Hampshire                 74
-New Jersey                    84
-New Mexico                    91
-New York                      75
-North Carolina                71
-North Dakota                  66
-Ohio                          79
-Oklahoma                      85
-Oregon                        77
-Pennsylvania                  76
-Rhode Island                  78
-South Carolina                75
-South Dakota                  72
+New Hampshire                 78
+New Jersey                    85
+New Mexico                    95
+New York                      76
+North Carolina                73
+North Dakota                  68
+Ohio                          80
+Oklahoma                      86
+Oregon                        80
+Pennsylvania                  77
+Rhode Island                  81
+South Carolina                73
+South Dakota                  74
 Tennessee                     76
-Texas                         84
-Utah                          81
-Vermont                       65
-Virginia                      75
+Texas                         85
+Utah                          83
+Vermont                       64
+Virginia                      76
 Washington                    81
-West Virginia                 93
-Wisconsin                     69
-Wyoming                       83
+West Virginia                 94
+Wisconsin                     70
+Wyoming                       76

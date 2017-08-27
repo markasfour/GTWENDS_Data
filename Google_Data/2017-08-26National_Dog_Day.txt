@@ -1,53 +1,53 @@
                       National Dog Day
 geoName                               
-Alabama                             75
-Alaska                              56
-Arizona                             80
-Arkansas                            81
-California                          75
-Colorado                            83
-Connecticut                         78
-Delaware                            69
+Alabama                             79
+Alaska                              70
+Arizona                             77
+Arkansas                            89
+California                          73
+Colorado                            79
+Connecticut                         67
+Delaware                            63
 District of Columbia                84
-Florida                             68
-Georgia                             71
-Hawaii                              72
-Idaho                               79
-Illinois                            88
-Indiana                             81
-Iowa                                88
-Kansas                              81
-Kentucky                            81
-Louisiana                           77
-Maine                               89
-Maryland                            67
-Massachusetts                       72
-Michigan                            76
-Minnesota                           79
-Mississippi                         76
-Missouri                            88
+Florida                             67
+Georgia                             68
+Hawaii                              75
+Idaho                               70
+Illinois                            82
+Indiana                             76
+Iowa                                89
+Kansas                              71
+Kentucky                            79
+Louisiana                           73
+Maine                               83
+Maryland                            68
+Massachusetts                       69
+Michigan                            75
+Minnesota                           74
+Mississippi                         73
+Missouri                            80
 Montana                             82
-Nebraska                            93
-Nevada                              80
-New Hampshire                       75
-New Jersey                          77
-New Mexico                          69
-New York                            69
-North Carolina                      80
+Nebraska                            92
+Nevada                              82
+New Hampshire                       79
+New Jersey                          74
+New Mexico                          66
+New York                            68
+North Carolina                      75
 North Dakota                       100
-Ohio                                82
-Oklahoma                            84
+Ohio                                77
+Oklahoma                            71
 Oregon                              55
-Pennsylvania                        80
-Rhode Island                        78
-South Carolina                      79
-South Dakota                        88
-Tennessee                           83
-Texas                               77
-Utah                                71
-Vermont                             82
-Virginia                            62
-Washington                          73
-West Virginia                       88
-Wisconsin                           77
-Wyoming                             91
+Pennsylvania                        73
+Rhode Island                        81
+South Carolina                      77
+South Dakota                        84
+Tennessee                           81
+Texas                               78
+Utah                                68
+Vermont                             67
+Virginia                            61
+Washington                          69
+West Virginia                       97
+Wisconsin                           75
+Wyoming                             68

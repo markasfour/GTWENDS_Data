@@ -1,52 +1,52 @@
                       Ingrid Goes West
 geoName                               
-Alabama                             27
-Alaska                              11
+Alabama                             20
+Alaska                              28
 Arizona                             43
-Arkansas                            30
-California                         100
-Colorado                            55
-Connecticut                         48
-Delaware                            63
-District of Columbia                49
-Florida                             26
-Georgia                             26
+Arkansas                            20
+California                          97
+Colorado                            48
+Connecticut                         50
+Delaware                            57
+District of Columbia                48
+Florida                             30
+Georgia                             25
 Hawaii                              31
-Idaho                               34
-Illinois                            47
+Idaho                               57
+Illinois                            43
 Indiana                             26
-Iowa                                30
-Kansas                              26
-Kentucky                            19
-Louisiana                           29
-Maine                               53
-Maryland                            45
-Massachusetts                       46
-Michigan                            26
-Minnesota                           28
-Mississippi                         12
-Missouri                            36
-Montana                             19
-Nebraska                            36
-Nevada                              28
+Iowa                                31
+Kansas                              29
+Kentucky                            13
+Louisiana                           30
+Maine                               43
+Maryland                            38
+Massachusetts                       40
+Michigan                            36
+Minnesota                           29
+Mississippi                         28
+Missouri                            31
+Montana                             29
+Nebraska                            30
+Nevada                              32
 New Hampshire                       31
-New Jersey                          51
-New Mexico                          36
-New York                            91
-North Carolina                      32
-North Dakota                        42
-Ohio                                26
-Oklahoma                            26
-Oregon                              55
+New Jersey                          44
+New Mexico                          39
+New York                           100
+North Carolina                      29
+North Dakota                        36
+Ohio                                27
+Oklahoma                            25
+Oregon                              46
 Pennsylvania                        37
 Rhode Island                        43
-South Carolina                      21
-South Dakota                        36
-Tennessee                           25
-Texas                               58
-Utah                                80
-Vermont                             24
-Virginia                            26
-Washington                          47
-West Virginia                       10
-Wisconsin                           20
+South Carolina                      20
+South Dakota                        12
+Tennessee                           29
+Texas                               57
+Utah                                69
+Vermont                             36
+Virginia                            24
+Washington                          50
+West Virginia                       13
+Wisconsin                           25

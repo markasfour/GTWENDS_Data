@@ -1,0 +1,53 @@
+                      Tolzien
+geoName                      
+Alabama                     5
+Alaska                      5
+Arizona                     7
+Arkansas                    5
+California                  7
+Colorado                    7
+Connecticut                 7
+Delaware                    5
+District of Columbia        7
+Florida                     5
+Georgia                     5
+Hawaii                      5
+Idaho                       5
+Illinois                   25
+Indiana                    22
+Iowa                       17
+Kansas                      4
+Kentucky                    5
+Louisiana                   3
+Maine                       5
+Maryland                    6
+Massachusetts               6
+Michigan                    8
+Minnesota                  17
+Mississippi                 6
+Missouri                    7
+Montana                    10
+Nebraska                    9
+Nevada                      8
+New Hampshire               4
+New Jersey                  7
+New Mexico                  7
+New York                    5
+North Carolina              5
+North Dakota               13
+Ohio                        7
+Oklahoma                    5
+Oregon                      5
+Pennsylvania                7
+Rhode Island                3
+South Carolina              4
+South Dakota               10
+Tennessee                   5
+Texas                       5
+Utah                        3
+Vermont                     7
+Virginia                    6
+Washington                  6
+West Virginia               6
+Wisconsin                 100
+Wyoming                     4

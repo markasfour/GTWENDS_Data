@@ -1,51 +1,51 @@
                       High School Football Scores
 geoName                                          
-Alabama                                        52
+Alabama                                        54
 Alaska                                          5
 Arizona                                        15
-Arkansas                                       41
+Arkansas                                       43
 California                                      7
-Colorado                                       11
+Colorado                                       12
 Connecticut                                     7
-Delaware                                       14
-District of Columbia                           15
+Delaware                                       13
+District of Columbia                           16
 Florida                                        14
-Georgia                                        48
-Hawaii                                         16
+Georgia                                        50
+Hawaii                                         17
 Idaho                                          14
 Illinois                                       23
 Indiana                                        32
-Iowa                                           61
-Kansas                                         29
-Kentucky                                       39
+Iowa                                           63
+Kansas                                         30
+Kentucky                                       41
 Louisiana                                      42
-Maine                                          14
+Maine                                          15
 Maryland                                        7
 Massachusetts                                   9
 Michigan                                       27
-Minnesota                                      28
-Mississippi                                    69
-Missouri                                       26
+Minnesota                                      29
+Mississippi                                    71
+Missouri                                       27
 Montana                                        20
-Nebraska                                       37
+Nebraska                                       35
 Nevada                                          9
 New Jersey                                      7
-New Mexico                                     21
+New Mexico                                     22
 New York                                        6
-North Carolina                                 25
-North Dakota                                   21
-Ohio                                           49
-Oklahoma                                       47
+North Carolina                                 26
+North Dakota                                   22
+Ohio                                           50
+Oklahoma                                       48
 Oregon                                          8
 Pennsylvania                                   17
 Rhode Island                                    5
 South Carolina                                 41
-South Dakota                                   35
+South Dakota                                   36
 Tennessee                                      35
-Texas                                          37
+Texas                                          38
 Utah                                           17
 Virginia                                       13
-Washington                                     10
+Washington                                     11
 West Virginia                                 100
-Wisconsin                                      27
+Wisconsin                                      28
 Wyoming                                        21

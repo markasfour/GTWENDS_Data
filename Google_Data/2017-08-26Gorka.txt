@@ -1,53 +1,53 @@
                       Gorka
 geoName                    
-Alabama                  36
-Alaska                   58
+Alabama                  33
+Alaska                   50
 Arizona                  41
-Arkansas                 31
-California               43
+Arkansas                 29
+California               42
 Colorado                 43
-Connecticut              60
-Delaware                 51
+Connecticut              56
+Delaware                 46
 District of Columbia    100
 Florida                  41
-Georgia                  36
-Hawaii                   26
-Idaho                    38
+Georgia                  35
+Hawaii                   32
+Idaho                    36
 Illinois                 45
 Indiana                  38
-Iowa                     36
+Iowa                     33
 Kansas                   31
 Kentucky                 31
-Louisiana                33
-Maine                    86
+Louisiana                30
+Maine                    76
 Maryland                 61
 Massachusetts            61
 Michigan                 38
-Minnesota                55
+Minnesota                59
 Mississippi              27
-Missouri                 33
-Montana                  52
-Nebraska                 41
-Nevada                   36
-New Hampshire            61
-New Jersey               53
-New Mexico               51
-New York                 51
-North Carolina           39
-North Dakota             28
-Ohio                     42
-Oklahoma                 34
-Oregon                   49
+Missouri                 32
+Montana                  46
+Nebraska                 37
+Nevada                   38
+New Hampshire            64
+New Jersey               51
+New Mexico               52
+New York                 52
+North Carolina           36
+North Dakota             35
+Ohio                     41
+Oklahoma                 32
+Oregon                   51
 Pennsylvania             50
-Rhode Island             53
-South Carolina           39
-South Dakota             23
-Tennessee                38
-Texas                    31
+Rhode Island             48
+South Carolina           40
+South Dakota             27
+Tennessee                36
+Texas                    30
 Utah                     34
-Vermont                  77
+Vermont                  71
 Virginia                 51
-Washington               51
-West Virginia            37
-Wisconsin                39
-Wyoming                  33
+Washington               49
+West Virginia            32
+Wisconsin                38
+Wyoming                  36

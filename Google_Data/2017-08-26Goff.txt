@@ -1,0 +1,53 @@
+                      Goff
+geoName                   
+Alabama                 54
+Alaska                  27
+Arizona                 35
+Arkansas                70
+California              52
+Colorado                42
+Connecticut             45
+Delaware                36
+District of Columbia    56
+Florida                 32
+Georgia                 44
+Hawaii                  31
+Idaho                   48
+Illinois                49
+Indiana                 47
+Iowa                    38
+Kansas                  44
+Kentucky                63
+Louisiana               45
+Maine                   60
+Maryland                47
+Massachusetts           39
+Michigan                34
+Minnesota               42
+Mississippi             57
+Missouri                46
+Montana                 36
+Nebraska                38
+Nevada                  32
+New Hampshire           41
+New Jersey              33
+New Mexico              53
+New York                37
+North Carolina          40
+North Dakota            68
+Ohio                    56
+Oklahoma                74
+Oregon                  36
+Pennsylvania            39
+Rhode Island            93
+South Carolina          50
+South Dakota            56
+Tennessee               86
+Texas                   42
+Utah                    61
+Vermont                 31
+Virginia                45
+Washington              41
+West Virginia          100
+Wisconsin               37
+Wyoming                 32

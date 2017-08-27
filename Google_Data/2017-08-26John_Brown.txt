@@ -1,0 +1,53 @@
+                      John Brown
+geoName                         
+Alabama                       27
+Alaska                        20
+Arizona                       28
+Arkansas                     100
+California                    21
+Colorado                      23
+Connecticut                   32
+Delaware                      28
+District of Columbia          34
+Florida                       20
+Georgia                       28
+Hawaii                        19
+Idaho                         22
+Illinois                      25
+Indiana                       29
+Iowa                          29
+Kansas                        58
+Kentucky                      32
+Louisiana                     26
+Maine                         31
+Maryland                      33
+Massachusetts                 31
+Michigan                      23
+Minnesota                     25
+Mississippi                   28
+Missouri                      34
+Montana                       25
+Nebraska                      26
+Nevada                        19
+New Hampshire                 31
+New Jersey                    30
+New Mexico                    20
+New York                      30
+North Carolina                31
+North Dakota                  20
+Ohio                          27
+Oklahoma                      33
+Oregon                        16
+Pennsylvania                  29
+Rhode Island                  95
+South Carolina                31
+South Dakota                  23
+Tennessee                     29
+Texas                         22
+Utah                          19
+Vermont                       34
+Virginia                      26
+Washington                    20
+West Virginia                 49
+Wisconsin                     24
+Wyoming                       23

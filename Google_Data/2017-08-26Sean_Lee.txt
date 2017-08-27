@@ -1,0 +1,52 @@
+                      Sean Lee
+geoName                       
+Alabama                     25
+Alaska                      26
+Arizona                     35
+Arkansas                    33
+California                  36
+Colorado                    32
+Connecticut                 41
+Delaware                    48
+District of Columbia        54
+Florida                     27
+Georgia                     31
+Hawaii                      42
+Idaho                       30
+Illinois                    32
+Indiana                     24
+Iowa                        30
+Kansas                      29
+Kentucky                    28
+Louisiana                   42
+Maine                       28
+Maryland                    46
+Massachusetts               31
+Michigan                    24
+Minnesota                   23
+Mississippi                 36
+Missouri                    28
+Montana                     40
+Nebraska                    34
+Nevada                      35
+New Hampshire               22
+New Jersey                  46
+New Mexico                  58
+New York                    38
+North Carolina              35
+North Dakota                36
+Ohio                        29
+Oklahoma                    46
+Oregon                      22
+Pennsylvania                69
+Rhode Island                31
+South Carolina              32
+South Dakota                36
+Tennessee                   30
+Texas                      100
+Utah                        36
+Vermont                     26
+Virginia                    43
+Washington                  35
+West Virginia               34
+Wisconsin                   28
