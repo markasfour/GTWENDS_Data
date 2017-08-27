@@ -1,53 +1,53 @@
                       Mayweather Vs Mcgregor Fight
 geoName                                           
-Alabama                                         72
-Alaska                                          59
-Arizona                                         78
-Arkansas                                        66
+Alabama                                         68
+Alaska                                          54
+Arizona                                         75
+Arkansas                                        65
 California                                      66
-Colorado                                        61
+Colorado                                        65
 Connecticut                                     50
-Delaware                                        50
-District of Columbia                            57
-Florida                                         64
-Georgia                                         60
-Hawaii                                          72
-Idaho                                           66
+Delaware                                        61
+District of Columbia                            52
+Florida                                         65
+Georgia                                         56
+Hawaii                                          71
+Idaho                                           59
 Illinois                                        57
 Indiana                                         70
-Iowa                                            63
+Iowa                                            56
 Kansas                                          51
-Kentucky                                        59
-Louisiana                                       66
-Maine                                           43
+Kentucky                                        60
+Louisiana                                       61
+Maine                                           41
 Maryland                                        52
-Massachusetts                                   45
-Michigan                                        67
-Minnesota                                       45
+Massachusetts                                   46
+Michigan                                        64
+Minnesota                                       48
 Mississippi                                     61
-Missouri                                        58
-Montana                                         50
-Nebraska                                        79
+Missouri                                        60
+Montana                                         55
+Nebraska                                        75
 Nevada                                         100
 New Hampshire                                   46
-New Jersey                                      57
-New Mexico                                      77
-New York                                        46
-North Carolina                                  68
-North Dakota                                    56
+New Jersey                                      53
+New Mexico                                      85
+New York                                        47
+North Carolina                                  62
+North Dakota                                    64
 Ohio                                            60
-Oklahoma                                        68
-Oregon                                          40
-Pennsylvania                                    58
-Rhode Island                                    66
-South Carolina                                  64
-South Dakota                                    59
+Oklahoma                                        66
+Oregon                                          38
+Pennsylvania                                    52
+Rhode Island                                    73
+South Carolina                                  69
+South Dakota                                    65
 Tennessee                                       61
-Texas                                           76
-Utah                                            65
-Vermont                                         21
-Virginia                                        38
-Washington                                      54
-West Virginia                                   68
-Wisconsin                                       46
-Wyoming                                         60
+Texas                                           72
+Utah                                            61
+Vermont                                         24
+Virginia                                        40
+Washington                                      52
+West Virginia                                   69
+Wisconsin                                       50
+Wyoming                                         68

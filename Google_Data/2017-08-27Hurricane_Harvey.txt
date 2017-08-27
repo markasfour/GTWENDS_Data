@@ -1,53 +1,53 @@
                       Hurricane Harvey
 geoName                               
-Alabama                             10
-Alaska                               7
-Arizona                              5
-Arkansas                            11
-California                           3
-Colorado                             9
-Connecticut                          4
+Alabama                             13
+Alaska                               9
+Arizona                             11
+Arkansas                            17
+California                           6
+Colorado                            13
+Connecticut                          7
 Delaware                             7
-District of Columbia                 8
-Florida                             10
-Georgia                              5
-Hawaii                               3
-Idaho                                4
-Illinois                             5
-Indiana                              4
-Iowa                                 6
-Kansas                               6
-Kentucky                             4
-Louisiana                           54
-Maine                                4
-Maryland                             5
-Massachusetts                        4
-Michigan                             4
-Minnesota                            4
-Mississippi                         18
-Missouri                             7
-Montana                              7
-Nebraska                             7
-Nevada                               5
-New Hampshire                        6
-New Jersey                           5
-New Mexico                          11
-New York                             5
-North Carolina                       6
-North Dakota                         5
-Ohio                                 5
-Oklahoma                            16
-Oregon                               3
-Pennsylvania                         5
-Rhode Island                         4
-South Carolina                       7
-South Dakota                         8
-Tennessee                            7
+District of Columbia                10
+Florida                             14
+Georgia                              8
+Hawaii                               8
+Idaho                                6
+Illinois                             8
+Indiana                              8
+Iowa                                 9
+Kansas                              11
+Kentucky                             7
+Louisiana                           58
+Maine                                8
+Maryland                             8
+Massachusetts                        6
+Michigan                             7
+Minnesota                            7
+Mississippi                         24
+Missouri                             9
+Montana                              9
+Nebraska                            10
+Nevada                               9
+New Hampshire                        8
+New Jersey                           8
+New Mexico                          18
+New York                             6
+North Carolina                      10
+North Dakota                         7
+Ohio                                 8
+Oklahoma                            20
+Oregon                               6
+Pennsylvania                         7
+Rhode Island                        10
+South Carolina                       9
+South Dakota                        10
+Tennessee                           10
 Texas                              100
-Utah                                 5
-Vermont                              6
-Virginia                             5
-Washington                           3
+Utah                                 8
+Vermont                              7
+Virginia                             7
+Washington                           8
 West Virginia                        9
-Wisconsin                            5
+Wisconsin                            7
 Wyoming                             12

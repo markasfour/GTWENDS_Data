@@ -1,0 +1,53 @@
+                      Joe Biden
+geoName                        
+Alabama                      29
+Alaska                       25
+Arizona                      29
+Arkansas                     27
+California                   32
+Colorado                     30
+Connecticut                  42
+Delaware                    100
+District of Columbia         76
+Florida                      30
+Georgia                      30
+Hawaii                       24
+Idaho                        26
+Illinois                     37
+Indiana                      35
+Iowa                         38
+Kansas                       27
+Kentucky                     32
+Louisiana                    27
+Maine                        38
+Maryland                     45
+Massachusetts                45
+Michigan                     34
+Minnesota                    33
+Mississippi                  25
+Missouri                     33
+Montana                      30
+Nebraska                     34
+Nevada                       28
+New Hampshire                39
+New Jersey                   41
+New Mexico                   25
+New York                     42
+North Carolina               33
+North Dakota                 29
+Ohio                         36
+Oklahoma                     26
+Oregon                       26
+Pennsylvania                 45
+Rhode Island                 41
+South Carolina               31
+South Dakota                 27
+Tennessee                    31
+Texas                        27
+Utah                         27
+Vermont                      48
+Virginia                     34
+Washington                   34
+West Virginia                30
+Wisconsin                    33
+Wyoming                      26

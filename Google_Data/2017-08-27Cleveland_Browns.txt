@@ -1,13 +1,13 @@
                       Cleveland Browns
 geoName                               
-Alabama                              5
-Alaska                               5
+Alabama                              4
+Alaska                               4
 Arizona                              5
 Arkansas                             3
 California                           3
 Colorado                             5
 Connecticut                          4
-Delaware                             6
+Delaware                             5
 District of Columbia                 7
 Florida                              5
 Georgia                              5
@@ -21,7 +21,7 @@ Kentucky                             8
 Louisiana                            4
 Maine                                3
 Maryland                             6
-Massachusetts                        4
+Massachusetts                        5
 Michigan                            12
 Minnesota                            5
 Mississippi                          4
@@ -38,7 +38,7 @@ North Dakota                         4
 Ohio                               100
 Oklahoma                             4
 Oregon                               2
-Pennsylvania                        11
+Pennsylvania                        10
 Rhode Island                         4
 South Carolina                       8
 South Dakota                         5

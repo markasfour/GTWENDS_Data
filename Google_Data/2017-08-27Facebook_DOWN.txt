@@ -1,53 +1,53 @@
                       Facebook DOWN
 geoName                            
-Alabama                          76
-Alaska                           68
-Arizona                          63
+Alabama                          83
+Alaska                           65
+Arizona                          68
 Arkansas                         71
-California                       58
-Colorado                         61
-Connecticut                      59
-Delaware                         62
-District of Columbia             45
-Florida                          58
-Georgia                          63
-Hawaii                           58
-Idaho                            70
-Illinois                         61
-Indiana                          68
-Iowa                             69
-Kansas                           59
-Kentucky                         77
-Louisiana                        65
-Maine                            91
-Maryland                         62
-Massachusetts                    61
-Michigan                         67
-Minnesota                        60
-Mississippi                      77
-Missouri                         65
-Montana                          75
-Nebraska                         60
-Nevada                           63
-New Hampshire                    77
-New Jersey                       56
-New Mexico                       69
-New York                         59
+California                       61
+Colorado                         63
+Connecticut                      63
+Delaware                         71
+District of Columbia             49
+Florida                          62
+Georgia                          67
+Hawaii                           60
+Idaho                            71
+Illinois                         65
+Indiana                          72
+Iowa                             77
+Kansas                           65
+Kentucky                         80
+Louisiana                        68
+Maine                           100
+Maryland                         64
+Massachusetts                    64
+Michigan                         70
+Minnesota                        63
+Mississippi                      78
+Missouri                         70
+Montana                          82
+Nebraska                         67
+Nevada                           70
+New Hampshire                    83
+New Jersey                       58
+New Mexico                       73
+New York                         63
 North Carolina                   69
-North Dakota                     67
-Ohio                             68
-Oklahoma                         63
-Oregon                           62
-Pennsylvania                     66
-Rhode Island                     77
-South Carolina                   74
-South Dakota                     64
-Tennessee                        71
-Texas                            55
-Utah                             56
-Vermont                          81
-Virginia                         55
-Washington                       69
-West Virginia                   100
-Wisconsin                        67
-Wyoming                          61
+North Dakota                     70
+Ohio                             73
+Oklahoma                         70
+Oregon                           63
+Pennsylvania                     71
+Rhode Island                     74
+South Carolina                   79
+South Dakota                     65
+Tennessee                        75
+Texas                            57
+Utah                             61
+Vermont                          82
+Virginia                         58
+Washington                       74
+West Virginia                    99
+Wisconsin                        70
+Wyoming                          66

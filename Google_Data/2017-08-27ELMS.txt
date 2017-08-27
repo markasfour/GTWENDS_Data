@@ -1,0 +1,50 @@
+                      ELMS
+geoName                   
+Alabama                  3
+Arizona                  2
+Arkansas                 3
+California               2
+Colorado                 4
+Connecticut             14
+Delaware                 5
+District of Columbia    16
+Florida                  2
+Georgia                  3
+Hawaii                   2
+Idaho                    4
+Illinois                 4
+Indiana                  2
+Iowa                    13
+Kansas                  17
+Kentucky                 2
+Louisiana                4
+Maine                    5
+Maryland               100
+Massachusetts           29
+Michigan                 6
+Minnesota                3
+Mississippi              6
+Missouri                18
+Montana                  2
+Nebraska                 8
+Nevada                   2
+New Hampshire            9
+New Jersey               6
+New Mexico               2
+New York                 5
+North Carolina           4
+Ohio                     9
+Oklahoma                 5
+Oregon                   2
+Pennsylvania             3
+Rhode Island            21
+South Carolina           8
+South Dakota             3
+Tennessee                2
+Texas                    4
+Utah                     4
+Vermont                  7
+Virginia                 7
+Washington               3
+West Virginia            2
+Wisconsin                2

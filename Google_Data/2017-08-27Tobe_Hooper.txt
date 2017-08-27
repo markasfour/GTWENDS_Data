@@ -1,9 +1,9 @@
               Tobe Hooper
 geoName                  
-California            100
+California             97
 Florida                57
-Illinois               76
-New York               94
-Ohio                   91
-Pennsylvania           82
-Texas                  94
+Illinois               77
+New York               86
+Ohio                  100
+Pennsylvania           79
+Texas                  81
