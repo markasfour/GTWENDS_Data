@@ -1,0 +1,46 @@
+                      Oregon State
+geoName                           
+Alabama                          2
+Alaska                           6
+Arizona                          3
+Arkansas                         1
+California                       3
+Colorado                         3
+Connecticut                      1
+District of Columbia             2
+Florida                          1
+Georgia                          1
+Hawaii                           6
+Idaho                           12
+Illinois                         1
+Indiana                          1
+Iowa                             2
+Kansas                           2
+Kentucky                         1
+Louisiana                        1
+Maryland                         1
+Massachusetts                    1
+Michigan                         1
+Minnesota                        2
+Mississippi                      2
+Missouri                         1
+Montana                          6
+Nebraska                         3
+Nevada                           3
+New Jersey                       1
+New Mexico                       2
+New York                         1
+North Carolina                   1
+Ohio                             2
+Oklahoma                         2
+Oregon                         100
+Pennsylvania                     1
+South Carolina                   1
+Tennessee                        1
+Texas                            1
+Utah                             4
+Virginia                         1
+Washington                      17
+West Virginia                    1
+Wisconsin                        2
+Wyoming                          4

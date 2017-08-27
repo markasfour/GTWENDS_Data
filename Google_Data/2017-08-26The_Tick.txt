@@ -1,53 +1,53 @@
                       The Tick
 geoName                       
-Alabama                     54
-Alaska                      46
-Arizona                     43
-Arkansas                    72
-California                  42
-Colorado                    41
-Connecticut                 64
-Delaware                    55
-District of Columbia        46
-Florida                     40
-Georgia                     47
-Hawaii                      33
-Idaho                       49
-Illinois                    46
-Indiana                     55
-Iowa                        48
-Kansas                      51
-Kentucky                    62
-Louisiana                   43
-Maine                      100
-Maryland                    54
-Massachusetts               65
-Michigan                    54
-Minnesota                   54
-Mississippi                 53
-Missouri                    59
-Montana                     53
+Alabama                     50
+Alaska                      33
+Arizona                     40
+Arkansas                    65
+California                  39
+Colorado                    40
+Connecticut                 59
+Delaware                    49
+District of Columbia        43
+Florida                     38
+Georgia                     45
+Hawaii                      30
+Idaho                       50
+Illinois                    44
+Indiana                     53
+Iowa                        46
+Kansas                      48
+Kentucky                    57
+Louisiana                   41
+Maine                       98
+Maryland                    50
+Massachusetts               62
+Michigan                    50
+Minnesota                   50
+Mississippi                 49
+Missouri                    55
+Montana                     51
 Nebraska                    46
-Nevada                      38
-New Hampshire               94
-New Jersey                  55
-New Mexico                  50
-New York                    55
-North Carolina              53
-North Dakota                50
-Ohio                        51
-Oklahoma                    63
-Oregon                      41
-Pennsylvania                67
-Rhode Island                72
-South Carolina              51
+Nevada                      35
+New Hampshire               83
+New Jersey                  50
+New Mexico                  44
+New York                    50
+North Carolina              50
+North Dakota                54
+Ohio                        50
+Oklahoma                    55
+Oregon                      38
+Pennsylvania                65
+Rhode Island                69
+South Carolina              49
 South Dakota                48
-Tennessee                   60
-Texas                       41
-Utah                        45
+Tennessee                   56
+Texas                       38
+Utah                        43
 Vermont                    100
-Virginia                    51
-Washington                  45
-West Virginia               71
-Wisconsin                   62
-Wyoming                     39
+Virginia                    49
+Washington                  42
+West Virginia               58
+Wisconsin                   59
+Wyoming                     44

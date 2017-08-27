@@ -1,0 +1,53 @@
+                      Lukaku
+geoName                     
+Alabama                   35
+Alaska                    15
+Arizona                   36
+Arkansas                  32
+California                64
+Colorado                  38
+Connecticut               98
+Delaware                  61
+District of Columbia      85
+Florida                   61
+Georgia                   52
+Hawaii                    32
+Idaho                     29
+Illinois                  60
+Indiana                   46
+Iowa                      41
+Kansas                    65
+Kentucky                  40
+Louisiana                 37
+Maine                     48
+Maryland                  99
+Massachusetts             71
+Michigan                  51
+Minnesota                 49
+Mississippi               22
+Missouri                  41
+Montana                   35
+Nebraska                  38
+Nevada                    43
+New Hampshire             37
+New Jersey               100
+New Mexico                24
+New York                  87
+North Carolina            51
+North Dakota              43
+Ohio                      47
+Oklahoma                  36
+Oregon                    79
+Pennsylvania              63
+Rhode Island              56
+South Carolina            46
+South Dakota              26
+Tennessee                 39
+Texas                     53
+Utah                      36
+Vermont                   68
+Virginia                  88
+Washington                49
+West Virginia             37
+Wisconsin                 44
+Wyoming                   22

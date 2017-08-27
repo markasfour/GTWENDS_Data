@@ -1,36 +1,36 @@
                       Julian Edelman
 geoName                             
-Alabama                           11
-Alaska                            10
+Alabama                           10
+Alaska                             9
 Arizona                           14
 Arkansas                          10
 California                        14
 Colorado                          15
-Connecticut                       38
-Delaware                          16
-District of Columbia              25
-Florida                           13
+Connecticut                       37
+Delaware                          17
+District of Columbia              24
+Florida                           14
 Georgia                           11
-Hawaii                            15
+Hawaii                            14
 Idaho                             10
 Illinois                          14
 Indiana                           12
 Iowa                              13
-Kansas                            11
+Kansas                            10
 Kentucky                          12
 Louisiana                         12
-Maine                             66
+Maine                             64
 Maryland                          16
 Massachusetts                    100
-Michigan                          13
+Michigan                          14
 Minnesota                         13
-Mississippi                       11
+Mississippi                       12
 Missouri                          11
 Montana                           14
-Nebraska                          14
+Nebraska                          15
 Nevada                            14
 New Hampshire                     84
-New Jersey                        20
+New Jersey                        19
 New Mexico                        13
 New York                          19
 North Carolina                    13
@@ -39,15 +39,15 @@ Ohio                              16
 Oklahoma                          12
 Oregon                             7
 Pennsylvania                      18
-Rhode Island                      99
+Rhode Island                      96
 South Carolina                    13
-South Dakota                      14
+South Dakota                      12
 Tennessee                         12
 Texas                             13
 Utah                              11
-Vermont                           43
+Vermont                           39
 Virginia                          14
-Washington                        14
-West Virginia                     12
+Washington                        13
+West Virginia                     13
 Wisconsin                         13
-Wyoming                           11
+Wyoming                           12

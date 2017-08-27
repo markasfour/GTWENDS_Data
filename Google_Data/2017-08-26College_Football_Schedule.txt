@@ -1,0 +1,53 @@
+                      College Football Schedule
+geoName                                        
+Alabama                                     100
+Alaska                                       13
+Arizona                                      19
+Arkansas                                     31
+California                                   12
+Colorado                                     20
+Connecticut                                  13
+Delaware                                     14
+District of Columbia                         22
+Florida                                      35
+Georgia                                      51
+Hawaii                                       18
+Idaho                                        30
+Illinois                                     16
+Indiana                                      19
+Iowa                                         33
+Kansas                                       20
+Kentucky                                     28
+Louisiana                                    36
+Maine                                        12
+Maryland                                     13
+Massachusetts                                18
+Michigan                                     27
+Minnesota                                    14
+Mississippi                                  61
+Missouri                                     18
+Montana                                      23
+Nebraska                                     52
+Nevada                                       16
+New Hampshire                                13
+New Jersey                                   13
+New Mexico                                   13
+New York                                     12
+North Carolina                               27
+North Dakota                                 14
+Ohio                                         31
+Oklahoma                                     42
+Oregon                                       19
+Pennsylvania                                 19
+Rhode Island                                 12
+South Carolina                               54
+South Dakota                                 20
+Tennessee                                    41
+Texas                                        28
+Utah                                         22
+Vermont                                      12
+Virginia                                     17
+Washington                                   17
+West Virginia                                33
+Wisconsin                                    16
+Wyoming                                      24

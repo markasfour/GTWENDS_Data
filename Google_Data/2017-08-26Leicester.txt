@@ -1,0 +1,53 @@
+                      Leicester
+geoName                        
+Alabama                       9
+Alaska                        9
+Arizona                      10
+Arkansas                     12
+California                   15
+Colorado                     12
+Connecticut                  25
+Delaware                     16
+District of Columbia         20
+Florida                      15
+Georgia                      14
+Hawaii                        8
+Idaho                         8
+Illinois                     17
+Indiana                      12
+Iowa                         11
+Kansas                       24
+Kentucky                      9
+Louisiana                     7
+Maine                        17
+Maryland                     18
+Massachusetts               100
+Michigan                     12
+Minnesota                    13
+Mississippi                   7
+Missouri                     11
+Montana                       7
+Nebraska                     11
+Nevada                       12
+New Hampshire                20
+New Jersey                   19
+New Mexico                   11
+New York                     24
+North Carolina               50
+North Dakota                  9
+Ohio                         12
+Oklahoma                      9
+Oregon                       13
+Pennsylvania                 15
+Rhode Island                 24
+South Carolina               15
+South Dakota                  8
+Tennessee                    14
+Texas                        13
+Utah                         10
+Vermont                      47
+Virginia                     20
+Washington                   13
+West Virginia                10
+Wisconsin                    12
+Wyoming                       9

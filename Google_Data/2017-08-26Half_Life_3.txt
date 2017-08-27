@@ -1,52 +1,52 @@
                       Half Life 3
 geoName                          
-Alabama                        57
-Alaska                         89
-Arizona                        71
-Arkansas                       62
-California                     64
-Colorado                       64
-Connecticut                    71
-Delaware                       54
-District of Columbia           31
-Florida                        57
-Georgia                        47
-Hawaii                         52
-Idaho                          83
-Illinois                       55
-Indiana                        73
-Iowa                           69
-Kansas                         62
-Kentucky                       67
-Louisiana                      53
-Maine                          80
-Maryland                       62
-Massachusetts                  72
-Michigan                       68
-Minnesota                      64
-Mississippi                    39
-Missouri                       60
-Montana                        69
+Alabama                        62
+Alaska                         91
+Arizona                        76
+Arkansas                       63
+California                     68
+Colorado                       67
+Connecticut                    74
+Delaware                       61
+District of Columbia           33
+Florida                        60
+Georgia                        49
+Hawaii                         54
+Idaho                          92
+Illinois                       57
+Indiana                        75
+Iowa                           68
+Kansas                         61
+Kentucky                       71
+Louisiana                      56
+Maine                          92
+Maryland                       66
+Massachusetts                  71
+Michigan                       73
+Minnesota                      67
+Mississippi                    40
+Missouri                       63
+Montana                        77
 Nebraska                       64
-Nevada                         77
-New Hampshire                  94
-New Jersey                     65
-New Mexico                     64
-New York                       56
-North Carolina                 54
-North Dakota                   70
-Ohio                           72
-Oklahoma                       62
-Oregon                         70
-Pennsylvania                   69
-Rhode Island                   76
-South Carolina                 53
-South Dakota                   72
-Tennessee                      59
-Texas                          54
+Nevada                         80
+New Hampshire                  93
+New Jersey                     67
+New Mexico                     70
+New York                       57
+North Carolina                 58
+North Dakota                   75
+Ohio                           74
+Oklahoma                       67
+Oregon                         71
+Pennsylvania                   72
+Rhode Island                   89
+South Carolina                 56
+South Dakota                   76
+Tennessee                      61
+Texas                          56
 Utah                          100
-Vermont                        86
-Virginia                       60
-Washington                     85
-West Virginia                  74
-Wisconsin                      67
+Vermont                        94
+Virginia                       62
+Washington                     88
+West Virginia                  73
+Wisconsin                      70

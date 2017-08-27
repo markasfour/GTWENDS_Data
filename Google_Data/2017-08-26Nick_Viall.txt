@@ -1,53 +1,53 @@
                       Nick Viall
 geoName                         
 Alabama                       39
-Alaska                        26
-Arizona                       42
-Arkansas                      49
-California                    46
-Colorado                      47
-Connecticut                   53
-Delaware                      45
-District of Columbia          45
-Florida                       36
-Georgia                       39
-Hawaii                        41
-Idaho                         43
-Illinois                      63
+Alaska                        28
+Arizona                       41
+Arkansas                      46
+California                    48
+Colorado                      48
+Connecticut                   50
+Delaware                      51
+District of Columbia          48
+Florida                       37
+Georgia                       38
+Hawaii                        37
+Idaho                         45
+Illinois                      64
 Indiana                       49
-Iowa                          55
-Kansas                        41
-Kentucky                      39
-Louisiana                     39
-Maine                         44
-Maryland                      37
-Massachusetts                 58
-Michigan                      48
-Minnesota                     62
-Mississippi                   33
+Iowa                          59
+Kansas                        42
+Kentucky                      42
+Louisiana                     36
+Maine                         49
+Maryland                      39
+Massachusetts                 55
+Michigan                      47
+Minnesota                     66
+Mississippi                   34
 Missouri                      46
-Montana                       30
+Montana                       29
 Nebraska                      55
-Nevada                        34
-New Hampshire                 45
+Nevada                        32
+New Hampshire                 52
 New Jersey                    53
-New Mexico                    30
-New York                      47
-North Carolina                39
-North Dakota                  45
+New Mexico                    32
+New York                      46
+North Carolina                40
+North Dakota                  42
 Ohio                          48
-Oklahoma                      39
-Oregon                        39
+Oklahoma                      38
+Oregon                        37
 Pennsylvania                  53
-Rhode Island                  46
-South Carolina                40
-South Dakota                  40
+Rhode Island                  44
+South Carolina                43
+South Dakota                  49
 Tennessee                     45
 Texas                         36
-Utah                          56
-Vermont                       42
-Virginia                      35
-Washington                    47
-West Virginia                 28
+Utah                          58
+Vermont                       38
+Virginia                      33
+Washington                    49
+West Virginia                 29
 Wisconsin                    100
-Wyoming                       24
+Wyoming                       30

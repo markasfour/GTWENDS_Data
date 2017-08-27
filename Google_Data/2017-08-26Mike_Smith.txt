@@ -1,0 +1,52 @@
+                      Mike Smith
+geoName                         
+Alabama                       40
+Alaska                        25
+Arizona                       45
+Arkansas                      63
+California                    30
+Colorado                      35
+Connecticut                   38
+Delaware                      38
+District of Columbia          43
+Florida                       34
+Georgia                       64
+Hawaii                        22
+Idaho                         31
+Illinois                      40
+Indiana                       42
+Iowa                          38
+Kansas                        40
+Kentucky                     100
+Louisiana                     68
+Maine                         41
+Maryland                      37
+Massachusetts                 38
+Michigan                      42
+Minnesota                     39
+Mississippi                   41
+Missouri                      42
+Montana                       51
+Nebraska                      58
+Nevada                        38
+New Hampshire                 37
+New Jersey                    33
+New Mexico                    29
+New York                      43
+North Carolina                39
+North Dakota                  40
+Ohio                          41
+Oklahoma                      43
+Oregon                        27
+Pennsylvania                  41
+Rhode Island                  36
+South Carolina                39
+South Dakota                  34
+Tennessee                     50
+Texas                         55
+Utah                          30
+Vermont                       46
+Virginia                      32
+Washington                    37
+West Virginia                 43
+Wisconsin                     37

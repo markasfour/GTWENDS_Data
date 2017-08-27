@@ -1,0 +1,51 @@
+                      High School Football Scores
+geoName                                          
+Alabama                                        52
+Alaska                                          5
+Arizona                                        15
+Arkansas                                       41
+California                                      7
+Colorado                                       11
+Connecticut                                     7
+Delaware                                       14
+District of Columbia                           15
+Florida                                        14
+Georgia                                        48
+Hawaii                                         16
+Idaho                                          14
+Illinois                                       23
+Indiana                                        32
+Iowa                                           61
+Kansas                                         29
+Kentucky                                       39
+Louisiana                                      42
+Maine                                          14
+Maryland                                        7
+Massachusetts                                   9
+Michigan                                       27
+Minnesota                                      28
+Mississippi                                    69
+Missouri                                       26
+Montana                                        20
+Nebraska                                       37
+Nevada                                          9
+New Jersey                                      7
+New Mexico                                     21
+New York                                        6
+North Carolina                                 25
+North Dakota                                   21
+Ohio                                           49
+Oklahoma                                       47
+Oregon                                          8
+Pennsylvania                                   17
+Rhode Island                                    5
+South Carolina                                 41
+South Dakota                                   35
+Tennessee                                      35
+Texas                                          37
+Utah                                           17
+Virginia                                       13
+Washington                                     10
+West Virginia                                 100
+Wisconsin                                      27
+Wyoming                                        21
