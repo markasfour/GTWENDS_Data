@@ -1,0 +1,53 @@
+                      ESPN
+geoName                   
+Alabama                 91
+Alaska                  54
+Arizona                 80
+Arkansas                67
+California              74
+Colorado                82
+Connecticut             92
+Delaware                80
+District of Columbia    93
+Florida                 81
+Georgia                 90
+Hawaii                  83
+Idaho                   75
+Illinois                89
+Indiana                 83
+Iowa                    97
+Kansas                  87
+Kentucky                95
+Louisiana               78
+Maine                   68
+Maryland                83
+Massachusetts           88
+Michigan                83
+Minnesota               92
+Mississippi             78
+Missouri                83
+Montana                 74
+Nebraska                98
+Nevada                  91
+New Hampshire           73
+New Jersey              78
+New Mexico              69
+New York                78
+North Carolina          92
+North Dakota            79
+Ohio                   100
+Oklahoma                78
+Oregon                  64
+Pennsylvania            83
+Rhode Island            81
+South Carolina          94
+South Dakota            83
+Tennessee               83
+Texas                   79
+Utah                    70
+Vermont                 75
+Virginia                75
+Washington              81
+West Virginia           81
+Wisconsin               93
+Wyoming                 68

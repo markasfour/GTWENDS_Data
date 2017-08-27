@@ -1,0 +1,53 @@
+                      Depression
+geoName                         
+Alabama                       84
+Alaska                        76
+Arizona                       78
+Arkansas                      91
+California                    71
+Colorado                      76
+Connecticut                   84
+Delaware                      79
+District of Columbia          65
+Florida                       67
+Georgia                       73
+Hawaii                        73
+Idaho                         89
+Illinois                      77
+Indiana                       92
+Iowa                          91
+Kansas                        77
+Kentucky                      86
+Louisiana                     76
+Maine                         92
+Maryland                      81
+Massachusetts                 81
+Michigan                      84
+Minnesota                     83
+Mississippi                   82
+Missouri                      83
+Montana                       83
+Nebraska                      81
+Nevada                        70
+New Hampshire                 87
+New Jersey                    79
+New Mexico                    86
+New York                      73
+North Carolina                80
+North Dakota                  87
+Ohio                          85
+Oklahoma                      78
+Oregon                        62
+Pennsylvania                  85
+Rhode Island                  88
+South Carolina                81
+South Dakota                  90
+Tennessee                     79
+Texas                         72
+Utah                          86
+Vermont                       93
+Virginia                      65
+Washington                    76
+West Virginia                100
+Wisconsin                     85
+Wyoming                       88

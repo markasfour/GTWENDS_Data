@@ -1,0 +1,53 @@
+                      Cotto
+geoName                    
+Alabama                  22
+Alaska                   30
+Arizona                  68
+Arkansas                 26
+California               74
+Colorado                 42
+Connecticut              96
+Delaware                 45
+District of Columbia     74
+Florida                 100
+Georgia                  52
+Hawaii                   43
+Idaho                    21
+Illinois                 57
+Indiana                  20
+Iowa                     16
+Kansas                   33
+Kentucky                 25
+Louisiana                29
+Maine                    10
+Maryland                 36
+Massachusetts            58
+Michigan                 26
+Minnesota                20
+Mississippi              33
+Missouri                 25
+Montana                  15
+Nebraska                 31
+Nevada                   88
+New Hampshire            16
+New Jersey               88
+New Mexico               67
+New York                 90
+North Carolina           31
+North Dakota             20
+Ohio                     18
+Oklahoma                 51
+Oregon                   24
+Pennsylvania             47
+Rhode Island             54
+South Carolina           26
+South Dakota             15
+Tennessee                22
+Texas                    82
+Utah                     26
+Vermont                  10
+Virginia                 34
+Washington               45
+West Virginia            14
+Wisconsin                24
+Wyoming                  21

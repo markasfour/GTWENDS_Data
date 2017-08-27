@@ -1,0 +1,52 @@
+                      Espn Boxing
+geoName                          
+Alabama                        22
+Alaska                         31
+Arizona                        67
+Arkansas                       21
+California                     76
+Colorado                       35
+Connecticut                    40
+Delaware                       41
+District of Columbia           60
+Florida                        44
+Georgia                        33
+Hawaii                         44
+Idaho                          27
+Illinois                       48
+Indiana                        24
+Iowa                           19
+Kansas                         33
+Kentucky                       26
+Louisiana                      32
+Maine                          20
+Maryland                       48
+Massachusetts                  36
+Michigan                       30
+Minnesota                      31
+Mississippi                    21
+Missouri                       31
+Montana                        14
+Nebraska                       37
+Nevada                        100
+New Hampshire                  17
+New Jersey                     51
+New Mexico                     68
+New York                       49
+North Carolina                 25
+North Dakota                   18
+Ohio                           23
+Oklahoma                       31
+Oregon                         18
+Pennsylvania                   34
+Rhode Island                   29
+South Carolina                 25
+South Dakota                    9
+Tennessee                      22
+Texas                          62
+Utah                           20
+Virginia                       30
+Washington                     36
+West Virginia                  21
+Wisconsin                      25
+Wyoming                        20
