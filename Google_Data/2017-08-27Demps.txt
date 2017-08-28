@@ -1,0 +1,52 @@
+                      Demps
+geoName                    
+Alabama                  38
+Alaska                   18
+Arizona                  19
+Arkansas                 22
+California               27
+Colorado                 24
+Connecticut              32
+Delaware                 32
+District of Columbia     39
+Florida                 100
+Georgia                  52
+Hawaii                   35
+Idaho                    17
+Illinois                 40
+Indiana                  22
+Iowa                     27
+Kansas                   31
+Kentucky                 35
+Louisiana                76
+Maine                    36
+Maryland                 48
+Massachusetts            56
+Michigan                 32
+Minnesota                18
+Mississippi              35
+Missouri                 30
+Montana                  11
+Nebraska                 21
+Nevada                   27
+New Hampshire            52
+New Jersey               34
+New Mexico               15
+New York                 31
+North Carolina           32
+North Dakota             14
+Ohio                     21
+Oklahoma                 32
+Oregon                   13
+Pennsylvania             30
+Rhode Island             48
+South Carolina           29
+South Dakota             16
+Tennessee                33
+Texas                    43
+Utah                     12
+Vermont                  34
+Virginia                 31
+Washington               24
+West Virginia            20
+Wisconsin                20

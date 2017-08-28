@@ -1,15 +1,15 @@
                       Port Aransas
 geoName                           
 Alabama                          1
-Alaska                           1
-Arizona                          1
+Alaska                           2
+Arizona                          2
 Arkansas                         5
 California                       1
 Colorado                         5
 Connecticut                      1
 District of Columbia             1
 Florida                          1
-Georgia                          2
+Georgia                          1
 Hawaii                           1
 Idaho                            1
 Illinois                         2
@@ -22,13 +22,13 @@ Maine                            1
 Maryland                         1
 Massachusetts                    1
 Michigan                         1
-Minnesota                        2
+Minnesota                        3
 Mississippi                      1
 Missouri                         3
 Nebraska                         3
 Nevada                           1
 New Jersey                       0
-New Mexico                       9
+New Mexico                       8
 New York                         1
 North Carolina                   1
 Ohio                             1

@@ -1,53 +1,53 @@
                       Dallas McCarver
 geoName                              
-Alabama                            43
-Alaska                             11
+Alabama                            44
+Alaska                             14
 Arizona                            42
-Arkansas                           43
+Arkansas                           39
 California                         31
-Colorado                           30
-Connecticut                        31
-Delaware                           49
-District of Columbia               25
-Florida                            42
-Georgia                            36
-Hawaii                             27
-Idaho                              40
-Illinois                           33
-Indiana                            37
-Iowa                               31
-Kansas                             28
+Colorado                           34
+Connecticut                        32
+Delaware                           38
+District of Columbia               27
+Florida                            44
+Georgia                            39
+Hawaii                             37
+Idaho                              48
+Illinois                           34
+Indiana                            33
+Iowa                               32
+Kansas                             26
 Kentucky                           47
-Louisiana                          45
-Maine                              29
+Louisiana                          41
+Maine                              26
 Maryland                           27
 Massachusetts                      28
-Michigan                           33
-Minnesota                          19
-Mississippi                        53
-Missouri                           30
+Michigan                           34
+Minnesota                          18
+Mississippi                        49
+Missouri                           33
 Montana                            27
-Nebraska                           26
-Nevada                             47
-New Hampshire                      30
-New Jersey                         36
-New Mexico                         30
-New York                           29
-North Carolina                     37
-North Dakota                       40
+Nebraska                           38
+Nevada                             53
+New Hampshire                      29
+New Jersey                         35
+New Mexico                         38
+New York                           31
+North Carolina                     38
+North Dakota                       33
 Ohio                               39
 Oklahoma                           30
-Oregon                             20
+Oregon                             19
 Pennsylvania                       31
-Rhode Island                       31
-South Carolina                     28
-South Dakota                       32
+Rhode Island                       29
+South Carolina                     27
+South Dakota                       14
 Tennessee                         100
-Texas                              40
-Utah                               31
-Vermont                            20
-Virginia                           21
-Washington                         28
-West Virginia                      30
-Wisconsin                          25
-Wyoming                            30
+Texas                              41
+Utah                               32
+Vermont                            12
+Virginia                           24
+Washington                         31
+West Virginia                      41
+Wisconsin                          26
+Wyoming                            34

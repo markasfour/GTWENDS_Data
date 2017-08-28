@@ -1,52 +1,52 @@
                       Miguel Cotto
 geoName                           
-Alabama                         20
-Alaska                          31
-Arizona                         50
-Arkansas                        18
+Alabama                         19
+Alaska                          34
+Arizona                         51
+Arkansas                        17
 California                      54
-Colorado                        30
-Connecticut                     78
-Delaware                        44
+Colorado                        31
+Connecticut                     81
+Delaware                        46
 District of Columbia            60
 Florida                        100
-Georgia                         47
-Hawaii                          39
-Idaho                           11
-Illinois                        49
+Georgia                         45
+Hawaii                          44
+Idaho                           14
+Illinois                        47
 Indiana                         17
-Iowa                            16
+Iowa                            14
 Kansas                          28
-Kentucky                        25
-Louisiana                       24
+Kentucky                        24
+Louisiana                       25
 Maine                            7
 Maryland                        35
 Massachusetts                   59
 Michigan                        28
-Minnesota                       17
-Mississippi                     30
+Minnesota                       16
+Mississippi                     27
 Missouri                        20
-Montana                         15
-Nebraska                        23
-Nevada                          64
-New Hampshire                   11
-New Jersey                      95
-New Mexico                      43
-New York                        88
+Montana                         17
+Nebraska                        24
+Nevada                          65
+New Hampshire                   13
+New Jersey                      91
+New Mexico                      46
+New York                        90
 North Carolina                  26
 Ohio                            17
-Oklahoma                        52
-Oregon                          16
-Pennsylvania                    50
-Rhode Island                    64
+Oklahoma                        50
+Oregon                          15
+Pennsylvania                    51
+Rhode Island                    62
 South Carolina                  25
-South Dakota                    16
+South Dakota                    14
 Tennessee                       18
 Texas                           59
 Utah                            16
-Vermont                          9
-Virginia                        31
-Washington                      29
-West Virginia                   15
-Wisconsin                       22
-Wyoming                         14
+Vermont                          6
+Virginia                        32
+Washington                      28
+West Virginia                   13
+Wisconsin                       23
+Wyoming                         11

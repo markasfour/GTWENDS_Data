@@ -1,53 +1,53 @@
                       Little League World Series 2017
 geoName                                              
-Alabama                                            19
+Alabama                                            20
 Alaska                                              6
-Arizona                                            13
-Arkansas                                           19
-California                                         14
-Colorado                                            9
-Connecticut                                        42
-Delaware                                           52
-District of Columbia                               20
+Arizona                                            15
+Arkansas                                           20
+California                                         15
+Colorado                                            8
+Connecticut                                        44
+Delaware                                           57
+District of Columbia                               23
 Florida                                            13
-Georgia                                            15
-Hawaii                                             24
+Georgia                                            16
+Hawaii                                             23
 Idaho                                              18
 Illinois                                           12
-Indiana                                            25
-Iowa                                               14
+Indiana                                            26
+Iowa                                               17
 Kansas                                              9
-Kentucky                                           23
+Kentucky                                           25
 Louisiana                                          14
-Maine                                              26
-Maryland                                           16
-Massachusetts                                      15
-Michigan                                           25
+Maine                                              27
+Maryland                                           17
+Massachusetts                                      17
+Michigan                                           26
 Minnesota                                          13
 Mississippi                                        16
 Missouri                                            9
-Montana                                            22
-Nebraska                                           28
-Nevada                                             19
-New Hampshire                                      27
-New Jersey                                         34
+Montana                                            26
+Nebraska                                           26
+Nevada                                             17
+New Hampshire                                      29
+New Jersey                                         35
 New Mexico                                         21
-New York                                           13
-North Carolina                                     34
-North Dakota                                       15
+New York                                           14
+North Carolina                                     35
+North Dakota                                       17
 Ohio                                               14
-Oklahoma                                           10
+Oklahoma                                           11
 Oregon                                             19
-Pennsylvania                                       55
-Rhode Island                                       34
-South Carolina                                     21
+Pennsylvania                                       57
+Rhode Island                                       38
+South Carolina                                     23
 South Dakota                                      100
-Tennessee                                          23
-Texas                                              23
+Tennessee                                          22
+Texas                                              25
 Utah                                               13
-Vermont                                            18
+Vermont                                            17
 Virginia                                           13
 Washington                                         18
-West Virginia                                      20
-Wisconsin                                          12
+West Virginia                                      21
+Wisconsin                                          11
 Wyoming                                            11

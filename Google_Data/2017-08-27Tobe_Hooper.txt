@@ -1,9 +1,48 @@
-              Tobe Hooper
-geoName                  
-California             97
-Florida                57
-Illinois               77
-New York               86
-Ohio                  100
-Pennsylvania           79
-Texas                  81
+                      Tobe Hooper
+geoName                          
+Alabama                        21
+Arizona                        35
+Arkansas                       29
+California                     46
+Colorado                       22
+Connecticut                    10
+Delaware                       20
+District of Columbia           21
+Florida                        29
+Georgia                        34
+Hawaii                         29
+Idaho                          58
+Illinois                       43
+Indiana                        43
+Iowa                           27
+Kansas                         25
+Kentucky                       53
+Louisiana                      21
+Maine                          45
+Maryland                       30
+Massachusetts                  31
+Michigan                       27
+Minnesota                      38
+Mississippi                    54
+Missouri                       37
+Montana                        30
+Nebraska                       16
+Nevada                         29
+New Hampshire                  35
+New Jersey                     40
+New Mexico                     32
+New York                       40
+North Carolina                 37
+Ohio                           46
+Oklahoma                       21
+Oregon                         43
+Pennsylvania                   41
+Rhode Island                   61
+South Carolina                 23
+Tennessee                      43
+Texas                          46
+Utah                           19
+Virginia                       25
+Washington                     40
+West Virginia                 100
+Wisconsin                      42

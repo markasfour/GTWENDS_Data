@@ -1,0 +1,52 @@
+                      Wembley
+geoName                      
+Alabama                    55
+Alaska                     58
+Arizona                    61
+Arkansas                   55
+California                 77
+Colorado                   67
+Connecticut                81
+Delaware                   92
+District of Columbia       87
+Florida                    82
+Georgia                    86
+Hawaii                     49
+Idaho                      48
+Illinois                   78
+Indiana                    74
+Iowa                       67
+Kansas                     77
+Kentucky                   63
+Louisiana                  64
+Maine                      69
+Maryland                  100
+Massachusetts              95
+Michigan                   76
+Minnesota                  79
+Mississippi                37
+Missouri                   69
+Montana                    58
+Nebraska                   60
+Nevada                     75
+New Hampshire              84
+New Jersey                 95
+New Mexico                 55
+New York                   99
+North Carolina             78
+North Dakota               69
+Ohio                       89
+Oklahoma                   61
+Oregon                     77
+Pennsylvania               82
+Rhode Island               97
+South Carolina             73
+South Dakota               56
+Tennessee                  62
+Texas                      69
+Utah                       60
+Vermont                    74
+Virginia                   83
+Washington                 87
+West Virginia              52
+Wisconsin                  70

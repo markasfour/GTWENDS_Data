@@ -1,0 +1,53 @@
+                      Fight night
+geoName                          
+Alabama                        50
+Alaska                         55
+Arizona                        69
+Arkansas                       47
+California                     59
+Colorado                       50
+Connecticut                    43
+Delaware                       50
+District of Columbia           59
+Florida                        60
+Georgia                        62
+Hawaii                         89
+Idaho                          46
+Illinois                       51
+Indiana                        47
+Iowa                           48
+Kansas                         47
+Kentucky                       53
+Louisiana                      63
+Maine                          45
+Maryland                       53
+Massachusetts                  44
+Michigan                       52
+Minnesota                      38
+Mississippi                    58
+Missouri                       50
+Montana                        41
+Nebraska                       53
+Nevada                        100
+New Hampshire                  38
+New Jersey                     51
+New Mexico                     79
+New York                       52
+North Carolina                 55
+North Dakota                   50
+Ohio                           50
+Oklahoma                       67
+Oregon                         37
+Pennsylvania                   52
+Rhode Island                   51
+South Carolina                 60
+South Dakota                   52
+Tennessee                      52
+Texas                          60
+Utah                           45
+Vermont                        31
+Virginia                       49
+Washington                     49
+West Virginia                  60
+Wisconsin                      44
+Wyoming                        43

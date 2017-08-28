@@ -1,51 +1,52 @@
                       Gervonta Davis
 geoName                             
-Alabama                            8
-Alaska                            12
-Arizona                            9
-Arkansas                           8
+Alabama                            7
+Alaska                             8
+Arizona                           12
+Arkansas                           7
 California                        12
 Colorado                           6
-Connecticut                       11
-Delaware                          28
-District of Columbia              56
-Florida                           11
-Georgia                           13
-Hawaii                            11
-Idaho                              3
+Connecticut                       12
+Delaware                          26
+District of Columbia              60
+Florida                           12
+Georgia                           15
+Hawaii                            10
+Idaho                              2
 Illinois                          10
-Indiana                            8
-Iowa                               3
-Kansas                             5
-Kentucky                           7
-Louisiana                         15
-Maine                              4
+Indiana                            9
+Iowa                               2
+Kansas                             4
+Kentucky                           6
+Louisiana                         16
+Maine                              5
 Maryland                         100
-Massachusetts                      8
-Michigan                          11
+Massachusetts                      9
+Michigan                          13
 Minnesota                          3
-Mississippi                        7
+Mississippi                       11
 Missouri                          10
+Montana                            4
 Nebraska                           8
-Nevada                            24
-New Hampshire                      3
-New Jersey                        17
-New Mexico                        11
+Nevada                            25
+New Hampshire                      7
+New Jersey                        18
+New Mexico                        14
 New York                          17
-North Carolina                     9
-North Dakota                      12
-Ohio                              10
+North Carolina                    10
+North Dakota                       9
+Ohio                              11
 Oklahoma                           5
-Oregon                             4
-Pennsylvania                      16
-Rhode Island                       7
-South Carolina                     8
-South Dakota                       2
-Tennessee                          6
-Texas                             13
-Utah                               4
-Virginia                          12
-Washington                         4
-West Virginia                      4
+Oregon                             3
+Pennsylvania                      18
+Rhode Island                       8
+South Carolina                     9
+South Dakota                       3
+Tennessee                          7
+Texas                             14
+Utah                               2
+Virginia                          14
+Washington                         5
+West Virginia                      7
 Wisconsin                          4
 Wyoming                            4

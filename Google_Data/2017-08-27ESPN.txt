@@ -1,53 +1,53 @@
                       ESPN
 geoName                   
-Alabama                 93
+Alabama                 92
 Alaska                  54
-Arizona                 81
+Arizona                 80
 Arkansas                67
 California              74
 Colorado                83
-Connecticut             92
-Delaware                81
-District of Columbia    97
-Florida                 82
-Georgia                 93
-Hawaii                  84
+Connecticut             91
+Delaware                80
+District of Columbia    94
+Florida                 81
+Georgia                 91
+Hawaii                  83
 Idaho                   76
-Illinois                89
+Illinois                90
 Indiana                 83
-Iowa                    97
-Kansas                  89
-Kentucky                96
-Louisiana               81
-Maine                   70
+Iowa                    96
+Kansas                  87
+Kentucky                95
+Louisiana               78
+Maine                   69
 Maryland                84
-Massachusetts           91
-Michigan                84
-Minnesota               95
-Mississippi             78
-Missouri                82
+Massachusetts           89
+Michigan                82
+Minnesota               93
+Mississippi             77
+Missouri                81
 Montana                 76
-Nebraska               100
-Nevada                  92
-New Hampshire           74
-New Jersey              79
+Nebraska                99
+Nevada                  91
+New Hampshire           72
+New Jersey              78
 New Mexico              70
-New York                80
+New York                79
 North Carolina          92
-North Dakota            83
+North Dakota            81
 Ohio                   100
-Oklahoma                78
+Oklahoma                79
 Oregon                  64
-Pennsylvania            87
-Rhode Island            82
-South Carolina          96
-South Dakota            84
-Tennessee               83
-Texas                   80
-Utah                    72
-Vermont                 75
-Virginia                76
-Washington              82
-West Virginia           85
-Wisconsin               98
-Wyoming                 70
+Pennsylvania            85
+Rhode Island            80
+South Carolina          95
+South Dakota            83
+Tennessee               82
+Texas                   79
+Utah                    71
+Vermont                 74
+Virginia                74
+Washington              81
+West Virginia           83
+Wisconsin               96
+Wyoming                 68

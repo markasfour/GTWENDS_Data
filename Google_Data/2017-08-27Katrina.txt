@@ -1,0 +1,53 @@
+                      Katrina
+geoName                      
+Alabama                    37
+Alaska                     28
+Arizona                    27
+Arkansas                   32
+California                 32
+Colorado                   27
+Connecticut                33
+Delaware                   33
+District of Columbia       35
+Florida                    30
+Georgia                    31
+Hawaii                     28
+Idaho                      23
+Illinois                   32
+Indiana                    30
+Iowa                       27
+Kansas                     37
+Kentucky                   27
+Louisiana                 100
+Maine                      27
+Maryland                   35
+Massachusetts              31
+Michigan                   28
+Minnesota                  27
+Mississippi                73
+Missouri                   26
+Montana                    22
+Nebraska                   26
+Nevada                     28
+New Hampshire              31
+New Jersey                 36
+New Mexico                 28
+New York                   34
+North Carolina             30
+North Dakota               24
+Ohio                       28
+Oklahoma                   29
+Oregon                     38
+Pennsylvania               29
+Rhode Island               29
+South Carolina             28
+South Dakota               26
+Tennessee                  29
+Texas                      35
+Utah                       24
+Vermont                    26
+Virginia                   90
+Washington                 28
+West Virginia              27
+Wisconsin                  29
+Wyoming                    23

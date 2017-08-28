@@ -1,53 +1,53 @@
                       Joe Biden
 geoName                        
-Alabama                      29
-Alaska                       25
-Arizona                      29
+Alabama                      30
+Alaska                       24
+Arizona                      28
 Arkansas                     27
 California                   32
 Colorado                     30
-Connecticut                  42
+Connecticut                  41
 Delaware                    100
-District of Columbia         76
+District of Columbia         75
 Florida                      30
-Georgia                      30
+Georgia                      29
 Hawaii                       24
-Idaho                        26
+Idaho                        29
 Illinois                     37
-Indiana                      35
-Iowa                         38
-Kansas                       27
-Kentucky                     32
-Louisiana                    27
-Maine                        38
-Maryland                     45
-Massachusetts                45
+Indiana                      34
+Iowa                         36
+Kansas                       25
+Kentucky                     31
+Louisiana                    28
+Maine                        36
+Maryland                     46
+Massachusetts                46
 Michigan                     34
 Minnesota                    33
-Mississippi                  25
-Missouri                     33
-Montana                      30
-Nebraska                     34
-Nevada                       28
-New Hampshire                39
+Mississippi                  24
+Missouri                     32
+Montana                      29
+Nebraska                     32
+Nevada                       27
+New Hampshire                40
 New Jersey                   41
-New Mexico                   25
+New Mexico                   26
 New York                     42
 North Carolina               33
-North Dakota                 29
-Ohio                         36
-Oklahoma                     26
-Oregon                       26
+North Dakota                 30
+Ohio                         35
+Oklahoma                     27
+Oregon                       25
 Pennsylvania                 45
-Rhode Island                 41
+Rhode Island                 43
 South Carolina               31
-South Dakota                 27
-Tennessee                    31
+South Dakota                 29
+Tennessee                    30
 Texas                        27
 Utah                         27
-Vermont                      48
+Vermont                      46
 Virginia                     34
-Washington                   34
-West Virginia                30
-Wisconsin                    33
+Washington                   33
+West Virginia                31
+Wisconsin                    34
 Wyoming                      26

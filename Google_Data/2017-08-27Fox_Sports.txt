@@ -1,0 +1,53 @@
+                      Fox Sports
+geoName                         
+Alabama                       60
+Alaska                        57
+Arizona                       83
+Arkansas                      59
+California                    58
+Colorado                      64
+Connecticut                   53
+Delaware                      57
+District of Columbia          52
+Florida                       56
+Georgia                       59
+Hawaii                        59
+Idaho                         79
+Illinois                      55
+Indiana                       68
+Iowa                          91
+Kansas                        85
+Kentucky                      66
+Louisiana                     55
+Maine                         67
+Maryland                      49
+Massachusetts                 47
+Michigan                      79
+Minnesota                     88
+Mississippi                   56
+Missouri                      94
+Montana                       80
+Nebraska                      85
+Nevada                        68
+New Hampshire                 59
+New Jersey                    49
+New Mexico                    64
+New York                      47
+North Carolina                66
+North Dakota                  97
+Ohio                          82
+Oklahoma                      84
+Oregon                        55
+Pennsylvania                  55
+Rhode Island                  55
+South Carolina                64
+South Dakota                  81
+Tennessee                     60
+Texas                         64
+Utah                          73
+Vermont                       65
+Virginia                      48
+Washington                    70
+West Virginia                 74
+Wisconsin                    100
+Wyoming                       76

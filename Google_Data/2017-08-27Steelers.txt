@@ -1,6 +1,6 @@
                       Steelers
 geoName                       
-Alabama                     12
+Alabama                     11
 Alaska                      17
 Arizona                     21
 Arkansas                    14
@@ -34,14 +34,14 @@ New Jersey                  21
 New Mexico                  35
 New York                    17
 North Carolina              27
-North Dakota                18
-Ohio                        53
+North Dakota                19
+Ohio                        52
 Oklahoma                    13
 Oregon                       8
 Pennsylvania               100
-Rhode Island                16
+Rhode Island                15
 South Carolina              32
-South Dakota                21
+South Dakota                22
 Tennessee                   21
 Texas                       16
 Utah                        16
@@ -50,4 +50,4 @@ Virginia                    29
 Washington                  13
 West Virginia               83
 Wisconsin                   12
-Wyoming                     24
+Wyoming                     23

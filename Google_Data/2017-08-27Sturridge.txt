@@ -1,0 +1,45 @@
+                      Sturridge
+geoName                        
+Alabama                      52
+Arizona                      42
+Arkansas                     46
+California                   65
+Colorado                     47
+Connecticut                  86
+Delaware                     61
+District of Columbia         90
+Florida                      61
+Georgia                      53
+Hawaii                       39
+Illinois                     54
+Indiana                      46
+Iowa                         42
+Kansas                       45
+Kentucky                     40
+Louisiana                    43
+Maine                        57
+Maryland                     80
+Massachusetts                85
+Michigan                     48
+Minnesota                    51
+Mississippi                  33
+Missouri                     44
+Nebraska                     46
+Nevada                       52
+New Hampshire                54
+New Jersey                   92
+New Mexico                   37
+New York                    100
+North Carolina               55
+Ohio                         43
+Oklahoma                     39
+Oregon                       48
+Pennsylvania                 59
+Rhode Island                 57
+South Carolina               55
+Tennessee                    39
+Texas                        49
+Utah                         40
+Virginia                     75
+Washington                   49
+Wisconsin                    40

@@ -1,0 +1,52 @@
+                      Burnley
+geoName                      
+Alabama                    31
+Alaska                     29
+Arizona                    29
+Arkansas                   34
+California                 35
+Colorado                   34
+Connecticut                46
+Delaware                   59
+District of Columbia       54
+Florida                    37
+Georgia                    44
+Hawaii                     26
+Idaho                      34
+Illinois                   36
+Indiana                    39
+Iowa                       37
+Kansas                     50
+Kentucky                   42
+Louisiana                  32
+Maine                      47
+Maryland                   51
+Massachusetts              44
+Michigan                   37
+Minnesota                  34
+Mississippi                39
+Missouri                   43
+Montana                    32
+Nebraska                   37
+Nevada                     46
+New Hampshire              41
+New Jersey                 48
+New Mexico                 40
+New York                   43
+North Carolina             43
+North Dakota               27
+Ohio                       35
+Oklahoma                   32
+Oregon                     48
+Pennsylvania               51
+Rhode Island               40
+South Carolina             43
+South Dakota               35
+Tennessee                  42
+Texas                      35
+Utah                       30
+Vermont                    41
+Virginia                  100
+Washington                 37
+West Virginia              42
+Wisconsin                  37

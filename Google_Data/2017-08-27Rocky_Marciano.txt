@@ -1,53 +1,53 @@
                       Rocky Marciano
 geoName                             
-Alabama                           39
-Alaska                            59
-Arizona                           47
-Arkansas                          47
+Alabama                           42
+Alaska                            57
+Arizona                           49
+Arkansas                          50
 California                        51
 Colorado                          37
 Connecticut                       60
-Delaware                          48
+Delaware                          49
 District of Columbia              61
 Florida                           58
-Georgia                           54
-Hawaii                            53
-Idaho                             38
+Georgia                           52
+Hawaii                            51
+Idaho                             37
 Illinois                          55
-Indiana                           48
+Indiana                           46
 Iowa                              53
-Kansas                            41
-Kentucky                          62
-Louisiana                         67
-Maine                             55
-Maryland                          50
+Kansas                            40
+Kentucky                          57
+Louisiana                         68
+Maine                             52
+Maryland                          51
 Massachusetts                    100
-Michigan                          54
-Minnesota                         39
-Mississippi                       57
+Michigan                          55
+Minnesota                         37
+Mississippi                       52
 Missouri                          51
-Montana                           43
-Nebraska                          51
-Nevada                            71
-New Hampshire                     54
-New Jersey                        76
-New Mexico                        51
-New York                          74
-North Carolina                    46
-North Dakota                      41
-Ohio                              51
-Oklahoma                          59
+Montana                           40
+Nebraska                          50
+Nevada                            68
+New Hampshire                     51
+New Jersey                        74
+New Mexico                        46
+New York                          72
+North Carolina                    47
+North Dakota                      43
+Ohio                              53
+Oklahoma                          60
 Oregon                            31
-Pennsylvania                      66
-Rhode Island                      69
+Pennsylvania                      65
+Rhode Island                      74
 South Carolina                    49
-South Dakota                      35
-Tennessee                         50
+South Dakota                      33
+Tennessee                         49
 Texas                             52
-Utah                              29
-Vermont                           47
-Virginia                          45
-Washington                        38
-West Virginia                     65
+Utah                              30
+Vermont                           50
+Virginia                          44
+Washington                        39
+West Virginia                     63
 Wisconsin                         42
-Wyoming                           34
+Wyoming                           36

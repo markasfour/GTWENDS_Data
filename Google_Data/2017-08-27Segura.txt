@@ -1,0 +1,53 @@
+                      Segura
+geoName                     
+Alabama                   23
+Alaska                    30
+Arizona                   56
+Arkansas                  25
+California                56
+Colorado                  49
+Connecticut               46
+Delaware                  35
+District of Columbia      52
+Florida                   51
+Georgia                   33
+Hawaii                    33
+Idaho                     30
+Illinois                  48
+Indiana                   30
+Iowa                      31
+Kansas                    42
+Kentucky                  25
+Louisiana                 69
+Maine                     25
+Maryland                  34
+Massachusetts             39
+Michigan                  33
+Minnesota                 39
+Mississippi               21
+Missouri                  37
+Montana                   24
+Nebraska                  44
+Nevada                    54
+New Hampshire             27
+New Jersey                47
+New Mexico                69
+New York                  53
+North Carolina            29
+North Dakota              28
+Ohio                      33
+Oklahoma                  38
+Oregon                    60
+Pennsylvania              36
+Rhode Island              43
+South Carolina            30
+South Dakota              27
+Tennessee                 28
+Texas                     59
+Utah                      40
+Vermont                   27
+Virginia                  55
+Washington                55
+West Virginia             19
+Wisconsin                100
+Wyoming                   29

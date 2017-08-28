@@ -1,0 +1,53 @@
+                      Coast Guard
+geoName                          
+Alabama                        26
+Alaska                        100
+Arizona                        13
+Arkansas                       12
+California                     21
+Colorado                       13
+Connecticut                    47
+Delaware                       25
+District of Columbia           86
+Florida                        33
+Georgia                        17
+Hawaii                         46
+Idaho                          16
+Illinois                       12
+Indiana                        12
+Iowa                           10
+Kansas                         11
+Kentucky                       15
+Louisiana                      32
+Maine                          48
+Maryland                       44
+Massachusetts                  38
+Michigan                       29
+Minnesota                      11
+Mississippi                    22
+Missouri                       12
+Montana                        15
+Nebraska                       10
+Nevada                         13
+New Hampshire                  30
+New Jersey                     21
+New Mexico                     13
+New York                       17
+North Carolina                 25
+North Dakota                    9
+Ohio                           16
+Oklahoma                       15
+Oregon                         21
+Pennsylvania                   17
+Rhode Island                   74
+South Carolina                 24
+South Dakota                   10
+Tennessee                      13
+Texas                          15
+Utah                           10
+Vermont                        24
+Virginia                       46
+Washington                     29
+West Virginia                  18
+Wisconsin                      14
+Wyoming                        13

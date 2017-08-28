@@ -1,41 +1,41 @@
                       Cowboys Vs Raiders
 geoName                                 
-Alabama                               11
-Arizona                               55
-Arkansas                              32
-California                            97
+Alabama                               14
+Arizona                               48
+Arkansas                              31
+California                           100
 Colorado                              34
-District of Columbia                  18
+District of Columbia                  19
 Florida                               13
-Georgia                               14
-Hawaii                                31
-Idaho                                 49
-Illinois                              14
-Indiana                               11
-Iowa                                  24
+Georgia                               16
+Hawaii                                35
+Idaho                                 50
+Illinois                              12
+Indiana                                9
+Iowa                                  23
 Kansas                                35
 Kentucky                              11
-Louisiana                             23
-Maryland                              17
+Louisiana                             20
+Maryland                              15
 Massachusetts                          7
-Michigan                               9
-Minnesota                             14
+Michigan                              12
+Minnesota                             13
 Mississippi                           43
-Missouri                              16
+Missouri                              17
 Nebraska                              24
-Nevada                                81
-New Jersey                            19
-New Mexico                           100
-New York                              11
-North Carolina                        19
-Ohio                                   9
-Oklahoma                              35
+Nevada                                91
+New Jersey                            18
+New Mexico                            98
+New York                              12
+North Carolina                        18
+Ohio                                  11
+Oklahoma                              24
 Oregon                                14
 Pennsylvania                          18
 South Carolina                        18
-Tennessee                             16
-Texas                                 68
-Utah                                  49
-Virginia                              20
-Washington                            31
-Wisconsin                             12
+Tennessee                             17
+Texas                                 66
+Utah                                  47
+Virginia                              18
+Washington                            30
+Wisconsin                             11
