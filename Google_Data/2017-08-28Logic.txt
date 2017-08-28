@@ -1,0 +1,53 @@
+                      Logic
+geoName                    
+Alabama                  61
+Alaska                   79
+Arizona                  83
+Arkansas                 66
+California               99
+Colorado                 92
+Connecticut              92
+Delaware                 78
+District of Columbia     72
+Florida                  65
+Georgia                  66
+Hawaii                   72
+Idaho                    80
+Illinois                 78
+Indiana                  78
+Iowa                     75
+Kansas                   69
+Kentucky                 60
+Louisiana                59
+Maine                    81
+Maryland                 91
+Massachusetts            88
+Michigan                 74
+Minnesota                83
+Mississippi              56
+Missouri                 69
+Montana                  76
+Nebraska                 74
+Nevada                   80
+New Hampshire            89
+New Jersey               85
+New Mexico               93
+New York                 83
+North Carolina           73
+North Dakota             67
+Ohio                     71
+Oklahoma                 63
+Oregon                   72
+Pennsylvania             77
+Rhode Island             90
+South Carolina           65
+South Dakota             66
+Tennessee                69
+Texas                    72
+Utah                     91
+Vermont                 100
+Virginia                 74
+Washington               84
+West Virginia            60
+Wisconsin                78
+Wyoming                  68

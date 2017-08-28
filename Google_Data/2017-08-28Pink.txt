@@ -1,0 +1,53 @@
+                      Pink
+geoName                   
+Alabama                 86
+Alaska                  73
+Arizona                 78
+Arkansas                85
+California              80
+Colorado                71
+Connecticut             77
+Delaware                83
+District of Columbia    74
+Florida                 80
+Georgia                 87
+Hawaii                  69
+Idaho                   73
+Illinois                84
+Indiana                 80
+Iowa                    75
+Kansas                  75
+Kentucky                91
+Louisiana               91
+Maine                   72
+Maryland                78
+Massachusetts           76
+Michigan                81
+Minnesota               71
+Mississippi            100
+Missouri                82
+Montana                 69
+Nebraska                78
+Nevada                  85
+New Hampshire           70
+New Jersey              80
+New Mexico              74
+New York                81
+North Carolina          81
+North Dakota            78
+Ohio                    83
+Oklahoma                85
+Oregon                  61
+Pennsylvania            80
+Rhode Island            83
+South Carolina          86
+South Dakota            74
+Tennessee               87
+Texas                   82
+Utah                    78
+Vermont                 66
+Virginia                70
+Washington              75
+West Virginia           94
+Wisconsin               79
+Wyoming                 79

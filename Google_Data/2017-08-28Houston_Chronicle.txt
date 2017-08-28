@@ -1,0 +1,53 @@
+                      Houston Chronicle
+geoName                                
+Alabama                               3
+Alaska                                2
+Arizona                               2
+Arkansas                              4
+California                            2
+Colorado                              5
+Connecticut                           2
+Delaware                              2
+District of Columbia                  5
+Florida                               2
+Georgia                               3
+Hawaii                                3
+Idaho                                 1
+Illinois                              2
+Indiana                               2
+Iowa                                  2
+Kansas                                4
+Kentucky                              3
+Louisiana                            19
+Maine                                 2
+Maryland                              2
+Massachusetts                         3
+Michigan                              1
+Minnesota                             2
+Mississippi                           4
+Missouri                              3
+Montana                               3
+Nebraska                              3
+Nevada                                3
+New Hampshire                         2
+New Jersey                            2
+New Mexico                            6
+New York                              2
+North Carolina                        2
+North Dakota                          2
+Ohio                                  2
+Oklahoma                              8
+Oregon                                2
+Pennsylvania                          2
+Rhode Island                          2
+South Carolina                        2
+South Dakota                          2
+Tennessee                             4
+Texas                               100
+Utah                                  2
+Vermont                               1
+Virginia                              2
+Washington                            2
+West Virginia                         2
+Wisconsin                             2
+Wyoming                               3
