@@ -1,48 +1,49 @@
                       Tobe Hooper
 geoName                          
-Alabama                        21
-Arizona                        35
-Arkansas                       29
-California                     46
-Colorado                       22
-Connecticut                    10
-Delaware                       20
+Alabama                        43
+Arizona                        43
+Arkansas                       78
+California                     65
+Colorado                       44
+Connecticut                    21
+Delaware                       29
 District of Columbia           21
-Florida                        29
-Georgia                        34
-Hawaii                         29
-Idaho                          58
-Illinois                       43
-Indiana                        43
-Iowa                           27
-Kansas                         25
-Kentucky                       53
-Louisiana                      21
-Maine                          45
-Maryland                       30
-Massachusetts                  31
-Michigan                       27
-Minnesota                      38
+Florida                        44
+Georgia                        44
+Hawaii                         28
+Idaho                          85
+Illinois                       59
+Indiana                        58
+Iowa                           31
+Kansas                         59
+Kentucky                      100
+Louisiana                      47
+Maine                          82
+Maryland                       53
+Massachusetts                  47
+Michigan                       42
+Minnesota                      30
 Mississippi                    54
-Missouri                       37
-Montana                        30
-Nebraska                       16
-Nevada                         29
-New Hampshire                  35
-New Jersey                     40
-New Mexico                     32
-New York                       40
-North Carolina                 37
-Ohio                           46
-Oklahoma                       21
-Oregon                         43
-Pennsylvania                   41
-Rhode Island                   61
-South Carolina                 23
-Tennessee                      43
-Texas                          46
-Utah                           19
-Virginia                       25
-Washington                     40
-West Virginia                 100
-Wisconsin                      42
+Missouri                       43
+Montana                        29
+Nebraska                       35
+Nevada                         30
+New Hampshire                  51
+New Jersey                     64
+New Mexico                     46
+New York                       59
+North Carolina                 41
+Ohio                           57
+Oklahoma                       41
+Oregon                         46
+Pennsylvania                   69
+Rhode Island                   70
+South Carolina                 31
+Tennessee                      62
+Texas                          67
+Utah                           58
+Vermont                        89
+Virginia                       36
+Washington                     60
+West Virginia                  68
+Wisconsin                      65

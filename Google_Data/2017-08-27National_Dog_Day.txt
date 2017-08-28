@@ -1,53 +1,53 @@
                       National Dog Day
 geoName                               
-Alabama                             83
-Alaska                              79
-Arizona                             81
-Arkansas                            87
-California                          79
-Colorado                            90
-Connecticut                         78
-Delaware                            68
-District of Columbia                81
-Florida                             72
-Georgia                             68
-Hawaii                              73
-Idaho                               73
-Illinois                            86
-Indiana                             79
-Iowa                                93
-Kansas                              80
-Kentucky                            81
-Louisiana                           80
-Maine                               90
-Maryland                            76
-Massachusetts                       72
-Michigan                            79
-Minnesota                           81
-Mississippi                         77
-Missouri                            88
-Montana                             74
-Nebraska                            96
-Nevada                              82
-New Hampshire                       73
-New Jersey                          81
-New Mexico                          62
-New York                            70
-North Carolina                      83
-North Dakota                       100
-Ohio                                80
-Oklahoma                            77
-Oregon                              53
-Pennsylvania                        82
-Rhode Island                        79
-South Carolina                      83
-South Dakota                        89
-Tennessee                           76
-Texas                               79
-Utah                                74
-Vermont                             77
-Virginia                            63
-Washington                          75
-West Virginia                       98
-Wisconsin                           79
-Wyoming                             65
+Alabama                             78
+Alaska                              80
+Arizona                             72
+Arkansas                            80
+California                          70
+Colorado                            76
+Connecticut                         70
+Delaware                            74
+District of Columbia                73
+Florida                             62
+Georgia                             64
+Hawaii                              72
+Idaho                               62
+Illinois                            79
+Indiana                             74
+Iowa                                80
+Kansas                              67
+Kentucky                            77
+Louisiana                           70
+Maine                               85
+Maryland                            65
+Massachusetts                       68
+Michigan                            74
+Minnesota                           74
+Mississippi                         65
+Missouri                            80
+Montana                             65
+Nebraska                            86
+Nevada                              81
+New Hampshire                       75
+New Jersey                          72
+New Mexico                          53
+New York                            63
+North Carolina                      74
+North Dakota                        86
+Ohio                                75
+Oklahoma                            69
+Oregon                              51
+Pennsylvania                        73
+Rhode Island                        73
+South Carolina                      71
+South Dakota                        81
+Tennessee                           69
+Texas                               72
+Utah                                61
+Vermont                             76
+Virginia                            56
+Washington                          67
+West Virginia                      100
+Wisconsin                           72
+Wyoming                             73

@@ -14,3 +14,4 @@ publish_data.sh
 search_google_data.py
 search_twitter_data.py
 setup.sh
+clean.sh

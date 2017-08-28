@@ -1,53 +1,53 @@
                       VMAs
 geoName                   
-Alabama                 69
-Alaska                  57
+Alabama                 68
+Alaska                  59
 Arizona                 78
 Arkansas                67
 California              82
-Colorado                65
+Colorado                67
 Connecticut             84
-Delaware                73
-District of Columbia    59
-Florida                 73
-Georgia                 69
-Hawaii                  67
+Delaware                72
+District of Columbia    58
+Florida                 75
+Georgia                 70
+Hawaii                  69
 Idaho                   60
 Illinois                76
-Indiana                 75
-Iowa                    84
-Kansas                  70
-Kentucky                75
-Louisiana               79
+Indiana                 74
+Iowa                    85
+Kansas                  71
+Kentucky                77
+Louisiana               78
 Maine                   72
 Maryland                71
 Massachusetts           85
-Michigan                75
-Minnesota               72
-Mississippi             72
-Missouri                81
+Michigan                73
+Minnesota               73
+Mississippi             77
+Missouri                82
 Montana                 57
-Nebraska                69
-Nevada                  87
+Nebraska                72
+Nevada                  86
 New Hampshire           73
-New Jersey              93
+New Jersey              96
 New Mexico              64
 New York               100
-North Carolina          67
-North Dakota            75
-Ohio                    74
-Oklahoma                90
+North Carolina          66
+North Dakota            76
+Ohio                    75
+Oklahoma                93
 Oregon                  48
-Pennsylvania            83
-Rhode Island            89
-South Carolina          68
-South Dakota            64
-Tennessee               85
-Texas                   69
-Utah                    83
-Vermont                 68
-Virginia                69
-Washington              73
-West Virginia           78
-Wisconsin               66
-Wyoming                 59
+Pennsylvania            84
+Rhode Island            87
+South Carolina          69
+South Dakota            62
+Tennessee               87
+Texas                   71
+Utah                    81
+Vermont                 67
+Virginia                68
+Washington              74
+West Virginia           79
+Wisconsin               67
+Wyoming                 61

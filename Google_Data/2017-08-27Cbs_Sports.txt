@@ -1,0 +1,53 @@
+                      Cbs Sports
+geoName                         
+Alabama                       70
+Alaska                        45
+Arizona                       57
+Arkansas                      50
+California                    40
+Colorado                      67
+Connecticut                   75
+Delaware                      81
+District of Columbia          61
+Florida                       52
+Georgia                       48
+Hawaii                        52
+Idaho                         65
+Illinois                      71
+Indiana                       68
+Iowa                          82
+Kansas                        77
+Kentucky                      89
+Louisiana                     52
+Maine                         60
+Maryland                      71
+Massachusetts                 78
+Michigan                      72
+Minnesota                     77
+Mississippi                   49
+Missouri                      69
+Montana                       61
+Nebraska                      71
+Nevada                        72
+New Hampshire                 78
+New Jersey                    83
+New Mexico                    55
+New York                      65
+North Carolina                62
+North Dakota                  73
+Ohio                          90
+Oklahoma                      47
+Oregon                        36
+Pennsylvania                  82
+Rhode Island                  85
+South Carolina                57
+South Dakota                  71
+Tennessee                     62
+Texas                         38
+Utah                          48
+Vermont                       65
+Virginia                      49
+Washington                    49
+West Virginia                 63
+Wisconsin                    100
+Wyoming                       68

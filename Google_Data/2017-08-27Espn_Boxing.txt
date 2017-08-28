@@ -1,52 +1,52 @@
                       Espn Boxing
 geoName                          
-Alabama                        22
-Alaska                         31
-Arizona                        67
-Arkansas                       21
-California                     76
-Colorado                       35
-Connecticut                    40
-Delaware                       41
-District of Columbia           60
-Florida                        44
+Alabama                        21
+Alaska                         30
+Arizona                        65
+Arkansas                       24
+California                     75
+Colorado                       34
+Connecticut                    38
+Delaware                       35
+District of Columbia           58
+Florida                        43
 Georgia                        33
-Hawaii                         44
+Hawaii                         43
 Idaho                          27
-Illinois                       48
-Indiana                        24
-Iowa                           19
-Kansas                         33
-Kentucky                       26
-Louisiana                      32
-Maine                          20
-Maryland                       48
-Massachusetts                  36
+Illinois                       50
+Indiana                        23
+Iowa                           20
+Kansas                         31
+Kentucky                       23
+Louisiana                      31
+Maine                          15
+Maryland                       49
+Massachusetts                  34
 Michigan                       30
 Minnesota                      31
-Mississippi                    21
+Mississippi                    22
 Missouri                       31
-Montana                        14
-Nebraska                       37
+Montana                        16
+Nebraska                       34
 Nevada                        100
 New Hampshire                  17
-New Jersey                     51
-New Mexico                     68
+New Jersey                     52
+New Mexico                     67
 New York                       49
 North Carolina                 25
 North Dakota                   18
 Ohio                           23
-Oklahoma                       31
+Oklahoma                       30
 Oregon                         18
-Pennsylvania                   34
-Rhode Island                   29
+Pennsylvania                   33
+Rhode Island                   25
 South Carolina                 25
-South Dakota                    9
-Tennessee                      22
+South Dakota                   11
+Tennessee                      23
 Texas                          62
-Utah                           20
+Utah                           21
 Virginia                       30
 Washington                     36
-West Virginia                  21
+West Virginia                  20
 Wisconsin                      25
-Wyoming                        20
+Wyoming                        17

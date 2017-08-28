@@ -1,0 +1,53 @@
+                      Brian Hoyer
+geoName                          
+Alabama                         9
+Alaska                         10
+Arizona                        17
+Arkansas                       11
+California                     13
+Colorado                       17
+Connecticut                    15
+Delaware                       11
+District of Columbia           19
+Florida                        11
+Georgia                        11
+Hawaii                         11
+Idaho                           9
+Illinois                       23
+Indiana                        17
+Iowa                           17
+Kansas                         11
+Kentucky                       14
+Louisiana                      12
+Maine                          13
+Maryland                       16
+Massachusetts                  22
+Michigan                       27
+Minnesota                      16
+Mississippi                    10
+Missouri                       13
+Montana                        13
+Nebraska                       15
+Nevada                         15
+New Hampshire                  19
+New Jersey                     16
+New Mexico                     12
+New York                       14
+North Carolina                 13
+North Dakota                   18
+Ohio                          100
+Oklahoma                       13
+Oregon                          8
+Pennsylvania                   22
+Rhode Island                   22
+South Carolina                 13
+South Dakota                   13
+Tennessee                      11
+Texas                          22
+Utah                            9
+Vermont                        12
+Virginia                       14
+Washington                     12
+West Virginia                  23
+Wisconsin                      19
+Wyoming                        15

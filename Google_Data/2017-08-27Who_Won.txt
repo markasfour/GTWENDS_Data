@@ -1,0 +1,53 @@
+                      Who Won
+geoName                      
+Alabama                    90
+Alaska                     60
+Arizona                    79
+Arkansas                   88
+California                 63
+Colorado                   70
+Connecticut                72
+Delaware                   81
+District of Columbia       74
+Florida                    80
+Georgia                    92
+Hawaii                     59
+Idaho                      78
+Illinois                   78
+Indiana                    94
+Iowa                       86
+Kansas                     73
+Kentucky                   95
+Louisiana                  82
+Maine                      77
+Maryland                   69
+Massachusetts              69
+Michigan                   87
+Minnesota                  71
+Mississippi                96
+Missouri                   84
+Montana                    76
+Nebraska                   81
+Nevada                     81
+New Hampshire              78
+New Jersey                 75
+New Mexico                 75
+New York                   63
+North Carolina             91
+North Dakota               75
+Ohio                       88
+Oklahoma                   84
+Oregon                     48
+Pennsylvania               82
+Rhode Island               74
+South Carolina             97
+South Dakota               79
+Tennessee                  90
+Texas                      75
+Utah                       73
+Vermont                    74
+Virginia                   68
+Washington                 65
+West Virginia             100
+Wisconsin                  81
+Wyoming                    80

@@ -1,0 +1,53 @@
+                      Bradford
+geoName                       
+Alabama                     33
+Alaska                      14
+Arizona                     16
+Arkansas                    37
+California                  14
+Colorado                    20
+Connecticut                 20
+Delaware                    34
+District of Columbia        24
+Florida                     22
+Georgia                     21
+Hawaii                      10
+Idaho                       15
+Illinois                    20
+Indiana                     23
+Iowa                        17
+Kansas                      20
+Kentucky                    23
+Louisiana                   19
+Maine                       36
+Maryland                    20
+Massachusetts               40
+Michigan                    21
+Minnesota                   22
+Mississippi                 27
+Missouri                    27
+Montana                     19
+Nebraska                    16
+Nevada                      17
+New Hampshire               71
+New Jersey                  22
+New Mexico                  16
+New York                    21
+North Carolina              25
+North Dakota                21
+Ohio                        25
+Oklahoma                    35
+Oregon                      12
+Pennsylvania                74
+Rhode Island                33
+South Carolina              22
+South Dakota                18
+Tennessee                   30
+Texas                       17
+Utah                        16
+Vermont                    100
+Virginia                    17
+Washington                  14
+West Virginia               24
+Wisconsin                   29
+Wyoming                     21
