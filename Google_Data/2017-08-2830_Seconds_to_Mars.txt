@@ -1,53 +1,53 @@
                       30 Seconds to Mars
 geoName                                 
-Alabama                               52
-Alaska                                51
+Alabama                               54
+Alaska                                61
 Arizona                               79
-Arkansas                              66
-California                            71
-Colorado                              77
-Connecticut                           58
-Delaware                              66
-District of Columbia                  48
-Florida                               70
-Georgia                               60
-Hawaii                                55
-Idaho                                 62
-Illinois                              67
-Indiana                               74
-Iowa                                  67
+Arkansas                              69
+California                            73
+Colorado                              79
+Connecticut                           62
+Delaware                              71
+District of Columbia                  51
+Florida                               75
+Georgia                               65
+Hawaii                                57
+Idaho                                 68
+Illinois                              71
+Indiana                               77
+Iowa                                  65
 Kansas                                65
-Kentucky                              66
-Louisiana                             67
-Maine                                 62
-Maryland                              58
+Kentucky                              72
+Louisiana                             70
+Maine                                 66
+Maryland                              63
 Massachusetts                         60
-Michigan                              67
+Michigan                              70
 Minnesota                             61
-Mississippi                           54
-Missouri                              71
-Montana                               60
-Nebraska                              67
-Nevada                                86
-New Hampshire                         59
-New Jersey                            68
-New Mexico                            65
-New York                              62
-North Carolina                        59
-North Dakota                          70
-Ohio                                  68
-Oklahoma                              78
-Oregon                                60
-Pennsylvania                          73
-Rhode Island                          71
-South Carolina                        57
-South Dakota                          52
+Mississippi                           56
+Missouri                              73
+Montana                               57
+Nebraska                              64
+Nevada                                92
+New Hampshire                         64
+New Jersey                            70
+New Mexico                            72
+New York                              66
+North Carolina                        61
+North Dakota                          66
+Ohio                                  74
+Oklahoma                              83
+Oregon                                62
+Pennsylvania                          78
+Rhode Island                          72
+South Carolina                        61
+South Dakota                          53
 Tennessee                             70
-Texas                                 72
+Texas                                 75
 Utah                                 100
-Vermont                               53
-Virginia                              61
-Washington                            57
-West Virginia                         67
-Wisconsin                             62
-Wyoming                               67
+Vermont                               51
+Virginia                              64
+Washington                            60
+West Virginia                         72
+Wisconsin                             65
+Wyoming                               73

@@ -1,53 +1,53 @@
                       Shawn Mendes
 geoName                           
-Alabama                         68
-Alaska                          48
+Alabama                         67
+Alaska                          49
 Arizona                         83
-Arkansas                        70
-California                      81
-Colorado                        64
-Connecticut                     90
-Delaware                        68
-District of Columbia            62
-Florida                         72
+Arkansas                        71
+California                      80
+Colorado                        63
+Connecticut                     88
+Delaware                        70
+District of Columbia            61
+Florida                         71
 Georgia                         65
-Hawaii                          58
-Idaho                           71
-Illinois                        78
-Indiana                         76
-Iowa                            74
+Hawaii                          56
+Idaho                           69
+Illinois                        77
+Indiana                         77
+Iowa                            73
 Kansas                          59
-Kentucky                        63
-Louisiana                       53
-Maine                           78
-Maryland                        59
-Massachusetts                   76
-Michigan                        75
-Minnesota                       74
-Mississippi                     61
-Missouri                        62
-Montana                         52
-Nebraska                        85
-Nevada                          72
-New Hampshire                   87
+Kentucky                        64
+Louisiana                       52
+Maine                           76
+Maryland                        60
+Massachusetts                   74
+Michigan                        73
+Minnesota                       73
+Mississippi                     59
+Missouri                        61
+Montana                         50
+Nebraska                        84
+Nevada                          66
+New Hampshire                   85
 New Jersey                     100
-New Mexico                      62
-New York                        72
-North Carolina                  63
-North Dakota                    63
-Ohio                            74
-Oklahoma                        59
-Oregon                          50
-Pennsylvania                    82
+New Mexico                      61
+New York                        70
+North Carolina                  61
+North Dakota                    59
+Ohio                            75
+Oklahoma                        60
+Oregon                          49
+Pennsylvania                    84
 Rhode Island                    88
-South Carolina                  67
-South Dakota                    70
-Tennessee                       66
-Texas                           80
-Utah                            79
-Vermont                         64
-Virginia                        54
+South Carolina                  69
+South Dakota                    74
+Tennessee                       68
+Texas                           79
+Utah                            78
+Vermont                         66
+Virginia                        53
 Washington                      66
-West Virginia                   72
-Wisconsin                       80
-Wyoming                         64
+West Virginia                   73
+Wisconsin                       79
+Wyoming                         65

@@ -1,0 +1,53 @@
+                      Burfict
+geoName                      
+Alabama                    17
+Alaska                     14
+Arizona                    47
+Arkansas                   14
+California                 19
+Colorado                   24
+Connecticut                23
+Delaware                   26
+District of Columbia       30
+Florida                    16
+Georgia                    19
+Hawaii                     22
+Idaho                      16
+Illinois                   18
+Indiana                    28
+Iowa                       22
+Kansas                     16
+Kentucky                   60
+Louisiana                  15
+Maine                      23
+Maryland                   34
+Massachusetts              30
+Michigan                   25
+Minnesota                  18
+Mississippi                17
+Missouri                   16
+Montana                    24
+Nebraska                   19
+Nevada                     22
+New Hampshire              29
+New Jersey                 21
+New Mexico                 17
+New York                   18
+North Carolina             27
+North Dakota               25
+Ohio                      100
+Oklahoma                   15
+Oregon                     14
+Pennsylvania               60
+Rhode Island               27
+South Carolina             23
+South Dakota               27
+Tennessee                  18
+Texas                      16
+Utah                       17
+Vermont                    24
+Virginia                   23
+Washington                 21
+West Virginia              44
+Wisconsin                  20
+Wyoming                    21

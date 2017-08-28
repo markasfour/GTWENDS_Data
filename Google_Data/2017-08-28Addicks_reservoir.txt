@@ -1,27 +1,26 @@
                 Addicks reservoir
 geoName                          
-Arizona                         1
-Arkansas                        4
+Arizona                         2
+Arkansas                        8
 California                      0
-Colorado                        1
+Colorado                        3
 Florida                         1
 Georgia                         1
-Illinois                        1
-Louisiana                      11
-Maryland                        4
-Massachusetts                   1
-Michigan                        1
-Mississippi                     4
+Illinois                        0
+Indiana                         2
+Louisiana                      12
+Maryland                        3
+Minnesota                       2
+Mississippi                     6
+Missouri                        3
 New Jersey                      1
-New York                        0
-North Carolina                  1
+New York                        1
 Ohio                            2
 Oklahoma                        2
 Pennsylvania                    1
-South Carolina                  4
-Tennessee                       1
+South Carolina                  3
+Tennessee                       3
 Texas                         100
-Utah                            6
-Virginia                        1
-Washington                      1
+Virginia                        2
+Washington                      2
 Wisconsin                       1

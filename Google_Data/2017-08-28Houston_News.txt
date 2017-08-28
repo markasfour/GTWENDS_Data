@@ -1,0 +1,53 @@
+                      Houston News
+geoName                           
+Alabama                          5
+Alaska                           4
+Arizona                          3
+Arkansas                         4
+California                       2
+Colorado                         5
+Connecticut                      2
+Delaware                         2
+District of Columbia             4
+Florida                          3
+Georgia                          5
+Hawaii                           3
+Idaho                            2
+Illinois                         3
+Indiana                          2
+Iowa                             2
+Kansas                           6
+Kentucky                         4
+Louisiana                       20
+Maine                            2
+Maryland                         2
+Massachusetts                    2
+Michigan                         2
+Minnesota                        3
+Mississippi                      6
+Missouri                         4
+Montana                          3
+Nebraska                         2
+Nevada                           3
+New Hampshire                    2
+New Jersey                       2
+New Mexico                       5
+New York                         2
+North Carolina                   3
+North Dakota                     2
+Ohio                             2
+Oklahoma                         9
+Oregon                           2
+Pennsylvania                     3
+Rhode Island                     2
+South Carolina                   3
+South Dakota                     1
+Tennessee                        4
+Texas                          100
+Utah                             2
+Vermont                          1
+Virginia                         2
+Washington                       2
+West Virginia                    2
+Wisconsin                        2
+Wyoming                          2

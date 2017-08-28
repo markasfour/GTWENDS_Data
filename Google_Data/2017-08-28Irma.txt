@@ -1,0 +1,53 @@
+                      Irma
+geoName                   
+Alabama                 17
+Alaska                  21
+Arizona                 30
+Arkansas                13
+California              27
+Colorado                28
+Connecticut             20
+Delaware                18
+District of Columbia    21
+Florida                 22
+Georgia                 16
+Hawaii                  17
+Idaho                   18
+Illinois                24
+Indiana                 21
+Iowa                    20
+Kansas                  23
+Kentucky                15
+Louisiana               30
+Maine                   21
+Maryland                20
+Massachusetts           22
+Michigan                17
+Minnesota               17
+Mississippi             15
+Missouri                19
+Montana                 26
+Nebraska                15
+Nevada                  23
+New Hampshire           14
+New Jersey              19
+New Mexico              24
+New York                22
+North Carolina          18
+North Dakota            18
+Ohio                    17
+Oklahoma                18
+Oregon                  41
+Pennsylvania            19
+Rhode Island            17
+South Carolina          15
+South Dakota            18
+Tennessee               15
+Texas                   33
+Utah                    17
+Vermont                 20
+Virginia                23
+Washington              18
+West Virginia           20
+Wisconsin               24
+Wyoming                100

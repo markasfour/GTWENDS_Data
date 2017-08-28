@@ -1,0 +1,53 @@
+                      USS McCain
+geoName                         
+Alabama                       36
+Alaska                        34
+Arizona                       42
+Arkansas                      36
+California                    37
+Colorado                      32
+Connecticut                   40
+Delaware                      25
+District of Columbia          66
+Florida                       34
+Georgia                       22
+Hawaii                       100
+Idaho                         33
+Illinois                      30
+Indiana                       29
+Iowa                          20
+Kansas                        27
+Kentucky                      28
+Louisiana                     28
+Maine                         49
+Maryland                      53
+Massachusetts                 27
+Michigan                      28
+Minnesota                     22
+Mississippi                   40
+Missouri                      29
+Montana                       29
+Nebraska                      26
+Nevada                        30
+New Hampshire                 41
+New Jersey                    29
+New Mexico                    30
+New York                      20
+North Carolina                30
+North Dakota                  23
+Ohio                          32
+Oklahoma                      25
+Oregon                        26
+Pennsylvania                  31
+Rhode Island                  71
+South Carolina                49
+South Dakota                  26
+Tennessee                     32
+Texas                         27
+Utah                          26
+Vermont                       49
+Virginia                      63
+Washington                    44
+West Virginia                 22
+Wisconsin                     24
+Wyoming                       31

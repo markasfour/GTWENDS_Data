@@ -1,53 +1,53 @@
                       Fifth Harmony
 geoName                            
-Alabama                          55
-Alaska                           37
+Alabama                          58
+Alaska                           38
 Arizona                          58
-Arkansas                         55
-California                       72
+Arkansas                         57
+California                       74
 Colorado                         39
-Connecticut                      61
-Delaware                         61
-District of Columbia             49
-Florida                          61
-Georgia                          55
+Connecticut                      62
+Delaware                         64
+District of Columbia             50
+Florida                          62
+Georgia                          58
 Hawaii                          100
-Idaho                            34
+Idaho                            35
 Illinois                         53
-Indiana                          53
-Iowa                             43
-Kansas                           44
-Kentucky                         44
-Louisiana                        58
-Maine                            46
-Maryland                         59
+Indiana                          51
+Iowa                             45
+Kansas                           43
+Kentucky                         47
+Louisiana                        60
+Maine                            50
+Maryland                         61
 Massachusetts                    55
-Michigan                         50
-Minnesota                        43
-Mississippi                      51
-Missouri                         46
-Montana                          28
-Nebraska                         47
-Nevada                           68
+Michigan                         52
+Minnesota                        46
+Mississippi                      52
+Missouri                         45
+Montana                          29
+Nebraska                         49
+Nevada                           70
 New Hampshire                    47
-New Jersey                       71
-New Mexico                       56
-New York                         64
-North Carolina                   52
-North Dakota                     37
-Ohio                             52
-Oklahoma                         44
+New Jersey                       73
+New Mexico                       57
+New York                         66
+North Carolina                   54
+North Dakota                     34
+Ohio                             53
+Oklahoma                         46
 Oregon                           33
-Pennsylvania                     57
-Rhode Island                     78
-South Carolina                   53
-South Dakota                     38
-Tennessee                        49
-Texas                            62
-Utah                             47
+Pennsylvania                     58
+Rhode Island                     82
+South Carolina                   56
+South Dakota                     42
+Tennessee                        51
+Texas                            64
+Utah                             49
 Vermont                          35
-Virginia                         48
-Washington                       42
-West Virginia                    40
-Wisconsin                        42
-Wyoming                          36
+Virginia                         49
+Washington                       43
+West Virginia                    44
+Wisconsin                        43
+Wyoming                          41

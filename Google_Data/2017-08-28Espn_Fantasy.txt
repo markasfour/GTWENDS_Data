@@ -1,53 +1,53 @@
                       Espn Fantasy
 geoName                           
 Alabama                         35
-Alaska                          34
+Alaska                          33
 Arizona                         47
 Arkansas                        36
 California                      40
-Colorado                        63
-Connecticut                     60
-Delaware                        68
+Colorado                        64
+Connecticut                     61
+Delaware                        69
 District of Columbia            53
-Florida                         41
+Florida                         40
 Georgia                         39
 Hawaii                          42
-Idaho                           42
-Illinois                        66
+Idaho                           41
+Illinois                        65
 Indiana                         60
-Iowa                            66
-Kansas                          45
-Kentucky                        52
+Iowa                            67
+Kansas                          46
+Kentucky                        53
 Louisiana                       51
-Maine                           56
+Maine                           54
 Maryland                        56
-Massachusetts                   69
+Massachusetts                   71
 Michigan                        58
 Minnesota                      100
-Mississippi                     37
-Missouri                        55
+Mississippi                     36
+Missouri                        54
 Montana                         55
-Nebraska                        58
+Nebraska                        59
 Nevada                          41
 New Hampshire                   63
 New Jersey                      62
-New Mexico                      39
+New Mexico                      38
 New York                        53
-North Carolina                  46
-North Dakota                    79
-Ohio                            65
-Oklahoma                        44
+North Carolina                  45
+North Dakota                    81
+Ohio                            67
+Oklahoma                        43
 Oregon                          31
-Pennsylvania                    72
-Rhode Island                    74
+Pennsylvania                    74
+Rhode Island                    73
 South Carolina                  41
-South Dakota                    67
+South Dakota                    69
 Tennessee                       42
 Texas                           40
-Utah                            37
-Vermont                         54
+Utah                            36
+Vermont                         55
 Virginia                        43
-Washington                      54
+Washington                      55
 West Virginia                   46
-Wisconsin                       84
-Wyoming                         50
+Wisconsin                       85
+Wyoming                         48
