@@ -1,0 +1,53 @@
+                      Peggy
+geoName                    
+Alabama                  95
+Alaska                   82
+Arizona                  76
+Arkansas                 84
+California               80
+Colorado                 78
+Connecticut              86
+Delaware                 87
+District of Columbia     96
+Florida                  98
+Georgia                  78
+Hawaii                   76
+Idaho                    78
+Illinois                100
+Indiana                  84
+Iowa                     87
+Kansas                   75
+Kentucky                 92
+Louisiana                84
+Maine                    98
+Maryland                 89
+Massachusetts            90
+Michigan                 75
+Minnesota                90
+Mississippi              81
+Missouri                 93
+Montana                  96
+Nebraska                 92
+Nevada                   75
+New Hampshire            95
+New Jersey               81
+New Mexico               84
+New York                 86
+North Carolina           86
+North Dakota             90
+Ohio                     89
+Oklahoma                 90
+Oregon                   69
+Pennsylvania             86
+Rhode Island             83
+South Carolina           87
+South Dakota             87
+Tennessee                97
+Texas                    73
+Utah                     78
+Vermont                  99
+Virginia                 73
+Washington               85
+West Virginia            89
+Wisconsin                91
+Wyoming                  84

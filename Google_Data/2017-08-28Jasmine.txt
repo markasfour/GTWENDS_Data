@@ -1,0 +1,53 @@
+                      Jasmine
+geoName                      
+Alabama                    81
+Alaska                     61
+Arizona                    78
+Arkansas                   63
+California                 97
+Colorado                   72
+Connecticut                70
+Delaware                   83
+District of Columbia       77
+Florida                    89
+Georgia                    91
+Hawaii                    100
+Idaho                      54
+Illinois                   72
+Indiana                    62
+Iowa                       52
+Kansas                     58
+Kentucky                   67
+Louisiana                  90
+Maine                      58
+Maryland                   85
+Massachusetts              73
+Michigan                   64
+Minnesota                  63
+Mississippi                82
+Missouri                   63
+Montana                    53
+Nebraska                   56
+Nevada                     93
+New Hampshire              60
+New Jersey                 79
+New Mexico                 72
+New York                   83
+North Carolina             78
+North Dakota               50
+Ohio                       63
+Oklahoma                   67
+Oregon                     62
+Pennsylvania               70
+Rhode Island               72
+South Carolina             94
+South Dakota               48
+Tennessee                  71
+Texas                      77
+Utah                       68
+Vermont                    57
+Virginia                   71
+Washington                 75
+West Virginia              52
+Wisconsin                  56
+Wyoming                    49

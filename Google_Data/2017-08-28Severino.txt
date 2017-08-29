@@ -1,0 +1,43 @@
+                      Severino
+geoName                       
+Alabama                     10
+Arizona                     15
+California                  17
+Colorado                    12
+Connecticut                 76
+Delaware                    22
+District of Columbia        49
+Florida                     34
+Georgia                     12
+Hawaii                      18
+Illinois                    29
+Indiana                     11
+Iowa                        17
+Kansas                      16
+Kentucky                     8
+Louisiana                    9
+Maine                       30
+Maryland                    29
+Massachusetts               44
+Michigan                    14
+Minnesota                   12
+Missouri                    15
+Nebraska                    12
+Nevada                      38
+New Hampshire               58
+New Jersey                 100
+New York                    78
+North Carolina              14
+Ohio                        20
+Oklahoma                    12
+Oregon                      20
+Pennsylvania                42
+Rhode Island                53
+South Carolina              15
+Tennessee                   11
+Texas                       14
+Utah                         9
+Vermont                     23
+Virginia                    21
+Washington                  14
+Wisconsin                   15

@@ -1,53 +1,53 @@
                       Taylor Swift
 geoName                           
-Alabama                         67
+Alabama                         65
 Alaska                          59
-Arizona                         69
-Arkansas                        65
-California                      70
+Arizona                         67
+Arkansas                        64
+California                      69
 Colorado                        68
-Connecticut                     79
-Delaware                        72
-District of Columbia            79
-Florida                         60
-Georgia                         65
-Hawaii                          65
-Idaho                           72
-Illinois                        71
-Indiana                         74
-Iowa                            74
-Kansas                          67
-Kentucky                        82
-Louisiana                       65
-Maine                           75
-Maryland                        68
-Massachusetts                   89
-Michigan                        72
-Minnesota                       73
-Mississippi                     61
-Missouri                        71
-Montana                         68
-Nebraska                        78
-Nevada                          61
-New Hampshire                   77
-New Jersey                      77
-New Mexico                      60
-New York                        71
-North Carolina                  68
-North Dakota                    82
-Ohio                            74
-Oklahoma                        74
-Oregon                          55
-Pennsylvania                    83
+Connecticut                     78
+Delaware                        68
+District of Columbia            76
+Florida                         59
+Georgia                         63
+Hawaii                          64
+Idaho                           71
+Illinois                        69
+Indiana                         72
+Iowa                            72
+Kansas                          65
+Kentucky                        81
+Louisiana                       63
+Maine                           74
+Maryland                        66
+Massachusetts                   87
+Michigan                        70
+Minnesota                       72
+Mississippi                     60
+Missouri                        70
+Montana                         66
+Nebraska                        77
+Nevada                          60
+New Hampshire                   76
+New Jersey                      75
+New Mexico                      59
+New York                        69
+North Carolina                  67
+North Dakota                    78
+Ohio                            72
+Oklahoma                        73
+Oregon                          54
+Pennsylvania                    81
 Rhode Island                   100
-South Carolina                  68
-South Dakota                    74
-Tennessee                       80
-Texas                           68
-Utah                            90
+South Carolina                  67
+South Dakota                    72
+Tennessee                       79
+Texas                           66
+Utah                            88
 Vermont                         74
-Virginia                        67
-Washington                      70
-West Virginia                   70
-Wisconsin                       69
+Virginia                        65
+Washington                      69
+West Virginia                   68
+Wisconsin                       67
 Wyoming                         66

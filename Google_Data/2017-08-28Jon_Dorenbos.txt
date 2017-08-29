@@ -1,0 +1,53 @@
+                      Jon Dorenbos
+geoName                           
+Alabama                         12
+Alaska                          10
+Arizona                         20
+Arkansas                        14
+California                      14
+Colorado                        19
+Connecticut                     22
+Delaware                       100
+District of Columbia            27
+Florida                         18
+Georgia                         13
+Hawaii                          21
+Idaho                           20
+Illinois                        17
+Indiana                         24
+Iowa                            23
+Kansas                          11
+Kentucky                        14
+Louisiana                       11
+Maine                           16
+Maryland                        20
+Massachusetts                   19
+Michigan                        18
+Minnesota                       17
+Mississippi                     11
+Missouri                        15
+Montana                         21
+Nebraska                        16
+Nevada                          20
+New Hampshire                   19
+New Jersey                      55
+New Mexico                      13
+New York                        16
+North Carolina                  17
+North Dakota                    25
+Ohio                            19
+Oklahoma                        15
+Oregon                          12
+Pennsylvania                    87
+Rhode Island                    22
+South Carolina                  16
+South Dakota                    24
+Tennessee                       16
+Texas                           16
+Utah                            19
+Vermont                          8
+Virginia                        16
+Washington                      17
+West Virginia                   15
+Wisconsin                       19
+Wyoming                         25

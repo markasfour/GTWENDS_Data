@@ -1,0 +1,53 @@
+                      Littlefinger
+geoName                           
+Alabama                         64
+Alaska                          55
+Arizona                         58
+Arkansas                        47
+California                      75
+Colorado                        69
+Connecticut                     75
+Delaware                        94
+District of Columbia            73
+Florida                         59
+Georgia                         52
+Hawaii                          58
+Idaho                           47
+Illinois                        73
+Indiana                         70
+Iowa                            55
+Kansas                          49
+Kentucky                        59
+Louisiana                       69
+Maine                           56
+Maryland                        93
+Massachusetts                  100
+Michigan                        64
+Minnesota                       60
+Mississippi                     45
+Missouri                        61
+Montana                         67
+Nebraska                        47
+Nevada                          57
+New Hampshire                   86
+New Jersey                      95
+New Mexico                      60
+New York                        87
+North Carolina                  58
+North Dakota                    52
+Ohio                            57
+Oklahoma                        54
+Oregon                          60
+Pennsylvania                    89
+Rhode Island                    95
+South Carolina                  53
+South Dakota                    41
+Tennessee                       66
+Texas                           59
+Utah                            52
+Vermont                         76
+Virginia                        66
+Washington                      78
+West Virginia                   77
+Wisconsin                       59
+Wyoming                         64

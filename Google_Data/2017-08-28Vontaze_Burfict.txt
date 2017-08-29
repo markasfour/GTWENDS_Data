@@ -1,53 +1,53 @@
                       Vontaze Burfict
 geoName                              
-Alabama                            20
-Alaska                             17
-Arizona                            52
-Arkansas                           16
-California                         22
-Colorado                           24
-Connecticut                        28
-Delaware                           29
+Alabama                            23
+Alaska                             13
+Arizona                            53
+Arkansas                           14
+California                         21
+Colorado                           25
+Connecticut                        25
+Delaware                           33
 District of Columbia               29
 Florida                            17
 Georgia                            21
-Hawaii                             22
-Idaho                              22
+Hawaii                             24
+Idaho                              18
 Illinois                           20
 Indiana                            27
 Iowa                               22
-Kansas                             13
-Kentucky                           61
-Louisiana                          18
-Maine                              19
-Maryland                           32
-Massachusetts                      29
-Michigan                           27
-Minnesota                          21
-Mississippi                        19
-Missouri                           17
-Montana                            23
-Nebraska                           21
-Nevada                             22
-New Hampshire                      24
-New Jersey                         23
-New Mexico                         17
-New York                           20
-North Carolina                     26
-North Dakota                       26
+Kansas                             16
+Kentucky                           55
+Louisiana                          17
+Maine                              18
+Maryland                           34
+Massachusetts                      30
+Michigan                           24
+Minnesota                          22
+Mississippi                        18
+Missouri                           16
+Montana                            28
+Nebraska                           22
+Nevada                             23
+New Hampshire                      22
+New Jersey                         21
+New Mexico                         23
+New York                           19
+North Carolina                     24
+North Dakota                       31
 Ohio                              100
-Oklahoma                           14
+Oklahoma                           13
 Oregon                             14
-Pennsylvania                       49
-Rhode Island                       36
-South Carolina                     25
-South Dakota                       33
-Tennessee                          19
-Texas                              18
-Utah                               18
-Vermont                            19
+Pennsylvania                       50
+Rhode Island                       25
+South Carolina                     23
+South Dakota                       32
+Tennessee                          18
+Texas                              16
+Utah                               20
+Vermont                            18
 Virginia                           22
-Washington                         21
-West Virginia                      42
-Wisconsin                          19
-Wyoming                            13
+Washington                         22
+West Virginia                      38
+Wisconsin                          20
+Wyoming                            18

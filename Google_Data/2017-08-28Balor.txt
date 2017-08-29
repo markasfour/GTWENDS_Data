@@ -1,0 +1,53 @@
+                      Balor
+geoName                    
+Alabama                  71
+Alaska                   22
+Arizona                  43
+Arkansas                 63
+California               44
+Colorado                 32
+Connecticut              65
+Delaware                 68
+District of Columbia     46
+Florida                  49
+Georgia                  53
+Hawaii                   32
+Idaho                    30
+Illinois                 59
+Indiana                  73
+Iowa                     50
+Kansas                   41
+Kentucky                 74
+Louisiana                61
+Maine                    53
+Maryland                 56
+Massachusetts            56
+Michigan                 55
+Minnesota                35
+Mississippi              75
+Missouri                 51
+Montana                  24
+Nebraska                 50
+Nevada                   54
+New Hampshire            47
+New Jersey               74
+New Mexico               48
+New York                 66
+North Carolina           58
+North Dakota             65
+Ohio                     68
+Oklahoma                 54
+Oregon                   31
+Pennsylvania             75
+Rhode Island             74
+South Carolina           66
+South Dakota             49
+Tennessee                64
+Texas                    64
+Utah                     25
+Vermont                  34
+Virginia                 45
+Washington               31
+West Virginia           100
+Wisconsin                55
+Wyoming                  40

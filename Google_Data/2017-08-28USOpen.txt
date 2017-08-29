@@ -1,0 +1,53 @@
+                      USOpen
+geoName                     
+Alabama                   26
+Alaska                    18
+Arizona                   30
+Arkansas                  19
+California                38
+Colorado                  38
+Connecticut               81
+Delaware                  63
+District of Columbia      47
+Florida                   38
+Georgia                   36
+Hawaii                    37
+Idaho                     29
+Illinois                  34
+Indiana                   27
+Iowa                      28
+Kansas                    22
+Kentucky                  25
+Louisiana                 28
+Maine                     49
+Maryland                  52
+Massachusetts             61
+Michigan                  26
+Minnesota                 38
+Mississippi               21
+Missouri                  27
+Montana                   30
+Nebraska                  31
+Nevada                    32
+New Hampshire             45
+New Jersey                75
+New Mexico                24
+New York                 100
+North Carolina            47
+North Dakota              27
+Ohio                      32
+Oklahoma                  19
+Oregon                    34
+Pennsylvania              51
+Rhode Island              50
+South Carolina            42
+South Dakota              22
+Tennessee                 27
+Texas                     24
+Utah                      30
+Vermont                   58
+Virginia                  42
+Washington                37
+West Virginia             26
+Wisconsin                 35
+Wyoming                   29

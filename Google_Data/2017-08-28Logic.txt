@@ -1,53 +1,53 @@
                       Logic
 geoName                    
-Alabama                  62
-Alaska                   75
-Arizona                  85
-Arkansas                 65
+Alabama                  63
+Alaska                   78
+Arizona                  87
+Arkansas                 68
 California              100
-Colorado                 90
-Connecticut              92
+Colorado                 93
+Connecticut              94
 Delaware                 79
-District of Columbia     73
-Florida                  67
-Georgia                  68
-Hawaii                   70
-Idaho                    81
-Illinois                 77
-Indiana                  77
-Iowa                     74
-Kansas                   71
-Kentucky                 61
+District of Columbia     74
+Florida                  69
+Georgia                  70
+Hawaii                   73
+Idaho                    84
+Illinois                 79
+Indiana                  81
+Iowa                     77
+Kansas                   72
+Kentucky                 63
 Louisiana                62
-Maine                    80
-Maryland                 90
-Massachusetts            89
-Michigan                 76
-Minnesota                84
-Mississippi              57
-Missouri                 68
-Montana                  75
-Nebraska                 74
-Nevada                   79
-New Hampshire            89
-New Jersey               86
-New Mexico               93
-New York                 83
-North Carolina           72
-North Dakota             67
-Ohio                     72
-Oklahoma                 63
-Oregon                   73
-Pennsylvania             78
-Rhode Island             90
-South Carolina           67
+Maine                    82
+Maryland                 94
+Massachusetts            92
+Michigan                 77
+Minnesota                86
+Mississippi              59
+Missouri                 70
+Montana                  76
+Nebraska                 75
+Nevada                   80
+New Hampshire            91
+New Jersey               87
+New Mexico               95
+New York                 85
+North Carolina           74
+North Dakota             69
+Ohio                     74
+Oklahoma                 64
+Oregon                   76
+Pennsylvania             79
+Rhode Island             93
+South Carolina           68
 South Dakota             68
-Tennessee                69
-Texas                    73
-Utah                     90
+Tennessee                70
+Texas                    74
+Utah                     93
 Vermont                  99
-Virginia                 74
-Washington               85
-West Virginia            61
-Wisconsin                78
-Wyoming                  70
+Virginia                 75
+Washington               86
+West Virginia            62
+Wisconsin                80
+Wyoming                  74

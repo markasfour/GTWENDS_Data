@@ -1,53 +1,53 @@
                       Game of Thrones season 8
 geoName                                       
-Alabama                                     54
-Alaska                                      95
-Arizona                                     70
-Arkansas                                    56
-California                                  74
-Colorado                                    70
-Connecticut                                 81
-Delaware                                    75
-District of Columbia                        55
-Florida                                     60
-Georgia                                     51
-Hawaii                                      82
-Idaho                                       63
-Illinois                                    63
-Indiana                                     65
-Iowa                                        57
-Kansas                                      57
+Alabama                                     60
+Alaska                                      97
+Arizona                                     67
+Arkansas                                    59
+California                                  72
+Colorado                                    69
+Connecticut                                 84
+Delaware                                    68
+District of Columbia                        54
+Florida                                     62
+Georgia                                     49
+Hawaii                                      86
+Idaho                                       65
+Illinois                                    65
+Indiana                                     61
+Iowa                                        61
+Kansas                                      56
 Kentucky                                    63
-Louisiana                                   60
-Maine                                       88
-Maryland                                    75
-Massachusetts                               77
+Louisiana                                   65
+Maine                                       95
+Maryland                                    76
+Massachusetts                               85
 Michigan                                    66
-Minnesota                                   65
-Mississippi                                 49
-Missouri                                    56
-Montana                                     84
-Nebraska                                    56
-Nevada                                      67
-New Hampshire                               94
-New Jersey                                  76
-New Mexico                                  59
-New York                                    73
-North Carolina                              58
-North Dakota                                61
-Ohio                                        61
-Oklahoma                                    57
-Oregon                                      63
-Pennsylvania                                73
-Rhode Island                                80
-South Carolina                              52
-South Dakota                                67
-Tennessee                                   57
+Minnesota                                   67
+Mississippi                                 53
+Missouri                                    61
+Montana                                     83
+Nebraska                                    61
+Nevada                                      70
+New Hampshire                               97
+New Jersey                                  75
+New Mexico                                  63
+New York                                    74
+North Carolina                              61
+North Dakota                                63
+Ohio                                        66
+Oklahoma                                    64
+Oregon                                      64
+Pennsylvania                                71
+Rhode Island                                92
+South Carolina                              55
+South Dakota                                68
+Tennessee                                   62
 Texas                                       56
-Utah                                        58
+Utah                                        63
 Vermont                                    100
-Virginia                                    60
-Washington                                  79
-West Virginia                               68
-Wisconsin                                   59
-Wyoming                                     71
+Virginia                                    62
+Washington                                  82
+West Virginia                               81
+Wisconsin                                   60
+Wyoming                                     55
