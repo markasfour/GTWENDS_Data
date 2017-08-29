@@ -1,0 +1,53 @@
+                      Kremlin
+geoName                      
+Alabama                    15
+Alaska                     20
+Arizona                    17
+Arkansas                   17
+California                 19
+Colorado                   20
+Connecticut                22
+Delaware                   18
+District of Columbia       27
+Florida                    17
+Georgia                    16
+Hawaii                     16
+Idaho                      20
+Illinois                   18
+Indiana                    19
+Iowa                       21
+Kansas                     21
+Kentucky                   16
+Louisiana                  17
+Maine                      22
+Maryland                   23
+Massachusetts              20
+Michigan                   17
+Minnesota                  20
+Mississippi                16
+Missouri                   19
+Montana                    27
+Nebraska                   20
+Nevada                     16
+New Hampshire              17
+New Jersey                 21
+New Mexico                 17
+New York                   21
+North Carolina             16
+North Dakota               25
+Ohio                       18
+Oklahoma                  100
+Oregon                     16
+Pennsylvania               20
+Rhode Island               15
+South Carolina             15
+South Dakota               23
+Tennessee                  15
+Texas                      23
+Utah                       19
+Vermont                    27
+Virginia                   20
+Washington                 21
+West Virginia              18
+Wisconsin                  19
+Wyoming                    18

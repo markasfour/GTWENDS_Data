@@ -1,53 +1,51 @@
                       VMA 2017
 geoName                       
-Alabama                     50
-Alaska                      35
-Arizona                     50
-Arkansas                    45
-California                  80
-Colorado                    45
+Alabama                     57
+Alaska                      48
+Arizona                     48
+Arkansas                    56
+California                  84
+Colorado                    43
 Connecticut                 49
-Delaware                    78
-District of Columbia        39
+Delaware                    61
+District of Columbia        44
 Florida                     63
-Georgia                     45
-Hawaii                      59
-Idaho                       23
-Illinois                    51
-Indiana                     54
-Iowa                        30
-Kansas                      38
-Kentucky                    44
-Louisiana                   45
-Maine                       38
-Maryland                    69
-Massachusetts               50
-Michigan                    48
-Minnesota                   49
-Mississippi                 66
-Missouri                    37
-Montana                    100
-Nebraska                    41
-Nevada                      83
-New Hampshire               47
-New Jersey                  71
-New Mexico                  69
-New York                    89
-North Carolina              67
-North Dakota                25
-Ohio                        47
-Oklahoma                    57
-Oregon                      35
-Pennsylvania                62
-Rhode Island                41
-South Carolina              50
-South Dakota                25
-Tennessee                   46
-Texas                       61
-Utah                        45
-Vermont                     49
-Virginia                    40
-Washington                  41
-West Virginia               20
-Wisconsin                   48
-Wyoming                     74
+Georgia                     47
+Hawaii                      91
+Idaho                       12
+Illinois                    54
+Indiana                     53
+Iowa                        25
+Kansas                      50
+Kentucky                    48
+Louisiana                   49
+Maine                       40
+Maryland                    72
+Massachusetts               52
+Michigan                    56
+Minnesota                   59
+Mississippi                 52
+Missouri                    44
+Montana                     20
+Nebraska                    51
+Nevada                     100
+New Hampshire               24
+New Jersey                  77
+New Mexico                  55
+New York                    92
+North Carolina              62
+Ohio                        55
+Oklahoma                    45
+Oregon                      42
+Pennsylvania                65
+Rhode Island                57
+South Carolina              52
+South Dakota                39
+Tennessee                   60
+Texas                       63
+Utah                        56
+Vermont                     64
+Virginia                    47
+Washington                  45
+West Virginia               48
+Wisconsin                   57

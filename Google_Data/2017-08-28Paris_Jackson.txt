@@ -1,53 +1,53 @@
                       Paris Jackson
 geoName                            
-Alabama                          61
+Alabama                          60
 Alaska                           45
 Arizona                          60
-Arkansas                         51
+Arkansas                         56
 California                       70
 Colorado                         51
 Connecticut                      63
-Delaware                         61
-District of Columbia             62
+Delaware                         63
+District of Columbia             60
 Florida                          64
 Georgia                          64
-Hawaii                           61
-Idaho                            42
-Illinois                         62
-Indiana                          59
-Iowa                             50
-Kansas                           50
-Kentucky                         59
-Louisiana                        64
-Maine                            46
-Maryland                         67
-Massachusetts                    62
+Hawaii                           58
+Idaho                            40
+Illinois                         60
+Indiana                          60
+Iowa                             47
+Kansas                           47
+Kentucky                         57
+Louisiana                        63
+Maine                            43
+Maryland                         68
+Massachusetts                    61
 Michigan                         62
-Minnesota                        54
-Mississippi                      81
-Missouri                         57
-Montana                          42
-Nebraska                         50
-Nevada                           66
-New Hampshire                    49
+Minnesota                        53
+Mississippi                      77
+Missouri                         54
+Montana                          40
+Nebraska                         49
+Nevada                           63
+New Hampshire                    50
 New Jersey                       68
-New Mexico                       60
-New York                         65
-North Carolina                   58
-North Dakota                     46
-Ohio                             60
-Oklahoma                         55
-Oregon                           42
+New Mexico                       55
+New York                         64
+North Carolina                   57
+North Dakota                     44
+Ohio                             59
+Oklahoma                         54
+Oregon                           40
 Pennsylvania                     60
-Rhode Island                     61
-South Carolina                   62
-South Dakota                     41
+Rhode Island                     59
+South Carolina                   58
+South Dakota                     39
 Tennessee                       100
 Texas                            62
-Utah                             48
-Vermont                          47
-Virginia                         49
-Washington                       59
-West Virginia                    57
-Wisconsin                        47
-Wyoming                          45
+Utah                             47
+Vermont                          46
+Virginia                         50
+Washington                       58
+West Virginia                    58
+Wisconsin                        48
+Wyoming                          46

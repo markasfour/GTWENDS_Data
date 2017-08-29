@@ -1,0 +1,40 @@
+                      VMworld
+geoName                      
+Alabama                    10
+Arizona                    27
+California                 98
+Colorado                   51
+Connecticut                27
+District of Columbia       29
+Florida                    15
+Georgia                    29
+Hawaii                     24
+Illinois                   27
+Indiana                    24
+Iowa                       29
+Kansas                     22
+Kentucky                   17
+Louisiana                  14
+Maryland                   31
+Massachusetts              73
+Michigan                   21
+Minnesota                  37
+Missouri                   28
+Nebraska                   30
+Nevada                    100
+New Hampshire              73
+New Jersey                 25
+New Mexico                 17
+New York                   19
+North Carolina             33
+Ohio                       29
+Oklahoma                   20
+Oregon                     29
+Pennsylvania               22
+South Carolina             16
+Tennessee                  21
+Texas                      31
+Utah                       55
+Virginia                   30
+Washington                 42
+Wisconsin                  27

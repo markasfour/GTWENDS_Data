@@ -1,0 +1,53 @@
+                      Berkeley
+geoName                       
+Alabama                      3
+Alaska                       4
+Arizona                      6
+Arkansas                     3
+California                 100
+Colorado                     8
+Connecticut                  8
+Delaware                     6
+District of Columbia        17
+Florida                      4
+Georgia                      7
+Hawaii                       9
+Idaho                        5
+Illinois                     7
+Indiana                      4
+Iowa                         4
+Kansas                       4
+Kentucky                     4
+Louisiana                    3
+Maine                        5
+Maryland                    11
+Massachusetts               11
+Michigan                     5
+Minnesota                    5
+Mississippi                  3
+Missouri                     6
+Montana                      7
+Nebraska                     3
+Nevada                      10
+New Hampshire                5
+New Jersey                  26
+New Mexico                   6
+New York                    10
+North Carolina               8
+North Dakota                 3
+Ohio                         4
+Oklahoma                     3
+Oregon                       8
+Pennsylvania                 7
+Rhode Island                 7
+South Carolina              49
+South Dakota                 3
+Tennessee                    4
+Texas                        5
+Utah                         7
+Vermont                      8
+Virginia                     8
+Washington                  13
+West Virginia               95
+Wisconsin                    5
+Wyoming                      4

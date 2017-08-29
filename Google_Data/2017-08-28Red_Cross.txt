@@ -1,0 +1,53 @@
+                      Red Cross
+geoName                        
+Alabama                      62
+Alaska                       68
+Arizona                      45
+Arkansas                     61
+California                   51
+Colorado                     49
+Connecticut                  81
+Delaware                     52
+District of Columbia         75
+Florida                      40
+Georgia                      57
+Hawaii                       59
+Idaho                        59
+Illinois                     48
+Indiana                      64
+Iowa                         58
+Kansas                       62
+Kentucky                     63
+Louisiana                    54
+Maine                        85
+Maryland                     74
+Massachusetts                79
+Michigan                     69
+Minnesota                    69
+Mississippi                  50
+Missouri                     69
+Montana                      60
+Nebraska                     90
+Nevada                       40
+New Hampshire                92
+New Jersey                   58
+New Mexico                   43
+New York                     59
+North Carolina               74
+North Dakota                 50
+Ohio                         75
+Oklahoma                     59
+Oregon                       59
+Pennsylvania                 66
+Rhode Island                 47
+South Carolina               66
+South Dakota                 48
+Tennessee                    59
+Texas                        40
+Utah                         61
+Vermont                     100
+Virginia                     60
+Washington                   51
+West Virginia                73
+Wisconsin                    78
+Wyoming                      49

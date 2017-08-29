@@ -1,41 +1,43 @@
                       Dara Khosrowshahi
 geoName                                
 Alabama                               3
-Arizona                               7
-California                           12
+Arizona                               8
+Arkansas                              6
+California                           15
 Colorado                             11
-Connecticut                          14
-Delaware                             28
-District of Columbia                 13
-Florida                               7
-Georgia                               4
-Hawaii                                7
-Idaho                                25
-Illinois                             13
-Indiana                               3
+Connecticut                          19
+Delaware                             14
+District of Columbia                 12
+Florida                               9
+Georgia                               5
+Hawaii                               11
+Idaho                                13
+Illinois                             15
+Indiana                               7
 Iowa                                  9
-Kansas                                7
-Kentucky                              3
-Louisiana                             3
-Maine                                 9
-Maryland                              5
-Massachusetts                         7
+Kentucky                              5
+Louisiana                             6
+Maryland                              7
+Massachusetts                        11
 Michigan                              3
-Minnesota                             8
-Missouri                              9
-Nevada                               33
-New Jersey                           15
-New York                             17
-North Carolina                        4
-Ohio                                  6
-Oklahoma                              7
-Oregon                                8
-Pennsylvania                          7
+Minnesota                            10
+Missouri                              8
+Nebraska                             12
+Nevada                               19
+New Hampshire                        17
+New Jersey                           14
+New Mexico                            8
+New York                             19
+North Carolina                        5
+Ohio                                  5
+Oklahoma                              5
+Oregon                                5
+Pennsylvania                          8
 Rhode Island                         10
 South Carolina                        4
-Tennessee                             5
-Texas                                 8
-Utah                                 10
-Virginia                              8
+Tennessee                             2
+Texas                                 6
+Utah                                  8
+Virginia                              6
 Washington                          100
-Wisconsin                             4
+Wisconsin                             5

@@ -1,0 +1,53 @@
+                      Blackboard
+geoName                         
+Alabama                       37
+Alaska                       100
+Arizona                       10
+Arkansas                      54
+California                    24
+Colorado                      15
+Connecticut                   17
+Delaware                      12
+District of Columbia          32
+Florida                       31
+Georgia                       11
+Hawaii                        10
+Idaho                         34
+Illinois                      24
+Indiana                       56
+Iowa                          12
+Kansas                        17
+Kentucky                      41
+Louisiana                     15
+Maine                         28
+Maryland                      27
+Massachusetts                 23
+Michigan                      16
+Minnesota                      7
+Mississippi                   35
+Missouri                      37
+Montana                        2
+Nebraska                      46
+Nevada                         5
+New Hampshire                 27
+New Jersey                    19
+New Mexico                    18
+New York                      27
+North Carolina                31
+North Dakota                  35
+Ohio                          31
+Oklahoma                      14
+Oregon                        12
+Pennsylvania                  21
+Rhode Island                  21
+South Carolina                23
+South Dakota                   5
+Tennessee                     15
+Texas                         37
+Utah                           2
+Vermont                       11
+Virginia                      38
+Washington                    10
+West Virginia                 11
+Wisconsin                     10
+Wyoming                        4

@@ -1,0 +1,53 @@
+                      Tom Herman
+geoName                         
+Alabama                       41
+Alaska                         5
+Arizona                       10
+Arkansas                      30
+California                     8
+Colorado                      14
+Connecticut                    9
+Delaware                       7
+District of Columbia          14
+Florida                       12
+Georgia                       25
+Hawaii                        11
+Idaho                          9
+Illinois                      10
+Indiana                       11
+Iowa                          24
+Kansas                        15
+Kentucky                      15
+Louisiana                     83
+Maine                          5
+Maryland                       9
+Massachusetts                  7
+Michigan                      16
+Minnesota                      9
+Mississippi                   31
+Missouri                      14
+Montana                       11
+Nebraska                      28
+Nevada                         9
+New Hampshire                  4
+New Jersey                     8
+New Mexico                    15
+New York                       8
+North Carolina                15
+North Dakota                  11
+Ohio                          41
+Oklahoma                      31
+Oregon                         8
+Pennsylvania                  10
+Rhode Island                   5
+South Carolina                46
+South Dakota                  10
+Tennessee                     24
+Texas                        100
+Utah                           9
+Vermont                        5
+Virginia                      10
+Washington                     8
+West Virginia                 18
+Wisconsin                      8
+Wyoming                       11
