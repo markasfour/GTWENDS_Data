@@ -1,11 +1,17 @@
-              Jud Heathcote
-geoName                    
-Arizona                   9
-California                4
-Illinois                 14
-Michigan                100
-New York                  3
-Ohio                      9
-Pennsylvania              2
-Texas                     5
-Washington               17
+                Jud Heathcote
+geoName                      
+Arizona                     7
+California                  4
+Florida                     7
+Georgia                     4
+Illinois                   14
+Indiana                    24
+Michigan                  100
+Minnesota                  14
+New York                    4
+North Carolina              8
+Ohio                       14
+Pennsylvania                5
+Texas                       5
+Washington                 19
+Wisconsin                   8

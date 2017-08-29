@@ -1,18 +1,24 @@
                 Tropical Storm Irma
 geoName                            
-California                        4
-Colorado                         29
-Florida                          52
-Georgia                          59
-Louisiana                        51
-Massachusetts                    39
-Michigan                         19
-Mississippi                     100
-Missouri                         31
-New Jersey                       19
-North Carolina                   27
-Ohio                             18
-South Carolina                   46
-Tennessee                        30
-Texas                             9
-Virginia                         40
+Alabama                          16
+Arizona                           8
+California                        1
+Connecticut                      29
+Delaware                         72
+Florida                          18
+Georgia                          16
+Louisiana                        16
+Maryland                         18
+Massachusetts                    15
+Missouri                          9
+New Jersey                        6
+New York                          4
+North Carolina                   41
+Ohio                             11
+Pennsylvania                      4
+Rhode Island                    100
+South Carolina                   63
+Tennessee                         9
+Texas                             8
+Virginia                         19
+West Virginia                    49

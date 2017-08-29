@@ -1,0 +1,51 @@
+                      Shrewsbury
+geoName                         
+Alabama                        0
+Alaska                         0
+Arizona                        0
+Arkansas                       1
+California                     1
+Colorado                       1
+Connecticut                    8
+Delaware                       3
+District of Columbia          10
+Florida                        1
+Georgia                        1
+Hawaii                         0
+Idaho                          0
+Illinois                       1
+Indiana                        1
+Iowa                           0
+Kansas                         1
+Kentucky                       2
+Louisiana                      1
+Maine                          4
+Maryland                      10
+Massachusetts                100
+Michigan                       1
+Minnesota                      1
+Mississippi                    0
+Missouri                       7
+Montana                        0
+Nebraska                       0
+Nevada                         0
+New Hampshire                  8
+New Jersey                    32
+New Mexico                     0
+New York                       5
+North Carolina                 1
+Ohio                           1
+Oklahoma                       0
+Oregon                         1
+Pennsylvania                  12
+Rhode Island                  12
+South Carolina                 1
+Tennessee                      1
+Texas                          1
+Utah                           0
+Vermont                       14
+Virginia                       2
+Washington                     1
+West Virginia                  7
+Wisconsin                      1
+Wyoming                        0

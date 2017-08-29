@@ -2,45 +2,46 @@
 geoName                               
 Alabama                              1
 Arizona                              1
-Arkansas                             1
-California                           1
+Arkansas                             2
+California                           0
 Colorado                             2
-Connecticut                          2
+Connecticut                          1
 District of Columbia                 0
 Florida                              0
 Georgia                              0
 Hawaii                               1
+Idaho                                2
 Illinois                             1
 Indiana                              1
 Iowa                                 1
-Kansas                               1
-Kentucky                             1
-Louisiana                            1
+Kansas                               0
+Kentucky                             0
+Louisiana                            0
 Maryland                             0
 Massachusetts                        1
-Michigan                             1
-Minnesota                           16
+Michigan                             0
+Minnesota                           15
 Mississippi                          1
-Missouri                             3
-Montana                              6
+Missouri                             1
+Montana                              2
 Nebraska                             3
-Nevada                               3
-New Jersey                           0
+Nevada                               1
+New Jersey                           1
 New Mexico                           2
-New York                             0
+New York                             1
 North Carolina                       1
 North Dakota                       100
-Ohio                                 0
+Ohio                                 1
 Oklahoma                             1
 Oregon                               1
-Pennsylvania                         1
-South Carolina                       1
+Pennsylvania                         0
+Rhode Island                         3
+South Carolina                       0
 South Dakota                        21
-Tennessee                            1
+Tennessee                            0
 Texas                                0
 Utah                                 1
-Virginia                             1
+Virginia                             0
 Washington                           1
-West Virginia                        2
-Wisconsin                            2
-Wyoming                              5
+West Virginia                        3
+Wisconsin                            1

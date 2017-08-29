@@ -1,53 +1,53 @@
                       Lilly Pulitzer
 geoName                             
-Alabama                           46
+Alabama                           45
 Alaska                             5
 Arizona                            7
-Arkansas                          18
-California                         7
+Arkansas                          19
+California                         6
 Colorado                           9
-Connecticut                       49
+Connecticut                       48
 Delaware                          53
-District of Columbia              34
+District of Columbia              35
 Florida                           42
 Georgia                           40
 Hawaii                             8
-Idaho                              5
+Idaho                              6
 Illinois                          16
 Indiana                           18
-Iowa                              12
+Iowa                              11
 Kansas                            16
-Kentucky                          70
+Kentucky                          71
 Louisiana                         25
 Maine                             26
-Maryland                          43
+Maryland                          42
 Massachusetts                     49
 Michigan                          20
 Minnesota                         12
-Mississippi                       27
+Mississippi                       26
 Missouri                          28
 Montana                            6
 Nebraska                          15
-Nevada                             5
-New Hampshire                     34
-New Jersey                        27
-New Mexico                         6
+Nevada                             6
+New Hampshire                     37
+New Jersey                        28
+New Mexico                         7
 New York                          21
-North Carolina                    76
-North Dakota                       9
+North Carolina                    75
+North Dakota                       7
 Ohio                              28
-Oklahoma                          20
-Oregon                             5
-Pennsylvania                      38
+Oklahoma                          19
+Oregon                             4
+Pennsylvania                      37
 Rhode Island                      58
 South Carolina                   100
-South Dakota                       6
-Tennessee                         43
+South Dakota                       7
+Tennessee                         44
 Texas                             15
 Utah                               5
-Vermont                           31
+Vermont                           33
 Virginia                          44
 Washington                         6
-West Virginia                     35
+West Virginia                     36
 Wisconsin                         12
-Wyoming                            6
+Wyoming                            8

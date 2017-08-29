@@ -1,51 +1,52 @@
                       Ed Skrein
 geoName                        
-Alabama                      66
-Alaska                       73
-Arizona                      85
-Arkansas                     68
-California                   99
-Colorado                     94
-Connecticut                  86
-Delaware                     89
-District of Columbia         96
-Florida                      83
-Georgia                      74
-Hawaii                       87
-Idaho                        68
+Alabama                      58
+Alaska                       78
+Arizona                      77
+Arkansas                     50
+California                   96
+Colorado                     75
+Connecticut                  64
+Delaware                     90
+District of Columbia         95
+Florida                      76
+Georgia                      65
+Hawaii                       93
+Idaho                        57
 Illinois                     80
-Indiana                      78
-Iowa                         70
-Kansas                       62
-Kentucky                     72
-Louisiana                    78
-Maine                        68
-Maryland                     93
-Massachusetts                93
-Michigan                     72
-Minnesota                    70
-Mississippi                  75
-Missouri                     66
-Montana                      53
-Nebraska                     74
-Nevada                       89
-New Hampshire                81
-New Jersey                  100
-New Mexico                   99
-New York                     96
-North Carolina               69
-North Dakota                 67
-Ohio                         70
-Oklahoma                     76
-Oregon                       78
+Indiana                      68
+Iowa                         75
+Kansas                       51
+Kentucky                     81
+Louisiana                    69
+Maine                        65
+Maryland                     91
+Massachusetts                85
+Michigan                     61
+Minnesota                    60
+Mississippi                  68
+Missouri                     57
+Montana                      55
+Nebraska                     80
+Nevada                      100
+New Hampshire                65
+New Jersey                   86
+New Mexico                   84
+New York                     95
+North Carolina               66
+North Dakota                 58
+Ohio                         67
+Oklahoma                     61
+Oregon                       76
 Pennsylvania                 81
-Rhode Island                 68
-South Carolina               65
-South Dakota                 59
-Tennessee                    78
-Texas                        86
+Rhode Island                 74
+South Carolina               62
+South Dakota                 41
+Tennessee                    70
+Texas                        82
 Utah                         71
-Virginia                     74
-Washington                   99
-West Virginia                68
-Wisconsin                    63
+Vermont                      83
+Virginia                     71
+Washington                   74
+West Virginia                48
+Wisconsin                    60
