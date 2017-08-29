@@ -1,0 +1,53 @@
+                      Houston flooding
+geoName                               
+Alabama                             13
+Alaska                              10
+Arizona                              9
+Arkansas                            25
+California                           8
+Colorado                            14
+Connecticut                          5
+Delaware                             9
+District of Columbia                12
+Florida                              8
+Georgia                             10
+Hawaii                               8
+Idaho                               10
+Illinois                            10
+Indiana                              8
+Iowa                                13
+Kansas                              13
+Kentucky                             8
+Louisiana                           47
+Maine                                4
+Maryland                             9
+Massachusetts                        6
+Michigan                             8
+Minnesota                            9
+Mississippi                         18
+Missouri                            11
+Montana                              8
+Nebraska                            11
+Nevada                              10
+New Hampshire                        5
+New Jersey                           6
+New Mexico                          19
+New York                             8
+North Carolina                       9
+North Dakota                         6
+Ohio                                 8
+Oklahoma                            31
+Oregon                               6
+Pennsylvania                         8
+Rhode Island                         4
+South Carolina                       9
+South Dakota                         9
+Tennessee                           14
+Texas                              100
+Utah                                11
+Vermont                              6
+Virginia                             6
+Washington                           8
+West Virginia                        7
+Wisconsin                            6
+Wyoming                             14

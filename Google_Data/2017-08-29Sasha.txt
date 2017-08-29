@@ -1,0 +1,53 @@
+                      Sasha
+geoName                    
+Alabama                  76
+Alaska                   81
+Arizona                  81
+Arkansas                 73
+California               92
+Colorado                 73
+Connecticut              89
+Delaware                 81
+District of Columbia     89
+Florida                  80
+Georgia                  78
+Hawaii                   90
+Idaho                    66
+Illinois                 81
+Indiana                  76
+Iowa                     69
+Kansas                   72
+Kentucky                 75
+Louisiana                85
+Maine                    80
+Maryland                 93
+Massachusetts            90
+Michigan                 79
+Minnesota                70
+Mississippi              76
+Missouri                 74
+Montana                  71
+Nebraska                 70
+Nevada                   90
+New Hampshire            76
+New Jersey               95
+New Mexico               86
+New York                100
+North Carolina           76
+North Dakota             72
+Ohio                     77
+Oklahoma                 75
+Oregon                   76
+Pennsylvania             85
+Rhode Island             92
+South Carolina           79
+South Dakota             70
+Tennessee                76
+Texas                    80
+Utah                     65
+Vermont                  78
+Virginia                 79
+Washington               78
+West Virginia            78
+Wisconsin                69
+Wyoming                  69

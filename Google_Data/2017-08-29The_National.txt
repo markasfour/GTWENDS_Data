@@ -1,0 +1,53 @@
+                      The National
+geoName                           
+Alabama                         61
+Alaska                          54
+Arizona                         47
+Arkansas                        58
+California                      40
+Colorado                        55
+Connecticut                     48
+Delaware                        50
+District of Columbia           100
+Florida                         44
+Georgia                         47
+Hawaii                          43
+Idaho                           58
+Illinois                        44
+Indiana                         59
+Iowa                            62
+Kansas                          52
+Kentucky                        50
+Louisiana                       46
+Maine                           61
+Maryland                        76
+Massachusetts                   45
+Michigan                        47
+Minnesota                       47
+Mississippi                     58
+Missouri                        53
+Montana                         75
+Nebraska                        58
+Nevada                          44
+New Hampshire                   50
+New Jersey                      45
+New Mexico                      57
+New York                        44
+North Carolina                  51
+North Dakota                    52
+Ohio                            57
+Oklahoma                        53
+Oregon                          36
+Pennsylvania                    51
+Rhode Island                    52
+South Carolina                  55
+South Dakota                    72
+Tennessee                       49
+Texas                           43
+Utah                            60
+Vermont                         58
+Virginia                        72
+Washington                      41
+West Virginia                   58
+Wisconsin                       52
+Wyoming                         76

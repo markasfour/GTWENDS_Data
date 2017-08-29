@@ -1,0 +1,53 @@
+                      Barbados
+geoName                       
+Alabama                     25
+Alaska                      22
+Arizona                     23
+Arkansas                    23
+California                  23
+Colorado                    26
+Connecticut                 67
+Delaware                    54
+District of Columbia        65
+Florida                     63
+Georgia                     41
+Hawaii                      20
+Idaho                       19
+Illinois                    29
+Indiana                     26
+Iowa                        21
+Kansas                      25
+Kentucky                    25
+Louisiana                   29
+Maine                       38
+Maryland                    54
+Massachusetts               63
+Michigan                    25
+Minnesota                   27
+Mississippi                 26
+Missouri                    25
+Montana                     20
+Nebraska                    21
+Nevada                      25
+New Hampshire               44
+New Jersey                  62
+New Mexico                  21
+New York                   100
+North Carolina              36
+North Dakota                21
+Ohio                        26
+Oklahoma                    25
+Oregon                      31
+Pennsylvania                40
+Rhode Island                46
+South Carolina              37
+South Dakota                21
+Tennessee                   27
+Texas                       31
+Utah                        25
+Vermont                     45
+Virginia                    39
+Washington                  21
+West Virginia               22
+Wisconsin                   25
+Wyoming                     23
