@@ -1,0 +1,53 @@
+                      West Indies
+geoName                          
+Alabama                        34
+Alaska                         21
+Arizona                        25
+Arkansas                       26
+California                     32
+Colorado                       24
+Connecticut                    67
+Delaware                       53
+District of Columbia           49
+Florida                        65
+Georgia                        45
+Hawaii                         17
+Idaho                          21
+Illinois                       36
+Indiana                        28
+Iowa                           25
+Kansas                         30
+Kentucky                       24
+Louisiana                      31
+Maine                          28
+Maryland                       55
+Massachusetts                  49
+Michigan                       30
+Minnesota                      32
+Mississippi                    24
+Missouri                       26
+Montana                        19
+Nebraska                       23
+Nevada                         22
+New Hampshire                  40
+New Jersey                     79
+New Mexico                     20
+New York                      100
+North Carolina                 35
+North Dakota                   22
+Ohio                           30
+Oklahoma                       26
+Oregon                         27
+Pennsylvania                   39
+Rhode Island                   38
+South Carolina                 31
+South Dakota                   19
+Tennessee                      25
+Texas                          35
+Utah                           30
+Vermont                        29
+Virginia                       62
+Washington                     27
+West Virginia                  22
+Wisconsin                      26
+Wyoming                        17

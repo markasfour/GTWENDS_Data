@@ -1,53 +1,53 @@
                       Fitbit
 geoName                     
-Alabama                   76
-Alaska                    76
+Alabama                   75
+Alaska                    78
 Arizona                   67
-Arkansas                  73
-California                65
+Arkansas                  71
+California                63
 Colorado                  78
 Connecticut               78
-Delaware                  87
-District of Columbia      74
-Florida                   57
-Georgia                   70
+Delaware                  88
+District of Columbia      76
+Florida                   59
+Georgia                   69
 Hawaii                    57
-Idaho                     75
-Illinois                  79
-Indiana                   88
-Iowa                      99
-Kansas                    72
-Kentucky                  91
+Idaho                     76
+Illinois                  80
+Indiana                   89
+Iowa                     100
+Kansas                    74
+Kentucky                  92
 Louisiana                 62
-Maine                     88
+Maine                     90
 Maryland                  80
-Massachusetts             83
-Michigan                  84
-Minnesota                 93
-Mississippi               63
-Missouri                  82
-Montana                   87
-Nebraska                 100
+Massachusetts             84
+Michigan                  82
+Minnesota                 95
+Mississippi               62
+Missouri                  81
+Montana                   86
+Nebraska                  99
 Nevada                    57
-New Hampshire             97
-New Jersey                72
-New Mexico                61
+New Hampshire             99
+New Jersey                73
+New Mexico                59
 New York                  59
-North Carolina            75
-North Dakota              95
+North Carolina            76
+North Dakota              96
 Ohio                      93
-Oklahoma                  73
+Oklahoma                  74
 Oregon                    56
 Pennsylvania              81
-Rhode Island              74
+Rhode Island              75
 South Carolina            74
-South Dakota              95
-Tennessee                 78
-Texas                     67
-Utah                      79
+South Dakota              93
+Tennessee                 79
+Texas                     66
+Utah                      80
 Vermont                   85
-Virginia                  71
+Virginia                  69
 Washington                80
 West Virginia             80
-Wisconsin                 98
-Wyoming                   83
+Wisconsin                 97
+Wyoming                   84

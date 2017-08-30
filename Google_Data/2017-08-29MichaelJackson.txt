@@ -1,39 +1,39 @@
                       MichaelJackson
 geoName                             
-Alabama                           38
-Arizona                           39
-Arkansas                          75
-California                        45
-Colorado                          23
-Connecticut                       43
-District of Columbia              35
-Florida                           51
-Georgia                           58
-Hawaii                            47
-Illinois                          60
-Indiana                           70
-Kansas                            37
-Kentucky                          51
-Louisiana                         73
-Maryland                          55
-Massachusetts                     39
-Michigan                          42
-Minnesota                         30
+Alabama                           61
+Arizona                           30
+Arkansas                          56
+California                        39
+Colorado                          33
+Connecticut                       46
+District of Columbia              44
+Florida                           42
+Georgia                           60
+Hawaii                            41
+Illinois                          45
+Indiana                           54
+Kansas                            34
+Kentucky                          55
+Louisiana                         53
+Maryland                          47
+Massachusetts                     38
+Michigan                          44
+Minnesota                         31
 Mississippi                      100
-Missouri                          54
-Nevada                            76
-New Jersey                        50
-New York                          54
-North Carolina                    62
-Ohio                              48
-Oklahoma                          35
-Oregon                            37
-Pennsylvania                      47
-Rhode Island                      61
-South Carolina                    57
-Tennessee                         47
-Texas                             54
-Utah                              35
-Virginia                          51
-Washington                        27
-Wisconsin                         34
+Missouri                          40
+Nevada                            65
+New Jersey                        46
+New York                          47
+North Carolina                    52
+Ohio                              43
+Oklahoma                          28
+Oregon                            27
+Pennsylvania                      42
+Rhode Island                      40
+South Carolina                    60
+Tennessee                         37
+Texas                             45
+Utah                              21
+Virginia                          44
+Washington                        25
+Wisconsin                         29

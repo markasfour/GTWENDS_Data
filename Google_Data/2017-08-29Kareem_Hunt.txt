@@ -1,51 +1,51 @@
                       Kareem Hunt
 geoName                          
 Alabama                        12
-Arizona                        14
-Arkansas                       16
+Arizona                        15
+Arkansas                       17
 California                     11
 Colorado                       13
-Connecticut                    15
-Delaware                       31
+Connecticut                    13
+Delaware                       30
 District of Columbia           15
-Florida                        11
-Georgia                        11
-Hawaii                         13
-Idaho                           9
-Illinois                       20
+Florida                        12
+Georgia                        12
+Hawaii                         16
+Idaho                           6
+Illinois                       19
 Indiana                        20
-Iowa                           24
-Kansas                         51
+Iowa                           22
+Kansas                         58
 Kentucky                       15
-Louisiana                      11
-Maine                          17
-Maryland                       17
-Massachusetts                  16
-Michigan                       30
-Minnesota                      29
+Louisiana                      10
+Maine                          14
+Maryland                       19
+Massachusetts                  15
+Michigan                       32
+Minnesota                      26
 Mississippi                    10
-Missouri                       51
+Missouri                       50
 Montana                        12
 Nebraska                       29
-Nevada                         15
+Nevada                         14
 New Hampshire                  18
 New Jersey                     20
-New Mexico                     12
+New Mexico                     13
 New York                       13
-North Carolina                 13
-North Dakota                   13
+North Carolina                 14
+North Dakota                   10
 Ohio                          100
-Oklahoma                       14
-Oregon                          5
+Oklahoma                       12
+Oregon                          4
 Pennsylvania                   24
-Rhode Island                   15
-South Carolina                 15
-South Dakota                   30
-Tennessee                      14
+Rhode Island                   13
+South Carolina                 11
+South Dakota                   28
+Tennessee                      13
 Texas                          12
-Utah                           12
-Vermont                         8
-Virginia                       12
-Washington                     13
+Utah                           10
+Vermont                         5
+Virginia                       11
+Washington                     12
 West Virginia                  12
-Wisconsin                      21
+Wisconsin                      20

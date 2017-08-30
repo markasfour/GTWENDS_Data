@@ -1,53 +1,53 @@
                       US Open Tennis 2017
 geoName                                  
-Alabama                                20
-Alaska                                  4
+Alabama                                22
+Alaska                                 22
 Arizona                                18
-Arkansas                               18
-California                             25
-Colorado                               24
-Connecticut                            70
-Delaware                               48
-District of Columbia                   45
-Florida                                32
+Arkansas                               16
+California                             24
+Colorado                               21
+Connecticut                            66
+Delaware                               50
+District of Columbia                   47
+Florida                                31
 Georgia                                33
-Hawaii                                 18
-Idaho                                  17
-Illinois                               27
-Indiana                                18
-Iowa                                   19
+Hawaii                                 23
+Idaho                                  13
+Illinois                               28
+Indiana                                20
+Iowa                                   14
 Kansas                                 17
-Kentucky                               15
-Louisiana                              24
-Maine                                  39
-Maryland                               43
+Kentucky                               14
+Louisiana                              22
+Maine                                  28
+Maryland                               42
 Massachusetts                          41
 Michigan                               23
-Minnesota                              23
-Mississippi                            22
-Missouri                               19
-Montana                                15
-Nebraska                               19
-Nevada                                 26
-New Hampshire                          28
-New Jersey                             76
-New Mexico                             25
+Minnesota                              24
+Mississippi                            20
+Missouri                               15
+Montana                                17
+Nebraska                               15
+Nevada                                 24
+New Hampshire                          25
+New Jersey                             80
+New Mexico                             18
 New York                              100
-North Carolina                         33
-North Dakota                           14
-Ohio                                   20
-Oklahoma                               13
-Oregon                                 17
-Pennsylvania                           35
-Rhode Island                           47
+North Carolina                         32
+North Dakota                           12
+Ohio                                   21
+Oklahoma                               14
+Oregon                                 19
+Pennsylvania                           31
+Rhode Island                           38
 South Carolina                         30
-South Dakota                           18
-Tennessee                              22
-Texas                                  23
-Utah                                   24
-Vermont                                21
-Virginia                               30
+South Dakota                           16
+Tennessee                              19
+Texas                                  24
+Utah                                   28
+Vermont                                38
+Virginia                               28
 Washington                             20
-West Virginia                          16
-Wisconsin                              22
+West Virginia                           9
+Wisconsin                              23
 Wyoming                                14

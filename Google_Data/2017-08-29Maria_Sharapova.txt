@@ -1,53 +1,53 @@
                       Maria Sharapova
 geoName                              
-Alabama                            73
-Alaska                             46
-Arizona                            74
-Arkansas                           56
-California                         93
+Alabama                            70
+Alaska                             40
+Arizona                            68
+Arkansas                           59
+California                         91
 Colorado                           73
-Connecticut                        90
-Delaware                           96
-District of Columbia               96
-Florida                            87
-Georgia                            84
-Hawaii                             86
-Idaho                              64
-Illinois                           76
-Indiana                            73
-Iowa                               63
-Kansas                             68
-Kentucky                           72
-Louisiana                          70
-Maine                              68
-Maryland                           93
+Connecticut                        97
+Delaware                           95
+District of Columbia               92
+Florida                            88
+Georgia                            82
+Hawaii                             79
+Idaho                              65
+Illinois                           77
+Indiana                            71
+Iowa                               65
+Kansas                             66
+Kentucky                           70
+Louisiana                          68
+Maine                              67
+Maryland                           90
 Massachusetts                      90
-Michigan                           75
+Michigan                           72
 Minnesota                          74
-Mississippi                        76
-Missouri                           64
-Montana                            78
-Nebraska                           62
-Nevada                             83
+Mississippi                        74
+Missouri                           65
+Montana                            72
+Nebraska                           63
+Nevada                             85
 New Hampshire                      76
 New Jersey                         96
-New Mexico                         70
+New Mexico                         69
 New York                          100
-North Carolina                     75
-North Dakota                       71
-Ohio                               79
-Oklahoma                           66
-Oregon                             68
-Pennsylvania                       82
-Rhode Island                       89
-South Carolina                     72
-South Dakota                       54
-Tennessee                          70
+North Carolina                     76
+North Dakota                       75
+Ohio                               76
+Oklahoma                           67
+Oregon                             70
+Pennsylvania                       80
+Rhode Island                       81
+South Carolina                     74
+South Dakota                       55
+Tennessee                          67
 Texas                              73
-Utah                               67
-Vermont                            73
-Virginia                           89
+Utah                               68
+Vermont                            63
+Virginia                           88
 Washington                         71
-West Virginia                      66
-Wisconsin                          64
-Wyoming                            61
+West Virginia                      64
+Wisconsin                          63
+Wyoming                            60

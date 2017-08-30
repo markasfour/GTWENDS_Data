@@ -1,0 +1,49 @@
+                      Hurricane Harvey Flooding
+geoName                                        
+Alabama                                      16
+Alaska                                       21
+Arizona                                      10
+Arkansas                                     26
+California                                    6
+Colorado                                     10
+Connecticut                                   5
+Delaware                                     17
+District of Columbia                         13
+Florida                                      14
+Georgia                                       5
+Hawaii                                       17
+Idaho                                        16
+Illinois                                      9
+Indiana                                       5
+Iowa                                         19
+Kansas                                        7
+Kentucky                                     11
+Louisiana                                    64
+Maine                                        11
+Maryland                                      9
+Massachusetts                                 6
+Michigan                                      8
+Minnesota                                     4
+Mississippi                                  11
+Missouri                                     14
+Nebraska                                     11
+Nevada                                       12
+New Hampshire                                10
+New Jersey                                    3
+New Mexico                                   19
+New York                                      6
+North Carolina                               10
+Ohio                                          8
+Oklahoma                                     28
+Oregon                                        7
+Pennsylvania                                  9
+Rhode Island                                 24
+South Carolina                               14
+Tennessee                                    10
+Texas                                       100
+Utah                                         19
+Virginia                                     11
+Washington                                   11
+West Virginia                                12
+Wisconsin                                     9
+Wyoming                                      66

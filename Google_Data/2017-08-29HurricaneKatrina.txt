@@ -1,21 +1,20 @@
                 HurricaneKatrina
 geoName                         
-Alabama                       27
-Arizona                       41
-California                    14
-Colorado                      14
-Florida                       11
-Georgia                       18
-Illinois                      26
+Alabama                       21
+Arizona                       22
+California                    12
+Colorado                      34
+Florida                        5
+Georgia                       17
+Illinois                      11
 Louisiana                    100
-Massachusetts                 19
-Michigan                      18
-Missouri                      61
-New Jersey                    28
-New York                      13
-North Carolina                22
-Ohio                          18
+Massachusetts                  7
+Michigan                      14
+Missouri                      48
+New Jersey                    18
+New York                      16
+North Carolina                14
+Ohio                           7
 Pennsylvania                  11
-Tennessee                     22
-Texas                         22
-Virginia                       8
+Tennessee                     12
+Texas                         26

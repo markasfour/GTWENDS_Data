@@ -1,0 +1,53 @@
+                      Kerber
+geoName                     
+Alabama                   48
+Alaska                    33
+Arizona                   44
+Arkansas                  38
+California                53
+Colorado                  49
+Connecticut               80
+Delaware                  66
+District of Columbia      66
+Florida                   64
+Georgia                   60
+Hawaii                    41
+Idaho                     35
+Illinois                  71
+Indiana                   57
+Iowa                      71
+Kansas                    35
+Kentucky                  42
+Louisiana                 53
+Maine                     48
+Maryland                  65
+Massachusetts             65
+Michigan                  48
+Minnesota                 86
+Mississippi               43
+Missouri                  69
+Montana                   33
+Nebraska                  44
+Nevada                    52
+New Hampshire             56
+New Jersey                71
+New Mexico                39
+New York                  74
+North Carolina            59
+North Dakota              37
+Ohio                      58
+Oklahoma                  35
+Oregon                    35
+Pennsylvania              72
+Rhode Island              56
+South Carolina            63
+South Dakota              29
+Tennessee                 44
+Texas                     42
+Utah                      36
+Vermont                   95
+Virginia                  51
+Washington                42
+West Virginia             27
+Wisconsin                 86
+Wyoming                  100

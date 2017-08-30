@@ -1,53 +1,53 @@
                       Amber Rose
 geoName                         
-Alabama                       68
-Alaska                        45
-Arizona                       69
-Arkansas                      55
-California                    81
-Colorado                      53
-Connecticut                   60
-Delaware                      81
+Alabama                       69
+Alaska                        46
+Arizona                       71
+Arkansas                      52
+California                    80
+Colorado                      52
+Connecticut                   61
+Delaware                      82
 District of Columbia         100
 Florida                       73
-Georgia                       90
+Georgia                       91
 Hawaii                        68
 Idaho                         33
-Illinois                      71
-Indiana                       55
-Iowa                          43
-Kansas                        50
-Kentucky                      64
-Louisiana                     84
-Maine                         33
-Maryland                      86
+Illinois                      69
+Indiana                       53
+Iowa                          42
+Kansas                        51
+Kentucky                      63
+Louisiana                     86
+Maine                         35
+Maryland                      88
 Massachusetts                 63
-Michigan                      65
+Michigan                      67
 Minnesota                     49
-Mississippi                   77
-Missouri                      58
-Montana                       32
+Mississippi                   78
+Missouri                      59
+Montana                       33
 Nebraska                      53
-Nevada                        78
-New Hampshire                 36
+Nevada                        80
+New Hampshire                 38
 New Jersey                    77
-New Mexico                    63
-New York                      84
-North Carolina                72
+New Mexico                    64
+New York                      85
+North Carolina                73
 North Dakota                  45
-Ohio                          60
+Ohio                          61
 Oklahoma                      69
 Oregon                        36
-Pennsylvania                  71
+Pennsylvania                  72
 Rhode Island                  70
-South Carolina                77
-South Dakota                  40
-Tennessee                     65
-Texas                         77
-Utah                          38
+South Carolina                75
+South Dakota                  39
+Tennessee                     64
+Texas                         79
+Utah                          37
 Vermont                       33
-Virginia                      69
-Washington                    54
-West Virginia                 51
-Wisconsin                     45
+Virginia                      68
+Washington                    53
+West Virginia                 50
+Wisconsin                     46
 Wyoming                       33

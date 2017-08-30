@@ -1,0 +1,53 @@
+                      Sean Spicer
+geoName                          
+Alabama                        40
+Alaska                         49
+Arizona                        46
+Arkansas                       41
+California                     59
+Colorado                       60
+Connecticut                    74
+Delaware                       69
+District of Columbia           99
+Florida                        47
+Georgia                        41
+Hawaii                         46
+Idaho                          45
+Illinois                       59
+Indiana                        47
+Iowa                           50
+Kansas                         38
+Kentucky                       39
+Louisiana                      38
+Maine                          69
+Maryland                       75
+Massachusetts                  78
+Michigan                       54
+Minnesota                      59
+Mississippi                    32
+Missouri                       46
+Montana                        55
+Nebraska                       46
+Nevada                         41
+New Hampshire                  67
+New Jersey                     63
+New Mexico                     50
+New York                       69
+North Carolina                 49
+North Dakota                   39
+Ohio                           53
+Oklahoma                       35
+Oregon                         55
+Pennsylvania                   62
+Rhode Island                  100
+South Carolina                 41
+South Dakota                   48
+Tennessee                      46
+Texas                          39
+Utah                           47
+Vermont                        84
+Virginia                       52
+Washington                     67
+West Virginia                  39
+Wisconsin                      50
+Wyoming                        42

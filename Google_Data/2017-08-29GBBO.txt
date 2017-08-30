@@ -1,0 +1,39 @@
+                      GBBO
+geoName                   
+Alabama                 24
+Arizona                 27
+Arkansas                25
+California              49
+Colorado                37
+Connecticut             66
+District of Columbia   100
+Florida                 23
+Georgia                 31
+Illinois                46
+Indiana                 48
+Iowa                    46
+Kansas                  30
+Kentucky                33
+Louisiana               23
+Maine                   87
+Maryland                77
+Massachusetts           81
+Michigan                44
+Minnesota               59
+Missouri                40
+Nevada                  43
+New Jersey              34
+New York                65
+North Carolina          34
+Ohio                    42
+Oklahoma                32
+Oregon                  71
+Pennsylvania            50
+Rhode Island            73
+South Carolina          41
+Tennessee               31
+Texas                   28
+Utah                    65
+Virginia                48
+Washington              81
+Wisconsin               48
