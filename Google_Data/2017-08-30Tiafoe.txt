@@ -1,0 +1,51 @@
+                      Tiafoe
+geoName                     
+Alabama                   22
+Arizona                   18
+Arkansas                  10
+California                25
+Colorado                  17
+Connecticut               32
+Delaware                  35
+District of Columbia      99
+Florida                   33
+Georgia                   32
+Hawaii                    20
+Idaho                     16
+Illinois                  22
+Indiana                   14
+Iowa                      10
+Kansas                    11
+Kentucky                  17
+Louisiana                 19
+Maine                     22
+Maryland                 100
+Massachusetts             24
+Michigan                  22
+Minnesota                 17
+Mississippi               18
+Missouri                  15
+Montana                   12
+Nebraska                  10
+Nevada                    18
+New Hampshire             15
+New Jersey                33
+New Mexico                16
+New York                  39
+North Carolina            28
+Ohio                      21
+Oklahoma                  16
+Oregon                    12
+Pennsylvania              18
+Rhode Island              24
+South Carolina            24
+South Dakota              10
+Tennessee                 16
+Texas                     19
+Utah                       9
+Vermont                   19
+Virginia                  45
+Washington                14
+West Virginia             19
+Wisconsin                 12
+Wyoming                   33

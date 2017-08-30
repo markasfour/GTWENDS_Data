@@ -1,0 +1,53 @@
+                      Bacardi
+geoName                      
+Alabama                    49
+Alaska                     48
+Arizona                    45
+Arkansas                   38
+California                 48
+Colorado                   45
+Connecticut                63
+Delaware                   71
+District of Columbia       73
+Florida                   100
+Georgia                    61
+Hawaii                     52
+Idaho                      38
+Illinois                   67
+Indiana                    53
+Iowa                       51
+Kansas                     43
+Kentucky                   51
+Louisiana                  47
+Maine                      51
+Maryland                   62
+Massachusetts              80
+Michigan                   64
+Minnesota                  71
+Mississippi                45
+Missouri                   53
+Montana                    36
+Nebraska                   53
+Nevada                     49
+New Hampshire              73
+New Jersey                 73
+New Mexico                 40
+New York                   81
+North Carolina             60
+North Dakota               72
+Ohio                       53
+Oklahoma                   63
+Oregon                     32
+Pennsylvania               70
+Rhode Island               76
+South Carolina             51
+South Dakota               56
+Tennessee                  46
+Texas                      48
+Utah                       33
+Vermont                    55
+Virginia                   55
+Washington                 45
+West Virginia              48
+Wisconsin                  67
+Wyoming                    45

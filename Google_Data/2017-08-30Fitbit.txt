@@ -1,0 +1,53 @@
+                      Fitbit
+geoName                     
+Alabama                   78
+Alaska                    77
+Arizona                   67
+Arkansas                  70
+California                64
+Colorado                  78
+Connecticut               78
+Delaware                  87
+District of Columbia      74
+Florida                   59
+Georgia                   69
+Hawaii                    56
+Idaho                     76
+Illinois                  79
+Indiana                   89
+Iowa                      98
+Kansas                    73
+Kentucky                  90
+Louisiana                 62
+Maine                     88
+Maryland                  80
+Massachusetts             83
+Michigan                  82
+Minnesota                 92
+Mississippi               61
+Missouri                  82
+Montana                   86
+Nebraska                 100
+Nevada                    58
+New Hampshire             99
+New Jersey                71
+New Mexico                60
+New York                  59
+North Carolina            75
+North Dakota              97
+Ohio                      93
+Oklahoma                  74
+Oregon                    55
+Pennsylvania              79
+Rhode Island              71
+South Carolina            73
+South Dakota              95
+Tennessee                 77
+Texas                     68
+Utah                      79
+Vermont                   85
+Virginia                  69
+Washington                79
+West Virginia             80
+Wisconsin                 97
+Wyoming                   85

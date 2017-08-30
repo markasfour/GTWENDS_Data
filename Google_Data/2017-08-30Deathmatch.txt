@@ -1,0 +1,48 @@
+                      Deathmatch
+geoName                         
+Alabama                       85
+Arizona                       90
+Arkansas                      81
+California                    72
+Colorado                      66
+Connecticut                   78
+Delaware                      91
+District of Columbia          40
+Florida                       90
+Georgia                       81
+Hawaii                        72
+Idaho                         80
+Illinois                      68
+Indiana                      100
+Iowa                          82
+Kansas                        76
+Kentucky                      93
+Louisiana                     70
+Maine                         90
+Maryland                      78
+Massachusetts                 70
+Michigan                      78
+Minnesota                     65
+Mississippi                   88
+Missouri                      72
+Montana                       81
+Nebraska                      78
+Nevada                        79
+New Hampshire                 78
+New Jersey                    89
+New Mexico                    91
+New York                      75
+North Carolina                77
+Ohio                          89
+Oklahoma                      73
+Oregon                        66
+Pennsylvania                  88
+Rhode Island                  78
+South Carolina                76
+Tennessee                     78
+Texas                         81
+Utah                          75
+Virginia                      62
+Washington                    80
+West Virginia                 95
+Wisconsin                     85

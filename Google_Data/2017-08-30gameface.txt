@@ -1,0 +1,50 @@
+                      gameface
+geoName                       
+Alabama                     59
+Arizona                     48
+Arkansas                    67
+California                  43
+Colorado                    43
+Connecticut                 60
+Delaware                    59
+District of Columbia        26
+Florida                     47
+Georgia                     51
+Hawaii                      44
+Idaho                      100
+Illinois                    45
+Indiana                     58
+Iowa                        59
+Kansas                      55
+Kentucky                    54
+Louisiana                   71
+Maine                       60
+Maryland                    61
+Massachusetts               56
+Michigan                    51
+Minnesota                   54
+Mississippi                 57
+Missouri                    52
+Montana                     41
+Nebraska                    52
+Nevada                      40
+New Hampshire               70
+New Jersey                  61
+New Mexico                  50
+New York                    52
+North Carolina              56
+North Dakota                45
+Ohio                        68
+Oklahoma                    55
+Oregon                      34
+Pennsylvania                79
+Rhode Island                83
+South Carolina              55
+Tennessee                   56
+Texas                       48
+Utah                        37
+Vermont                     58
+Virginia                    45
+Washington                  43
+West Virginia               63
+Wisconsin                   60

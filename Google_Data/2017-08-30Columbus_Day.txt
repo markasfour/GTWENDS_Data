@@ -1,0 +1,53 @@
+                      Columbus Day
+geoName                           
+Alabama                         27
+Alaska                          22
+Arizona                         25
+Arkansas                        18
+California                      25
+Colorado                        23
+Connecticut                     49
+Delaware                        31
+District of Columbia            59
+Florida                         28
+Georgia                         32
+Hawaii                          27
+Idaho                           20
+Illinois                        34
+Indiana                         25
+Iowa                            18
+Kansas                          19
+Kentucky                        23
+Louisiana                       19
+Maine                           52
+Maryland                        37
+Massachusetts                   70
+Michigan                        24
+Minnesota                       22
+Mississippi                     27
+Missouri                        23
+Montana                         22
+Nebraska                        25
+Nevada                          26
+New Hampshire                   53
+New Jersey                      43
+New Mexico                      24
+New York                        55
+North Carolina                  24
+North Dakota                    17
+Ohio                           100
+Oklahoma                        23
+Oregon                          20
+Pennsylvania                    32
+Rhode Island                    70
+South Carolina                  21
+South Dakota                    20
+Tennessee                       21
+Texas                           23
+Utah                            23
+Vermont                         50
+Virginia                        35
+Washington                      26
+West Virginia                   31
+Wisconsin                       19
+Wyoming                         19

@@ -1,0 +1,53 @@
+                      Mattis
+geoName                     
+Alabama                   58
+Alaska                    63
+Arizona                   46
+Arkansas                  46
+California                43
+Colorado                  45
+Connecticut               46
+Delaware                  45
+District of Columbia     100
+Florida                   43
+Georgia                   44
+Hawaii                    58
+Idaho                     49
+Illinois                  71
+Indiana                   47
+Iowa                      39
+Kansas                    37
+Kentucky                  43
+Louisiana                 42
+Maine                     39
+Maryland                  62
+Massachusetts             43
+Michigan                  42
+Minnesota                 35
+Mississippi               44
+Missouri                  58
+Montana                   46
+Nebraska                  51
+Nevada                    41
+New Hampshire             49
+New Jersey                44
+New Mexico                48
+New York                  40
+North Carolina            58
+North Dakota              49
+Ohio                      44
+Oklahoma                  45
+Oregon                    33
+Pennsylvania              50
+Rhode Island              53
+South Carolina            48
+South Dakota              45
+Tennessee                 48
+Texas                     42
+Utah                      43
+Vermont                   45
+Virginia                  63
+Washington                53
+West Virginia             52
+Wisconsin                 35
+Wyoming                   55

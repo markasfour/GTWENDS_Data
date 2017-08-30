@@ -1,0 +1,53 @@
+                      Hoya
+geoName                   
+Alabama                  9
+Alaska                  14
+Arizona                 21
+Arkansas                 9
+California              28
+Colorado                17
+Connecticut             16
+Delaware                14
+District of Columbia   100
+Florida                 16
+Georgia                 14
+Hawaii                  21
+Idaho                   14
+Illinois                15
+Indiana                 11
+Iowa                     9
+Kansas                  14
+Kentucky                10
+Louisiana               13
+Maine                   12
+Maryland                26
+Massachusetts           14
+Michigan                11
+Minnesota               11
+Mississippi              9
+Missouri                11
+Montana                 13
+Nebraska                13
+Nevada                  27
+New Hampshire           12
+New Jersey              17
+New Mexico              21
+New York                17
+North Carolina          10
+North Dakota             9
+Ohio                    11
+Oklahoma                13
+Oregon                  15
+Pennsylvania            13
+Rhode Island            14
+South Carolina           9
+South Dakota            11
+Tennessee               10
+Texas                   22
+Utah                    12
+Vermont                 13
+Virginia                20
+Washington              16
+West Virginia            9
+Wisconsin               11
+Wyoming                 12
