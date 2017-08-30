@@ -1,0 +1,46 @@
+                      Downsizing
+geoName                         
+Alabama                       50
+Arizona                       44
+Arkansas                      45
+California                    42
+Colorado                      49
+Connecticut                   49
+Delaware                      69
+District of Columbia          55
+Florida                       46
+Georgia                       44
+Hawaii                        57
+Idaho                         50
+Illinois                      45
+Indiana                       58
+Iowa                          50
+Kansas                        53
+Kentucky                      47
+Louisiana                     36
+Maine                         56
+Maryland                      64
+Massachusetts                 48
+Michigan                      52
+Minnesota                     51
+Mississippi                   42
+Missouri                      48
+Nebraska                     100
+Nevada                        44
+New Hampshire                 54
+New Jersey                    50
+New Mexico                    46
+New York                      45
+North Carolina                63
+Ohio                          55
+Oklahoma                      42
+Oregon                        50
+Pennsylvania                  55
+Rhode Island                  36
+South Carolina                54
+Tennessee                     47
+Texas                         42
+Utah                          39
+Virginia                      56
+Washington                    50
+Wisconsin                     51

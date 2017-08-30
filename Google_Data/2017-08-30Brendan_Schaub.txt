@@ -1,52 +1,52 @@
                       Brendan Schaub
 geoName                             
-Alabama                           41
-Alaska                            42
-Arizona                           84
-Arkansas                          40
-California                        99
-Colorado                          81
-Connecticut                       53
-Delaware                          58
-District of Columbia              55
-Florida                           52
+Alabama                           38
+Alaska                            59
+Arizona                           93
+Arkansas                          38
+California                       100
+Colorado                          85
+Connecticut                       57
+Delaware                          69
+District of Columbia              58
+Florida                           50
 Georgia                           39
-Hawaii                            95
-Idaho                             51
-Illinois                          58
-Indiana                           56
-Iowa                              56
-Kansas                            48
-Kentucky                          53
-Louisiana                         53
-Maine                             57
-Maryland                          49
-Massachusetts                     56
-Michigan                          54
-Minnesota                         46
-Mississippi                       30
-Missouri                          49
-Montana                           48
-Nebraska                          75
-Nevada                           100
-New Hampshire                     63
-New Jersey                        61
-New Mexico                        71
-New York                          62
-North Carolina                    40
-North Dakota                      75
-Ohio                              50
-Oklahoma                          54
-Oregon                            59
-Pennsylvania                      58
-Rhode Island                      47
+Hawaii                            87
+Idaho                             48
+Illinois                          62
+Indiana                           54
+Iowa                              67
+Kansas                            45
+Kentucky                          49
+Louisiana                         59
+Maine                             45
+Maryland                          50
+Massachusetts                     58
+Michigan                          52
+Minnesota                         47
+Mississippi                       40
+Missouri                          48
+Montana                           72
+Nebraska                          76
+Nevada                            95
+New Hampshire                     58
+New Jersey                        62
+New Mexico                        77
+New York                          65
+North Carolina                    41
+North Dakota                      78
+Ohio                              49
+Oklahoma                          51
+Oregon                            54
+Pennsylvania                      54
+Rhode Island                      53
 South Carolina                    39
-South Dakota                      34
-Tennessee                         45
+South Dakota                      39
+Tennessee                         42
 Texas                             56
-Utah                              55
-Vermont                           48
-Virginia                          38
-Washington                        74
-West Virginia                     45
-Wisconsin                         40
+Utah                              61
+Vermont                           36
+Virginia                          40
+Washington                        78
+West Virginia                     44
+Wisconsin                         38

@@ -1,0 +1,53 @@
+                      Cameron
+geoName                      
+Alabama                    57
+Alaska                     47
+Arizona                    55
+Arkansas                   59
+California                 64
+Colorado                   52
+Connecticut                54
+Delaware                   52
+District of Columbia       60
+Florida                    51
+Georgia                    57
+Hawaii                     56
+Idaho                      50
+Illinois                   54
+Indiana                    58
+Iowa                       56
+Kansas                     55
+Kentucky                   59
+Louisiana                  81
+Maine                      50
+Maryland                   57
+Massachusetts              55
+Michigan                   53
+Minnesota                  51
+Mississippi                59
+Missouri                   86
+Montana                    56
+Nebraska                   58
+Nevada                     59
+New Hampshire              53
+New Jersey                 55
+New Mexico                 53
+New York                   53
+North Carolina             97
+North Dakota               55
+Ohio                       61
+Oklahoma                  100
+Oregon                     41
+Pennsylvania               59
+Rhode Island               56
+South Carolina             61
+South Dakota               53
+Tennessee                  59
+Texas                      75
+Utah                       54
+Vermont                    47
+Virginia                   52
+Washington                 50
+West Virginia              65
+Wisconsin                  59
+Wyoming                    55

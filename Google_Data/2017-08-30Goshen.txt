@@ -1,0 +1,53 @@
+                      Goshen
+geoName                     
+Alabama                    2
+Alaska                     1
+Arizona                    1
+Arkansas                   3
+California                 1
+Colorado                   1
+Connecticut               13
+Delaware                   2
+District of Columbia       4
+Florida                    1
+Georgia                    2
+Hawaii                     0
+Idaho                      1
+Illinois                   6
+Indiana                  100
+Iowa                       1
+Kansas                     2
+Kentucky                   7
+Louisiana                  1
+Maine                      2
+Maryland                   3
+Massachusetts              4
+Michigan                   7
+Minnesota                  2
+Mississippi                2
+Missouri                   2
+Montana                    1
+Nebraska                   3
+Nevada                     1
+New Hampshire              4
+New Jersey                 3
+New Mexico                 1
+New York                  11
+North Carolina             2
+North Dakota               1
+Ohio                      10
+Oklahoma                   1
+Oregon                     1
+Pennsylvania               7
+Rhode Island               1
+South Carolina             2
+South Dakota               1
+Tennessee                  2
+Texas                      1
+Utah                       3
+Vermont                    4
+Virginia                   2
+Washington                 1
+West Virginia              2
+Wisconsin                  2
+Wyoming                   31

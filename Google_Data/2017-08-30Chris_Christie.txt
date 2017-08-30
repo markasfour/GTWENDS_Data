@@ -1,0 +1,53 @@
+                      Chris Christie
+geoName                             
+Alabama                           12
+Alaska                            13
+Arizona                           12
+Arkansas                          11
+California                        13
+Colorado                          13
+Connecticut                       24
+Delaware                          33
+District of Columbia              36
+Florida                           13
+Georgia                           12
+Hawaii                            10
+Idaho                             11
+Illinois                          14
+Indiana                           13
+Iowa                              15
+Kansas                            10
+Kentucky                          12
+Louisiana                         10
+Maine                             19
+Maryland                          21
+Massachusetts                     23
+Michigan                          13
+Minnesota                         13
+Mississippi                       10
+Missouri                          13
+Montana                           13
+Nebraska                          13
+Nevada                            12
+New Hampshire                     28
+New Jersey                       100
+New Mexico                        11
+New York                          29
+North Carolina                    14
+North Dakota                      11
+Ohio                              14
+Oklahoma                          11
+Oregon                            11
+Pennsylvania                      28
+Rhode Island                      21
+South Carolina                    13
+South Dakota                      10
+Tennessee                         12
+Texas                             11
+Utah                              11
+Vermont                           25
+Virginia                          17
+Washington                        14
+West Virginia                     14
+Wisconsin                         14
+Wyoming                           11

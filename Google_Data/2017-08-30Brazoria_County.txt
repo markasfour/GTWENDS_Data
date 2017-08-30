@@ -12,7 +12,7 @@ District of Columbia                2
 Florida                             1
 Georgia                             2
 Hawaii                              1
-Idaho                               0
+Idaho                               1
 Illinois                            1
 Indiana                             1
 Iowa                                1
@@ -26,21 +26,21 @@ Michigan                            1
 Minnesota                           1
 Mississippi                         2
 Missouri                            2
-Montana                             1
+Montana                             0
 Nebraska                            1
 Nevada                              1
 New Hampshire                       0
 New Jersey                          1
-New Mexico                          1
+New Mexico                          2
 New York                            1
 North Carolina                      1
 Ohio                                1
-Oklahoma                            9
+Oklahoma                            8
 Oregon                              1
 Pennsylvania                        1
-Rhode Island                        0
+Rhode Island                        1
 South Carolina                      1
-South Dakota                        0
+South Dakota                        1
 Tennessee                           2
 Texas                             100
 Utah                                1

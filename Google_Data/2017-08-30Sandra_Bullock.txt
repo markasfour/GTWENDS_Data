@@ -1,53 +1,53 @@
                       Sandra Bullock
 geoName                             
 Alabama                           83
-Alaska                            84
-Arizona                           87
-Arkansas                          82
-California                        77
-Colorado                          85
+Alaska                            90
+Arizona                           91
+Arkansas                          89
+California                        81
+Colorado                          88
 Connecticut                       76
-Delaware                          72
-District of Columbia              66
-Florida                           80
-Georgia                           77
-Hawaii                            77
-Idaho                             86
-Illinois                          77
-Indiana                           80
-Iowa                              81
-Kansas                            78
-Kentucky                          81
-Louisiana                         96
+Delaware                          77
+District of Columbia              70
+Florida                           82
+Georgia                           81
+Hawaii                            79
+Idaho                             89
+Illinois                          80
+Indiana                           83
+Iowa                              83
+Kansas                            83
+Kentucky                          88
+Louisiana                         99
 Maine                             77
-Maryland                          69
-Massachusetts                     74
-Michigan                          79
-Minnesota                         78
-Mississippi                       89
-Missouri                          85
-Montana                           79
-Nebraska                          82
-Nevada                            85
-New Hampshire                     77
-New Jersey                        75
-New Mexico                        88
-New York                          70
-North Carolina                    80
-North Dakota                      77
-Ohio                              76
-Oklahoma                          96
-Oregon                            66
-Pennsylvania                      75
-Rhode Island                      73
-South Carolina                    77
-South Dakota                      81
-Tennessee                         82
-Texas                             91
-Utah                              86
-Vermont                           68
-Virginia                          70
-Washington                        79
-West Virginia                     82
-Wisconsin                         76
+Maryland                          71
+Massachusetts                     78
+Michigan                          81
+Minnesota                         81
+Mississippi                       91
+Missouri                          87
+Montana                           89
+Nebraska                          88
+Nevada                            88
+New Hampshire                     84
+New Jersey                        77
+New Mexico                        96
+New York                          75
+North Carolina                    84
+North Dakota                      83
+Ohio                              81
+Oklahoma                         100
+Oregon                            68
+Pennsylvania                      78
+Rhode Island                      74
+South Carolina                    82
+South Dakota                      80
+Tennessee                         87
+Texas                             96
+Utah                              89
+Vermont                           70
+Virginia                          74
+Washington                        83
+West Virginia                     85
+Wisconsin                         80
 Wyoming                          100

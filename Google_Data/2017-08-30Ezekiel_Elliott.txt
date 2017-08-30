@@ -1,53 +1,53 @@
                       Ezekiel Elliott
 geoName                              
-Alabama                            31
-Alaska                             20
-Arizona                            31
-Arkansas                           39
+Alabama                            30
+Alaska                             17
+Arizona                            30
+Arkansas                           37
 California                         24
-Colorado                           28
-Connecticut                        34
-Delaware                           43
+Colorado                           27
+Connecticut                        32
+Delaware                           44
 District of Columbia               41
 Florida                            25
-Georgia                            30
-Hawaii                             26
+Georgia                            28
+Hawaii                             24
 Idaho                              23
 Illinois                           28
 Indiana                            32
-Iowa                               33
+Iowa                               32
 Kansas                             24
-Kentucky                           26
-Louisiana                          34
-Maine                              23
-Maryland                           37
-Massachusetts                      25
-Michigan                           35
-Minnesota                          25
-Mississippi                        46
-Missouri                           43
-Montana                            28
+Kentucky                           25
+Louisiana                          32
+Maine                              24
+Maryland                           35
+Massachusetts                      24
+Michigan                           33
+Minnesota                          24
+Mississippi                        45
+Missouri                           42
+Montana                            25
 Nebraska                           31
-Nevada                             30
-New Hampshire                      23
+Nevada                             29
+New Hampshire                      21
 New Jersey                         38
-New Mexico                         47
+New Mexico                         49
 New York                           23
 North Carolina                     33
-North Dakota                       34
+North Dakota                       32
 Ohio                              100
-Oklahoma                           32
+Oklahoma                           31
 Oregon                             15
 Pennsylvania                       37
-Rhode Island                       27
-South Carolina                     35
-South Dakota                       34
+Rhode Island                       26
+South Carolina                     36
+South Dakota                       33
 Tennessee                          31
-Texas                              77
+Texas                              74
 Utah                               22
-Vermont                            17
+Vermont                            16
 Virginia                           30
 Washington                         22
-West Virginia                      36
-Wisconsin                          28
-Wyoming                            25
+West Virginia                      33
+Wisconsin                          27
+Wyoming                            22

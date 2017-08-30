@@ -1,0 +1,53 @@
+                      New America
+geoName                          
+Alabama                        31
+Alaska                         32
+Arizona                        34
+Arkansas                       33
+California                     38
+Colorado                       34
+Connecticut                    90
+Delaware                       45
+District of Columbia           70
+Florida                        37
+Georgia                        35
+Hawaii                         26
+Idaho                          30
+Illinois                       34
+Indiana                        35
+Iowa                           30
+Kansas                         31
+Kentucky                       31
+Louisiana                      78
+Maine                          47
+Maryland                       47
+Massachusetts                  60
+Michigan                       29
+Minnesota                      38
+Mississippi                    35
+Missouri                       33
+Montana                        27
+Nebraska                       27
+Nevada                         38
+New Hampshire                  75
+New Jersey                     88
+New Mexico                    100
+New York                       82
+North Carolina                 40
+North Dakota                   27
+Ohio                           29
+Oklahoma                       32
+Oregon                         23
+Pennsylvania                   40
+Rhode Island                   58
+South Carolina                 36
+South Dakota                   28
+Tennessee                      32
+Texas                          35
+Utah                           37
+Vermont                        47
+Virginia                       36
+Washington                     30
+West Virginia                  30
+Wisconsin                      30
+Wyoming                        27

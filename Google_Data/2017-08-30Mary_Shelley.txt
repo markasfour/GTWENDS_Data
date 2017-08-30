@@ -1,0 +1,41 @@
+                      Mary Shelley
+geoName                           
+Alabama                        100
+Arizona                         81
+Arkansas                        91
+California                      78
+Colorado                        63
+Connecticut                     78
+District of Columbia            47
+Florida                         64
+Georgia                         83
+Idaho                           81
+Illinois                        65
+Indiana                         85
+Iowa                            65
+Kansas                          81
+Kentucky                        79
+Louisiana                       88
+Maine                           85
+Maryland                        73
+Massachusetts                   74
+Michigan                        70
+Minnesota                       57
+Missouri                        69
+Nebraska                        67
+Nevada                          91
+New Hampshire                   73
+New Jersey                      88
+New York                        65
+North Carolina                  83
+Ohio                            74
+Oklahoma                        81
+Oregon                          50
+Pennsylvania                    72
+South Carolina                  88
+Tennessee                       81
+Texas                           82
+Utah                            77
+Virginia                        70
+Washington                      67
+Wisconsin                       60
