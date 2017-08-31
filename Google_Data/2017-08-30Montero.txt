@@ -1,0 +1,53 @@
+                      Montero
+geoName                      
+Alabama                    56
+Alaska                     71
+Arizona                    96
+Arkansas                   50
+California                 79
+Colorado                   65
+Connecticut                53
+Delaware                   40
+District of Columbia       56
+Florida                    82
+Georgia                    64
+Hawaii                     57
+Idaho                      60
+Illinois                   83
+Indiana                    45
+Iowa                       48
+Kansas                     48
+Kentucky                   41
+Louisiana                  55
+Maine                      24
+Maryland                   43
+Massachusetts              45
+Michigan                   29
+Minnesota                  39
+Mississippi                48
+Missouri                   46
+Montana                    44
+Nebraska                   43
+Nevada                     84
+New Hampshire              27
+New Jersey                 69
+New Mexico                 75
+New York                   72
+North Carolina             50
+North Dakota               32
+Ohio                       28
+Oklahoma                   56
+Oregon                    100
+Pennsylvania               40
+Rhode Island               44
+South Carolina             48
+South Dakota               32
+Tennessee                  50
+Texas                      81
+Utah                       66
+Vermont                    19
+Virginia                   52
+Washington                 90
+West Virginia              32
+Wisconsin                  38
+Wyoming                    44

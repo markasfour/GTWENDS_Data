@@ -1,53 +1,53 @@
                       Matthew Stafford
 geoName                               
-Alabama                             12
-Alaska                               8
+Alabama                             13
+Alaska                               6
 Arizona                             11
 Arkansas                            10
-California                           8
-Colorado                            13
-Connecticut                         11
-Delaware                            11
-District of Columbia                13
-Florida                             10
-Georgia                             21
-Hawaii                              11
-Idaho                               10
+California                           9
+Colorado                            14
+Connecticut                         12
+Delaware                            13
+District of Columbia                15
+Florida                             11
+Georgia                             22
+Hawaii                              10
+Idaho                               11
 Illinois                            15
-Indiana                             12
+Indiana                             14
 Iowa                                14
 Kansas                               9
 Kentucky                            12
 Louisiana                           13
-Maine                                9
+Maine                                7
 Maryland                            12
-Massachusetts                       10
+Massachusetts                       11
 Michigan                           100
-Minnesota                           19
+Minnesota                           20
 Mississippi                         12
 Missouri                            11
-Montana                             14
-Nebraska                            14
-Nevada                              10
-New Hampshire                       10
+Montana                             13
+Nebraska                            16
+Nevada                              11
+New Hampshire                        8
 New Jersey                          11
 New Mexico                           9
 New York                            10
 North Carolina                      11
-North Dakota                        18
-Ohio                                13
-Oklahoma                            12
+North Dakota                        21
+Ohio                                15
+Oklahoma                            13
 Oregon                               6
 Pennsylvania                        13
-Rhode Island                        12
+Rhode Island                        11
 South Carolina                      13
-South Dakota                        14
+South Dakota                        13
 Tennessee                           13
 Texas                               16
 Utah                                 9
-Vermont                              8
+Vermont                              9
 Virginia                            11
 Washington                          11
-West Virginia                       10
+West Virginia                        7
 Wisconsin                           22
-Wyoming                             14
+Wyoming                             13

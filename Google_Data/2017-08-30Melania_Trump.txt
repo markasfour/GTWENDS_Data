@@ -1,53 +1,53 @@
                       Melania Trump
 geoName                            
 Alabama                          84
-Alaska                           67
+Alaska                           63
 Arizona                          72
 Arkansas                         73
 California                       80
 Colorado                         72
-Connecticut                      96
-Delaware                         91
+Connecticut                      95
+Delaware                         88
 District of Columbia            100
-Florida                          85
-Georgia                          72
-Hawaii                           63
-Idaho                            62
-Illinois                         78
-Indiana                          73
-Iowa                             64
+Florida                          86
+Georgia                          73
+Hawaii                           62
+Idaho                            61
+Illinois                         77
+Indiana                          72
+Iowa                             62
 Kansas                           56
 Kentucky                         67
-Louisiana                        72
-Maine                            82
-Maryland                         89
+Louisiana                        73
+Maine                            83
+Maryland                         90
 Massachusetts                    89
 Michigan                         76
 Minnesota                        65
-Mississippi                      70
-Missouri                         65
+Mississippi                      68
+Missouri                         67
 Montana                          73
 Nebraska                         69
-Nevada                           75
+Nevada                           74
 New Hampshire                    84
-New Jersey                       97
-New Mexico                       83
+New Jersey                       98
+New Mexico                       84
 New York                         89
-North Carolina                   78
-North Dakota                     67
-Ohio                             75
-Oklahoma                         59
-Oregon                           58
+North Carolina                   77
+North Dakota                     69
+Ohio                             76
+Oklahoma                         60
+Oregon                           59
 Pennsylvania                     81
-Rhode Island                     92
-South Carolina                   75
+Rhode Island                     94
+South Carolina                   76
 South Dakota                     60
 Tennessee                        76
-Texas                            73
-Utah                             64
-Vermont                          82
-Virginia                         67
+Texas                            72
+Utah                             63
+Vermont                          80
+Virginia                         68
 Washington                       73
-West Virginia                    73
+West Virginia                    74
 Wisconsin                        63
-Wyoming                          71
+Wyoming                          65

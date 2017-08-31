@@ -1,53 +1,53 @@
                       Destiny 2 PC beta
 geoName                                
-Alabama                              37
-Alaska                               32
-Arizona                              54
-Arkansas                             67
-California                           53
-Colorado                             64
-Connecticut                          55
-Delaware                             53
-District of Columbia                 20
-Florida                              54
-Georgia                              41
-Hawaii                               22
-Idaho                                69
-Illinois                             46
-Indiana                              47
-Iowa                                 49
-Kansas                               46
-Kentucky                             53
-Louisiana                            48
-Maine                                23
-Maryland                             51
-Massachusetts                        42
-Michigan                             61
-Minnesota                            59
-Mississippi                          49
-Missouri                             48
-Montana                              54
-Nebraska                             37
-Nevada                               61
-New Hampshire                        37
-New Jersey                           50
-New Mexico                           62
-New York                             34
-North Carolina                       50
-North Dakota                        100
-Ohio                                 62
-Oklahoma                             54
-Oregon                               71
-Pennsylvania                         41
-Rhode Island                         92
-South Carolina                       35
-South Dakota                         67
-Tennessee                            70
-Texas                                47
-Utah                                 58
-Vermont                              89
-Virginia                             37
-Washington                           78
-West Virginia                        73
-Wisconsin                            47
-Wyoming                              66
+Alabama                              35
+Alaska                               13
+Arizona                              27
+Arkansas                             36
+California                           32
+Colorado                             35
+Connecticut                          36
+Delaware                             21
+District of Columbia                 11
+Florida                              33
+Georgia                              20
+Hawaii                               37
+Idaho                                70
+Illinois                             24
+Indiana                              43
+Iowa                                 28
+Kansas                               28
+Kentucky                             33
+Louisiana                            36
+Maine                                28
+Maryland                             33
+Massachusetts                        22
+Michigan                             33
+Minnesota                            32
+Mississippi                          31
+Missouri                             31
+Montana                              32
+Nebraska                             31
+Nevada                               34
+New Hampshire                        38
+New Jersey                           37
+New Mexico                           34
+New York                             18
+North Carolina                       28
+North Dakota                         47
+Ohio                                 33
+Oklahoma                             32
+Oregon                               40
+Pennsylvania                         24
+Rhode Island                         26
+South Carolina                       23
+South Dakota                         27
+Tennessee                            30
+Texas                                28
+Utah                                 26
+Vermont                              20
+Virginia                             23
+Washington                           45
+West Virginia                        44
+Wisconsin                            29
+Wyoming                             100

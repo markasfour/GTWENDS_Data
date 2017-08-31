@@ -1,53 +1,53 @@
                       Michael Jackson
 geoName                              
-Alabama                            64
-Alaska                             36
+Alabama                            63
+Alaska                             37
 Arizona                            51
 Arkansas                           57
-California                         57
-Colorado                           45
+California                         56
+Colorado                           44
 Connecticut                        50
 Delaware                           63
-District of Columbia               60
+District of Columbia               61
 Florida                            57
-Georgia                            69
+Georgia                            68
 Hawaii                             47
 Idaho                              36
-Illinois                           59
+Illinois                           58
 Indiana                            59
 Iowa                               44
 Kansas                             49
 Kentucky                           55
-Louisiana                          70
+Louisiana                          69
 Maine                              39
 Maryland                           64
-Massachusetts                      48
-Michigan                           57
-Minnesota                          44
-Mississippi                        83
-Missouri                           54
-Montana                            34
-Nebraska                           47
+Massachusetts                      47
+Michigan                           56
+Minnesota                          45
+Mississippi                        82
+Missouri                           56
+Montana                            35
+Nebraska                           46
 Nevada                            100
 New Hampshire                      39
 New Jersey                         59
-New Mexico                         48
-New York                           57
-North Carolina                     56
-North Dakota                       37
+New Mexico                         49
+New York                           58
+North Carolina                     57
+North Dakota                       35
 Ohio                               55
 Oklahoma                           51
-Oregon                             38
+Oregon                             39
 Pennsylvania                       54
 Rhode Island                       52
 South Carolina                     62
-South Dakota                       38
-Tennessee                          59
-Texas                              57
-Utah                               46
+South Dakota                       37
+Tennessee                          58
+Texas                              58
+Utah                               47
 Vermont                            35
-Virginia                           52
+Virginia                           51
 Washington                         44
-West Virginia                      51
-Wisconsin                          47
-Wyoming                            42
+West Virginia                      49
+Wisconsin                          45
+Wyoming                            41

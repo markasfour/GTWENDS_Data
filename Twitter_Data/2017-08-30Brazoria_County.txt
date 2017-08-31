@@ -1,8 +1,8 @@
 AL 15
-AK 4
-AZ 0
+AK 5
+AZ 2
 AR 0
-CA 6
+CA 7
 CO 15
 CT 15
 DE 0

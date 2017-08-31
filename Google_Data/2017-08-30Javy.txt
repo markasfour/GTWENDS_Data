@@ -1,0 +1,45 @@
+                      Javy
+geoName                   
+Alabama                 20
+Arizona                 22
+Arkansas                 9
+California              18
+Colorado                10
+Connecticut             12
+District of Columbia    14
+Florida                 18
+Georgia                 35
+Hawaii                  10
+Illinois               100
+Indiana                 36
+Iowa                    51
+Kansas                  10
+Kentucky                15
+Louisiana               10
+Maine                    5
+Maryland                10
+Massachusetts           14
+Michigan                10
+Minnesota               13
+Mississippi             20
+Missouri                12
+Nebraska                23
+Nevada                  14
+New Hampshire           11
+New Jersey              12
+New Mexico              17
+New York                14
+North Carolina          16
+Ohio                     8
+Oklahoma                12
+Oregon                   8
+Pennsylvania            10
+Rhode Island            13
+South Carolina          19
+South Dakota            10
+Tennessee               18
+Texas                   14
+Utah                     9
+Virginia                13
+Washington               8
+Wisconsin               19

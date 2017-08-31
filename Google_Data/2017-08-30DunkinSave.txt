@@ -1,0 +1,38 @@
+                DunkinSave
+geoName                   
+Alabama                 16
+Arizona                  5
+Arkansas                29
+California               3
+Colorado                 3
+Connecticut             20
+Florida                 44
+Georgia                 28
+Illinois                34
+Indiana                 48
+Iowa                    43
+Kansas                  22
+Kentucky                61
+Louisiana               37
+Maine                  100
+Maryland                20
+Massachusetts           35
+Michigan                32
+Minnesota               16
+Mississippi             59
+Missouri                11
+Nebraska                29
+New Hampshire           33
+New Jersey              34
+New York                31
+North Carolina          32
+Ohio                    35
+Oklahoma                31
+Pennsylvania            37
+Rhode Island            97
+South Carolina          58
+Tennessee               38
+Texas                   23
+Virginia                20
+West Virginia           48
+Wisconsin               28

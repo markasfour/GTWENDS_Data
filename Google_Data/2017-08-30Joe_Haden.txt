@@ -1,53 +1,53 @@
                       Joe Haden
 geoName                        
-Alabama                      12
-Alaska                        4
-Arizona                      11
-Arkansas                      8
-California                   10
-Colorado                     10
-Connecticut                  10
-Delaware                     17
-District of Columbia         24
+Alabama                      13
+Alaska                        5
+Arizona                      10
+Arkansas                      7
+California                    9
+Colorado                      9
+Connecticut                  11
+Delaware                     15
+District of Columbia         28
 Florida                      16
 Georgia                      14
 Hawaii                       10
 Idaho                         6
 Illinois                     11
-Indiana                       9
-Iowa                         10
+Indiana                      10
+Iowa                          8
 Kansas                        8
 Kentucky                     15
-Louisiana                    16
+Louisiana                    17
 Maine                         6
 Maryland                     34
-Massachusetts                13
+Massachusetts                14
 Michigan                     17
-Minnesota                    10
-Mississippi                  17
+Minnesota                    11
+Mississippi                  19
 Missouri                      9
-Montana                       9
+Montana                       5
 Nebraska                      8
 Nevada                       10
 New Hampshire                 8
 New Jersey                   14
-New Mexico                    9
+New Mexico                    5
 New York                     12
-North Carolina               13
-North Dakota                 10
+North Carolina               12
+North Dakota                 11
 Ohio                        100
-Oklahoma                     10
+Oklahoma                      8
 Oregon                        5
 Pennsylvania                 18
-Rhode Island                 14
+Rhode Island                 13
 South Carolina               14
-South Dakota                 12
-Tennessee                    11
+South Dakota                  6
+Tennessee                    10
 Texas                        11
 Utah                          5
 Vermont                       8
-Virginia                     16
+Virginia                     17
 Washington                    9
-West Virginia                12
+West Virginia                13
 Wisconsin                    11
-Wyoming                       7
+Wyoming                       6

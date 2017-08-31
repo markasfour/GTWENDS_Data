@@ -1,0 +1,53 @@
+                      The Simpsons
+geoName                           
+Alabama                         66
+Alaska                          71
+Arizona                         92
+Arkansas                        75
+California                     100
+Colorado                        89
+Connecticut                     82
+Delaware                        80
+District of Columbia            63
+Florida                         72
+Georgia                         65
+Hawaii                          59
+Idaho                           80
+Illinois                        93
+Indiana                         90
+Iowa                            86
+Kansas                          71
+Kentucky                        80
+Louisiana                       69
+Maine                           83
+Maryland                        80
+Massachusetts                   83
+Michigan                        86
+Minnesota                       87
+Mississippi                     64
+Missouri                        78
+Montana                         76
+Nebraska                        76
+Nevada                          90
+New Hampshire                   86
+New Jersey                      85
+New Mexico                      97
+New York                        83
+North Carolina                  69
+North Dakota                    80
+Ohio                            83
+Oklahoma                        76
+Oregon                          74
+Pennsylvania                    88
+Rhode Island                    90
+South Carolina                  70
+South Dakota                    72
+Tennessee                       69
+Texas                           81
+Utah                           100
+Vermont                         91
+Virginia                        66
+Washington                      82
+West Virginia                   92
+Wisconsin                       85
+Wyoming                         79

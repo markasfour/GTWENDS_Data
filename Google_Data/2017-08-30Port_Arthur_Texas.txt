@@ -1,18 +1,18 @@
                       Port Arthur Texas
 geoName                                
-Alabama                               5
+Alabama                               6
 Alaska                                3
 Arizona                               4
 Arkansas                              8
 California                            2
 Colorado                              5
 Connecticut                           2
-Delaware                              2
-District of Columbia                  3
+Delaware                              3
+District of Columbia                  4
 Florida                               3
 Georgia                               7
 Hawaii                                1
-Idaho                                 1
+Idaho                                 2
 Illinois                              3
 Indiana                               2
 Iowa                                  3
@@ -22,32 +22,32 @@ Louisiana                            74
 Maine                                 2
 Maryland                              2
 Massachusetts                         1
-Michigan                              2
+Michigan                              1
 Minnesota                             2
 Mississippi                          12
-Missouri                              4
+Missouri                              5
 Montana                               3
 Nebraska                              3
 Nevada                                3
-New Hampshire                         2
+New Hampshire                         1
 New Jersey                            1
 New Mexico                            5
 New York                              2
-North Carolina                        2
+North Carolina                        3
 North Dakota                          2
 Ohio                                  2
-Oklahoma                             14
+Oklahoma                             13
 Oregon                                2
 Pennsylvania                          2
-Rhode Island                          2
+Rhode Island                          1
 South Carolina                        4
-South Dakota                          2
+South Dakota                          3
 Tennessee                             4
 Texas                               100
-Utah                                  3
+Utah                                  4
 Vermont                               1
 Virginia                              2
-Washington                            3
+Washington                            2
 West Virginia                         1
 Wisconsin                             2
-Wyoming                               4
+Wyoming                               5

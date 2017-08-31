@@ -1,53 +1,53 @@
                       Hurricane Katrina
 geoName                                
 Alabama                              34
-Alaska                               15
+Alaska                               14
 Arizona                              16
 Arkansas                             29
-California                           13
-Colorado                             19
-Connecticut                          17
+California                           14
+Colorado                             20
+Connecticut                          18
 Delaware                             22
 District of Columbia                 21
 Florida                              22
 Georgia                              22
 Hawaii                               14
-Idaho                                16
-Illinois                             19
+Idaho                                17
+Illinois                             20
 Indiana                              22
-Iowa                                 23
-Kansas                               17
-Kentucky                             19
+Iowa                                 24
+Kansas                               18
+Kentucky                             20
 Louisiana                           100
-Maine                                18
+Maine                                19
 Maryland                             21
 Massachusetts                        17
 Michigan                             17
-Minnesota                            16
-Mississippi                          75
-Missouri                             20
-Montana                              14
+Minnesota                            17
+Mississippi                          74
+Missouri                             21
+Montana                              16
 Nebraska                             19
-Nevada                               15
-New Hampshire                        19
-New Jersey                           18
-New Mexico                           18
-New York                             16
+Nevada                               16
+New Hampshire                        18
+New Jersey                           19
+New Mexico                           17
+New York                             17
 North Carolina                       22
 North Dakota                         16
 Ohio                                 18
-Oklahoma                             22
-Oregon                               11
+Oklahoma                             23
+Oregon                               12
 Pennsylvania                         18
-Rhode Island                         19
-South Carolina                       22
+Rhode Island                         18
+South Carolina                       23
 South Dakota                         20
-Tennessee                            20
-Texas                                27
-Utah                                 14
-Vermont                              18
-Virginia                             16
+Tennessee                            21
+Texas                                28
+Utah                                 15
+Vermont                              16
+Virginia                             17
 Washington                           14
-West Virginia                        19
-Wisconsin                            20
-Wyoming                              16
+West Virginia                        20
+Wisconsin                            21
+Wyoming                              19

@@ -1,45 +1,45 @@
                       Vance McDonald
 geoName                             
 Alabama                           18
-Arizona                           40
-Arkansas                          24
+Arizona                           45
+Arkansas                          19
 California                       100
-Colorado                          37
-Connecticut                       30
-Delaware                          25
-District of Columbia              40
-Florida                           33
-Georgia                           25
-Hawaii                            60
-Idaho                             30
-Illinois                          42
-Indiana                           19
-Iowa                              33
-Kansas                            26
-Kentucky                          18
-Louisiana                         72
-Maryland                          42
-Massachusetts                     41
-Michigan                          26
-Minnesota                         38
-Mississippi                       41
-Missouri                          27
-Nebraska                          29
-Nevada                            56
-New Jersey                        49
-New Mexico                        55
-New York                          41
-North Carolina                    26
-Ohio                              28
-Oklahoma                          48
-Oregon                            35
-Pennsylvania                      44
-Rhode Island                      58
-South Carolina                    19
-Tennessee                         23
-Texas                             75
-Utah                              19
-Virginia                          34
-Washington                        53
-West Virginia                     17
-Wisconsin                         38
+Colorado                          41
+Connecticut                       40
+Delaware                          33
+District of Columbia              36
+Florida                           28
+Georgia                           26
+Hawaii                            79
+Idaho                             35
+Illinois                          41
+Indiana                           42
+Iowa                              32
+Kansas                            36
+Kentucky                          25
+Louisiana                         56
+Maryland                          40
+Massachusetts                     45
+Michigan                          25
+Minnesota                         36
+Mississippi                       47
+Missouri                          21
+Nebraska                          25
+Nevada                            50
+New Jersey                        51
+New Mexico                        36
+New York                          37
+North Carolina                    33
+Ohio                              35
+Oklahoma                          62
+Oregon                            36
+Pennsylvania                      45
+Rhode Island                      55
+South Carolina                    27
+Tennessee                         34
+Texas                             79
+Utah                              23
+Virginia                          39
+Washington                        61
+West Virginia                     45
+Wisconsin                         50
