@@ -1,0 +1,53 @@
+                      aurora
+geoName                     
+Alabama                    2
+Alaska                    28
+Arizona                    4
+Arkansas                   3
+California                 4
+Colorado                 100
+Connecticut                4
+Delaware                   3
+District of Columbia       3
+Florida                    3
+Georgia                    4
+Hawaii                     3
+Idaho                      3
+Illinois                  42
+Indiana                    6
+Iowa                       6
+Kansas                     6
+Kentucky                   4
+Louisiana                  3
+Maine                      4
+Maryland                   3
+Massachusetts              4
+Michigan                   4
+Minnesota                  6
+Mississippi                2
+Missouri                   8
+Montana                    4
+Nebraska                  13
+Nevada                     4
+New Hampshire              3
+New Jersey                 3
+New Mexico                 5
+New York                   6
+North Carolina             3
+North Dakota               5
+Ohio                      12
+Oklahoma                   3
+Oregon                     5
+Pennsylvania               3
+Rhode Island               4
+South Carolina             3
+South Dakota               6
+Tennessee                  3
+Texas                      4
+Utah                       5
+Vermont                    3
+Virginia                   3
+Washington                 9
+West Virginia              3
+Wisconsin                 32
+Wyoming                    8

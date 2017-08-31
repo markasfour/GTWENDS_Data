@@ -1,0 +1,53 @@
+                      Crosby
+geoName                     
+Alabama                   22
+Alaska                    28
+Arizona                   19
+Arkansas                  18
+California                20
+Colorado                  25
+Connecticut               36
+Delaware                  24
+District of Columbia      30
+Florida                   20
+Georgia                   24
+Hawaii                    18
+Idaho                     25
+Illinois                  27
+Indiana                   22
+Iowa                      24
+Kansas                    20
+Kentucky                  27
+Louisiana                 29
+Maine                     42
+Maryland                  27
+Massachusetts             40
+Michigan                  27
+Minnesota                 65
+Mississippi               27
+Missouri                  24
+Montana                   29
+Nebraska                  24
+Nevada                    19
+New Hampshire             40
+New Jersey                28
+New Mexico                19
+New York                  37
+North Carolina            24
+North Dakota             100
+Ohio                      29
+Oklahoma                  25
+Oregon                    18
+Pennsylvania              58
+Rhode Island              28
+South Carolina            28
+South Dakota              38
+Tennessee                 24
+Texas                     51
+Utah                      22
+Vermont                   35
+Virginia                  21
+Washington                26
+West Virginia             33
+Wisconsin                 32
+Wyoming                   25

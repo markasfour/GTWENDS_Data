@@ -1,0 +1,6 @@
+            CrimeTracker
+geoName                 
+California             1
+Indiana               83
+Ohio                  55
+Oklahoma             100

@@ -1,0 +1,53 @@
+                      Twitch
+geoName                     
+Alabama                   74
+Alaska                    96
+Arizona                   90
+Arkansas                  80
+California                92
+Colorado                  64
+Connecticut               81
+Delaware                  83
+District of Columbia      31
+Florida                   73
+Georgia                   57
+Hawaii                    90
+Idaho                     86
+Illinois                  66
+Indiana                   86
+Iowa                      90
+Kansas                    71
+Kentucky                  76
+Louisiana                 76
+Maine                     85
+Maryland                  79
+Massachusetts             72
+Michigan                  78
+Minnesota                 78
+Mississippi               60
+Missouri                  72
+Montana                   78
+Nebraska                  76
+Nevada                   100
+New Hampshire             87
+New Jersey                79
+New Mexico                72
+New York                  68
+North Carolina            66
+North Dakota              95
+Ohio                      82
+Oklahoma                  79
+Oregon                    73
+Pennsylvania              78
+Rhode Island              88
+South Carolina            69
+South Dakota              84
+Tennessee                 70
+Texas                     67
+Utah                      83
+Vermont                   80
+Virginia                  66
+Washington                96
+West Virginia             87
+Wisconsin                 84
+Wyoming                   69
