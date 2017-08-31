@@ -1,0 +1,29 @@
+                kentucky route zero
+geoName                            
+Arizona                          35
+California                       50
+Colorado                         40
+Connecticut                      35
+Florida                          25
+Georgia                          30
+Illinois                         41
+Indiana                          40
+Kentucky                        100
+Louisiana                        37
+Maryland                         39
+Massachusetts                    51
+Michigan                         32
+Minnesota                        40
+Missouri                         39
+New Jersey                       40
+New York                         44
+North Carolina                   35
+Ohio                             40
+Oregon                           52
+Pennsylvania                     40
+Tennessee                        38
+Texas                            26
+Utah                             54
+Virginia                         32
+Washington                       77
+Wisconsin                        44

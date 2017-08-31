@@ -1,53 +1,53 @@
                       Michael Jackson
 geoName                              
-Alabama                            60
-Alaska                             37
+Alabama                            64
+Alaska                             36
 Arizona                            51
-Arkansas                           56
-California                         55
-Colorado                           44
-Connecticut                        49
+Arkansas                           57
+California                         57
+Colorado                           45
+Connecticut                        50
 Delaware                           63
-District of Columbia               59
-Florida                            55
-Georgia                            66
-Hawaii                             46
+District of Columbia               60
+Florida                            57
+Georgia                            69
+Hawaii                             47
 Idaho                              36
-Illinois                           58
-Indiana                            58
-Iowa                               42
-Kansas                             48
-Kentucky                           52
-Louisiana                          67
-Maine                              36
-Maryland                           62
-Massachusetts                      46
-Michigan                           56
+Illinois                           59
+Indiana                            59
+Iowa                               44
+Kansas                             49
+Kentucky                           55
+Louisiana                          70
+Maine                              39
+Maryland                           64
+Massachusetts                      48
+Michigan                           57
 Minnesota                          44
-Mississippi                        81
-Missouri                           53
-Montana                            33
-Nebraska                           45
+Mississippi                        83
+Missouri                           54
+Montana                            34
+Nebraska                           47
 Nevada                            100
-New Hampshire                      37
-New Jersey                         58
-New Mexico                         47
-New York                           56
+New Hampshire                      39
+New Jersey                         59
+New Mexico                         48
+New York                           57
 North Carolina                     56
-North Dakota                       36
-Ohio                               54
-Oklahoma                           50
-Oregon                             37
-Pennsylvania                       52
-Rhode Island                       50
-South Carolina                     60
+North Dakota                       37
+Ohio                               55
+Oklahoma                           51
+Oregon                             38
+Pennsylvania                       54
+Rhode Island                       52
+South Carolina                     62
 South Dakota                       38
-Tennessee                          57
-Texas                              56
+Tennessee                          59
+Texas                              57
 Utah                               46
 Vermont                            35
-Virginia                           51
-Washington                         42
-West Virginia                      49
-Wisconsin                          45
-Wyoming                            37
+Virginia                           52
+Washington                         44
+West Virginia                      51
+Wisconsin                          47
+Wyoming                            42

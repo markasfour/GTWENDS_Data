@@ -1,51 +1,53 @@
                       Joe Haden
 geoName                        
 Alabama                      12
+Alaska                        4
 Arizona                      11
 Arkansas                      8
-California                    9
-Colorado                      9
-Connecticut                  11
-Delaware                     21
-District of Columbia         28
-Florida                      15
-Georgia                      13
-Hawaii                       11
-Idaho                         7
+California                   10
+Colorado                     10
+Connecticut                  10
+Delaware                     17
+District of Columbia         24
+Florida                      16
+Georgia                      14
+Hawaii                       10
+Idaho                         6
 Illinois                     11
-Indiana                      10
-Iowa                          8
-Kansas                        9
-Kentucky                     17
-Louisiana                    17
-Maine                         5
-Maryland                     33
-Massachusetts                14
-Michigan                     18
+Indiana                       9
+Iowa                         10
+Kansas                        8
+Kentucky                     15
+Louisiana                    16
+Maine                         6
+Maryland                     34
+Massachusetts                13
+Michigan                     17
 Minnesota                    10
-Mississippi                  16
+Mississippi                  17
 Missouri                      9
-Montana                       7
-Nebraska                      9
-Nevada                       11
+Montana                       9
+Nebraska                      8
+Nevada                       10
 New Hampshire                 8
-New Jersey                   15
-New Mexico                    6
+New Jersey                   14
+New Mexico                    9
 New York                     12
 North Carolina               13
-North Dakota                 11
+North Dakota                 10
 Ohio                        100
-Oklahoma                      8
-Oregon                        4
-Pennsylvania                 17
+Oklahoma                     10
+Oregon                        5
+Pennsylvania                 18
 Rhode Island                 14
-South Carolina               15
-South Dakota                 10
+South Carolina               14
+South Dakota                 12
 Tennessee                    11
 Texas                        11
-Utah                          6
-Vermont                       7
+Utah                          5
+Vermont                       8
 Virginia                     16
-Washington                   10
-West Virginia                14
+Washington                    9
+West Virginia                12
 Wisconsin                    11
+Wyoming                       7

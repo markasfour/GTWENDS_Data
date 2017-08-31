@@ -1,44 +1,45 @@
                       Vance McDonald
 geoName                             
-Alabama                           26
-Arizona                           44
-Arkansas                          11
+Alabama                           18
+Arizona                           40
+Arkansas                          24
 California                       100
-Colorado                          46
-Connecticut                       37
-Delaware                          65
-District of Columbia              52
-Florida                           26
-Georgia                           23
-Hawaii                            68
-Illinois                          43
-Indiana                           28
-Iowa                              32
-Kansas                            32
-Kentucky                          24
-Louisiana                         55
-Maryland                          45
-Massachusetts                     46
+Colorado                          37
+Connecticut                       30
+Delaware                          25
+District of Columbia              40
+Florida                           33
+Georgia                           25
+Hawaii                            60
+Idaho                             30
+Illinois                          42
+Indiana                           19
+Iowa                              33
+Kansas                            26
+Kentucky                          18
+Louisiana                         72
+Maryland                          42
+Massachusetts                     41
 Michigan                          26
-Minnesota                         36
+Minnesota                         38
 Mississippi                       41
-Missouri                          31
-Nebraska                          27
-Nevada                            55
-New Jersey                        46
-New Mexico                        32
-New York                          39
-North Carolina                    33
-Ohio                              36
-Oklahoma                          60
-Oregon                            42
-Pennsylvania                      41
-Rhode Island                      63
-South Carolina                    27
-Tennessee                         32
-Texas                             82
-Utah                              23
+Missouri                          27
+Nebraska                          29
+Nevada                            56
+New Jersey                        49
+New Mexico                        55
+New York                          41
+North Carolina                    26
+Ohio                              28
+Oklahoma                          48
+Oregon                            35
+Pennsylvania                      44
+Rhode Island                      58
+South Carolina                    19
+Tennessee                         23
+Texas                             75
+Utah                              19
 Virginia                          34
-Washington                        65
-West Virginia                     35
-Wisconsin                         53
+Washington                        53
+West Virginia                     17
+Wisconsin                         38

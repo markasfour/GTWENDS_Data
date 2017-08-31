@@ -1,49 +1,45 @@
                       David Torrence
 geoName                             
-Alabama                           21
-Alaska                            70
-Arizona                           14
-Arkansas                          37
-California                        53
-Colorado                          22
-Connecticut                       25
-Delaware                          59
-District of Columbia              43
+Alabama                           17
+Arizona                           31
+California                        44
+Colorado                          29
+Connecticut                       20
+District of Columbia              35
 Florida                           19
-Georgia                           29
-Hawaii                            30
-Idaho                             53
-Illinois                          42
-Indiana                           32
-Iowa                              27
-Kansas                            53
-Kentucky                          57
-Louisiana                         26
-Maine                             38
-Maryland                          15
-Massachusetts                     34
+Georgia                           24
+Hawaii                            24
+Illinois                          29
+Indiana                           19
+Iowa                              37
+Kansas                            37
+Kentucky                          36
+Louisiana                         21
+Maine                             46
+Maryland                          25
+Massachusetts                     16
 Michigan                          26
-Minnesota                         48
-Mississippi                       37
-Missouri                          46
-Montana                           60
-Nebraska                          25
-Nevada                            24
-New Hampshire                     53
-New Jersey                        40
-New Mexico                        64
-New York                          45
-North Carolina                    38
-Ohio                              41
-Oklahoma                          14
-Oregon                            32
-Pennsylvania                      40
-Rhode Island                      61
-South Carolina                    40
-South Dakota                      74
-Tennessee                        100
-Texas                             18
-Utah                              24
-Virginia                          28
-Washington                        47
-Wisconsin                         13
+Minnesota                         12
+Mississippi                       81
+Missouri                          16
+Montana                           49
+Nebraska                          20
+Nevada                            19
+New Hampshire                    100
+New Jersey                        26
+New Mexico                        26
+New York                          30
+North Carolina                    42
+Ohio                              33
+Oregon                            29
+Pennsylvania                      25
+Rhode Island                      33
+South Carolina                    28
+South Dakota                      60
+Tennessee                         87
+Texas                             14
+Utah                              13
+Vermont                           60
+Virginia                          31
+Washington                        27
+Wisconsin                         27

@@ -1,53 +1,53 @@
                       Ryen Russillo
 geoName                            
-Alabama                          46
-Alaska                           20
-Arizona                          30
+Alabama                          43
+Alaska                           25
+Arizona                          26
 Arkansas                         35
-California                       21
-Colorado                         29
-Connecticut                      62
-Delaware                         42
-District of Columbia             43
-Florida                          27
-Georgia                          34
-Hawaii                           29
-Idaho                            44
-Illinois                         40
-Indiana                          52
-Iowa                             50
-Kansas                           24
+California                       20
+Colorado                         28
+Connecticut                      56
+Delaware                         37
+District of Columbia             49
+Florida                          30
+Georgia                          32
+Hawaii                           25
+Idaho                            48
+Illinois                         41
+Indiana                          58
+Iowa                             45
+Kansas                           28
 Kentucky                         49
-Louisiana                        71
-Maine                            35
+Louisiana                        65
+Maine                            32
 Maryland                         33
-Massachusetts                    36
-Michigan                         36
-Minnesota                        30
-Mississippi                      27
-Missouri                         34
-Montana                          57
-Nebraska                         60
-Nevada                           29
-New Hampshire                    24
-New Jersey                       23
-New Mexico                       38
-New York                         28
-North Carolina                   37
-North Dakota                     72
-Ohio                             54
-Oklahoma                         33
-Oregon                           18
-Pennsylvania                     42
-Rhode Island                     20
+Massachusetts                    34
+Michigan                         37
+Minnesota                        27
+Mississippi                      32
+Missouri                         35
+Montana                          73
+Nebraska                         61
+Nevada                           32
+New Hampshire                    25
+New Jersey                       27
+New Mexico                       30
+New York                         27
+North Carolina                   36
+North Dakota                     66
+Ohio                             57
+Oklahoma                         31
+Oregon                           17
+Pennsylvania                     40
+Rhode Island                     19
 South Carolina                   40
-South Dakota                     90
+South Dakota                     75
 Tennessee                        35
-Texas                            31
-Utah                             32
+Texas                            30
+Utah                             33
 Vermont                         100
-Virginia                         43
+Virginia                         39
 Washington                       27
-West Virginia                    45
-Wisconsin                        52
-Wyoming                          68
+West Virginia                    40
+Wisconsin                        56
+Wyoming                          60

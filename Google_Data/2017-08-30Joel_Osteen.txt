@@ -1,53 +1,53 @@
                       Joel Osteen
 geoName                          
-Alabama                        84
-Alaska                         43
-Arizona                        70
-Arkansas                       68
-California                     58
+Alabama                        83
+Alaska                         37
+Arizona                        71
+Arkansas                       66
+California                     59
 Colorado                       55
-Connecticut                    53
-Delaware                       65
+Connecticut                    50
+Delaware                       70
 District of Columbia           75
-Florida                        88
-Georgia                        89
-Hawaii                         68
-Idaho                          35
+Florida                        87
+Georgia                        91
+Hawaii                         65
+Idaho                          36
 Illinois                       65
-Indiana                        57
-Iowa                           43
+Indiana                        58
+Iowa                           42
 Kansas                         53
 Kentucky                       68
-Louisiana                      93
-Maine                          34
-Maryland                       76
-Massachusetts                  41
+Louisiana                      94
+Maine                          33
+Maryland                       77
+Massachusetts                  43
 Michigan                       63
 Minnesota                      53
 Mississippi                    94
 Missouri                       68
-Montana                        39
-Nebraska                       45
-Nevada                         75
-New Hampshire                  37
-New Jersey                     72
-New Mexico                     89
-New York                       66
-North Carolina                 77
-North Dakota                   48
-Ohio                           61
-Oklahoma                       85
+Montana                        41
+Nebraska                       48
+Nevada                         77
+New Hampshire                  35
+New Jersey                     69
+New Mexico                     88
+New York                       67
+North Carolina                 80
+North Dakota                   50
+Ohio                           60
+Oklahoma                       87
 Oregon                         29
-Pennsylvania                   56
-Rhode Island                   40
-South Carolina                 76
-South Dakota                   44
-Tennessee                      79
+Pennsylvania                   55
+Rhode Island                   41
+South Carolina                 78
+South Dakota                   49
+Tennessee                      80
 Texas                         100
-Utah                           27
-Vermont                        27
-Virginia                       62
-Washington                     42
-West Virginia                  65
+Utah                           26
+Vermont                        25
+Virginia                       63
+Washington                     43
+West Virginia                  66
 Wisconsin                      37
-Wyoming                        45
+Wyoming                        47
