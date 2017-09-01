@@ -1,0 +1,53 @@
+                      Songbird
+geoName                       
+Alabama                     50
+Alaska                      83
+Arizona                     70
+Arkansas                    55
+California                  53
+Colorado                    58
+Connecticut                 61
+Delaware                    53
+District of Columbia        49
+Florida                     47
+Georgia                     48
+Hawaii                      56
+Idaho                       66
+Illinois                    53
+Indiana                     72
+Iowa                        57
+Kansas                      70
+Kentucky                    73
+Louisiana                   48
+Maine                      100
+Maryland                    54
+Massachusetts               59
+Michigan                    85
+Minnesota                   60
+Mississippi                 42
+Missouri                    63
+Montana                     80
+Nebraska                    56
+Nevada                      52
+New Hampshire               94
+New Jersey                  49
+New Mexico                  62
+New York                    49
+North Carolina              56
+North Dakota                42
+Ohio                        57
+Oklahoma                    59
+Oregon                      72
+Pennsylvania                56
+Rhode Island                65
+South Carolina              53
+South Dakota                76
+Tennessee                   62
+Texas                       56
+Utah                        58
+Vermont                     81
+Virginia                    47
+Washington                  63
+West Virginia               63
+Wisconsin                  100
+Wyoming                     60

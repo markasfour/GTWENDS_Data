@@ -1,0 +1,53 @@
+                      Wells Fargo
+geoName                          
+Alabama                        61
+Alaska                         90
+Arizona                        90
+Arkansas                       11
+California                     67
+Colorado                       76
+Connecticut                    28
+Delaware                       49
+District of Columbia           44
+Florida                        68
+Georgia                        67
+Hawaii                         17
+Idaho                          67
+Illinois                       15
+Indiana                        14
+Iowa                           52
+Kansas                         17
+Kentucky                       12
+Louisiana                      15
+Maine                           8
+Maryland                       37
+Massachusetts                  10
+Michigan                       10
+Minnesota                      93
+Mississippi                    21
+Missouri                       16
+Montana                        63
+Nebraska                       57
+Nevada                        100
+New Hampshire                   8
+New Jersey                     48
+New Mexico                     96
+New York                       18
+North Carolina                 69
+North Dakota                   56
+Ohio                            8
+Oklahoma                       15
+Oregon                         38
+Pennsylvania                   43
+Rhode Island                    9
+South Carolina                 68
+South Dakota                   87
+Tennessee                      19
+Texas                          56
+Utah                           58
+Vermont                         9
+Virginia                       46
+Washington                     41
+West Virginia                  10
+Wisconsin                      25
+Wyoming                        67

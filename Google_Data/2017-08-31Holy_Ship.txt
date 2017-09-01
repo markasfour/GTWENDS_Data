@@ -1,0 +1,45 @@
+                      Holy Ship
+geoName                        
+Alabama                      22
+Arizona                      60
+Arkansas                     24
+California                  100
+Colorado                     83
+Connecticut                  43
+Delaware                     27
+District of Columbia         54
+Florida                      83
+Georgia                      28
+Hawaii                       68
+Idaho                        30
+Illinois                     48
+Indiana                      27
+Iowa                         30
+Kansas                       25
+Kentucky                     26
+Louisiana                    46
+Maryland                     43
+Massachusetts                51
+Michigan                     45
+Minnesota                    28
+Mississippi                  20
+Missouri                     27
+Nebraska                     25
+Nevada                       95
+New Hampshire                39
+New Jersey                   51
+New Mexico                   60
+New York                     69
+North Carolina               30
+Ohio                         25
+Oklahoma                     41
+Oregon                       32
+Pennsylvania                 38
+Rhode Island                 44
+South Carolina               31
+Tennessee                    23
+Texas                        46
+Utah                         48
+Virginia                     35
+Washington                   80
+Wisconsin                    30

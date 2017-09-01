@@ -1,0 +1,38 @@
+                      Tom Bossert
+geoName                          
+Alabama                         4
+Arizona                         9
+California                     12
+Colorado                        6
+Connecticut                     7
+District of Columbia          100
+Florida                         9
+Georgia                        10
+Illinois                        7
+Indiana                        12
+Iowa                           10
+Kansas                          4
+Kentucky                       14
+Louisiana                       9
+Maine                          22
+Maryland                       41
+Massachusetts                  18
+Michigan                       11
+Minnesota                      14
+Missouri                        9
+Nevada                         11
+New Hampshire                  15
+New Jersey                     18
+New Mexico                     27
+New York                       18
+North Carolina                 16
+Ohio                            5
+Oklahoma                       14
+Oregon                         10
+Pennsylvania                   14
+South Carolina                 11
+Tennessee                       6
+Texas                           9
+Virginia                       35
+Washington                     12
+Wisconsin                       6

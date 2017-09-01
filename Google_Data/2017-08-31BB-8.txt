@@ -1,0 +1,53 @@
+                      BB-8
+geoName                   
+Alabama                 44
+Alaska                  61
+Arizona                 67
+Arkansas                55
+California              84
+Colorado                80
+Connecticut             59
+Delaware                69
+District of Columbia    61
+Florida                 68
+Georgia                 52
+Hawaii                  81
+Idaho                   66
+Illinois                61
+Indiana                 67
+Iowa                    58
+Kansas                  49
+Kentucky                55
+Louisiana               39
+Maine                   45
+Maryland                62
+Massachusetts           59
+Michigan                60
+Minnesota               56
+Mississippi             38
+Missouri                54
+Montana                 64
+Nebraska                60
+Nevada                  79
+New Hampshire           64
+New Jersey              62
+New Mexico              57
+New York                57
+North Carolina          53
+North Dakota            56
+Ohio                    66
+Oklahoma                52
+Oregon                  56
+Pennsylvania            54
+Rhode Island            59
+South Carolina          55
+South Dakota            58
+Tennessee               56
+Texas                   59
+Utah                   100
+Vermont                 60
+Virginia                49
+Washington              70
+West Virginia           67
+Wisconsin               61
+Wyoming                 49

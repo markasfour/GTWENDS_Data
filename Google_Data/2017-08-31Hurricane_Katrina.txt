@@ -1,17 +1,17 @@
                       Hurricane Katrina
 geoName                                
 Alabama                              35
-Alaska                               15
-Arizona                              16
-Arkansas                             30
+Alaska                               16
+Arizona                              17
+Arkansas                             31
 California                           14
 Colorado                             19
-Connecticut                          19
-Delaware                             23
-District of Columbia                 21
+Connecticut                          20
+Delaware                             22
+District of Columbia                 22
 Florida                              23
-Georgia                              22
-Hawaii                               15
+Georgia                              23
+Hawaii                               16
 Idaho                                17
 Illinois                             20
 Indiana                              22
@@ -21,22 +21,22 @@ Kentucky                             20
 Louisiana                           100
 Maine                                19
 Maryland                             21
-Massachusetts                        17
+Massachusetts                        18
 Michigan                             17
-Minnesota                            17
-Mississippi                          78
-Missouri                             20
+Minnesota                            18
+Mississippi                          81
+Missouri                             21
 Montana                              15
-Nebraska                             19
+Nebraska                             20
 Nevada                               16
 New Hampshire                        18
 New Jersey                           19
 New Mexico                           17
-New York                             17
+New York                             16
 North Carolina                       22
-North Dakota                         16
-Ohio                                 18
-Oklahoma                             23
+North Dakota                         17
+Ohio                                 19
+Oklahoma                             24
 Oregon                               12
 Pennsylvania                         19
 Rhode Island                         20
@@ -45,7 +45,7 @@ South Dakota                         20
 Tennessee                            21
 Texas                                28
 Utah                                 15
-Vermont                              18
+Vermont                              19
 Virginia                             17
 Washington                           14
 West Virginia                        20

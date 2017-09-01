@@ -2,15 +2,15 @@
 geoName                              
 Alabama                            63
 Alaska                             37
-Arizona                            51
-Arkansas                           57
+Arizona                            52
+Arkansas                           58
 California                         56
-Colorado                           44
+Colorado                           45
 Connecticut                        50
 Delaware                           63
 District of Columbia               61
 Florida                            57
-Georgia                            68
+Georgia                            67
 Hawaii                             47
 Idaho                              36
 Illinois                           58
@@ -19,21 +19,21 @@ Iowa                               44
 Kansas                             49
 Kentucky                           55
 Louisiana                          69
-Maine                              39
+Maine                              38
 Maryland                           64
-Massachusetts                      47
-Michigan                           56
+Massachusetts                      48
+Michigan                           57
 Minnesota                          45
 Mississippi                        82
-Missouri                           56
-Montana                            35
+Missouri                           55
+Montana                            34
 Nebraska                           46
 Nevada                            100
-New Hampshire                      39
+New Hampshire                      38
 New Jersey                         59
 New Mexico                         49
 New York                           58
-North Carolina                     57
+North Carolina                     56
 North Dakota                       35
 Ohio                               55
 Oklahoma                           51
@@ -41,13 +41,13 @@ Oregon                             39
 Pennsylvania                       54
 Rhode Island                       52
 South Carolina                     62
-South Dakota                       37
+South Dakota                       38
 Tennessee                          58
-Texas                              58
+Texas                              57
 Utah                               47
 Vermont                            35
 Virginia                           51
 Washington                         44
-West Virginia                      49
-Wisconsin                          45
-Wyoming                            41
+West Virginia                      50
+Wisconsin                          46
+Wyoming                            40

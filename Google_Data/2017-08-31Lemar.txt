@@ -1,0 +1,50 @@
+                      Lemar
+geoName                    
+Alabama                  20
+Arizona                  20
+Arkansas                 21
+California               30
+Colorado                 21
+Connecticut              35
+Delaware                 21
+District of Columbia     35
+Florida                  28
+Georgia                  26
+Hawaii                   16
+Idaho                    19
+Illinois                 28
+Indiana                  27
+Iowa                     87
+Kansas                   21
+Kentucky                 32
+Louisiana                29
+Maine                    30
+Maryland                 31
+Massachusetts            28
+Michigan                 23
+Minnesota                28
+Mississippi              21
+Missouri                 29
+Nebraska                 35
+Nevada                   22
+New Hampshire            19
+New Jersey               26
+New Mexico               15
+New York                 29
+North Carolina           29
+North Dakota            100
+Ohio                     25
+Oklahoma                 20
+Oregon                   23
+Pennsylvania             24
+Rhode Island             25
+South Carolina           26
+South Dakota             60
+Tennessee                23
+Texas                    20
+Utah                     20
+Vermont                  24
+Virginia                 34
+Washington               25
+West Virginia            23
+Wisconsin                20
