@@ -1,0 +1,53 @@
+                      Hoosiers
+geoName                       
+Alabama                      4
+Alaska                       2
+Arizona                      4
+Arkansas                     4
+California                   3
+Colorado                     4
+Connecticut                  3
+Delaware                     3
+District of Columbia         4
+Florida                      4
+Georgia                      4
+Hawaii                       2
+Idaho                        3
+Illinois                    12
+Indiana                    100
+Iowa                         8
+Kansas                       4
+Kentucky                    15
+Louisiana                    3
+Maine                        3
+Maryland                     3
+Massachusetts                3
+Michigan                     7
+Minnesota                    5
+Mississippi                  3
+Missouri                     6
+Montana                      5
+Nebraska                     7
+Nevada                       3
+New Hampshire                2
+New Jersey                   4
+New Mexico                   2
+New York                     3
+North Carolina               4
+North Dakota                 4
+Ohio                         9
+Oklahoma                     4
+Oregon                       2
+Pennsylvania                 4
+Rhode Island                 3
+South Carolina               4
+South Dakota                 6
+Tennessee                    6
+Texas                        3
+Utah                         3
+Vermont                      2
+Virginia                     3
+Washington                   3
+West Virginia                4
+Wisconsin                    6
+Wyoming                      4

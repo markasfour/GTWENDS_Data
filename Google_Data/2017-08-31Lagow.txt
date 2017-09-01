@@ -1,0 +1,27 @@
+                Lagow
+geoName              
+California          8
+Colorado           15
+Connecticut        68
+Florida            12
+Georgia             9
+Illinois           22
+Indiana           100
+Iowa               24
+Kentucky           17
+Massachusetts      12
+Michigan           24
+Minnesota          24
+Missouri           54
+Nebraska           22
+Nevada              8
+New Jersey         10
+New York            9
+North Carolina      8
+Ohio               12
+Oklahoma           37
+Pennsylvania        6
+Tennessee           5
+Texas              77
+Utah                9
+Virginia           16

@@ -1,0 +1,53 @@
+                      Mack Brown
+geoName                         
+Alabama                       49
+Alaska                         6
+Arizona                       10
+Arkansas                      24
+California                     8
+Colorado                      17
+Connecticut                   10
+Delaware                      10
+District of Columbia          14
+Florida                       12
+Georgia                       23
+Hawaii                         8
+Idaho                         10
+Illinois                      10
+Indiana                        9
+Iowa                          18
+Kansas                        20
+Kentucky                      16
+Louisiana                     32
+Maine                          4
+Maryland                      11
+Massachusetts                  7
+Michigan                       8
+Minnesota                      9
+Mississippi                   25
+Missouri                      16
+Montana                       10
+Nebraska                      24
+Nevada                        12
+New Hampshire                  4
+New Jersey                     8
+New Mexico                    17
+New York                       8
+North Carolina                26
+North Dakota                   5
+Ohio                          11
+Oklahoma                      75
+Oregon                         7
+Pennsylvania                   9
+Rhode Island                   7
+South Carolina                19
+South Dakota                  10
+Tennessee                     25
+Texas                        100
+Utah                           9
+Vermont                        8
+Virginia                      13
+Washington                     9
+West Virginia                 15
+Wisconsin                      7
+Wyoming                       14

@@ -1,0 +1,53 @@
+                      Paraguay
+geoName                       
+Alabama                      9
+Alaska                      13
+Arizona                     14
+Arkansas                    13
+California                  17
+Colorado                    15
+Connecticut                 24
+Delaware                    14
+District of Columbia        39
+Florida                     29
+Georgia                     17
+Hawaii                       9
+Idaho                       16
+Illinois                    14
+Indiana                     13
+Iowa                        14
+Kansas                      23
+Kentucky                     9
+Louisiana                   11
+Maine                       11
+Maryland                    22
+Massachusetts               15
+Michigan                    11
+Minnesota                   14
+Mississippi                  9
+Missouri                    12
+Montana                     11
+Nebraska                    13
+Nevada                      16
+New Hampshire               12
+New Jersey                  29
+New Mexico                  14
+New York                    34
+North Carolina              13
+North Dakota                10
+Ohio                        11
+Oklahoma                    12
+Oregon                     100
+Pennsylvania                13
+Rhode Island                14
+South Carolina              12
+South Dakota                12
+Tennessee                   10
+Texas                       18
+Utah                        22
+Vermont                     14
+Virginia                    29
+Washington                  13
+West Virginia               10
+Wisconsin                   14
+Wyoming                     13

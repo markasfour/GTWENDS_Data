@@ -1,53 +1,53 @@
                       Twitch
 geoName                     
-Alabama                   75
-Alaska                    96
-Arizona                   90
-Arkansas                  79
-California                93
-Colorado                  65
-Connecticut               79
+Alabama                   78
+Alaska                    94
+Arizona                   93
+Arkansas                  80
+California                94
+Colorado                  67
+Connecticut               81
 Delaware                  84
-District of Columbia      31
-Florida                   72
-Georgia                   56
-Hawaii                    90
-Idaho                     87
-Illinois                  66
-Indiana                   87
-Iowa                      90
-Kansas                    72
-Kentucky                  76
-Louisiana                 75
-Maine                     83
-Maryland                  80
-Massachusetts             71
-Michigan                  78
-Minnesota                 78
-Mississippi               60
-Missouri                  73
-Montana                   79
-Nebraska                  77
+District of Columbia      32
+Florida                   73
+Georgia                   58
+Hawaii                    91
+Idaho                     89
+Illinois                  69
+Indiana                   88
+Iowa                      91
+Kansas                    74
+Kentucky                  78
+Louisiana                 77
+Maine                     87
+Maryland                  82
+Massachusetts             72
+Michigan                  79
+Minnesota                 79
+Mississippi               61
+Missouri                  74
+Montana                   78
+Nebraska                  78
 Nevada                   100
-New Hampshire             87
-New Jersey                80
-New Mexico                72
-New York                  68
-North Carolina            66
-North Dakota              97
-Ohio                      83
-Oklahoma                  79
-Oregon                    72
-Pennsylvania              78
-Rhode Island              90
-South Carolina            69
-South Dakota              82
-Tennessee                 71
-Texas                     67
-Utah                      81
-Vermont                   81
-Virginia                  66
-Washington                97
-West Virginia             86
-Wisconsin                 83
-Wyoming                   71
+New Hampshire             90
+New Jersey                82
+New Mexico                74
+New York                  69
+North Carolina            68
+North Dakota              98
+Ohio                      87
+Oklahoma                  80
+Oregon                    73
+Pennsylvania              81
+Rhode Island              91
+South Carolina            70
+South Dakota              88
+Tennessee                 73
+Texas                     68
+Utah                      84
+Vermont                   82
+Virginia                  67
+Washington                99
+West Virginia             88
+Wisconsin                 84
+Wyoming                   72

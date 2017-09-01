@@ -1,37 +1,44 @@
                       Tropical Storm Irma
 geoName                                  
-Alabama                                 4
-Arkansas                                8
-California                              2
+Alabama                                 6
+Alaska                                 13
+Arizona                                 4
+Arkansas                                9
+California                              1
 Colorado                                6
-Connecticut                             6
-Delaware                               94
-District of Columbia                   21
-Florida                                20
-Georgia                                21
+Connecticut                            11
+Delaware                               54
+District of Columbia                   19
+Florida                                15
+Georgia                                16
 Illinois                                4
-Indiana                                 3
-Kansas                                  5
-Louisiana                              16
-Maryland                               23
-Massachusetts                           5
-Michigan                                5
+Indiana                                 5
+Iowa                                    3
+Kentucky                                3
+Louisiana                              17
+Maine                                  14
+Maryland                               21
+Massachusetts                           9
+Michigan                                2
 Minnesota                               3
-Mississippi                            12
 Missouri                                2
-Nebraska                               15
-New Hampshire                          22
-New Jersey                             16
-New Mexico                             10
-New York                                4
-North Carolina                         79
-Ohio                                    4
+Nebraska                                5
+Nevada                                  3
+New Hampshire                          10
+New Jersey                             12
+New York                                5
+North Carolina                         72
+North Dakota                           14
+Ohio                                    7
 Oklahoma                                5
-Oregon                                  5
-Pennsylvania                           15
+Oregon                                  1
+Pennsylvania                           10
+Rhode Island                            8
 South Carolina                        100
-Tennessee                              13
+Tennessee                               8
 Texas                                   9
-Virginia                               37
+Virginia                               39
 Washington                              3
-West Virginia                          13
+West Virginia                           7
+Wisconsin                               8
+Wyoming                                20

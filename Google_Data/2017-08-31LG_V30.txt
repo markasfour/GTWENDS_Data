@@ -1,53 +1,53 @@
                       LG V30
 geoName                     
-Alabama                   32
-Alaska                    37
-Arizona                   57
+Alabama                   43
+Alaska                    29
+Arizona                   67
 Arkansas                  49
-California                57
-Colorado                  45
-Connecticut               51
-Delaware                  56
-District of Columbia      34
-Florida                   50
-Georgia                   39
-Hawaii                    56
-Idaho                     86
-Illinois                  42
-Indiana                   47
-Iowa                      28
-Kansas                    34
-Kentucky                  46
-Louisiana                 37
-Maine                     23
-Maryland                  57
-Massachusetts             36
-Michigan                  38
-Minnesota                 34
-Mississippi               21
-Missouri                  42
-Montana                   26
-Nebraska                  41
-Nevada                    76
-New Hampshire             43
-New Jersey                67
+California                67
+Colorado                  57
+Connecticut               43
+Delaware                  98
+District of Columbia      45
+Florida                   62
+Georgia                   48
+Hawaii                    70
+Idaho                     91
+Illinois                  59
+Indiana                   54
+Iowa                      47
+Kansas                    46
+Kentucky                  53
+Louisiana                 56
+Maine                     44
+Maryland                  59
+Massachusetts             48
+Michigan                  50
+Minnesota                 41
+Mississippi               26
+Missouri                  41
+Montana                   56
+Nebraska                  36
+Nevada                    79
+New Hampshire             55
+New Jersey                89
 New Mexico               100
-New York                  49
-North Carolina            49
-North Dakota              38
-Ohio                      53
-Oklahoma                  36
-Oregon                    27
-Pennsylvania              40
-Rhode Island              39
-South Carolina            31
-South Dakota              45
-Tennessee                 38
-Texas                     45
-Utah                      63
-Vermont                   32
-Virginia                  39
-Washington                52
-West Virginia             42
-Wisconsin                 41
-Wyoming                   58
+New York                  62
+North Carolina            51
+North Dakota              46
+Ohio                      64
+Oklahoma                  56
+Oregon                    37
+Pennsylvania              52
+Rhode Island              51
+South Carolina            42
+South Dakota              54
+Tennessee                 47
+Texas                     57
+Utah                      82
+Vermont                   15
+Virginia                  43
+Washington                69
+West Virginia             50
+Wisconsin                 53
+Wyoming                   34

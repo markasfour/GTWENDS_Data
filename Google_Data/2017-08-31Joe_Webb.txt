@@ -1,0 +1,53 @@
+                      Joe Webb
+geoName                       
+Alabama                     51
+Alaska                      10
+Arizona                     12
+Arkansas                    14
+California                  11
+Colorado                    14
+Connecticut                 16
+Delaware                    26
+District of Columbia        14
+Florida                     11
+Georgia                     20
+Hawaii                      11
+Idaho                       14
+Illinois                    20
+Indiana                     13
+Iowa                        26
+Kansas                      15
+Kentucky                    19
+Louisiana                   17
+Maine                       11
+Maryland                    21
+Massachusetts               14
+Michigan                    13
+Minnesota                  100
+Mississippi                 17
+Missouri                    18
+Montana                     15
+Nebraska                    17
+Nevada                      10
+New Hampshire               12
+New Jersey                  15
+New Mexico                  10
+New York                    13
+North Carolina              39
+North Dakota                67
+Ohio                        14
+Oklahoma                    11
+Oregon                       8
+Pennsylvania                17
+Rhode Island                 8
+South Carolina              29
+South Dakota                48
+Tennessee                   18
+Texas                       13
+Utah                         8
+Vermont                      3
+Virginia                    13
+Washington                  12
+West Virginia               13
+Wisconsin                   28
+Wyoming                     16

@@ -1,6 +1,6 @@
                 Gasshortage
 geoName                    
-Georgia                  59
-New York                 11
-North Carolina           59
-Tennessee               100
+Georgia                  65
+New York                 15
+North Carolina          100
+Tennessee                68
