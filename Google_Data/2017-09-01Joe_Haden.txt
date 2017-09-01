@@ -1,0 +1,53 @@
+                      Joe Haden
+geoName                        
+Alabama                      13
+Alaska                        7
+Arizona                      12
+Arkansas                      8
+California                   10
+Colorado                     10
+Connecticut                  11
+Delaware                     20
+District of Columbia         28
+Florida                      18
+Georgia                      14
+Hawaii                       13
+Idaho                         5
+Illinois                     12
+Indiana                      12
+Iowa                         10
+Kansas                        9
+Kentucky                     16
+Louisiana                    18
+Maine                         7
+Maryland                     34
+Massachusetts                15
+Michigan                     18
+Minnesota                    11
+Mississippi                  19
+Missouri                     10
+Montana                       7
+Nebraska                      9
+Nevada                       12
+New Hampshire                 9
+New Jersey                   16
+New Mexico                    9
+New York                     12
+North Carolina               14
+North Dakota                 10
+Ohio                        100
+Oklahoma                      9
+Oregon                        5
+Pennsylvania                 24
+Rhode Island                 16
+South Carolina               14
+South Dakota                 10
+Tennessee                    11
+Texas                        12
+Utah                          6
+Vermont                       7
+Virginia                     17
+Washington                    9
+West Virginia                17
+Wisconsin                    13
+Wyoming                       6

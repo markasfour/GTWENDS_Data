@@ -1,0 +1,51 @@
+                      NFLPA
+geoName                    
+Alabama                  32
+Arizona                  22
+Arkansas                 19
+California               24
+Colorado                 23
+Connecticut              29
+Delaware                 22
+District of Columbia    100
+Florida                  27
+Georgia                  30
+Hawaii                   31
+Idaho                    21
+Illinois                 23
+Indiana                  27
+Iowa                     25
+Kansas                   23
+Kentucky                 23
+Louisiana                41
+Maine                    17
+Maryland                 56
+Massachusetts            33
+Michigan                 21
+Minnesota                22
+Mississippi              29
+Missouri                 29
+Montana                  44
+Nebraska                 39
+Nevada                   22
+New Hampshire            23
+New Jersey               23
+New Mexico               19
+New York                 24
+North Carolina           30
+North Dakota             34
+Ohio                     32
+Oklahoma                 23
+Oregon                   12
+Pennsylvania             28
+Rhode Island             29
+South Carolina           40
+South Dakota             17
+Tennessee                23
+Texas                    25
+Utah                     21
+Vermont                  14
+Virginia                 38
+Washington               22
+West Virginia            33
+Wisconsin                22

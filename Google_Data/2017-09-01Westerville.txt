@@ -1,0 +1,48 @@
+                      Westerville
+geoName                          
+Alabama                         0
+Alaska                          0
+Arizona                         0
+Arkansas                        0
+California                      0
+Colorado                        0
+Connecticut                     1
+Delaware                        0
+District of Columbia            1
+Florida                         1
+Georgia                         1
+Illinois                        2
+Indiana                         1
+Iowa                            0
+Kansas                          1
+Kentucky                        1
+Louisiana                       0
+Maine                           0
+Maryland                        0
+Massachusetts                   1
+Michigan                        8
+Minnesota                       3
+Mississippi                     0
+Missouri                        1
+Nebraska                        0
+Nevada                          0
+New Hampshire                   0
+New Jersey                      0
+New Mexico                      0
+New York                        1
+North Carolina                  1
+Ohio                          100
+Oklahoma                        0
+Oregon                          0
+Pennsylvania                    2
+Rhode Island                    0
+South Carolina                  1
+South Dakota                    1
+Tennessee                       1
+Texas                           0
+Utah                            0
+Vermont                         0
+Virginia                        0
+Washington                      0
+West Virginia                   2
+Wisconsin                       1

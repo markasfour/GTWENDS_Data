@@ -1,0 +1,53 @@
+                      Espn Fantasy
+geoName                           
+Alabama                         35
+Alaska                          35
+Arizona                         47
+Arkansas                        35
+California                      40
+Colorado                        63
+Connecticut                     60
+Delaware                        67
+District of Columbia            53
+Florida                         41
+Georgia                         39
+Hawaii                          41
+Idaho                           40
+Illinois                        65
+Indiana                         59
+Iowa                            65
+Kansas                          45
+Kentucky                        52
+Louisiana                       50
+Maine                           53
+Maryland                        55
+Massachusetts                   70
+Michigan                        57
+Minnesota                      100
+Mississippi                     36
+Missouri                        54
+Montana                         54
+Nebraska                        58
+Nevada                          41
+New Hampshire                   61
+New Jersey                      62
+New Mexico                      39
+New York                        53
+North Carolina                  46
+North Dakota                    77
+Ohio                            66
+Oklahoma                        42
+Oregon                          31
+Pennsylvania                    72
+Rhode Island                    71
+South Carolina                  41
+South Dakota                    68
+Tennessee                       41
+Texas                           39
+Utah                            36
+Vermont                         54
+Virginia                        43
+Washington                      53
+West Virginia                   44
+Wisconsin                       85
+Wyoming                         49

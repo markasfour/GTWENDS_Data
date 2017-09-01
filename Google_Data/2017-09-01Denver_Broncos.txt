@@ -1,0 +1,53 @@
+                      Denver Broncos
+geoName                             
+Alabama                            5
+Alaska                            12
+Arizona                           12
+Arkansas                           8
+California                         6
+Colorado                         100
+Connecticut                        4
+Delaware                           5
+District of Columbia               6
+Florida                            5
+Georgia                            6
+Hawaii                            10
+Idaho                             19
+Illinois                           6
+Indiana                            7
+Iowa                              13
+Kansas                            15
+Kentucky                           6
+Louisiana                          6
+Maine                              5
+Maryland                           5
+Massachusetts                      5
+Michigan                           5
+Minnesota                          7
+Mississippi                        8
+Missouri                          10
+Montana                           30
+Nebraska                          19
+Nevada                            13
+New Hampshire                      5
+New Jersey                         4
+New Mexico                        36
+New York                           4
+North Carolina                     6
+North Dakota                      17
+Ohio                               6
+Oklahoma                           9
+Oregon                             6
+Pennsylvania                       5
+Rhode Island                       5
+South Carolina                     6
+South Dakota                      28
+Tennessee                          8
+Texas                              8
+Utah                              20
+Vermont                            5
+Virginia                           5
+Washington                         9
+West Virginia                      6
+Wisconsin                          5
+Wyoming                           75

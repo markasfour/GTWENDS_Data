@@ -1,0 +1,53 @@
+                      Ncaa Football
+geoName                            
+Alabama                         100
+Alaska                           27
+Arizona                          36
+Arkansas                         62
+California                       23
+Colorado                         35
+Connecticut                      19
+Delaware                         26
+District of Columbia             37
+Florida                          46
+Georgia                          65
+Hawaii                           52
+Idaho                            52
+Illinois                         30
+Indiana                          35
+Iowa                             56
+Kansas                           39
+Kentucky                         53
+Louisiana                        56
+Maine                            18
+Maryland                         24
+Massachusetts                    19
+Michigan                         54
+Minnesota                        30
+Mississippi                      84
+Missouri                         36
+Montana                          34
+Nebraska                         86
+Nevada                           41
+New Hampshire                    16
+New Jersey                       21
+New Mexico                       32
+New York                         18
+North Carolina                   45
+North Dakota                     39
+Ohio                             59
+Oklahoma                         72
+Oregon                           36
+Pennsylvania                     32
+Rhode Island                     15
+South Carolina                   73
+South Dakota                     39
+Tennessee                        65
+Texas                            48
+Utah                             46
+Vermont                          18
+Virginia                         30
+Washington                       35
+West Virginia                    69
+Wisconsin                        37
+Wyoming                          47

@@ -1,0 +1,6 @@
+            ForceFriday
+geoName                
+California          100
+Florida              85
+New York             33
+Texas                59

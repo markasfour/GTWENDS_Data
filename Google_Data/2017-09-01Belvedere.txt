@@ -1,0 +1,53 @@
+                      Belvedere
+geoName                        
+Alabama                      17
+Alaska                       10
+Arizona                      17
+Arkansas                     18
+California                   33
+Colorado                     18
+Connecticut                  27
+Delaware                     34
+District of Columbia         58
+Florida                      39
+Georgia                      28
+Hawaii                       13
+Idaho                        12
+Illinois                     35
+Indiana                      19
+Iowa                         19
+Kansas                       15
+Kentucky                     21
+Louisiana                    17
+Maine                        17
+Maryland                    100
+Massachusetts                24
+Michigan                     22
+Minnesota                    17
+Mississippi                  20
+Missouri                     17
+Montana                      14
+Nebraska                     24
+Nevada                       23
+New Hampshire                21
+New Jersey                   27
+New Mexico                   12
+New York                     36
+North Carolina               24
+North Dakota                 15
+Ohio                         20
+Oklahoma                     17
+Oregon                       13
+Pennsylvania                 34
+Rhode Island                 28
+South Carolina               29
+South Dakota                 14
+Tennessee                    24
+Texas                        20
+Utah                         16
+Vermont                      29
+Virginia                     40
+Washington                   19
+West Virginia                19
+Wisconsin                    20
+Wyoming                      11

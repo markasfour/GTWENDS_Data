@@ -1,0 +1,53 @@
+                      Beverly
+geoName                      
+Alabama                    18
+Alaska                     13
+Arizona                    22
+Arkansas                   18
+California                 82
+Colorado                   16
+Connecticut                23
+Delaware                   18
+District of Columbia       24
+Florida                    21
+Georgia                    18
+Hawaii                     37
+Idaho                      14
+Illinois                   27
+Indiana                    17
+Iowa                       14
+Kansas                     15
+Kentucky                   19
+Louisiana                  19
+Maine                      19
+Maryland                   19
+Massachusetts             100
+Michigan                   23
+Minnesota                  15
+Mississippi                17
+Missouri                   17
+Montana                    14
+Nebraska                   15
+Nevada                     29
+New Hampshire              30
+New Jersey                 21
+New Mexico                 16
+New York                   23
+North Carolina             22
+North Dakota               13
+Ohio                       19
+Oklahoma                   17
+Oregon                     17
+Pennsylvania               19
+Rhode Island               24
+South Carolina             18
+South Dakota               13
+Tennessee                  19
+Texas                      18
+Utah                       14
+Vermont                    18
+Virginia                   16
+Washington                 18
+West Virginia              24
+Wisconsin                  15
+Wyoming                    14

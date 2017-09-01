@@ -1,0 +1,52 @@
+                      LG V30
+geoName                     
+Alabama                   43
+Alaska                    43
+Arizona                   47
+Arkansas                  44
+California                58
+Colorado                  42
+Connecticut               48
+Delaware                  60
+District of Columbia      32
+Florida                   54
+Georgia                   37
+Hawaii                    47
+Idaho                    100
+Illinois                  39
+Indiana                   40
+Iowa                      38
+Kansas                    42
+Kentucky                  35
+Louisiana                 31
+Maine                     35
+Maryland                  43
+Massachusetts             33
+Michigan                  38
+Minnesota                 45
+Mississippi               21
+Missouri                  33
+Montana                   23
+Nebraska                  23
+Nevada                    51
+New Hampshire             38
+New Jersey                70
+New Mexico                96
+New York                  50
+North Carolina            40
+North Dakota              46
+Ohio                      45
+Oklahoma                  43
+Oregon                    38
+Pennsylvania              44
+Rhode Island              41
+South Carolina            34
+South Dakota              34
+Tennessee                 34
+Texas                     42
+Utah                      69
+Virginia                  38
+Washington                46
+West Virginia             43
+Wisconsin                 40
+Wyoming                   60
