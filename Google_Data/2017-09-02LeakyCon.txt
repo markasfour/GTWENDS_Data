@@ -1,0 +1,34 @@
+                      LeakyCon
+geoName                       
+Alabama                     12
+Arizona                     12
+California                  19
+Colorado                    12
+Connecticut                 11
+District of Columbia        14
+Florida                     45
+Georgia                     14
+Illinois                    24
+Indiana                     18
+Iowa                        21
+Kansas                      20
+Kentucky                    13
+Louisiana                   14
+Maryland                    17
+Massachusetts               25
+Michigan                    18
+Minnesota                   21
+Missouri                    14
+New Hampshire               17
+New Jersey                  19
+New York                    17
+North Carolina              15
+Ohio                        19
+Oregon                     100
+Pennsylvania                19
+South Carolina              17
+Tennessee                   18
+Texas                       13
+Virginia                    16
+Washington                  53
+Wisconsin                   23

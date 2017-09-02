@@ -1,0 +1,53 @@
+                      Narcos
+geoName                     
+Alabama                   41
+Alaska                    32
+Arizona                   77
+Arkansas                  44
+California                98
+Colorado                  58
+Connecticut               56
+Delaware                  51
+District of Columbia      64
+Florida                   63
+Georgia                   57
+Hawaii                    37
+Idaho                     40
+Illinois                  68
+Indiana                   41
+Iowa                      36
+Kansas                    49
+Kentucky                  36
+Louisiana                 47
+Maine                     30
+Maryland                  53
+Massachusetts             50
+Michigan                  46
+Minnesota                 38
+Mississippi               36
+Missouri                  36
+Montana                   33
+Nebraska                  45
+Nevada                    78
+New Hampshire             35
+New Jersey                65
+New Mexico                64
+New York                  72
+North Carolina            48
+North Dakota              35
+Ohio                      36
+Oklahoma                  40
+Oregon                    51
+Pennsylvania              44
+Rhode Island              55
+South Carolina            43
+South Dakota              30
+Tennessee                 40
+Texas                    100
+Utah                      43
+Vermont                   35
+Virginia                  72
+Washington                51
+West Virginia             29
+Wisconsin                 36
+Wyoming                   35

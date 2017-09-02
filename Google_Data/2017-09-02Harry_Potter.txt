@@ -1,0 +1,53 @@
+                      Harry Potter
+geoName                           
+Alabama                         58
+Alaska                          68
+Arizona                         60
+Arkansas                        65
+California                      60
+Colorado                        63
+Connecticut                     58
+Delaware                        57
+District of Columbia            45
+Florida                         66
+Georgia                         52
+Hawaii                          54
+Idaho                           79
+Illinois                        59
+Indiana                         74
+Iowa                            70
+Kansas                          59
+Kentucky                        66
+Louisiana                       53
+Maine                           74
+Maryland                        56
+Massachusetts                   60
+Michigan                        63
+Minnesota                       64
+Mississippi                     50
+Missouri                        65
+Montana                         67
+Nebraska                        65
+Nevada                          62
+New Hampshire                   71
+New Jersey                      59
+New Mexico                      62
+New York                        51
+North Carolina                  55
+North Dakota                    64
+Ohio                            66
+Oklahoma                        67
+Oregon                          55
+Pennsylvania                    61
+Rhode Island                    63
+South Carolina                  56
+South Dakota                    64
+Tennessee                       62
+Texas                           54
+Utah                           100
+Vermont                         70
+Virginia                        54
+Washington                      65
+West Virginia                   68
+Wisconsin                       66
+Wyoming                         72

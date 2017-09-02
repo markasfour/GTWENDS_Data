@@ -1,0 +1,53 @@
+                      Eid
+geoName                  
+Alabama                22
+Alaska                 20
+Arizona                31
+Arkansas               25
+California             49
+Colorado               34
+Connecticut            49
+Delaware               45
+District of Columbia   89
+Florida                34
+Georgia                39
+Hawaii                 18
+Idaho                  21
+Illinois               63
+Indiana                30
+Iowa                   27
+Kansas                 45
+Kentucky               28
+Louisiana              24
+Maine                  38
+Maryland               74
+Massachusetts          49
+Michigan               56
+Minnesota              65
+Mississippi            16
+Missouri               32
+Montana                15
+Nebraska               27
+Nevada                 29
+New Hampshire          27
+New Jersey             76
+New Mexico             24
+New York               88
+North Carolina         33
+North Dakota           43
+Ohio                   41
+Oklahoma               27
+Oregon                 42
+Pennsylvania           44
+Rhode Island           33
+South Carolina         21
+South Dakota           22
+Tennessee              28
+Texas                  68
+Utah                   20
+Vermont                30
+Virginia              100
+Washington             43
+West Virginia          26
+Wisconsin              26
+Wyoming                19

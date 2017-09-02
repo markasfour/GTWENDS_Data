@@ -1,0 +1,53 @@
+                      September
+geoName                        
+Alabama                      80
+Alaska                       80
+Arizona                      84
+Arkansas                     81
+California                   86
+Colorado                     84
+Connecticut                  88
+Delaware                     86
+District of Columbia        100
+Florida                      77
+Georgia                      80
+Hawaii                       93
+Idaho                        81
+Illinois                     88
+Indiana                      84
+Iowa                         82
+Kansas                       78
+Kentucky                     82
+Louisiana                    76
+Maine                        92
+Maryland                     88
+Massachusetts                92
+Michigan                     81
+Minnesota                    78
+Mississippi                  73
+Missouri                     84
+Montana                      80
+Nebraska                     84
+Nevada                       86
+New Hampshire                87
+New Jersey                   96
+New Mexico                   81
+New York                     95
+North Carolina               80
+North Dakota                 76
+Ohio                         85
+Oklahoma                     76
+Oregon                       75
+Pennsylvania                 89
+Rhode Island                 92
+South Carolina               85
+South Dakota                 79
+Tennessee                    79
+Texas                        77
+Utah                         91
+Vermont                      85
+Virginia                     81
+Washington                   82
+West Virginia                86
+Wisconsin                    82
+Wyoming                      76

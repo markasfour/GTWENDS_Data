@@ -1,0 +1,53 @@
+                      GAMEDAY
+geoName                      
+Alabama                    99
+Alaska                     11
+Arizona                    18
+Arkansas                   33
+California                 12
+Colorado                   21
+Connecticut                16
+Delaware                   15
+District of Columbia       27
+Florida                    27
+Georgia                    49
+Hawaii                      9
+Idaho                      21
+Illinois                   25
+Indiana                    29
+Iowa                       31
+Kansas                     30
+Kentucky                   35
+Louisiana                  42
+Maine                      11
+Maryland                   18
+Massachusetts              14
+Michigan                   35
+Minnesota                  22
+Mississippi                83
+Missouri                   28
+Montana                    16
+Nebraska                   47
+Nevada                     13
+New Hampshire              13
+New Jersey                 15
+New Mexico                 18
+New York                   13
+North Carolina             28
+North Dakota               61
+Ohio                       35
+Oklahoma                   51
+Oregon                     20
+Pennsylvania               23
+Rhode Island               14
+South Carolina            100
+South Dakota               22
+Tennessee                  56
+Texas                      27
+Utah                       20
+Vermont                    11
+Virginia                   26
+Washington                 25
+West Virginia              55
+Wisconsin                  32
+Wyoming                    18

@@ -1,0 +1,51 @@
+                      Monza
+geoName                    
+Alabama                  27
+Arizona                  29
+Arkansas                 29
+California               34
+Colorado                 28
+Connecticut              33
+Delaware                 28
+District of Columbia     36
+Florida                  33
+Georgia                  30
+Hawaii                   26
+Idaho                    40
+Illinois                 31
+Indiana                  33
+Iowa                     30
+Kansas                   53
+Kentucky                 36
+Louisiana                24
+Maine                    31
+Maryland                 27
+Massachusetts            29
+Michigan                 37
+Minnesota                28
+Mississippi              25
+Missouri                 35
+Montana                  32
+Nebraska                 30
+Nevada                   31
+New Hampshire            30
+New Jersey               29
+New Mexico               29
+New York                 31
+North Carolina           38
+North Dakota             36
+Ohio                     33
+Oklahoma                 31
+Oregon                   63
+Pennsylvania             30
+Rhode Island             25
+South Carolina          100
+South Dakota             33
+Tennessee                38
+Texas                    28
+Utah                     26
+Vermont                  32
+Virginia                 56
+Washington               36
+West Virginia            32
+Wisconsin                32
