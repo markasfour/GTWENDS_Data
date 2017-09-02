@@ -14,12 +14,12 @@ Georgia                                 7
 Hawaii                                  4
 Idaho                                   3
 Illinois                                7
-Indiana                                11
+Indiana                                10
 Iowa                                    7
 Kansas                                  3
 Kentucky                               10
 Louisiana                               4
-Maine                                   3
+Maine                                   2
 Maryland                                4
 Massachusetts                           3
 Michigan                               20
@@ -45,7 +45,7 @@ South Dakota                            4
 Tennessee                               8
 Texas                                   4
 Utah                                    3
-Vermont                                 2
+Vermont                                 3
 Virginia                                5
 Washington                              3
 West Virginia                          16

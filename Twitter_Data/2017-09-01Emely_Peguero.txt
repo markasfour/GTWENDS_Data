@@ -1,11 +1,11 @@
 AL 0
-AK 3
+AK 4
 AZ 0
 AR 0
-CA 1
+CA 4
 CO 15
 CT 15
-DE 0
+DE 1
 DC 0
 FL 15
 GA 0

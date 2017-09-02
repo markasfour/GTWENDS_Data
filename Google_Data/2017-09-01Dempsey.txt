@@ -1,0 +1,53 @@
+                      Dempsey
+geoName                      
+Alabama                    37
+Alaska                     29
+Arizona                    29
+Arkansas                   36
+California                 30
+Colorado                   30
+Connecticut                44
+Delaware                   36
+District of Columbia       40
+Florida                    30
+Georgia                    32
+Hawaii                     27
+Idaho                      29
+Illinois                   33
+Indiana                    30
+Iowa                       29
+Kansas                     31
+Kentucky                   34
+Louisiana                  41
+Maine                     100
+Maryland                   37
+Massachusetts              40
+Michigan                   29
+Minnesota                  27
+Mississippi                30
+Missouri                   35
+Montana                    31
+Nebraska                   33
+Nevada                     33
+New Hampshire              37
+New Jersey                 37
+New Mexico                 25
+New York                   35
+North Carolina             31
+North Dakota               27
+Ohio                       36
+Oklahoma                   31
+Oregon                     24
+Pennsylvania               38
+Rhode Island               35
+South Carolina             36
+South Dakota               28
+Tennessee                  33
+Texas                      31
+Utah                       28
+Vermont                    36
+Virginia                   29
+Washington                 50
+West Virginia              36
+Wisconsin                  31
+Wyoming                    31

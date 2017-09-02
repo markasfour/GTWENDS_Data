@@ -1,27 +1,27 @@
                       Gas shortage
 geoName                           
-Alabama                         23
+Alabama                         24
 Alaska                           2
-Arizona                          4
+Arizona                          3
 Arkansas                         5
 California                       3
-Colorado                         3
+Colorado                         4
 Connecticut                      6
-Delaware                         6
-District of Columbia            11
-Florida                          8
-Georgia                         56
-Hawaii                           1
-Idaho                            4
-Illinois                         3
+Delaware                         7
+District of Columbia            10
+Florida                          7
+Georgia                         58
+Hawaii                           2
+Idaho                            5
+Illinois                         4
 Indiana                          6
 Iowa                             3
 Kansas                           3
 Kentucky                        10
 Louisiana                        4
-Maine                            5
+Maine                            6
 Maryland                         6
-Massachusetts                    5
+Massachusetts                    6
 Michigan                         4
 Minnesota                        4
 Mississippi                      7
@@ -29,25 +29,25 @@ Missouri                         4
 Montana                          2
 Nebraska                         3
 Nevada                           3
-New Hampshire                    5
+New Hampshire                    6
 New Jersey                      10
-New Mexico                       3
-New York                        23
+New Mexico                       4
+New York                        24
 North Carolina                 100
-North Dakota                     5
-Ohio                             4
+North Dakota                     8
+Ohio                             5
 Oklahoma                         3
 Oregon                           3
 Pennsylvania                     6
 Rhode Island                     4
-South Carolina                  41
+South Carolina                  42
 South Dakota                     4
-Tennessee                       60
-Texas                            5
-Utah                             3
-Vermont                          5
-Virginia                        10
+Tennessee                       64
+Texas                            6
+Utah                             2
+Vermont                          4
+Virginia                         9
 Washington                       2
-West Virginia                    8
+West Virginia                    9
 Wisconsin                        6
-Wyoming                          6
+Wyoming                          4

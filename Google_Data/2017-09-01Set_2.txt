@@ -1,0 +1,38 @@
+                      Set 2
+geoName                    
+Alabama                  90
+Arizona                  83
+Arkansas                 90
+California               79
+Colorado                 78
+Connecticut              79
+District of Columbia     58
+Florida                  79
+Georgia                  78
+Illinois                 77
+Indiana                  94
+Iowa                     89
+Kansas                   81
+Kentucky                 86
+Louisiana                86
+Maryland                 85
+Massachusetts            76
+Michigan                 84
+Minnesota                76
+Missouri                 87
+Nebraska                 76
+Nevada                   83
+New Jersey               85
+New York                100
+North Carolina           83
+Ohio                     87
+Oklahoma                 78
+Oregon                   67
+Pennsylvania             86
+South Carolina           83
+Tennessee                84
+Texas                    75
+Utah                     97
+Virginia                 76
+Washington               83
+Wisconsin                81

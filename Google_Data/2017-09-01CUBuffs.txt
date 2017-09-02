@@ -1,0 +1,6 @@
+            CUBuffs
+geoName            
+California        3
+Colorado        100
+Illinois          1
+Texas             2

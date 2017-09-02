@@ -1,0 +1,53 @@
+                      Panama
+geoName                     
+Alabama                   83
+Alaska                    10
+Arizona                    8
+Arkansas                  21
+California                10
+Colorado                  10
+Connecticut                9
+Delaware                   9
+District of Columbia      16
+Florida                  100
+Georgia                   48
+Hawaii                     8
+Idaho                      8
+Illinois                  12
+Indiana                   17
+Iowa                      10
+Kansas                    12
+Kentucky                  30
+Louisiana                 27
+Maine                      7
+Maryland                  11
+Massachusetts              8
+Michigan                   9
+Minnesota                  8
+Mississippi               29
+Missouri                  14
+Montana                    7
+Nebraska                   9
+Nevada                     9
+New Hampshire              7
+New Jersey                10
+New Mexico                 9
+New York                  13
+North Carolina            12
+North Dakota               7
+Ohio                      11
+Oklahoma                  17
+Oregon                    14
+Pennsylvania               8
+Rhode Island               8
+South Carolina            16
+South Dakota               8
+Tennessee                 37
+Texas                     15
+Utah                       7
+Vermont                    7
+Virginia                  10
+Washington                 7
+West Virginia              9
+Wisconsin                  9
+Wyoming                    9

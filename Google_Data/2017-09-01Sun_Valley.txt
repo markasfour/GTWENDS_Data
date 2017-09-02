@@ -1,0 +1,39 @@
+                      Sun Valley
+geoName                         
+Alabama                        1
+Arizona                       16
+Arkansas                       4
+California                    10
+Colorado                       4
+Connecticut                    2
+District of Columbia           3
+Florida                        1
+Georgia                        2
+Hawaii                         3
+Idaho                        100
+Illinois                       1
+Indiana                        1
+Iowa                           3
+Kentucky                       2
+Maryland                       4
+Massachusetts                  1
+Michigan                       1
+Minnesota                      2
+Missouri                       2
+Montana                        7
+Nebraska                       6
+Nevada                        14
+New Jersey                     1
+New York                       1
+North Carolina                12
+Ohio                           1
+Oregon                         3
+Pennsylvania                   2
+South Carolina                 2
+Tennessee                      1
+Texas                          2
+Utah                          11
+Virginia                       1
+Washington                     6
+Wisconsin                      2
+Wyoming                        8

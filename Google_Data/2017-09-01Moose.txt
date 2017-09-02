@@ -1,0 +1,53 @@
+                      Moose
+geoName                    
+Alabama                   6
+Alaska                  100
+Arizona                   7
+Arkansas                  7
+California                6
+Colorado                 16
+Connecticut              10
+Delaware                  8
+District of Columbia      9
+Florida                   7
+Georgia                   7
+Hawaii                    7
+Idaho                    20
+Illinois                  9
+Indiana                  11
+Iowa                     14
+Kansas                   13
+Kentucky                  8
+Louisiana                 6
+Maine                    82
+Maryland                 10
+Massachusetts            13
+Michigan                 13
+Minnesota                27
+Mississippi               6
+Missouri                 10
+Montana                  35
+Nebraska                 11
+Nevada                    7
+New Hampshire            39
+New Jersey                7
+New Mexico                8
+New York                  8
+North Carolina            9
+North Dakota             30
+Ohio                     10
+Oklahoma                  8
+Oregon                    7
+Pennsylvania             11
+Rhode Island             10
+South Carolina           10
+South Dakota             14
+Tennessee                 9
+Texas                     6
+Utah                     16
+Vermont                  30
+Virginia                  8
+Washington               12
+West Virginia            13
+Wisconsin                15
+Wyoming                  47

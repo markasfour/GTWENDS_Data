@@ -1,0 +1,53 @@
+                      US Soccer
+geoName                        
+Alabama                      53
+Alaska                       40
+Arizona                      58
+Arkansas                     39
+California                   76
+Colorado                     82
+Connecticut                  84
+Delaware                     77
+District of Columbia        100
+Florida                      61
+Georgia                      60
+Hawaii                       57
+Idaho                        58
+Illinois                     65
+Indiana                      56
+Iowa                         60
+Kansas                       59
+Kentucky                     55
+Louisiana                    52
+Maine                        56
+Maryland                     87
+Massachusetts                77
+Michigan                     55
+Minnesota                    68
+Mississippi                  39
+Missouri                     69
+Montana                      54
+Nebraska                     77
+Nevada                       57
+New Hampshire                71
+New Jersey                   93
+New Mexico                   65
+New York                     66
+North Carolina               66
+North Dakota                 41
+Ohio                         75
+Oklahoma                     52
+Oregon                       51
+Pennsylvania                 75
+Rhode Island                 64
+South Carolina               62
+South Dakota                 47
+Tennessee                    59
+Texas                        62
+Utah                         77
+Vermont                      79
+Virginia                     73
+Washington                   77
+West Virginia                53
+Wisconsin                    63
+Wyoming                      55

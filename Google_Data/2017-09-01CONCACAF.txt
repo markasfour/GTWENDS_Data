@@ -1,0 +1,53 @@
+                      CONCACAF
+geoName                       
+Alabama                     32
+Alaska                      26
+Arizona                     62
+Arkansas                    36
+California                 100
+Colorado                    61
+Connecticut                 55
+Delaware                    48
+District of Columbia        95
+Florida                     76
+Georgia                     61
+Hawaii                      28
+Idaho                       35
+Illinois                    60
+Indiana                     34
+Iowa                        38
+Kansas                      54
+Kentucky                    28
+Louisiana                   39
+Maine                       21
+Maryland                    86
+Massachusetts               48
+Michigan                    29
+Minnesota                   36
+Mississippi                 22
+Missouri                    44
+Montana                     23
+Nebraska                    53
+Nevada                      73
+New Hampshire               25
+New Jersey                  79
+New Mexico                  58
+New York                    70
+North Carolina              50
+North Dakota                19
+Ohio                        32
+Oklahoma                    40
+Oregon                      61
+Pennsylvania                41
+Rhode Island                45
+South Carolina              39
+South Dakota                27
+Tennessee                   38
+Texas                       99
+Utah                        75
+Vermont                     27
+Virginia                    64
+Washington                  66
+West Virginia               20
+Wisconsin                   35
+Wyoming                     31

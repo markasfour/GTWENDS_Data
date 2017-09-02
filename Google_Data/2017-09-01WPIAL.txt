@@ -1,0 +1,29 @@
+                      WPIAL
+geoName                    
+Arizona                   0
+California                0
+Colorado                  0
+Connecticut               1
+District of Columbia      4
+Florida                   1
+Georgia                   1
+Illinois                  1
+Indiana                   0
+Kentucky                  1
+Maryland                  1
+Massachusetts             1
+Michigan                  4
+Minnesota                 1
+Missouri                  0
+Nebraska                  0
+New Jersey                1
+New York                  2
+North Carolina            1
+Ohio                      5
+Oregon                    0
+Pennsylvania            100
+South Carolina            1
+Tennessee                 0
+Texas                     0
+Virginia                  2
+West Virginia            10

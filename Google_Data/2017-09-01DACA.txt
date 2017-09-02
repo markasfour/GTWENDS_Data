@@ -1,53 +1,53 @@
                       DACA
 geoName                   
 Alabama                 25
-Alaska                  12
-Arizona                 83
-Arkansas                38
+Alaska                  10
+Arizona                 81
+Arkansas                37
 California             100
 Colorado                53
 Connecticut             39
-Delaware                37
-District of Columbia    84
-Florida                 42
+Delaware                33
+District of Columbia    83
+Florida                 40
 Georgia                 47
 Hawaii                  20
 Idaho                   36
-Illinois                64
+Illinois                62
 Indiana                 35
-Iowa                    25
-Kansas                  35
-Kentucky                22
-Louisiana               19
-Maine                   14
-Maryland                44
+Iowa                    24
+Kansas                  37
+Kentucky                21
+Louisiana               18
+Maine                   13
+Maryland                43
 Massachusetts           36
-Michigan                25
-Minnesota               29
-Mississippi             17
-Missouri                22
-Montana                  6
-Nebraska                38
-Nevada                  80
+Michigan                23
+Minnesota               28
+Mississippi             18
+Missouri                20
+Montana                  9
+Nebraska                41
+Nevada                  79
 New Hampshire           16
-New Jersey              52
+New Jersey              53
 New Mexico              59
-New York                58
-North Carolina          51
-North Dakota            13
+New York                57
+North Carolina          52
+North Dakota            11
 Ohio                    16
 Oklahoma                35
-Oregon                  54
-Pennsylvania            22
-Rhode Island            27
-South Carolina          34
-South Dakota            13
-Tennessee               32
-Texas                   74
-Utah                    64
-Vermont                 19
-Virginia                43
-Washington              59
-West Virginia           11
+Oregon                  53
+Pennsylvania            21
+Rhode Island            30
+South Carolina          33
+South Dakota            15
+Tennessee               31
+Texas                   73
+Utah                    58
+Vermont                 21
+Virginia                44
+Washington              56
+West Virginia           10
 Wisconsin               28
 Wyoming                 27

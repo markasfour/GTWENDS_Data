@@ -1,0 +1,53 @@
+                      Jozy
+geoName                   
+Alabama                 41
+Alaska                  35
+Arizona                 45
+Arkansas                34
+California              54
+Colorado                48
+Connecticut             71
+Delaware                53
+District of Columbia    66
+Florida                 61
+Georgia                 49
+Hawaii                  39
+Idaho                   36
+Illinois                48
+Indiana                 42
+Iowa                    44
+Kansas                  46
+Kentucky                46
+Louisiana               57
+Maine                   34
+Maryland                65
+Massachusetts           58
+Michigan                38
+Minnesota               51
+Mississippi             33
+Missouri                48
+Montana                 33
+Nebraska                37
+Nevada                  48
+New Hampshire           33
+New Jersey              81
+New Mexico              36
+New York                68
+North Carolina          51
+North Dakota           100
+Ohio                    49
+Oklahoma                46
+Oregon                  37
+Pennsylvania            53
+Rhode Island            39
+South Carolina          48
+South Dakota            34
+Tennessee               46
+Texas                   46
+Utah                    49
+Vermont                 60
+Virginia                58
+Washington              57
+West Virginia           32
+Wisconsin               43
+Wyoming                 21
