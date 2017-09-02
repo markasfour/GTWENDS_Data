@@ -1,53 +1,53 @@
                       Chloe Bennet
 geoName                           
-Alabama                         41
-Alaska                          49
-Arizona                         61
-Arkansas                        47
-California                      70
-Colorado                        45
-Connecticut                     50
-Delaware                        52
-District of Columbia            32
-Florida                         44
-Georgia                         39
+Alabama                         43
+Alaska                          57
+Arizona                         68
+Arkansas                        48
+California                      79
+Colorado                        51
+Connecticut                     56
+Delaware                        56
+District of Columbia            37
+Florida                         48
+Georgia                         42
 Hawaii                         100
-Idaho                           55
-Illinois                        53
-Indiana                         50
-Iowa                            49
-Kansas                          47
-Kentucky                        49
-Louisiana                       39
-Maine                           43
-Maryland                        58
-Massachusetts                   49
-Michigan                        48
-Minnesota                       45
-Mississippi                     35
-Missouri                        48
-Montana                         50
-Nebraska                        49
-Nevada                          70
-New Hampshire                   49
-New Jersey                      58
-New Mexico                      49
-New York                        53
-North Carolina                  44
-North Dakota                    47
-Ohio                            53
-Oklahoma                        51
-Oregon                          44
-Pennsylvania                    53
-Rhode Island                    53
-South Carolina                  42
-South Dakota                    47
-Tennessee                       47
-Texas                           50
-Utah                            57
-Vermont                         37
-Virginia                        46
-Washington                      58
-West Virginia                   41
-Wisconsin                       46
-Wyoming                         41
+Idaho                           63
+Illinois                        61
+Indiana                         54
+Iowa                            58
+Kansas                          55
+Kentucky                        54
+Louisiana                       46
+Maine                           52
+Maryland                        60
+Massachusetts                   54
+Michigan                        56
+Minnesota                       52
+Mississippi                     43
+Missouri                        52
+Montana                         51
+Nebraska                        62
+Nevada                          72
+New Hampshire                   62
+New Jersey                      62
+New Mexico                      54
+New York                        57
+North Carolina                  51
+North Dakota                    43
+Ohio                            60
+Oklahoma                        56
+Oregon                          48
+Pennsylvania                    58
+Rhode Island                    63
+South Carolina                  52
+South Dakota                    66
+Tennessee                       52
+Texas                           56
+Utah                            61
+Vermont                         40
+Virginia                        51
+Washington                      64
+West Virginia                   54
+Wisconsin                       50
+Wyoming                         45

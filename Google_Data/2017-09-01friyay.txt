@@ -1,34 +1,34 @@
                       friyay
 geoName                     
-Alabama                   50
-Arizona                   63
-Arkansas                 100
-California                70
-Colorado                  38
-Connecticut               57
-District of Columbia      60
-Florida                   72
-Georgia                   55
-Illinois                  65
-Indiana                   61
-Kentucky                  39
-Louisiana                 47
-Maryland                  68
-Massachusetts             49
-Michigan                  49
-Minnesota                 40
-Missouri                  39
+Alabama                   55
+Arizona                   70
+Arkansas                  78
+California                95
+Colorado                  54
+Connecticut               94
+District of Columbia      96
+Florida                  100
+Georgia                   80
+Illinois                  74
+Indiana                   50
+Kentucky                  41
+Louisiana                 78
+Maryland                  78
+Massachusetts             78
+Michigan                  46
+Minnesota                 69
+Missouri                  56
 Nevada                    66
-New Jersey                59
-New York                  58
-North Carolina            60
-Ohio                      46
-Oklahoma                  61
-Oregon                    45
-Pennsylvania              40
-South Carolina            74
-Tennessee                 66
-Texas                     68
-Virginia                  36
-Washington                49
-Wisconsin                 36
+New Jersey                78
+New York                  61
+North Carolina            86
+Ohio                      60
+Oklahoma                  99
+Oregon                    56
+Pennsylvania              62
+South Carolina            98
+Tennessee                 81
+Texas                     80
+Virginia                  52
+Washington                66
+Wisconsin                 34

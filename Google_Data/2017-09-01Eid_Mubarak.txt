@@ -1,53 +1,53 @@
                       Eid Mubarak
 geoName                          
-Alabama                        21
-Alaska                          9
-Arizona                        28
-Arkansas                       21
+Alabama                        20
+Alaska                         16
+Arizona                        29
+Arkansas                       19
 California                     45
-Colorado                       27
-Connecticut                    39
-Delaware                       35
-District of Columbia           79
-Florida                        37
-Georgia                        39
-Hawaii                         21
-Idaho                          18
-Illinois                       54
-Indiana                        27
-Iowa                           24
-Kansas                         45
-Kentucky                       24
-Louisiana                      26
+Colorado                       26
+Connecticut                    42
+Delaware                       51
+District of Columbia           86
+Florida                        36
+Georgia                        42
+Hawaii                         19
+Idaho                          16
+Illinois                       53
+Indiana                        25
+Iowa                           25
+Kansas                         48
+Kentucky                       26
+Louisiana                      24
 Maine                          34
-Maryland                       69
+Maryland                       67
 Massachusetts                  44
-Michigan                       53
-Minnesota                      53
-Mississippi                    19
-Missouri                       29
-Montana                         8
-Nebraska                       24
+Michigan                       52
+Minnesota                      54
+Mississippi                    17
+Missouri                       31
+Montana                         7
+Nebraska                       26
 Nevada                         31
-New Hampshire                  24
-New Jersey                     71
-New Mexico                     19
-New York                       87
-North Carolina                 31
-North Dakota                   21
-Ohio                           37
+New Hampshire                  20
+New Jersey                     70
+New Mexico                     17
+New York                       88
+North Carolina                 30
+North Dakota                   25
+Ohio                           36
 Oklahoma                       26
-Oregon                         35
-Pennsylvania                   39
-Rhode Island                   36
-South Carolina                 23
+Oregon                         38
+Pennsylvania                   40
+Rhode Island                   35
+South Carolina                 20
 South Dakota                   18
-Tennessee                      29
+Tennessee                      28
 Texas                          47
 Utah                           21
-Vermont                        23
+Vermont                        27
 Virginia                      100
-Washington                     38
-West Virginia                  28
-Wisconsin                      25
-Wyoming                        13
+Washington                     35
+West Virginia                  22
+Wisconsin                      23
+Wyoming                        24

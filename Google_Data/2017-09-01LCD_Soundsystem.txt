@@ -1,53 +1,53 @@
                       LCD Soundsystem
 geoName                              
-Alabama                            21
-Alaska                             35
-Arizona                            33
-Arkansas                           22
-California                         62
+Alabama                            25
+Alaska                             37
+Arizona                            35
+Arkansas                           23
+California                         64
 Colorado                          100
-Connecticut                        47
-Delaware                           46
-District of Columbia               58
-Florida                            25
-Georgia                            30
-Hawaii                             25
-Idaho                              29
-Illinois                           74
-Indiana                            33
-Iowa                               31
-Kansas                             28
-Kentucky                           37
-Louisiana                          30
-Maine                              48
-Maryland                           38
-Massachusetts                      57
+Connecticut                        48
+Delaware                           34
+District of Columbia               64
+Florida                            27
+Georgia                            31
+Hawaii                             33
+Idaho                              31
+Illinois                           77
+Indiana                            36
+Iowa                               35
+Kansas                             29
+Kentucky                           35
+Louisiana                          31
+Maine                              57
+Maryland                           42
+Massachusetts                      61
 Michigan                           39
-Minnesota                          51
-Mississippi                        19
-Missouri                           39
-Montana                            50
-Nebraska                           37
-Nevada                             28
-New Hampshire                      36
-New Jersey                         46
-New Mexico                         29
-New York                           87
-North Carolina                     28
-North Dakota                       24
-Ohio                               38
+Minnesota                          54
+Mississippi                        23
+Missouri                           42
+Montana                            67
+Nebraska                           34
+Nevada                             30
+New Hampshire                      38
+New Jersey                         48
+New Mexico                         32
+New York                           91
+North Carolina                     29
+North Dakota                       30
+Ohio                               39
 Oklahoma                           29
-Oregon                             52
-Pennsylvania                       48
-Rhode Island                       54
-South Carolina                     21
-South Dakota                       19
-Tennessee                          38
+Oregon                             51
+Pennsylvania                       50
+Rhode Island                       49
+South Carolina                     24
+South Dakota                       26
+Tennessee                          39
 Texas                              39
-Utah                               39
-Vermont                            77
+Utah                               38
+Vermont                            72
 Virginia                           31
-Washington                         59
+Washington                         61
 West Virginia                      20
-Wisconsin                          41
-Wyoming                            48
+Wisconsin                          45
+Wyoming                            44

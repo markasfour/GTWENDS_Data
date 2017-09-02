@@ -1,0 +1,26 @@
+                      Texas Gas Shortage
+geoName                                 
+Alabama                               12
+Arizona                                6
+California                             1
+Colorado                               6
+District of Columbia                  11
+Florida                                6
+Georgia                               14
+Illinois                               8
+Kansas                                13
+Kentucky                              11
+Massachusetts                          4
+Minnesota                              6
+Missouri                               7
+Nevada                                14
+New Mexico                            28
+New York                               4
+North Carolina                        20
+Oklahoma                              13
+South Carolina                        31
+Tennessee                              7
+Texas                                100
+Utah                                  14
+Washington                             5
+Wisconsin                              7

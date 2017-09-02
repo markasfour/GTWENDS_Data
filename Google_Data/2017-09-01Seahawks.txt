@@ -12,7 +12,7 @@ District of Columbia         5
 Florida                      3
 Georgia                      3
 Hawaii                      10
-Idaho                       20
+Idaho                       19
 Illinois                     3
 Indiana                      3
 Iowa                         4
@@ -22,7 +22,7 @@ Louisiana                    4
 Maine                        3
 Maryland                     3
 Massachusetts                3
-Michigan                     2
+Michigan                     3
 Minnesota                    4
 Mississippi                  4
 Missouri                     3
@@ -40,8 +40,8 @@ Oklahoma                     3
 Oregon                      15
 Pennsylvania                 3
 Rhode Island                 3
-South Carolina               4
-South Dakota                 6
+South Carolina               3
+South Dakota                 5
 Tennessee                    3
 Texas                        4
 Utah                         7

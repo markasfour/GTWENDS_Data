@@ -1,0 +1,53 @@
+                      Gas Buddy
+geoName                        
+Alabama                      24
+Alaska                       17
+Arizona                      37
+Arkansas                     26
+California                   34
+Colorado                     29
+Connecticut                  22
+Delaware                     30
+District of Columbia         30
+Florida                      26
+Georgia                      32
+Hawaii                       13
+Idaho                        37
+Illinois                     68
+Indiana                     100
+Iowa                         24
+Kansas                       23
+Kentucky                     56
+Louisiana                    17
+Maine                        29
+Maryland                     27
+Massachusetts                19
+Michigan                     93
+Minnesota                    33
+Mississippi                  26
+Missouri                     46
+Montana                      26
+Nebraska                     23
+Nevada                       35
+New Hampshire                31
+New Jersey                   19
+New Mexico                   50
+New York                     21
+North Carolina               36
+North Dakota                 36
+Ohio                         95
+Oklahoma                     26
+Oregon                       22
+Pennsylvania                 27
+Rhode Island                 14
+South Carolina               29
+South Dakota                 24
+Tennessee                    28
+Texas                        28
+Utah                         35
+Vermont                      18
+Virginia                     23
+Washington                   29
+West Virginia                39
+Wisconsin                    35
+Wyoming                      39
