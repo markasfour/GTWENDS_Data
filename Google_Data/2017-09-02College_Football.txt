@@ -1,0 +1,53 @@
+                      College Football
+geoName                               
+Alabama                            100
+Alaska                              17
+Arizona                             23
+Arkansas                            41
+California                          16
+Colorado                            24
+Connecticut                         17
+Delaware                            19
+District of Columbia                26
+Florida                             35
+Georgia                             53
+Hawaii                              29
+Idaho                               38
+Illinois                            21
+Indiana                             24
+Iowa                                41
+Kansas                              27
+Kentucky                            35
+Louisiana                           42
+Maine                               14
+Maryland                            17
+Massachusetts                       19
+Michigan                            36
+Minnesota                           20
+Mississippi                         67
+Missouri                            23
+Montana                             27
+Nebraska                            67
+Nevada                              26
+New Hampshire                       14
+New Jersey                          17
+New Mexico                          18
+New York                            15
+North Carolina                      31
+North Dakota                        23
+Ohio                                41
+Oklahoma                            49
+Oregon                              24
+Pennsylvania                        24
+Rhode Island                        14
+South Carolina                      64
+South Dakota                        26
+Tennessee                           48
+Texas                               31
+Utah                                30
+Vermont                             14
+Virginia                            21
+Washington                          23
+West Virginia                       42
+Wisconsin                           23
+Wyoming                             29

@@ -1,52 +1,52 @@
                       Richard Anderson
 geoName                               
 Alabama                             43
-Arizona                             41
-Arkansas                            46
+Arizona                             42
+Arkansas                            47
 California                          36
-Colorado                            41
+Colorado                            39
 Connecticut                         46
-Delaware                            46
+Delaware                            44
 District of Columbia                41
 Florida                             38
 Georgia                             49
-Hawaii                              30
-Idaho                               59
-Illinois                            43
-Indiana                             54
+Hawaii                              32
+Idaho                               60
+Illinois                            42
+Indiana                             53
 Iowa                                50
-Kansas                              39
-Kentucky                            44
-Louisiana                           40
-Maine                               54
-Maryland                            39
+Kansas                              38
+Kentucky                            42
+Louisiana                           41
+Maine                               61
+Maryland                            40
 Massachusetts                       42
 Michigan                            43
 Minnesota                           74
-Mississippi                         38
-Missouri                            46
-Montana                             59
+Mississippi                         35
+Missouri                            48
+Montana                             56
 Nebraska                            51
-Nevada                              42
-New Hampshire                       51
-New Jersey                          39
-New Mexico                          44
-New York                            39
+Nevada                              41
+New Hampshire                       52
+New Jersey                          37
+New Mexico                          45
+New York                            40
 North Carolina                      42
-North Dakota                        63
+North Dakota                        66
 Ohio                                46
-Oklahoma                            48
+Oklahoma                            46
 Oregon                              41
 Pennsylvania                        44
-Rhode Island                        46
+Rhode Island                        45
 South Carolina                     100
-South Dakota                        59
+South Dakota                        60
 Tennessee                           55
 Texas                               35
-Utah                                70
-Vermont                             48
-Virginia                            37
+Utah                                71
+Vermont                             49
+Virginia                            38
 Washington                          51
-West Virginia                       46
-Wisconsin                           53
-Wyoming                             46
+West Virginia                       42
+Wisconsin                           54
+Wyoming                             42

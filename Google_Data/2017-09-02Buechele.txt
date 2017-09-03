@@ -1,0 +1,52 @@
+                      Buechele
+geoName                       
+Alabama                     11
+Arizona                      7
+Arkansas                    25
+California                   7
+Colorado                    13
+Connecticut                  9
+Delaware                     6
+District of Columbia        10
+Florida                      9
+Georgia                     11
+Hawaii                       6
+Idaho                        4
+Illinois                    13
+Indiana                     10
+Iowa                        15
+Kansas                      10
+Kentucky                    10
+Louisiana                   15
+Maine                        3
+Maryland                     8
+Massachusetts                7
+Michigan                     9
+Minnesota                    9
+Mississippi                 13
+Missouri                    12
+Montana                      9
+Nebraska                    13
+Nevada                       6
+New Hampshire                4
+New Jersey                   8
+New Mexico                  13
+New York                     7
+North Carolina               7
+North Dakota                11
+Ohio                         8
+Oklahoma                    43
+Oregon                       3
+Pennsylvania                17
+Rhode Island                 7
+South Carolina              12
+South Dakota                14
+Tennessee                   13
+Texas                      100
+Utah                         4
+Vermont                      5
+Virginia                     6
+Washington                   5
+West Virginia               11
+Wisconsin                    6
+Wyoming                      9

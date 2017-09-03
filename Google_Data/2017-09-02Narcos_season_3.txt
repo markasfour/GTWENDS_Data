@@ -1,52 +1,52 @@
                       Narcos season 3
 geoName                              
-Alabama                            49
-Alaska                             55
-Arizona                            83
-Arkansas                           56
+Alabama                            45
+Alaska                             41
+Arizona                            77
+Arkansas                           52
 California                        100
-Colorado                           65
-Connecticut                        78
-Delaware                           88
+Colorado                           67
+Connecticut                        80
+Delaware                           97
 District of Columbia               68
-Florida                            81
-Georgia                            61
-Hawaii                             71
-Idaho                              49
-Illinois                           72
-Indiana                            59
-Iowa                               48
-Kansas                             42
-Kentucky                           45
-Louisiana                          56
-Maine                              50
-Maryland                           73
+Florida                            79
+Georgia                            62
+Hawaii                             72
+Idaho                              48
+Illinois                           73
+Indiana                            58
+Iowa                               42
+Kansas                             41
+Kentucky                           41
+Louisiana                          60
+Maine                              43
+Maryland                           78
 Massachusetts                      67
-Michigan                           55
-Minnesota                          48
-Mississippi                        39
-Missouri                           47
-Montana                            53
-Nebraska                           63
-Nevada                             79
+Michigan                           59
+Minnesota                          45
+Mississippi                        38
+Missouri                           45
+Montana                            47
+Nebraska                           64
+Nevada                             85
 New Hampshire                      61
-New Jersey                         88
-New Mexico                         89
-New York                           83
-North Carolina                     57
-North Dakota                       48
-Ohio                               53
-Oklahoma                           45
-Oregon                             46
-Pennsylvania                       60
-Rhode Island                       56
-South Carolina                     57
-South Dakota                       33
-Tennessee                          51
-Texas                              86
-Utah                               56
-Vermont                            51
-Virginia                           62
-Washington                         65
-West Virginia                      33
-Wisconsin                          43
+New Jersey                         87
+New Mexico                         92
+New York                           79
+North Carolina                     56
+North Dakota                       53
+Ohio                               52
+Oklahoma                           43
+Oregon                             47
+Pennsylvania                       59
+Rhode Island                       73
+South Carolina                     58
+South Dakota                       25
+Tennessee                          54
+Texas                              84
+Utah                               53
+Vermont                            38
+Virginia                           60
+Washington                         63
+West Virginia                      38
+Wisconsin                          48

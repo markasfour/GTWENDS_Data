@@ -1,0 +1,51 @@
+                      Lee Corso
+geoName                        
+Alabama                     100
+Arizona                      23
+Arkansas                     35
+California                   13
+Colorado                     23
+Connecticut                  21
+Delaware                     29
+District of Columbia         35
+Florida                      47
+Georgia                      55
+Hawaii                       12
+Idaho                        24
+Illinois                     27
+Indiana                      42
+Iowa                         38
+Kansas                       26
+Kentucky                     50
+Louisiana                    56
+Maine                         9
+Maryland                     20
+Massachusetts                16
+Michigan                     47
+Minnesota                    20
+Mississippi                  69
+Missouri                     29
+Montana                      14
+Nebraska                     72
+Nevada                       21
+New Hampshire                15
+New Jersey                   19
+New Mexico                   12
+New York                     16
+North Carolina               36
+North Dakota                 29
+Ohio                         58
+Oklahoma                     53
+Oregon                       23
+Pennsylvania                 30
+Rhode Island                  6
+South Carolina               71
+South Dakota                 31
+Tennessee                    50
+Texas                        31
+Utah                         22
+Virginia                     27
+Washington                   18
+West Virginia                52
+Wisconsin                    24
+Wyoming                      23

@@ -1,0 +1,53 @@
+                      GameDay
+geoName                      
+Alabama                    99
+Alaska                     10
+Arizona                    18
+Arkansas                   35
+California                 12
+Colorado                   21
+Connecticut                16
+Delaware                   17
+District of Columbia       28
+Florida                    27
+Georgia                    48
+Hawaii                     10
+Idaho                      21
+Illinois                   26
+Indiana                    30
+Iowa                       29
+Kansas                     29
+Kentucky                   36
+Louisiana                  41
+Maine                      12
+Maryland                   18
+Massachusetts              14
+Michigan                   35
+Minnesota                  21
+Mississippi                83
+Missouri                   28
+Montana                    17
+Nebraska                   47
+Nevada                     13
+New Hampshire              12
+New Jersey                 15
+New Mexico                 18
+New York                   13
+North Carolina             29
+North Dakota               62
+Ohio                       36
+Oklahoma                   50
+Oregon                     20
+Pennsylvania               22
+Rhode Island               14
+South Carolina            100
+South Dakota               22
+Tennessee                  56
+Texas                      27
+Utah                       21
+Vermont                    12
+Virginia                   26
+Washington                 25
+West Virginia              52
+Wisconsin                  31
+Wyoming                    17

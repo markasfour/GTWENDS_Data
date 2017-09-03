@@ -1,0 +1,53 @@
+                      Mizzou
+geoName                     
+Alabama                    1
+Alaska                     0
+Arizona                    1
+Arkansas                   3
+California                 1
+Colorado                   1
+Connecticut                0
+Delaware                   0
+District of Columbia       1
+Florida                    1
+Georgia                    1
+Hawaii                     0
+Idaho                      0
+Illinois                   5
+Indiana                    1
+Iowa                       3
+Kansas                     6
+Kentucky                   1
+Louisiana                  1
+Maine                      0
+Maryland                   0
+Massachusetts              0
+Michigan                   1
+Minnesota                  1
+Mississippi                1
+Missouri                 100
+Montana                    0
+Nebraska                   2
+Nevada                     0
+New Hampshire              0
+New Jersey                 0
+New Mexico                 0
+New York                   0
+North Carolina             1
+North Dakota               1
+Ohio                       1
+Oklahoma                   1
+Oregon                     0
+Pennsylvania               0
+Rhode Island               0
+South Carolina             1
+South Dakota               1
+Tennessee                  1
+Texas                      1
+Utah                       0
+Vermont                    0
+Virginia                   1
+Washington                 0
+West Virginia              0
+Wisconsin                  1
+Wyoming                    1

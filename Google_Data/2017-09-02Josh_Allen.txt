@@ -1,0 +1,47 @@
+                      Josh Allen
+geoName                         
+Alabama                        9
+Arizona                        9
+Arkansas                      15
+California                     8
+Colorado                      12
+Connecticut                    8
+Delaware                       9
+District of Columbia          10
+Florida                        8
+Georgia                        9
+Hawaii                         6
+Idaho                         10
+Illinois                      10
+Indiana                        9
+Iowa                          13
+Kansas                        11
+Kentucky                      10
+Louisiana                     10
+Maryland                       8
+Massachusetts                  8
+Michigan                       9
+Minnesota                      9
+Mississippi                    9
+Missouri                      10
+Montana                       10
+Nebraska                      12
+Nevada                         8
+New Jersey                     9
+New York                       9
+North Carolina                11
+North Dakota                  13
+Ohio                          12
+Oklahoma                      10
+Oregon                         6
+Pennsylvania                   9
+South Carolina                10
+South Dakota                  10
+Tennessee                     10
+Texas                          9
+Utah                           8
+Virginia                       9
+Washington                     7
+West Virginia                  9
+Wisconsin                      8
+Wyoming                      100

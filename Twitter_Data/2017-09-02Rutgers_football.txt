@@ -1,6 +1,6 @@
-AL 14
+AL 15
 AK 0
-AZ 7
+AZ 8
 AR 0
 CA 15
 CO 15
@@ -11,7 +11,7 @@ FL 15
 GA 13
 HI 0
 ID 2
-IL 4
+IL 5
 IN 3
 IA 10
 KS 0
@@ -28,12 +28,12 @@ MT 0
 NE 0
 NV 0
 NH 0
-NJ 15
+NJ 11
 NM 0
 NY 0
 NC 15
 ND 0
-OH 10
+OH 11
 OK 2
 OR 0
 PA 10

@@ -1,0 +1,53 @@
+                      Nfl Cuts
+geoName                       
+Alabama                     33
+Alaska                      32
+Arizona                     45
+Arkansas                    45
+California                  28
+Colorado                    60
+Connecticut                 34
+Delaware                    48
+District of Columbia        41
+Florida                     39
+Georgia                     38
+Hawaii                      36
+Idaho                       40
+Illinois                    39
+Indiana                     40
+Iowa                        55
+Kansas                      38
+Kentucky                    32
+Louisiana                   51
+Maine                       30
+Maryland                    51
+Massachusetts               36
+Michigan                    38
+Minnesota                   65
+Mississippi                 41
+Missouri                    39
+Montana                     39
+Nebraska                    46
+Nevada                      44
+New Hampshire               42
+New Jersey                  46
+New Mexico                  30
+New York                    32
+North Carolina              43
+North Dakota                78
+Ohio                        53
+Oklahoma                    36
+Oregon                      22
+Pennsylvania                53
+Rhode Island                45
+South Carolina              46
+South Dakota                62
+Tennessee                   39
+Texas                       38
+Utah                        32
+Vermont                     31
+Virginia                    38
+Washington                  48
+West Virginia               44
+Wisconsin                  100
+Wyoming                     53

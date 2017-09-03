@@ -1,0 +1,53 @@
+                      Juicero
+geoName                      
+Alabama                    14
+Alaska                     11
+Arizona                    28
+Arkansas                   11
+California                100
+Colorado                   26
+Connecticut                27
+Delaware                   15
+District of Columbia       32
+Florida                    17
+Georgia                    13
+Hawaii                     19
+Idaho                      24
+Illinois                   23
+Indiana                    16
+Iowa                       12
+Kansas                     12
+Kentucky                    8
+Louisiana                  12
+Maine                      14
+Maryland                   27
+Massachusetts              39
+Michigan                   15
+Minnesota                  21
+Mississippi                 5
+Missouri                   12
+Montana                    17
+Nebraska                   15
+Nevada                     29
+New Hampshire              24
+New Jersey                 26
+New Mexico                 21
+New York                   44
+North Carolina             17
+North Dakota               12
+Ohio                       14
+Oklahoma                   13
+Oregon                     26
+Pennsylvania               18
+Rhode Island               27
+South Carolina             15
+South Dakota               23
+Tennessee                  14
+Texas                      19
+Utah                       24
+Vermont                    21
+Virginia                   16
+Washington                 44
+West Virginia              19
+Wisconsin                  14
+Wyoming                    14

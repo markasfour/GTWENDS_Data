@@ -1,0 +1,53 @@
+                      Alabama Football
+geoName                               
+Alabama                            100
+Alaska                               2
+Arizona                              2
+Arkansas                             6
+California                           1
+Colorado                             2
+Connecticut                          1
+Delaware                             2
+District of Columbia                 3
+Florida                              5
+Georgia                             16
+Hawaii                               2
+Idaho                                2
+Illinois                             2
+Indiana                              3
+Iowa                                 2
+Kansas                               2
+Kentucky                             7
+Louisiana                           10
+Maine                                1
+Maryland                             2
+Massachusetts                        1
+Michigan                             2
+Minnesota                            1
+Mississippi                         22
+Missouri                             3
+Montana                              2
+Nebraska                             3
+Nevada                               2
+New Hampshire                        1
+New Jersey                           1
+New Mexico                           2
+New York                             1
+North Carolina                       4
+North Dakota                         2
+Ohio                                 3
+Oklahoma                             4
+Oregon                               1
+Pennsylvania                         2
+Rhode Island                         1
+South Carolina                       7
+South Dakota                         2
+Tennessee                           14
+Texas                                3
+Utah                                 2
+Vermont                              1
+Virginia                             2
+Washington                           1
+West Virginia                        3
+Wisconsin                            1
+Wyoming                              2

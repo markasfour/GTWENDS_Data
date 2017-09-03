@@ -1,0 +1,47 @@
+                      Isco
+geoName                   
+Alabama                 40
+Arizona                 43
+Arkansas                38
+California              68
+Colorado                44
+Connecticut             50
+Delaware                58
+District of Columbia    58
+Florida                 58
+Georgia                 42
+Hawaii                  36
+Idaho                   37
+Illinois                59
+Indiana                 47
+Iowa                    41
+Kansas                  43
+Kentucky                73
+Louisiana               35
+Maine                   28
+Maryland                71
+Massachusetts           54
+Michigan                38
+Minnesota               45
+Mississippi             68
+Missouri                36
+Nebraska               100
+Nevada                  48
+New Hampshire           42
+New Jersey              72
+New Mexico              41
+New York                59
+North Carolina          49
+Ohio                    41
+Oklahoma                43
+Oregon                  76
+Pennsylvania            42
+Rhode Island            50
+South Carolina          32
+Tennessee               38
+Texas                   57
+Utah                    45
+Virginia                75
+Washington              38
+West Virginia           35
+Wisconsin               48

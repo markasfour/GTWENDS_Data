@@ -1,40 +1,40 @@
                       Usa Vs Costa Rica 2017
 geoName                                     
-Alabama                                   21
-Arizona                                   41
-Arkansas                                  15
-California                                54
-Colorado                                  32
-Connecticut                               38
-District of Columbia                      23
+Alabama                                    9
+Arizona                                   44
+Arkansas                                  24
+California                                52
+Colorado                                  37
+Connecticut                               51
+District of Columbia                      28
 Florida                                   38
-Georgia                                   23
-Illinois                                  23
-Indiana                                   26
-Kansas                                    28
-Kentucky                                  16
-Louisiana                                 28
-Maryland                                  54
-Massachusetts                             21
-Michigan                                   4
-Minnesota                                 14
-Mississippi                               23
-Missouri                                  19
-Nebraska                                  15
-Nevada                                    48
+Georgia                                   26
+Idaho                                     45
+Illinois                                  25
+Indiana                                   12
+Kansas                                    34
+Louisiana                                 29
+Maryland                                  46
+Massachusetts                             14
+Michigan                                   7
+Minnesota                                 12
+Mississippi                               16
+Missouri                                  15
+Nebraska                                  32
+Nevada                                    40
 New Jersey                               100
-New Mexico                                40
-New York                                  35
-North Carolina                            28
-Ohio                                      13
-Oklahoma                                  35
-Oregon                                    17
+New Mexico                                61
+New York                                  32
+North Carolina                            29
+Ohio                                      10
+Oklahoma                                  23
+Oregon                                    15
 Pennsylvania                              24
 Rhode Island                              26
-South Carolina                            25
-Tennessee                                 14
-Texas                                     70
-Utah                                      30
-Virginia                                  15
-Washington                                15
-Wisconsin                                  8
+South Carolina                            26
+Tennessee                                 22
+Texas                                     68
+Utah                                      31
+Virginia                                  14
+Washington                                23
+Wisconsin                                  5
