@@ -1,0 +1,53 @@
+                      Jimbo
+geoName                    
+Alabama                 100
+Alaska                   16
+Arizona                  15
+Arkansas                 35
+California               19
+Colorado                 18
+Connecticut              18
+Delaware                 15
+District of Columbia     22
+Florida                  88
+Georgia                  52
+Hawaii                   55
+Idaho                    12
+Illinois                 20
+Indiana                  19
+Iowa                     17
+Kansas                   15
+Kentucky                 33
+Louisiana                68
+Maine                    12
+Maryland                 18
+Massachusetts            16
+Michigan                 19
+Minnesota                15
+Mississippi              61
+Missouri                 19
+Montana                  19
+Nebraska                 23
+Nevada                   16
+New Hampshire            15
+New Jersey               17
+New Mexico               13
+New York                 22
+North Carolina           32
+North Dakota             12
+Ohio                     20
+Oklahoma                 55
+Oregon                   15
+Pennsylvania             22
+Rhode Island             15
+South Carolina           49
+South Dakota             16
+Tennessee                47
+Texas                    25
+Utah                     13
+Vermont                  16
+Virginia                 22
+Washington               15
+West Virginia            63
+Wisconsin                17
+Wyoming                  10

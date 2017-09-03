@@ -1,39 +1,41 @@
                       Burbank Fire
 geoName                           
-Alabama                          1
-Arizona                          7
+Alabama                          2
+Arizona                          5
+Arkansas                         2
 California                     100
-Colorado                         4
-Connecticut                      2
-District of Columbia             5
-Florida                          2
-Georgia                          3
-Hawaii                          13
-Idaho                            7
-Illinois                        18
+Colorado                         7
+Connecticut                      4
+District of Columbia             4
+Florida                          1
+Georgia                          1
+Hawaii                          16
+Idaho                            8
+Illinois                        17
 Indiana                          3
-Kansas                           1
-Kentucky                         3
-Louisiana                        8
-Maryland                         2
-Massachusetts                    2
+Kansas                           3
+Kentucky                         2
+Louisiana                        6
+Maine                            2
+Maryland                         1
+Massachusetts                    4
 Michigan                         2
 Minnesota                        2
 Missouri                         2
 Montana                          4
-Nevada                          11
+Nevada                          10
 New Jersey                       1
-New Mexico                       4
+New Mexico                       3
 New York                         3
 North Carolina                   2
-Ohio                             4
-Oklahoma                         3
-Oregon                           8
+Ohio                             3
+Oklahoma                         2
+Oregon                           4
 Pennsylvania                     2
-South Carolina                   1
-Tennessee                        2
-Texas                            2
-Utah                             3
-Virginia                         2
+South Carolina                   3
+Tennessee                        1
+Texas                            1
+Utah                             7
+Virginia                         1
 Washington                      10
 Wisconsin                        2

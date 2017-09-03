@@ -1,0 +1,53 @@
+                      Purdue
+geoName                     
+Alabama                    3
+Alaska                     2
+Arizona                    3
+Arkansas                   3
+California                 2
+Colorado                   3
+Connecticut                3
+Delaware                   3
+District of Columbia       2
+Florida                    2
+Georgia                    2
+Hawaii                     2
+Idaho                      4
+Illinois                   8
+Indiana                  100
+Iowa                       5
+Kansas                     3
+Kentucky                   5
+Louisiana                  2
+Maine                      2
+Maryland                   3
+Massachusetts              2
+Michigan                   4
+Minnesota                  3
+Mississippi                2
+Missouri                   3
+Montana                    3
+Nebraska                   5
+Nevada                     2
+New Hampshire              3
+New Jersey                 2
+New Mexico                 3
+New York                   2
+North Carolina             2
+North Dakota               3
+Ohio                       5
+Oklahoma                   3
+Oregon                     2
+Pennsylvania               3
+Rhode Island               2
+South Carolina             3
+South Dakota               4
+Tennessee                  3
+Texas                      2
+Utah                       3
+Vermont                    3
+Virginia                   2
+Washington                 2
+West Virginia              3
+Wisconsin                  4
+Wyoming                    3

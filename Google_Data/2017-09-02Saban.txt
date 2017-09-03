@@ -1,0 +1,53 @@
+                      Saban
+geoName                    
+Alabama                 100
+Alaska                    3
+Arizona                   5
+Arkansas                 13
+California                6
+Colorado                  5
+Connecticut               4
+Delaware                  5
+District of Columbia      7
+Florida                   8
+Georgia                  20
+Hawaii                    5
+Idaho                     4
+Illinois                  5
+Indiana                   6
+Iowa                      6
+Kansas                    6
+Kentucky                 11
+Louisiana                23
+Maine                     3
+Maryland                  5
+Massachusetts             4
+Michigan                  7
+Minnesota                 4
+Mississippi              29
+Missouri                  6
+Montana                   4
+Nebraska                  9
+Nevada                    5
+New Hampshire             3
+New Jersey                4
+New Mexico                4
+New York                  5
+North Carolina            7
+North Dakota              5
+Ohio                      8
+Oklahoma                 10
+Oregon                    4
+Pennsylvania              5
+Rhode Island              3
+South Carolina           11
+South Dakota              5
+Tennessee                19
+Texas                     9
+Utah                      4
+Vermont                   3
+Virginia                  6
+Washington                4
+West Virginia            10
+Wisconsin                 4
+Wyoming                   4

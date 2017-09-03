@@ -11,7 +11,7 @@ Delaware                               18
 District of Columbia                   20
 Florida                                12
 Georgia                                14
-Hawaii                                 14
+Hawaii                                 13
 Idaho                                  11
 Illinois                               34
 Indiana                               100
@@ -19,14 +19,14 @@ Iowa                                   20
 Kansas                                 10
 Kentucky                               18
 Louisiana                              11
-Maine                                  11
+Maine                                  12
 Maryland                               11
 Massachusetts                          15
 Michigan                               34
 Minnesota                              13
 Mississippi                            11
 Missouri                               13
-Montana                                17
+Montana                                16
 Nebraska                               20
 Nevada                                 10
 New Hampshire                          11
@@ -36,13 +36,13 @@ New York                               13
 North Carolina                         12
 North Dakota                           11
 Ohio                                   31
-Oklahoma                               13
+Oklahoma                               12
 Oregon                                  6
 Pennsylvania                           25
-Rhode Island                           13
+Rhode Island                           12
 South Carolina                         16
-South Dakota                           22
-Tennessee                              16
+South Dakota                           21
+Tennessee                              15
 Texas                                  10
 Utah                                    9
 Vermont                                13

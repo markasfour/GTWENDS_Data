@@ -1,0 +1,53 @@
+                      Speight
+geoName                      
+Alabama                    23
+Alaska                     15
+Arizona                    17
+Arkansas                   36
+California                 15
+Colorado                   17
+Connecticut                20
+Delaware                   19
+District of Columbia       35
+Florida                    18
+Georgia                    29
+Hawaii                     10
+Idaho                      13
+Illinois                   19
+Indiana                    26
+Iowa                       18
+Kansas                     17
+Kentucky                   22
+Louisiana                  23
+Maine                      18
+Maryland                   34
+Massachusetts              18
+Michigan                  100
+Minnesota                  16
+Mississippi                23
+Missouri                   17
+Montana                    13
+Nebraska                   17
+Nevada                     16
+New Hampshire              17
+New Jersey                 20
+New Mexico                 12
+New York                   17
+North Carolina             86
+North Dakota               12
+Ohio                       42
+Oklahoma                   24
+Oregon                     14
+Pennsylvania               20
+Rhode Island               17
+South Carolina             30
+South Dakota               18
+Tennessee                  44
+Texas                      31
+Utah                       17
+Vermont                    17
+Virginia                   42
+Washington                 18
+West Virginia              19
+Wisconsin                  17
+Wyoming                    23
