@@ -1,0 +1,53 @@
+                      USC Football
+geoName                           
+Alabama                         22
+Alaska                          15
+Arizona                         30
+Arkansas                        10
+California                     100
+Colorado                        17
+Connecticut                      9
+Delaware                         7
+District of Columbia            15
+Florida                          9
+Georgia                         18
+Hawaii                          74
+Idaho                           28
+Illinois                        10
+Indiana                         10
+Iowa                            10
+Kansas                           7
+Kentucky                        10
+Louisiana                       11
+Maine                            5
+Maryland                         7
+Massachusetts                    7
+Michigan                         8
+Minnesota                        8
+Mississippi                     12
+Missouri                         8
+Montana                         17
+Nebraska                        18
+Nevada                          44
+New Hampshire                    5
+New Jersey                       8
+New Mexico                      15
+New York                         8
+North Carolina                  18
+North Dakota                     6
+Ohio                             9
+Oklahoma                        11
+Oregon                          23
+Pennsylvania                     9
+Rhode Island                     6
+South Carolina                  94
+South Dakota                     7
+Tennessee                       15
+Texas                           11
+Utah                            36
+Vermont                          4
+Virginia                         9
+Washington                      26
+West Virginia                    8
+Wisconsin                        6
+Wyoming                         11

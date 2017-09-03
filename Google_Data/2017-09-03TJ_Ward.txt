@@ -1,0 +1,53 @@
+                      TJ Ward
+geoName                      
+Alabama                     6
+Alaska                      8
+Arizona                    10
+Arkansas                    4
+California                 11
+Colorado                   73
+Connecticut                 9
+Delaware                   12
+District of Columbia        9
+Florida                     6
+Georgia                     8
+Hawaii                    100
+Idaho                      11
+Illinois                    9
+Indiana                     7
+Iowa                        8
+Kansas                     14
+Kentucky                    5
+Louisiana                   7
+Maine                       8
+Maryland                    9
+Massachusetts              12
+Michigan                    8
+Minnesota                   7
+Mississippi                 6
+Missouri                   16
+Montana                    13
+Nebraska                   10
+Nevada                     11
+New Hampshire               8
+New Jersey                 10
+New Mexico                 13
+New York                    7
+North Carolina              8
+North Dakota               12
+Ohio                       28
+Oklahoma                    6
+Oregon                     16
+Pennsylvania               10
+Rhode Island               12
+South Carolina              7
+South Dakota               14
+Tennessee                   6
+Texas                       7
+Utah                       13
+Vermont                     3
+Virginia                    7
+Washington                 10
+West Virginia               8
+Wisconsin                   9
+Wyoming                    34

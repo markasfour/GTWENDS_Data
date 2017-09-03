@@ -1,0 +1,53 @@
+                      Florida State
+geoName                            
+Alabama                          28
+Alaska                            5
+Arizona                           4
+Arkansas                         10
+California                        4
+Colorado                          6
+Connecticut                       8
+Delaware                          8
+District of Columbia             10
+Florida                         100
+Georgia                          22
+Hawaii                            5
+Idaho                             5
+Illinois                          7
+Indiana                           9
+Iowa                              8
+Kansas                            7
+Kentucky                         12
+Louisiana                        12
+Maine                             7
+Maryland                          8
+Massachusetts                     6
+Michigan                          8
+Minnesota                         6
+Mississippi                      19
+Missouri                          8
+Montana                           5
+Nebraska                          8
+Nevada                            5
+New Hampshire                     6
+New Jersey                        7
+New Mexico                        5
+New York                          7
+North Carolina                   13
+North Dakota                      6
+Ohio                             10
+Oklahoma                         15
+Oregon                            4
+Pennsylvania                      8
+Rhode Island                      7
+South Carolina                   19
+South Dakota                      6
+Tennessee                        14
+Texas                             7
+Utah                              5
+Vermont                           7
+Virginia                          8
+Washington                        5
+West Virginia                    10
+Wisconsin                         6
+Wyoming                           6

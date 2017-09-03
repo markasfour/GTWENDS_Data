@@ -1,0 +1,53 @@
+                      NCAA Football
+geoName                            
+Alabama                         100
+Alaska                           27
+Arizona                          35
+Arkansas                         59
+California                       22
+Colorado                         35
+Connecticut                      19
+Delaware                         24
+District of Columbia             36
+Florida                          44
+Georgia                          64
+Hawaii                           50
+Idaho                            51
+Illinois                         29
+Indiana                          34
+Iowa                             55
+Kansas                           38
+Kentucky                         50
+Louisiana                        57
+Maine                            18
+Maryland                         23
+Massachusetts                    19
+Michigan                         54
+Minnesota                        29
+Mississippi                      82
+Missouri                         35
+Montana                          33
+Nebraska                         85
+Nevada                           41
+New Hampshire                    15
+New Jersey                       20
+New Mexico                       31
+New York                         18
+North Carolina                   43
+North Dakota                     39
+Ohio                             59
+Oklahoma                         70
+Oregon                           35
+Pennsylvania                     32
+Rhode Island                     15
+South Carolina                   73
+South Dakota                     38
+Tennessee                        65
+Texas                            46
+Utah                             45
+Vermont                          17
+Virginia                         30
+Washington                       34
+West Virginia                    67
+Wisconsin                        37
+Wyoming                          47

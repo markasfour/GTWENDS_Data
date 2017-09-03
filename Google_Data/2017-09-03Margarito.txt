@@ -1,0 +1,53 @@
+                      Margarito
+geoName                        
+Alabama                      14
+Alaska                       21
+Arizona                      68
+Arkansas                     21
+California                   82
+Colorado                     40
+Connecticut                  25
+Delaware                     19
+District of Columbia         32
+Florida                      37
+Georgia                      31
+Hawaii                       34
+Idaho                        24
+Illinois                     54
+Indiana                      21
+Iowa                         14
+Kansas                       28
+Kentucky                     15
+Louisiana                    22
+Maine                         6
+Maryland                     22
+Massachusetts                20
+Michigan                     17
+Minnesota                    17
+Mississippi                  16
+Missouri                     17
+Montana                      12
+Nebraska                     31
+Nevada                       81
+New Hampshire                 4
+New Jersey                   36
+New Mexico                   72
+New York                     34
+North Carolina               22
+North Dakota                 15
+Ohio                         12
+Oklahoma                     33
+Oregon                       33
+Pennsylvania                 18
+Rhode Island                 15
+South Carolina               18
+South Dakota                 18
+Tennessee                    15
+Texas                       100
+Utah                         23
+Vermont                       7
+Virginia                     23
+Washington                   31
+West Virginia                 6
+Wisconsin                    19
+Wyoming                      21

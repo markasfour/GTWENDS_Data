@@ -1,0 +1,53 @@
+                      College Football Scores
+geoName                                      
+Alabama                                   100
+Alaska                                     25
+Arizona                                    30
+Arkansas                                   54
+California                                 20
+Colorado                                   31
+Connecticut                                15
+Delaware                                   21
+District of Columbia                       37
+Florida                                    46
+Georgia                                    72
+Hawaii                                     62
+Idaho                                      46
+Illinois                                   25
+Indiana                                    27
+Iowa                                       44
+Kansas                                     29
+Kentucky                                   43
+Louisiana                                  53
+Maine                                      15
+Maryland                                   16
+Massachusetts                              17
+Michigan                                   39
+Minnesota                                  24
+Mississippi                                90
+Missouri                                   28
+Montana                                    33
+Nebraska                                   81
+Nevada                                     52
+New Hampshire                              14
+New Jersey                                 18
+New Mexico                                 26
+New York                                   17
+North Carolina                             41
+North Dakota                               22
+Ohio                                       46
+Oklahoma                                   62
+Oregon                                     27
+Pennsylvania                               28
+Rhode Island                               13
+South Carolina                             78
+South Dakota                               32
+Tennessee                                  63
+Texas                                      43
+Utah                                       33
+Vermont                                    13
+Virginia                                   25
+Washington                                 30
+West Virginia                              60
+Wisconsin                                  27
+Wyoming                                    44

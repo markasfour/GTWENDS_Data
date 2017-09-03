@@ -1,0 +1,53 @@
+                      Nagasaki
+geoName                       
+Alabama                     40
+Alaska                      43
+Arizona                     48
+Arkansas                    45
+California                  43
+Colorado                    43
+Connecticut                 49
+Delaware                    33
+District of Columbia        33
+Florida                     35
+Georgia                     36
+Hawaii                     100
+Idaho                       42
+Illinois                    39
+Indiana                     57
+Iowa                        52
+Kansas                      44
+Kentucky                    50
+Louisiana                   32
+Maine                       55
+Maryland                    37
+Massachusetts               41
+Michigan                    39
+Minnesota                   46
+Mississippi                 35
+Missouri                    42
+Montana                     44
+Nebraska                    44
+Nevada                      38
+New Hampshire               50
+New Jersey                  44
+New Mexico                  52
+New York                    38
+North Carolina              41
+North Dakota                47
+Ohio                        43
+Oklahoma                    34
+Oregon                      36
+Pennsylvania                42
+Rhode Island                41
+South Carolina              47
+South Dakota                47
+Tennessee                   45
+Texas                       37
+Utah                        38
+Vermont                     60
+Virginia                    43
+Washington                  44
+West Virginia               35
+Wisconsin                   46
+Wyoming                     54
