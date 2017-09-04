@@ -1,46 +1,48 @@
                       Phillip Dorsett
 geoName                              
-Alabama                            24
-Arizona                            22
-Arkansas                           26
-California                         17
-Colorado                           21
-Connecticut                        23
-Delaware                           30
-District of Columbia               35
-Florida                            53
-Georgia                            27
-Hawaii                             25
-Idaho                              20
-Illinois                           27
+Alabama                            23
+Arizona                            20
+Arkansas                           24
+California                         19
+Colorado                           25
+Connecticut                        22
+Delaware                           37
+District of Columbia               34
+Florida                            59
+Georgia                            30
+Hawaii                             31
+Idaho                              17
+Illinois                           31
 Indiana                           100
-Iowa                               24
-Kansas                             23
-Kentucky                           25
-Louisiana                          26
-Maryland                           28
-Massachusetts                      21
-Michigan                           18
-Minnesota                          24
-Mississippi                        26
+Iowa                               25
+Kansas                             19
+Kentucky                           33
+Louisiana                          29
+Maine                              25
+Maryland                           34
+Massachusetts                      26
+Michigan                           21
+Minnesota                          28
+Mississippi                        22
 Missouri                           22
-Nebraska                           38
-Nevada                             18
-New Hampshire                      26
-New Jersey                         30
-New Mexico                         21
-New York                           24
+Nebraska                           39
+Nevada                             22
+New Hampshire                      18
+New Jersey                         34
+New Mexico                         25
+New York                           26
 North Carolina                     30
-Ohio                               27
-Oklahoma                           34
-Oregon                             13
-Pennsylvania                       32
-Rhode Island                       24
-South Carolina                     32
+Ohio                               31
+Oklahoma                           46
+Oregon                             12
+Pennsylvania                       37
+Rhode Island                       25
+South Carolina                     36
 Tennessee                          29
-Texas                              26
-Utah                               14
-Virginia                           24
-Washington                         20
-West Virginia                      27
-Wisconsin                          29
+Texas                              29
+Utah                               18
+Vermont                            18
+Virginia                           28
+Washington                         22
+West Virginia                      34
+Wisconsin                          24

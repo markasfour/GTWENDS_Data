@@ -1,0 +1,53 @@
+                      tillman
+geoName                      
+Alabama                    64
+Alaska                     28
+Arizona                    98
+Arkansas                   38
+California                 31
+Colorado                   33
+Connecticut                32
+Delaware                   37
+District of Columbia       51
+Florida                    44
+Georgia                    60
+Hawaii                     26
+Idaho                      26
+Illinois                   67
+Indiana                    49
+Iowa                       34
+Kansas                     34
+Kentucky                   34
+Louisiana                  57
+Maine                      25
+Maryland                   51
+Massachusetts              31
+Michigan                   38
+Minnesota                  31
+Mississippi                95
+Missouri                   46
+Montana                    53
+Nebraska                   32
+Nevada                     42
+New Hampshire              26
+New Jersey                 34
+New Mexico                 29
+New York                   31
+North Carolina             50
+North Dakota               33
+Ohio                       32
+Oklahoma                   63
+Oregon                     25
+Pennsylvania               39
+Rhode Island               32
+South Carolina            100
+South Dakota               29
+Tennessee                  52
+Texas                      41
+Utah                       28
+Vermont                    25
+Virginia                   32
+Washington                 32
+West Virginia              28
+Wisconsin                  44
+Wyoming                    36

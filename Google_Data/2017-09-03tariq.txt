@@ -1,0 +1,52 @@
+                      tariq
+geoName                    
+Alabama                  39
+Alaska                   15
+Arizona                  33
+Arkansas                 27
+California               46
+Colorado                 21
+Connecticut              57
+Delaware                 69
+District of Columbia     77
+Florida                  38
+Georgia                  63
+Hawaii                   17
+Idaho                     9
+Illinois                 56
+Indiana                  33
+Iowa                     19
+Kansas                   44
+Kentucky                 35
+Louisiana                41
+Maine                    16
+Maryland                 83
+Massachusetts            40
+Michigan                 51
+Minnesota                26
+Mississippi              41
+Missouri                 43
+Montana                   8
+Nebraska                 30
+Nevada                   40
+New Hampshire            23
+New Jersey               66
+New Mexico               19
+New York                 72
+North Carolina           42
+North Dakota             24
+Ohio                     38
+Oklahoma                 26
+Oregon                   32
+Pennsylvania             44
+Rhode Island             29
+South Carolina           37
+South Dakota             13
+Tennessee                39
+Texas                    46
+Utah                     16
+Vermont                  16
+Virginia                100
+Washington               27
+West Virginia            23
+Wisconsin                25

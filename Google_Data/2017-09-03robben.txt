@@ -1,0 +1,53 @@
+                      robben
+geoName                     
+Alabama                   37
+Alaska                    38
+Arizona                   66
+Arkansas                  42
+California               100
+Colorado                  65
+Connecticut               89
+Delaware                  66
+District of Columbia      82
+Florida                   71
+Georgia                   58
+Hawaii                    46
+Idaho                     40
+Illinois                  68
+Indiana                   51
+Iowa                      44
+Kansas                    92
+Kentucky                  48
+Louisiana                 43
+Maine                     58
+Maryland                  77
+Massachusetts             81
+Michigan                  51
+Minnesota                 62
+Mississippi               37
+Missouri                  62
+Montana                   44
+Nebraska                  54
+Nevada                    71
+New Hampshire             49
+New Jersey                95
+New Mexico                64
+New York                  87
+North Carolina            54
+North Dakota              33
+Ohio                      58
+Oklahoma                  49
+Oregon                    88
+Pennsylvania              59
+Rhode Island              65
+South Carolina            47
+South Dakota              29
+Tennessee                 49
+Texas                     73
+Utah                      53
+Vermont                   74
+Virginia                  98
+Washington                69
+West Virginia             26
+Wisconsin                 47
+Wyoming                   39

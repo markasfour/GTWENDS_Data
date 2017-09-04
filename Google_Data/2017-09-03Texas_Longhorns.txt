@@ -1,10 +1,10 @@
                       Texas Longhorns
 geoName                              
-Alabama                            13
+Alabama                            14
 Alaska                              7
-Arizona                             7
+Arizona                             8
 Arkansas                           27
-California                          5
+California                          6
 Colorado                           13
 Connecticut                         5
 Delaware                            4
@@ -12,31 +12,31 @@ District of Columbia                8
 Florida                             6
 Georgia                            11
 Hawaii                              7
-Idaho                               9
+Idaho                               8
 Illinois                            7
-Indiana                             6
+Indiana                             7
 Iowa                               15
-Kansas                             20
-Kentucky                           11
+Kansas                             21
+Kentucky                           12
 Louisiana                          19
-Maine                               5
+Maine                               4
 Maryland                            5
 Massachusetts                       4
 Michigan                            5
 Minnesota                           6
 Mississippi                        16
-Missouri                           13
-Montana                            10
-Nebraska                           25
+Missouri                           12
+Montana                            11
+Nebraska                           26
 Nevada                              8
 New Hampshire                       4
 New Jersey                          4
-New Mexico                         21
+New Mexico                         20
 New York                            5
 North Carolina                      7
 North Dakota                       10
-Ohio                                6
-Oklahoma                           51
+Ohio                                7
+Oklahoma                           53
 Oregon                              5
 Pennsylvania                        5
 Rhode Island                        3
@@ -48,6 +48,6 @@ Utah                                9
 Vermont                             4
 Virginia                            6
 Washington                          6
-West Virginia                      12
+West Virginia                      13
 Wisconsin                           6
 Wyoming                            12
