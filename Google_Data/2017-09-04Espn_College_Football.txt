@@ -1,0 +1,53 @@
+                      Espn College Football
+geoName                                    
+Alabama                                 100
+Alaska                                    9
+Arizona                                  10
+Arkansas                                 24
+California                                7
+Colorado                                 11
+Connecticut                               7
+Delaware                                  7
+District of Columbia                     11
+Florida                                  21
+Georgia                                  36
+Hawaii                                   16
+Idaho                                    29
+Illinois                                  9
+Indiana                                  10
+Iowa                                     19
+Kansas                                   13
+Kentucky                                 21
+Louisiana                                24
+Maine                                     4
+Maryland                                  6
+Massachusetts                             6
+Michigan                                 14
+Minnesota                                 9
+Mississippi                              34
+Missouri                                 11
+Montana                                  13
+Nebraska                                 42
+Nevada                                   11
+New Hampshire                             4
+New Jersey                                6
+New Mexico                                8
+New York                                  6
+North Carolina                           18
+North Dakota                             10
+Ohio                                     19
+Oklahoma                                 33
+Oregon                                   19
+Pennsylvania                              9
+Rhode Island                              5
+South Carolina                           44
+South Dakota                              9
+Tennessee                                29
+Texas                                    16
+Utah                                     15
+Vermont                                   5
+Virginia                                 10
+Washington                               13
+West Virginia                            26
+Wisconsin                                10
+Wyoming                                  13

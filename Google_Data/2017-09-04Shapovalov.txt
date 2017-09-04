@@ -1,0 +1,53 @@
+                      Shapovalov
+geoName                         
+Alabama                       33
+Alaska                        80
+Arizona                       44
+Arkansas                      31
+California                    62
+Colorado                      47
+Connecticut                   83
+Delaware                      60
+District of Columbia          64
+Florida                       67
+Georgia                       39
+Hawaii                        70
+Idaho                         52
+Illinois                      44
+Indiana                       39
+Iowa                          27
+Kansas                        30
+Kentucky                      13
+Louisiana                     28
+Maine                        100
+Maryland                      64
+Massachusetts                 62
+Michigan                      38
+Minnesota                     42
+Mississippi                   42
+Missouri                      28
+Montana                       41
+Nebraska                       8
+Nevada                        48
+New Hampshire                 28
+New Jersey                    71
+New Mexico                    58
+New York                      98
+North Carolina                44
+North Dakota                  17
+Ohio                          43
+Oklahoma                      23
+Oregon                        35
+Pennsylvania                  43
+Rhode Island                  79
+South Carolina                57
+South Dakota                  34
+Tennessee                     38
+Texas                         41
+Utah                          29
+Vermont                       85
+Virginia                      39
+Washington                    70
+West Virginia                 14
+Wisconsin                     33
+Wyoming                       38

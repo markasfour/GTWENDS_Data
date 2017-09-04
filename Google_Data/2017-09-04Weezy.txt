@@ -1,0 +1,53 @@
+                      Weezy
+geoName                    
+Alabama                  74
+Alaska                   29
+Arizona                  32
+Arkansas                 41
+California               30
+Colorado                 28
+Connecticut              38
+Delaware                 40
+District of Columbia     58
+Florida                  45
+Georgia                  57
+Hawaii                   26
+Idaho                    18
+Illinois                 43
+Indiana                  37
+Iowa                     34
+Kansas                   35
+Kentucky                 43
+Louisiana               100
+Maine                    28
+Maryland                 41
+Massachusetts            38
+Michigan                 45
+Minnesota                29
+Mississippi              49
+Missouri                 40
+Montana                  23
+Nebraska                 35
+Nevada                   36
+New Hampshire            25
+New Jersey               41
+New Mexico               27
+New York                 44
+North Carolina           47
+North Dakota             25
+Ohio                     42
+Oklahoma                 38
+Oregon                   22
+Pennsylvania             42
+Rhode Island             42
+South Carolina           55
+South Dakota             32
+Tennessee                41
+Texas                    46
+Utah                     18
+Vermont                  22
+Virginia                 43
+Washington               27
+West Virginia            42
+Wisconsin                33
+Wyoming                  20

@@ -1,0 +1,53 @@
+                      NFL schedule
+geoName                           
+Alabama                         31
+Alaska                          75
+Arizona                         84
+Arkansas                        37
+California                      58
+Colorado                        89
+Connecticut                     63
+Delaware                        80
+District of Columbia            89
+Florida                         55
+Georgia                         55
+Hawaii                          70
+Idaho                           70
+Illinois                        58
+Indiana                         54
+Iowa                            62
+Kansas                          51
+Kentucky                        46
+Louisiana                       54
+Maine                           69
+Maryland                        72
+Massachusetts                   65
+Michigan                        45
+Minnesota                       63
+Mississippi                     59
+Missouri                        49
+Montana                         89
+Nebraska                        51
+Nevada                          86
+New Hampshire                   63
+New Jersey                      65
+New Mexico                     100
+New York                        54
+North Carolina                  67
+North Dakota                    88
+Ohio                            49
+Oklahoma                        45
+Oregon                          40
+Pennsylvania                    64
+Rhode Island                    69
+South Carolina                  58
+South Dakota                    95
+Tennessee                       46
+Texas                           66
+Utah                            55
+Vermont                         64
+Virginia                        63
+Washington                      80
+West Virginia                   48
+Wisconsin                       75
+Wyoming                         92

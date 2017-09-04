@@ -1,0 +1,52 @@
+                      Aggies
+geoName                     
+Alabama                   20
+Alaska                     6
+Arizona                    9
+Arkansas                  15
+California                 7
+Colorado                  13
+Connecticut                4
+Delaware                   4
+District of Columbia       7
+Florida                    5
+Georgia                    9
+Hawaii                     7
+Idaho                     18
+Illinois                   5
+Indiana                    4
+Iowa                       9
+Kansas                     8
+Kentucky                   8
+Louisiana                 23
+Maine                      4
+Maryland                   5
+Massachusetts              3
+Michigan                   5
+Minnesota                  4
+Mississippi               14
+Missouri                   7
+Montana                    7
+Nebraska                   8
+Nevada                    13
+New Hampshire              4
+New Jersey                 3
+New Mexico                83
+New York                   4
+North Carolina            26
+North Dakota              38
+Ohio                       4
+Oklahoma                  21
+Oregon                     5
+Pennsylvania               3
+South Carolina             9
+South Dakota               6
+Tennessee                 10
+Texas                    100
+Utah                      71
+Vermont                    2
+Virginia                   5
+Washington                 6
+West Virginia              5
+Wisconsin                 13
+Wyoming                   13
