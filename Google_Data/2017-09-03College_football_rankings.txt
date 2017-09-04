@@ -1,53 +1,53 @@
                       College football rankings
 geoName                                        
 Alabama                                     100
-Alaska                                       17
+Alaska                                       16
 Arizona                                      23
 Arkansas                                     39
-California                                   15
+California                                   14
 Colorado                                     24
 Connecticut                                  11
-Delaware                                     14
-District of Columbia                         25
+Delaware                                     13
+District of Columbia                         24
 Florida                                      38
-Georgia                                      54
-Hawaii                                       20
-Idaho                                        39
+Georgia                                      53
+Hawaii                                       19
+Idaho                                        38
 Illinois                                     18
 Indiana                                      24
-Iowa                                         40
-Kansas                                       22
-Kentucky                                     33
-Louisiana                                    48
-Maine                                        10
+Iowa                                         39
+Kansas                                       21
+Kentucky                                     32
+Louisiana                                    47
+Maine                                         9
 Maryland                                     14
 Massachusetts                                11
-Michigan                                     43
-Minnesota                                    17
-Mississippi                                  71
+Michigan                                     42
+Minnesota                                    16
+Mississippi                                  70
 Missouri                                     21
-Montana                                      16
+Montana                                      17
 Nebraska                                     66
-Nevada                                       17
+Nevada                                       16
 New Hampshire                                 9
 New Jersey                                   12
 New Mexico                                   15
 New York                                     11
-North Carolina                               27
+North Carolina                               26
 North Dakota                                 17
 Ohio                                         49
-Oklahoma                                     66
-Oregon                                       30
+Oklahoma                                     63
+Oregon                                       29
 Pennsylvania                                 21
 Rhode Island                                  9
-South Carolina                               71
-South Dakota                                 20
+South Carolina                               68
+South Dakota                                 21
 Tennessee                                    47
-Texas                                        35
-Utah                                         41
+Texas                                        34
+Utah                                         40
 Vermont                                       9
-Virginia                                     18
-Washington                                   25
+Virginia                                     17
+Washington                                   24
 West Virginia                                44
 Wisconsin                                    23
-Wyoming                                      29
+Wyoming                                      26

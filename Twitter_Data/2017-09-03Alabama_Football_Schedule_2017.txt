@@ -2,9 +2,9 @@ AL 4
 AK 0
 AZ 0
 AR 0
-CA 2
+CA 3
 CO 15
-CT 4
+CT 5
 DE 0
 DC 0
 FL 0
@@ -28,7 +28,7 @@ MT 0
 NE 0
 NV 0
 NH 0
-NJ 3
+NJ 4
 NM 0
 NY 0
 NC 0

@@ -1,0 +1,12 @@
+               La Tuna fire
+geoName                    
+Arizona                  10
+California              100
+Florida                   5
+Maryland                 11
+Massachusetts             7
+Michigan                  7
+Minnesota                11
+New York                  5
+Texas                     5
+Washington                8

@@ -3,16 +3,16 @@ geoName
 Alabama                                          100
 Alaska                                             2
 Arizona                                            1
-Arkansas                                           3
+Arkansas                                           4
 California                                         1
 Colorado                                           1
 Connecticut                                        1
 Delaware                                           1
-District of Columbia                               1
+District of Columbia                               2
 Florida                                            3
 Georgia                                           10
 Hawaii                                             1
-Idaho                                              0
+Idaho                                              1
 Illinois                                           1
 Indiana                                            2
 Iowa                                               1
@@ -23,10 +23,10 @@ Maine                                              0
 Maryland                                           1
 Massachusetts                                      1
 Michigan                                           1
-Minnesota                                          0
+Minnesota                                          1
 Mississippi                                       15
 Missouri                                           2
-Montana                                            1
+Montana                                            2
 Nebraska                                           2
 Nevada                                             1
 New Hampshire                                      0
@@ -36,10 +36,10 @@ New York                                           1
 North Carolina                                     3
 North Dakota                                       1
 Ohio                                               2
-Oklahoma                                           2
+Oklahoma                                           1
 Oregon                                             0
 Pennsylvania                                       1
-Rhode Island                                       1
+Rhode Island                                       0
 South Carolina                                     4
 South Dakota                                       1
 Tennessee                                         10
@@ -50,4 +50,4 @@ Virginia                                           1
 Washington                                         1
 West Virginia                                      2
 Wisconsin                                          1
-Wyoming                                            1
+Wyoming                                            2

@@ -1,32 +1,32 @@
                       Notre Dame Football
 geoName                                  
-Alabama                                15
+Alabama                                16
 Alaska                                  9
-Arizona                                13
+Arizona                                12
 Arkansas                                8
-California                             10
+California                              9
 Colorado                               12
 Connecticut                            16
 Delaware                               18
-District of Columbia                   20
+District of Columbia                   19
 Florida                                12
-Georgia                                14
+Georgia                                13
 Hawaii                                 14
-Idaho                                  12
-Illinois                               33
+Idaho                                  11
+Illinois                               34
 Indiana                               100
-Iowa                                   19
-Kansas                                 11
+Iowa                                   20
+Kansas                                 10
 Kentucky                               18
 Louisiana                              11
-Maine                                  12
+Maine                                  11
 Maryland                               11
 Massachusetts                          15
 Michigan                               34
 Minnesota                              13
 Mississippi                            11
 Missouri                               13
-Montana                                17
+Montana                                16
 Nebraska                               20
 Nevada                                 10
 New Hampshire                          11
@@ -36,18 +36,18 @@ New York                               13
 North Carolina                         12
 North Dakota                           11
 Ohio                                   31
-Oklahoma                               13
+Oklahoma                               12
 Oregon                                  6
-Pennsylvania                           25
+Pennsylvania                           24
 Rhode Island                           12
 South Carolina                         16
-South Dakota                           22
+South Dakota                           21
 Tennessee                              15
 Texas                                  10
-Utah                                   10
-Vermont                                12
+Utah                                    9
+Vermont                                13
 Virginia                               11
 Washington                              8
 West Virginia                          15
 Wisconsin                              13
-Wyoming                                11
+Wyoming                                12

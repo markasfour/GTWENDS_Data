@@ -3,12 +3,12 @@ geoName
 Alabama                                 6
 Alaska                                  3
 Arizona                                 3
-Arkansas                                3
+Arkansas                                2
 California                              2
 Colorado                                4
 Connecticut                             7
-Delaware                               28
-District of Columbia                   30
+Delaware                               29
+District of Columbia                   29
 Florida                                 6
 Georgia                                 5
 Hawaii                                  3
@@ -20,7 +20,7 @@ Kansas                                  3
 Kentucky                                4
 Louisiana                               3
 Maine                                   4
-Maryland                               14
+Maryland                               15
 Massachusetts                           6
 Michigan                                9
 Minnesota                               3

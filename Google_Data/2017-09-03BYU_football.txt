@@ -1,0 +1,52 @@
+                      BYU football
+geoName                           
+Alabama                          1
+Alaska                           2
+Arizona                          4
+Arkansas                         1
+California                       2
+Colorado                         3
+Connecticut                      0
+Delaware                         0
+District of Columbia             1
+Florida                          1
+Georgia                          1
+Hawaii                           3
+Idaho                           24
+Illinois                         1
+Indiana                          1
+Iowa                             1
+Kansas                           1
+Kentucky                         1
+Louisiana                        1
+Maine                            0
+Maryland                         1
+Massachusetts                    0
+Michigan                         1
+Minnesota                        1
+Mississippi                      1
+Missouri                         1
+Montana                          3
+Nebraska                         3
+Nevada                           6
+New Hampshire                    0
+New Jersey                       0
+New Mexico                       2
+New York                         0
+North Carolina                   1
+North Dakota                     1
+Ohio                             1
+Oklahoma                         1
+Oregon                           2
+Pennsylvania                     1
+Rhode Island                     0
+South Carolina                   1
+South Dakota                     1
+Tennessee                        1
+Texas                            1
+Utah                           100
+Virginia                         1
+Washington                       2
+West Virginia                    1
+Wisconsin                        1
+Wyoming                          9

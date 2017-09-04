@@ -1,0 +1,48 @@
+                      Mountaineers
+geoName                           
+Alabama                          1
+Arizona                          1
+Arkansas                         1
+California                       1
+Colorado                         2
+Connecticut                      1
+Delaware                         2
+District of Columbia             4
+Florida                          1
+Georgia                          1
+Idaho                            2
+Illinois                         1
+Indiana                          1
+Iowa                             1
+Kansas                           1
+Kentucky                         2
+Louisiana                        1
+Maine                            2
+Maryland                         3
+Massachusetts                    1
+Michigan                         1
+Minnesota                        1
+Mississippi                      1
+Missouri                         1
+Montana                          4
+Nebraska                         1
+Nevada                           1
+New Hampshire                    3
+New Jersey                       1
+New Mexico                       2
+New York                         1
+North Carolina                   4
+Ohio                             3
+Oklahoma                         1
+Oregon                           2
+Pennsylvania                     3
+Rhode Island                     1
+South Carolina                   2
+Tennessee                        2
+Texas                            1
+Utah                             1
+Vermont                         22
+Virginia                         3
+Washington                      15
+West Virginia                  100
+Wisconsin                        1

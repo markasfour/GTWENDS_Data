@@ -9,22 +9,22 @@ Colorado                         2
 Connecticut                      1
 Delaware                         1
 District of Columbia             2
-Florida                          4
-Georgia                          8
+Florida                          3
+Georgia                          7
 Hawaii                           1
 Idaho                            1
-Illinois                         2
+Illinois                         1
 Indiana                          2
 Iowa                             2
 Kansas                           2
-Kentucky                         5
+Kentucky                         4
 Louisiana                      100
 Maine                            1
 Maryland                         1
 Massachusetts                    1
 Michigan                         1
 Minnesota                        1
-Mississippi                     30
+Mississippi                     29
 Missouri                         2
 Montana                          1
 Nebraska                         3
@@ -49,5 +49,5 @@ Vermont                          1
 Virginia                         2
 Washington                       1
 West Virginia                    2
-Wisconsin                        2
-Wyoming                          2
+Wisconsin                        1
+Wyoming                          1

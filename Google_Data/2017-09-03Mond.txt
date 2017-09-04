@@ -1,0 +1,46 @@
+                      Mond
+geoName                   
+Alabama                 80
+Arizona                 63
+Arkansas                70
+California              84
+Colorado                62
+Connecticut             72
+District of Columbia    82
+Florida                 74
+Georgia                 66
+Hawaii                  89
+Idaho                   65
+Illinois                67
+Indiana                 56
+Iowa                    65
+Kansas                  67
+Kentucky                64
+Louisiana              100
+Maine                   62
+Maryland                80
+Massachusetts           77
+Michigan                67
+Minnesota               62
+Mississippi             61
+Missouri                65
+Nebraska                66
+Nevada                  65
+New Hampshire           72
+New Jersey              78
+New Mexico              71
+New York                85
+North Carolina          57
+Ohio                    65
+Oklahoma                70
+Oregon                  70
+Pennsylvania            68
+Rhode Island            73
+South Carolina          61
+Tennessee               58
+Texas                   98
+Utah                    72
+Virginia                86
+Washington              76
+West Virginia           57
+Wisconsin               65

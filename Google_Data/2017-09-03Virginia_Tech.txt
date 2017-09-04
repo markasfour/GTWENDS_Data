@@ -1,0 +1,53 @@
+                      Virginia Tech
+geoName                            
+Alabama                           7
+Alaska                            2
+Arizona                           2
+Arkansas                          3
+California                        2
+Colorado                          3
+Connecticut                       5
+Delaware                         10
+District of Columbia             26
+Florida                           4
+Georgia                           6
+Hawaii                            3
+Idaho                             2
+Illinois                          3
+Indiana                           4
+Iowa                              3
+Kansas                            3
+Kentucky                          5
+Louisiana                         3
+Maine                             3
+Maryland                         16
+Massachusetts                     4
+Michigan                          3
+Minnesota                         2
+Mississippi                       4
+Missouri                          3
+Montana                           3
+Nebraska                          4
+Nevada                            2
+New Hampshire                     4
+New Jersey                        7
+New Mexico                        3
+New York                          4
+North Carolina                   14
+North Dakota                      2
+Ohio                              6
+Oklahoma                          3
+Oregon                            2
+Pennsylvania                      7
+Rhode Island                      4
+South Carolina                   11
+South Dakota                      3
+Tennessee                         9
+Texas                             3
+Utah                              2
+Vermont                           8
+Virginia                        100
+Washington                        2
+West Virginia                    23
+Wisconsin                         3
+Wyoming                           3
