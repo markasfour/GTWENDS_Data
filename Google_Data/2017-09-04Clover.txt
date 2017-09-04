@@ -1,0 +1,53 @@
+                      Clover
+geoName                     
+Alabama                   22
+Alaska                    25
+Arizona                   20
+Arkansas                  22
+California                22
+Colorado                  23
+Connecticut               23
+Delaware                  24
+District of Columbia      23
+Florida                   18
+Georgia                   25
+Hawaii                    17
+Idaho                     26
+Illinois                  25
+Indiana                   26
+Iowa                      25
+Kansas                    22
+Kentucky                  28
+Louisiana                 22
+Maine                     31
+Maryland                  23
+Massachusetts             34
+Michigan                  24
+Minnesota                 24
+Mississippi               21
+Missouri                  26
+Montana                   24
+Nebraska                  29
+Nevada                    21
+New Hampshire             24
+New Jersey                26
+New Mexico                23
+New York                  26
+North Carolina            43
+North Dakota              21
+Ohio                      24
+Oklahoma                  22
+Oregon                    22
+Pennsylvania              28
+Rhode Island              21
+South Carolina           100
+South Dakota              21
+Tennessee                 28
+Texas                     19
+Utah                      27
+Vermont                   47
+Virginia                  27
+Washington                58
+West Virginia             26
+Wisconsin                 26
+Wyoming                   22

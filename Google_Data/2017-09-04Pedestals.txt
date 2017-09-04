@@ -1,0 +1,42 @@
+                      Pedestals
+geoName                        
+Alabama                      82
+Arizona                      85
+Arkansas                     71
+California                   60
+Colorado                     82
+Connecticut                  63
+District of Columbia         53
+Florida                      85
+Georgia                      68
+Idaho                        89
+Illinois                     65
+Indiana                      73
+Iowa                         91
+Kansas                       65
+Kentucky                     68
+Louisiana                    84
+Maryland                     76
+Massachusetts                65
+Michigan                     72
+Minnesota                    90
+Mississippi                  67
+Missouri                     77
+Nebraska                     79
+Nevada                       66
+New Hampshire                68
+New Jersey                   74
+New Mexico                   83
+New York                    100
+North Carolina               71
+Ohio                         70
+Oklahoma                     75
+Oregon                       61
+Pennsylvania                 66
+South Carolina               72
+Tennessee                    74
+Texas                        68
+Utah                         93
+Virginia                     60
+Washington                   75
+Wisconsin                    81

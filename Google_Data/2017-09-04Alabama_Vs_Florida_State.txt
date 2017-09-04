@@ -1,0 +1,53 @@
+                      Alabama Vs Florida State
+geoName                                       
+Alabama                                    100
+Alaska                                       3
+Arizona                                      4
+Arkansas                                    12
+California                                   3
+Colorado                                     5
+Connecticut                                  4
+Delaware                                     4
+District of Columbia                         7
+Florida                                     20
+Georgia                                     27
+Hawaii                                       6
+Idaho                                        2
+Illinois                                     4
+Indiana                                      6
+Iowa                                         7
+Kansas                                       4
+Kentucky                                    11
+Louisiana                                   16
+Maine                                        1
+Maryland                                     3
+Massachusetts                                3
+Michigan                                     6
+Minnesota                                    3
+Mississippi                                 37
+Missouri                                     5
+Montana                                      6
+Nebraska                                     8
+Nevada                                       5
+New Hampshire                                3
+New Jersey                                   4
+New Mexico                                   3
+New York                                     3
+North Carolina                               9
+North Dakota                                 4
+Ohio                                        10
+Oklahoma                                    12
+Oregon                                       4
+Pennsylvania                                 4
+Rhode Island                                 2
+South Carolina                              22
+South Dakota                                 5
+Tennessee                                   21
+Texas                                        7
+Utah                                         4
+Vermont                                      3
+Virginia                                     6
+Washington                                   3
+West Virginia                                8
+Wisconsin                                    4
+Wyoming                                      8

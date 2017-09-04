@@ -1,53 +1,53 @@
                       Ncaa Football Scores
 geoName                                   
-Alabama                                 87
-Alaska                                  37
-Arizona                                 43
+Alabama                                 85
+Alaska                                  34
+Arizona                                 42
 Arkansas                                70
-California                              27
-Colorado                                40
-Connecticut                             19
-Delaware                                28
-District of Columbia                    49
-Florida                                 53
-Georgia                                 75
+California                              26
+Colorado                                39
+Connecticut                             18
+Delaware                                26
+District of Columbia                    47
+Florida                                 52
+Georgia                                 72
 Hawaii                                  86
-Idaho                                   58
-Illinois                                35
-Indiana                                 37
-Iowa                                    55
-Kansas                                  40
-Kentucky                                58
-Louisiana                               60
-Maine                                   21
-Maryland                                23
+Idaho                                   57
+Illinois                                34
+Indiana                                 36
+Iowa                                    53
+Kansas                                  39
+Kentucky                                56
+Louisiana                               59
+Maine                                   20
+Maryland                                22
 Massachusetts                           21
-Michigan                                58
-Minnesota                               31
+Michigan                                57
+Minnesota                               30
 Mississippi                            100
-Missouri                                40
-Montana                                 40
-Nebraska                                90
-Nevada                                  66
+Missouri                                39
+Montana                                 38
+Nebraska                                86
+Nevada                                  65
 New Hampshire                           16
 New Jersey                              22
 New Mexico                              40
-New York                                21
-North Carolina                          53
-North Dakota                            32
-Ohio                                    66
-Oklahoma                                80
+New York                                20
+North Carolina                          52
+North Dakota                            29
+Ohio                                    65
+Oklahoma                                77
 Oregon                                  36
-Pennsylvania                            37
+Pennsylvania                            36
 Rhode Island                            14
-South Carolina                          81
-South Dakota                            38
-Tennessee                               77
-Texas                                   54
-Utah                                    41
-Vermont                                 21
+South Carolina                          79
+South Dakota                            36
+Tennessee                               76
+Texas                                   53
+Utah                                    40
+Vermont                                 20
 Virginia                                33
-Washington                              40
-West Virginia                           77
+Washington                              39
+West Virginia                           73
 Wisconsin                               38
-Wyoming                                 60
+Wyoming                                 56

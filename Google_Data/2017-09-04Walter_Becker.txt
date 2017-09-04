@@ -1,52 +1,52 @@
                       Walter Becker
 geoName                            
-Alabama                          30
-Alaska                           22
-Arizona                          47
-Arkansas                         31
-California                       45
-Colorado                         44
-Connecticut                      61
-Delaware                         46
-District of Columbia             46
-Florida                          33
-Georgia                          31
-Hawaii                           32
-Idaho                            54
-Illinois                         44
-Indiana                          35
-Iowa                             22
-Kansas                           26
-Kentucky                         43
-Louisiana                        66
-Maine                           100
-Maryland                         53
-Massachusetts                    62
-Michigan                         51
-Minnesota                        46
-Mississippi                      38
-Missouri                         41
-Montana                          55
-Nebraska                         34
-Nevada                           36
-New Hampshire                    92
-New Jersey                       52
-New Mexico                       59
-New York                         67
-North Carolina                   38
-Ohio                             44
-Oklahoma                         24
-Oregon                           61
-Pennsylvania                     60
-Rhode Island                     95
-South Carolina                   28
-South Dakota                     23
-Tennessee                        39
-Texas                            24
-Utah                             37
-Vermont                          92
-Virginia                         37
-Washington                       38
-West Virginia                    37
-Wisconsin                        52
-Wyoming                          34
+Alabama                          46
+Alaska                           36
+Arizona                          28
+Arkansas                         59
+California                       56
+Colorado                         50
+Connecticut                      99
+Delaware                         50
+District of Columbia             52
+Florida                          29
+Georgia                          34
+Hawaii                           65
+Idaho                            24
+Illinois                         58
+Indiana                          45
+Iowa                             49
+Kansas                           18
+Kentucky                         56
+Louisiana                        48
+Maine                            58
+Maryland                         49
+Massachusetts                    63
+Michigan                         59
+Minnesota                        54
+Mississippi                      34
+Missouri                         34
+Montana                          30
+Nebraska                         54
+Nevada                           61
+New Hampshire                    90
+New Jersey                       55
+New Mexico                       49
+New York                         88
+North Carolina                   46
+North Dakota                     25
+Ohio                             65
+Oklahoma                         34
+Oregon                           45
+Pennsylvania                     59
+Rhode Island                     90
+South Carolina                   33
+South Dakota                     38
+Tennessee                        45
+Texas                            30
+Utah                             44
+Vermont                         100
+Virginia                         36
+Washington                       43
+West Virginia                    13
+Wisconsin                        58

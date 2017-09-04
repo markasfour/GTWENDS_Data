@@ -1,53 +1,53 @@
                       Will Grier
 geoName                         
-Alabama                       36
-Alaska                         5
+Alabama                       38
+Alaska                         6
 Arizona                        6
-Arkansas                      15
-California                     5
+Arkansas                      18
+California                     6
 Colorado                       9
-Connecticut                    9
-Delaware                       7
-District of Columbia          15
-Florida                       73
-Georgia                       32
-Hawaii                         7
+Connecticut                   10
+Delaware                       8
+District of Columbia          16
+Florida                       75
+Georgia                       34
+Hawaii                         9
 Idaho                          6
 Illinois                      10
-Indiana                        9
-Iowa                          10
-Kansas                         7
-Kentucky                      14
-Louisiana                     16
+Indiana                       10
+Iowa                          12
+Kansas                         8
+Kentucky                      13
+Louisiana                     15
 Maine                          9
 Maryland                      10
 Massachusetts                  9
-Michigan                       8
+Michigan                       9
 Minnesota                      7
-Mississippi                   23
-Missouri                       9
-Montana                        4
-Nebraska                       8
-Nevada                         7
-New Hampshire                  7
-New Jersey                     9
+Mississippi                   26
+Missouri                      11
+Montana                        5
+Nebraska                       9
+Nevada                         5
+New Hampshire                  6
+New Jersey                    10
 New Mexico                     4
 New York                       9
-North Carolina                35
-North Dakota                  11
-Ohio                          12
-Oklahoma                      14
-Oregon                         5
+North Carolina                38
+North Dakota                   5
+Ohio                          13
+Oklahoma                      11
+Oregon                         4
 Pennsylvania                  11
 Rhode Island                   9
 South Carolina                27
-South Dakota                   9
-Tennessee                     28
-Texas                         10
+South Dakota                   8
+Tennessee                     32
+Texas                         11
 Utah                           5
-Vermont                        7
-Virginia                      13
-Washington                     5
+Vermont                        9
+Virginia                      12
+Washington                     6
 West Virginia                100
-Wisconsin                      7
-Wyoming                        6
+Wisconsin                      8
+Wyoming                       11

@@ -1,47 +1,48 @@
                       Caylin Newton
 geoName                            
 Alabama                         100
-Arizona                          11
-Arkansas                          7
-California                       12
-Colorado                         13
-Connecticut                      14
-Delaware                         23
-District of Columbia             29
+Arizona                           9
+Arkansas                         20
+California                        8
+Colorado                         12
+Connecticut                      10
+Delaware                         25
+District of Columbia             32
 Florida                          20
-Georgia                          85
-Hawaii                           11
-Idaho                             7
-Illinois                         10
-Indiana                          20
-Iowa                             12
-Kansas                           10
-Kentucky                         13
-Louisiana                        25
-Maine                            11
-Maryland                         26
-Massachusetts                    15
-Michigan                         21
-Minnesota                        11
-Mississippi                      41
-Missouri                         15
-Nebraska                         21
-Nevada                           16
-New Hampshire                    17
-New Jersey                       15
-New Mexico                       15
-New York                         11
-North Carolina                   76
-Ohio                             20
-Oklahoma                         11
+Georgia                          81
+Hawaii                            5
+Idaho                            13
+Illinois                         11
+Indiana                          17
+Iowa                             18
+Kansas                           15
+Kentucky                         12
+Louisiana                        22
+Maine                             7
+Maryland                         24
+Massachusetts                    11
+Michigan                         22
+Minnesota                        10
+Mississippi                      58
+Missouri                         18
+Nebraska                         23
+Nevada                           10
+New Hampshire                    11
+New Jersey                       13
+New Mexico                       16
+New York                         10
+North Carolina                   67
+Ohio                             11
+Oklahoma                          7
 Oregon                            4
-Pennsylvania                     15
-Rhode Island                     20
-South Carolina                   63
-Tennessee                        26
-Texas                            20
-Utah                             11
-Virginia                         19
-Washington                        7
-West Virginia                    23
-Wisconsin                         6
+Pennsylvania                     16
+Rhode Island                     23
+South Carolina                   61
+South Dakota                     14
+Tennessee                        24
+Texas                            19
+Utah                              6
+Virginia                         16
+Washington                       10
+West Virginia                    20
+Wisconsin                         8

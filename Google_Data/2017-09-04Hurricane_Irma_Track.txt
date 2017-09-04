@@ -1,52 +1,53 @@
                       Hurricane Irma Track
 geoName                                   
-Alabama                                 27
-Alaska                                  13
-Arizona                                  4
-Arkansas                                20
-California                               4
-Colorado                                 9
+Alabama                                 31
+Alaska                                  16
+Arizona                                  5
+Arkansas                                22
+California                               5
+Colorado                                10
 Connecticut                             16
-Delaware                                31
-District of Columbia                    15
+Delaware                                29
+District of Columbia                    19
 Florida                                100
 Georgia                                 22
-Hawaii                                   8
-Idaho                                   15
+Hawaii                                   3
+Idaho                                   11
 Illinois                                 8
-Indiana                                  8
-Iowa                                     7
-Kansas                                   6
-Kentucky                                14
-Louisiana                               50
-Maine                                   16
-Maryland                                23
+Indiana                                  6
+Iowa                                     5
+Kansas                                   9
+Kentucky                                11
+Louisiana                               56
+Maine                                   17
+Maryland                                21
 Massachusetts                           11
-Michigan                                 8
-Minnesota                                4
-Mississippi                             41
-Missouri                                10
-Montana                                  8
-Nebraska                                 7
-Nevada                                   5
-New Hampshire                           23
-New Jersey                              21
+Michigan                                 7
+Minnesota                                5
+Mississippi                             49
+Missouri                                12
+Montana                                 13
+Nebraska                                 9
+Nevada                                   6
+New Hampshire                           21
+New Jersey                              22
 New Mexico                               8
 New York                                11
-North Carolina                          52
-North Dakota                            21
-Ohio                                    13
-Oklahoma                                12
-Oregon                                   3
-Pennsylvania                            13
-Rhode Island                            23
-South Carolina                          65
+North Carolina                          50
+North Dakota                             8
+Ohio                                    10
+Oklahoma                                 8
+Oregon                                   4
+Pennsylvania                            11
+Rhode Island                            28
+South Carolina                          69
+South Dakota                            11
 Tennessee                               16
-Texas                                   31
-Utah                                     4
-Vermont                                 14
+Texas                                   28
+Utah                                     5
+Vermont                                  8
 Virginia                                28
-Washington                               4
-West Virginia                           27
-Wisconsin                                7
-Wyoming                                 10
+Washington                               6
+West Virginia                           15
+Wisconsin                                6
+Wyoming                                  8

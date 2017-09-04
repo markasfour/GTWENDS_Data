@@ -1,53 +1,53 @@
                       Weezy
 geoName                    
-Alabama                  74
-Alaska                   29
-Arizona                  32
-Arkansas                 41
-California               30
-Colorado                 28
-Connecticut              38
-Delaware                 40
-District of Columbia     58
-Florida                  45
-Georgia                  57
-Hawaii                   26
-Idaho                    18
-Illinois                 43
-Indiana                  37
-Iowa                     34
-Kansas                   35
-Kentucky                 43
+Alabama                  75
+Alaska                   30
+Arizona                  34
+Arkansas                 43
+California               32
+Colorado                 26
+Connecticut              37
+Delaware                 47
+District of Columbia     62
+Florida                  48
+Georgia                  59
+Hawaii                   27
+Idaho                    21
+Illinois                 45
+Indiana                  42
+Iowa                     33
+Kansas                   37
+Kentucky                 48
 Louisiana               100
-Maine                    28
-Maryland                 41
+Maine                    31
+Maryland                 45
 Massachusetts            38
-Michigan                 45
-Minnesota                29
-Mississippi              49
-Missouri                 40
-Montana                  23
-Nebraska                 35
-Nevada                   36
-New Hampshire            25
-New Jersey               41
-New Mexico               27
-New York                 44
-North Carolina           47
-North Dakota             25
-Ohio                     42
-Oklahoma                 38
-Oregon                   22
-Pennsylvania             42
-Rhode Island             42
-South Carolina           55
-South Dakota             32
-Tennessee                41
-Texas                    46
-Utah                     18
-Vermont                  22
-Virginia                 43
+Michigan                 49
+Minnesota                30
+Mississippi              56
+Missouri                 41
+Montana                  27
+Nebraska                 31
+Nevada                   37
+New Hampshire            27
+New Jersey               44
+New Mexico               28
+New York                 46
+North Carolina           46
+North Dakota             21
+Ohio                     44
+Oklahoma                 39
+Oregon                   23
+Pennsylvania             44
+Rhode Island             49
+South Carolina           56
+South Dakota             29
+Tennessee                42
+Texas                    47
+Utah                     19
+Vermont                  21
+Virginia                 45
 Washington               27
-West Virginia            42
-Wisconsin                33
-Wyoming                  20
+West Virginia            37
+Wisconsin                35
+Wyoming                  23

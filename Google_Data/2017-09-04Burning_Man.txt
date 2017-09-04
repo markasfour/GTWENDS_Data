@@ -1,53 +1,53 @@
                       Burning Man
 geoName                          
-Alabama                        12
-Alaska                         28
-Arizona                        26
-Arkansas                       12
-California                     55
-Colorado                       38
-Connecticut                    17
-Delaware                       15
+Alabama                        13
+Alaska                         30
+Arizona                        27
+Arkansas                       13
+California                     58
+Colorado                       40
+Connecticut                    16
+Delaware                       16
 District of Columbia           21
 Florida                        16
 Georgia                        13
-Hawaii                         29
-Idaho                          31
+Hawaii                         32
+Idaho                          35
 Illinois                       17
 Indiana                        14
 Iowa                           14
 Kansas                         14
 Kentucky                       14
-Louisiana                      15
-Maine                          17
+Louisiana                      16
+Maine                          18
 Maryland                       16
 Massachusetts                  20
 Michigan                       15
 Minnesota                      17
 Mississippi                    11
 Missouri                       15
-Montana                        33
-Nebraska                       15
+Montana                        35
+Nebraska                       16
 Nevada                        100
-New Hampshire                  19
+New Hampshire                  18
 New Jersey                     15
 New Mexico                     24
-New York                       25
-North Carolina                 13
-North Dakota                   16
+New York                       24
+North Carolina                 14
+North Dakota                   15
 Ohio                           14
 Oklahoma                       16
-Oregon                         38
+Oregon                         39
 Pennsylvania                   15
-Rhode Island                   15
+Rhode Island                   17
 South Carolina                 13
-South Dakota                   16
+South Dakota                   14
 Tennessee                      14
 Texas                          15
 Utah                           37
-Vermont                        28
-Virginia                       13
-Washington                     42
-West Virginia                  11
-Wisconsin                      16
-Wyoming                        29
+Vermont                        27
+Virginia                       14
+Washington                     41
+West Virginia                  12
+Wisconsin                      15
+Wyoming                        28

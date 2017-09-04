@@ -1,53 +1,53 @@
                       Football Today
 geoName                             
 Alabama                          100
-Alaska                            32
+Alaska                            31
 Arizona                           59
-Arkansas                          56
-California                        36
+Arkansas                          58
+California                        37
 Colorado                          49
 Connecticut                       31
-Delaware                          40
+Delaware                          42
 District of Columbia              46
 Florida                           57
 Georgia                           71
-Hawaii                            46
-Idaho                             55
-Illinois                          39
-Indiana                           41
+Hawaii                            45
+Idaho                             54
+Illinois                          40
+Indiana                           42
 Iowa                              65
-Kansas                            46
-Kentucky                          53
+Kansas                            49
+Kentucky                          54
 Louisiana                         63
-Maine                             36
+Maine                             34
 Maryland                          34
 Massachusetts                     30
-Michigan                          60
-Minnesota                         45
-Mississippi                       82
+Michigan                          61
+Minnesota                         44
+Mississippi                       81
 Missouri                          49
-Montana                           58
+Montana                           61
 Nebraska                          77
-Nevada                            52
-New Hampshire                     30
+Nevada                            55
+New Hampshire                     29
 New Jersey                        33
-New Mexico                        42
-New York                          28
-North Carolina                    53
-North Dakota                      65
+New Mexico                        44
+New York                          27
+North Carolina                    52
+North Dakota                      64
 Ohio                              57
-Oklahoma                          67
-Oregon                            38
-Pennsylvania                      39
-Rhode Island                      31
-South Carolina                    73
-South Dakota                      50
-Tennessee                         63
+Oklahoma                          66
+Oregon                            37
+Pennsylvania                      40
+Rhode Island                      32
+South Carolina                    74
+South Dakota                      52
+Tennessee                         61
 Texas                             55
 Utah                              44
-Vermont                           31
+Vermont                           32
 Virginia                          41
 Washington                        48
-West Virginia                     66
+West Virginia                     68
 Wisconsin                         55
-Wyoming                           50
+Wyoming                           55

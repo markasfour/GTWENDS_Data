@@ -1,10 +1,24 @@
-               Jenna Burleigh
-geoName                      
-California                  3
-Massachusetts              27
-New Hampshire             100
-New Jersey                 40
-New York                   12
-Pennsylvania               94
-Texas                       4
-Virginia                   11
+                      Jenna Burleigh
+geoName                             
+Arizona                            3
+California                         1
+Colorado                           3
+Connecticut                        5
+Delaware                          26
+District of Columbia              25
+Florida                            2
+Hawaii                            13
+Indiana                            4
+Louisiana                          6
+Maryland                          10
+Massachusetts                      3
+Michigan                           3
+New Jersey                        40
+New York                           2
+North Carolina                     4
+Ohio                               2
+Oregon                             4
+Pennsylvania                     100
+Texas                              1
+Utah                               7
+Virginia                           4

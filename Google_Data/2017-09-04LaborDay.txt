@@ -1,0 +1,53 @@
+                      LaborDay
+geoName                       
+Alabama                     66
+Alaska                      71
+Arizona                     80
+Arkansas                    91
+California                  82
+Colorado                    91
+Connecticut                 62
+Delaware                    70
+District of Columbia        72
+Florida                     88
+Georgia                     79
+Hawaii                      83
+Idaho                       66
+Illinois                    83
+Indiana                     70
+Iowa                        71
+Kansas                      75
+Kentucky                    62
+Louisiana                   70
+Maine                      100
+Maryland                    76
+Massachusetts               86
+Michigan                    79
+Minnesota                   68
+Mississippi                 39
+Missouri                    76
+Montana                     70
+Nebraska                    67
+Nevada                      88
+New Hampshire               97
+New Jersey                  73
+New Mexico                  85
+New York                    92
+North Carolina              69
+North Dakota                72
+Ohio                        74
+Oklahoma                    61
+Oregon                      61
+Pennsylvania                74
+Rhode Island                71
+South Carolina              73
+South Dakota                85
+Tennessee                   69
+Texas                       73
+Utah                        83
+Vermont                     66
+Virginia                    58
+Washington                 100
+West Virginia               83
+Wisconsin                   69
+Wyoming                     56
