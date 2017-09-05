@@ -1,53 +1,53 @@
                       Venus Williams
 geoName                             
-Alabama                           76
-Alaska                            25
-Arizona                           44
-Arkansas                          54
+Alabama                           75
+Alaska                            30
+Arizona                           41
+Arkansas                          49
 California                        52
 Colorado                          44
-Connecticut                       67
-Delaware                          83
+Connecticut                       64
+Delaware                          90
 District of Columbia             100
-Florida                           76
-Georgia                           91
-Hawaii                            53
+Florida                           74
+Georgia                           92
+Hawaii                            56
 Idaho                             31
-Illinois                          60
-Indiana                           51
-Iowa                              38
-Kansas                            40
-Kentucky                          45
-Louisiana                         81
-Maine                             45
-Maryland                          90
-Massachusetts                     57
+Illinois                          59
+Indiana                           50
+Iowa                              40
+Kansas                            41
+Kentucky                          48
+Louisiana                         78
+Maine                             48
+Maryland                          94
+Massachusetts                     56
 Michigan                          61
 Minnesota                         43
-Mississippi                       86
-Missouri                          48
+Mississippi                       82
+Missouri                          50
 Montana                           33
-Nebraska                          42
-Nevada                            55
-New Hampshire                     43
-New Jersey                        74
-New Mexico                        41
-New York                          75
-North Carolina                    71
-North Dakota                      34
-Ohio                              54
-Oklahoma                          48
-Oregon                            33
+Nebraska                          44
+Nevada                            57
+New Hampshire                     42
+New Jersey                        75
+New Mexico                        43
+New York                          78
+North Carolina                    72
+North Dakota                      32
+Ohio                              55
+Oklahoma                          47
+Oregon                            31
 Pennsylvania                      57
-Rhode Island                      56
+Rhode Island                      59
 South Carolina                    84
-South Dakota                      32
-Tennessee                         57
-Texas                             56
-Utah                              31
-Vermont                           49
-Virginia                          62
-Washington                        39
-West Virginia                     39
-Wisconsin                         41
-Wyoming                           34
+South Dakota                      28
+Tennessee                         58
+Texas                             58
+Utah                              33
+Vermont                           46
+Virginia                          60
+Washington                        40
+West Virginia                     36
+Wisconsin                         43
+Wyoming                           35

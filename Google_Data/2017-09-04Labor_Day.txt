@@ -1,53 +1,53 @@
                       Labor Day
 geoName                        
-Alabama                      75
-Alaska                       63
+Alabama                      76
+Alaska                       65
 Arizona                      83
-Arkansas                     75
+Arkansas                     77
 California                   84
-Colorado                     91
-Connecticut                  73
-Delaware                     77
+Colorado                     95
+Connecticut                  74
+Delaware                     79
 District of Columbia        100
-Florida                      82
-Georgia                      88
-Hawaii                       69
-Idaho                        69
+Florida                      85
+Georgia                      91
+Hawaii                       70
+Idaho                        70
 Illinois                     92
-Indiana                      80
-Iowa                         77
-Kansas                       75
-Kentucky                     75
-Louisiana                    76
-Maine                        66
-Maryland                     84
-Massachusetts                80
-Michigan                     86
-Minnesota                    80
-Mississippi                  68
-Missouri                     85
-Montana                      67
-Nebraska                     82
-Nevada                       85
-New Hampshire                71
-New Jersey                   82
-New Mexico                   72
+Indiana                      83
+Iowa                         79
+Kansas                       77
+Kentucky                     77
+Louisiana                    77
+Maine                        67
+Maryland                     87
+Massachusetts                83
+Michigan                     88
+Minnesota                    81
+Mississippi                  69
+Missouri                     86
+Montana                      70
+Nebraska                     83
+Nevada                       88
+New Hampshire                73
+New Jersey                   84
+New Mexico                   73
 New York                     89
-North Carolina               77
-North Dakota                 73
-Ohio                         82
+North Carolina               79
+North Dakota                 75
+Ohio                         84
 Oklahoma                     82
-Oregon                       57
-Pennsylvania                 79
+Oregon                       58
+Pennsylvania                 80
 Rhode Island                 67
-South Carolina               82
-South Dakota                 72
-Tennessee                    81
-Texas                        81
+South Carolina               85
+South Dakota                 75
+Tennessee                    83
+Texas                        82
 Utah                         81
-Vermont                      71
-Virginia                     69
-Washington                   83
-West Virginia                71
-Wisconsin                    76
+Vermont                      69
+Virginia                     70
+Washington                   82
+West Virginia                72
+Wisconsin                    78
 Wyoming                      68

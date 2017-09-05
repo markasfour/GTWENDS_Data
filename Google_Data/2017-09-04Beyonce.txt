@@ -1,53 +1,53 @@
                       Beyonce
 geoName                      
 Alabama                    76
-Alaska                     32
+Alaska                     34
 Arizona                    45
 Arkansas                   56
-California                 58
-Colorado                   38
-Connecticut                58
-Delaware                   80
-District of Columbia       96
-Florida                    66
-Georgia                    95
-Hawaii                     52
+California                 59
+Colorado                   39
+Connecticut                60
+Delaware                   81
+District of Columbia       99
+Florida                    65
+Georgia                    96
+Hawaii                     54
 Idaho                      25
-Illinois                   67
-Indiana                    49
-Iowa                       35
+Illinois                   68
+Indiana                    50
+Iowa                       36
 Kansas                     46
-Kentucky                   51
-Louisiana                  99
+Kentucky                   52
+Louisiana                 100
 Maine                      34
 Maryland                   94
-Massachusetts              60
+Massachusetts              61
 Michigan                   61
 Minnesota                  45
 Mississippi               100
 Missouri                   57
 Montana                    25
 Nebraska                   39
-Nevada                     53
+Nevada                     54
 New Hampshire              36
-New Jersey                 73
+New Jersey                 74
 New Mexico                 39
-New York                   82
-North Carolina             72
-North Dakota               28
+New York                   84
+North Carolina             74
+North Dakota               29
 Ohio                       53
 Oklahoma                   49
-Oregon                     34
+Oregon                     33
 Pennsylvania               67
 Rhode Island               63
 South Carolina             71
-South Dakota               27
-Tennessee                  65
-Texas                      68
-Utah                       30
-Vermont                    38
+South Dakota               28
+Tennessee                  67
+Texas                      69
+Utah                       31
+Vermont                    39
 Virginia                   67
 Washington                 43
-West Virginia              39
+West Virginia              40
 Wisconsin                  40
-Wyoming                    25
+Wyoming                    24

@@ -1,0 +1,53 @@
+                      Chick Fil A
+geoName                          
+Alabama                        77
+Alaska                          4
+Arizona                        31
+Arkansas                       50
+California                     21
+Colorado                       44
+Connecticut                    15
+Delaware                       52
+District of Columbia           66
+Florida                        53
+Georgia                       100
+Hawaii                          8
+Idaho                          19
+Illinois                       25
+Indiana                        31
+Iowa                           20
+Kansas                         27
+Kentucky                       47
+Louisiana                      50
+Maine                           8
+Maryland                       66
+Massachusetts                  11
+Michigan                       17
+Minnesota                      16
+Mississippi                    59
+Missouri                       35
+Montana                         7
+Nebraska                       26
+Nevada                         25
+New Hampshire                   7
+New Jersey                     21
+New Mexico                     27
+New York                       14
+North Carolina                 71
+North Dakota                    6
+Ohio                           28
+Oklahoma                       53
+Oregon                          8
+Pennsylvania                   36
+Rhode Island                   14
+South Carolina                 82
+South Dakota                    8
+Tennessee                      70
+Texas                          67
+Utah                           38
+Vermont                         4
+Virginia                       55
+Washington                     14
+West Virginia                  41
+Wisconsin                      14
+Wyoming                        16

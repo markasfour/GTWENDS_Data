@@ -1,0 +1,33 @@
+                      I-84
+geoName                   
+Arizona                  1
+California               1
+Colorado                 3
+Connecticut             33
+District of Columbia     2
+Florida                  0
+Georgia                  1
+Idaho                  100
+Illinois                 1
+Kentucky                 1
+Massachusetts            6
+Michigan                 1
+Minnesota                1
+Mississippi              1
+Missouri                 1
+Montana                  4
+Nevada                   2
+New Hampshire            4
+New Jersey               2
+New York                 4
+North Carolina           1
+Ohio                     1
+Oregon                  41
+Pennsylvania             2
+Tennessee                1
+Texas                    1
+Utah                    15
+Virginia                 1
+Washington              18
+Wisconsin                1
+Wyoming                  5

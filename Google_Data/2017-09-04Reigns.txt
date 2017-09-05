@@ -1,0 +1,53 @@
+                      Reigns
+geoName                     
+Alabama                   84
+Alaska                    40
+Arizona                   42
+Arkansas                  74
+California                44
+Colorado                  35
+Connecticut               55
+Delaware                  65
+District of Columbia      54
+Florida                   55
+Georgia                   69
+Hawaii                    51
+Idaho                     34
+Illinois                  55
+Indiana                   61
+Iowa                      57
+Kansas                    56
+Kentucky                  70
+Louisiana                 77
+Maine                     46
+Maryland                  63
+Massachusetts             46
+Michigan                  57
+Minnesota                 42
+Mississippi              100
+Missouri                  55
+Montana                   38
+Nebraska                  50
+Nevada                    55
+New Hampshire             36
+New Jersey                66
+New Mexico                51
+New York                  65
+North Carolina            66
+North Dakota              56
+Ohio                      61
+Oklahoma                  55
+Oregon                    29
+Pennsylvania              62
+Rhode Island              63
+South Carolina            81
+South Dakota              52
+Tennessee                 69
+Texas                     59
+Utah                      28
+Vermont                   37
+Virginia                  68
+Washington                33
+West Virginia             84
+Wisconsin                 47
+Wyoming                   36

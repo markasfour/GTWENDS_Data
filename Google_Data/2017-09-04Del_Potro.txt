@@ -1,0 +1,53 @@
+                      Del Potro
+geoName                        
+Alabama                      32
+Alaska                       14
+Arizona                      34
+Arkansas                     22
+California                   50
+Colorado                     32
+Connecticut                  67
+Delaware                     36
+District of Columbia         60
+Florida                      72
+Georgia                      40
+Hawaii                       43
+Idaho                        24
+Illinois                     38
+Indiana                      29
+Iowa                         21
+Kansas                       27
+Kentucky                     26
+Louisiana                    35
+Maine                        28
+Maryland                     58
+Massachusetts                51
+Michigan                     28
+Minnesota                    35
+Mississippi                  30
+Missouri                     24
+Montana                      23
+Nebraska                     21
+Nevada                       38
+New Hampshire                38
+New Jersey                   70
+New Mexico                   38
+New York                     81
+North Carolina               34
+North Dakota                 18
+Ohio                         30
+Oklahoma                     21
+Oregon                      100
+Pennsylvania                 38
+Rhode Island                 49
+South Carolina               32
+South Dakota                 21
+Tennessee                    30
+Texas                        33
+Utah                         28
+Vermont                      34
+Virginia                     44
+Washington                   30
+West Virginia                26
+Wisconsin                    25
+Wyoming                      18

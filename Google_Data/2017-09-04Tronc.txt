@@ -1,0 +1,40 @@
+                      Tronc
+geoName                    
+Alabama                   6
+Arizona                  12
+California               38
+Colorado                 13
+Connecticut              48
+District of Columbia     49
+Florida                  22
+Georgia                   8
+Illinois                100
+Indiana                  12
+Iowa                      6
+Kansas                   16
+Kentucky                 13
+Louisiana                 9
+Maine                    16
+Maryland                 35
+Massachusetts            18
+Michigan                  8
+Minnesota                15
+Missouri                 10
+Nebraska                  3
+Nevada                   13
+New Hampshire             6
+New Jersey               16
+New York                 35
+North Carolina            9
+Ohio                      8
+Oklahoma                  4
+Oregon                   17
+Pennsylvania             19
+Rhode Island             17
+South Carolina           11
+Tennessee                 5
+Texas                    10
+Utah                     10
+Virginia                 16
+Washington               18
+Wisconsin                14

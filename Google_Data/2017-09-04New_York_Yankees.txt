@@ -1,0 +1,53 @@
+                      New York Yankees
+geoName                               
+Alabama                             16
+Alaska                              12
+Arizona                             21
+Arkansas                            15
+California                          14
+Colorado                            16
+Connecticut                        100
+Delaware                            32
+District of Columbia                33
+Florida                             37
+Georgia                             17
+Hawaii                              20
+Idaho                               22
+Illinois                            16
+Indiana                             18
+Iowa                                31
+Kansas                              17
+Kentucky                            18
+Louisiana                           19
+Maine                               46
+Maryland                            25
+Massachusetts                       38
+Michigan                            16
+Minnesota                           11
+Mississippi                         18
+Missouri                            15
+Montana                             28
+Nebraska                            23
+Nevada                              24
+New Hampshire                       31
+New Jersey                          78
+New Mexico                          25
+New York                            85
+North Carolina                      26
+North Dakota                        20
+Ohio                                17
+Oklahoma                            19
+Oregon                              11
+Pennsylvania                        34
+Rhode Island                        69
+South Carolina                      29
+South Dakota                        27
+Tennessee                           19
+Texas                               16
+Utah                                22
+Vermont                             64
+Virginia                            25
+Washington                          12
+West Virginia                       23
+Wisconsin                           13
+Wyoming                             18

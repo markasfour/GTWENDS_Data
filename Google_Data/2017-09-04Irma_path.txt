@@ -1,0 +1,53 @@
+                      Irma path
+geoName                        
+Alabama                      43
+Alaska                        6
+Arizona                       6
+Arkansas                     22
+California                    5
+Colorado                     12
+Connecticut                  20
+Delaware                     44
+District of Columbia         20
+Florida                     100
+Georgia                      29
+Hawaii                        3
+Idaho                         9
+Illinois                      9
+Indiana                      12
+Iowa                          6
+Kansas                       10
+Kentucky                     16
+Louisiana                    67
+Maine                        14
+Maryland                     24
+Massachusetts                12
+Michigan                     10
+Minnesota                     7
+Mississippi                  50
+Missouri                     11
+Montana                      15
+Nebraska                     11
+Nevada                       10
+New Hampshire                25
+New Jersey                   22
+New Mexico                    9
+New York                     14
+North Carolina               53
+North Dakota                  7
+Ohio                         14
+Oklahoma                     13
+Oregon                        5
+Pennsylvania                 15
+Rhode Island                 26
+South Carolina               81
+South Dakota                  7
+Tennessee                    22
+Texas                        38
+Utah                          8
+Vermont                      21
+Virginia                     28
+Washington                    6
+West Virginia                21
+Wisconsin                     8
+Wyoming                      18

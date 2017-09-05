@@ -1,0 +1,11 @@
+                HurricaneIrma
+geoName                      
+Alabama                   100
+California                  5
+Florida                    48
+New Jersey                 23
+New York                    8
+North Carolina             44
+Pennsylvania               18
+Texas                      30
+Virginia                   19
