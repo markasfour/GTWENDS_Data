@@ -1,18 +1,18 @@
                       Burning Man
 geoName                          
-Alabama                        13
+Alabama                        12
 Alaska                         30
-Arizona                        27
+Arizona                        26
 Arkansas                       13
-California                     58
-Colorado                       40
+California                     56
+Colorado                       39
 Connecticut                    16
-Delaware                       16
-District of Columbia           21
+Delaware                       15
+District of Columbia           22
 Florida                        16
 Georgia                        13
-Hawaii                         32
-Idaho                          35
+Hawaii                         31
+Idaho                          33
 Illinois                       17
 Indiana                        14
 Iowa                           14
@@ -26,28 +26,28 @@ Michigan                       15
 Minnesota                      17
 Mississippi                    11
 Missouri                       15
-Montana                        35
-Nebraska                       16
+Montana                        33
+Nebraska                       15
 Nevada                        100
 New Hampshire                  18
 New Jersey                     15
 New Mexico                     24
 New York                       24
 North Carolina                 14
-North Dakota                   15
+North Dakota                   16
 Ohio                           14
 Oklahoma                       16
 Oregon                         39
 Pennsylvania                   15
-Rhode Island                   17
+Rhode Island                   15
 South Carolina                 13
 South Dakota                   14
 Tennessee                      14
 Texas                          15
 Utah                           37
-Vermont                        27
-Virginia                       14
-Washington                     41
-West Virginia                  12
+Vermont                        26
+Virginia                       13
+Washington                     42
+West Virginia                  11
 Wisconsin                      15
 Wyoming                        28

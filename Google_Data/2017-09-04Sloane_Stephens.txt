@@ -1,53 +1,53 @@
                       Sloane Stephens
 geoName                              
-Alabama                            52
-Alaska                             22
-Arizona                            32
-Arkansas                           33
-California                         46
-Colorado                           34
-Connecticut                        55
-Delaware                           68
-District of Columbia               89
-Florida                            60
-Georgia                            84
-Hawaii                             38
-Idaho                              20
-Illinois                           50
-Indiana                            35
-Iowa                               24
-Kansas                             37
-Kentucky                           36
-Louisiana                          64
-Maine                              36
+Alabama                            56
+Alaska                             24
+Arizona                            30
+Arkansas                           36
+California                         45
+Colorado                           35
+Connecticut                        54
+Delaware                           58
+District of Columbia               81
+Florida                            59
+Georgia                            80
+Hawaii                             35
+Idaho                              26
+Illinois                           48
+Indiana                            33
+Iowa                               22
+Kansas                             35
+Kentucky                           37
+Louisiana                          74
+Maine                              40
 Maryland                          100
-Massachusetts                      50
+Massachusetts                      49
 Michigan                           42
-Minnesota                          39
+Minnesota                          38
 Mississippi                        51
-Missouri                           37
-Montana                            24
+Missouri                           36
+Montana                            22
 Nebraska                           30
 Nevada                             38
-New Hampshire                      32
-New Jersey                         58
-New Mexico                         25
+New Hampshire                      33
+New Jersey                         56
+New Mexico                         26
 New York                           67
-North Carolina                     51
-North Dakota                       23
-Ohio                               46
-Oklahoma                           34
-Oregon                             24
-Pennsylvania                       49
-Rhode Island                       41
-South Carolina                     59
-South Dakota                       28
-Tennessee                          44
-Texas                              41
-Utah                               24
-Vermont                            33
-Virginia                           55
-Washington                         33
-West Virginia                      23
-Wisconsin                          30
-Wyoming                            35
+North Carolina                     52
+North Dakota                       25
+Ohio                               45
+Oklahoma                           39
+Oregon                             25
+Pennsylvania                       47
+Rhode Island                       37
+South Carolina                     56
+South Dakota                       26
+Tennessee                          43
+Texas                              42
+Utah                               22
+Vermont                            34
+Virginia                           57
+Washington                         36
+West Virginia                      19
+Wisconsin                          31
+Wyoming                            32

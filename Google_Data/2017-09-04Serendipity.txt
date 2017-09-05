@@ -1,0 +1,53 @@
+                      Serendipity
+geoName                          
+Alabama                        39
+Alaska                         30
+Arizona                        28
+Arkansas                       27
+California                     32
+Colorado                       29
+Connecticut                    37
+Delaware                       47
+District of Columbia           44
+Florida                        36
+Georgia                        33
+Hawaii                         35
+Idaho                          30
+Illinois                       27
+Indiana                        35
+Iowa                           25
+Kansas                         26
+Kentucky                       26
+Louisiana                      30
+Maine                          36
+Maryland                       32
+Massachusetts                  33
+Michigan                       33
+Minnesota                      24
+Mississippi                    24
+Missouri                       34
+Montana                        29
+Nebraska                       26
+Nevada                        100
+New Hampshire                  60
+New Jersey                     44
+New Mexico                     29
+New York                       67
+North Carolina                 30
+North Dakota                   35
+Ohio                           25
+Oklahoma                       52
+Oregon                         26
+Pennsylvania                   31
+Rhode Island                   34
+South Carolina                 28
+South Dakota                   22
+Tennessee                      29
+Texas                          29
+Utah                           35
+Vermont                        28
+Virginia                       28
+Washington                     32
+West Virginia                  31
+Wisconsin                      28
+Wyoming                        28

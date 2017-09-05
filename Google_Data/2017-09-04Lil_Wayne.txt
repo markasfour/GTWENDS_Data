@@ -1,19 +1,19 @@
                       Lil Wayne
 geoName                        
 Alabama                      59
-Alaska                       28
-Arizona                      36
-Arkansas                     44
+Alaska                       27
+Arizona                      35
+Arkansas                     43
 California                   32
-Colorado                     29
-Connecticut                  33
-Delaware                     43
+Colorado                     28
+Connecticut                  32
+Delaware                     42
 District of Columbia         53
-Florida                      55
-Georgia                      70
+Florida                      54
+Georgia                      69
 Hawaii                       23
-Idaho                        18
-Illinois                     49
+Idaho                        17
+Illinois                     48
 Indiana                      40
 Iowa                         27
 Kansas                       39
@@ -22,32 +22,32 @@ Louisiana                   100
 Maine                        24
 Maryland                     47
 Massachusetts                35
-Michigan                     46
+Michigan                     45
 Minnesota                    30
-Mississippi                  89
+Mississippi                  88
 Missouri                     43
 Montana                      17
 Nebraska                     31
 Nevada                       35
 New Hampshire                22
 New Jersey                   37
-New Mexico                   33
-New York                     41
-North Carolina               53
+New Mexico                   34
+New York                     40
+North Carolina               54
 North Dakota                 22
-Ohio                         41
-Oklahoma                     42
+Ohio                         40
+Oklahoma                     41
 Oregon                       18
-Pennsylvania                 41
-Rhode Island                 36
-South Carolina               59
-South Dakota                 25
-Tennessee                    48
-Texas                        54
-Utah                         18
+Pennsylvania                 40
+Rhode Island                 35
+South Carolina               58
+South Dakota                 24
+Tennessee                    49
+Texas                        53
+Utah                         17
 Vermont                      20
 Virginia                     42
-Washington                   25
-West Virginia                41
-Wisconsin                    33
-Wyoming                      20
+Washington                   24
+West Virginia                40
+Wisconsin                    32
+Wyoming                      19

@@ -4,7 +4,7 @@ AZ 0
 AR 0
 CA 15
 CO 15
-CT 12
+CT 15
 DE 0
 DC 15
 FL 1
@@ -33,7 +33,7 @@ NM 0
 NY 0
 NC 15
 ND 0
-OH 0
+OH 1
 OK 0
 OR 0
 PA 1
@@ -44,7 +44,7 @@ TN 0
 TX 1
 UT 0
 VT 0
-VA 8
+VA 12
 WA 3
 WV 0
 WI 0

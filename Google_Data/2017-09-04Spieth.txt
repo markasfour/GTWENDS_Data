@@ -1,0 +1,53 @@
+                      Spieth
+geoName                     
+Alabama                   81
+Alaska                    28
+Arizona                   64
+Arkansas                  62
+California                41
+Colorado                  58
+Connecticut               77
+Delaware                  59
+District of Columbia      69
+Florida                   64
+Georgia                   79
+Hawaii                    50
+Idaho                     55
+Illinois                  64
+Indiana                   65
+Iowa                      94
+Kansas                    49
+Kentucky                  70
+Louisiana                 61
+Maine                     58
+Maryland                  55
+Massachusetts             69
+Michigan                  69
+Minnesota                 75
+Mississippi               58
+Missouri                  55
+Montana                   64
+Nebraska                  78
+Nevada                    48
+New Hampshire             59
+New Jersey                57
+New Mexico                48
+New York                  53
+North Carolina            74
+North Dakota              62
+Ohio                      73
+Oklahoma                  79
+Oregon                    37
+Pennsylvania              73
+Rhode Island              67
+South Carolina            98
+South Dakota              64
+Tennessee                 72
+Texas                    100
+Utah                      55
+Vermont                   61
+Virginia                  51
+Washington                57
+West Virginia             51
+Wisconsin                 75
+Wyoming                   48

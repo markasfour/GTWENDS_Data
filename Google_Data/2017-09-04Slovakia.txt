@@ -1,0 +1,53 @@
+                      Slovakia
+geoName                       
+Alabama                     45
+Alaska                      68
+Arizona                     54
+Arkansas                    42
+California                  60
+Colorado                    69
+Connecticut                 86
+Delaware                    73
+District of Columbia       100
+Florida                     63
+Georgia                     46
+Hawaii                      54
+Idaho                       56
+Illinois                    77
+Indiana                     63
+Iowa                        52
+Kansas                      56
+Kentucky                    46
+Louisiana                   38
+Maine                       87
+Maryland                    73
+Massachusetts               81
+Michigan                    70
+Minnesota                   73
+Mississippi                 31
+Missouri                    51
+Montana                     66
+Nebraska                    54
+Nevada                      55
+New Hampshire               93
+New Jersey                  94
+New Mexico                  56
+New York                    81
+North Carolina              53
+North Dakota                55
+Ohio                        71
+Oklahoma                    42
+Oregon                      61
+Pennsylvania                95
+Rhode Island                62
+South Carolina              50
+South Dakota                56
+Tennessee                   42
+Texas                       51
+Utah                        69
+Vermont                     95
+Virginia                    80
+Washington                  63
+West Virginia               53
+Wisconsin                   72
+Wyoming                     63

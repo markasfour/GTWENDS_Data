@@ -2,23 +2,23 @@
 geoName                            
 Alabama                          11
 Alaska                            6
-Arizona                          29
+Arizona                          30
 Arkansas                          7
 California                      100
 Colorado                         14
 Connecticut                       6
 Delaware                          5
 District of Columbia             11
-Florida                           6
+Florida                           5
 Georgia                           8
-Hawaii                           62
-Idaho                            15
+Hawaii                           61
+Idaho                            16
 Illinois                          6
 Indiana                           5
 Iowa                              8
 Kansas                            6
 Kentucky                          6
-Louisiana                         8
+Louisiana                         7
 Maine                             3
 Maryland                          6
 Massachusetts                     5
@@ -27,7 +27,7 @@ Minnesota                         6
 Mississippi                       8
 Missouri                          6
 Montana                           9
-Nebraska                         23
+Nebraska                         24
 Nevada                           34
 New Hampshire                     4
 New Jersey                        6
@@ -36,16 +36,16 @@ New York                          6
 North Carolina                    6
 North Dakota                      5
 Ohio                              6
-Oklahoma                          9
-Oregon                           19
+Oklahoma                          8
+Oregon                           18
 Pennsylvania                      6
 Rhode Island                      4
 South Carolina                    7
 South Dakota                      7
 Tennessee                         8
 Texas                             9
-Utah                             31
-Vermont                           4
+Utah                             30
+Vermont                           3
 Virginia                          6
 Washington                       19
 West Virginia                     6

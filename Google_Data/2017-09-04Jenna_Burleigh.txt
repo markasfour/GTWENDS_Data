@@ -1,24 +1,21 @@
                       Jenna Burleigh
 geoName                             
-Arizona                            3
-California                         1
+Arizona                            2
 Colorado                           3
-Connecticut                        5
-Delaware                          26
-District of Columbia              25
+Delaware                          52
+District of Columbia              19
 Florida                            2
-Hawaii                            13
-Indiana                            4
-Louisiana                          6
-Maryland                          10
-Massachusetts                      3
-Michigan                           3
-New Jersey                        40
+Maine                             13
+Maryland                           8
+Massachusetts                      8
+Michigan                           2
+Nevada                             5
+New Hampshire                     12
+New Jersey                        32
 New York                           2
-North Carolina                     4
-Ohio                               2
-Oregon                             4
+North Carolina                     2
 Pennsylvania                     100
+South Carolina                     4
 Texas                              1
-Utah                               7
-Virginia                           4
+Utah                               6
+Virginia                           3

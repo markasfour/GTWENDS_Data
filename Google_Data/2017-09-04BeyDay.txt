@@ -1,5 +1,5 @@
             BeyDay
 geoName           
-California     100
-New York        96
-Texas           62
+California      84
+New York        97
+Texas          100
