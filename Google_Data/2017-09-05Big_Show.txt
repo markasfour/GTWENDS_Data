@@ -1,0 +1,53 @@
+                      Big Show
+geoName                       
+Alabama                     85
+Alaska                      49
+Arizona                     63
+Arkansas                    82
+California                  61
+Colorado                    54
+Connecticut                 76
+Delaware                    74
+District of Columbia        61
+Florida                     65
+Georgia                     79
+Hawaii                      59
+Idaho                       57
+Illinois                    69
+Indiana                     75
+Iowa                        77
+Kansas                      69
+Kentucky                    83
+Louisiana                   81
+Maine                       65
+Maryland                    67
+Massachusetts               71
+Michigan                    85
+Minnesota                   63
+Mississippi                 97
+Missouri                    75
+Montana                     71
+Nebraska                    85
+Nevada                      72
+New Hampshire               60
+New Jersey                  72
+New Mexico                  59
+New York                    69
+North Carolina              75
+North Dakota                89
+Ohio                        85
+Oklahoma                    79
+Oregon                      47
+Pennsylvania                72
+Rhode Island                74
+South Carolina              91
+South Dakota                79
+Tennessee                   84
+Texas                       69
+Utah                        74
+Vermont                     67
+Virginia                    69
+Washington                  55
+West Virginia               91
+Wisconsin                   75
+Wyoming                    100

@@ -1,0 +1,41 @@
+                      Emergency Alert
+geoName                              
+Alabama                            46
+Arizona                            48
+California                         65
+Colorado                           57
+Connecticut                        53
+District of Columbia               57
+Florida                            44
+Georgia                            50
+Hawaii                             51
+Illinois                           39
+Indiana                            50
+Iowa                               52
+Kansas                             47
+Kentucky                           49
+Louisiana                          51
+Maine                              46
+Maryland                           71
+Massachusetts                      68
+Michigan                           49
+Minnesota                          46
+Mississippi                        53
+Missouri                           42
+Nevada                             61
+New Hampshire                     100
+New Jersey                         53
+New Mexico                         51
+New York                           53
+North Carolina                     41
+Ohio                               53
+Oklahoma                           45
+Oregon                             55
+Pennsylvania                       60
+South Carolina                     39
+Tennessee                          54
+Texas                              48
+Virginia                           51
+Washington                         69
+West Virginia                      75
+Wisconsin                          49

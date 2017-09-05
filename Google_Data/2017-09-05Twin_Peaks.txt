@@ -1,0 +1,53 @@
+                      Twin Peaks
+geoName                         
+Alabama                       49
+Alaska                        37
+Arizona                       60
+Arkansas                      67
+California                    52
+Colorado                     100
+Connecticut                   32
+Delaware                      28
+District of Columbia          35
+Florida                       42
+Georgia                       51
+Hawaii                        24
+Idaho                         52
+Illinois                      52
+Indiana                       40
+Iowa                          44
+Kansas                        75
+Kentucky                      37
+Louisiana                     80
+Maine                         37
+Maryland                      29
+Massachusetts                 37
+Michigan                      40
+Minnesota                     35
+Mississippi                   57
+Missouri                      59
+Montana                       36
+Nebraska                      59
+Nevada                        66
+New Hampshire                 35
+New Jersey                    30
+New Mexico                    55
+New York                      40
+North Carolina                42
+North Dakota                  24
+Ohio                          29
+Oklahoma                      80
+Oregon                        42
+Pennsylvania                  35
+Rhode Island                  36
+South Carolina                49
+South Dakota                  26
+Tennessee                     56
+Texas                         79
+Utah                          40
+Vermont                       46
+Virginia                      24
+Washington                    66
+West Virginia                 29
+Wisconsin                     32
+Wyoming                       33

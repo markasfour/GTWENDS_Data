@@ -1,0 +1,52 @@
+                      New York Daily News
+geoName                                  
+Alabama                                11
+Alaska                                 22
+Arizona                                13
+Arkansas                                6
+California                             10
+Colorado                               12
+Connecticut                            79
+Delaware                               39
+District of Columbia                   34
+Florida                                32
+Georgia                                17
+Hawaii                                 12
+Idaho                                   7
+Illinois                               10
+Indiana                                 9
+Iowa                                   10
+Kansas                                  9
+Kentucky                               11
+Louisiana                               8
+Maine                                  46
+Maryland                               25
+Massachusetts                          38
+Michigan                               11
+Minnesota                              11
+Mississippi                            11
+Missouri                               10
+Montana                                13
+Nebraska                               13
+Nevada                                 12
+New Hampshire                          21
+New Jersey                             54
+New Mexico                             12
+New York                              100
+North Carolina                         22
+North Dakota                            6
+Ohio                                   13
+Oklahoma                                6
+Oregon                                  6
+Pennsylvania                           29
+Rhode Island                           44
+South Carolina                         21
+South Dakota                            7
+Tennessee                              11
+Texas                                   9
+Utah                                    6
+Vermont                                46
+Virginia                               21
+Washington                             10
+West Virginia                           9
+Wisconsin                               9

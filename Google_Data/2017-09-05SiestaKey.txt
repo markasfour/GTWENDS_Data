@@ -1,0 +1,5 @@
+            SiestaKey
+geoName              
+California          1
+Florida           100
+New York           12

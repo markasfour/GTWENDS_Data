@@ -1,0 +1,44 @@
+                      Omelly
+geoName                     
+Alabama                    9
+Arizona                    5
+Arkansas                   3
+California                 7
+Colorado                   4
+Connecticut               20
+Delaware                 100
+District of Columbia      62
+Florida                   12
+Georgia                   15
+Hawaii                     5
+Illinois                   9
+Indiana                    4
+Iowa                       4
+Kansas                     4
+Kentucky                   6
+Louisiana                 18
+Maryland                  30
+Massachusetts             17
+Michigan                  11
+Minnesota                  4
+Mississippi                6
+Missouri                   7
+Nebraska                   4
+Nevada                     7
+New Jersey                35
+New Mexico                 5
+New York                  28
+North Carolina            13
+Ohio                       6
+Oklahoma                   3
+Oregon                     2
+Pennsylvania              77
+Rhode Island              18
+South Carolina            13
+Tennessee                  6
+Texas                      8
+Utah                       2
+Virginia                  17
+Washington                 5
+West Virginia              9
+Wisconsin                  3

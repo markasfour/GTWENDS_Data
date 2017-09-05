@@ -1,0 +1,51 @@
+                      Clayton Morris
+geoName                             
+Alabama                           90
+Arizona                           50
+Arkansas                          48
+California                        26
+Colorado                          32
+Connecticut                       57
+Delaware                          95
+District of Columbia              40
+Florida                           68
+Georgia                          100
+Idaho                             30
+Illinois                          43
+Indiana                           60
+Iowa                              47
+Kansas                            49
+Kentucky                          58
+Louisiana                         65
+Maine                             57
+Maryland                          51
+Massachusetts                     48
+Michigan                          54
+Minnesota                         36
+Mississippi                       77
+Missouri                          64
+Montana                           58
+Nebraska                          50
+Nevada                            30
+New Hampshire                     27
+New Jersey                       100
+New Mexico                        27
+New York                          49
+North Carolina                    79
+North Dakota                      64
+Ohio                              63
+Oklahoma                          71
+Oregon                            21
+Pennsylvania                      81
+Rhode Island                      70
+South Carolina                    79
+South Dakota                      32
+Tennessee                         89
+Texas                             43
+Utah                              22
+Vermont                           64
+Virginia                          58
+Washington                        23
+West Virginia                     95
+Wisconsin                         50
+Wyoming                           48

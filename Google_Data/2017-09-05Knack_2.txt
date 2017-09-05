@@ -1,0 +1,39 @@
+                      Knack 2
+geoName                      
+Alabama                    49
+Arizona                    60
+Arkansas                  100
+California                 71
+Colorado                   70
+Connecticut                77
+District of Columbia       80
+Florida                    71
+Georgia                    76
+Illinois                   60
+Indiana                    73
+Iowa                       72
+Kansas                     85
+Kentucky                   54
+Louisiana                  63
+Maryland                   76
+Massachusetts              73
+Michigan                   75
+Minnesota                  71
+Missouri                   83
+Nebraska                   49
+Nevada                     95
+New Hampshire              79
+New Jersey                 71
+New York                   58
+North Carolina             75
+Ohio                       77
+Oklahoma                   83
+Oregon                     70
+Pennsylvania               73
+South Carolina             59
+Tennessee                  67
+Texas                      66
+Utah                       87
+Virginia                   67
+Washington                 69
+Wisconsin                  62
