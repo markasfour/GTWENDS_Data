@@ -1,6 +1,7 @@
                       Barbuda
 geoName                      
 Alabama                    29
+Alaska                     41
 Arizona                    28
 Arkansas                   22
 California                 31
@@ -49,3 +50,4 @@ Virginia                   44
 Washington                 31
 West Virginia              31
 Wisconsin                  31
+Wyoming                    43

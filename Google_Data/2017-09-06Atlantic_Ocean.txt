@@ -1,0 +1,45 @@
+                      Atlantic Ocean
+geoName                             
+Alabama                           26
+Arizona                           21
+Arkansas                          25
+California                        20
+Colorado                          22
+Connecticut                       37
+District of Columbia              54
+Florida                           47
+Georgia                           39
+Hawaii                            22
+Idaho                             22
+Illinois                          25
+Indiana                           31
+Iowa                              30
+Kansas                            26
+Kentucky                          28
+Louisiana                         26
+Maine                             52
+Maryland                          76
+Massachusetts                     33
+Michigan                          29
+Minnesota                         26
+Mississippi                       25
+Missouri                          24
+Nebraska                          23
+Nevada                            20
+New Hampshire                     40
+New Jersey                       100
+New Mexico                        19
+New York                          38
+North Carolina                    59
+Ohio                              33
+Oklahoma                          24
+Oregon                            15
+Pennsylvania                      69
+South Carolina                    60
+Tennessee                         25
+Texas                             23
+Utah                              20
+Virginia                          46
+Washington                        18
+West Virginia                     48
+Wisconsin                         29

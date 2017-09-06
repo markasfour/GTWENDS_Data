@@ -1,0 +1,37 @@
+                      Parlament
+geoName                        
+Alabama                      34
+Arizona                      40
+California                   50
+Colorado                     44
+Connecticut                  63
+District of Columbia         85
+Florida                     100
+Georgia                      34
+Illinois                     61
+Indiana                      36
+Iowa                         42
+Kansas                       58
+Kentucky                     26
+Louisiana                    24
+Maryland                     57
+Massachusetts                52
+Michigan                     44
+Minnesota                    40
+Missouri                     29
+Nebraska                     43
+Nevada                       40
+New Jersey                   56
+New York                     61
+North Carolina               36
+Ohio                         37
+Oklahoma                     35
+Oregon                       61
+Pennsylvania                 38
+South Carolina               37
+Tennessee                    28
+Texas                        35
+Utah                         32
+Virginia                     85
+Washington                   47
+Wisconsin                    39

@@ -1,0 +1,48 @@
+                      Culebra
+geoName                      
+Alabama                    10
+Alaska                      5
+Arizona                     7
+Arkansas                    8
+California                  9
+Colorado                   17
+Connecticut                17
+Delaware                    8
+District of Columbia       19
+Florida                    30
+Georgia                    23
+Idaho                       5
+Illinois                   10
+Indiana                     6
+Iowa                        5
+Kansas                     11
+Kentucky                    9
+Louisiana                  10
+Maine                      13
+Maryland                   12
+Massachusetts              16
+Michigan                    6
+Minnesota                   9
+Mississippi                12
+Missouri                    7
+Nebraska                    5
+Nevada                      7
+New Hampshire              10
+New Jersey                 14
+New Mexico                 10
+New York                   19
+North Carolina              9
+Ohio                        6
+Oklahoma                   35
+Oregon                     13
+Pennsylvania                9
+Rhode Island               14
+South Carolina              8
+Tennessee                   8
+Texas                     100
+Utah                        7
+Vermont                    22
+Virginia                   11
+Washington                  6
+West Virginia               5
+Wisconsin                   8

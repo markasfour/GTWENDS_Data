@@ -1,53 +1,53 @@
                       World Cup qualifiers
 geoName                                   
 Alabama                                 21
-Alaska                                  21
-Arizona                                 36
+Alaska                                  20
+Arizona                                 37
 Arkansas                                21
-California                              67
-Colorado                                40
-Connecticut                             75
-Delaware                                33
+California                              69
+Colorado                                42
+Connecticut                             68
+Delaware                                53
 District of Columbia                    65
-Florida                                 73
-Georgia                                 38
-Hawaii                                  24
+Florida                                 72
+Georgia                                 41
+Hawaii                                  29
 Idaho                                   29
-Illinois                                46
-Indiana                                 28
-Iowa                                    30
-Kansas                                  28
-Kentucky                                22
-Louisiana                               21
-Maine                                   27
-Maryland                                68
-Massachusetts                           55
-Michigan                                32
+Illinois                                49
+Indiana                                 26
+Iowa                                    26
+Kansas                                  31
+Kentucky                                21
+Louisiana                               20
+Maine                                   25
+Maryland                                71
+Massachusetts                           58
+Michigan                                31
 Minnesota                               35
-Mississippi                             12
+Mississippi                             10
 Missouri                                31
-Montana                                 15
-Nebraska                                34
-Nevada                                  50
-New Hampshire                           36
+Montana                                 13
+Nebraska                                30
+Nevada                                  54
+New Hampshire                           32
 New Jersey                             100
-New Mexico                              36
-New York                                82
-North Carolina                          36
-North Dakota                            31
+New Mexico                              32
+New York                                81
+North Carolina                          34
+North Dakota                            27
 Ohio                                    28
 Oklahoma                                26
 Oregon                                  33
 Pennsylvania                            39
 Rhode Island                            55
-South Carolina                          29
-South Dakota                            30
-Tennessee                               23
+South Carolina                          31
+South Dakota                            21
+Tennessee                               21
 Texas                                   45
-Utah                                    47
-Vermont                                 32
+Utah                                    48
+Vermont                                 38
 Virginia                                51
 Washington                              45
-West Virginia                           21
-Wisconsin                               24
-Wyoming                                 22
+West Virginia                           18
+Wisconsin                               25
+Wyoming                                 13

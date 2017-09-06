@@ -1,53 +1,53 @@
                       Ezekiel Elliott
 geoName                              
-Alabama                            32
-Alaska                             19
-Arizona                            33
-Arkansas                           42
+Alabama                            30
+Alaska                             18
+Arizona                            34
+Arkansas                           40
 California                         25
-Colorado                           29
-Connecticut                        32
+Colorado                           30
+Connecticut                        34
 Delaware                           49
-District of Columbia               43
-Florida                            27
+District of Columbia               42
+Florida                            26
 Georgia                            30
 Hawaii                             27
-Idaho                              25
+Idaho                              27
 Illinois                           30
-Indiana                            32
-Iowa                               35
-Kansas                             24
-Kentucky                           27
-Louisiana                          35
-Maine                              23
-Maryland                           37
+Indiana                            33
+Iowa                               36
+Kansas                             25
+Kentucky                           28
+Louisiana                          34
+Maine                              24
+Maryland                           38
 Massachusetts                      27
-Michigan                           36
-Minnesota                          27
-Mississippi                        46
-Missouri                           43
-Montana                            29
-Nebraska                           32
-Nevada                             30
-New Hampshire                      25
-New Jersey                         39
-New Mexico                         49
+Michigan                           35
+Minnesota                          28
+Mississippi                        48
+Missouri                           45
+Montana                            28
+Nebraska                           33
+Nevada                             31
+New Hampshire                      24
+New Jersey                         42
+New Mexico                         50
 New York                           24
 North Carolina                     34
-North Dakota                       37
+North Dakota                       34
 Ohio                              100
-Oklahoma                           31
+Oklahoma                           35
 Oregon                             16
 Pennsylvania                       39
-Rhode Island                       30
-South Carolina                     37
-South Dakota                       36
-Tennessee                          32
-Texas                              77
-Utah                               24
+Rhode Island                       31
+South Carolina                     38
+South Dakota                       34
+Tennessee                          33
+Texas                              76
+Utah                               23
 Vermont                            19
-Virginia                           30
+Virginia                           31
 Washington                         24
-West Virginia                      35
+West Virginia                      34
 Wisconsin                          31
-Wyoming                            28
+Wyoming                            30

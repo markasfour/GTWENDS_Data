@@ -1,53 +1,53 @@
                       the office
 geoName                         
-Alabama                       81
-Alaska                        72
-Arizona                       77
+Alabama                       80
+Alaska                        69
+Arizona                       76
 Arkansas                      82
-California                    80
-Colorado                      78
-Connecticut                   84
-Delaware                      78
+California                    77
+Colorado                      77
+Connecticut                   80
+Delaware                      75
 District of Columbia         100
-Florida                       77
-Georgia                       79
-Hawaii                        66
-Idaho                         82
-Illinois                      81
-Indiana                       86
-Iowa                          81
+Florida                       76
+Georgia                       77
+Hawaii                        64
+Idaho                         79
+Illinois                      79
+Indiana                       88
+Iowa                          78
 Kansas                        73
-Kentucky                      84
-Louisiana                     81
-Maine                         78
-Maryland                      89
-Massachusetts                 82
-Michigan                      81
-Minnesota                     76
-Mississippi                   76
-Missouri                      83
+Kentucky                      83
+Louisiana                     80
+Maine                         77
+Maryland                      87
+Massachusetts                 80
+Michigan                      79
+Minnesota                     74
+Mississippi                   73
+Missouri                      80
 Montana                       74
-Nebraska                      83
-Nevada                        75
-New Hampshire                 79
-New Jersey                    84
-New Mexico                    76
+Nebraska                      80
+Nevada                        73
+New Hampshire                 77
+New Jersey                    83
+New Mexico                    75
 New York                      85
 North Carolina                77
-North Dakota                  79
-Ohio                          83
-Oklahoma                      80
-Oregon                        59
+North Dakota                  77
+Ohio                          79
+Oklahoma                      76
+Oregon                        58
 Pennsylvania                  82
-Rhode Island                  83
-South Carolina                81
-South Dakota                  77
-Tennessee                     80
-Texas                         83
-Utah                          91
-Vermont                       81
-Virginia                      75
-Washington                    73
-West Virginia                 87
-Wisconsin                     78
-Wyoming                       79
+Rhode Island                  82
+South Carolina                77
+South Dakota                  76
+Tennessee                     79
+Texas                         81
+Utah                          89
+Vermont                       80
+Virginia                      73
+Washington                    72
+West Virginia                 85
+Wisconsin                     75
+Wyoming                       75

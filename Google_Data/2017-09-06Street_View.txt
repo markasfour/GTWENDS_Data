@@ -1,0 +1,53 @@
+                      Street View
+geoName                          
+Alabama                        87
+Alaska                         87
+Arizona                        65
+Arkansas                       98
+California                     91
+Colorado                       67
+Connecticut                    92
+Delaware                       91
+District of Columbia           74
+Florida                        77
+Georgia                        71
+Hawaii                         81
+Idaho                          76
+Illinois                       80
+Indiana                        82
+Iowa                           77
+Kansas                         85
+Kentucky                       86
+Louisiana                      96
+Maine                          99
+Maryland                       74
+Massachusetts                  93
+Michigan                       79
+Minnesota                      71
+Mississippi                    77
+Missouri                       87
+Montana                        67
+Nebraska                       76
+Nevada                         69
+New Hampshire                  97
+New Jersey                     85
+New Mexico                     70
+New York                       91
+North Carolina                 79
+North Dakota                   65
+Ohio                           87
+Oklahoma                       76
+Oregon                         65
+Pennsylvania                   95
+Rhode Island                   97
+South Carolina                 91
+South Dakota                   68
+Tennessee                      95
+Texas                          68
+Utah                           70
+Vermont                        95
+Virginia                       66
+Washington                     71
+West Virginia                 100
+Wisconsin                      91
+Wyoming                        79

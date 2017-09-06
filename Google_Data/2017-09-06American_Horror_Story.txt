@@ -1,53 +1,53 @@
                       American Horror Story
 geoName                                    
 Alabama                                  74
-Alaska                                   58
-Arizona                                  75
-Arkansas                                 73
-California                               74
-Colorado                                 68
+Alaska                                   59
+Arizona                                  77
+Arkansas                                 75
+California                               75
+Colorado                                 69
 Connecticut                              74
-Delaware                                 78
+Delaware                                 81
 District of Columbia                     66
 Florida                                  70
-Georgia                                  64
+Georgia                                  65
 Hawaii                                   69
-Idaho                                    63
-Illinois                                 72
-Indiana                                  79
-Iowa                                     73
-Kansas                                   65
-Kentucky                                 89
+Idaho                                    66
+Illinois                                 74
+Indiana                                  80
+Iowa                                     75
+Kansas                                   67
+Kentucky                                 92
 Louisiana                                91
 Maine                                    79
-Maryland                                 67
-Massachusetts                            76
+Maryland                                 70
+Massachusetts                            77
 Michigan                                 74
-Minnesota                                64
+Minnesota                                63
 Mississippi                              70
-Missouri                                 75
-Montana                                  68
-Nebraska                                 73
-Nevada                                   82
-New Hampshire                            76
-New Jersey                               80
-New Mexico                               74
-New York                                 77
-North Carolina                           67
-North Dakota                             71
+Missouri                                 74
+Montana                                  67
+Nebraska                                 75
+Nevada                                   83
+New Hampshire                            77
+New Jersey                               81
+New Mexico                               76
+New York                                 79
+North Carolina                           69
+North Dakota                             73
 Ohio                                     83
-Oklahoma                                 83
-Oregon                                   53
+Oklahoma                                 84
+Oregon                                   52
 Pennsylvania                             88
 Rhode Island                             95
 South Carolina                           70
-South Dakota                             67
-Tennessee                                71
-Texas                                    71
+South Dakota                             66
+Tennessee                                74
+Texas                                    72
 Utah                                     60
-Vermont                                  71
+Vermont                                  75
 Virginia                                 62
-Washington                               64
+Washington                               66
 West Virginia                           100
 Wisconsin                                72
-Wyoming                                  67
+Wyoming                                  68

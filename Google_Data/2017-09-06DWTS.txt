@@ -1,0 +1,53 @@
+                      DWTS
+geoName                   
+Alabama                 77
+Alaska                  58
+Arizona                 72
+Arkansas                75
+California              60
+Colorado                60
+Connecticut             66
+Delaware                79
+District of Columbia    59
+Florida                 61
+Georgia                 62
+Hawaii                  74
+Idaho                   67
+Illinois                73
+Indiana                 75
+Iowa                    81
+Kansas                  54
+Kentucky                78
+Louisiana               65
+Maine                   73
+Maryland                67
+Massachusetts           72
+Michigan                69
+Minnesota               74
+Mississippi             64
+Missouri                59
+Montana                 53
+Nebraska                79
+Nevada                  66
+New Hampshire          100
+New Jersey              83
+New Mexico              74
+New York                62
+North Carolina          69
+North Dakota            66
+Ohio                    78
+Oklahoma                72
+Oregon                  53
+Pennsylvania            89
+Rhode Island            61
+South Carolina          67
+South Dakota            70
+Tennessee               72
+Texas                   56
+Utah                    66
+Vermont                 55
+Virginia                55
+Washington              70
+West Virginia           88
+Wisconsin               82
+Wyoming                 66

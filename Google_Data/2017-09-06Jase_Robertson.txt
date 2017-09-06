@@ -1,53 +1,53 @@
                       Jase Robertson
 geoName                             
-Alabama                           87
-Alaska                            37
+Alabama                           90
+Alaska                            34
 Arizona                           25
-Arkansas                          74
+Arkansas                          80
 California                        15
-Colorado                          25
+Colorado                          28
 Connecticut                       18
-Delaware                          28
-District of Columbia              23
-Florida                           32
-Georgia                           65
-Hawaii                            18
-Idaho                             33
-Illinois                          34
-Indiana                           52
+Delaware                          26
+District of Columbia              18
+Florida                           31
+Georgia                           63
+Hawaii                            17
+Idaho                             31
+Illinois                          33
+Indiana                           53
 Iowa                              46
-Kansas                            50
-Kentucky                          84
-Louisiana                         92
-Maine                             30
-Maryland                          27
-Massachusetts                     20
-Michigan                          37
-Minnesota                         37
+Kansas                            51
+Kentucky                          80
+Louisiana                         88
+Maine                             27
+Maryland                          26
+Massachusetts                     19
+Michigan                          35
+Minnesota                         36
 Mississippi                      100
-Missouri                          63
-Montana                           44
-Nebraska                          44
-Nevada                            26
+Missouri                          64
+Montana                           35
+Nebraska                          45
+Nevada                            20
 New Hampshire                     25
 New Jersey                        17
-New Mexico                        30
-New York                          15
-North Carolina                    56
-North Dakota                      44
-Ohio                              46
+New Mexico                        27
+New York                          16
+North Carolina                    55
+North Dakota                      52
+Ohio                              45
 Oklahoma                          81
-Oregon                            17
-Pennsylvania                      38
+Oregon                            18
+Pennsylvania                      35
 Rhode Island                      14
-South Carolina                    65
-South Dakota                      44
-Tennessee                         85
-Texas                             46
+South Carolina                    61
+South Dakota                      55
+Tennessee                         86
+Texas                             45
 Utah                              31
-Vermont                           22
-Virginia                          33
+Vermont                           21
+Virginia                          32
 Washington                        21
-West Virginia                     80
-Wisconsin                         40
-Wyoming                           42
+West Virginia                     84
+Wisconsin                         39
+Wyoming                           45

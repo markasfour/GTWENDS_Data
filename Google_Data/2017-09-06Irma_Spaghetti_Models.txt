@@ -1,45 +1,47 @@
                       Irma Spaghetti Models
 geoName                                    
-Alabama                                  24
-Arizona                                   4
-Arkansas                                  6
-California                                1
+Alabama                                  25
+Alaska                                   10
+Arizona                                   2
+Arkansas                                  4
+California                                0
 Colorado                                  3
-Connecticut                               9
-Delaware                                 10
-District of Columbia                     16
+Connecticut                              13
+Delaware                                 16
+District of Columbia                     11
 Florida                                 100
-Georgia                                  10
-Idaho                                     4
-Illinois                                  3
-Indiana                                   1
-Iowa                                      2
+Georgia                                  12
+Idaho                                     5
+Illinois                                  2
+Indiana                                   2
+Iowa                                      5
+Kansas                                    2
 Kentucky                                  2
-Louisiana                                60
-Maine                                    14
-Maryland                                 14
-Massachusetts                            11
-Michigan                                  3
+Louisiana                                50
+Maine                                    13
+Maryland                                 11
+Massachusetts                             8
+Michigan                                  2
 Minnesota                                 1
-Mississippi                              29
+Mississippi                              27
 Missouri                                  2
-Nevada                                    2
-New Hampshire                            10
-New Jersey                               14
-New Mexico                                4
+Montana                                   4
+New Hampshire                             6
+New Jersey                               12
+New Mexico                                2
 New York                                  4
-North Carolina                           37
+North Carolina                           31
 Ohio                                      2
-Oklahoma                                  4
+Oklahoma                                  2
 Oregon                                    1
 Pennsylvania                              5
-Rhode Island                             14
-South Carolina                           62
-Tennessee                                 5
-Texas                                     9
+Rhode Island                             11
+South Carolina                           58
+Tennessee                                 6
+Texas                                     7
 Utah                                      2
-Vermont                                   9
-Virginia                                 19
+Vermont                                   5
+Virginia                                 17
 Washington                                1
-West Virginia                             9
-Wisconsin                                 3
+West Virginia                             5
+Wisconsin                                 1

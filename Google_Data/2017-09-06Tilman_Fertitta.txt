@@ -1,51 +1,52 @@
                       Tilman Fertitta
 geoName                              
-Alabama                            14
-Arizona                            11
-Arkansas                           14
-California                         12
+Alabama                            13
+Alaska                             10
+Arizona                            12
+Arkansas                            9
+California                         13
 Colorado                           11
-Connecticut                        12
-Delaware                           11
-District of Columbia               13
-Florida                            16
-Georgia                            11
-Hawaii                             11
-Idaho                              13
+Connecticut                        14
+Delaware                            4
+District of Columbia               12
+Florida                            15
+Georgia                            10
+Hawaii                             12
+Idaho                              11
 Illinois                           12
-Indiana                             8
-Iowa                                8
-Kansas                              7
-Kentucky                            7
-Louisiana                          70
-Maine                               6
+Indiana                             7
+Iowa                                7
+Kansas                              8
+Kentucky                            9
+Louisiana                          67
+Maine                               5
 Maryland                           11
-Massachusetts                       9
-Michigan                            9
-Minnesota                           9
+Massachusetts                      10
+Michigan                           10
+Minnesota                           7
 Mississippi                        43
 Missouri                            7
-Montana                             4
-Nebraska                            5
-Nevada                             57
-New Hampshire                      10
-New Jersey                         24
-New Mexico                          8
+Montana                             9
+Nebraska                            7
+Nevada                             53
+New Hampshire                       9
+New Jersey                         23
+New Mexico                          6
 New York                           16
-North Carolina                     10
-North Dakota                        9
+North Carolina                      8
+North Dakota                       10
 Ohio                                8
-Oklahoma                           22
-Oregon                              9
+Oklahoma                           20
+Oregon                              8
 Pennsylvania                       12
-Rhode Island                       10
-South Carolina                     11
-South Dakota                        4
+Rhode Island                       12
+South Carolina                      9
+South Dakota                       11
 Tennessee                          11
 Texas                             100
-Utah                               10
+Utah                                7
 Vermont                             4
-Virginia                            7
-Washington                          9
-West Virginia                       7
+Virginia                            8
+Washington                          6
+West Virginia                      11
 Wisconsin                           7
