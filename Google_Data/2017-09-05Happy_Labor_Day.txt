@@ -1,53 +1,53 @@
                       Happy Labor Day
 geoName                              
-Alabama                            86
-Alaska                             40
-Arizona                            77
-Arkansas                           52
-California                         67
+Alabama                            84
+Alaska                             29
+Arizona                            73
+Arkansas                           55
+California                         68
 Colorado                           51
-Connecticut                        61
-Delaware                           61
-District of Columbia               64
+Connecticut                        67
+Delaware                           62
+District of Columbia               68
 Florida                           100
-Georgia                            69
-Hawaii                             62
-Idaho                              40
-Illinois                           64
-Indiana                            58
-Iowa                               47
-Kansas                             52
-Kentucky                           67
-Louisiana                          73
-Maine                              41
-Maryland                           63
-Massachusetts                      42
-Michigan                           58
-Minnesota                          47
-Mississippi                        91
-Missouri                           55
-Montana                            31
-Nebraska                           47
-Nevada                             74
-New Hampshire                      55
-New Jersey                         80
-New Mexico                         51
-New York                           72
-North Carolina                     65
-North Dakota                       46
-Ohio                               54
-Oklahoma                           59
-Oregon                             34
-Pennsylvania                       68
-Rhode Island                       33
-South Carolina                     79
-South Dakota                       64
-Tennessee                          67
-Texas                              71
-Utah                               32
-Vermont                            38
-Virginia                           42
-Washington                         40
-West Virginia                      66
-Wisconsin                          48
-Wyoming                            25
+Georgia                            73
+Hawaii                             86
+Idaho                              43
+Illinois                           65
+Indiana                            61
+Iowa                               63
+Kansas                             44
+Kentucky                           80
+Louisiana                          87
+Maine                              31
+Maryland                           69
+Massachusetts                      45
+Michigan                           61
+Minnesota                          38
+Mississippi                        85
+Missouri                           58
+Montana                            24
+Nebraska                           59
+Nevada                             50
+New Hampshire                      50
+New Jersey                         90
+New Mexico                         58
+New York                           75
+North Carolina                     62
+North Dakota                       39
+Ohio                               62
+Oklahoma                           57
+Oregon                             29
+Pennsylvania                       72
+Rhode Island                       43
+South Carolina                     80
+South Dakota                       35
+Tennessee                          75
+Texas                              69
+Utah                               33
+Vermont                            44
+Virginia                           50
+Washington                         44
+West Virginia                      56
+Wisconsin                          52
+Wyoming                            65

@@ -1,0 +1,46 @@
+                      Zello
+geoName                    
+Alabama                  18
+Arizona                  28
+Arkansas                 16
+California               25
+Colorado                 24
+Connecticut              30
+District of Columbia     23
+Florida                  31
+Georgia                  24
+Hawaii                   13
+Idaho                    12
+Illinois                 21
+Indiana                  16
+Iowa                     14
+Kansas                   28
+Kentucky                 17
+Louisiana                20
+Maine                    14
+Maryland                 21
+Massachusetts            19
+Michigan                 20
+Minnesota                15
+Mississippi              17
+Missouri                 17
+Nebraska                 10
+Nevada                   19
+New Hampshire            17
+New Jersey               21
+New Mexico               18
+New York                 40
+North Carolina           20
+Ohio                     16
+Oklahoma                 15
+Oregon                  100
+Pennsylvania             17
+Rhode Island             24
+South Carolina           21
+Tennessee                19
+Texas                    42
+Utah                     14
+Virginia                 27
+Washington               16
+West Virginia            18
+Wisconsin                17

@@ -1,26 +1,26 @@
                       Chick Fil A
 geoName                          
-Alabama                        77
+Alabama                        79
 Alaska                          4
 Arizona                        31
-Arkansas                       50
+Arkansas                       49
 California                     21
 Colorado                       43
 Connecticut                    15
-Delaware                       53
-District of Columbia           64
-Florida                        54
+Delaware                       50
+District of Columbia           66
+Florida                        53
 Georgia                       100
-Hawaii                          8
+Hawaii                          7
 Idaho                          19
 Illinois                       25
 Indiana                        31
-Iowa                           20
+Iowa                           19
 Kansas                         27
-Kentucky                       48
+Kentucky                       47
 Louisiana                      50
 Maine                           8
-Maryland                       66
+Maryland                       64
 Massachusetts                  11
 Michigan                       17
 Minnesota                      16
@@ -29,8 +29,8 @@ Missouri                       35
 Montana                         7
 Nebraska                       26
 Nevada                         25
-New Hampshire                   8
-New Jersey                     21
+New Hampshire                   7
+New Jersey                     22
 New Mexico                     27
 New York                       14
 North Carolina                 70
@@ -38,9 +38,9 @@ North Dakota                    6
 Ohio                           28
 Oklahoma                       53
 Oregon                          8
-Pennsylvania                   35
+Pennsylvania                   36
 Rhode Island                   15
-South Carolina                 82
+South Carolina                 80
 South Dakota                    8
 Tennessee                      68
 Texas                          67
@@ -48,6 +48,6 @@ Utah                           38
 Vermont                         4
 Virginia                       55
 Washington                     14
-West Virginia                  42
+West Virginia                  40
 Wisconsin                      14
-Wyoming                        15
+Wyoming                        16

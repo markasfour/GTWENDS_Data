@@ -1,0 +1,51 @@
+                      Florida Keys
+geoName                           
+Alabama                         14
+Arizona                          7
+Arkansas                        12
+California                       5
+Colorado                        14
+Connecticut                     18
+Delaware                        23
+District of Columbia            15
+Florida                        100
+Georgia                         16
+Hawaii                           5
+Idaho                            8
+Illinois                        15
+Indiana                         18
+Iowa                            16
+Kansas                          12
+Kentucky                        16
+Louisiana                       12
+Maine                           20
+Maryland                        16
+Massachusetts                   15
+Michigan                        19
+Minnesota                       19
+Mississippi                     12
+Missouri                        14
+Montana                         11
+Nebraska                        13
+Nevada                           6
+New Hampshire                   21
+New Jersey                      19
+New Mexico                       8
+New York                        15
+North Carolina                  16
+North Dakota                    16
+Ohio                            18
+Oklahoma                        22
+Oregon                           5
+Pennsylvania                    19
+Rhode Island                    18
+South Carolina                  21
+South Dakota                    16
+Tennessee                       15
+Texas                            9
+Utah                             7
+Vermont                         19
+Virginia                        13
+Washington                       7
+West Virginia                   19
+Wisconsin                       19

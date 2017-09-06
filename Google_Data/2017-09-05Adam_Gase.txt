@@ -1,0 +1,53 @@
+                      Adam Gase
+geoName                        
+Alabama                      19
+Alaska                       14
+Arizona                      33
+Arkansas                     16
+California                   29
+Colorado                    100
+Connecticut                  39
+Delaware                     71
+District of Columbia         58
+Florida                      80
+Georgia                      31
+Hawaii                       20
+Idaho                        23
+Illinois                     70
+Indiana                      35
+Iowa                         46
+Kansas                       22
+Kentucky                     26
+Louisiana                    25
+Maine                        13
+Maryland                     41
+Massachusetts                31
+Michigan                     37
+Minnesota                    35
+Mississippi                  21
+Missouri                     22
+Montana                      27
+Nebraska                     29
+Nevada                       41
+New Hampshire                23
+New Jersey                   51
+New Mexico                   35
+New York                     32
+North Carolina               30
+North Dakota                 30
+Ohio                         59
+Oklahoma                     18
+Oregon                       13
+Pennsylvania                 60
+Rhode Island                 34
+South Carolina               30
+South Dakota                 60
+Tennessee                    27
+Texas                        21
+Utah                         27
+Vermont                      21
+Virginia                     29
+Washington                   27
+West Virginia                40
+Wisconsin                    31
+Wyoming                      38

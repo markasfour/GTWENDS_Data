@@ -1,0 +1,53 @@
+                      Atlantic
+geoName                       
+Alabama                      8
+Alaska                       7
+Arizona                      6
+Arkansas                     6
+California                  10
+Colorado                     7
+Connecticut                 23
+Delaware                    55
+District of Columbia        46
+Florida                     28
+Georgia                     26
+Hawaii                       6
+Idaho                        5
+Illinois                     8
+Indiana                      7
+Iowa                        18
+Kansas                       6
+Kentucky                     8
+Louisiana                    7
+Maine                       34
+Maryland                    35
+Massachusetts               24
+Michigan                     8
+Minnesota                    8
+Mississippi                  7
+Missouri                     7
+Montana                      6
+Nebraska                    10
+Nevada                      10
+New Hampshire               20
+New Jersey                 100
+New Mexico                   6
+New York                    37
+North Carolina              26
+North Dakota                 5
+Ohio                         9
+Oklahoma                     7
+Oregon                       5
+Pennsylvania                39
+Rhode Island                25
+South Carolina              19
+South Dakota                 6
+Tennessee                    9
+Texas                        6
+Utah                         5
+Vermont                     17
+Virginia                    25
+Washington                   7
+West Virginia               14
+Wisconsin                    7
+Wyoming                     11

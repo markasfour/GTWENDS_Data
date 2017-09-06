@@ -1,0 +1,53 @@
+                      NOAA
+geoName                   
+Alabama                 18
+Alaska                 100
+Arizona                 11
+Arkansas                23
+California              10
+Colorado                35
+Connecticut             22
+Delaware                21
+District of Columbia    20
+Florida                 21
+Georgia                 11
+Hawaii                  44
+Idaho                   35
+Illinois                14
+Indiana                 15
+Iowa                    31
+Kansas                  25
+Kentucky                16
+Louisiana               15
+Maine                   61
+Maryland                28
+Massachusetts           20
+Michigan                17
+Minnesota               26
+Mississippi             22
+Missouri                23
+Montana                 74
+Nebraska                32
+Nevada                  13
+New Hampshire           35
+New Jersey              16
+New Mexico              22
+New York                14
+North Carolina          18
+North Dakota            30
+Ohio                    13
+Oklahoma                18
+Oregon                  30
+Pennsylvania            16
+Rhode Island            26
+South Carolina          18
+South Dakota            39
+Tennessee               16
+Texas                   12
+Utah                    17
+Vermont                 71
+Virginia                19
+Washington              29
+West Virginia           28
+Wisconsin               29
+Wyoming                 71

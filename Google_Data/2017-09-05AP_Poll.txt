@@ -1,0 +1,53 @@
+                      AP Poll
+geoName                      
+Alabama                   100
+Alaska                      6
+Arizona                    15
+Arkansas                   32
+California                  9
+Colorado                   14
+Connecticut                 9
+Delaware                    7
+District of Columbia       18
+Florida                    28
+Georgia                    42
+Hawaii                     11
+Idaho                      21
+Illinois                   14
+Indiana                    25
+Iowa                       39
+Kansas                     25
+Kentucky                   45
+Louisiana                  31
+Maine                       4
+Maryland                   12
+Massachusetts               6
+Michigan                   32
+Minnesota                  10
+Mississippi                85
+Missouri                   16
+Montana                     9
+Nebraska                   45
+Nevada                     10
+New Hampshire               4
+New Jersey                  7
+New Mexico                  9
+New York                    7
+North Carolina             27
+North Dakota                9
+Ohio                       37
+Oklahoma                   43
+Oregon                     14
+Pennsylvania               12
+Rhode Island                8
+South Carolina             59
+South Dakota               11
+Tennessee                  42
+Texas                      22
+Utah                       27
+Vermont                     3
+Virginia                   15
+Washington                 14
+West Virginia              40
+Wisconsin                  17
+Wyoming                    11
