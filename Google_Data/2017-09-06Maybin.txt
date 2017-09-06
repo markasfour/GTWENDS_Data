@@ -1,0 +1,45 @@
+                      Maybin
+geoName                     
+Alabama                   23
+Arizona                   12
+Arkansas                   6
+California                20
+Colorado                  11
+Connecticut               16
+Delaware                  17
+District of Columbia      23
+Florida                   13
+Georgia                   33
+Hawaii                    13
+Illinois                  14
+Indiana                   13
+Iowa                      10
+Kansas                    11
+Kentucky                  36
+Louisiana                 11
+Maryland                  28
+Massachusetts             15
+Michigan                 100
+Minnesota                 11
+Mississippi               13
+Missouri                  11
+Nebraska                  10
+Nevada                    13
+New Hampshire              9
+New Jersey                18
+New Mexico                 6
+New York                  18
+North Carolina            36
+Ohio                      18
+Oklahoma                  10
+Oregon                     7
+Pennsylvania              19
+Rhode Island              14
+South Carolina            26
+Tennessee                 60
+Texas                     12
+Utah                       7
+Virginia                  13
+Washington                10
+West Virginia              9
+Wisconsin                 13

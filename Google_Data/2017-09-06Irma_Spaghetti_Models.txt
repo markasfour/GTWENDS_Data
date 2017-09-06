@@ -1,0 +1,45 @@
+                      Irma Spaghetti Models
+geoName                                    
+Alabama                                  24
+Arizona                                   4
+Arkansas                                  6
+California                                1
+Colorado                                  3
+Connecticut                               9
+Delaware                                 10
+District of Columbia                     16
+Florida                                 100
+Georgia                                  10
+Idaho                                     4
+Illinois                                  3
+Indiana                                   1
+Iowa                                      2
+Kentucky                                  2
+Louisiana                                60
+Maine                                    14
+Maryland                                 14
+Massachusetts                            11
+Michigan                                  3
+Minnesota                                 1
+Mississippi                              29
+Missouri                                  2
+Nevada                                    2
+New Hampshire                            10
+New Jersey                               14
+New Mexico                                4
+New York                                  4
+North Carolina                           37
+Ohio                                      2
+Oklahoma                                  4
+Oregon                                    1
+Pennsylvania                              5
+Rhode Island                             14
+South Carolina                           62
+Tennessee                                 5
+Texas                                     9
+Utah                                      2
+Vermont                                   9
+Virginia                                 19
+Washington                                1
+West Virginia                             9
+Wisconsin                                 3

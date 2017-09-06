@@ -1,0 +1,53 @@
+                      the office
+geoName                         
+Alabama                       81
+Alaska                        72
+Arizona                       77
+Arkansas                      82
+California                    80
+Colorado                      78
+Connecticut                   84
+Delaware                      78
+District of Columbia         100
+Florida                       77
+Georgia                       79
+Hawaii                        66
+Idaho                         82
+Illinois                      81
+Indiana                       86
+Iowa                          81
+Kansas                        73
+Kentucky                      84
+Louisiana                     81
+Maine                         78
+Maryland                      89
+Massachusetts                 82
+Michigan                      81
+Minnesota                     76
+Mississippi                   76
+Missouri                      83
+Montana                       74
+Nebraska                      83
+Nevada                        75
+New Hampshire                 79
+New Jersey                    84
+New Mexico                    76
+New York                      85
+North Carolina                77
+North Dakota                  79
+Ohio                          83
+Oklahoma                      80
+Oregon                        59
+Pennsylvania                  82
+Rhode Island                  83
+South Carolina                81
+South Dakota                  77
+Tennessee                     80
+Texas                         83
+Utah                          91
+Vermont                       81
+Virginia                      75
+Washington                    73
+West Virginia                 87
+Wisconsin                     78
+Wyoming                       79

@@ -1,0 +1,53 @@
+                      Aladdin
+geoName                      
+Alabama                    53
+Alaska                     63
+Arizona                    66
+Arkansas                   62
+California                 84
+Colorado                   58
+Connecticut                80
+Delaware                   67
+District of Columbia       63
+Florida                    66
+Georgia                    55
+Hawaii                     67
+Idaho                      79
+Illinois                   73
+Indiana                    67
+Iowa                       63
+Kansas                     66
+Kentucky                   59
+Louisiana                  55
+Maine                      60
+Maryland                   61
+Massachusetts              62
+Michigan                   65
+Minnesota                  58
+Mississippi                64
+Missouri                   70
+Montana                    57
+Nebraska                   62
+Nevada                     76
+New Hampshire              63
+New Jersey                100
+New Mexico                 60
+New York                   99
+North Carolina             52
+North Dakota               72
+Ohio                       73
+Oklahoma                   59
+Oregon                     94
+Pennsylvania               74
+Rhode Island               61
+South Carolina             53
+South Dakota               66
+Tennessee                  59
+Texas                      58
+Utah                       82
+Vermont                    59
+Virginia                   54
+Washington                 79
+West Virginia              66
+Wisconsin                  59
+Wyoming                    66

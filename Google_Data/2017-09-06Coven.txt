@@ -1,0 +1,53 @@
+                      Coven
+geoName                    
+Alabama                  56
+Alaska                   39
+Arizona                  53
+Arkansas                 51
+California               55
+Colorado                 45
+Connecticut              53
+Delaware                 59
+District of Columbia     39
+Florida                  51
+Georgia                  48
+Hawaii                   51
+Idaho                    40
+Illinois                 49
+Indiana                  50
+Iowa                     47
+Kansas                   48
+Kentucky                 65
+Louisiana               100
+Maine                    54
+Maryland                 50
+Massachusetts            54
+Michigan                 47
+Minnesota                46
+Mississippi              66
+Missouri                 50
+Montana                  44
+Nebraska                 42
+Nevada                   60
+New Hampshire            50
+New Jersey               59
+New Mexico               55
+New York                 59
+North Carolina           48
+North Dakota             47
+Ohio                     54
+Oklahoma                 64
+Oregon                   40
+Pennsylvania             61
+Rhode Island             67
+South Carolina           46
+South Dakota             42
+Tennessee                53
+Texas                    51
+Utah                     44
+Vermont                  51
+Virginia                 49
+Washington               49
+West Virginia            72
+Wisconsin                45
+Wyoming                  47

@@ -1,0 +1,53 @@
+                      DACA
+geoName                   
+Alabama                 25
+Alaska                  13
+Arizona                 85
+Arkansas                41
+California             100
+Colorado                56
+Connecticut             41
+Delaware                36
+District of Columbia    79
+Florida                 41
+Georgia                 47
+Hawaii                  20
+Idaho                   38
+Illinois                62
+Indiana                 37
+Iowa                    26
+Kansas                  37
+Kentucky                22
+Louisiana               21
+Maine                   13
+Maryland                44
+Massachusetts           37
+Michigan                25
+Minnesota               29
+Mississippi             19
+Missouri                22
+Montana                 12
+Nebraska                43
+Nevada                  79
+New Hampshire           16
+New Jersey              53
+New Mexico              59
+New York                56
+North Carolina          52
+North Dakota            13
+Ohio                    18
+Oklahoma                37
+Oregon                  52
+Pennsylvania            23
+Rhode Island            31
+South Carolina          33
+South Dakota            15
+Tennessee               33
+Texas                   71
+Utah                    59
+Vermont                 23
+Virginia                43
+Washington              54
+West Virginia           13
+Wisconsin               29
+Wyoming                 26

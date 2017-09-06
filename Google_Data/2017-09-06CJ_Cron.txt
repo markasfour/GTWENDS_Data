@@ -1,0 +1,24 @@
+               CJ Cron
+geoName               
+Arizona             64
+California          64
+Colorado            15
+Connecticut         19
+Florida              9
+Georgia              6
+Illinois            14
+Maryland            12
+Massachusetts       27
+Michigan            15
+Minnesota           21
+Missouri            17
+Nevada              35
+New Jersey          24
+New York            22
+Ohio                13
+Pennsylvania        21
+Texas               12
+Utah               100
+Virginia             9
+Washington          16
+Wisconsin           20
