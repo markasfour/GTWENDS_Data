@@ -1,0 +1,53 @@
+                      generator
+geoName                        
+Alabama                      73
+Alaska                       97
+Arizona                      75
+Arkansas                     86
+California                   66
+Colorado                     77
+Connecticut                  79
+Delaware                     73
+District of Columbia         51
+Florida                      65
+Georgia                      63
+Hawaii                       67
+Idaho                        98
+Illinois                     64
+Indiana                      83
+Iowa                         85
+Kansas                       76
+Kentucky                     74
+Louisiana                    72
+Maine                       100
+Maryland                     77
+Massachusetts                71
+Michigan                     81
+Minnesota                    74
+Mississippi                  65
+Missouri                     75
+Montana                      89
+Nebraska                     78
+Nevada                       71
+New Hampshire                95
+New Jersey                   75
+New Mexico                   79
+New York                     64
+North Carolina               73
+North Dakota                 84
+Ohio                         76
+Oklahoma                     77
+Oregon                       68
+Pennsylvania                 78
+Rhode Island                 82
+South Carolina               73
+South Dakota                 83
+Tennessee                    71
+Texas                        65
+Utah                         88
+Vermont                      96
+Virginia                     68
+Washington                   83
+West Virginia                92
+Wisconsin                    81
+Wyoming                      90

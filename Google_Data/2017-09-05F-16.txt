@@ -1,0 +1,53 @@
+                      F-16
+geoName                   
+Alabama                 42
+Alaska                  75
+Arizona                 65
+Arkansas                29
+California              32
+Colorado                60
+Connecticut             36
+Delaware                31
+District of Columbia    52
+Florida                 32
+Georgia                 31
+Hawaii                  44
+Idaho                   39
+Illinois                22
+Indiana                 28
+Iowa                    27
+Kansas                  37
+Kentucky                24
+Louisiana               25
+Maine                   25
+Maryland                50
+Massachusetts           23
+Michigan                24
+Minnesota               27
+Mississippi             29
+Missouri                34
+Montana                 38
+Nebraska                32
+Nevada                  71
+New Hampshire           49
+New Jersey              24
+New Mexico             100
+New York                20
+North Carolina          26
+North Dakota            54
+Ohio                    38
+Oklahoma                58
+Oregon                  29
+Pennsylvania            22
+Rhode Island            21
+South Carolina          46
+South Dakota            48
+Tennessee               23
+Texas                   39
+Utah                    67
+Vermont                 52
+Virginia                45
+Washington              36
+West Virginia           27
+Wisconsin               30
+Wyoming                 40

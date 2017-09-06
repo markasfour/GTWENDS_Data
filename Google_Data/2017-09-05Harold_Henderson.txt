@@ -1,15 +1,15 @@
                 Harold Henderson
 geoName                         
-California                    21
-Florida                       31
-Georgia                       52
-Illinois                      34
-Massachusetts                 38
-Minnesota                     42
-New Jersey                    40
-New York                      37
+California                    22
+Florida                       44
+Georgia                       53
+Illinois                      24
+Massachusetts                 36
+Minnesota                     55
+New Jersey                    29
+New York                      26
 North Carolina               100
-Ohio                          39
-Pennsylvania                  39
-Texas                         43
-Virginia                      51
+Ohio                          48
+Pennsylvania                  34
+Texas                         40
+Virginia                      50

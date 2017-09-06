@@ -1,53 +1,53 @@
                       Elon Musk
 geoName                        
-Alabama                      34
-Alaska                       45
-Arizona                      57
-Arkansas                     31
+Alabama                      37
+Alaska                       49
+Arizona                      59
+Arkansas                     33
 California                  100
 Colorado                     66
-Connecticut                  67
-Delaware                     50
-District of Columbia         72
-Florida                      50
-Georgia                      40
-Hawaii                       59
-Idaho                        45
-Illinois                     58
+Connecticut                  70
+Delaware                     52
+District of Columbia         73
+Florida                      51
+Georgia                      41
+Hawaii                       60
+Idaho                        46
+Illinois                     59
 Indiana                      48
-Iowa                         44
-Kansas                       37
-Kentucky                     35
-Louisiana                    32
-Maine                        44
-Maryland                     62
-Massachusetts                72
-Michigan                     49
-Minnesota                    55
-Mississippi                  22
-Missouri                     43
-Montana                      56
-Nebraska                     42
+Iowa                         43
+Kansas                       38
+Kentucky                     37
+Louisiana                    31
+Maine                        47
+Maryland                     63
+Massachusetts                74
+Michigan                     50
+Minnesota                    56
+Mississippi                  24
+Missouri                     44
+Montana                      57
+Nebraska                     46
 Nevada                       62
-New Hampshire                60
+New Hampshire                59
 New Jersey                   63
-New Mexico                   45
+New Mexico                   47
 New York                     69
-North Carolina               44
-North Dakota                 43
-Ohio                         46
-Oklahoma                     39
-Oregon                       51
+North Carolina               45
+North Dakota                 41
+Ohio                         47
+Oklahoma                     40
+Oregon                       52
 Pennsylvania                 54
 Rhode Island                 57
 South Carolina               35
-South Dakota                 37
+South Dakota                 35
 Tennessee                    37
-Texas                        45
-Utah                         68
-Vermont                      65
-Virginia                     49
-Washington                   71
-West Virginia                32
+Texas                        46
+Utah                         67
+Vermont                      62
+Virginia                     51
+Washington                   72
+West Virginia                34
 Wisconsin                    44
 Wyoming                      45

@@ -1,53 +1,53 @@
                       Madison Keys
 geoName                           
-Alabama                         51
-Alaska                          17
-Arizona                         32
-Arkansas                        26
-California                      39
-Colorado                        34
-Connecticut                     58
-Delaware                        55
-District of Columbia            66
-Florida                         50
-Georgia                         57
+Alabama                         44
+Alaska                          14
+Arizona                         31
+Arkansas                        25
+California                      34
+Colorado                        30
+Connecticut                     49
+Delaware                        62
+District of Columbia            60
+Florida                         46
+Georgia                         55
 Hawaii                          36
-Idaho                           18
-Illinois                        59
-Indiana                         39
+Idaho                           19
+Illinois                        53
+Indiana                         31
 Iowa                           100
-Kansas                          26
+Kansas                          20
 Kentucky                        32
-Louisiana                       48
-Maine                           27
-Maryland                        66
-Massachusetts                   41
-Michigan                        35
-Minnesota                       30
-Mississippi                     50
-Missouri                        29
-Montana                         24
-Nebraska                        36
-Nevada                          35
-New Hampshire                   31
-New Jersey                      56
-New Mexico                      25
-New York                        59
-North Carolina                  46
-North Dakota                    23
-Ohio                            40
-Oklahoma                        31
+Louisiana                       44
+Maine                           24
+Maryland                        59
+Massachusetts                   37
+Michigan                        33
+Minnesota                       31
+Mississippi                     41
+Missouri                        24
+Montana                         21
+Nebraska                        29
+Nevada                          32
+New Hampshire                   38
+New Jersey                      50
+New Mexico                      24
+New York                        52
+North Carolina                  39
+North Dakota                    17
+Ohio                            36
+Oklahoma                        24
 Oregon                          22
-Pennsylvania                    41
-Rhode Island                    36
-South Carolina                  54
-South Dakota                    33
-Tennessee                       37
-Texas                           33
-Utah                            23
-Vermont                         40
-Virginia                        45
+Pennsylvania                    39
+Rhode Island                    31
+South Carolina                  51
+South Dakota                    22
+Tennessee                       31
+Texas                           31
+Utah                            21
+Vermont                         31
+Virginia                        42
 Washington                      26
-West Virginia                   23
-Wisconsin                       85
-Wyoming                         24
+West Virginia                   26
+Wisconsin                       77
+Wyoming                         17

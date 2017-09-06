@@ -1,0 +1,53 @@
+                      Zeke
+geoName                   
+Alabama                 56
+Alaska                  48
+Arizona                 47
+Arkansas                65
+California              47
+Colorado                46
+Connecticut             55
+Delaware                65
+District of Columbia    63
+Florida                 44
+Georgia                 51
+Hawaii                  47
+Idaho                   48
+Illinois                49
+Indiana                 55
+Iowa                    59
+Kansas                  45
+Kentucky                62
+Louisiana               51
+Maine                   54
+Maryland                65
+Massachusetts           49
+Michigan                55
+Minnesota               44
+Mississippi             70
+Missouri                54
+Montana                 43
+Nebraska                47
+Nevada                  49
+New Hampshire           45
+New Jersey              61
+New Mexico              57
+New York                49
+North Carolina          54
+North Dakota            45
+Ohio                   100
+Oklahoma                60
+Oregon                  37
+Pennsylvania            63
+Rhode Island            54
+South Carolina          54
+South Dakota            49
+Tennessee               73
+Texas                   85
+Utah                    45
+Vermont                 61
+Virginia                45
+Washington              46
+West Virginia           69
+Wisconsin               50
+Wyoming                 40

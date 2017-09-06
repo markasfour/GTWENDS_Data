@@ -1,0 +1,53 @@
+                      Ecuador
+geoName                      
+Alabama                    12
+Alaska                     23
+Arizona                    19
+Arkansas                   16
+California                 24
+Colorado                   23
+Connecticut                70
+Delaware                   21
+District of Columbia       48
+Florida                    55
+Georgia                    22
+Hawaii                     16
+Idaho                      22
+Illinois                   27
+Indiana                    17
+Iowa                       15
+Kansas                     26
+Kentucky                   16
+Louisiana                  16
+Maine                      17
+Maryland                   28
+Massachusetts              31
+Michigan                   17
+Minnesota                  28
+Mississippi                12
+Missouri                   14
+Montana                    20
+Nebraska                   15
+Nevada                     22
+New Hampshire              18
+New Jersey                100
+New Mexico                 24
+New York                   98
+North Carolina             22
+North Dakota               13
+Ohio                       15
+Oklahoma                   17
+Oregon                     58
+Pennsylvania               23
+Rhode Island               21
+South Carolina             17
+South Dakota               14
+Tennessee                  14
+Texas                      24
+Utah                       25
+Vermont                    26
+Virginia                   25
+Washington                 19
+West Virginia              11
+Wisconsin                  18
+Wyoming                    20

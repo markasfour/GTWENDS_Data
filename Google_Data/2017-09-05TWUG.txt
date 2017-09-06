@@ -1,0 +1,17 @@
+                TWUG
+geoName             
+California        23
+Florida           21
+Georgia           31
+Illinois          34
+Maryland          32
+Massachusetts     68
+Michigan         100
+New Jersey        35
+New York          38
+North Carolina    39
+Ohio              53
+Pennsylvania      47
+Texas             18
+Virginia          17
+Washington        47

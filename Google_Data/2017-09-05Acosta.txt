@@ -1,0 +1,53 @@
+                      Acosta
+geoName                     
+Alabama                   34
+Alaska                    22
+Arizona                   69
+Arkansas                  47
+California                72
+Colorado                  47
+Connecticut               56
+Delaware                  41
+District of Columbia      70
+Florida                  100
+Georgia                   55
+Hawaii                    48
+Idaho                     29
+Illinois                  56
+Indiana                   33
+Iowa                      27
+Kansas                    48
+Kentucky                  30
+Louisiana                 61
+Maine                     20
+Maryland                  52
+Massachusetts             47
+Michigan                  35
+Minnesota                 31
+Mississippi               42
+Missouri                  33
+Montana                   22
+Nebraska                  32
+Nevada                    66
+New Hampshire             27
+New Jersey                70
+New Mexico                76
+New York                  71
+North Carolina            49
+North Dakota              23
+Ohio                      29
+Oklahoma                  42
+Oregon                    51
+Pennsylvania              40
+Rhode Island              46
+South Carolina            39
+South Dakota              20
+Tennessee                 35
+Texas                     83
+Utah                      35
+Vermont                   22
+Virginia                  44
+Washington                38
+West Virginia             22
+Wisconsin                 29
+Wyoming                   25

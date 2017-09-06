@@ -1,53 +1,53 @@
                       Federer
 geoName                      
-Alabama                    47
+Alabama                    46
 Alaska                     29
-Arizona                    49
-Arkansas                   36
-California                 81
-Colorado                   51
-Connecticut                89
-Delaware                   73
-District of Columbia       90
-Florida                    68
-Georgia                    62
-Hawaii                     70
-Idaho                      41
-Illinois                   62
-Indiana                    48
-Iowa                       42
-Kansas                     41
-Kentucky                   42
-Louisiana                  45
-Maine                      51
-Maryland                   75
-Massachusetts              82
-Michigan                   53
-Minnesota                  52
-Mississippi                43
-Missouri                   46
-Montana                    43
+Arizona                    48
+Arkansas                   34
+California                 76
+Colorado                   50
+Connecticut                87
+Delaware                   68
+District of Columbia       86
+Florida                    66
+Georgia                    61
+Hawaii                     72
+Idaho                      39
+Illinois                   60
+Indiana                    47
+Iowa                       40
+Kansas                     39
+Kentucky                   41
+Louisiana                  44
+Maine                      49
+Maryland                   72
+Massachusetts              81
+Michigan                   52
+Minnesota                  50
+Mississippi                41
+Missouri                   45
+Montana                    41
 Nebraska                   38
-Nevada                     50
+Nevada                     49
 New Hampshire              54
 New Jersey                100
 New Mexico                 45
-New York                  100
-North Carolina             58
-North Dakota               34
+New York                   96
+North Carolina             57
+North Dakota               33
 Ohio                       52
 Oklahoma                   39
-Oregon                     52
-Pennsylvania               61
-Rhode Island               73
+Oregon                     49
+Pennsylvania               60
+Rhode Island               69
 South Carolina             51
-South Dakota               36
-Tennessee                  44
-Texas                      50
-Utah                       47
-Vermont                    73
-Virginia                   65
-Washington                 60
-West Virginia              35
+South Dakota               38
+Tennessee                  43
+Texas                      49
+Utah                       45
+Vermont                    75
+Virginia                   64
+Washington                 58
+West Virginia              34
 Wisconsin                  43
-Wyoming                    35
+Wyoming                    32

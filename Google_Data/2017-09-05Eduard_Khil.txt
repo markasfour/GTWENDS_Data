@@ -1,53 +1,53 @@
                       Eduard Khil
 geoName                          
-Alabama                        36
-Alaska                         39
-Arizona                        37
-Arkansas                       25
-California                     40
-Colorado                       27
-Connecticut                    34
-Delaware                       20
-District of Columbia           18
-Florida                        33
-Georgia                        32
-Hawaii                         39
-Idaho                          43
-Illinois                       34
-Indiana                        35
-Iowa                           48
-Kansas                         36
-Kentucky                       41
-Louisiana                      36
-Maine                          30
-Maryland                       51
-Massachusetts                  41
-Michigan                       42
-Minnesota                      39
-Mississippi                    19
-Missouri                       26
-Montana                        39
-Nebraska                       36
-Nevada                         37
-New Hampshire                  43
-New Jersey                     44
-New Mexico                     28
-New York                       40
-North Carolina                 31
-North Dakota                   25
-Ohio                           32
-Oklahoma                       32
-Oregon                         37
-Pennsylvania                   41
-Rhode Island                   41
-South Carolina                 22
-South Dakota                   25
-Tennessee                      32
-Texas                          31
-Utah                           29
-Vermont                       100
-Virginia                       38
-Washington                     38
-West Virginia                  49
-Wisconsin                      43
-Wyoming                        50
+Alabama                        55
+Alaska                         99
+Arizona                        55
+Arkansas                       35
+California                     65
+Colorado                       45
+Connecticut                    62
+Delaware                       21
+District of Columbia           41
+Florida                        54
+Georgia                        49
+Hawaii                         36
+Idaho                          79
+Illinois                       63
+Indiana                        61
+Iowa                           54
+Kansas                         53
+Kentucky                       42
+Louisiana                      63
+Maine                         100
+Maryland                       64
+Massachusetts                  62
+Michigan                       58
+Minnesota                      50
+Mississippi                    26
+Missouri                       45
+Montana                        62
+Nebraska                       34
+Nevada                         52
+New Hampshire                  98
+New Jersey                     70
+New Mexico                     33
+New York                       66
+North Carolina                 55
+North Dakota                   77
+Ohio                           57
+Oklahoma                       75
+Oregon                         39
+Pennsylvania                   59
+Rhode Island                   43
+South Carolina                 68
+South Dakota                   52
+Tennessee                      43
+Texas                          50
+Utah                           54
+Vermont                        90
+Virginia                       60
+Washington                     67
+West Virginia                  70
+Wisconsin                      62
+Wyoming                        78

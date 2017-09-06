@@ -1,0 +1,53 @@
+                      Salazar
+geoName                      
+Alabama                    11
+Alaska                     15
+Arizona                    42
+Arkansas                   14
+California                 41
+Colorado                   37
+Connecticut                18
+Delaware                   11
+District of Columbia       24
+Florida                    27
+Georgia                    15
+Hawaii                     19
+Idaho                      16
+Illinois                   22
+Indiana                    16
+Iowa                       13
+Kansas                     19
+Kentucky                   13
+Louisiana                  13
+Maine                       9
+Maryland                   16
+Massachusetts              15
+Michigan                   14
+Minnesota                  14
+Mississippi                11
+Missouri                   14
+Montana                    14
+Nebraska                   15
+Nevada                     31
+New Hampshire              11
+New Jersey                 20
+New Mexico                100
+New York                   21
+North Carolina             13
+North Dakota               14
+Ohio                       23
+Oklahoma                   25
+Oregon                     26
+Pennsylvania               12
+Rhode Island               15
+South Carolina             11
+South Dakota               17
+Tennessee                  13
+Texas                      46
+Utah                       23
+Vermont                    12
+Virginia                   15
+Washington                 21
+West Virginia               9
+Wisconsin                  12
+Wyoming                    16

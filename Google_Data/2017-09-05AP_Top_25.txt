@@ -1,53 +1,53 @@
                       AP Top 25
 geoName                        
-Alabama                      94
-Alaska                       11
-Arizona                      21
+Alabama                      98
+Alaska                        8
+Arizona                      22
 Arkansas                     52
-California                   11
+California                   12
 Colorado                     21
 Connecticut                  11
-Delaware                      9
+Delaware                     10
 District of Columbia         25
-Florida                      29
-Georgia                      48
-Hawaii                       14
-Idaho                        30
+Florida                      30
+Georgia                      49
+Hawaii                       13
+Idaho                        29
 Illinois                     20
 Indiana                      29
 Iowa                         58
 Kansas                       30
-Kentucky                     59
-Louisiana                    36
-Maine                         8
+Kentucky                     61
+Louisiana                    37
+Maine                         9
 Maryland                     15
 Massachusetts                 9
 Michigan                     39
 Minnesota                    16
 Mississippi                 100
-Missouri                     21
-Montana                      13
+Missouri                     22
+Montana                      12
 Nebraska                     70
-Nevada                       15
-New Hampshire                 7
-New Jersey                   11
-New Mexico                   15
+Nevada                       14
+New Hampshire                 6
+New Jersey                   12
+New Mexico                   16
 New York                     10
-North Carolina               35
-North Dakota                 14
+North Carolina               34
+North Dakota                 15
 Ohio                         40
-Oklahoma                     50
+Oklahoma                     52
 Oregon                       18
 Pennsylvania                 18
 Rhode Island                 12
-South Carolina               70
-South Dakota                 17
+South Carolina               67
+South Dakota                 18
 Tennessee                    58
-Texas                        28
+Texas                        29
 Utah                         43
-Vermont                       7
+Vermont                       6
 Virginia                     20
 Washington                   21
-West Virginia                65
-Wisconsin                    27
-Wyoming                      22
+West Virginia                67
+Wisconsin                    26
+Wyoming                      19

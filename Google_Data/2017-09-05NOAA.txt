@@ -9,10 +9,10 @@ Colorado                35
 Connecticut             22
 Delaware                21
 District of Columbia    20
-Florida                 21
+Florida                 22
 Georgia                 11
 Hawaii                  44
-Idaho                   35
+Idaho                   36
 Illinois                14
 Indiana                 15
 Iowa                    31
@@ -25,19 +25,19 @@ Massachusetts           20
 Michigan                17
 Minnesota               26
 Mississippi             22
-Missouri                23
+Missouri                24
 Montana                 74
 Nebraska                32
 Nevada                  13
 New Hampshire           35
 New Jersey              16
-New Mexico              22
+New Mexico              23
 New York                14
 North Carolina          18
 North Dakota            30
 Ohio                    13
-Oklahoma                18
-Oregon                  30
+Oklahoma                19
+Oregon                  29
 Pennsylvania            16
 Rhode Island            26
 South Carolina          18
@@ -45,9 +45,9 @@ South Dakota            39
 Tennessee               16
 Texas                   12
 Utah                    17
-Vermont                 71
+Vermont                 73
 Virginia                19
-Washington              29
+Washington              30
 West Virginia           28
 Wisconsin               29
 Wyoming                 71
