@@ -1,0 +1,53 @@
+                      Prince George
+geoName                            
+Alabama                          12
+Alaska                           24
+Arizona                          11
+Arkansas                         11
+California                       11
+Colorado                         11
+Connecticut                      14
+Delaware                         22
+District of Columbia             72
+Florida                          10
+Georgia                          13
+Hawaii                           14
+Idaho                             9
+Illinois                         11
+Indiana                          11
+Iowa                              9
+Kansas                           11
+Kentucky                         12
+Louisiana                        10
+Maine                            13
+Maryland                         91
+Massachusetts                    14
+Michigan                         10
+Minnesota                        12
+Mississippi                      11
+Missouri                         11
+Montana                          13
+Nebraska                          9
+Nevada                           12
+New Hampshire                    13
+New Jersey                       16
+New Mexico                       10
+New York                         16
+North Carolina                   17
+North Dakota                     10
+Ohio                             11
+Oklahoma                         10
+Oregon                           11
+Pennsylvania                     17
+Rhode Island                     13
+South Carolina                   17
+South Dakota                      7
+Tennessee                        14
+Texas                            10
+Utah                             13
+Vermont                          13
+Virginia                        100
+Washington                       14
+West Virginia                    15
+Wisconsin                        11
+Wyoming                          12

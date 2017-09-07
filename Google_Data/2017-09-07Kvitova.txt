@@ -1,0 +1,53 @@
+                      Kvitova
+geoName                      
+Alabama                    43
+Alaska                     32
+Arizona                    45
+Arkansas                   28
+California                 57
+Colorado                   52
+Connecticut               100
+Delaware                   64
+District of Columbia       64
+Florida                    63
+Georgia                    56
+Hawaii                     55
+Idaho                      36
+Illinois                   51
+Indiana                    43
+Iowa                       37
+Kansas                     37
+Kentucky                   47
+Louisiana                  43
+Maine                      46
+Maryland                   61
+Massachusetts              60
+Michigan                   44
+Minnesota                  45
+Mississippi                37
+Missouri                   38
+Montana                    36
+Nebraska                   45
+Nevada                     52
+New Hampshire              69
+New Jersey                 81
+New Mexico                 41
+New York                   77
+North Carolina             50
+North Dakota               28
+Ohio                       46
+Oklahoma                   41
+Oregon                     40
+Pennsylvania               55
+Rhode Island               68
+South Carolina             51
+South Dakota               54
+Tennessee                  39
+Texas                      43
+Utah                       29
+Vermont                    52
+Virginia                   55
+Washington                 42
+West Virginia              42
+Wisconsin                  50
+Wyoming                    42

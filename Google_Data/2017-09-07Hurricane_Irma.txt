@@ -1,0 +1,53 @@
+                      Hurricane Irma
+geoName                             
+Alabama                           28
+Alaska                             7
+Arizona                            8
+Arkansas                          14
+California                         5
+Colorado                          10
+Connecticut                       17
+Delaware                          29
+District of Columbia              17
+Florida                          100
+Georgia                           24
+Hawaii                             5
+Idaho                              6
+Illinois                           9
+Indiana                           13
+Iowa                               9
+Kansas                             8
+Kentucky                          14
+Louisiana                         29
+Maine                             16
+Maryland                          18
+Massachusetts                     12
+Michigan                          10
+Minnesota                          7
+Mississippi                       28
+Missouri                          10
+Montana                            7
+Nebraska                           8
+Nevada                             8
+New Hampshire                     14
+New Jersey                        18
+New Mexico                        11
+New York                          12
+North Carolina                    36
+North Dakota                       7
+Ohio                              13
+Oklahoma                          10
+Oregon                             5
+Pennsylvania                      15
+Rhode Island                      22
+South Carolina                    51
+South Dakota                       8
+Tennessee                         18
+Texas                             18
+Utah                               8
+Vermont                           13
+Virginia                          19
+Washington                         6
+West Virginia                     17
+Wisconsin                          8
+Wyoming                            8

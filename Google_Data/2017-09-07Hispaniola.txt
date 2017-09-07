@@ -1,0 +1,48 @@
+                      Hispaniola
+geoName                         
+Alabama                       52
+Arizona                       43
+Arkansas                      48
+California                    45
+Colorado                      57
+Connecticut                   73
+Delaware                      70
+District of Columbia          67
+Florida                       77
+Georgia                       63
+Hawaii                        42
+Idaho                         52
+Illinois                      53
+Indiana                       57
+Iowa                          66
+Kansas                        53
+Kentucky                      50
+Louisiana                     71
+Maine                         59
+Maryland                      66
+Massachusetts                 78
+Michigan                      48
+Minnesota                     71
+Mississippi                   58
+Missouri                      50
+Nebraska                      68
+Nevada                        51
+New Hampshire                 85
+New Jersey                    78
+New Mexico                    54
+New York                      79
+North Carolina                54
+Ohio                          46
+Oklahoma                      48
+Oregon                        34
+Pennsylvania                  58
+Rhode Island                 100
+South Carolina                58
+Tennessee                     52
+Texas                         51
+Utah                          57
+Vermont                       85
+Virginia                      50
+Washington                    46
+West Virginia                 39
+Wisconsin                     63

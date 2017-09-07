@@ -1,0 +1,53 @@
+                      Turnpike
+geoName                       
+Alabama                      4
+Alaska                       2
+Arizona                      3
+Arkansas                     9
+California                   3
+Colorado                     6
+Connecticut                100
+Delaware                    36
+District of Columbia        49
+Florida                     33
+Georgia                      9
+Hawaii                       1
+Idaho                        3
+Illinois                     8
+Indiana                      6
+Iowa                         5
+Kansas                      25
+Kentucky                    15
+Louisiana                    6
+Maine                       72
+Maryland                    18
+Massachusetts               42
+Michigan                    12
+Minnesota                    6
+Mississippi                  4
+Missouri                    12
+Montana                      5
+Nebraska                     7
+Nevada                       3
+New Hampshire               37
+New Jersey                  78
+New Mexico                   4
+New York                    60
+North Carolina               8
+North Dakota                 7
+Ohio                        28
+Oklahoma                    54
+Oregon                       2
+Pennsylvania                78
+Rhode Island                27
+South Carolina               7
+South Dakota                 4
+Tennessee                    8
+Texas                       11
+Utah                         3
+Vermont                     15
+Virginia                    45
+Washington                   3
+West Virginia               54
+Wisconsin                    5
+Wyoming                      5
