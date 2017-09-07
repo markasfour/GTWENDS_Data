@@ -1,51 +1,51 @@
                       Mexico Vs Costa Rica
 geoName                                   
 Alabama                                 17
-Alaska                                  14
-Arizona                                 64
-Arkansas                                27
-California                              97
-Colorado                                45
-Connecticut                             25
-Delaware                                22
-District of Columbia                    39
-Florida                                 53
-Georgia                                 49
-Hawaii                                  10
-Idaho                                   27
-Illinois                                54
-Indiana                                 22
-Iowa                                    19
-Kansas                                  30
+Alaska                                  15
+Arizona                                 63
+Arkansas                                30
+California                              95
+Colorado                                44
+Connecticut                             24
+Delaware                                19
+District of Columbia                    40
+Florida                                 52
+Georgia                                 50
+Hawaii                                  11
+Idaho                                   28
+Illinois                                55
+Indiana                                 21
+Iowa                                    21
+Kansas                                  31
 Kentucky                                17
-Louisiana                               20
+Louisiana                               19
 Maryland                                26
 Massachusetts                           18
 Michigan                                19
-Minnesota                               27
-Mississippi                             20
-Missouri                                21
-Montana                                 11
+Minnesota                               28
+Mississippi                             19
+Missouri                                20
+Montana                                  9
 Nebraska                                27
-Nevada                                  69
+Nevada                                  71
 New Hampshire                            5
 New Jersey                              47
-New Mexico                              49
-New York                                37
+New Mexico                              52
+New York                                38
 North Carolina                          39
-North Dakota                             7
+North Dakota                             8
 Ohio                                    12
-Oklahoma                                31
-Oregon                                  34
+Oklahoma                                30
+Oregon                                  33
 Pennsylvania                            15
-Rhode Island                            15
+Rhode Island                            16
 South Carolina                          34
-South Dakota                             9
-Tennessee                               21
+South Dakota                            12
+Tennessee                               22
 Texas                                  100
-Utah                                    37
-Virginia                                22
-Washington                              37
+Utah                                    38
+Virginia                                23
+Washington                              38
 West Virginia                            6
 Wisconsin                               21
-Wyoming                                 13
+Wyoming                                 18

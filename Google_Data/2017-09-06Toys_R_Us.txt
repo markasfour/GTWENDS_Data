@@ -1,0 +1,53 @@
+                      Toys R Us
+geoName                        
+Alabama                      60
+Alaska                       39
+Arizona                      50
+Arkansas                     48
+California                   61
+Colorado                     41
+Connecticut                  71
+Delaware                     78
+District of Columbia         59
+Florida                      61
+Georgia                      60
+Hawaii                       45
+Idaho                        43
+Illinois                     67
+Indiana                      59
+Iowa                         52
+Kansas                       46
+Kentucky                     72
+Louisiana                    69
+Maine                        45
+Maryland                     65
+Massachusetts                66
+Michigan                     68
+Minnesota                    43
+Mississippi                  61
+Missouri                     60
+Montana                      25
+Nebraska                     51
+Nevada                       57
+New Hampshire                67
+New Jersey                  100
+New Mexico                   41
+New York                     86
+North Carolina               53
+North Dakota                 35
+Ohio                         75
+Oklahoma                     57
+Oregon                       32
+Pennsylvania                 81
+Rhode Island                 74
+South Carolina               56
+South Dakota                 48
+Tennessee                    60
+Texas                        59
+Utah                         49
+Vermont                      49
+Virginia                     52
+Washington                   45
+West Virginia                84
+Wisconsin                    53
+Wyoming                      26

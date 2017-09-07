@@ -1,0 +1,40 @@
+                      St. Thomas
+geoName                         
+Alabama                       15
+Arizona                       15
+Arkansas                      12
+California                     9
+Colorado                      16
+Connecticut                   26
+District of Columbia          24
+Florida                       29
+Georgia                       18
+Illinois                      21
+Indiana                       20
+Iowa                          22
+Kansas                        23
+Kentucky                      20
+Louisiana                     30
+Maryland                      21
+Massachusetts                 20
+Michigan                      19
+Minnesota                    100
+Mississippi                   15
+Missouri                      32
+Nebraska                      18
+Nevada                        13
+New Hampshire                 27
+New Jersey                    19
+New York                      19
+North Carolina                15
+Ohio                          19
+Oklahoma                      18
+Oregon                         9
+Pennsylvania                  21
+South Carolina                15
+Tennessee                     37
+Texas                         18
+Utah                          12
+Virginia                      16
+Washington                    10
+Wisconsin                     25

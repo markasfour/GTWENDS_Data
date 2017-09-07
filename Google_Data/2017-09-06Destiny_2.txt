@@ -1,53 +1,53 @@
                       Destiny 2
 geoName                        
-Alabama                      73
-Alaska                       97
-Arizona                      75
-Arkansas                     83
-California                   62
-Colorado                     70
-Connecticut                  64
-Delaware                     66
-District of Columbia         41
-Florida                      65
-Georgia                      59
-Hawaii                       66
-Idaho                        88
-Illinois                     56
+Alabama                      72
+Alaska                       95
+Arizona                      73
+Arkansas                     84
+California                   61
+Colorado                     68
+Connecticut                  61
+Delaware                     65
+District of Columbia         40
+Florida                      64
+Georgia                      58
+Hawaii                       63
+Idaho                        89
+Illinois                     54
 Indiana                      81
-Iowa                         71
-Kansas                       66
-Kentucky                     78
-Louisiana                    65
-Maine                        63
-Maryland                     64
+Iowa                         73
+Kansas                       64
+Kentucky                     75
+Louisiana                    64
+Maine                        64
+Maryland                     62
 Massachusetts                49
-Michigan                     69
-Minnesota                    70
-Mississippi                  59
-Missouri                     69
-Montana                      78
-Nebraska                     76
-Nevada                       83
+Michigan                     68
+Minnesota                    69
+Mississippi                  55
+Missouri                     68
+Montana                      68
+Nebraska                     73
+Nevada                       78
 New Hampshire                70
-New Jersey                   57
-New Mexico                   66
-New York                     49
-North Carolina               68
-North Dakota                 92
+New Jersey                   55
+New Mexico                   71
+New York                     48
+North Carolina               66
+North Dakota                 83
 Ohio                         73
-Oklahoma                     73
-Oregon                       60
-Pennsylvania                 65
+Oklahoma                     70
+Oregon                       58
+Pennsylvania                 64
 Rhode Island                 66
-South Carolina               68
-South Dakota                 90
-Tennessee                    73
-Texas                        63
+South Carolina               67
+South Dakota                 79
+Tennessee                    72
+Texas                        62
 Utah                        100
-Vermont                      62
-Virginia                     56
-Washington                   81
-West Virginia                88
-Wisconsin                    64
-Wyoming                      93
+Vermont                      55
+Virginia                     55
+Washington                   80
+West Virginia                91
+Wisconsin                    63
+Wyoming                      95

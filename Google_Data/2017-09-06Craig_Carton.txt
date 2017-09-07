@@ -1,20 +1,40 @@
                       Craig Carton
 geoName                           
+Alabama                          2
+Arizona                          1
 California                       2
 Colorado                         3
-Connecticut                     65
-District of Columbia            15
-Florida                          5
-Georgia                          3
-Illinois                         3
-Maryland                         6
+Connecticut                     67
+Delaware                        14
+District of Columbia            11
+Florida                          3
+Georgia                          2
+Illinois                         4
+Indiana                          2
+Iowa                             1
+Kansas                           1
+Kentucky                         5
+Louisiana                        1
+Maine                            6
+Maryland                         8
 Massachusetts                   15
-New Hampshire                    5
+Michigan                         2
+Minnesota                        2
+Missouri                         3
+Nebraska                         3
+Nevada                           4
+New Hampshire                    3
 New Jersey                     100
-New York                        71
+New York                        74
 North Carolina                   3
 Ohio                             3
-Pennsylvania                    15
-Rhode Island                     9
+Oregon                           1
+Pennsylvania                    16
+Rhode Island                     7
+South Carolina                   3
+Tennessee                        3
 Texas                            2
+Vermont                          6
 Virginia                         4
+Washington                       1
+Wisconsin                        3

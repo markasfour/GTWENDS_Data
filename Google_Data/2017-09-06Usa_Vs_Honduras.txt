@@ -1,53 +1,53 @@
                       Usa Vs Honduras
 geoName                              
-Alabama                            34
+Alabama                            35
 Alaska                             11
-Arizona                            48
-Arkansas                           22
-California                         90
-Colorado                           49
-Connecticut                        37
-Delaware                           36
-District of Columbia               66
+Arizona                            52
+Arkansas                           28
+California                         91
+Colorado                           54
+Connecticut                        44
+Delaware                           25
+District of Columbia               64
 Florida                            78
-Georgia                            56
+Georgia                            59
 Hawaii                             24
-Idaho                              36
-Illinois                           40
-Indiana                            26
+Idaho                              33
+Illinois                           43
+Indiana                            33
 Iowa                               39
 Kansas                             34
-Kentucky                           21
-Louisiana                          59
-Maine                               6
-Maryland                           77
-Massachusetts                      31
-Michigan                           25
-Minnesota                          32
-Mississippi                        22
-Missouri                           34
-Montana                            21
-Nebraska                           46
-Nevada                             60
-New Hampshire                      22
-New Jersey                         71
-New Mexico                         28
-New York                           53
-North Carolina                     57
-North Dakota                       20
-Ohio                               25
-Oklahoma                           37
-Oregon                             33
-Pennsylvania                       28
-Rhode Island                       34
-South Carolina                     44
+Kentucky                           27
+Louisiana                          58
+Maine                              13
+Maryland                           76
+Massachusetts                      35
+Michigan                           28
+Minnesota                          30
+Mississippi                        36
+Missouri                           36
+Montana                            19
+Nebraska                           45
+Nevada                             65
+New Hampshire                      17
+New Jersey                         78
+New Mexico                         34
+New York                           56
+North Carolina                     62
+North Dakota                       32
+Ohio                               26
+Oklahoma                           43
+Oregon                             35
+Pennsylvania                       31
+Rhode Island                       37
+South Carolina                     56
 South Dakota                       17
 Tennessee                          41
 Texas                             100
 Utah                               98
-Vermont                            31
-Virginia                           62
-Washington                         47
-West Virginia                      23
-Wisconsin                          27
-Wyoming                            21
+Vermont                            20
+Virginia                           69
+Washington                         41
+West Virginia                       9
+Wisconsin                          26
+Wyoming                            22

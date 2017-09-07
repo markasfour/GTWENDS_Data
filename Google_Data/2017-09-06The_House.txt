@@ -1,0 +1,53 @@
+                      The House
+geoName                        
+Alabama                      93
+Alaska                       71
+Arizona                      76
+Arkansas                     88
+California                   76
+Colorado                     80
+Connecticut                  87
+Delaware                     90
+District of Columbia         92
+Florida                      81
+Georgia                      88
+Hawaii                       67
+Idaho                        79
+Illinois                     85
+Indiana                      90
+Iowa                         84
+Kansas                       75
+Kentucky                     97
+Louisiana                    92
+Maine                        94
+Maryland                     86
+Massachusetts                88
+Michigan                     86
+Minnesota                    81
+Mississippi                  92
+Missouri                     93
+Montana                      72
+Nebraska                     78
+Nevada                       77
+New Hampshire                95
+New Jersey                   88
+New Mexico                   72
+New York                     80
+North Carolina               89
+North Dakota                 71
+Ohio                         94
+Oklahoma                     83
+Oregon                       59
+Pennsylvania                 85
+Rhode Island                 95
+South Carolina              100
+South Dakota                 78
+Tennessee                    91
+Texas                        76
+Utah                         75
+Vermont                      98
+Virginia                     75
+Washington                   71
+West Virginia                91
+Wisconsin                    90
+Wyoming                      75

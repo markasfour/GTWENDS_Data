@@ -1,0 +1,53 @@
+                      Weather.com
+geoName                          
+Alabama                        41
+Alaska                         13
+Arizona                        20
+Arkansas                       43
+California                     19
+Colorado                       31
+Connecticut                    64
+Delaware                       63
+District of Columbia           38
+Florida                        31
+Georgia                        40
+Hawaii                         10
+Idaho                          28
+Illinois                       41
+Indiana                        40
+Iowa                           47
+Kansas                         42
+Kentucky                       40
+Louisiana                      34
+Maine                          88
+Maryland                       55
+Massachusetts                  60
+Michigan                       44
+Minnesota                      49
+Mississippi                    41
+Missouri                       44
+Montana                        44
+Nebraska                       50
+Nevada                         17
+New Hampshire                  84
+New Jersey                     55
+New Mexico                     29
+New York                       43
+North Carolina                 51
+North Dakota                   45
+Ohio                           48
+Oklahoma                       25
+Oregon                         20
+Pennsylvania                   52
+Rhode Island                   45
+South Carolina                 47
+South Dakota                   54
+Tennessee                      42
+Texas                          25
+Utah                           20
+Vermont                       100
+Virginia                       48
+Washington                     21
+West Virginia                  58
+Wisconsin                      55
+Wyoming                        54

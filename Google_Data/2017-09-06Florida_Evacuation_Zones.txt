@@ -1,0 +1,40 @@
+                      Florida Evacuation Zones
+geoName                                       
+Alabama                                      9
+Arizona                                      4
+Arkansas                                     6
+California                                   3
+Colorado                                     7
+Connecticut                                 12
+District of Columbia                         9
+Florida                                    100
+Georgia                                     11
+Illinois                                     7
+Indiana                                      8
+Iowa                                         3
+Kansas                                       3
+Kentucky                                     5
+Louisiana                                    3
+Maine                                       10
+Maryland                                    11
+Massachusetts                                8
+Michigan                                     8
+Minnesota                                    2
+Mississippi                                  3
+Missouri                                     3
+New Hampshire                                7
+New Jersey                                   7
+New York                                     9
+North Carolina                               6
+Ohio                                         6
+Oklahoma                                     4
+Oregon                                       3
+Pennsylvania                                 8
+Rhode Island                                 9
+South Carolina                               8
+Tennessee                                    5
+Texas                                        4
+Utah                                         6
+Virginia                                     3
+Washington                                   5
+Wisconsin                                    7

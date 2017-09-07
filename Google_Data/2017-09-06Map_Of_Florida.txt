@@ -1,0 +1,53 @@
+                      Map Of Florida
+geoName                             
+Alabama                           23
+Alaska                            11
+Arizona                            8
+Arkansas                          15
+California                         5
+Colorado                          13
+Connecticut                       24
+Delaware                          20
+District of Columbia              13
+Florida                          100
+Georgia                           25
+Hawaii                             7
+Idaho                              8
+Illinois                          17
+Indiana                           26
+Iowa                              19
+Kansas                            12
+Kentucky                          27
+Louisiana                         15
+Maine                             28
+Maryland                          16
+Massachusetts                     19
+Michigan                          23
+Minnesota                         18
+Mississippi                       17
+Missouri                          19
+Montana                           10
+Nebraska                          12
+Nevada                             8
+New Hampshire                     27
+New Jersey                        19
+New Mexico                         9
+New York                          16
+North Carolina                    16
+North Dakota                      15
+Ohio                              25
+Oklahoma                          17
+Oregon                             5
+Pennsylvania                      18
+Rhode Island                      24
+South Carolina                    21
+South Dakota                      14
+Tennessee                         23
+Texas                              9
+Utah                               8
+Vermont                           22
+Virginia                          12
+Washington                         6
+West Virginia                     20
+Wisconsin                         20
+Wyoming                           10
