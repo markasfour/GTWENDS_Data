@@ -1,48 +1,48 @@
                       Sanaa Lathan
 geoName                           
-Alabama                         70
-Arizona                         28
-Arkansas                        42
-California                      34
-Colorado                        23
-Connecticut                     36
-Delaware                        73
-District of Columbia            89
-Florida                         51
+Alabama                         74
+Arizona                         29
+Arkansas                        43
+California                      35
+Colorado                        22
+Connecticut                     38
+Delaware                        79
+District of Columbia            96
+Florida                         52
 Georgia                        100
-Hawaii                          25
-Idaho                           11
+Hawaii                          26
+Idaho                           10
 Illinois                        54
-Indiana                         32
-Iowa                            20
-Kansas                          31
-Kentucky                        36
-Louisiana                       79
-Maine                            8
-Maryland                        90
-Massachusetts                   30
-Michigan                        51
+Indiana                         35
+Iowa                            19
+Kansas                          29
+Kentucky                        39
+Louisiana                       80
+Maine                           10
+Maryland                        92
+Massachusetts                   32
+Michigan                        56
 Minnesota                       25
-Mississippi                     95
+Mississippi                     96
 Missouri                        45
 Nebraska                        26
-Nevada                          39
-New Hampshire                   12
+Nevada                          40
+New Hampshire                   13
 New Jersey                      55
 New Mexico                      29
-New York                        59
-North Carolina                  67
+New York                        61
+North Carolina                  70
 Ohio                            38
 Oklahoma                        34
 Oregon                          12
-Pennsylvania                    44
-Rhode Island                    33
+Pennsylvania                    46
+Rhode Island                    28
 South Carolina                  68
-Tennessee                       51
-Texas                           51
-Utah                            12
+Tennessee                       53
+Texas                           53
+Utah                            11
 Vermont                         13
-Virginia                        59
-Washington                      20
-West Virginia                   24
+Virginia                        60
+Washington                      21
+West Virginia                   22
 Wisconsin                       23

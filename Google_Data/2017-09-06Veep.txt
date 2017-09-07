@@ -1,0 +1,53 @@
+                      Veep
+geoName                   
+Alabama                 27
+Alaska                  33
+Arizona                 32
+Arkansas                27
+California              44
+Colorado                35
+Connecticut             55
+Delaware                45
+District of Columbia   100
+Florida                 29
+Georgia                 28
+Hawaii                  25
+Idaho                   23
+Illinois                48
+Indiana                 37
+Iowa                    33
+Kansas                  27
+Kentucky                29
+Louisiana               33
+Maine                   47
+Maryland                66
+Massachusetts           66
+Michigan                33
+Minnesota               40
+Mississippi             19
+Missouri                31
+Montana                 36
+Nebraska                29
+Nevada                  30
+New Hampshire           46
+New Jersey              48
+New Mexico              27
+New York                64
+North Carolina          32
+North Dakota            30
+Ohio                    35
+Oklahoma                28
+Oregon                  33
+Pennsylvania            47
+Rhode Island            55
+South Carolina          28
+South Dakota            23
+Tennessee               30
+Texas                   29
+Utah                    27
+Vermont                 67
+Virginia                43
+Washington              42
+West Virginia           27
+Wisconsin               32
+Wyoming                 23

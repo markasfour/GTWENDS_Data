@@ -1,53 +1,53 @@
                       Katia
 geoName                    
-Alabama                  48
-Alaska                   61
-Arizona                  60
-Arkansas                 39
+Alabama                  46
+Alaska                   58
+Arizona                  56
+Arkansas                 47
 California               82
-Colorado                 62
-Connecticut              81
-Delaware                 61
-District of Columbia     73
-Florida                  89
-Georgia                  66
-Hawaii                   54
-Idaho                    52
-Illinois                 60
-Indiana                  50
-Iowa                     49
-Kansas                   53
-Kentucky                 47
-Louisiana                55
-Maine                    63
-Maryland                 77
-Massachusetts            92
-Michigan                 53
-Minnesota                59
-Mississippi              42
-Missouri                 51
-Montana                  47
-Nebraska                 40
-Nevada                   87
-New Hampshire            62
-New Jersey               80
-New Mexico               52
+Colorado                 65
+Connecticut              86
+Delaware                 65
+District of Columbia     82
+Florida                  91
+Georgia                  67
+Hawaii                   60
+Idaho                    53
+Illinois                 62
+Indiana                  53
+Iowa                     53
+Kansas                   57
+Kentucky                 50
+Louisiana                53
+Maine                    70
+Maryland                 78
+Massachusetts            90
+Michigan                 56
+Minnesota                60
+Mississippi              44
+Missouri                 47
+Montana                  53
+Nebraska                 46
+Nevada                   92
+New Hampshire            58
+New Jersey               85
+New Mexico               62
 New York                100
-North Carolina           58
-North Dakota             50
+North Carolina           55
+North Dakota             48
 Ohio                     56
-Oklahoma                 49
-Oregon                   77
-Pennsylvania             63
-Rhode Island             77
-South Carolina           52
-South Dakota             47
-Tennessee                52
-Texas                    70
-Utah                     56
-Vermont                  65
+Oklahoma                 53
+Oregon                   79
+Pennsylvania             67
+Rhode Island             79
+South Carolina           51
+South Dakota             36
+Tennessee                50
+Texas                    71
+Utah                     57
+Vermont                  59
 Virginia                 69
-Washington               62
+Washington               64
 West Virginia            46
-Wisconsin                52
-Wyoming                  48
+Wisconsin                51
+Wyoming                  54

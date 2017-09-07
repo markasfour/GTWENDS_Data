@@ -1,0 +1,53 @@
+                      MasterChef
+geoName                         
+Alabama                       48
+Alaska                        68
+Arizona                       84
+Arkansas                      55
+California                    97
+Colorado                      73
+Connecticut                   78
+Delaware                      74
+District of Columbia          62
+Florida                       68
+Georgia                       59
+Hawaii                       100
+Idaho                         73
+Illinois                      73
+Indiana                       68
+Iowa                          59
+Kansas                        60
+Kentucky                      59
+Louisiana                     58
+Maine                         85
+Maryland                      82
+Massachusetts                 88
+Michigan                      70
+Minnesota                     75
+Mississippi                   48
+Missouri                      65
+Montana                       62
+Nebraska                      55
+Nevada                        88
+New Hampshire                 70
+New Jersey                    87
+New Mexico                    63
+New York                      87
+North Carolina                61
+North Dakota                  52
+Ohio                          67
+Oklahoma                      64
+Oregon                        81
+Pennsylvania                  71
+Rhode Island                  69
+South Carolina                56
+South Dakota                  50
+Tennessee                     57
+Texas                         67
+Utah                          76
+Vermont                       78
+Virginia                      73
+Washington                    98
+West Virginia                 51
+Wisconsin                     81
+Wyoming                       55

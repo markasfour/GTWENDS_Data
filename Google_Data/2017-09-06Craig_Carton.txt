@@ -1,40 +1,48 @@
                       Craig Carton
 geoName                           
 Alabama                          2
-Arizona                          1
+Arizona                          2
+Arkansas                         2
 California                       2
 Colorado                         3
-Connecticut                     67
-Delaware                        14
-District of Columbia            11
-Florida                          3
+Connecticut                     57
+Delaware                        11
+District of Columbia            13
+Florida                          4
 Georgia                          2
-Illinois                         4
-Indiana                          2
-Iowa                             1
+Hawaii                           2
+Idaho                            5
+Illinois                         3
+Indiana                          1
+Iowa                             2
 Kansas                           1
 Kentucky                         5
-Louisiana                        1
-Maine                            6
+Louisiana                        2
+Maine                            3
 Maryland                         8
-Massachusetts                   15
+Massachusetts                   16
 Michigan                         2
 Minnesota                        2
-Missouri                         3
+Mississippi                      2
+Missouri                         4
 Nebraska                         3
-Nevada                           4
-New Hampshire                    3
+Nevada                           3
+New Hampshire                    7
 New Jersey                     100
-New York                        74
-North Carolina                   3
-Ohio                             3
+New Mexico                       2
+New York                        71
+North Carolina                   2
+Ohio                             2
+Oklahoma                         1
 Oregon                           1
-Pennsylvania                    16
-Rhode Island                     7
-South Carolina                   3
+Pennsylvania                    15
+Rhode Island                     4
+South Carolina                   5
 Tennessee                        3
-Texas                            2
-Vermont                          6
+Texas                            1
+Utah                             2
+Vermont                          4
 Virginia                         4
 Washington                       1
+West Virginia                    1
 Wisconsin                        3

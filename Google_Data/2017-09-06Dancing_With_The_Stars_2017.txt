@@ -1,53 +1,53 @@
                       Dancing With The Stars 2017
 geoName                                          
-Alabama                                        70
-Alaska                                         30
-Arizona                                        67
-Arkansas                                       74
-California                                     43
-Colorado                                       53
-Connecticut                                    65
-Delaware                                       88
-District of Columbia                           37
-Florida                                        62
-Georgia                                        53
-Hawaii                                         43
-Idaho                                          63
-Illinois                                       89
-Indiana                                        91
-Iowa                                           92
-Kansas                                         55
-Kentucky                                       68
-Louisiana                                      55
+Alabama                                        76
+Alaska                                         25
+Arizona                                        70
+Arkansas                                       83
+California                                     46
+Colorado                                       54
+Connecticut                                    69
+Delaware                                       89
+District of Columbia                           39
+Florida                                        65
+Georgia                                        56
+Hawaii                                         46
+Idaho                                          65
+Illinois                                       93
+Indiana                                        96
+Iowa                                           96
+Kansas                                         60
+Kentucky                                       67
+Louisiana                                      58
 Maine                                          74
-Maryland                                       50
-Massachusetts                                  57
-Michigan                                       70
-Minnesota                                      63
-Mississippi                                    65
+Maryland                                       51
+Massachusetts                                  62
+Michigan                                       71
+Minnesota                                      64
+Mississippi                                    71
 Missouri                                       63
-Montana                                        59
-Nebraska                                      100
-Nevada                                         57
-New Hampshire                                  87
-New Jersey                                     71
-New Mexico                                     62
-New York                                       49
-North Carolina                                 66
-North Dakota                                   64
-Ohio                                           83
+Montana                                        64
+Nebraska                                       96
+Nevada                                         56
+New Hampshire                                 100
+New Jersey                                     78
+New Mexico                                     64
+New York                                       52
+North Carolina                                 67
+North Dakota                                   77
+Ohio                                           85
 Oklahoma                                       55
-Oregon                                         41
-Pennsylvania                                   80
-Rhode Island                                   57
-South Carolina                                 62
-South Dakota                                   92
-Tennessee                                      71
-Texas                                          49
-Utah                                           60
-Vermont                                        43
-Virginia                                       43
-Washington                                     43
-West Virginia                                  69
-Wisconsin                                      91
-Wyoming                                        61
+Oregon                                         40
+Pennsylvania                                   85
+Rhode Island                                   62
+South Carolina                                 71
+South Dakota                                   96
+Tennessee                                      75
+Texas                                          54
+Utah                                           66
+Vermont                                        49
+Virginia                                       46
+Washington                                     49
+West Virginia                                  72
+Wisconsin                                      92
+Wyoming                                        75

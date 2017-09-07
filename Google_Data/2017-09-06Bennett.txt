@@ -1,0 +1,53 @@
+                      Bennett
+geoName                      
+Alabama                    70
+Alaska                     57
+Arizona                    66
+Arkansas                   66
+California                 62
+Colorado                   99
+Connecticut                89
+Delaware                   79
+District of Columbia      100
+Florida                    76
+Georgia                    81
+Hawaii                     59
+Idaho                      73
+Illinois                   76
+Indiana                    78
+Iowa                       69
+Kansas                     68
+Kentucky                   87
+Louisiana                  71
+Maine                      90
+Maryland                   93
+Massachusetts              85
+Michigan                   68
+Minnesota                  65
+Mississippi                67
+Missouri                   96
+Montana                    81
+Nebraska                   67
+Nevada                     72
+New Hampshire              81
+New Jersey                 78
+New Mexico                 54
+New York                   84
+North Carolina             89
+North Dakota               64
+Ohio                       77
+Oklahoma                   76
+Oregon                     55
+Pennsylvania               83
+Rhode Island               80
+South Carolina             80
+South Dakota               87
+Tennessee                  97
+Texas                      60
+Utah                       68
+Vermont                    66
+Virginia                   72
+Washington                 81
+West Virginia              80
+Wisconsin                  71
+Wyoming                    72

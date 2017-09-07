@@ -3,51 +3,51 @@ geoName
 Alabama                 27
 Alaska                  14
 Arizona                 85
-Arkansas                40
+Arkansas                42
 California             100
-Colorado                59
-Connecticut             40
-Delaware                40
-District of Columbia    81
-Florida                 42
-Georgia                 49
-Hawaii                  22
+Colorado                58
+Connecticut             41
+Delaware                38
+District of Columbia    80
+Florida                 43
+Georgia                 48
+Hawaii                  21
 Idaho                   39
 Illinois                63
 Indiana                 40
-Iowa                    27
-Kansas                  40
-Kentucky                25
+Iowa                    28
+Kansas                  38
+Kentucky                24
 Louisiana               21
-Maine                   15
+Maine                   16
 Maryland                46
-Massachusetts           39
+Massachusetts           38
 Michigan                28
 Minnesota               31
 Mississippi             19
-Missouri                26
-Montana                 13
-Nebraska                43
-Nevada                  83
+Missouri                25
+Montana                 14
+Nebraska                45
+Nevada                  82
 New Hampshire           20
-New Jersey              54
+New Jersey              56
 New Mexico              63
 New York                57
 North Carolina          53
-North Dakota            16
+North Dakota            14
 Ohio                    20
-Oklahoma                40
-Oregon                  52
+Oklahoma                38
+Oregon                  53
 Pennsylvania            25
 Rhode Island            33
 South Carolina          36
-South Dakota            18
-Tennessee               35
-Texas                   73
-Utah                    61
-Vermont                 27
+South Dakota            17
+Tennessee               34
+Texas                   74
+Utah                    63
+Vermont                 22
 Virginia                44
-Washington              59
+Washington              57
 West Virginia           14
 Wisconsin               32
-Wyoming                 30
+Wyoming                 29

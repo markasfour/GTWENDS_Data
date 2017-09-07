@@ -1,53 +1,53 @@
                       CoCo Vandeweghe
 geoName                              
-Alabama                            53
-Alaska                             16
-Arizona                            56
-Arkansas                           45
-California                         78
-Colorado                           93
+Alabama                            64
+Alaska                             29
+Arizona                            62
+Arkansas                           42
+California                         81
+Colorado                           98
 Connecticut                       100
-Delaware                           71
-District of Columbia               72
-Florida                            67
-Georgia                            70
-Hawaii                             74
-Idaho                              66
-Illinois                           58
-Indiana                            51
-Iowa                               47
-Kansas                             46
-Kentucky                           55
-Louisiana                          53
-Maine                              66
-Maryland                           79
-Massachusetts                      73
-Michigan                           64
-Minnesota                          63
-Mississippi                        53
-Missouri                           38
-Montana                            43
-Nebraska                           39
-Nevada                             72
-New Hampshire                      60
-New Jersey                         99
-New Mexico                         57
-New York                           90
-North Carolina                     74
-North Dakota                       43
-Ohio                               67
-Oklahoma                           49
-Oregon                             52
-Pennsylvania                       64
-Rhode Island                       83
-South Carolina                     86
-South Dakota                       43
-Tennessee                          56
-Texas                              52
-Utah                               60
-Vermont                            47
-Virginia                           63
-Washington                         56
-West Virginia                      63
-Wisconsin                          49
-Wyoming                            40
+Delaware                           65
+District of Columbia               84
+Florida                            73
+Georgia                            69
+Hawaii                             84
+Idaho                              60
+Illinois                           62
+Indiana                            55
+Iowa                               46
+Kansas                             51
+Kentucky                           61
+Louisiana                          47
+Maine                              89
+Maryland                           81
+Massachusetts                      79
+Michigan                           58
+Minnesota                          57
+Mississippi                        55
+Missouri                           42
+Montana                            52
+Nebraska                           52
+Nevada                             67
+New Hampshire                      74
+New Jersey                         97
+New Mexico                         71
+New York                           92
+North Carolina                     77
+North Dakota                       44
+Ohio                               62
+Oklahoma                           52
+Oregon                             55
+Pennsylvania                       71
+Rhode Island                       81
+South Carolina                     81
+South Dakota                       44
+Tennessee                          55
+Texas                              55
+Utah                               62
+Vermont                            97
+Virginia                           61
+Washington                         55
+West Virginia                      55
+Wisconsin                          56
+Wyoming                            56

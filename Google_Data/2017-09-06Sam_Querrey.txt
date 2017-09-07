@@ -1,53 +1,53 @@
                       Sam Querrey
 geoName                          
-Alabama                        56
-Alaska                         33
-Arizona                        42
-Arkansas                       44
-California                     77
-Colorado                       57
-Connecticut                    68
-Delaware                       60
-District of Columbia          100
-Florida                        59
-Georgia                        69
-Hawaii                         58
-Idaho                          42
-Illinois                       51
-Indiana                        57
-Iowa                           37
-Kansas                         28
-Kentucky                       40
-Louisiana                      50
-Maine                          45
-Maryland                       60
-Massachusetts                  69
-Michigan                       39
-Minnesota                      39
-Mississippi                    70
-Missouri                       37
-Montana                        32
+Alabama                        58
+Alaska                         31
+Arizona                        38
+Arkansas                       38
+California                     86
+Colorado                       62
+Connecticut                    80
+Delaware                       86
+District of Columbia           90
+Florida                        66
+Georgia                        67
+Hawaii                         60
+Idaho                          65
+Illinois                       57
+Indiana                        48
+Iowa                           41
+Kansas                         35
+Kentucky                       55
+Louisiana                      47
+Maine                          66
+Maryland                       73
+Massachusetts                  73
+Michigan                       45
+Minnesota                      50
+Mississippi                    68
+Missouri                       38
+Montana                        45
 Nebraska                       52
-Nevada                         73
-New Hampshire                  55
-New Jersey                     83
-New Mexico                     34
-New York                       73
-North Carolina                 65
-North Dakota                   18
-Ohio                           46
-Oklahoma                       28
-Oregon                         44
-Pennsylvania                   49
-Rhode Island                   69
-South Carolina                 54
-South Dakota                   36
-Tennessee                      52
-Texas                          47
-Utah                           55
-Vermont                        89
-Virginia                       56
-Washington                     39
-West Virginia                  31
-Wisconsin                      36
-Wyoming                        40
+Nevada                        100
+New Hampshire                  61
+New Jersey                     91
+New Mexico                     41
+New York                       80
+North Carolina                 62
+North Dakota                   33
+Ohio                           48
+Oklahoma                       34
+Oregon                         45
+Pennsylvania                   50
+Rhode Island                   81
+South Carolina                 65
+South Dakota                   38
+Tennessee                      48
+Texas                          52
+Utah                           38
+Vermont                        81
+Virginia                       57
+Washington                     46
+West Virginia                  20
+Wisconsin                      42
+Wyoming                        35

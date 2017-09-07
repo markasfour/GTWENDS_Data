@@ -2,52 +2,52 @@
 geoName                                    
 Alabama                                  74
 Alaska                                   59
-Arizona                                  77
-Arkansas                                 75
+Arizona                                  78
+Arkansas                                 77
 California                               75
 Colorado                                 69
-Connecticut                              75
-Delaware                                 81
-District of Columbia                     65
-Florida                                  70
-Georgia                                  64
-Hawaii                                   70
-Idaho                                    66
+Connecticut                              76
+Delaware                                 85
+District of Columbia                     66
+Florida                                  71
+Georgia                                  66
+Hawaii                                   69
+Idaho                                    68
 Illinois                                 75
-Indiana                                  80
-Iowa                                     74
-Kansas                                   66
-Kentucky                                 91
-Louisiana                                92
-Maine                                    79
-Maryland                                 70
-Massachusetts                            77
-Michigan                                 73
-Minnesota                                63
-Mississippi                              70
-Missouri                                 74
-Montana                                  68
-Nebraska                                 74
+Indiana                                  79
+Iowa                                     77
+Kansas                                   67
+Kentucky                                 93
+Louisiana                                93
+Maine                                    83
+Maryland                                 69
+Massachusetts                            80
+Michigan                                 75
+Minnesota                                65
+Mississippi                              71
+Missouri                                 76
+Montana                                  71
+Nebraska                                 75
 Nevada                                   83
-New Hampshire                            77
+New Hampshire                            80
 New Jersey                               80
-New Mexico                               77
-New York                                 78
-North Carolina                           69
-North Dakota                             74
-Ohio                                     83
-Oklahoma                                 83
-Oregon                                   52
-Pennsylvania                             88
-Rhode Island                             94
-South Carolina                           71
-South Dakota                             67
-Tennessee                                73
-Texas                                    71
-Utah                                     60
-Vermont                                  76
-Virginia                                 62
-Washington                               65
+New Mexico                               81
+New York                                 80
+North Carolina                           70
+North Dakota                             73
+Ohio                                     85
+Oklahoma                                 86
+Oregon                                   53
+Pennsylvania                             89
+Rhode Island                             97
+South Carolina                           72
+South Dakota                             66
+Tennessee                                75
+Texas                                    73
+Utah                                     62
+Vermont                                  77
+Virginia                                 63
+Washington                               66
 West Virginia                           100
-Wisconsin                                72
-Wyoming                                  69
+Wisconsin                                73
+Wyoming                                  70

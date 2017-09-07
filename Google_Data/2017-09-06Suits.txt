@@ -1,0 +1,53 @@
+                      Suits
+geoName                    
+Alabama                  81
+Alaska                   53
+Arizona                  59
+Arkansas                 65
+California               71
+Colorado                 54
+Connecticut              85
+Delaware                 91
+District of Columbia     80
+Florida                  72
+Georgia                  77
+Hawaii                   57
+Idaho                    55
+Illinois                 68
+Indiana                  65
+Iowa                     52
+Kansas                   54
+Kentucky                 67
+Louisiana                81
+Maine                    71
+Maryland                 84
+Massachusetts            86
+Michigan                 73
+Minnesota                55
+Mississippi              80
+Missouri                 57
+Montana                  50
+Nebraska                 53
+Nevada                   64
+New Hampshire            80
+New Jersey               98
+New Mexico               55
+New York                100
+North Carolina           76
+North Dakota             51
+Ohio                     67
+Oklahoma                 62
+Oregon                   42
+Pennsylvania             83
+Rhode Island             84
+South Carolina           81
+South Dakota             51
+Tennessee                71
+Texas                    65
+Utah                     62
+Vermont                  74
+Virginia                 74
+Washington               56
+West Virginia            73
+Wisconsin                53
+Wyoming                  54

@@ -1,53 +1,53 @@
                       iOS 11
 geoName                     
-Alabama                   97
-Alaska                    54
-Arizona                   67
-Arkansas                  84
-California                73
-Colorado                  57
-Connecticut               78
-Delaware                  85
-District of Columbia      57
-Florida                   79
-Georgia                   79
-Hawaii                    55
-Idaho                     56
-Illinois                  65
-Indiana                   85
-Iowa                      55
-Kansas                    49
-Kentucky                  71
-Louisiana                 81
+Alabama                  100
+Alaska                    50
+Arizona                   71
+Arkansas                  86
+California                74
+Colorado                  58
+Connecticut               77
+Delaware                  90
+District of Columbia      56
+Florida                   78
+Georgia                   83
+Hawaii                    54
+Idaho                     59
+Illinois                  69
+Indiana                   86
+Iowa                      56
+Kansas                    52
+Kentucky                  74
+Louisiana                 86
 Maine                     51
-Maryland                  82
-Massachusetts             60
-Michigan                  70
+Maryland                  83
+Massachusetts             61
+Michigan                  72
 Minnesota                 54
-Mississippi              100
-Missouri                  63
-Montana                   42
-Nebraska                  59
-Nevada                    71
-New Hampshire             67
-New Jersey                83
-New Mexico                61
-New York                  67
+Mississippi               98
+Missouri                  64
+Montana                   41
+Nebraska                  56
+Nevada                    76
+New Hampshire             77
+New Jersey                84
+New Mexico                64
+New York                  70
 North Carolina            79
-North Dakota              53
+North Dakota              51
 Ohio                      72
-Oklahoma                  55
-Oregon                    50
-Pennsylvania              70
-Rhode Island              76
-South Carolina            82
-South Dakota              42
-Tennessee                 82
-Texas                     75
-Utah                      83
+Oklahoma                  63
+Oregon                    49
+Pennsylvania              73
+Rhode Island              69
+South Carolina            85
+South Dakota              47
+Tennessee                 84
+Texas                     76
+Utah                      79
 Vermont                   46
-Virginia                  57
-Washington                60
-West Virginia             66
+Virginia                  58
+Washington                61
+West Virginia             69
 Wisconsin                 53
-Wyoming                   39
+Wyoming                   35

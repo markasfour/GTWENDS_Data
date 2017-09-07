@@ -1,53 +1,53 @@
                       Myles Garrett
 geoName                            
-Alabama                          35
-Alaska                           12
+Alabama                          38
+Alaska                            6
 Arizona                          21
-Arkansas                         28
+Arkansas                         30
 California                       21
-Colorado                         23
-Connecticut                      24
-Delaware                         29
-District of Columbia             28
-Florida                          20
+Colorado                         21
+Connecticut                      30
+Delaware                         33
+District of Columbia             30
+Florida                          22
 Georgia                          26
-Hawaii                           19
+Hawaii                           21
 Idaho                            14
-Illinois                         24
-Indiana                          24
-Iowa                             23
-Kansas                           21
-Kentucky                         21
-Louisiana                        37
+Illinois                         25
+Indiana                          23
+Iowa                             26
+Kansas                           19
+Kentucky                         18
+Louisiana                        39
 Maine                            18
-Maryland                         26
-Massachusetts                    21
-Michigan                         26
-Minnesota                        19
-Mississippi                      41
-Missouri                         21
-Montana                          21
-Nebraska                         22
-Nevada                           19
-New Hampshire                    21
-New Jersey                       25
-New Mexico                       19
+Maryland                         28
+Massachusetts                    22
+Michigan                         25
+Minnesota                        21
+Mississippi                      36
+Missouri                         19
+Montana                          16
+Nebraska                         25
+Nevada                           20
+New Hampshire                    23
+New Jersey                       26
+New Mexico                       23
 New York                         18
-North Carolina                   27
-North Dakota                     17
+North Carolina                   30
+North Dakota                     30
 Ohio                            100
 Oklahoma                         24
 Oregon                           13
-Pennsylvania                     27
-Rhode Island                     22
-South Carolina                   32
-South Dakota                     22
-Tennessee                        29
-Texas                            80
-Utah                             15
-Vermont                          14
+Pennsylvania                     28
+Rhode Island                     27
+South Carolina                   29
+South Dakota                     17
+Tennessee                        32
+Texas                            81
+Utah                             19
+Vermont                          18
 Virginia                         19
 Washington                       19
-West Virginia                    26
+West Virginia                    23
 Wisconsin                        21
 Wyoming                          23
