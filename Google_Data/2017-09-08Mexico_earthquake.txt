@@ -1,0 +1,53 @@
+                      Mexico earthquake
+geoName                                
+Alabama                               8
+Alaska                               14
+Arizona                              31
+Arkansas                             12
+California                           45
+Colorado                             19
+Connecticut                          11
+Delaware                             11
+District of Columbia                 14
+Florida                              12
+Georgia                              10
+Hawaii                               15
+Idaho                                16
+Illinois                             17
+Indiana                               9
+Iowa                                 14
+Kansas                               13
+Kentucky                              8
+Louisiana                             9
+Maine                                10
+Maryland                              9
+Massachusetts                        11
+Michigan                             11
+Minnesota                            13
+Mississippi                           9
+Missouri                             10
+Montana                              16
+Nebraska                             14
+Nevada                               34
+New Hampshire                        11
+New Jersey                           10
+New Mexico                          100
+New York                             13
+North Carolina                       11
+North Dakota                         11
+Ohio                                  9
+Oklahoma                             16
+Oregon                               16
+Pennsylvania                          8
+Rhode Island                         10
+South Carolina                       10
+South Dakota                          6
+Tennessee                             7
+Texas                                20
+Utah                                 30
+Vermont                              18
+Virginia                              8
+Washington                           23
+West Virginia                        10
+Wisconsin                            11
+Wyoming                              22

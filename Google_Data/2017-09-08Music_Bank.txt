@@ -1,0 +1,16 @@
+               Music Bank
+geoName                  
+Arizona                42
+California             51
+Colorado               57
+Florida                46
+Kansas                 68
+Massachusetts          99
+New Hampshire         100
+New York               76
+Ohio                   65
+Oregon                 51
+Pennsylvania           67
+Texas                  44
+Virginia               47
+Washington             49

@@ -1,0 +1,53 @@
+                      México
+geoName                     
+Alabama                   13
+Alaska                     7
+Arizona                   35
+Arkansas                  20
+California                42
+Colorado                  27
+Connecticut               13
+Delaware                  17
+District of Columbia      23
+Florida                   21
+Georgia                   30
+Hawaii                     4
+Idaho                     14
+Illinois                  31
+Indiana                   13
+Iowa                      11
+Kansas                    21
+Kentucky                  12
+Louisiana                 16
+Maine                      2
+Maryland                  15
+Massachusetts             10
+Michigan                  14
+Minnesota                 12
+Mississippi               11
+Missouri                  12
+Montana                    4
+Nebraska                  16
+Nevada                    33
+New Hampshire              3
+New Jersey                21
+New Mexico               100
+New York                  21
+North Carolina            21
+North Dakota               7
+Ohio                       8
+Oklahoma                  16
+Oregon                    28
+Pennsylvania              10
+Rhode Island               9
+South Carolina            23
+South Dakota               7
+Tennessee                 18
+Texas                     56
+Utah                      18
+Vermont                    3
+Virginia                  26
+Washington                20
+West Virginia              4
+Wisconsin                 12
+Wyoming                   11

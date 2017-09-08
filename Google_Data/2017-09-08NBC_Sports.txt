@@ -1,0 +1,53 @@
+                      NBC Sports
+geoName                         
+Alabama                       34
+Alaska                        46
+Arizona                       46
+Arkansas                      31
+California                    40
+Colorado                      59
+Connecticut                   71
+Delaware                      54
+District of Columbia          54
+Florida                       39
+Georgia                       32
+Hawaii                        38
+Idaho                         47
+Illinois                      49
+Indiana                       54
+Iowa                          50
+Kansas                        37
+Kentucky                      42
+Louisiana                     34
+Maine                         70
+Maryland                      55
+Massachusetts                 64
+Michigan                      43
+Minnesota                     62
+Mississippi                   28
+Missouri                      45
+Montana                       61
+Nebraska                      45
+Nevada                        42
+New Hampshire                 73
+New Jersey                    51
+New Mexico                    42
+New York                      53
+North Carolina                46
+North Dakota                  59
+Ohio                          43
+Oklahoma                      33
+Oregon                        36
+Pennsylvania                  58
+Rhode Island                  68
+South Carolina                44
+South Dakota                  46
+Tennessee                     42
+Texas                         29
+Utah                          44
+Vermont                      100
+Virginia                      46
+Washington                    47
+West Virginia                 41
+Wisconsin                     55
+Wyoming                       56

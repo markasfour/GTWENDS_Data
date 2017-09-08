@@ -1,0 +1,53 @@
+                      Josh Brown
+geoName                         
+Alabama                       32
+Alaska                        30
+Arizona                       31
+Arkansas                      36
+California                    28
+Colorado                      30
+Connecticut                   53
+Delaware                      43
+District of Columbia          49
+Florida                       30
+Georgia                       34
+Hawaii                        22
+Idaho                         24
+Illinois                      38
+Indiana                       37
+Iowa                          37
+Kansas                        34
+Kentucky                      32
+Louisiana                     36
+Maine                         38
+Maryland                      46
+Massachusetts                 53
+Michigan                      32
+Minnesota                     35
+Mississippi                   36
+Missouri                      42
+Montana                       24
+Nebraska                     100
+Nevada                        31
+New Hampshire                 39
+New Jersey                    59
+New Mexico                    33
+New York                      48
+North Carolina                42
+North Dakota                  39
+Ohio                          55
+Oklahoma                      36
+Oregon                        25
+Pennsylvania                  45
+Rhode Island                  70
+South Carolina                37
+South Dakota                  39
+Tennessee                     39
+Texas                         36
+Utah                          25
+Vermont                       31
+Virginia                      31
+Washington                    56
+West Virginia                 33
+Wisconsin                     37
+Wyoming                       38

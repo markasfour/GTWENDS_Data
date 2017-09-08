@@ -1,0 +1,53 @@
+                      Kansas City Chiefs
+geoName                                 
+Alabama                                6
+Alaska                                 8
+Arizona                                8
+Arkansas                              17
+California                             7
+Colorado                              19
+Connecticut                            5
+Delaware                               8
+District of Columbia                   7
+Florida                                6
+Georgia                                8
+Hawaii                                10
+Idaho                                 10
+Illinois                              10
+Indiana                                6
+Iowa                                  36
+Kansas                               100
+Kentucky                               6
+Louisiana                              8
+Maine                                  5
+Maryland                               7
+Massachusetts                          6
+Michigan                               5
+Minnesota                             10
+Mississippi                           10
+Missouri                              83
+Montana                               12
+Nebraska                              35
+Nevada                                10
+New Hampshire                          5
+New Jersey                             6
+New Mexico                            13
+New York                               5
+North Carolina                         7
+North Dakota                          11
+Ohio                                   7
+Oklahoma                              17
+Oregon                                 5
+Pennsylvania                           8
+Rhode Island                           6
+South Carolina                         7
+South Dakota                          20
+Tennessee                              8
+Texas                                  9
+Utah                                  12
+Vermont                                4
+Virginia                               6
+Washington                             8
+West Virginia                          7
+Wisconsin                             10
+Wyoming                               18

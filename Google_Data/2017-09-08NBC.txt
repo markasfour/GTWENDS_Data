@@ -1,53 +1,53 @@
                       NBC
 geoName                  
-Alabama                43
-Alaska                 55
-Arizona                43
-Arkansas               35
+Alabama                42
+Alaska                 54
+Arizona                42
+Arkansas               34
 California             43
-Colorado               48
+Colorado               46
 Connecticut           100
 Delaware               54
 District of Columbia   59
-Florida                43
+Florida                41
 Georgia                32
-Hawaii                 36
+Hawaii                 35
 Idaho                  52
-Illinois               55
-Indiana                46
-Iowa                   54
-Kansas                 44
+Illinois               54
+Indiana                45
+Iowa                   52
+Kansas                 42
 Kentucky               41
 Louisiana              41
-Maine                  68
-Maryland               56
+Maine                  65
+Maryland               55
 Massachusetts          50
 Michigan               40
 Minnesota              50
 Mississippi            33
-Missouri               46
-Montana                76
-Nebraska               48
-Nevada                 39
-New Hampshire          52
+Missouri               45
+Montana                75
+Nebraska               47
+Nevada                 38
+New Hampshire          50
 New Jersey             49
 New Mexico             48
-New York               53
+New York               51
 North Carolina         43
-North Dakota           52
-Ohio                   46
-Oklahoma               39
+North Dakota           51
+Ohio                   45
+Oklahoma               37
 Oregon                 38
-Pennsylvania           55
+Pennsylvania           56
 Rhode Island           75
 South Carolina         43
 South Dakota           49
-Tennessee              41
+Tennessee              40
 Texas                  37
-Utah                   41
-Vermont                75
+Utah                   40
+Vermont                73
 Virginia               52
 Washington             46
-West Virginia          46
-Wisconsin              57
-Wyoming                49
+West Virginia          45
+Wisconsin              56
+Wyoming                47

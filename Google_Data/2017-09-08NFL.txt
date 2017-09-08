@@ -1,53 +1,53 @@
                       NFL
 geoName                  
-Alabama                46
-Alaska                 73
-Arizona                82
-Arkansas               48
-California             65
+Alabama                45
+Alaska                 71
+Arizona                81
+Arkansas               47
+California             62
 Colorado               88
-Connecticut            66
-Delaware               95
-District of Columbia   91
-Florida                62
-Georgia                64
-Hawaii                 82
-Idaho                  68
-Illinois               66
+Connecticut            64
+Delaware               94
+District of Columbia   90
+Florida                61
+Georgia                62
+Hawaii                 79
+Idaho                  66
+Illinois               65
 Indiana                63
-Iowa                   72
-Kansas                 60
-Kentucky               53
-Louisiana              72
+Iowa                   70
+Kansas                 59
+Kentucky               52
+Louisiana              70
 Maine                  69
-Maryland               83
-Massachusetts          71
-Michigan               59
-Minnesota              82
-Mississippi            71
-Missouri               63
-Montana                86
+Maryland               81
+Massachusetts          69
+Michigan               57
+Minnesota              80
+Mississippi            68
+Missouri               62
+Montana                84
 Nebraska               60
 Nevada                 87
-New Hampshire          68
-New Jersey             74
-New Mexico             89
-New York               61
-North Carolina         72
-North Dakota          100
-Ohio                   72
-Oklahoma               52
-Oregon                 44
-Pennsylvania           80
-Rhode Island           77
-South Carolina         67
-South Dakota           99
-Tennessee              57
-Texas                  69
-Utah                   60
-Vermont                62
-Virginia               66
+New Hampshire          67
+New Jersey             73
+New Mexico             88
+New York               60
+North Carolina         71
+North Dakota           99
+Ohio                   70
+Oklahoma               50
+Oregon                 42
+Pennsylvania           79
+Rhode Island           76
+South Carolina         65
+South Dakota          100
+Tennessee              56
+Texas                  68
+Utah                   59
+Vermont                61
+Virginia               65
 Washington             85
-West Virginia          62
-Wisconsin              90
-Wyoming                90
+West Virginia          61
+Wisconsin              88
+Wyoming                88

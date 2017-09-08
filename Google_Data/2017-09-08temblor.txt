@@ -1,49 +1,49 @@
                       temblor
 geoName                      
-Alabama                    15
-Alaska                     19
-Arizona                    47
+Alabama                    18
+Alaska                     17
+Arizona                    44
 Arkansas                   22
 California                100
-Colorado                   24
-Connecticut                27
-Delaware                   12
-District of Columbia       35
-Florida                    63
-Georgia                    36
-Hawaii                     15
-Idaho                      10
+Colorado                   23
+Connecticut                28
+Delaware                   18
+District of Columbia       37
+Florida                    64
+Georgia                    37
+Hawaii                     18
+Idaho                      14
 Illinois                   26
-Indiana                    11
-Iowa                        8
-Kansas                     36
-Kentucky                   13
-Louisiana                  13
+Indiana                    12
+Iowa                        9
+Kansas                     38
+Kentucky                   14
+Louisiana                  17
 Maryland                   22
 Massachusetts              21
-Michigan                   19
-Minnesota                  13
-Mississippi                15
-Missouri                    9
-Montana                     7
+Michigan                   18
+Minnesota                  14
+Mississippi                13
+Missouri                   11
+Montana                    13
 Nebraska                   13
 Nevada                     50
-New Hampshire               8
+New Hampshire               9
 New Jersey                 40
 New Mexico                 20
-New York                   48
-North Carolina             18
+New York                   49
+North Carolina             20
 Ohio                       12
 Oklahoma                   31
-Oregon                     91
+Oregon                     87
 Pennsylvania               15
-Rhode Island               21
-South Carolina             16
-Tennessee                  12
-Texas                      46
-Utah                       26
-Vermont                    11
-Virginia                   39
-Washington                 24
-West Virginia               6
+Rhode Island               17
+South Carolina             15
+Tennessee                  14
+Texas                      47
+Utah                       25
+Vermont                    13
+Virginia                   38
+Washington                 25
+West Virginia               7
 Wisconsin                  12

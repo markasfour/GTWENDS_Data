@@ -1,0 +1,53 @@
+                      "LANCE"
+geoName                      
+Alabama                    74
+Alaska                     96
+Arizona                    71
+Arkansas                   84
+California                 74
+Colorado                   80
+Connecticut                68
+Delaware                   70
+District of Columbia       89
+Florida                    65
+Georgia                    78
+Hawaii                     92
+Idaho                      79
+Illinois                   73
+Indiana                    84
+Iowa                       70
+Kansas                     67
+Kentucky                   71
+Louisiana                  92
+Maine                      64
+Maryland                   77
+Massachusetts              66
+Michigan                   68
+Minnesota                  70
+Mississippi                77
+Missouri                   78
+Montana                    88
+Nebraska                   72
+Nevada                     71
+New Hampshire              65
+New Jersey                 73
+New Mexico                 65
+New York                   73
+North Carolina             81
+North Dakota               74
+Ohio                       77
+Oklahoma                   78
+Oregon                     69
+Pennsylvania               69
+Rhode Island               64
+South Carolina             73
+South Dakota               74
+Tennessee                  82
+Texas                      75
+Utah                       84
+Vermont                    71
+Virginia                  100
+Washington                 76
+West Virginia              65
+Wisconsin                  79
+Wyoming                    79

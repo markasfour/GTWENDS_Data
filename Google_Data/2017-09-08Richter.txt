@@ -1,53 +1,53 @@
                       Richter
 geoName                      
-Alabama                    43
-Alaska                     60
-Arizona                    50
-Arkansas                   45
-California                 54
-Colorado                   56
+Alabama                    42
+Alaska                     59
+Arizona                    48
+Arkansas                   42
+California                 53
+Colorado                   54
 Connecticut               100
 Delaware                   43
-District of Columbia       54
-Florida                    46
+District of Columbia       52
+Florida                    45
 Georgia                    37
-Hawaii                     34
-Idaho                      46
-Illinois                   57
-Indiana                    52
-Iowa                       56
-Kansas                     48
-Kentucky                   43
-Louisiana                  38
-Maine                      61
+Hawaii                     33
+Idaho                      47
+Illinois                   56
+Indiana                    51
+Iowa                       55
+Kansas                     47
+Kentucky                   42
+Louisiana                  37
+Maine                      59
 Maryland                   50
-Massachusetts              57
-Michigan                   56
-Minnesota                  66
-Mississippi                32
-Missouri                   51
-Montana                    68
-Nebraska                   59
-Nevada                     43
-New Hampshire              63
+Massachusetts              56
+Michigan                   55
+Minnesota                  63
+Mississippi                31
+Missouri                   50
+Montana                    65
+Nebraska                   58
+Nevada                     41
+New Hampshire              61
 New Jersey                 55
 New Mexico                 46
-New York                   70
-North Carolina             42
-North Dakota               89
-Ohio                       60
-Oklahoma                   45
-Oregon                     46
-Pennsylvania               55
-Rhode Island               58
-South Carolina             44
+New York                   68
+North Carolina             41
+North Dakota               88
+Ohio                       58
+Oklahoma                   44
+Oregon                     45
+Pennsylvania               54
+Rhode Island               57
+South Carolina             43
 South Dakota               71
 Tennessee                  38
-Texas                      42
+Texas                      41
 Utah                       53
-Vermont                    75
-Virginia                   38
-Washington                 52
-West Virginia              42
-Wisconsin                  74
+Vermont                    72
+Virginia                   37
+Washington                 50
+West Virginia              41
+Wisconsin                  73
 Wyoming                    45

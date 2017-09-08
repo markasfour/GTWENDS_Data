@@ -1,53 +1,53 @@
                       GasBuddy
 geoName                       
-Alabama                     23
-Alaska                      16
-Arizona                     31
-Arkansas                    23
+Alabama                     22
+Alaska                      17
+Arizona                     30
+Arkansas                    22
 California                  27
-Colorado                    24
+Colorado                    25
 Connecticut                 20
 Delaware                    30
-District of Columbia        26
+District of Columbia        28
 Florida                     25
-Georgia                     28
+Georgia                     29
 Hawaii                      11
-Idaho                       31
+Idaho                       30
 Illinois                    65
-Indiana                     95
+Indiana                    100
 Iowa                        18
 Kansas                      22
-Kentucky                    50
+Kentucky                    52
 Louisiana                   17
-Maine                       24
+Maine                       26
 Maryland                    25
-Massachusetts               19
-Michigan                   100
+Massachusetts               20
+Michigan                    99
 Minnesota                   33
-Mississippi                 23
+Mississippi                 21
 Missouri                    40
-Montana                     20
+Montana                     21
 Nebraska                    21
 Nevada                      28
-New Hampshire               32
+New Hampshire               31
 New Jersey                  20
-New Mexico                  45
+New Mexico                  43
 New York                    22
-North Carolina              34
-North Dakota                27
-Ohio                        94
-Oklahoma                    24
+North Carolina              36
+North Dakota                31
+Ohio                        96
+Oklahoma                    25
 Oregon                      19
-Pennsylvania                26
+Pennsylvania                25
 Rhode Island                15
-South Carolina              28
-South Dakota                22
-Tennessee                   24
-Texas                       27
+South Carolina              29
+South Dakota                23
+Tennessee                   25
+Texas                       29
 Utah                        29
-Vermont                     15
-Virginia                    24
+Vermont                     17
+Virginia                    23
 Washington                  26
-West Virginia               34
-Wisconsin                   31
-Wyoming                     33
+West Virginia               36
+Wisconsin                   32
+Wyoming                     32

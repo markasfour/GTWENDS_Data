@@ -1,42 +1,43 @@
                       Gene Michael
 geoName                           
-Alabama                         63
-Arizona                         73
-California                      71
+Alabama                         78
+Arizona                         59
+California                      66
 Colorado                        65
-Connecticut                     96
-Delaware                        85
+Connecticut                    100
+Delaware                        72
 District of Columbia           100
-Florida                         62
-Georgia                         62
-Illinois                        72
-Indiana                         71
-Iowa                            90
-Kansas                          70
-Kentucky                        71
-Louisiana                       65
-Maine                           74
-Maryland                        72
-Massachusetts                   71
-Michigan                        65
-Minnesota                       74
-Missouri                        80
-Nebraska                        64
-Nevada                          74
-New Hampshire                   69
-New Jersey                      98
-New York                        93
-North Carolina                  72
-Ohio                            71
-Oklahoma                        79
-Oregon                          64
-Pennsylvania                    76
-Rhode Island                    76
-South Carolina                  64
-Tennessee                       70
-Texas                           62
-Utah                            62
-Vermont                         67
-Virginia                        50
+Florida                         64
+Georgia                         61
+Illinois                        70
+Indiana                         68
+Iowa                            82
+Kansas                          66
+Kentucky                        53
+Louisiana                       61
+Maine                           61
+Maryland                        80
+Massachusetts                   66
+Michigan                        61
+Minnesota                       66
+Mississippi                     53
+Missouri                        70
+Nebraska                        63
+Nevada                          70
+New Hampshire                   66
+New Jersey                      91
+New York                        91
+North Carolina                  67
+Ohio                            70
+Oklahoma                        83
+Oregon                          53
+Pennsylvania                    80
+Rhode Island                    66
+South Carolina                  72
+Tennessee                       59
+Texas                           61
+Utah                            68
+Vermont                         45
+Virginia                        53
 Washington                      71
-Wisconsin                       66
+Wisconsin                       55
