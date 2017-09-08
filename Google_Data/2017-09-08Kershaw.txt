@@ -1,0 +1,53 @@
+                      Kershaw
+geoName                      
+Alabama                    13
+Alaska                     10
+Arizona                    10
+Arkansas                   11
+California                 16
+Colorado                   10
+Connecticut                 9
+Delaware                   10
+District of Columbia        9
+Florida                     7
+Georgia                    11
+Hawaii                     11
+Idaho                      12
+Illinois                   10
+Indiana                    10
+Iowa                       10
+Kansas                      9
+Kentucky                   11
+Louisiana                  12
+Maine                      10
+Maryland                    8
+Massachusetts               8
+Michigan                    9
+Minnesota                   8
+Mississippi                10
+Missouri                   12
+Montana                    13
+Nebraska                   10
+Nevada                     12
+New Hampshire               9
+New Jersey                  8
+New Mexico                 11
+New York                    8
+North Carolina             17
+North Dakota               11
+Ohio                        9
+Oklahoma                   12
+Oregon                     13
+Pennsylvania               10
+Rhode Island                9
+South Carolina            100
+South Dakota               10
+Tennessee                  13
+Texas                       9
+Utah                       11
+Vermont                     9
+Virginia                    8
+Washington                 11
+West Virginia              12
+Wisconsin                   8
+Wyoming                    12

@@ -1,0 +1,53 @@
+                      Equifax
+geoName                      
+Alabama                    65
+Alaska                     32
+Arizona                    37
+Arkansas                   36
+California                 38
+Colorado                   39
+Connecticut                35
+Delaware                   46
+District of Columbia       53
+Florida                    68
+Georgia                   100
+Hawaii                     33
+Idaho                      31
+Illinois                   35
+Indiana                    38
+Iowa                       32
+Kansas                     26
+Kentucky                   33
+Louisiana                  56
+Maine                      26
+Maryland                   61
+Massachusetts              30
+Michigan                   31
+Minnesota                  33
+Mississippi                58
+Missouri                   44
+Montana                    32
+Nebraska                   28
+Nevada                     43
+New Hampshire              28
+New Jersey                 38
+New Mexico                 35
+New York                   39
+North Carolina             65
+North Dakota               27
+Ohio                       36
+Oklahoma                   35
+Oregon                     29
+Pennsylvania               32
+Rhode Island               37
+South Carolina             76
+South Dakota               23
+Tennessee                  51
+Texas                      44
+Utah                       28
+Vermont                    28
+Virginia                   48
+Washington                 36
+West Virginia              32
+Wisconsin                  24
+Wyoming                    25

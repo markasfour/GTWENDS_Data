@@ -1,0 +1,53 @@
+                      NFL
+geoName                  
+Alabama                46
+Alaska                 73
+Arizona                82
+Arkansas               48
+California             65
+Colorado               88
+Connecticut            66
+Delaware               95
+District of Columbia   91
+Florida                62
+Georgia                64
+Hawaii                 82
+Idaho                  68
+Illinois               66
+Indiana                63
+Iowa                   72
+Kansas                 60
+Kentucky               53
+Louisiana              72
+Maine                  69
+Maryland               83
+Massachusetts          71
+Michigan               59
+Minnesota              82
+Mississippi            71
+Missouri               63
+Montana                86
+Nebraska               60
+Nevada                 87
+New Hampshire          68
+New Jersey             74
+New Mexico             89
+New York               61
+North Carolina         72
+North Dakota          100
+Ohio                   72
+Oklahoma               52
+Oregon                 44
+Pennsylvania           80
+Rhode Island           77
+South Carolina         67
+South Dakota           99
+Tennessee              57
+Texas                  69
+Utah                   60
+Vermont                62
+Virginia               66
+Washington             85
+West Virginia          62
+Wisconsin              90
+Wyoming                90

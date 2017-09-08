@@ -1,0 +1,50 @@
+                      AFC East
+geoName                       
+Alabama                     15
+Arizona                     25
+Arkansas                    19
+California                  19
+Colorado                    34
+Connecticut                 55
+Delaware                    44
+District of Columbia        59
+Florida                     48
+Georgia                     25
+Hawaii                      27
+Idaho                       22
+Illinois                    19
+Indiana                     22
+Iowa                        28
+Kansas                      22
+Kentucky                    20
+Louisiana                   22
+Maine                       68
+Maryland                    47
+Massachusetts               95
+Michigan                    20
+Minnesota                   18
+Mississippi                 20
+Missouri                    20
+Montana                     24
+Nebraska                    24
+Nevada                      27
+New Hampshire               91
+New Jersey                  44
+New Mexico                  29
+New York                    55
+North Carolina              30
+Ohio                        26
+Oklahoma                    24
+Oregon                      11
+Pennsylvania                41
+Rhode Island               100
+South Carolina              28
+South Dakota                34
+Tennessee                   22
+Texas                       24
+Utah                        17
+Vermont                     62
+Virginia                    38
+Washington                  25
+West Virginia               28
+Wisconsin                   23

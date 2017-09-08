@@ -1,0 +1,44 @@
+                      sismo
+geoName                    
+Alabama                   7
+Arizona                  25
+Arkansas                 22
+California               40
+Colorado                 14
+Connecticut              21
+Delaware                 13
+District of Columbia     30
+Florida                  46
+Georgia                  24
+Hawaii                    9
+Illinois                 17
+Indiana                   6
+Kansas                   25
+Kentucky                 10
+Louisiana                 9
+Maryland                 18
+Massachusetts            15
+Michigan                 12
+Minnesota                 9
+Mississippi              10
+Missouri                  8
+Nebraska                  9
+Nevada                   27
+New Jersey               29
+New Mexico                9
+New York                 42
+North Carolina           14
+Ohio                     11
+Oklahoma                 15
+Oregon                  100
+Pennsylvania             10
+Rhode Island             19
+South Carolina           11
+Tennessee                 9
+Texas                    37
+Utah                     19
+Vermont                   6
+Virginia                 44
+Washington               12
+West Virginia             6
+Wisconsin                 9

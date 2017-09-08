@@ -1,0 +1,48 @@
+                      Chiapas
+geoName                      
+Alabama                    36
+Alaska                     93
+Arizona                    66
+Arkansas                   39
+California                 75
+Colorado                   45
+Connecticut                32
+Delaware                   41
+District of Columbia       52
+Florida                    58
+Georgia                    72
+Hawaii                     19
+Idaho                      27
+Illinois                   50
+Indiana                    33
+Iowa                       20
+Kansas                     59
+Kentucky                   55
+Louisiana                  28
+Maine                      16
+Maryland                   35
+Massachusetts              22
+Michigan                   34
+Minnesota                  25
+Mississippi                40
+Missouri                   24
+Nebraska                   27
+Nevada                     51
+New Jersey                 28
+New Mexico                 50
+New York                   37
+North Carolina             44
+Ohio                       29
+Oklahoma                   30
+Oregon                    100
+Pennsylvania               21
+Rhode Island               16
+South Carolina             56
+Tennessee                  47
+Texas                      89
+Utah                       36
+Vermont                    36
+Virginia                   66
+Washington                 37
+West Virginia              18
+Wisconsin                  27

@@ -1,0 +1,49 @@
+                      temblor
+geoName                      
+Alabama                    15
+Alaska                     19
+Arizona                    47
+Arkansas                   22
+California                100
+Colorado                   24
+Connecticut                27
+Delaware                   12
+District of Columbia       35
+Florida                    63
+Georgia                    36
+Hawaii                     15
+Idaho                      10
+Illinois                   26
+Indiana                    11
+Iowa                        8
+Kansas                     36
+Kentucky                   13
+Louisiana                  13
+Maryland                   22
+Massachusetts              21
+Michigan                   19
+Minnesota                  13
+Mississippi                15
+Missouri                    9
+Montana                     7
+Nebraska                   13
+Nevada                     50
+New Hampshire               8
+New Jersey                 40
+New Mexico                 20
+New York                   48
+North Carolina             18
+Ohio                       12
+Oklahoma                   31
+Oregon                     91
+Pennsylvania               15
+Rhode Island               21
+South Carolina             16
+Tennessee                  12
+Texas                      46
+Utah                       26
+Vermont                    11
+Virginia                   39
+Washington                 24
+West Virginia               6
+Wisconsin                  12

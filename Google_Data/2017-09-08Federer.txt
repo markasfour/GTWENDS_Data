@@ -1,0 +1,53 @@
+                      Federer
+geoName                      
+Alabama                    47
+Alaska                     31
+Arizona                    49
+Arkansas                   35
+California                 78
+Colorado                   51
+Connecticut                91
+Delaware                   72
+District of Columbia       88
+Florida                    67
+Georgia                    63
+Hawaii                     72
+Idaho                      39
+Illinois                   62
+Indiana                    47
+Iowa                       43
+Kansas                     40
+Kentucky                   43
+Louisiana                  44
+Maine                      52
+Maryland                   75
+Massachusetts              82
+Michigan                   52
+Minnesota                  51
+Mississippi                42
+Missouri                   47
+Montana                    43
+Nebraska                   37
+Nevada                     49
+New Hampshire              57
+New Jersey                100
+New Mexico                 45
+New York                  100
+North Carolina             57
+North Dakota               34
+Ohio                       53
+Oklahoma                   40
+Oregon                     50
+Pennsylvania               61
+Rhode Island               70
+South Carolina             52
+South Dakota               35
+Tennessee                  43
+Texas                      50
+Utah                       47
+Vermont                    68
+Virginia                   66
+Washington                 59
+West Virginia              35
+Wisconsin                  43
+Wyoming                    33

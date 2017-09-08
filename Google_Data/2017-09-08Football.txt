@@ -1,0 +1,53 @@
+                      Football
+geoName                       
+Alabama                    100
+Alaska                      24
+Arizona                     37
+Arkansas                    52
+California                  26
+Colorado                    38
+Connecticut                 29
+Delaware                    34
+District of Columbia        40
+Florida                     40
+Georgia                     61
+Hawaii                      38
+Idaho                       48
+Illinois                    37
+Indiana                     42
+Iowa                        66
+Kansas                      44
+Kentucky                    51
+Louisiana                   57
+Maine                       25
+Maryland                    32
+Massachusetts               28
+Michigan                    54
+Minnesota                   42
+Mississippi                 79
+Missouri                    39
+Montana                     45
+Nebraska                    78
+Nevada                      33
+New Hampshire               25
+New Jersey                  31
+New Mexico                  30
+New York                    25
+North Carolina              45
+North Dakota                52
+Ohio                        59
+Oklahoma                    59
+Oregon                      32
+Pennsylvania                41
+Rhode Island                26
+South Carolina              68
+South Dakota                49
+Tennessee                   60
+Texas                       45
+Utah                        46
+Vermont                     22
+Virginia                    35
+Washington                  38
+West Virginia               62
+Wisconsin                   46
+Wyoming                     45

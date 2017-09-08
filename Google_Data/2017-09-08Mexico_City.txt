@@ -1,0 +1,53 @@
+                      Mexico City
+geoName                          
+Alabama                         9
+Alaska                          9
+Arizona                        23
+Arkansas                       11
+California                     23
+Colorado                       20
+Connecticut                    10
+Delaware                        9
+District of Columbia           19
+Florida                        12
+Georgia                        12
+Hawaii                          9
+Idaho                          14
+Illinois                       17
+Indiana                        11
+Iowa                           13
+Kansas                         16
+Kentucky                        8
+Louisiana                      10
+Maine                           8
+Maryland                       10
+Massachusetts                  10
+Michigan                       11
+Minnesota                      12
+Mississippi                     7
+Missouri                       15
+Montana                        12
+Nebraska                       12
+Nevada                         21
+New Hampshire                   7
+New Jersey                     11
+New Mexico                    100
+New York                       15
+North Carolina                  9
+North Dakota                    9
+Ohio                            8
+Oklahoma                       14
+Oregon                         12
+Pennsylvania                    9
+Rhode Island                    8
+South Carolina                  8
+South Dakota                   12
+Tennessee                       9
+Texas                          22
+Utah                           23
+Vermont                        10
+Virginia                        8
+Washington                     14
+West Virginia                   6
+Wisconsin                      11
+Wyoming                        15
