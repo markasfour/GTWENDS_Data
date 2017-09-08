@@ -1,53 +1,53 @@
                       Nikki Bella
 geoName                          
 Alabama                        74
-Alaska                         43
-Arizona                        71
-Arkansas                       75
-California                     66
-Colorado                       49
-Connecticut                    72
-Delaware                       73
-District of Columbia           51
-Florida                        63
-Georgia                        65
+Alaska                         42
+Arizona                        69
+Arkansas                       78
+California                     64
+Colorado                       47
+Connecticut                    69
+Delaware                       70
+District of Columbia           50
+Florida                        61
+Georgia                        63
 Hawaii                         66
-Idaho                          46
-Illinois                       71
-Indiana                        69
-Iowa                           65
-Kansas                         62
+Idaho                          44
+Illinois                       70
+Indiana                        67
+Iowa                           61
+Kansas                         64
 Kentucky                       75
 Louisiana                      79
-Maine                          51
-Maryland                       64
-Massachusetts                  64
+Maine                          47
+Maryland                       61
+Massachusetts                  63
 Michigan                       63
-Minnesota                      54
-Mississippi                    87
-Missouri                       63
-Montana                        40
-Nebraska                       68
-Nevada                         81
-New Hampshire                  54
-New Jersey                     92
-New Mexico                     86
-New York                       79
-North Carolina                 63
-North Dakota                   66
-Ohio                           72
-Oklahoma                       61
-Oregon                         35
-Pennsylvania                   81
-Rhode Island                   87
-South Carolina                 78
-South Dakota                   65
-Tennessee                      67
-Texas                          77
+Minnesota                      52
+Mississippi                    82
+Missouri                       58
+Montana                        39
+Nebraska                       63
+Nevada                         79
+New Hampshire                  52
+New Jersey                     89
+New Mexico                     80
+New York                       80
+North Carolina                 62
+North Dakota                   60
+Ohio                           73
+Oklahoma                       60
+Oregon                         34
+Pennsylvania                   79
+Rhode Island                   82
+South Carolina                 75
+South Dakota                   62
+Tennessee                      65
+Texas                          76
 Utah                           34
-Vermont                        39
+Vermont                        41
 Virginia                       73
-Washington                     44
+Washington                     43
 West Virginia                 100
-Wisconsin                      58
+Wisconsin                      57
 Wyoming                        44

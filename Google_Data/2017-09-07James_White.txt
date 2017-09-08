@@ -1,0 +1,53 @@
+                      James White
+geoName                          
+Alabama                        80
+Alaska                         44
+Arizona                        57
+Arkansas                       71
+California                     55
+Colorado                       54
+Connecticut                    79
+Delaware                       82
+District of Columbia           78
+Florida                        61
+Georgia                        71
+Hawaii                         47
+Idaho                          53
+Illinois                       72
+Indiana                        75
+Iowa                           66
+Kansas                         57
+Kentucky                       77
+Louisiana                      79
+Maine                          80
+Maryland                       76
+Massachusetts                  89
+Michigan                       77
+Minnesota                      73
+Mississippi                    79
+Missouri                       67
+Montana                        57
+Nebraska                       64
+Nevada                         56
+New Hampshire                  86
+New Jersey                     70
+New Mexico                     60
+New York                       76
+North Carolina                 78
+North Dakota                   64
+Ohio                           83
+Oklahoma                       66
+Oregon                         44
+Pennsylvania                   75
+Rhode Island                   90
+South Carolina                 89
+South Dakota                   72
+Tennessee                      90
+Texas                          64
+Utah                           53
+Vermont                        73
+Virginia                       68
+Washington                     57
+West Virginia                  75
+Wisconsin                     100
+Wyoming                        53

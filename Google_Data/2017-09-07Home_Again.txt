@@ -1,0 +1,53 @@
+                      Home Again
+geoName                         
+Alabama                       51
+Alaska                        67
+Arizona                       59
+Arkansas                      61
+California                    46
+Colorado                      72
+Connecticut                   51
+Delaware                      91
+District of Columbia          46
+Florida                       51
+Georgia                       50
+Hawaii                        41
+Idaho                         55
+Illinois                      50
+Indiana                       93
+Iowa                          47
+Kansas                        49
+Kentucky                      62
+Louisiana                     59
+Maine                         81
+Maryland                      54
+Massachusetts                 57
+Michigan                      54
+Minnesota                     51
+Mississippi                   56
+Missouri                      52
+Montana                       66
+Nebraska                      51
+Nevada                        78
+New Hampshire                 68
+New Jersey                    55
+New Mexico                    58
+New York                      47
+North Carolina                66
+North Dakota                  44
+Ohio                          59
+Oklahoma                      54
+Oregon                        46
+Pennsylvania                  52
+Rhode Island                  71
+South Carolina                56
+South Dakota                  49
+Tennessee                     61
+Texas                         50
+Utah                          78
+Vermont                       69
+Virginia                      50
+Washington                    52
+West Virginia                 49
+Wisconsin                     68
+Wyoming                      100

@@ -1,0 +1,39 @@
+                      Brandon Nimmo
+geoName                            
+Alabama                           0
+Arizona                           1
+Arkansas                          0
+California                        0
+Colorado                          3
+Connecticut                       5
+District of Columbia              1
+Florida                           1
+Georgia                           1
+Illinois                          1
+Indiana                           1
+Iowa                              1
+Kentucky                          1
+Louisiana                         0
+Maryland                          1
+Massachusetts                     1
+Michigan                          0
+Minnesota                         1
+Missouri                          1
+Montana                           3
+Nebraska                          3
+Nevada                            2
+New Jersey                        7
+New York                          7
+North Carolina                    1
+Ohio                              2
+Oregon                            0
+Pennsylvania                      1
+South Carolina                    1
+Tennessee                         1
+Texas                             0
+Utah                              1
+Virginia                          1
+Washington                        1
+West Virginia                     1
+Wisconsin                         1
+Wyoming                         100

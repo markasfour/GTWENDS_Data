@@ -1,52 +1,50 @@
                       Evacuation Zones Florida
 geoName                                       
-Alabama                                      6
-Alaska                                       5
+Alabama                                      7
 Arizona                                      4
-Arkansas                                     5
+Arkansas                                     4
 California                                   2
-Colorado                                     7
-Connecticut                                 11
-Delaware                                    13
+Colorado                                     6
+Connecticut                                  5
+Delaware                                    17
 District of Columbia                        10
 Florida                                    100
-Georgia                                      7
-Hawaii                                       9
+Georgia                                      9
+Hawaii                                       4
 Idaho                                        5
 Illinois                                     4
-Indiana                                      6
-Iowa                                         4
-Kansas                                       1
+Indiana                                      5
+Iowa                                         1
+Kansas                                       2
 Kentucky                                     5
-Louisiana                                    2
-Maine                                       11
+Louisiana                                    1
+Maine                                        8
 Maryland                                     6
-Massachusetts                                5
-Michigan                                     6
-Minnesota                                    2
-Mississippi                                  2
-Missouri                                     3
-Montana                                     11
+Massachusetts                                6
+Michigan                                     5
+Minnesota                                    4
+Mississippi                                  3
+Missouri                                     4
+Montana                                      4
 Nebraska                                     4
-Nevada                                       5
-New Hampshire                                9
-New Jersey                                   7
-New Mexico                                   7
+Nevada                                       4
+New Hampshire                               10
+New Jersey                                   8
+New Mexico                                   2
 New York                                     6
-North Carolina                               4
-North Dakota                                16
+North Carolina                               5
 Ohio                                         5
-Oklahoma                                     2
-Oregon                                       2
-Pennsylvania                                 5
-Rhode Island                                 4
-South Carolina                               8
-Tennessee                                    4
-Texas                                        3
+Oklahoma                                     3
+Oregon                                       3
+Pennsylvania                                 6
+Rhode Island                                 9
+South Carolina                               7
+Tennessee                                    5
+Texas                                        2
 Utah                                         2
-Vermont                                     14
-Virginia                                     4
+Vermont                                      6
+Virginia                                     3
 Washington                                   3
-West Virginia                                4
-Wisconsin                                    4
+West Virginia                                9
+Wisconsin                                    7
 Wyoming                                      8

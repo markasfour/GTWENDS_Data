@@ -1,0 +1,17 @@
+                Pinellas County Evacuation Zones
+geoName                                         
+Alabama                                        5
+Arizona                                        2
+Colorado                                       3
+Florida                                      100
+Maryland                                       3
+Michigan                                       2
+New Hampshire                                 13
+New Jersey                                     2
+New York                                       1
+North Carolina                                 3
+Ohio                                           2
+Pennsylvania                                   1
+Tennessee                                      5
+Texas                                          1
+Virginia                                       1

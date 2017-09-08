@@ -1,51 +1,53 @@
                       Arie Luyendyk Jr
 geoName                               
-Alabama                             34
-Arizona                            100
-Arkansas                            58
-California                          53
-Colorado                            45
-Connecticut                         31
-Delaware                            36
-District of Columbia                31
-Florida                             34
-Georgia                             34
-Hawaii                              53
-Idaho                               55
-Illinois                            44
-Indiana                             95
-Iowa                                77
-Kansas                              44
-Kentucky                            29
-Louisiana                           31
-Maine                               25
-Maryland                            41
-Massachusetts                       39
-Michigan                            44
-Minnesota                           44
-Mississippi                         27
-Missouri                            39
-Montana                             21
+Alabama                             36
+Alaska                              11
+Arizona                             87
+Arkansas                            51
+California                          49
+Colorado                            36
+Connecticut                         41
+Delaware                            83
+District of Columbia                28
+Florida                             27
+Georgia                             30
+Hawaii                              46
+Idaho                               52
+Illinois                            37
+Indiana                            100
+Iowa                                74
+Kansas                              53
+Kentucky                            30
+Louisiana                           22
+Maine                               42
+Maryland                            32
+Massachusetts                       30
+Michigan                            45
+Minnesota                           43
+Mississippi                         20
+Missouri                            32
+Montana                             14
 Nebraska                            29
-Nevada                              49
-New Hampshire                       25
-New Jersey                          33
-New Mexico                          17
-New York                            32
-North Carolina                      41
-North Dakota                        30
-Ohio                                41
-Oklahoma                            41
-Oregon                              26
-Pennsylvania                        40
-Rhode Island                        21
-South Carolina                      36
-South Dakota                        22
-Tennessee                           32
-Texas                               33
-Utah                                38
-Vermont                             35
-Virginia                            28
-Washington                          31
-West Virginia                       16
-Wisconsin                           46
+Nevada                              43
+New Hampshire                       28
+New Jersey                          29
+New Mexico                          10
+New York                            27
+North Carolina                      39
+North Dakota                        17
+Ohio                                39
+Oklahoma                            33
+Oregon                              29
+Pennsylvania                        43
+Rhode Island                        26
+South Carolina                      28
+South Dakota                        12
+Tennessee                           31
+Texas                               31
+Utah                                27
+Vermont                             23
+Virginia                            26
+Washington                          29
+West Virginia                       31
+Wisconsin                           42
+Wyoming                             17

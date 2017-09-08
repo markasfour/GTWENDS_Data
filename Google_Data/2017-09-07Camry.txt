@@ -1,0 +1,53 @@
+                      Camry
+geoName                    
+Alabama                  88
+Alaska                   31
+Arizona                  66
+Arkansas                 67
+California               89
+Colorado                 48
+Connecticut              58
+Delaware                 60
+District of Columbia     66
+Florida                  74
+Georgia                  82
+Hawaii                   81
+Idaho                    54
+Illinois                 59
+Indiana                  52
+Iowa                     52
+Kansas                   54
+Kentucky                 85
+Louisiana                79
+Maine                    49
+Maryland                 72
+Massachusetts            68
+Michigan                 38
+Minnesota                56
+Mississippi             100
+Missouri                 55
+Montana                  39
+Nebraska                 51
+Nevada                   67
+New Hampshire            57
+New Jersey               64
+New Mexico               52
+New York                 54
+North Carolina           74
+North Dakota             41
+Ohio                     53
+Oklahoma                 59
+Oregon                   50
+Pennsylvania             51
+Rhode Island             81
+South Carolina           73
+South Dakota             43
+Tennessee                72
+Texas                    68
+Utah                     59
+Vermont                  42
+Virginia                 60
+Washington               65
+West Virginia            50
+Wisconsin                56
+Wyoming                  34
