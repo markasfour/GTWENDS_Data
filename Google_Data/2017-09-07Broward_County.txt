@@ -26,7 +26,7 @@ Michigan                           2
 Minnesota                          1
 Mississippi                        1
 Missouri                           1
-Montana                            0
+Montana                            1
 Nebraska                           1
 Nevada                             1
 New Hampshire                      1
@@ -36,7 +36,7 @@ New York                           2
 North Carolina                     2
 North Dakota                       0
 Ohio                               1
-Oklahoma                           7
+Oklahoma                           6
 Oregon                             1
 Pennsylvania                       2
 Rhode Island                       1

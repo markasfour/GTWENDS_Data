@@ -1,53 +1,53 @@
                       Katie Holmes
 geoName                           
-Alabama                         82
-Alaska                          70
+Alabama                         83
+Alaska                          72
 Arizona                         82
-Arkansas                        76
-California                      82
-Colorado                        80
+Arkansas                        75
+California                      85
+Colorado                        81
 Connecticut                     86
-Delaware                        81
+Delaware                        87
 District of Columbia            83
-Florida                         79
+Florida                         80
 Georgia                         83
-Hawaii                          76
-Idaho                           68
-Illinois                        82
+Hawaii                          80
+Idaho                           71
+Illinois                        85
 Indiana                         75
-Iowa                            66
-Kansas                          67
-Kentucky                        75
-Louisiana                       81
-Maine                           68
-Maryland                        87
+Iowa                            69
+Kansas                          68
+Kentucky                        81
+Louisiana                       83
+Maine                           69
+Maryland                        89
 Massachusetts                   89
-Michigan                        83
-Minnesota                       77
-Mississippi                     79
-Missouri                        78
-Montana                         69
-Nebraska                        74
-Nevada                          77
-New Hampshire                   79
-New Jersey                      85
-New Mexico                      77
-New York                        89
-North Carolina                  79
-North Dakota                    64
+Michigan                        85
+Minnesota                       80
+Mississippi                     78
+Missouri                        79
+Montana                         73
+Nebraska                        72
+Nevada                          78
+New Hampshire                   78
+New Jersey                      89
+New Mexico                      84
+New York                        91
+North Carolina                  80
+North Dakota                    66
 Ohio                           100
-Oklahoma                        75
-Oregon                          62
+Oklahoma                        76
+Oregon                          64
 Pennsylvania                    82
-Rhode Island                    84
-South Carolina                  76
+Rhode Island                    82
+South Carolina                  77
 South Dakota                    61
 Tennessee                       80
-Texas                           73
-Utah                            73
-Vermont                         68
+Texas                           76
+Utah                            75
+Vermont                         73
 Virginia                        73
-Washington                      83
-West Virginia                   77
-Wisconsin                       72
-Wyoming                         64
+Washington                      84
+West Virginia                   75
+Wisconsin                       73
+Wyoming                         70

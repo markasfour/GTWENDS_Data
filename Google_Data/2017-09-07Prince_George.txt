@@ -3,11 +3,11 @@ geoName
 Alabama                          12
 Alaska                           24
 Arizona                          11
-Arkansas                         11
+Arkansas                          9
 California                       11
 Colorado                         11
 Connecticut                      14
-Delaware                         22
+Delaware                         21
 District of Columbia             72
 Florida                          10
 Georgia                          13
@@ -17,37 +17,37 @@ Illinois                         11
 Indiana                          11
 Iowa                              9
 Kansas                           11
-Kentucky                         12
+Kentucky                         11
 Louisiana                        10
-Maine                            13
-Maryland                         91
+Maine                            12
+Maryland                         90
 Massachusetts                    14
 Michigan                         10
 Minnesota                        12
 Mississippi                      11
-Missouri                         11
-Montana                          13
+Missouri                         10
+Montana                          12
 Nebraska                          9
-Nevada                           12
-New Hampshire                    13
-New Jersey                       16
+Nevada                           11
+New Hampshire                    12
+New Jersey                       15
 New Mexico                       10
 New York                         16
-North Carolina                   17
+North Carolina                   16
 North Dakota                     10
 Ohio                             11
-Oklahoma                         10
+Oklahoma                          9
 Oregon                           11
 Pennsylvania                     17
-Rhode Island                     13
+Rhode Island                     12
 South Carolina                   17
 South Dakota                      7
 Tennessee                        14
 Texas                            10
-Utah                             13
+Utah                             12
 Vermont                          13
 Virginia                        100
 Washington                       14
 West Virginia                    15
-Wisconsin                        11
-Wyoming                          12
+Wisconsin                        10
+Wyoming                          10

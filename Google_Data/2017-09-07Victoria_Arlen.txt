@@ -1,51 +1,49 @@
                       Victoria Arlen
 geoName                             
-Alabama                            3
+Alabama                            4
 Arizona                            2
-Arkansas                           3
+Arkansas                           2
 California                         4
 Colorado                           2
-Connecticut                       10
+Connecticut                        8
 Delaware                           3
-District of Columbia               4
+District of Columbia               6
 Florida                            4
-Georgia                            4
-Hawaii                             5
+Georgia                            3
 Idaho                              5
 Illinois                           3
-Indiana                            4
+Indiana                            3
 Iowa                               3
-Kansas                             6
-Kentucky                           2
+Kansas                             2
+Kentucky                           3
 Louisiana                          2
 Maine                             12
-Maryland                           5
+Maryland                           4
 Massachusetts                     13
-Michigan                           5
+Michigan                           3
 Minnesota                          6
-Mississippi                        3
-Missouri                           4
-Montana                            6
-Nebraska                           1
-Nevada                             1
+Mississippi                        4
+Missouri                           3
+Nebraska                           4
+Nevada                             2
 New Hampshire                    100
-New Jersey                         6
-New Mexico                         5
-New York                           4
+New Jersey                         7
+New Mexico                         3
+New York                           5
 North Carolina                     4
 North Dakota                       4
-Ohio                               4
-Oklahoma                           4
-Oregon                             2
-Pennsylvania                       5
-Rhode Island                       7
+Ohio                               5
+Oklahoma                           3
+Oregon                             3
+Pennsylvania                       6
+Rhode Island                       5
 South Carolina                     4
 South Dakota                       4
-Tennessee                          6
+Tennessee                          4
 Texas                              4
-Utah                               5
-Vermont                            8
+Utah                               4
+Vermont                            6
 Virginia                           3
-Washington                         4
+Washington                         5
 West Virginia                      3
-Wisconsin                          4
+Wisconsin                          3

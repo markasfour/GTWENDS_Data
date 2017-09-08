@@ -1,0 +1,52 @@
+                      CJ Spiller
+geoName                         
+Alabama                       18
+Alaska                        19
+Arizona                       23
+Arkansas                      13
+California                    23
+Colorado                      25
+Connecticut                   28
+Delaware                      28
+District of Columbia          36
+Florida                       25
+Georgia                       27
+Hawaii                        25
+Idaho                         15
+Illinois                      33
+Indiana                       23
+Iowa                          25
+Kansas                        23
+Kentucky                      24
+Louisiana                     47
+Maine                         24
+Maryland                      28
+Massachusetts                 38
+Michigan                      25
+Minnesota                     34
+Mississippi                   22
+Missouri                      27
+Montana                       18
+Nebraska                      23
+Nevada                        21
+New Hampshire                 26
+New Jersey                    36
+New Mexico                    15
+New York                      43
+North Carolina                32
+North Dakota                  28
+Ohio                          26
+Oklahoma                      23
+Oregon                        15
+Pennsylvania                  34
+Rhode Island                  34
+South Carolina               100
+South Dakota                  23
+Tennessee                     25
+Texas                         21
+Utah                          12
+Vermont                       25
+Virginia                      27
+Washington                    34
+West Virginia                 20
+Wisconsin                     36

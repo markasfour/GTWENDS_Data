@@ -1,0 +1,25 @@
+                      I-26
+geoName                   
+Alabama                  1
+California               0
+District of Columbia     2
+Florida                  3
+Georgia                  8
+Illinois                 1
+Indiana                  1
+Kentucky                 4
+Maryland                 1
+Massachusetts            0
+Michigan                 1
+Missouri                 1
+New Jersey               1
+New York                 1
+North Carolina          23
+Ohio                     2
+Oregon                   1
+Pennsylvania             1
+South Carolina         100
+Tennessee               14
+Texas                    0
+Virginia                 2
+West Virginia            3

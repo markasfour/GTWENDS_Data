@@ -1,0 +1,44 @@
+                      Gausman
+geoName                      
+Alabama                     6
+Arizona                     6
+California                  8
+Colorado                   27
+Connecticut                17
+Delaware                   23
+District of Columbia       41
+Florida                     6
+Georgia                     6
+Illinois                   11
+Indiana                     9
+Iowa                       20
+Kansas                      9
+Kentucky                    6
+Louisiana                  44
+Maine                      13
+Maryland                  100
+Massachusetts              15
+Michigan                    8
+Minnesota                  23
+Mississippi                 6
+Missouri                   11
+Nebraska                   30
+Nevada                      9
+New Hampshire              13
+New Jersey                 16
+New York                   15
+North Carolina              8
+Ohio                        9
+Oklahoma                    7
+Oregon                      4
+Pennsylvania               21
+Rhode Island               15
+South Carolina              6
+South Dakota               10
+Tennessee                   6
+Texas                       7
+Utah                        5
+Virginia                   17
+Washington                  8
+West Virginia              11
+Wisconsin                  11

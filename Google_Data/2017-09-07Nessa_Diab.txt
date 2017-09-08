@@ -1,53 +1,53 @@
                       Nessa Diab
 geoName                         
-Alabama                       65
-Alaska                        37
-Arizona                       69
-Arkansas                      32
+Alabama                       51
+Alaska                        36
+Arizona                       61
+Arkansas                      36
 California                   100
-Colorado                      40
-Connecticut                   46
+Colorado                      39
+Connecticut                   41
 Delaware                      67
-District of Columbia          82
-Florida                       45
-Georgia                       56
-Hawaii                        66
-Idaho                         33
-Illinois                      49
-Indiana                       42
-Iowa                          35
-Kansas                        29
-Kentucky                      34
-Louisiana                     65
-Maine                         20
-Maryland                      73
-Massachusetts                 48
-Michigan                      39
-Minnesota                     40
-Mississippi                   56
-Missouri                      52
-Montana                       42
-Nebraska                      34
-Nevada                        93
-New Hampshire                 24
-New Jersey                    63
-New Mexico                    33
-New York                      56
+District of Columbia          78
+Florida                       49
+Georgia                       51
+Hawaii                        58
+Idaho                         37
+Illinois                      46
+Indiana                       37
+Iowa                          47
+Kansas                        31
+Kentucky                      35
+Louisiana                     59
+Maine                         22
+Maryland                      77
+Massachusetts                 46
+Michigan                      37
+Minnesota                     42
+Mississippi                   52
+Missouri                      46
+Montana                       37
+Nebraska                      35
+Nevada                        86
+New Hampshire                 34
+New Jersey                    62
+New Mexico                    38
+New York                      55
 North Carolina                57
-North Dakota                  32
+North Dakota                  29
 Ohio                          47
-Oklahoma                      27
-Oregon                        31
+Oklahoma                      31
+Oregon                        25
 Pennsylvania                  54
-Rhode Island                  60
-South Carolina                61
-South Dakota                  45
-Tennessee                     46
+Rhode Island                  53
+South Carolina                56
+South Dakota                  38
+Tennessee                     42
 Texas                         52
-Utah                          43
-Vermont                       26
-Virginia                      50
-Washington                    55
-West Virginia                 28
+Utah                          39
+Vermont                       31
+Virginia                      48
+Washington                    51
+West Virginia                 27
 Wisconsin                     43
-Wyoming                       29
+Wyoming                       31

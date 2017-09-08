@@ -1,0 +1,53 @@
+                      Google Drive
+geoName                           
+Alabama                         37
+Alaska                          35
+Arizona                         38
+Arkansas                        53
+California                      61
+Colorado                        62
+Connecticut                     83
+Delaware                        45
+District of Columbia            28
+Florida                         28
+Georgia                         31
+Hawaii                          58
+Idaho                           65
+Illinois                        56
+Indiana                         66
+Iowa                            80
+Kansas                          43
+Kentucky                        34
+Louisiana                       29
+Maine                           83
+Maryland                        46
+Massachusetts                   68
+Michigan                        48
+Minnesota                       55
+Mississippi                     26
+Missouri                        62
+Montana                         55
+Nebraska                        50
+Nevada                          39
+New Hampshire                   79
+New Jersey                      72
+New Mexico                      30
+New York                        42
+North Carolina                  58
+North Dakota                    44
+Ohio                            55
+Oklahoma                        26
+Oregon                          43
+Pennsylvania                    49
+Rhode Island                    57
+South Carolina                  47
+South Dakota                    69
+Tennessee                       26
+Texas                           37
+Utah                            61
+Vermont                        100
+Virginia                        46
+Washington                      42
+West Virginia                   21
+Wisconsin                       86
+Wyoming                         72

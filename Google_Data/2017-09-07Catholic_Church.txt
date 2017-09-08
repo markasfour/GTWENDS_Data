@@ -1,11 +1,11 @@
                       Catholic Church
 geoName                              
-Alabama                            47
-Alaska                             37
+Alabama                            46
+Alaska                             38
 Arizona                            66
 Arkansas                           42
 California                         52
-Colorado                           60
+Colorado                           59
 Connecticut                        41
 Delaware                           45
 District of Columbia               60
@@ -13,41 +13,41 @@ Florida                            82
 Georgia                            51
 Hawaii                             48
 Idaho                              42
-Illinois                           53
+Illinois                           52
 Indiana                            61
 Iowa                               65
 Kansas                             72
 Kentucky                           51
 Louisiana                         100
-Maine                              38
-Maryland                           54
+Maine                              37
+Maryland                           55
 Massachusetts                      38
 Michigan                           57
 Minnesota                          78
-Mississippi                        49
+Mississippi                        47
 Missouri                           64
-Montana                            51
-Nebraska                           83
-Nevada                             58
-New Hampshire                      41
-New Jersey                         44
-New Mexico                         70
+Montana                            49
+Nebraska                           82
+Nevada                             59
+New Hampshire                      40
+New Jersey                         42
+New Mexico                         67
 New York                           37
 North Carolina                     47
-North Dakota                       84
-Ohio                               52
+North Dakota                       85
+Ohio                               53
 Oklahoma                           53
-Oregon                             32
-Pennsylvania                       50
+Oregon                             33
+Pennsylvania                       48
 Rhode Island                       39
-South Carolina                     51
-South Dakota                       86
-Tennessee                          43
-Texas                              82
-Utah                               32
+South Carolina                     50
+South Dakota                       85
+Tennessee                          42
+Texas                              80
+Utah                               31
 Vermont                            42
-Virginia                           55
-Washington                         42
+Virginia                           53
+Washington                         41
 West Virginia                      37
 Wisconsin                          61
-Wyoming                            54
+Wyoming                            51

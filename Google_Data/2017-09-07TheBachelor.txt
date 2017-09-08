@@ -1,30 +1,30 @@
                       TheBachelor
 geoName                          
-Arizona                        51
-California                     44
-Colorado                       40
-Connecticut                    35
-District of Columbia           54
-Florida                        37
-Georgia                        28
-Illinois                       39
-Indiana                        51
+Arizona                        58
+California                     47
+Colorado                       50
+Connecticut                    33
+District of Columbia           56
+Florida                        38
+Georgia                        29
+Illinois                       48
+Indiana                        42
 Iowa                          100
-Maryland                       31
-Massachusetts                  46
-Michigan                       37
-Minnesota                      74
-Missouri                       36
-New Jersey                     38
-New York                       46
-North Carolina                 34
-Ohio                           53
-Oregon                         48
-Pennsylvania                   40
-South Carolina                 37
-Tennessee                      57
-Texas                          32
-Utah                           85
-Virginia                       40
+Maryland                       28
+Massachusetts                  51
+Michigan                       39
+Minnesota                      68
+Missouri                       41
+New Jersey                     34
+New York                       45
+North Carolina                 35
+Ohio                           41
+Oregon                         41
+Pennsylvania                   42
+South Carolina                 52
+Tennessee                      52
+Texas                          31
+Utah                           72
+Virginia                       43
 Washington                     51
-Wisconsin                      64
+Wisconsin                      63
