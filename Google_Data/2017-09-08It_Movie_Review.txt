@@ -1,0 +1,53 @@
+                      It Movie Review
+geoName                              
+Alabama                            71
+Alaska                             77
+Arizona                            75
+Arkansas                           94
+California                         71
+Colorado                           68
+Connecticut                        68
+Delaware                           57
+District of Columbia               61
+Florida                            65
+Georgia                            59
+Hawaii                             72
+Idaho                              86
+Illinois                           73
+Indiana                            76
+Iowa                               73
+Kansas                             59
+Kentucky                           79
+Louisiana                          53
+Maine                              74
+Maryland                           62
+Massachusetts                      73
+Michigan                           67
+Minnesota                          75
+Mississippi                        54
+Missouri                           57
+Montana                            69
+Nebraska                           91
+Nevada                             63
+New Hampshire                     100
+New Jersey                         77
+New Mexico                         60
+New York                           71
+North Carolina                     70
+North Dakota                       33
+Ohio                               67
+Oklahoma                           59
+Oregon                             55
+Pennsylvania                       68
+Rhode Island                       66
+South Carolina                     58
+South Dakota                       86
+Tennessee                          63
+Texas                              57
+Utah                               78
+Vermont                            78
+Virginia                           56
+Washington                         80
+West Virginia                      64
+Wisconsin                          57
+Wyoming                            50

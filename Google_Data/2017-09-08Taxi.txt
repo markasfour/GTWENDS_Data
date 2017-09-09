@@ -1,0 +1,53 @@
+                      Taxi
+geoName                   
+Alabama                 31
+Alaska                  69
+Arizona                 43
+Arkansas                33
+California              52
+Colorado                49
+Connecticut             49
+Delaware                40
+District of Columbia    81
+Florida                 60
+Georgia                 56
+Hawaii                  67
+Idaho                   44
+Illinois                69
+Indiana                 36
+Iowa                    38
+Kansas                  47
+Kentucky                42
+Louisiana               45
+Maine                   69
+Maryland                56
+Massachusetts           77
+Michigan                39
+Minnesota               59
+Mississippi             40
+Missouri                45
+Montana                 39
+Nebraska                34
+Nevada                  59
+New Hampshire           47
+New Jersey              75
+New Mexico              32
+New York               100
+North Carolina          44
+North Dakota            61
+Ohio                    36
+Oklahoma                39
+Oregon                  47
+Pennsylvania            45
+Rhode Island            50
+South Carolina          44
+South Dakota            43
+Tennessee               39
+Texas                   43
+Utah                    33
+Vermont                 49
+Virginia                54
+Washington              60
+West Virginia           33
+Wisconsin               39
+Wyoming                 43

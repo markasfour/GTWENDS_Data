@@ -1,45 +1,47 @@
                       Sophia Lillis
 geoName                            
-Alabama                          41
-Arizona                          34
-Arkansas                         18
-California                       36
-Colorado                         41
-Connecticut                      27
-District of Columbia             42
-Florida                          27
-Georgia                          37
-Idaho                            26
-Illinois                         27
-Indiana                          21
-Iowa                             20
-Kansas                           40
-Kentucky                         57
-Louisiana                        29
-Maine                           100
-Maryland                         51
-Massachusetts                    31
-Michigan                         38
-Minnesota                        38
-Mississippi                      55
-Missouri                         46
+Alabama                          27
+Arizona                          52
+California                       50
+Colorado                         65
+Connecticut                      18
+District of Columbia             31
+Florida                          41
+Georgia                          40
+Hawaii                           59
+Idaho                            52
+Illinois                         36
+Indiana                          37
+Iowa                             54
+Kansas                           61
+Kentucky                         89
+Louisiana                        38
+Maine                            95
+Maryland                         60
+Massachusetts                    34
+Michigan                         48
+Minnesota                        59
+Mississippi                      99
+Missouri                         69
+Montana                          59
 Nebraska                         37
-Nevada                           35
-New Hampshire                    52
-New Jersey                       45
-New Mexico                       72
-New York                         40
-North Carolina                   22
-Ohio                             42
-Oklahoma                         59
-Oregon                           21
-Pennsylvania                     53
-Rhode Island                     62
-South Carolina                   34
-Tennessee                        23
-Texas                            35
-Utah                             48
-Virginia                         28
-Washington                       29
-West Virginia                    60
-Wisconsin                        16
+Nevada                           54
+New Hampshire                    35
+New Jersey                       44
+New Mexico                       80
+New York                         54
+North Carolina                   47
+Ohio                             58
+Oklahoma                        100
+Oregon                           32
+Pennsylvania                     73
+Rhode Island                     82
+South Carolina                   46
+South Dakota                     74
+Tennessee                        38
+Texas                            48
+Utah                             72
+Virginia                         38
+Washington                       33
+West Virginia                    40
+Wisconsin                        29

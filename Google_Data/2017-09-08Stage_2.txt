@@ -1,0 +1,19 @@
+                Stage 2
+geoName                
+Arizona              82
+California           79
+Florida              83
+Georgia              77
+Illinois             84
+Massachusetts        86
+Michigan             95
+New Jersey           89
+New York             80
+North Carolina       88
+Ohio                 89
+Pennsylvania         96
+Tennessee            94
+Texas                78
+Virginia             75
+Washington           84
+Wisconsin           100

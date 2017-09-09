@@ -1,0 +1,53 @@
+                      Scherzer
+geoName                       
+Alabama                      9
+Alaska                       7
+Arizona                     18
+Arkansas                     8
+California                  16
+Colorado                    11
+Connecticut                 24
+Delaware                    17
+District of Columbia        53
+Florida                     13
+Georgia                     10
+Hawaii                      12
+Idaho                        6
+Illinois                    23
+Indiana                     15
+Iowa                        14
+Kansas                      20
+Kentucky                    15
+Louisiana                    7
+Maine                       19
+Maryland                    38
+Massachusetts               27
+Michigan                   100
+Minnesota                   18
+Mississippi                  7
+Missouri                    42
+Montana                     11
+Nebraska                    12
+Nevada                      15
+New Hampshire               21
+New Jersey                  25
+New Mexico                   8
+New York                    23
+North Carolina              10
+North Dakota                10
+Ohio                        19
+Oklahoma                    11
+Oregon                       8
+Pennsylvania                20
+Rhode Island                24
+South Carolina               8
+South Dakota                 7
+Tennessee                   11
+Texas                        9
+Utah                         8
+Vermont                     18
+Virginia                    32
+Washington                  10
+West Virginia               13
+Wisconsin                   17
+Wyoming                      8

@@ -1,0 +1,53 @@
+                      pursuit
+geoName                      
+Alabama                    63
+Alaska                     65
+Arizona                    65
+Arkansas                   63
+California                 72
+Colorado                   62
+Connecticut                68
+Delaware                   60
+District of Columbia       59
+Florida                    67
+Georgia                    57
+Hawaii                     65
+Idaho                     100
+Illinois                   59
+Indiana                    66
+Iowa                       80
+Kansas                     59
+Kentucky                   61
+Louisiana                  58
+Maine                      68
+Maryland                   60
+Massachusetts              65
+Michigan                   65
+Minnesota                  61
+Mississippi                60
+Missouri                   66
+Montana                    68
+Nebraska                   63
+Nevada                     60
+New Hampshire              64
+New Jersey                 62
+New Mexico                 62
+New York                   58
+North Carolina             62
+North Dakota               85
+Ohio                       63
+Oklahoma                   66
+Oregon                     53
+Pennsylvania               59
+Rhode Island               75
+South Carolina             62
+South Dakota               74
+Tennessee                  62
+Texas                      60
+Utah                       67
+Vermont                    68
+Virginia                   56
+Washington                 64
+West Virginia              60
+Wisconsin                  66
+Wyoming                    69

@@ -1,0 +1,53 @@
+                      Raspberry Beret
+geoName                              
+Alabama                            66
+Alaska                             58
+Arizona                            41
+Arkansas                           57
+California                         42
+Colorado                           50
+Connecticut                        45
+Delaware                           44
+District of Columbia               57
+Florida                            37
+Georgia                            56
+Hawaii                             39
+Idaho                              54
+Illinois                           58
+Indiana                            61
+Iowa                               47
+Kansas                             41
+Kentucky                           66
+Louisiana                          47
+Maine                              60
+Maryland                           50
+Massachusetts                     100
+Michigan                           62
+Minnesota                          84
+Mississippi                        88
+Missouri                           54
+Montana                            36
+Nebraska                           65
+Nevada                             34
+New Hampshire                      58
+New Jersey                         48
+New Mexico                         45
+New York                           47
+North Carolina                     53
+North Dakota                       61
+Ohio                               59
+Oklahoma                           46
+Oregon                             40
+Pennsylvania                       57
+Rhode Island                       43
+South Carolina                     52
+South Dakota                       60
+Tennessee                          68
+Texas                              44
+Utah                               35
+Vermont                            51
+Virginia                           38
+Washington                         51
+West Virginia                      62
+Wisconsin                          58
+Wyoming                            48

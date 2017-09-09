@@ -1,53 +1,53 @@
                       Nadal
 geoName                    
 Alabama                  43
-Alaska                   31
-Arizona                  49
-Arkansas                 35
-California               77
+Alaska                   30
+Arizona                  50
+Arkansas                 36
+California               78
 Colorado                 53
 Connecticut              87
-Delaware                 73
-District of Columbia     83
-Florida                  81
+Delaware                 71
+District of Columbia     85
+Florida                  82
 Georgia                  62
 Hawaii                   70
-Idaho                    37
+Idaho                    39
 Illinois                 59
-Indiana                  44
-Iowa                     40
-Kansas                   42
+Indiana                  45
+Iowa                     39
+Kansas                   44
 Kentucky                 43
 Louisiana                45
 Maine                    43
-Maryland                 80
-Massachusetts            75
+Maryland                 79
+Massachusetts            76
 Michigan                 47
-Minnesota                51
+Minnesota                52
 Mississippi              39
-Missouri                 46
+Missouri                 45
 Montana                  36
 Nebraska                 39
 Nevada                   59
-New Hampshire            54
+New Hampshire            51
 New Jersey              100
-New Mexico               52
+New Mexico               53
 New York                100
 North Carolina           55
-North Dakota             34
+North Dakota             32
 Ohio                     47
-Oklahoma                 42
+Oklahoma                 41
 Oregon                   62
-Pennsylvania             61
-Rhode Island             69
-South Carolina           51
-South Dakota             33
-Tennessee                41
+Pennsylvania             62
+Rhode Island             67
+South Carolina           50
+South Dakota             31
+Tennessee                42
 Texas                    52
 Utah                     47
-Vermont                  74
-Virginia                 70
-Washington               54
+Vermont                  80
+Virginia                 68
+Washington               53
 West Virginia            38
-Wisconsin                41
-Wyoming                  32
+Wisconsin                42
+Wyoming                  35

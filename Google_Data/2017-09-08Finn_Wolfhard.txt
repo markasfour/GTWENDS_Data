@@ -1,51 +1,51 @@
                       Finn Wolfhard
 geoName                            
-Alabama                          77
-Alaska                           48
-Arizona                          77
-Arkansas                         81
-California                       90
-Colorado                         58
-Connecticut                      88
-Delaware                         95
-District of Columbia             42
-Florida                          72
-Georgia                          68
-Hawaii                           57
-Idaho                            47
-Illinois                         69
-Indiana                          78
-Iowa                             63
-Kansas                           46
-Kentucky                         71
-Louisiana                        56
-Maine                            83
-Maryland                         70
-Massachusetts                    90
-Michigan                         67
-Minnesota                        57
-Mississippi                      43
-Missouri                         59
-Montana                          48
-Nebraska                         75
-Nevada                           91
-New Hampshire                    96
-New Jersey                       88
-New Mexico                       71
-New York                         73
-North Carolina                   58
-North Dakota                    100
-Ohio                             73
-Oklahoma                         56
-Oregon                           68
+Alabama                          61
+Alaska                           69
+Arizona                          71
+Arkansas                         72
+California                       85
+Colorado                         52
+Connecticut                      91
+Delaware                        100
+District of Columbia             37
+Florida                          66
+Georgia                          62
+Hawaii                           46
+Idaho                            41
+Illinois                         65
+Indiana                          72
+Iowa                             56
+Kansas                           40
+Kentucky                         63
+Louisiana                        52
+Maine                            78
+Maryland                         66
+Massachusetts                    97
+Michigan                         65
+Minnesota                        52
+Mississippi                      49
+Missouri                         55
+Montana                          41
+Nebraska                         61
+Nevada                           79
+New Hampshire                   100
+New Jersey                       75
+New Mexico                       58
+New York                         71
+North Carolina                   51
+North Dakota                     77
+Ohio                             69
+Oklahoma                         53
+Oregon                           53
 Pennsylvania                     77
-Rhode Island                     74
-South Carolina                   56
-Tennessee                        57
-Texas                            70
-Utah                             79
-Vermont                          87
-Virginia                         57
-Washington                       73
-West Virginia                    79
-Wisconsin                        62
+Rhode Island                     52
+South Carolina                   58
+Tennessee                        63
+Texas                            68
+Utah                             72
+Vermont                          83
+Virginia                         52
+Washington                       70
+West Virginia                    74
+Wisconsin                        60
