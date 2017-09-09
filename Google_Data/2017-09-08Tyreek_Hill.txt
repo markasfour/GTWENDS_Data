@@ -1,53 +1,53 @@
                       Tyreek Hill
 geoName                          
-Alabama                        21
-Alaska                         13
+Alabama                        22
+Alaska                         10
 Arizona                        14
-Arkansas                       25
+Arkansas                       23
 California                     13
 Colorado                       22
-Connecticut                    19
-Delaware                       20
-District of Columbia           20
-Florida                        15
-Georgia                        27
+Connecticut                    20
+Delaware                       24
+District of Columbia           19
+Florida                        16
+Georgia                        25
 Hawaii                         14
-Idaho                          12
-Illinois                       18
-Indiana                        16
-Iowa                           33
-Kansas                        100
-Kentucky                       14
-Louisiana                      19
+Idaho                          11
+Illinois                       19
+Indiana                        15
+Iowa                           30
+Kansas                         99
+Kentucky                       13
+Louisiana                      18
 Maine                          14
-Maryland                       19
+Maryland                       18
 Massachusetts                  19
-Michigan                       14
+Michigan                       16
 Minnesota                      19
 Mississippi                    21
-Missouri                       83
-Montana                        17
-Nebraska                       34
+Missouri                       84
+Montana                        16
+Nebraska                       32
 Nevada                         11
 New Hampshire                  15
-New Jersey                     21
-New Mexico                     13
+New Jersey                     20
+New Mexico                     14
 New York                       15
-North Carolina                 18
-North Dakota                   20
-Ohio                           17
-Oklahoma                       98
-Oregon                          9
-Pennsylvania                   21
-Rhode Island                   20
+North Carolina                 17
+North Dakota                   24
+Ohio                           18
+Oklahoma                      100
+Oregon                          8
+Pennsylvania                   20
+Rhode Island                   19
 South Carolina                 18
 South Dakota                   19
-Tennessee                      16
-Texas                          20
-Utah                           11
-Vermont                        17
+Tennessee                      18
+Texas                          21
+Utah                           12
+Vermont                        12
 Virginia                       13
 Washington                     14
 West Virginia                  14
-Wisconsin                      20
-Wyoming                        10
+Wisconsin                      22
+Wyoming                        16

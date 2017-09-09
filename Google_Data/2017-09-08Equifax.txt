@@ -1,53 +1,53 @@
                       Equifax
 geoName                      
-Alabama                    65
-Alaska                     34
+Alabama                    67
+Alaska                     33
 Arizona                    36
-Arkansas                   36
-California                 38
+Arkansas                   35
+California                 39
 Colorado                   38
-Connecticut                33
+Connecticut                34
 Delaware                   44
 District of Columbia       52
-Florida                    68
+Florida                    69
 Georgia                   100
-Hawaii                     32
-Idaho                      30
+Hawaii                     31
+Idaho                      31
 Illinois                   34
 Indiana                    39
-Iowa                       31
-Kansas                     26
-Kentucky                   33
-Louisiana                  55
+Iowa                       32
+Kansas                     27
+Kentucky                   34
+Louisiana                  58
 Maine                      26
 Maryland                   60
 Massachusetts              30
-Michigan                   31
-Minnesota                  31
-Mississippi                56
-Missouri                   43
-Montana                    30
-Nebraska                   27
-Nevada                     42
+Michigan                   32
+Minnesota                  33
+Mississippi                57
+Missouri                   45
+Montana                    31
+Nebraska                   28
+Nevada                     43
 New Hampshire              29
 New Jersey                 38
-New Mexico                 35
+New Mexico                 34
 New York                   38
-North Carolina             64
-North Dakota               30
-Ohio                       35
+North Carolina             66
+North Dakota               31
+Ohio                       36
 Oklahoma                   36
 Oregon                     29
 Pennsylvania               32
 Rhode Island               38
-South Carolina             73
-South Dakota               24
-Tennessee                  52
+South Carolina             77
+South Dakota               26
+Tennessee                  53
 Texas                      44
-Utah                       28
+Utah                       29
 Vermont                    24
-Virginia                   48
+Virginia                   49
 Washington                 36
-West Virginia              33
-Wisconsin                  24
-Wyoming                    24
+West Virginia              35
+Wisconsin                  25
+Wyoming                    26

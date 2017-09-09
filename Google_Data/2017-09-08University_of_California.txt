@@ -1,0 +1,53 @@
+                      University of California
+geoName                                       
+Alabama                                     20
+Alaska                                      29
+Arizona                                     35
+Arkansas                                    20
+California                                 100
+Colorado                                    31
+Connecticut                                 30
+Delaware                                    29
+District of Columbia                        34
+Florida                                     18
+Georgia                                     18
+Hawaii                                      60
+Idaho                                       32
+Illinois                                    27
+Indiana                                     23
+Iowa                                        26
+Kansas                                      20
+Kentucky                                    17
+Louisiana                                   16
+Maine                                       23
+Maryland                                    34
+Massachusetts                               29
+Michigan                                    20
+Minnesota                                   25
+Mississippi                                 18
+Missouri                                    21
+Montana                                     31
+Nebraska                                    21
+Nevada                                      33
+New Hampshire                               24
+New Jersey                                  26
+New Mexico                                  32
+New York                                    22
+North Carolina                              20
+North Dakota                                20
+Ohio                                        24
+Oklahoma                                    17
+Oregon                                      28
+Pennsylvania                                45
+Rhode Island                                28
+South Carolina                              23
+South Dakota                                22
+Tennessee                                   19
+Texas                                       20
+Utah                                        29
+Vermont                                     27
+Virginia                                    22
+Washington                                  33
+West Virginia                               22
+Wisconsin                                   20
+Wyoming                                     29

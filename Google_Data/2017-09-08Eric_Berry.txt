@@ -1,53 +1,53 @@
                       Eric Berry
 geoName                         
-Alabama                       30
-Alaska                        13
+Alabama                       29
+Alaska                        12
 Arizona                       17
-Arkansas                      23
+Arkansas                      22
 California                    16
-Colorado                      28
+Colorado                      29
 Connecticut                   16
-Delaware                      22
-District of Columbia          27
+Delaware                      23
+District of Columbia          28
 Florida                       17
-Georgia                       42
-Hawaii                        22
+Georgia                       43
+Hawaii                        23
 Idaho                         12
 Illinois                      20
 Indiana                       18
 Iowa                          32
 Kansas                       100
-Kentucky                      24
+Kentucky                      25
 Louisiana                     26
-Maine                         15
-Maryland                      23
+Maine                         14
+Maryland                      24
 Massachusetts                 16
 Michigan                      15
-Minnesota                     19
+Minnesota                     18
 Mississippi                   28
-Missouri                      83
-Montana                       18
-Nebraska                      36
+Missouri                      85
+Montana                       19
+Nebraska                      34
 Nevada                        16
 New Hampshire                 16
 New Jersey                    21
-New Mexico                    18
+New Mexico                    17
 New York                      17
 North Carolina                24
-North Dakota                  18
+North Dakota                  19
 Ohio                          18
-Oklahoma                      23
+Oklahoma                      22
 Oregon                        10
 Pennsylvania                  22
-Rhode Island                  19
+Rhode Island                  18
 South Carolina                27
-South Dakota                  21
+South Dakota                  22
 Tennessee                     85
 Texas                         18
 Utah                          14
-Vermont                       15
+Vermont                       13
 Virginia                      20
 Washington                    17
-West Virginia                 17
+West Virginia                 16
 Wisconsin                     19
 Wyoming                       20

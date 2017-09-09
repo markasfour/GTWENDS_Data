@@ -1,53 +1,53 @@
                        It
 geoName                  
 Alabama                92
-Alaska                 75
+Alaska                 74
 Arizona                83
-Arkansas               92
+Arkansas               91
 California             77
-Colorado               75
+Colorado               74
 Connecticut            77
-Delaware               81
-District of Columbia   73
+Delaware               80
+District of Columbia   72
 Florida                78
 Georgia                89
 Hawaii                 74
 Idaho                  81
-Illinois               79
-Indiana                89
-Iowa                   82
-Kansas                 79
+Illinois               77
+Indiana                88
+Iowa                   81
+Kansas                 78
 Kentucky               91
-Louisiana              88
+Louisiana              87
 Maine                  78
-Maryland               77
+Maryland               76
 Massachusetts          73
 Michigan               85
-Minnesota              76
+Minnesota              75
 Mississippi           100
-Missouri               85
-Montana                77
-Nebraska               82
+Missouri               84
+Montana                76
+Nebraska               81
 Nevada                 81
-New Hampshire          75
-New Jersey             76
-New Mexico             82
+New Hampshire          74
+New Jersey             75
+New Mexico             81
 New York               73
-North Carolina         85
+North Carolina         84
 North Dakota           79
-Ohio                   83
-Oklahoma               86
+Ohio                   82
+Oklahoma               85
 Oregon                 58
-Pennsylvania           81
-Rhode Island           78
-South Carolina         91
+Pennsylvania           80
+Rhode Island           77
+South Carolina         90
 South Dakota           83
-Tennessee              87
+Tennessee              88
 Texas                  81
-Utah                   85
+Utah                   84
 Vermont                73
 Virginia               71
 Washington             74
 West Virginia          94
-Wisconsin              78
-Wyoming                78
+Wisconsin              79
+Wyoming                77

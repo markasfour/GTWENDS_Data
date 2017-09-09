@@ -1,0 +1,52 @@
+                      Horry
+geoName                    
+Alabama                   1
+Alaska                    0
+Arizona                   0
+Arkansas                  0
+California                0
+Colorado                  0
+Connecticut               1
+Delaware                  1
+District of Columbia      1
+Florida                   1
+Georgia                   3
+Hawaii                    0
+Idaho                     0
+Illinois                  0
+Indiana                   0
+Iowa                      0
+Kansas                    0
+Kentucky                  1
+Louisiana                 0
+Maine                     0
+Maryland                  1
+Massachusetts             0
+Michigan                  0
+Minnesota                 0
+Mississippi               1
+Missouri                  0
+Montana                   0
+Nebraska                  0
+Nevada                    0
+New Hampshire             0
+New Jersey                1
+New Mexico                0
+New York                  1
+North Carolina            6
+North Dakota              0
+Ohio                      1
+Oklahoma                  0
+Oregon                    0
+Pennsylvania              1
+Rhode Island              1
+South Carolina          100
+South Dakota              0
+Tennessee                 2
+Texas                     1
+Utah                      0
+Vermont                   1
+Virginia                  1
+Washington                0
+West Virginia             2
+Wisconsin                 0
