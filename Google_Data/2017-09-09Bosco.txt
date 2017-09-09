@@ -1,0 +1,52 @@
+                      Bosco
+geoName                    
+Alabama                   9
+Alaska                   18
+Arizona                  38
+Arkansas                 10
+California               47
+Colorado                 14
+Connecticut              35
+Delaware                 19
+District of Columbia     35
+Florida                  21
+Georgia                  13
+Hawaii                   25
+Idaho                    10
+Illinois                 26
+Indiana                  25
+Iowa                     44
+Kansas                   22
+Kentucky                 15
+Louisiana                28
+Maine                    16
+Maryland                 24
+Massachusetts            24
+Michigan                 32
+Minnesota                16
+Mississippi              11
+Missouri                 23
+Montana                  10
+Nebraska                 15
+Nevada                   21
+New Hampshire            20
+New Jersey              100
+New Mexico                9
+New York                 44
+North Carolina           14
+North Dakota             14
+Ohio                     25
+Oklahoma                 13
+Oregon                   25
+Pennsylvania             26
+Rhode Island             19
+South Carolina           11
+South Dakota             13
+Tennessee                13
+Texas                    15
+Utah                     14
+Vermont                  20
+Virginia                 20
+Washington               17
+West Virginia            16
+Wisconsin                20

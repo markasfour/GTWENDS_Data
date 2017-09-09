@@ -1,0 +1,53 @@
+                      Sam Smith
+geoName                        
+Alabama                      59
+Alaska                       50
+Arizona                      59
+Arkansas                     60
+California                   69
+Colorado                     55
+Connecticut                  52
+Delaware                     62
+District of Columbia         87
+Florida                      56
+Georgia                      66
+Hawaii                      100
+Idaho                        49
+Illinois                     63
+Indiana                      52
+Iowa                         49
+Kansas                       52
+Kentucky                     69
+Louisiana                    64
+Maine                        53
+Maryland                     59
+Massachusetts                62
+Michigan                     60
+Minnesota                    54
+Mississippi                  62
+Missouri                     54
+Montana                      43
+Nebraska                     53
+Nevada                       63
+New Hampshire                47
+New Jersey                   63
+New Mexico                   44
+New York                     71
+North Carolina               63
+North Dakota                 40
+Ohio                         56
+Oklahoma                     74
+Oregon                       45
+Pennsylvania                 62
+Rhode Island                 61
+South Carolina               73
+South Dakota                 46
+Tennessee                    66
+Texas                        56
+Utah                         61
+Vermont                      52
+Virginia                     69
+Washington                   64
+West Virginia                53
+Wisconsin                    53
+Wyoming                      45

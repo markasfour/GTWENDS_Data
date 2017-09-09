@@ -1,0 +1,50 @@
+                      Hurricane Jose Path
+geoName                                  
+Alabama                                52
+Arizona                                31
+Arkansas                               62
+California                             13
+Colorado                               32
+Connecticut                            31
+Delaware                               38
+District of Columbia                   42
+Florida                               100
+Georgia                                55
+Hawaii                                 37
+Idaho                                  44
+Illinois                               28
+Indiana                                43
+Iowa                                   27
+Kansas                                 22
+Kentucky                               40
+Louisiana                              92
+Maine                                  32
+Maryland                               37
+Massachusetts                          20
+Michigan                               24
+Minnesota                              14
+Mississippi                            42
+Missouri                               28
+Nebraska                               31
+Nevada                                 16
+New Hampshire                          22
+New Jersey                             46
+New Mexico                             27
+New York                               38
+North Carolina                         75
+Ohio                                   33
+Oklahoma                               21
+Oregon                                  8
+Pennsylvania                           31
+Rhode Island                           43
+South Carolina                         94
+South Dakota                           94
+Tennessee                              35
+Texas                                  51
+Utah                                   24
+Vermont                                47
+Virginia                               36
+Washington                             12
+West Virginia                          51
+Wisconsin                              27
+Wyoming                                70

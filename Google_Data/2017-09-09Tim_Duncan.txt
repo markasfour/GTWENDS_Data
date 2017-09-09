@@ -1,0 +1,53 @@
+                      Tim Duncan
+geoName                         
+Alabama                       35
+Alaska                        26
+Arizona                       30
+Arkansas                      38
+California                    38
+Colorado                      29
+Connecticut                   34
+Delaware                      33
+District of Columbia          47
+Florida                       37
+Georgia                       44
+Hawaii                        32
+Idaho                         24
+Illinois                      42
+Indiana                       33
+Iowa                          29
+Kansas                        34
+Kentucky                      35
+Louisiana                     44
+Maine                         22
+Maryland                      45
+Massachusetts                 34
+Michigan                      33
+Minnesota                     30
+Mississippi                   43
+Missouri                      32
+Montana                       25
+Nebraska                      31
+Nevada                        33
+New Hampshire                 21
+New Jersey                    39
+New Mexico                    29
+New York                      45
+North Carolina                43
+North Dakota                  29
+Ohio                          34
+Oklahoma                      49
+Oregon                        25
+Pennsylvania                  33
+Rhode Island                  30
+South Carolina                36
+South Dakota                  30
+Tennessee                     36
+Texas                        100
+Utah                          30
+Vermont                       19
+Virginia                      32
+Washington                    29
+West Virginia                 30
+Wisconsin                     28
+Wyoming                       24

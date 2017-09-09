@@ -1,0 +1,51 @@
+                      Troy Gentry
+geoName                          
+Alabama                        30
+Alaska                         12
+Arizona                         8
+Arkansas                       27
+California                      5
+Colorado                       10
+Connecticut                     7
+District of Columbia           12
+Florida                        11
+Georgia                        21
+Hawaii                         10
+Idaho                          24
+Illinois                       13
+Indiana                        23
+Iowa                           12
+Kansas                         17
+Kentucky                      100
+Louisiana                      13
+Maine                          13
+Maryland                       12
+Massachusetts                   8
+Michigan                       19
+Minnesota                      21
+Mississippi                    19
+Missouri                       21
+Montana                        20
+Nebraska                       14
+Nevada                         10
+New Hampshire                   9
+New Jersey                      9
+New Mexico                      8
+New York                        7
+North Carolina                 16
+North Dakota                   44
+Ohio                           15
+Oklahoma                       31
+Oregon                          7
+Pennsylvania                   14
+Rhode Island                   14
+South Carolina                 16
+South Dakota                   68
+Tennessee                      57
+Texas                          10
+Utah                           15
+Virginia                       11
+Washington                      7
+West Virginia                  24
+Wisconsin                      24
+Wyoming                        47

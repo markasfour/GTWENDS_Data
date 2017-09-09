@@ -1,0 +1,53 @@
+                      Movie Theater
+geoName                            
+Alabama                          56
+Alaska                           43
+Arizona                          36
+Arkansas                         54
+California                       49
+Colorado                         63
+Connecticut                      65
+Delaware                         48
+District of Columbia             70
+Florida                          51
+Georgia                          59
+Hawaii                           48
+Idaho                            37
+Illinois                         72
+Indiana                          55
+Iowa                            100
+Kansas                           65
+Kentucky                         55
+Louisiana                        47
+Maine                            48
+Maryland                         56
+Massachusetts                    53
+Michigan                         50
+Minnesota                        94
+Mississippi                      74
+Missouri                         73
+Montana                          52
+Nebraska                         66
+Nevada                           54
+New Hampshire                    48
+New Jersey                       55
+New Mexico                       51
+New York                         59
+North Carolina                   59
+North Dakota                     66
+Ohio                             62
+Oklahoma                         62
+Oregon                           34
+Pennsylvania                     56
+Rhode Island                     29
+South Carolina                   57
+South Dakota                     73
+Tennessee                        60
+Texas                            52
+Utah                             51
+Vermont                          56
+Virginia                         41
+Washington                       54
+West Virginia                    46
+Wisconsin                        71
+Wyoming                          77

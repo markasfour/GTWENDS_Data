@@ -1,0 +1,53 @@
+                      Cuba
+geoName                   
+Alabama                 16
+Alaska                  16
+Arizona                 17
+Arkansas                14
+California              21
+Colorado                22
+Connecticut             23
+Delaware                24
+District of Columbia    39
+Florida                100
+Georgia                 23
+Hawaii                  15
+Idaho                   13
+Illinois                23
+Indiana                 16
+Iowa                    17
+Kansas                  17
+Kentucky                20
+Louisiana               19
+Maine                   16
+Maryland                24
+Massachusetts           21
+Michigan                17
+Minnesota               16
+Mississippi             15
+Missouri                31
+Montana                 13
+Nebraska                19
+Nevada                  31
+New Hampshire           16
+New Jersey              32
+New Mexico              32
+New York                32
+North Carolina          19
+North Dakota            12
+Ohio                    13
+Oklahoma                19
+Oregon                  16
+Pennsylvania            21
+Rhode Island            19
+South Carolina          18
+South Dakota            13
+Tennessee               16
+Texas                   22
+Utah                    12
+Vermont                 23
+Virginia                19
+Washington              16
+West Virginia           12
+Wisconsin               21
+Wyoming                 15

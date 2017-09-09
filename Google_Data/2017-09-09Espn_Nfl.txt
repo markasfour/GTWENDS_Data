@@ -1,0 +1,53 @@
+                      Espn Nfl
+geoName                       
+Alabama                     42
+Alaska                      65
+Arizona                     76
+Arkansas                    38
+California                  59
+Colorado                    93
+Connecticut                 65
+Delaware                    88
+District of Columbia        89
+Florida                     60
+Georgia                     66
+Hawaii                     100
+Idaho                       60
+Illinois                    60
+Indiana                     51
+Iowa                        65
+Kansas                      57
+Kentucky                    48
+Louisiana                   71
+Maine                       60
+Maryland                    84
+Massachusetts               66
+Michigan                    50
+Minnesota                   88
+Mississippi                 61
+Missouri                    55
+Montana                     76
+Nebraska                    54
+Nevada                      84
+New Hampshire               61
+New Jersey                  63
+New Mexico                  79
+New York                    57
+North Carolina              71
+North Dakota                83
+Ohio                        65
+Oklahoma                    46
+Oregon                      44
+Pennsylvania                72
+Rhode Island                68
+South Carolina              65
+South Dakota                87
+Tennessee                   51
+Texas                       66
+Utah                        47
+Vermont                     56
+Virginia                    64
+Washington                  96
+West Virginia               57
+Wisconsin                  100
+Wyoming                     74

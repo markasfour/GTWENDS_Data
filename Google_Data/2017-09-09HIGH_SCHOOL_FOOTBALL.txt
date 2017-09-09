@@ -1,0 +1,53 @@
+                      HIGH SCHOOL FOOTBALL
+geoName                                   
+Alabama                                100
+Alaska                                  20
+Arizona                                 35
+Arkansas                                55
+California                              25
+Colorado                                30
+Connecticut                             24
+Delaware                                30
+District of Columbia                    32
+Florida                                 34
+Georgia                                 72
+Hawaii                                  37
+Idaho                                   36
+Illinois                                36
+Indiana                                 51
+Iowa                                    67
+Kansas                                  43
+Kentucky                                56
+Louisiana                               65
+Maine                                   29
+Maryland                                27
+Massachusetts                           23
+Michigan                                44
+Minnesota                               37
+Mississippi                             99
+Missouri                                41
+Montana                                 33
+Nebraska                                49
+Nevada                                  26
+New Hampshire                           22
+New Jersey                              27
+New Mexico                              33
+New York                                15
+North Carolina                          50
+North Dakota                            33
+Ohio                                    65
+Oklahoma                                59
+Oregon                                  24
+Pennsylvania                            32
+Rhode Island                            18
+South Carolina                          73
+South Dakota                            48
+Tennessee                               60
+Texas                                   59
+Utah                                    41
+Vermont                                 17
+Virginia                                31
+Washington                              30
+West Virginia                           86
+Wisconsin                               40
+Wyoming                                 35
