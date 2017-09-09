@@ -1,50 +1,50 @@
                       Hurricane Jose Path
 geoName                                  
-Alabama                                52
-Arizona                                31
-Arkansas                               62
-California                             13
-Colorado                               32
-Connecticut                            31
-Delaware                               38
-District of Columbia                   42
+Alabama                                72
+Alaska                                 24
+Arizona                                23
+Arkansas                               63
+California                             14
+Colorado                               30
+Connecticut                            64
+Delaware                               79
+District of Columbia                   31
 Florida                               100
-Georgia                                55
-Hawaii                                 37
-Idaho                                  44
-Illinois                               28
-Indiana                                43
-Iowa                                   27
-Kansas                                 22
-Kentucky                               40
-Louisiana                              92
-Maine                                  32
-Maryland                               37
-Massachusetts                          20
-Michigan                               24
-Minnesota                              14
-Mississippi                            42
-Missouri                               28
-Nebraska                               31
-Nevada                                 16
-New Hampshire                          22
-New Jersey                             46
-New Mexico                             27
-New York                               38
-North Carolina                         75
-Ohio                                   33
-Oklahoma                               21
-Oregon                                  8
-Pennsylvania                           31
-Rhode Island                           43
-South Carolina                         94
-South Dakota                           94
-Tennessee                              35
-Texas                                  51
-Utah                                   24
-Vermont                                47
-Virginia                               36
-Washington                             12
-West Virginia                          51
-Wisconsin                              27
-Wyoming                                70
+Georgia                                62
+Idaho                                  59
+Illinois                               30
+Indiana                                44
+Iowa                                   34
+Kansas                                 33
+Kentucky                               34
+Louisiana                              82
+Maine                                  45
+Maryland                               60
+Massachusetts                          29
+Michigan                               26
+Minnesota                              17
+Mississippi                            50
+Missouri                               35
+Montana                                20
+Nebraska                               17
+Nevada                                 26
+New Hampshire                          42
+New Jersey                             54
+New Mexico                             48
+New York                               34
+North Carolina                         80
+Ohio                                   40
+Oklahoma                               22
+Oregon                                 16
+Pennsylvania                           41
+Rhode Island                           75
+South Carolina                         99
+South Dakota                           50
+Tennessee                              46
+Texas                                  52
+Utah                                   33
+Virginia                               51
+Washington                             19
+West Virginia                          40
+Wisconsin                              14
+Wyoming                                38

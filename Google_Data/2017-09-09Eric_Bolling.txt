@@ -1,53 +1,53 @@
                       Eric Bolling
 geoName                           
-Alabama                         92
-Alaska                          44
-Arizona                         66
-Arkansas                        66
-California                      39
-Colorado                        51
-Connecticut                     79
-Delaware                        97
+Alabama                         89
+Alaska                          45
+Arizona                         67
+Arkansas                        63
+California                      40
+Colorado                        49
+Connecticut                     84
+Delaware                        92
 District of Columbia            56
 Florida                         82
 Georgia                         61
-Hawaii                          33
+Hawaii                          36
 Idaho                           58
-Illinois                        51
+Illinois                        55
 Indiana                         70
-Iowa                            43
-Kansas                          52
-Kentucky                        58
+Iowa                            46
+Kansas                          55
+Kentucky                        59
 Louisiana                       65
-Maine                           76
-Maryland                        62
-Massachusetts                   61
-Michigan                        61
-Minnesota                       44
-Mississippi                     64
-Missouri                        57
-Montana                         73
-Nebraska                        60
+Maine                           74
+Maryland                        66
+Massachusetts                   60
+Michigan                        64
+Minnesota                       45
+Mississippi                     58
+Missouri                        60
+Montana                         71
+Nebraska                        53
 Nevada                          62
-New Hampshire                   74
+New Hampshire                   75
 New Jersey                     100
-New Mexico                      55
-New York                        58
+New Mexico                      59
+New York                        59
 North Carolina                  66
-North Dakota                    51
-Ohio                            63
-Oklahoma                        47
-Oregon                          33
-Pennsylvania                    76
-Rhode Island                    69
-South Carolina                  84
-South Dakota                    55
-Tennessee                       62
+North Dakota                    48
+Ohio                            66
+Oklahoma                        52
+Oregon                          36
+Pennsylvania                    74
+Rhode Island                    65
+South Carolina                  88
+South Dakota                    47
+Tennessee                       64
 Texas                           49
-Utah                            37
-Vermont                         59
+Utah                            43
+Vermont                         61
 Virginia                        59
-Washington                      41
-West Virginia                   82
+Washington                      43
+West Virginia                   67
 Wisconsin                       58
-Wyoming                         70
+Wyoming                         59

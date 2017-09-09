@@ -1,0 +1,52 @@
+                      Klopp
+geoName                    
+Alabama                  40
+Alaska                   35
+Arizona                  38
+Arkansas                 43
+California               68
+Colorado                 45
+Connecticut              82
+Delaware                 85
+District of Columbia    100
+Florida                  58
+Georgia                  50
+Hawaii                   62
+Idaho                    27
+Illinois                 62
+Indiana                  50
+Iowa                     58
+Kansas                   48
+Kentucky                 37
+Louisiana                35
+Maine                    55
+Maryland                 80
+Massachusetts            75
+Michigan                 45
+Minnesota                80
+Mississippi              26
+Missouri                 44
+Montana                  31
+Nebraska                 74
+Nevada                   51
+New Hampshire            62
+New Jersey               88
+New Mexico               40
+New York                 95
+North Carolina           61
+North Dakota             51
+Ohio                     59
+Oklahoma                 39
+Oregon                   51
+Pennsylvania             80
+Rhode Island             62
+South Carolina           42
+South Dakota             22
+Tennessee                34
+Texas                    49
+Utah                     45
+Vermont                  51
+Virginia                 73
+Washington               60
+West Virginia            20
+Wisconsin                64

@@ -1,0 +1,53 @@
+                      Everton
+geoName                      
+Alabama                    27
+Alaska                     21
+Arizona                    31
+Arkansas                   48
+California                 49
+Colorado                   44
+Connecticut               100
+Delaware                   49
+District of Columbia       75
+Florida                    49
+Georgia                    41
+Hawaii                     31
+Idaho                      64
+Illinois                   50
+Indiana                    45
+Iowa                       39
+Kansas                     57
+Kentucky                   36
+Louisiana                  33
+Maine                      54
+Maryland                   72
+Massachusetts              63
+Michigan                   36
+Minnesota                  55
+Mississippi                26
+Missouri                   60
+Montana                    34
+Nebraska                   38
+Nevada                     44
+New Hampshire              39
+New Jersey                 72
+New Mexico                 37
+New York                   71
+North Carolina             47
+North Dakota               30
+Ohio                       40
+Oklahoma                   34
+Oregon                     70
+Pennsylvania               55
+Rhode Island               46
+South Carolina             39
+South Dakota               33
+Tennessee                  38
+Texas                      40
+Utah                       52
+Vermont                    62
+Virginia                   80
+Washington                 40
+West Virginia              29
+Wisconsin                  43
+Wyoming                    34

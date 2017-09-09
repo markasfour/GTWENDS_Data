@@ -1,0 +1,49 @@
+                      Aguero
+geoName                     
+Alabama                   32
+Arizona                   50
+Arkansas                  36
+California                70
+Colorado                  42
+Connecticut               82
+Delaware                  59
+District of Columbia      68
+Florida                   78
+Georgia                   51
+Hawaii                    37
+Idaho                     28
+Illinois                  57
+Indiana                   41
+Iowa                      49
+Kansas                    57
+Kentucky                  30
+Louisiana                 31
+Maine                     42
+Maryland                  69
+Massachusetts             62
+Michigan                  39
+Minnesota                 44
+Mississippi               25
+Missouri                  40
+Nebraska                  43
+Nevada                    64
+New Hampshire             43
+New Jersey               100
+New Mexico                37
+New York                  82
+North Carolina            51
+North Dakota              32
+Ohio                      37
+Oklahoma                  41
+Oregon                    95
+Pennsylvania              51
+Rhode Island              62
+South Carolina            43
+Tennessee                 32
+Texas                     66
+Utah                      42
+Vermont                   60
+Virginia                  88
+Washington                43
+West Virginia             32
+Wisconsin                 41

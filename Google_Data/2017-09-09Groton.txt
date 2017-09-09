@@ -1,0 +1,51 @@
+                      Groton
+geoName                     
+Alabama                    0
+Arizona                    0
+Arkansas                   0
+California                 0
+Colorado                   0
+Connecticut              100
+Delaware                   1
+District of Columbia       3
+Florida                    1
+Georgia                    1
+Hawaii                     1
+Idaho                      0
+Illinois                   0
+Indiana                    0
+Iowa                       0
+Kansas                     0
+Kentucky                   1
+Louisiana                  0
+Maine                      4
+Maryland                   1
+Massachusetts             24
+Michigan                   1
+Minnesota                  1
+Mississippi                0
+Missouri                   1
+Montana                    0
+Nebraska                   1
+Nevada                     0
+New Hampshire             16
+New Jersey                 1
+New Mexico                 0
+New York                   4
+North Carolina             1
+North Dakota               2
+Ohio                       1
+Oklahoma                   0
+Oregon                     0
+Pennsylvania               1
+Rhode Island              20
+South Carolina             1
+South Dakota              19
+Tennessee                  0
+Texas                      0
+Utah                       0
+Vermont                   13
+Virginia                   1
+Washington                 0
+West Virginia              0
+Wisconsin                  0

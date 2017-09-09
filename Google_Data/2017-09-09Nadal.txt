@@ -1,0 +1,53 @@
+                      Nadal
+geoName                    
+Alabama                  42
+Alaska                   32
+Arizona                  49
+Arkansas                 35
+California               77
+Colorado                 52
+Connecticut              88
+Delaware                 71
+District of Columbia     82
+Florida                  79
+Georgia                  61
+Hawaii                   69
+Idaho                    38
+Illinois                 59
+Indiana                  45
+Iowa                     39
+Kansas                   41
+Kentucky                 43
+Louisiana                42
+Maine                    42
+Maryland                 79
+Massachusetts            74
+Michigan                 46
+Minnesota                50
+Mississippi              38
+Missouri                 44
+Montana                  36
+Nebraska                 37
+Nevada                   58
+New Hampshire            53
+New Jersey              100
+New Mexico               52
+New York                 99
+North Carolina           53
+North Dakota             32
+Ohio                     46
+Oklahoma                 40
+Oregon                   61
+Pennsylvania             60
+Rhode Island             65
+South Carolina           51
+South Dakota             31
+Tennessee                41
+Texas                    51
+Utah                     45
+Vermont                  73
+Virginia                 68
+Washington               54
+West Virginia            40
+Wisconsin                41
+Wyoming                  29

@@ -1,0 +1,53 @@
+                      Trent
+geoName                    
+Alabama                 100
+Alaska                   31
+Arizona                  40
+Arkansas                 51
+California               35
+Colorado                 39
+Connecticut              33
+Delaware                 39
+District of Columbia     49
+Florida                  39
+Georgia                  49
+Hawaii                   34
+Idaho                    43
+Illinois                 41
+Indiana                  56
+Iowa                     45
+Kansas                   47
+Kentucky                 63
+Louisiana                54
+Maine                    29
+Maryland                 45
+Massachusetts            34
+Michigan                 39
+Minnesota                46
+Mississippi              79
+Missouri                 46
+Montana                  37
+Nebraska                 49
+Nevada                   38
+New Hampshire            32
+New Jersey               36
+New Mexico               33
+New York                 35
+North Carolina           59
+North Dakota             42
+Ohio                     57
+Oklahoma                 47
+Oregon                   30
+Pennsylvania             41
+Rhode Island             36
+South Carolina           46
+South Dakota             53
+Tennessee                71
+Texas                    43
+Utah                     43
+Vermont                  30
+Virginia                 43
+Washington               50
+West Virginia            47
+Wisconsin                39
+Wyoming                  42

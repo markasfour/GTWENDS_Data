@@ -1,53 +1,53 @@
                       Cuba
 geoName                   
 Alabama                 16
-Alaska                  16
-Arizona                 17
-Arkansas                14
+Alaska                  17
+Arizona                 18
+Arkansas                15
 California              21
 Colorado                22
 Connecticut             23
-Delaware                24
-District of Columbia    39
+Delaware                25
+District of Columbia    40
 Florida                100
-Georgia                 23
+Georgia                 24
 Hawaii                  15
 Idaho                   13
 Illinois                23
 Indiana                 16
-Iowa                    17
+Iowa                    18
 Kansas                  17
-Kentucky                20
+Kentucky                21
 Louisiana               19
-Maine                   16
+Maine                   17
 Maryland                24
-Massachusetts           21
+Massachusetts           22
 Michigan                17
 Minnesota               16
 Mississippi             15
-Missouri                31
-Montana                 13
+Missouri                32
+Montana                 14
 Nebraska                19
-Nevada                  31
+Nevada                  32
 New Hampshire           16
-New Jersey              32
-New Mexico              32
-New York                32
-North Carolina          19
-North Dakota            12
-Ohio                    13
-Oklahoma                19
-Oregon                  16
-Pennsylvania            21
-Rhode Island            19
+New Jersey              33
+New Mexico              33
+New York                33
+North Carolina          18
+North Dakota            13
+Ohio                    14
+Oklahoma                20
+Oregon                  17
+Pennsylvania            22
+Rhode Island            20
 South Carolina          18
-South Dakota            13
-Tennessee               16
-Texas                   22
-Utah                    12
+South Dakota            14
+Tennessee               17
+Texas                   23
+Utah                    13
 Vermont                 23
 Virginia                19
 Washington              16
 West Virginia           12
 Wisconsin               21
-Wyoming                 15
+Wyoming                 14
