@@ -1,0 +1,53 @@
+                      Stafford
+geoName                       
+Alabama                      8
+Alaska                       5
+Arizona                      6
+Arkansas                     7
+California                   5
+Colorado                     7
+Connecticut                 41
+Delaware                     8
+District of Columbia        50
+Florida                      6
+Georgia                      8
+Hawaii                       5
+Idaho                        6
+Illinois                     7
+Indiana                      8
+Iowa                         6
+Kansas                      11
+Kentucky                     7
+Louisiana                   11
+Maine                        7
+Maryland                    17
+Massachusetts               13
+Michigan                    15
+Minnesota                    7
+Mississippi                  8
+Missouri                     8
+Montana                     11
+Nebraska                     6
+Nevada                       5
+New Hampshire               10
+New Jersey                  14
+New Mexico                   5
+New York                     8
+North Carolina              10
+North Dakota                 6
+Ohio                         8
+Oklahoma                     9
+Oregon                       9
+Pennsylvania                 9
+Rhode Island                11
+South Carolina               9
+South Dakota                 6
+Tennessee                    8
+Texas                       22
+Utah                         5
+Vermont                     15
+Virginia                   100
+Washington                   8
+West Virginia               15
+Wisconsin                    8
+Wyoming                      6

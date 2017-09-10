@@ -1,0 +1,53 @@
+                      CBS
+geoName                  
+Alabama                70
+Alaska                 56
+Arizona                64
+Arkansas               60
+California             55
+Colorado               70
+Connecticut            78
+Delaware               81
+District of Columbia   66
+Florida                57
+Georgia                53
+Hawaii                 59
+Idaho                  66
+Illinois               67
+Indiana                69
+Iowa                   85
+Kansas                 71
+Kentucky               72
+Louisiana              59
+Maine                  88
+Maryland               73
+Massachusetts          78
+Michigan               63
+Minnesota              79
+Mississippi            55
+Missouri               67
+Montana                84
+Nebraska               94
+Nevada                 65
+New Hampshire          72
+New Jersey             77
+New Mexico             68
+New York               76
+North Carolina         68
+North Dakota           76
+Ohio                   74
+Oklahoma               59
+Oregon                 47
+Pennsylvania           82
+Rhode Island           75
+South Carolina         64
+South Dakota           96
+Tennessee              62
+Texas                  52
+Utah                   50
+Vermont               100
+Virginia               59
+Washington             55
+West Virginia          62
+Wisconsin              88
+Wyoming                79

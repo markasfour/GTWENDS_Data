@@ -1,53 +1,53 @@
                       Long Island Bahamas
 geoName                                  
-Alabama                                29
-Alaska                                 26
-Arizona                                14
-Arkansas                               27
+Alabama                                23
+Alaska                                 21
+Arizona                                15
+Arkansas                               24
 California                             12
-Colorado                               28
-Connecticut                            43
-Delaware                               30
-District of Columbia                   38
-Florida                                68
-Georgia                                27
-Hawaii                                 21
-Idaho                                  20
+Colorado                               24
+Connecticut                            40
+Delaware                               37
+District of Columbia                   33
+Florida                                66
+Georgia                                25
+Hawaii                                 16
+Idaho                                  21
 Illinois                               16
 Indiana                                16
-Iowa                                   11
-Kansas                                 15
-Kentucky                               23
-Louisiana                              13
-Maine                                  69
-Maryland                               33
-Massachusetts                          42
-Michigan                               18
-Minnesota                              29
-Mississippi                            17
-Missouri                               21
-Montana                                96
+Iowa                                   12
+Kansas                                 18
+Kentucky                               21
+Louisiana                              14
+Maine                                  70
+Maryland                               29
+Massachusetts                          40
+Michigan                               19
+Minnesota                              28
+Mississippi                            13
+Missouri                               20
+Montana                               100
 Nebraska                               15
-Nevada                                 11
+Nevada                                 13
 New Hampshire                          63
-New Jersey                             35
-New Mexico                             31
-New York                               60
-North Carolina                         34
+New Jersey                             33
+New Mexico                             25
+New York                               55
+North Carolina                         33
 North Dakota                           11
 Ohio                                   21
-Oklahoma                               17
-Oregon                                 18
-Pennsylvania                           31
-Rhode Island                           23
-South Carolina                         44
-South Dakota                           15
-Tennessee                              25
+Oklahoma                               16
+Oregon                                 21
+Pennsylvania                           30
+Rhode Island                           30
+South Carolina                         37
+South Dakota                           22
+Tennessee                              22
 Texas                                  17
-Utah                                   21
-Vermont                               100
-Virginia                               31
-Washington                             17
-West Virginia                          29
+Utah                                   15
+Vermont                                86
+Virginia                               29
+Washington                             15
+West Virginia                          28
 Wisconsin                              20
 Wyoming                                29

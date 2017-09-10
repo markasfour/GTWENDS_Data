@@ -1,0 +1,53 @@
+                      Tornado warning
+geoName                              
+Alabama                            90
+Alaska                             11
+Arizona                            18
+Arkansas                           84
+California                         16
+Colorado                           60
+Connecticut                        22
+Delaware                           37
+District of Columbia               46
+Florida                            69
+Georgia                            86
+Hawaii                              7
+Idaho                              25
+Illinois                           60
+Indiana                            83
+Iowa                               71
+Kansas                             67
+Kentucky                           57
+Louisiana                          81
+Maine                              24
+Maryland                           45
+Massachusetts                      37
+Michigan                           50
+Minnesota                          56
+Mississippi                       100
+Missouri                           85
+Montana                            22
+Nebraska                           75
+Nevada                             14
+New Hampshire                      28
+New Jersey                         25
+New Mexico                         28
+New York                           23
+North Carolina                     72
+North Dakota                       51
+Ohio                               68
+Oklahoma                           73
+Oregon                             12
+Pennsylvania                       39
+Rhode Island                       19
+South Carolina                     72
+South Dakota                       51
+Tennessee                          75
+Texas                              72
+Utah                               17
+Vermont                            23
+Virginia                           46
+Washington                         17
+West Virginia                      40
+Wisconsin                          63
+Wyoming                            57

@@ -1,0 +1,53 @@
+                      Pryor
+geoName                    
+Alabama                   8
+Alaska                    6
+Arizona                   6
+Arkansas                 21
+California                6
+Colorado                  7
+Connecticut               7
+Delaware                  8
+District of Columbia     10
+Florida                   7
+Georgia                  11
+Hawaii                    5
+Idaho                     5
+Illinois                  8
+Indiana                   7
+Iowa                      7
+Kansas                   10
+Kentucky                  8
+Louisiana                12
+Maine                     5
+Maryland                  9
+Massachusetts             6
+Michigan                  7
+Minnesota                 6
+Mississippi              10
+Missouri                 11
+Montana                  20
+Nebraska                  6
+Nevada                    7
+New Hampshire             4
+New Jersey                7
+New Mexico                6
+New York                  8
+North Carolina            7
+North Dakota              5
+Ohio                     12
+Oklahoma                100
+Oregon                    5
+Pennsylvania              9
+Rhode Island              6
+South Carolina            8
+South Dakota              6
+Tennessee                 9
+Texas                    10
+Utah                      5
+Vermont                   5
+Virginia                  7
+Washington                6
+West Virginia             7
+Wisconsin                 9
+Wyoming                   9

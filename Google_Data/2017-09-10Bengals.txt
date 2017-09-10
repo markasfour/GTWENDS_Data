@@ -1,0 +1,53 @@
+                      Bengals
+geoName                      
+Alabama                     7
+Alaska                      6
+Arizona                     7
+Arkansas                    5
+California                  5
+Colorado                    9
+Connecticut                 6
+Delaware                    8
+District of Columbia       10
+Florida                     7
+Georgia                     8
+Hawaii                      6
+Idaho                       8
+Illinois                    8
+Indiana                    17
+Iowa                        7
+Kansas                      6
+Kentucky                   61
+Louisiana                   7
+Maine                       5
+Maryland                    9
+Massachusetts               7
+Michigan                   16
+Minnesota                   8
+Mississippi                 6
+Missouri                    6
+Montana                     8
+Nebraska                    8
+Nevada                      7
+New Hampshire               6
+New Jersey                  6
+New Mexico                  7
+New York                    6
+North Carolina              8
+North Dakota                8
+Ohio                      100
+Oklahoma                    5
+Oregon                      3
+Pennsylvania               11
+Rhode Island                7
+South Carolina              8
+South Dakota                8
+Tennessee                   9
+Texas                       7
+Utah                        6
+Vermont                     5
+Virginia                    7
+Washington                  6
+West Virginia              20
+Wisconsin                   7
+Wyoming                     8

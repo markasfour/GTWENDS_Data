@@ -1,0 +1,53 @@
+                      Glennon
+geoName                      
+Alabama                     8
+Alaska                      5
+Arizona                     8
+Arkansas                    6
+California                  7
+Colorado                   14
+Connecticut                10
+Delaware                    8
+District of Columbia       12
+Florida                    11
+Georgia                     8
+Hawaii                      6
+Idaho                       6
+Illinois                   29
+Indiana                    11
+Iowa                       12
+Kansas                     13
+Kentucky                    8
+Louisiana                   7
+Maine                       7
+Maryland                    9
+Massachusetts              12
+Michigan                    7
+Minnesota                  13
+Mississippi                 5
+Missouri                  100
+Montana                     8
+Nebraska                   11
+Nevada                      6
+New Hampshire              10
+New Jersey                  9
+New Mexico                  7
+New York                    9
+North Carolina             14
+North Dakota                8
+Ohio                        9
+Oklahoma                    7
+Oregon                      6
+Pennsylvania                9
+Rhode Island                9
+South Carolina             10
+South Dakota                9
+Tennessee                  10
+Texas                       6
+Utah                        6
+Vermont                     8
+Virginia                   11
+Washington                  8
+West Virginia               5
+Wisconsin                  12
+Wyoming                     7

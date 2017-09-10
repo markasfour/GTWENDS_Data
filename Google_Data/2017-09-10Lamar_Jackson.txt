@@ -1,53 +1,53 @@
                       Lamar Jackson
 geoName                            
-Alabama                          38
-Alaska                            9
-Arizona                          12
-Arkansas                         21
+Alabama                          36
+Alaska                            7
+Arizona                          11
+Arkansas                         20
 California                       12
-Colorado                         12
-Connecticut                      15
-Delaware                         21
-District of Columbia             20
-Florida                          24
-Georgia                          34
-Hawaii                           11
-Idaho                            10
+Colorado                         11
+Connecticut                      14
+Delaware                         16
+District of Columbia             18
+Florida                          23
+Georgia                          33
+Hawaii                           12
+Idaho                            11
 Illinois                         16
-Indiana                          26
-Iowa                             21
-Kansas                           14
+Indiana                          27
+Iowa                             18
+Kansas                           15
 Kentucky                        100
-Louisiana                        26
-Maine                            12
-Maryland                         19
+Louisiana                        25
+Maine                            11
+Maryland                         18
 Massachusetts                    14
-Michigan                         20
+Michigan                         19
 Minnesota                        13
-Mississippi                      61
+Mississippi                      58
 Missouri                         15
-Montana                          14
-Nebraska                         39
+Montana                          12
+Nebraska                         35
 Nevada                           13
 New Hampshire                    11
-New Jersey                       17
-New Mexico                       11
-New York                         13
-North Carolina                   22
+New Jersey                       15
+New Mexico                       10
+New York                         12
+North Carolina                   21
 North Dakota                     16
-Ohio                             23
-Oklahoma                         16
+Ohio                             22
+Oklahoma                         17
 Oregon                            8
 Pennsylvania                     16
-Rhode Island                     16
+Rhode Island                     13
 South Carolina                   45
-South Dakota                     17
+South Dakota                     19
 Tennessee                        27
-Texas                            19
-Utah                             13
-Vermont                           8
-Virginia                         15
-Washington                       11
+Texas                            18
+Utah                             11
+Vermont                           7
+Virginia                         14
+Washington                       12
 West Virginia                    23
-Wisconsin                        14
-Wyoming                          15
+Wisconsin                        13
+Wyoming                          11

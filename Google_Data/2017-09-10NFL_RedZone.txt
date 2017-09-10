@@ -1,0 +1,53 @@
+                      NFL RedZone
+geoName                          
+Alabama                        38
+Alaska                         44
+Arizona                        55
+Arkansas                       41
+California                     53
+Colorado                       65
+Connecticut                    77
+Delaware                       96
+District of Columbia           63
+Florida                        59
+Georgia                        40
+Hawaii                         52
+Idaho                          40
+Illinois                       52
+Indiana                        55
+Iowa                           46
+Kansas                         41
+Kentucky                       41
+Louisiana                      44
+Maine                          36
+Maryland                       79
+Massachusetts                  81
+Michigan                       47
+Minnesota                      47
+Mississippi                    46
+Missouri                       48
+Montana                        62
+Nebraska                       53
+Nevada                         53
+New Hampshire                  75
+New Jersey                    100
+New Mexico                     41
+New York                       73
+North Carolina                 49
+North Dakota                   70
+Ohio                           49
+Oklahoma                       40
+Oregon                         37
+Pennsylvania                   80
+Rhode Island                   92
+South Carolina                 49
+South Dakota                   58
+Tennessee                      50
+Texas                          43
+Utah                           37
+Vermont                        63
+Virginia                       65
+Washington                     64
+West Virginia                  53
+Wisconsin                      61
+Wyoming                        67

@@ -1,0 +1,53 @@
+                      Jets
+geoName                   
+Alabama                 16
+Alaska                  17
+Arizona                 20
+Arkansas                14
+California              16
+Colorado                22
+Connecticut             56
+Delaware                26
+District of Columbia    36
+Florida                 32
+Georgia                 24
+Hawaii                  21
+Idaho                   16
+Illinois                24
+Indiana                 21
+Iowa                    17
+Kansas                  15
+Kentucky                29
+Louisiana               17
+Maine                   27
+Maryland                23
+Massachusetts           35
+Michigan               100
+Minnesota               27
+Mississippi             17
+Missouri                20
+Montana                 19
+Nebraska                17
+Nevada                  22
+New Hampshire           28
+New Jersey              95
+New Mexico              18
+New York                80
+North Carolina          26
+North Dakota            27
+Ohio                    34
+Oklahoma                17
+Oregon                  12
+Pennsylvania            30
+Rhode Island            34
+South Carolina          24
+South Dakota            18
+Tennessee               38
+Texas                   17
+Utah                    15
+Vermont                 31
+Virginia                21
+Washington              17
+West Virginia           23
+Wisconsin               20
+Wyoming                 18

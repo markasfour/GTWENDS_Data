@@ -1,0 +1,53 @@
+                      Jags
+geoName                   
+Alabama                 41
+Alaska                  13
+Arizona                 15
+Arkansas                11
+California              11
+Colorado                21
+Connecticut             15
+Delaware                20
+District of Columbia    19
+Florida                100
+Georgia                 26
+Hawaii                  12
+Idaho                    9
+Illinois                11
+Indiana                 22
+Iowa                    13
+Kansas                  11
+Kentucky                19
+Louisiana               23
+Maine                   12
+Maryland                15
+Massachusetts           13
+Michigan                26
+Minnesota               17
+Mississippi             35
+Missouri                14
+Montana                 23
+Nebraska                12
+Nevada                  12
+New Hampshire           10
+New Jersey              30
+New Mexico              11
+New York                12
+North Carolina          14
+North Dakota            13
+Ohio                    53
+Oklahoma                26
+Oregon                  10
+Pennsylvania            18
+Rhode Island            17
+South Carolina          15
+South Dakota            12
+Tennessee               17
+Texas                   15
+Utah                    11
+Vermont                 16
+Virginia                12
+Washington              16
+West Virginia           12
+Wisconsin               11
+Wyoming                 15

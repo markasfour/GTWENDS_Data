@@ -1,0 +1,53 @@
+                      Kizer
+geoName                    
+Alabama                  29
+Alaska                   21
+Arizona                  26
+Arkansas                 43
+California               22
+Colorado                 21
+Connecticut              23
+Delaware                 22
+District of Columbia     29
+Florida                  20
+Georgia                  23
+Hawaii                   23
+Idaho                    21
+Illinois                 38
+Indiana                  74
+Iowa                     27
+Kansas                   28
+Kentucky                 32
+Louisiana                25
+Maine                    16
+Maryland                 23
+Massachusetts            18
+Michigan                 34
+Minnesota                18
+Mississippi              36
+Missouri                 26
+Montana                  17
+Nebraska                 39
+Nevada                   23
+New Hampshire            21
+New Jersey               23
+New Mexico               21
+New York                 21
+North Carolina           30
+North Dakota             20
+Ohio                    100
+Oklahoma                 26
+Oregon                   36
+Pennsylvania             36
+Rhode Island             17
+South Carolina           36
+South Dakota             26
+Tennessee                78
+Texas                    35
+Utah                     20
+Vermont                  15
+Virginia                 20
+Washington               23
+West Virginia            28
+Wisconsin                21
+Wyoming                  21

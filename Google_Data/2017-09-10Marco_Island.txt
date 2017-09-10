@@ -1,0 +1,49 @@
+                      Marco Island
+geoName                           
+Alabama                          4
+Arizona                          2
+Arkansas                         4
+California                       2
+Colorado                         5
+Connecticut                     13
+Delaware                        11
+District of Columbia             8
+Florida                        100
+Georgia                          8
+Hawaii                           2
+Illinois                        15
+Indiana                         15
+Iowa                            12
+Kansas                           6
+Kentucky                        11
+Louisiana                        3
+Maine                           12
+Maryland                         8
+Massachusetts                   15
+Michigan                        14
+Minnesota                       14
+Mississippi                      2
+Missouri                         9
+Nebraska                         7
+Nevada                           2
+New Hampshire                   16
+New Jersey                      15
+New Mexico                       2
+New York                        10
+North Carolina                   6
+North Dakota                     9
+Ohio                            15
+Oklahoma                        14
+Oregon                           2
+Pennsylvania                    12
+Rhode Island                    15
+South Carolina                   6
+South Dakota                     6
+Tennessee                        7
+Texas                            3
+Utah                             2
+Vermont                          9
+Virginia                         5
+Washington                       1
+West Virginia                    7
+Wisconsin                       13

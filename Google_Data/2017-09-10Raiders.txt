@@ -1,0 +1,53 @@
+                      Raiders
+geoName                      
+Alabama                    13
+Alaska                     26
+Arizona                    44
+Arkansas                   18
+California                100
+Colorado                   49
+Connecticut                17
+Delaware                   22
+District of Columbia       22
+Florida                    14
+Georgia                    16
+Hawaii                     46
+Idaho                      40
+Illinois                   16
+Indiana                    14
+Iowa                       26
+Kansas                     30
+Kentucky                   16
+Louisiana                  15
+Maine                      14
+Maryland                   17
+Massachusetts              14
+Michigan                   13
+Minnesota                  15
+Mississippi                17
+Missouri                   24
+Montana                    41
+Nebraska                   27
+Nevada                     82
+New Hampshire              13
+New Jersey                 19
+New Mexico                 68
+New York                   14
+North Carolina             16
+North Dakota               25
+Ohio                       16
+Oklahoma                   17
+Oregon                     25
+Pennsylvania               20
+Rhode Island               17
+South Carolina             17
+South Dakota               35
+Tennessee                  18
+Texas                      23
+Utah                       37
+Vermont                    12
+Virginia                   17
+Washington                 37
+West Virginia              22
+Wisconsin                  17
+Wyoming                    49

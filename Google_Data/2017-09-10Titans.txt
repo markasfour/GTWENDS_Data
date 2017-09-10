@@ -1,0 +1,53 @@
+                      Titans
+geoName                     
+Alabama                   25
+Alaska                    17
+Arizona                   18
+Arkansas                  21
+California                17
+Colorado                  17
+Connecticut               16
+Delaware                  20
+District of Columbia      15
+Florida                   17
+Georgia                   22
+Hawaii                    33
+Idaho                     17
+Illinois                  17
+Indiana                   21
+Iowa                      22
+Kansas                    17
+Kentucky                  31
+Louisiana                 20
+Maine                     15
+Maryland                  18
+Massachusetts             14
+Michigan                  17
+Minnesota                 15
+Mississippi               26
+Missouri                  18
+Montana                   18
+Nebraska                  19
+Nevada                    20
+New Hampshire             15
+New Jersey                19
+New Mexico                19
+New York                  16
+North Carolina            21
+North Dakota              18
+Ohio                      20
+Oklahoma                  19
+Oregon                    16
+Pennsylvania              18
+Rhode Island              17
+South Carolina            21
+South Dakota              20
+Tennessee                100
+Texas                     20
+Utah                      18
+Vermont                   14
+Virginia                  17
+Washington                16
+West Virginia             20
+Wisconsin                 17
+Wyoming                   18

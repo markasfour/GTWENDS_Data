@@ -1,53 +1,53 @@
                       Sloane Stephens
 geoName                              
-Alabama                            56
-Alaska                             21
-Arizona                            31
-Arkansas                           34
-California                         44
+Alabama                            53
+Alaska                             20
+Arizona                            32
+Arkansas                           38
+California                         46
 Colorado                           35
-Connecticut                        60
-Delaware                           69
-District of Columbia               87
-Florida                            55
-Georgia                            79
-Hawaii                             38
-Idaho                              24
-Illinois                           46
-Indiana                            39
-Iowa                               26
-Kansas                             35
-Kentucky                           37
-Louisiana                          63
-Maine                              37
+Connecticut                        62
+Delaware                           62
+District of Columbia               95
+Florida                            57
+Georgia                            83
+Hawaii                             43
+Idaho                              23
+Illinois                           51
+Indiana                            43
+Iowa                               29
+Kansas                             37
+Kentucky                           34
+Louisiana                          60
+Maine                              35
 Maryland                          100
-Massachusetts                      49
+Massachusetts                      51
 Michigan                           43
-Minnesota                          39
-Mississippi                        53
-Missouri                           35
-Montana                            33
-Nebraska                           30
-Nevada                             41
-New Hampshire                      36
-New Jersey                         63
-New Mexico                         28
-New York                           72
-North Carolina                     53
+Minnesota                          38
+Mississippi                        54
+Missouri                           37
+Montana                            27
+Nebraska                           28
+Nevada                             38
+New Hampshire                      37
+New Jersey                         64
+New Mexico                         29
+New York                           73
+North Carolina                     54
 North Dakota                       23
-Ohio                               47
-Oklahoma                           34
-Oregon                             26
-Pennsylvania                       49
-Rhode Island                       39
-South Carolina                     57
-South Dakota                       23
-Tennessee                          42
-Texas                              42
-Utah                               22
-Vermont                            32
-Virginia                           52
+Ohio                               48
+Oklahoma                           35
+Oregon                             27
+Pennsylvania                       51
+Rhode Island                       41
+South Carolina                     65
+South Dakota                       28
+Tennessee                          43
+Texas                              43
+Utah                               26
+Vermont                            29
+Virginia                           56
 Washington                         35
 West Virginia                      26
-Wisconsin                          32
-Wyoming                            28
+Wisconsin                          33
+Wyoming                            32

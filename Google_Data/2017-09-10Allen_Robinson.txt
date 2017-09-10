@@ -1,0 +1,49 @@
+                      Allen Robinson
+geoName                             
+Alabama                           34
+Arizona                           33
+Arkansas                          40
+California                        31
+Colorado                          34
+Connecticut                       45
+Delaware                          53
+District of Columbia              60
+Florida                           51
+Georgia                           38
+Hawaii                            35
+Idaho                             23
+Illinois                          46
+Indiana                           37
+Iowa                              42
+Kansas                            30
+Kentucky                          33
+Louisiana                         46
+Maine                             36
+Maryland                          53
+Massachusetts                     46
+Michigan                          59
+Minnesota                         51
+Mississippi                       37
+Missouri                          32
+Nebraska                          34
+Nevada                            30
+New Hampshire                     35
+New Jersey                        58
+New Mexico                        16
+New York                          45
+North Carolina                    44
+North Dakota                      47
+Ohio                              44
+Oklahoma                          31
+Oregon                            21
+Pennsylvania                     100
+Rhode Island                      53
+South Carolina                    40
+South Dakota                      37
+Tennessee                         33
+Texas                             37
+Utah                              19
+Virginia                          40
+Washington                        35
+West Virginia                     33
+Wisconsin                         50

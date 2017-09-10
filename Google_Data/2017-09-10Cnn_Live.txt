@@ -1,0 +1,53 @@
+                      Cnn Live
+geoName                       
+Alabama                     54
+Alaska                      43
+Arizona                     54
+Arkansas                    50
+California                  57
+Colorado                    47
+Connecticut                 72
+Delaware                    69
+District of Columbia       100
+Florida                     70
+Georgia                     63
+Hawaii                      48
+Idaho                       39
+Illinois                    47
+Indiana                     48
+Iowa                        43
+Kansas                      41
+Kentucky                    43
+Louisiana                   52
+Maine                       62
+Maryland                    91
+Massachusetts               70
+Michigan                    51
+Minnesota                   54
+Mississippi                 45
+Missouri                    51
+Montana                     46
+Nebraska                    45
+Nevada                      51
+New Hampshire               56
+New Jersey                  75
+New Mexico                  47
+New York                    77
+North Carolina              55
+North Dakota                51
+Ohio                        48
+Oklahoma                    41
+Oregon                      64
+Pennsylvania                60
+Rhode Island                65
+South Carolina              69
+South Dakota                45
+Tennessee                   50
+Texas                       52
+Utah                        40
+Vermont                     78
+Virginia                    62
+Washington                  53
+West Virginia               47
+Wisconsin                   42
+Wyoming                     42

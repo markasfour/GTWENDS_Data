@@ -1,0 +1,48 @@
+                      HTTR
+geoName                   
+Alabama                  8
+Arizona                  9
+Arkansas                 8
+California               8
+Colorado                10
+Connecticut             16
+Delaware                36
+District of Columbia    72
+Florida                 10
+Georgia                 14
+Hawaii                   8
+Idaho                    7
+Illinois                 8
+Indiana                  8
+Iowa                     9
+Kansas                   5
+Kentucky                 7
+Louisiana                8
+Maine                   10
+Maryland               100
+Massachusetts           15
+Michigan                 7
+Minnesota                6
+Mississippi             10
+Missouri                 7
+Nebraska                 7
+Nevada                   8
+New Hampshire            8
+New Jersey              15
+New Mexico              12
+New York                13
+North Carolina          31
+Ohio                     9
+Oklahoma                 7
+Oregon                   4
+Pennsylvania            21
+Rhode Island             5
+South Carolina          19
+South Dakota             5
+Tennessee               13
+Texas                   10
+Utah                     8
+Virginia                86
+Washington               9
+West Virginia           44
+Wisconsin                9

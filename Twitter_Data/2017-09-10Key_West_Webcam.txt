@@ -1,4 +1,4 @@
-AL 6
+AL 7
 AK 3
 AZ 0
 AR 1
@@ -9,7 +9,7 @@ DE 0
 DC 15
 FL 15
 GA 4
-HI 2
+HI 3
 ID 0
 IL 6
 IN 1
@@ -45,7 +45,7 @@ TX 1
 UT 0
 VT 0
 VA 0
-WA 4
+WA 5
 WV 0
 WI 0
 WY 0
