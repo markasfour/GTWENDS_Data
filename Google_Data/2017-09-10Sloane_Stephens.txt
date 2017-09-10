@@ -1,53 +1,53 @@
                       Sloane Stephens
 geoName                              
-Alabama                            48
-Alaska                             22
+Alabama                            56
+Alaska                             21
 Arizona                            31
-Arkansas                           37
+Arkansas                           34
 California                         44
 Colorado                           35
-Connecticut                        57
-Delaware                           57
-District of Columbia               86
-Florida                            56
-Georgia                            82
-Hawaii                             36
-Idaho                              25
-Illinois                           49
-Indiana                            37
-Iowa                               24
-Kansas                             33
+Connecticut                        60
+Delaware                           69
+District of Columbia               87
+Florida                            55
+Georgia                            79
+Hawaii                             38
+Idaho                              24
+Illinois                           46
+Indiana                            39
+Iowa                               26
+Kansas                             35
 Kentucky                           37
-Louisiana                          62
-Maine                              31
+Louisiana                          63
+Maine                              37
 Maryland                          100
-Massachusetts                      48
-Michigan                           40
-Minnesota                          38
+Massachusetts                      49
+Michigan                           43
+Minnesota                          39
 Mississippi                        53
-Missouri                           36
-Montana                            24
-Nebraska                           33
+Missouri                           35
+Montana                            33
+Nebraska                           30
 Nevada                             41
-New Hampshire                      40
-New Jersey                         58
-New Mexico                         29
-New York                           67
-North Carolina                     51
+New Hampshire                      36
+New Jersey                         63
+New Mexico                         28
+New York                           72
+North Carolina                     53
 North Dakota                       23
-Ohio                               46
-Oklahoma                           36
-Oregon                             24
-Pennsylvania                       46
-Rhode Island                       44
+Ohio                               47
+Oklahoma                           34
+Oregon                             26
+Pennsylvania                       49
+Rhode Island                       39
 South Carolina                     57
-South Dakota                       20
-Tennessee                          40
-Texas                              40
-Utah                               26
-Vermont                            41
-Virginia                           50
-Washington                         33
+South Dakota                       23
+Tennessee                          42
+Texas                              42
+Utah                               22
+Vermont                            32
+Virginia                           52
+Washington                         35
 West Virginia                      26
-Wisconsin                          31
-Wyoming                            22
+Wisconsin                          32
+Wyoming                            28

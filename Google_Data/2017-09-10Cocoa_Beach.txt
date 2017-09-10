@@ -1,0 +1,47 @@
+                      Cocoa Beach
+geoName                          
+Alabama                         6
+Arizona                         2
+Arkansas                        5
+California                      1
+Colorado                        4
+Connecticut                     4
+Delaware                        5
+District of Columbia            5
+Florida                       100
+Georgia                        12
+Illinois                        5
+Indiana                         9
+Iowa                            6
+Kansas                          4
+Kentucky                       11
+Louisiana                       3
+Maine                           6
+Maryland                        6
+Massachusetts                   4
+Michigan                        7
+Minnesota                       6
+Mississippi                     4
+Missouri                        6
+Nebraska                        4
+Nevada                          2
+New Hampshire                   6
+New Jersey                      4
+New Mexico                      3
+New York                        4
+North Carolina                  6
+North Dakota                    7
+Ohio                            7
+Oklahoma                       14
+Oregon                          1
+Pennsylvania                    5
+Rhode Island                    5
+South Carolina                  8
+South Dakota                    5
+Tennessee                       9
+Texas                           3
+Utah                            2
+Virginia                        5
+Washington                      2
+West Virginia                   9
+Wisconsin                       7

@@ -15,7 +15,7 @@ Idaho                                            0
 Illinois                                         1
 Indiana                                          0
 Iowa                                             1
-Kansas                                           2
+Kansas                                           1
 Kentucky                                         1
 Louisiana                                        4
 Maine                                            0
@@ -32,14 +32,14 @@ New Jersey                                       0
 New Mexico                                       1
 New York                                         0
 North Carolina                                   1
-North Dakota                                     1
+North Dakota                                     0
 Ohio                                             0
 Oklahoma                                         9
 Oregon                                           0
 Pennsylvania                                     0
 South Carolina                                   1
 South Dakota                                     1
-Tennessee                                        5
+Tennessee                                        4
 Texas                                            3
 Utah                                             0
 Virginia                                         0

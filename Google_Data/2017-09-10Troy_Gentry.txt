@@ -1,52 +1,53 @@
                       Troy Gentry
 geoName                          
-Alabama                        24
-Arizona                         9
-Arkansas                       14
-California                      4
-Colorado                       11
-Connecticut                     9
-Delaware                       10
-District of Columbia           11
-Florida                        12
-Georgia                        21
-Hawaii                          5
-Idaho                          17
-Illinois                       12
-Indiana                        20
-Iowa                           22
-Kansas                         16
+Alabama                        72
+Alaska                         19
+Arizona                        26
+Arkansas                       53
+California                     12
+Colorado                       22
+Connecticut                    16
+Delaware                       37
+District of Columbia           28
+Florida                        20
+Georgia                        37
+Hawaii                          7
+Idaho                          31
+Illinois                       27
+Indiana                        60
+Iowa                           45
+Kansas                         37
 Kentucky                      100
-Louisiana                       9
-Maine                          15
-Maryland                       14
-Massachusetts                   6
-Michigan                       15
-Minnesota                      21
-Mississippi                    22
-Missouri                       21
-Montana                        19
-Nebraska                       20
-Nevada                         12
-New Hampshire                  11
-New Jersey                      7
-New Mexico                     13
-New York                        6
-North Carolina                 15
-North Dakota                   30
-Ohio                           22
-Oklahoma                       25
-Oregon                          8
-Pennsylvania                   12
-Rhode Island                    7
-South Carolina                 22
-South Dakota                   47
-Tennessee                      49
-Texas                          10
-Utah                           12
-Vermont                        12
-Virginia                       12
-Washington                      6
-West Virginia                  32
-Wisconsin                      24
-Wyoming                        53
+Louisiana                      36
+Maine                          28
+Maryland                       20
+Massachusetts                  12
+Michigan                       32
+Minnesota                      29
+Mississippi                    57
+Missouri                       49
+Montana                        26
+Nebraska                       46
+Nevada                         21
+New Hampshire                  27
+New Jersey                     25
+New Mexico                     26
+New York                       14
+North Carolina                 36
+North Dakota                   47
+Ohio                           44
+Oklahoma                       49
+Oregon                         18
+Pennsylvania                   32
+Rhode Island                   19
+South Carolina                 47
+South Dakota                   66
+Tennessee                      91
+Texas                          31
+Utah                           24
+Vermont                        28
+Virginia                       21
+Washington                     19
+West Virginia                  61
+Wisconsin                      42
+Wyoming                        45

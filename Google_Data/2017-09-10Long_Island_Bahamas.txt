@@ -1,53 +1,53 @@
                       Long Island Bahamas
 geoName                                  
-Alabama                                20
-Alaska                                 16
-Arizona                                13
-Arkansas                               17
-California                             10
-Colorado                               15
-Connecticut                            33
-Delaware                               21
-District of Columbia                   24
-Florida                                52
-Georgia                                21
-Hawaii                                  8
-Idaho                                  14
-Illinois                               13
-Indiana                                11
-Iowa                                   13
-Kansas                                 11
-Kentucky                               15
-Louisiana                              15
-Maine                                  54
-Maryland                               26
-Massachusetts                          35
-Michigan                               16
-Minnesota                              20
-Mississippi                            12
-Missouri                               15
-Montana                               100
-Nebraska                                8
-Nevada                                  9
-New Hampshire                          51
-New Jersey                             25
-New Mexico                             24
-New York                               41
-North Carolina                         26
-North Dakota                            6
-Ohio                                   15
-Oklahoma                               14
-Oregon                                 16
-Pennsylvania                           24
-Rhode Island                           27
-South Carolina                         31
-South Dakota                           14
-Tennessee                              16
-Texas                                  14
-Utah                                   11
-Vermont                                58
-Virginia                               19
-Washington                             15
-West Virginia                          19
-Wisconsin                              15
-Wyoming                                30
+Alabama                                29
+Alaska                                 26
+Arizona                                14
+Arkansas                               27
+California                             12
+Colorado                               28
+Connecticut                            43
+Delaware                               30
+District of Columbia                   38
+Florida                                68
+Georgia                                27
+Hawaii                                 21
+Idaho                                  20
+Illinois                               16
+Indiana                                16
+Iowa                                   11
+Kansas                                 15
+Kentucky                               23
+Louisiana                              13
+Maine                                  69
+Maryland                               33
+Massachusetts                          42
+Michigan                               18
+Minnesota                              29
+Mississippi                            17
+Missouri                               21
+Montana                                96
+Nebraska                               15
+Nevada                                 11
+New Hampshire                          63
+New Jersey                             35
+New Mexico                             31
+New York                               60
+North Carolina                         34
+North Dakota                           11
+Ohio                                   21
+Oklahoma                               17
+Oregon                                 18
+Pennsylvania                           31
+Rhode Island                           23
+South Carolina                         44
+South Dakota                           15
+Tennessee                              25
+Texas                                  17
+Utah                                   21
+Vermont                               100
+Virginia                               31
+Washington                             17
+West Virginia                          29
+Wisconsin                              20
+Wyoming                                29

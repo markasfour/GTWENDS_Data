@@ -1,0 +1,53 @@
+                      Notre Dame
+geoName                         
+Alabama                       10
+Alaska                         6
+Arizona                        9
+Arkansas                       6
+California                     8
+Colorado                       8
+Connecticut                   14
+Delaware                      12
+District of Columbia          14
+Florida                        8
+Georgia                        9
+Hawaii                         9
+Idaho                          7
+Illinois                      22
+Indiana                      100
+Iowa                          13
+Kansas                         8
+Kentucky                      13
+Louisiana                      9
+Maine                          8
+Maryland                      13
+Massachusetts                 13
+Michigan                      21
+Minnesota                     10
+Mississippi                    7
+Missouri                      10
+Montana                       10
+Nebraska                      12
+Nevada                         7
+New Hampshire                  9
+New Jersey                    13
+New Mexico                     8
+New York                      10
+North Carolina                 9
+North Dakota                   8
+Ohio                          21
+Oklahoma                       8
+Oregon                         5
+Pennsylvania                  16
+Rhode Island                  10
+South Carolina                10
+South Dakota                  12
+Tennessee                     10
+Texas                          7
+Utah                           7
+Vermont                        9
+Virginia                       8
+Washington                     6
+West Virginia                 11
+Wisconsin                     12
+Wyoming                        8

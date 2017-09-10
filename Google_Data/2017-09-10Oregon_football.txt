@@ -16,9 +16,9 @@ Idaho                              18
 Illinois                            3
 Indiana                             3
 Iowa                                5
-Kansas                              3
+Kansas                              4
 Kentucky                            4
-Louisiana                           3
+Louisiana                           4
 Maine                               2
 Maryland                            2
 Massachusetts                       2
@@ -26,7 +26,7 @@ Michigan                            3
 Minnesota                           3
 Mississippi                         5
 Missouri                            3
-Montana                            13
+Montana                            12
 Nebraska                           11
 Nevada                              7
 New Hampshire                       2
@@ -38,16 +38,16 @@ North Dakota                        5
 Ohio                                4
 Oklahoma                            4
 Oregon                            100
-Pennsylvania                        2
+Pennsylvania                        3
 Rhode Island                        1
 South Carolina                      4
 South Dakota                        5
-Tennessee                           4
+Tennessee                           5
 Texas                               3
 Utah                               10
 Vermont                             2
 Virginia                            2
 Washington                         26
-West Virginia                       3
+West Virginia                       4
 Wisconsin                           3
-Wyoming                             7
+Wyoming                             8

@@ -1,53 +1,53 @@
                       Manchester United
 geoName                                
-Alabama                              23
-Alaska                               23
-Arizona                              37
-Arkansas                             27
-California                           65
-Colorado                             40
-Connecticut                          63
+Alabama                              24
+Alaska                               24
+Arizona                              36
+Arkansas                             25
+California                           64
+Colorado                             39
+Connecticut                          64
 Delaware                             51
 District of Columbia                 66
 Florida                              49
 Georgia                              43
-Hawaii                               33
+Hawaii                               31
 Idaho                                27
-Illinois                             49
+Illinois                             48
 Indiana                              39
 Iowa                                 35
-Kansas                               46
+Kansas                               48
 Kentucky                             30
 Louisiana                            26
 Maine                                36
 Maryland                             71
 Massachusetts                        51
 Michigan                             38
-Minnesota                            44
-Mississippi                          18
-Missouri                             39
+Minnesota                            43
+Mississippi                          19
+Missouri                             38
 Montana                              20
 Nebraska                             38
 Nevada                               46
-New Hampshire                        48
-New Jersey                           74
+New Hampshire                        46
+New Jersey                           73
 New Mexico                           29
 New York                             68
-North Carolina                       41
-North Dakota                         40
-Ohio                                 35
-Oklahoma                             33
-Oregon                               61
+North Carolina                       42
+North Dakota                         41
+Ohio                                 36
+Oklahoma                             32
+Oregon                               58
 Pennsylvania                         45
 Rhode Island                         43
 South Carolina                       32
 South Dakota                         32
-Tennessee                            30
-Texas                                51
+Tennessee                            29
+Texas                                50
 Utah                                 40
-Vermont                              41
+Vermont                              39
 Virginia                            100
-Washington                           45
-West Virginia                        24
-Wisconsin                            32
-Wyoming                              26
+Washington                           44
+West Virginia                        26
+Wisconsin                            31
+Wyoming                              28

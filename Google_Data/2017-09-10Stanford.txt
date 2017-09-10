@@ -3,51 +3,51 @@ geoName
 Alabama                     14
 Alaska                      15
 Arizona                     20
-Arkansas                    11
+Arkansas                    10
 California                 100
 Colorado                    20
 Connecticut                 23
 Delaware                    13
-District of Columbia        25
+District of Columbia        26
 Florida                     11
-Georgia                     13
-Hawaii                      27
-Idaho                       17
+Georgia                     14
+Hawaii                      28
+Idaho                       18
 Illinois                    16
 Indiana                     15
 Iowa                        16
 Kansas                      13
-Kentucky                    29
+Kentucky                    28
 Louisiana                   12
 Maine                       12
-Maryland                    21
+Maryland                    22
 Massachusetts               22
 Michigan                    15
 Minnesota                   14
-Mississippi                 11
+Mississippi                 12
 Missouri                    14
-Montana                     20
-Nebraska                    16
+Montana                     21
+Nebraska                    15
 Nevada                      21
 New Hampshire               14
 New Jersey                  15
 New Mexico                  18
 New York                    18
 North Carolina              14
-North Dakota                13
+North Dakota                14
 Ohio                        13
 Oklahoma                    12
-Oregon                      23
+Oregon                      24
 Pennsylvania                15
 Rhode Island                17
 South Carolina              11
 South Dakota                15
 Tennessee                   14
 Texas                       14
-Utah                        20
+Utah                        21
 Vermont                     16
 Virginia                    13
-Washington                  31
+Washington                  32
 West Virginia               10
-Wisconsin                   13
+Wisconsin                   12
 Wyoming                     15

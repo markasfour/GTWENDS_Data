@@ -1,17 +1,19 @@
                UFC215
 geoName              
-Arizona            71
-California         42
-Florida            33
-Georgia            38
-Illinois           30
-Maryland           78
-Massachusetts     100
-Michigan           48
-Missouri           80
-New Jersey         48
-New York           26
-Ohio               94
-Tennessee          79
-Texas              16
-Washington         57
+Arizona            22
+California         13
+Florida            10
+Georgia            11
+Illinois            9
+Indiana            29
+Maryland           24
+Massachusetts      31
+Michigan           15
+Missouri           24
+New Jersey         15
+New Mexico        100
+New York            8
+Ohio               29
+Tennessee          24
+Texas               5
+Washington         17

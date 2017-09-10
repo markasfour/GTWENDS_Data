@@ -1,53 +1,53 @@
                       Don Williams
 geoName                           
-Alabama                         69
-Alaska                          36
-Arizona                         39
-Arkansas                        82
-California                      21
-Colorado                        42
+Alabama                         76
+Alaska                          32
+Arizona                         38
+Arkansas                        89
+California                      20
+Colorado                        41
 Connecticut                     22
-Delaware                        28
+Delaware                        26
 District of Columbia            29
-Florida                         28
+Florida                         27
 Georgia                         50
-Hawaii                          18
+Hawaii                          16
 Idaho                           74
 Illinois                        32
-Indiana                         44
-Iowa                           100
-Kansas                          58
-Kentucky                        86
-Louisiana                       51
-Maine                           37
+Indiana                         43
+Iowa                            94
+Kansas                          61
+Kentucky                        90
+Louisiana                       61
+Maine                           38
 Maryland                        24
-Massachusetts                   17
+Massachusetts                   16
 Michigan                        29
-Minnesota                       50
-Mississippi                     69
-Missouri                        59
-Montana                         98
+Minnesota                       53
+Mississippi                     66
+Missouri                        60
+Montana                        100
 Nebraska                        60
-Nevada                          26
-New Hampshire                   26
-New Jersey                      18
-New Mexico                      60
+Nevada                          29
+New Hampshire                   24
+New Jersey                      17
+New Mexico                      64
 New York                        20
-North Carolina                  43
-North Dakota                    69
+North Carolina                  47
+North Dakota                    63
 Ohio                            35
-Oklahoma                        84
-Oregon                          28
+Oklahoma                        94
+Oregon                          30
 Pennsylvania                    26
-Rhode Island                    18
-South Carolina                  45
-South Dakota                    69
-Tennessee                       82
-Texas                           54
-Utah                            63
-Vermont                         23
+Rhode Island                    15
+South Carolina                  48
+South Dakota                    72
+Tennessee                       89
+Texas                           57
+Utah                            64
+Vermont                         26
 Virginia                        32
-Washington                      32
-West Virginia                   64
-Wisconsin                       51
-Wyoming                         92
+Washington                      33
+West Virginia                   70
+Wisconsin                       53
+Wyoming                         98

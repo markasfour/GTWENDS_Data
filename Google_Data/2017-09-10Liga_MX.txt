@@ -2,50 +2,50 @@
 geoName                      
 Alabama                    14
 Alaska                      7
-Arizona                    53
+Arizona                    51
 Arkansas                   27
 California                100
 Colorado                   39
 Connecticut                 9
-Delaware                   22
+Delaware                   21
 District of Columbia       15
 Florida                    16
 Georgia                    30
 Hawaii                      7
-Idaho                      31
-Illinois                   66
-Indiana                    20
+Idaho                      30
+Illinois                   64
+Indiana                    19
 Iowa                       17
 Kansas                     29
 Kentucky                   11
-Louisiana                  16
+Louisiana                  15
 Maryland                   10
 Massachusetts               5
 Michigan                   15
 Minnesota                  14
-Mississippi                11
+Mississippi                10
 Missouri                   12
 Montana                     3
 Nebraska                   29
 Nevada                     76
-New Hampshire               2
-New Jersey                 15
-New Mexico                 43
-New York                   16
-North Carolina             24
+New Hampshire               3
+New Jersey                 14
+New Mexico                 42
+New York                   15
+North Carolina             25
 North Dakota                7
 Ohio                        7
-Oklahoma                   24
-Oregon                     28
+Oklahoma                   23
+Oregon                     27
 Pennsylvania                8
 Rhode Island                5
 South Carolina             17
-South Dakota                6
+South Dakota                7
 Tennessee                  18
-Texas                     100
-Utah                       38
+Texas                      98
+Utah                       36
 Virginia                   14
 Washington                 33
 West Virginia               3
 Wisconsin                  21
-Wyoming                    16
+Wyoming                    15
