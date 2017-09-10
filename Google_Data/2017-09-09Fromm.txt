@@ -1,0 +1,53 @@
+                      Fromm
+geoName                    
+Alabama                  36
+Alaska                   26
+Arizona                  31
+Arkansas                 31
+California               27
+Colorado                 41
+Connecticut              34
+Delaware                 25
+District of Columbia     31
+Florida                  36
+Georgia                  48
+Hawaii                   20
+Idaho                    30
+Illinois                 53
+Indiana                  39
+Iowa                     33
+Kansas                   31
+Kentucky                 29
+Louisiana                24
+Maine                    46
+Maryland                 27
+Massachusetts            42
+Michigan                 37
+Minnesota                44
+Mississippi              31
+Missouri                 33
+Montana                  42
+Nebraska                 34
+Nevada                   27
+New Hampshire            54
+New Jersey               41
+New Mexico               33
+New York                 34
+North Carolina           30
+North Dakota             29
+Ohio                     38
+Oklahoma                 29
+Oregon                   25
+Pennsylvania             47
+Rhode Island             45
+South Carolina           33
+South Dakota             99
+Tennessee                41
+Texas                    25
+Utah                     19
+Vermont                  45
+Virginia                 23
+Washington               33
+West Virginia            25
+Wisconsin               100
+Wyoming                  38

@@ -1,0 +1,13 @@
+              Stage 1
+geoName              
+California         90
+Florida            87
+Georgia            83
+Illinois           83
+Louisiana          86
+New Jersey        100
+New York           88
+Pennsylvania       96
+Texas              81
+Virginia           80
+Wisconsin          89

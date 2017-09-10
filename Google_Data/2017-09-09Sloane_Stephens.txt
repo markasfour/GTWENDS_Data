@@ -1,0 +1,53 @@
+                      Sloane Stephens
+geoName                              
+Alabama                            51
+Alaska                             20
+Arizona                            30
+Arkansas                           36
+California                         43
+Colorado                           34
+Connecticut                        59
+Delaware                           52
+District of Columbia               79
+Florida                            54
+Georgia                            80
+Hawaii                             32
+Idaho                              25
+Illinois                           48
+Indiana                            36
+Iowa                               22
+Kansas                             31
+Kentucky                           38
+Louisiana                          61
+Maine                              30
+Maryland                          100
+Massachusetts                      46
+Michigan                           40
+Minnesota                          38
+Mississippi                        52
+Missouri                           35
+Montana                            21
+Nebraska                           34
+Nevada                             42
+New Hampshire                      39
+New Jersey                         54
+New Mexico                         25
+New York                           66
+North Carolina                     50
+North Dakota                       28
+Ohio                               46
+Oklahoma                           38
+Oregon                             23
+Pennsylvania                       45
+Rhode Island                       40
+South Carolina                     57
+South Dakota                       19
+Tennessee                          38
+Texas                              39
+Utah                               23
+Vermont                            38
+Virginia                           50
+Washington                         32
+West Virginia                      25
+Wisconsin                          30
+Wyoming                            22

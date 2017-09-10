@@ -1,0 +1,53 @@
+                      Penn State
+geoName                         
+Alabama                        3
+Alaska                         2
+Arizona                        2
+Arkansas                       2
+California                     2
+Colorado                       3
+Connecticut                    7
+Delaware                      18
+District of Columbia          19
+Florida                        4
+Georgia                        3
+Hawaii                         3
+Idaho                          2
+Illinois                       3
+Indiana                        4
+Iowa                           4
+Kansas                         2
+Kentucky                       3
+Louisiana                      2
+Maine                          3
+Maryland                      12
+Massachusetts                  5
+Michigan                       5
+Minnesota                      3
+Mississippi                    2
+Missouri                       2
+Montana                        2
+Nebraska                       5
+Nevada                         2
+New Hampshire                  4
+New Jersey                    16
+New Mexico                     2
+New York                       7
+North Carolina                 4
+North Dakota                   2
+Ohio                           8
+Oklahoma                       2
+Oregon                         2
+Pennsylvania                 100
+Rhode Island                   4
+South Carolina                 4
+South Dakota                   2
+Tennessee                      3
+Texas                          2
+Utah                           2
+Vermont                        5
+Virginia                       7
+Washington                     2
+West Virginia                  7
+Wisconsin                      3
+Wyoming                        3

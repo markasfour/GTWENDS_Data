@@ -1,0 +1,53 @@
+                      Huracan Irma
+geoName                           
+Alabama                          2
+Alaska                           2
+Arizona                          2
+Arkansas                         2
+California                       2
+Colorado                         2
+Connecticut                      6
+Delaware                         5
+District of Columbia             4
+Florida                        100
+Georgia                          6
+Hawaii                           1
+Idaho                            1
+Illinois                         3
+Indiana                          2
+Iowa                             1
+Kansas                           2
+Kentucky                         3
+Louisiana                        5
+Maine                            0
+Maryland                         3
+Massachusetts                    5
+Michigan                         1
+Minnesota                        1
+Mississippi                      2
+Missouri                         1
+Montana                          1
+Nebraska                         3
+Nevada                           6
+New Hampshire                    2
+New Jersey                       8
+New Mexico                       4
+New York                         6
+North Carolina                  10
+North Dakota                     1
+Ohio                             2
+Oklahoma                         2
+Oregon                           1
+Pennsylvania                     4
+Rhode Island                     6
+South Carolina                   7
+South Dakota                     1
+Tennessee                        3
+Texas                            8
+Utah                             2
+Vermont                          1
+Virginia                         3
+Washington                       1
+West Virginia                    1
+Wisconsin                        1
+Wyoming                          1
