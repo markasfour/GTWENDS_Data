@@ -1,0 +1,53 @@
+                      Hurricane Irma Florida
+geoName                                     
+Alabama                                    9
+Alaska                                     4
+Arizona                                    5
+Arkansas                                   6
+California                                 4
+Colorado                                   6
+Connecticut                                8
+Delaware                                   6
+District of Columbia                       5
+Florida                                  100
+Georgia                                    9
+Hawaii                                     3
+Idaho                                      3
+Illinois                                   7
+Indiana                                    9
+Iowa                                       6
+Kansas                                     5
+Kentucky                                   8
+Louisiana                                  5
+Maine                                      8
+Maryland                                   7
+Massachusetts                              6
+Michigan                                   8
+Minnesota                                  5
+Mississippi                                6
+Missouri                                   6
+Montana                                    6
+Nebraska                                   5
+Nevada                                     5
+New Hampshire                              9
+New Jersey                                 7
+New Mexico                                 6
+New York                                   7
+North Carolina                             8
+North Dakota                               5
+Ohio                                       9
+Oklahoma                                   5
+Oregon                                     3
+Pennsylvania                               7
+Rhode Island                               9
+South Carolina                             8
+South Dakota                               4
+Tennessee                                 10
+Texas                                      4
+Utah                                       5
+Vermont                                    6
+Virginia                                   5
+Washington                                 4
+West Virginia                              8
+Wisconsin                                  6
+Wyoming                                    6

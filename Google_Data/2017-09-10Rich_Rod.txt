@@ -1,0 +1,31 @@
+                      Rich Rod
+geoName                       
+Alabama                     13
+Arizona                     53
+California                  10
+Colorado                    13
+Connecticut                  7
+District of Columbia        18
+Florida                      9
+Georgia                     11
+Illinois                    11
+Indiana                      9
+Iowa                        12
+Kentucky                    14
+Maryland                    11
+Massachusetts                7
+Michigan                    37
+Minnesota                    8
+Missouri                     7
+New Jersey                   6
+New York                     8
+North Carolina              10
+Ohio                        15
+Pennsylvania                12
+South Carolina              12
+Tennessee                   12
+Texas                        8
+Virginia                    10
+Washington                   5
+West Virginia              100
+Wisconsin                    6

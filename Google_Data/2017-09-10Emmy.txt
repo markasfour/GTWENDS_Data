@@ -1,0 +1,53 @@
+                      Emmy
+geoName                   
+Alabama                 51
+Alaska                  51
+Arizona                 63
+Arkansas                49
+California              83
+Colorado                62
+Connecticut             85
+Delaware                76
+District of Columbia    81
+Florida                 59
+Georgia                 54
+Hawaii                  65
+Idaho                   52
+Illinois                77
+Indiana                 61
+Iowa                    63
+Kansas                  52
+Kentucky                61
+Louisiana               58
+Maine                   66
+Maryland                73
+Massachusetts           89
+Michigan                63
+Minnesota               68
+Mississippi             43
+Missouri                63
+Montana                 58
+Nebraska                60
+Nevada                  64
+New Hampshire           74
+New Jersey              90
+New Mexico              62
+New York               100
+North Carolina          55
+North Dakota            58
+Ohio                    64
+Oklahoma                56
+Oregon                  53
+Pennsylvania            79
+Rhode Island            78
+South Carolina          54
+South Dakota            54
+Tennessee               58
+Texas                   53
+Utah                    62
+Vermont                 74
+Virginia                61
+Washington              66
+West Virginia           57
+Wisconsin               64
+Wyoming                 52
