@@ -1,0 +1,11 @@
+            CyHawk
+geoName           
+California       0
+Illinois         2
+Iowa           100
+Minnesota        4
+Missouri         2
+Nebraska        10
+New York         0
+Texas            0
+Wisconsin        6

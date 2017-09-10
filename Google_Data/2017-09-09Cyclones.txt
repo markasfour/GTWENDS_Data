@@ -1,0 +1,53 @@
+                      Cyclones
+geoName                       
+Alabama                      2
+Alaska                       2
+Arizona                      2
+Arkansas                     4
+California                   2
+Colorado                     3
+Connecticut                  3
+Delaware                     2
+District of Columbia         3
+Florida                      2
+Georgia                      2
+Hawaii                       3
+Idaho                        2
+Illinois                     5
+Indiana                      4
+Iowa                       100
+Kansas                       5
+Kentucky                    12
+Louisiana                    2
+Maine                        3
+Maryland                     3
+Massachusetts                4
+Michigan                     4
+Minnesota                    8
+Mississippi                  2
+Missouri                     4
+Montana                      4
+Nebraska                    16
+Nevada                       2
+New Hampshire               14
+New Jersey                   4
+New Mexico                   2
+New York                    10
+North Carolina               3
+North Dakota                 3
+Ohio                        19
+Oklahoma                     3
+Oregon                       1
+Pennsylvania                 3
+Rhode Island                 3
+South Carolina               2
+South Dakota                14
+Tennessee                    3
+Texas                        2
+Utah                         2
+Vermont                      4
+Virginia                     2
+Washington                   1
+West Virginia                2
+Wisconsin                    7
+Wyoming                      3

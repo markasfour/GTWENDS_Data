@@ -1,53 +1,53 @@
                       It Review
 geoName                        
-Alabama                      92
-Alaska                       89
-Arizona                      87
-Arkansas                     89
-California                   95
-Colorado                     81
+Alabama                      94
+Alaska                       93
+Arizona                      89
+Arkansas                     88
+California                   97
+Colorado                     82
 Connecticut                  91
-Delaware                     89
-District of Columbia         81
-Florida                      89
-Georgia                      83
+Delaware                     93
+District of Columbia         84
+Florida                      91
+Georgia                      85
 Hawaii                      100
-Idaho                        91
-Illinois                     84
-Indiana                      88
-Iowa                         87
-Kansas                       76
-Kentucky                     85
-Louisiana                    84
-Maine                        82
-Maryland                     95
-Massachusetts                89
-Michigan                     89
-Minnesota                    84
-Mississippi                  84
-Missouri                     83
-Montana                      83
+Idaho                        93
+Illinois                     87
+Indiana                      89
+Iowa                         89
+Kansas                       77
+Kentucky                     87
+Louisiana                    85
+Maine                        88
+Maryland                     96
+Massachusetts                91
+Michigan                     91
+Minnesota                    85
+Mississippi                  85
+Missouri                     84
+Montana                      85
 Nebraska                     81
-Nevada                       90
-New Hampshire                92
-New Jersey                   98
-New Mexico                   83
-New York                     97
-North Carolina               89
-North Dakota                 87
-Ohio                         88
-Oklahoma                     84
+Nevada                       91
+New Hampshire                94
+New Jersey                   99
+New Mexico                   84
+New York                     98
+North Carolina               90
+North Dakota                 93
+Ohio                         89
+Oklahoma                     85
 Oregon                       70
-Pennsylvania                 92
-Rhode Island                 92
+Pennsylvania                 93
+Rhode Island                 94
 South Carolina               83
-South Dakota                 81
-Tennessee                    84
-Texas                        83
-Utah                         91
-Vermont                      81
-Virginia                     83
+South Dakota                 78
+Tennessee                    85
+Texas                        84
+Utah                         92
+Vermont                      83
+Virginia                     84
 Washington                   91
-West Virginia                92
+West Virginia                94
 Wisconsin                    83
-Wyoming                      73
+Wyoming                      75

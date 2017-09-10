@@ -1,0 +1,52 @@
+                      Oklahoma State Football
+geoName                                      
+Alabama                                     4
+Alaska                                      1
+Arizona                                     2
+Arkansas                                    8
+California                                  1
+Colorado                                    3
+Connecticut                                 1
+Delaware                                    1
+District of Columbia                        2
+Florida                                     2
+Georgia                                     2
+Hawaii                                      2
+Idaho                                       2
+Illinois                                    2
+Indiana                                     2
+Iowa                                        5
+Kansas                                     10
+Kentucky                                    2
+Louisiana                                   5
+Maine                                       1
+Maryland                                    1
+Massachusetts                               1
+Michigan                                    2
+Minnesota                                   1
+Mississippi                                 3
+Missouri                                    6
+Montana                                     2
+Nebraska                                    5
+Nevada                                      2
+New Hampshire                               1
+New Jersey                                  1
+New Mexico                                  3
+New York                                    1
+North Carolina                              2
+North Dakota                                2
+Ohio                                        2
+Oklahoma                                  100
+Oregon                                      1
+Pennsylvania                                1
+Rhode Island                                1
+South Carolina                              3
+South Dakota                                2
+Tennessee                                   3
+Texas                                       9
+Utah                                        1
+Virginia                                    1
+Washington                                  1
+West Virginia                               5
+Wisconsin                                   2
+Wyoming                                     3

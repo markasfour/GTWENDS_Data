@@ -1,22 +1,22 @@
                       Espn Nfl
 geoName                       
 Alabama                     42
-Alaska                      63
+Alaska                      64
 Arizona                     75
 Arkansas                    40
 California                  59
-Colorado                    92
+Colorado                    93
 Connecticut                 66
 Delaware                    89
-District of Columbia        88
-Florida                     59
-Georgia                     66
+District of Columbia        89
+Florida                     60
+Georgia                     67
 Hawaii                     100
 Idaho                       58
 Illinois                    60
 Indiana                     52
-Iowa                        65
-Kansas                      59
+Iowa                        66
+Kansas                      60
 Kentucky                    49
 Louisiana                   70
 Maine                       60
@@ -32,7 +32,7 @@ Nevada                      86
 New Hampshire               60
 New Jersey                  64
 New Mexico                  77
-New York                    57
+New York                    56
 North Carolina              70
 North Dakota                81
 Ohio                        65
@@ -49,5 +49,5 @@ Vermont                     55
 Virginia                    63
 Washington                  97
 West Virginia               57
-Wisconsin                   98
-Wyoming                     73
+Wisconsin                   99
+Wyoming                     72

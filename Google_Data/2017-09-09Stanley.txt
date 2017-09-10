@@ -1,0 +1,53 @@
+                      Stanley
+geoName                      
+Alabama                    36
+Alaska                     43
+Arizona                    33
+Arkansas                   36
+California                 37
+Colorado                   57
+Connecticut                57
+Delaware                   47
+District of Columbia       45
+Florida                    37
+Georgia                    38
+Hawaii                     30
+Idaho                      63
+Illinois                   50
+Indiana                    42
+Iowa                       36
+Kansas                     39
+Kentucky                   40
+Louisiana                  34
+Maine                      48
+Maryland                   44
+Massachusetts              50
+Michigan                   43
+Minnesota                  46
+Mississippi                30
+Missouri                   42
+Montana                    40
+Nebraska                   36
+Nevada                     32
+New Hampshire              47
+New Jersey                 48
+New Mexico                 32
+New York                   59
+North Carolina             48
+North Dakota              100
+Ohio                       41
+Oklahoma                   63
+Oregon                     26
+Pennsylvania               52
+Rhode Island               46
+South Carolina             40
+South Dakota               42
+Tennessee                  45
+Texas                      31
+Utah                       31
+Vermont                    46
+Virginia                   38
+Washington                 37
+West Virginia              46
+Wisconsin                  43
+Wyoming                    41

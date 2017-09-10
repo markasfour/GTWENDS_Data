@@ -1,0 +1,28 @@
+                UT Martin
+geoName                  
+Alabama                 7
+Arkansas               10
+California              1
+Colorado                1
+Connecticut             1
+Florida                 1
+Georgia                 5
+Hawaii                  3
+Idaho                   3
+Illinois                2
+Indiana                 2
+Kentucky               17
+Louisiana               2
+Mississippi            22
+Missouri                3
+Nevada                  1
+New York                1
+North Carolina          2
+Ohio                    2
+Oklahoma                1
+Pennsylvania            1
+South Carolina          2
+Tennessee             100
+Texas                   3
+Virginia                1
+Wisconsin               1

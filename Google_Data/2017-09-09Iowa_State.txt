@@ -1,0 +1,53 @@
+                      Iowa State
+geoName                         
+Alabama                        1
+Alaska                         0
+Arizona                        1
+Arkansas                       1
+California                     0
+Colorado                       1
+Connecticut                    0
+Delaware                       0
+District of Columbia           1
+Florida                        0
+Georgia                        0
+Hawaii                         0
+Idaho                          1
+Illinois                       2
+Indiana                        1
+Iowa                         100
+Kansas                         2
+Kentucky                       1
+Louisiana                      0
+Maine                          0
+Maryland                       0
+Massachusetts                  0
+Michigan                       1
+Minnesota                      4
+Mississippi                    0
+Missouri                       2
+Montana                        1
+Nebraska                      13
+Nevada                         1
+New Hampshire                  0
+New Jersey                     0
+New Mexico                     0
+New York                       0
+North Carolina                 1
+North Dakota                   2
+Ohio                           1
+Oklahoma                       1
+Oregon                         0
+Pennsylvania                   0
+Rhode Island                   0
+South Carolina                 0
+South Dakota                   5
+Tennessee                      1
+Texas                          1
+Utah                           0
+Vermont                        0
+Virginia                       0
+Washington                     0
+West Virginia                  1
+Wisconsin                      5
+Wyoming                        1

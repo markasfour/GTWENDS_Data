@@ -1,0 +1,53 @@
+                      NFL standings
+geoName                            
+Alabama                          22
+Alaska                           66
+Arizona                          75
+Arkansas                         33
+California                       54
+Colorado                         81
+Connecticut                      57
+Delaware                         78
+District of Columbia             81
+Florida                          49
+Georgia                          44
+Hawaii                           58
+Idaho                            55
+Illinois                         56
+Indiana                          43
+Iowa                             49
+Kansas                           48
+Kentucky                         35
+Louisiana                        45
+Maine                            71
+Maryland                         73
+Massachusetts                    73
+Michigan                         54
+Minnesota                        70
+Mississippi                      40
+Missouri                         54
+Montana                          67
+Nebraska                         35
+Nevada                           65
+New Hampshire                    78
+New Jersey                       62
+New Mexico                       77
+New York                         50
+North Carolina                   50
+North Dakota                     68
+Ohio                             53
+Oklahoma                         35
+Oregon                           36
+Pennsylvania                     68
+Rhode Island                     79
+South Carolina                   44
+South Dakota                     61
+Tennessee                        39
+Texas                            57
+Utah                             50
+Vermont                          61
+Virginia                         51
+Washington                      100
+West Virginia                    41
+Wisconsin                        82
+Wyoming                          66

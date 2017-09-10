@@ -1,0 +1,39 @@
+                      Tampa Evacuation Zones
+geoName                                     
+Alabama                                    3
+Alaska                                    17
+Arizona                                    2
+Arkansas                                   6
+California                                 1
+Colorado                                   5
+Connecticut                                5
+Delaware                                  14
+District of Columbia                       5
+Florida                                  100
+Georgia                                    6
+Idaho                                     17
+Illinois                                   4
+Indiana                                    2
+Kansas                                     4
+Louisiana                                  3
+Maine                                      9
+Maryland                                   3
+Massachusetts                              2
+Michigan                                   2
+Minnesota                                  2
+Missouri                                   5
+New Hampshire                              9
+New Jersey                                 2
+New York                                   5
+North Carolina                             3
+Ohio                                       3
+Pennsylvania                               3
+Rhode Island                              10
+South Carolina                             5
+Tennessee                                  5
+Texas                                      1
+Utah                                       4
+Virginia                                   3
+Washington                                 2
+West Virginia                             10
+Wisconsin                                  4

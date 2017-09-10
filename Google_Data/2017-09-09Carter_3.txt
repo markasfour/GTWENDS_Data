@@ -1,0 +1,44 @@
+                      Carter 3
+geoName                       
+Alabama                     81
+Arizona                     59
+Arkansas                    67
+California                  53
+Colorado                    49
+Connecticut                 62
+Delaware                    79
+District of Columbia        62
+Florida                     65
+Georgia                     85
+Illinois                    64
+Indiana                     67
+Iowa                        56
+Kansas                      64
+Kentucky                    76
+Louisiana                  100
+Maine                       51
+Maryland                    70
+Massachusetts               58
+Michigan                    65
+Minnesota                   49
+Mississippi                 89
+Missouri                    63
+Nebraska                    58
+Nevada                      66
+New Hampshire               48
+New Jersey                  69
+New Mexico                  54
+New York                    63
+North Carolina              73
+Ohio                        70
+Oklahoma                    66
+Oregon                      38
+Pennsylvania                67
+Rhode Island                61
+South Carolina              83
+Tennessee                   73
+Texas                       67
+Virginia                    62
+Washington                  50
+West Virginia               67
+Wisconsin                   56

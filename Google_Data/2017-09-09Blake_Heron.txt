@@ -1,42 +1,42 @@
-                Blake Heron
-geoName                    
-Alabama                  19
-Arizona                  15
-Arkansas                 53
-California               29
-Colorado                 16
-Connecticut              35
-Delaware                 84
-Florida                  20
-Georgia                   8
-Illinois                 27
-Indiana                  20
-Iowa                     26
-Kansas                   22
-Kentucky                 18
-Louisiana                18
-Maine                    54
-Maryland                 59
-Massachusetts            28
-Michigan                 26
-Minnesota                26
-Mississippi              35
-Missouri                 22
-Nebraska                 35
-Nevada                   44
-New Hampshire           100
-New Jersey               20
-New Mexico               45
-New York                 20
-North Carolina           26
-Ohio                     32
-Oklahoma                 21
-Oregon                   11
-Pennsylvania             23
-South Carolina           16
-Tennessee                27
-Texas                    24
-Utah                     23
-Virginia                 25
-Washington               12
-Wisconsin                36
+                      Blake Heron
+geoName                          
+Alabama                        19
+Arizona                        15
+Arkansas                       71
+California                     24
+Colorado                       10
+Connecticut                    26
+District of Columbia           35
+Florida                        19
+Georgia                        10
+Illinois                       27
+Indiana                        26
+Iowa                           26
+Kansas                         22
+Kentucky                       36
+Louisiana                      55
+Maine                          54
+Maryland                       32
+Massachusetts                  28
+Michigan                       30
+Minnesota                      26
+Missouri                       28
+Nebraska                       35
+Nevada                         44
+New Hampshire                 100
+New Jersey                     23
+New Mexico                     46
+New York                       24
+North Carolina                 22
+Ohio                           19
+Oklahoma                       20
+Oregon                         11
+Pennsylvania                   18
+South Carolina                 16
+Tennessee                      22
+Texas                          27
+Utah                           23
+Virginia                       34
+Washington                     20
+West Virginia                  57
+Wisconsin                      30
