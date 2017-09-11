@@ -1,0 +1,53 @@
+                      Detroit Lions
+geoName                            
+Alabama                           3
+Alaska                            6
+Arizona                           5
+Arkansas                          3
+California                        3
+Colorado                          5
+Connecticut                       3
+Delaware                          3
+District of Columbia              5
+Florida                           5
+Georgia                           4
+Hawaii                            4
+Idaho                             6
+Illinois                          7
+Indiana                           6
+Iowa                              6
+Kansas                            3
+Kentucky                          4
+Louisiana                         3
+Maine                             2
+Maryland                          3
+Massachusetts                     3
+Michigan                        100
+Minnesota                         7
+Mississippi                       3
+Missouri                          3
+Montana                           6
+Nebraska                          6
+Nevada                            5
+New Hampshire                     2
+New Jersey                        3
+New Mexico                        5
+New York                          3
+North Carolina                    4
+North Dakota                      6
+Ohio                              8
+Oklahoma                          3
+Oregon                            2
+Pennsylvania                      4
+Rhode Island                      3
+South Carolina                    5
+South Dakota                      8
+Tennessee                         4
+Texas                             4
+Utah                              4
+Vermont                           2
+Virginia                          4
+Washington                        4
+West Virginia                     3
+Wisconsin                        10
+Wyoming                           7

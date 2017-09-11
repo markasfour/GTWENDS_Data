@@ -1,0 +1,53 @@
+                      Giants
+geoName                     
+Alabama                   13
+Alaska                    18
+Arizona                   28
+Arkansas                  15
+California               100
+Colorado                  22
+Connecticut               55
+Delaware                  36
+District of Columbia      42
+Florida                   22
+Georgia                   18
+Hawaii                    36
+Idaho                     25
+Illinois                  17
+Indiana                   15
+Iowa                      17
+Kansas                    15
+Kentucky                  17
+Louisiana                 15
+Maine                     23
+Maryland                  29
+Massachusetts             26
+Michigan                  14
+Minnesota                 17
+Mississippi               19
+Missouri                  19
+Montana                   23
+Nebraska                  16
+Nevada                    52
+New Hampshire             20
+New Jersey                84
+New Mexico                23
+New York                  57
+North Carolina            23
+North Dakota              17
+Ohio                      14
+Oklahoma                  16
+Oregon                    23
+Pennsylvania              31
+Rhode Island              28
+South Carolina            21
+South Dakota              17
+Tennessee                 15
+Texas                     19
+Utah                      22
+Vermont                   33
+Virginia                  25
+Washington                33
+West Virginia             17
+Wisconsin                 17
+Wyoming                   19

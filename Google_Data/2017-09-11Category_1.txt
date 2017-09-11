@@ -1,0 +1,15 @@
+                Category 1
+geoName                   
+California              58
+Connecticut             79
+Florida                 85
+Georgia                 75
+Maryland               100
+Massachusetts           75
+New Jersey              96
+New York                86
+North Carolina          92
+Pennsylvania            82
+South Carolina          95
+Texas                   82
+Virginia                76

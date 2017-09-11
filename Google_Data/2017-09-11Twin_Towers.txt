@@ -1,0 +1,53 @@
+                      Twin Towers
+geoName                          
+Alabama                        73
+Alaska                         62
+Arizona                        78
+Arkansas                       91
+California                     77
+Colorado                       70
+Connecticut                    81
+Delaware                       70
+District of Columbia           69
+Florida                        71
+Georgia                        70
+Hawaii                         57
+Idaho                          69
+Illinois                       74
+Indiana                        83
+Iowa                           85
+Kansas                         75
+Kentucky                       75
+Louisiana                      66
+Maine                          79
+Maryland                       59
+Massachusetts                  64
+Michigan                       72
+Minnesota                      65
+Mississippi                    76
+Missouri                       75
+Montana                        69
+Nebraska                       79
+Nevada                         73
+New Hampshire                  69
+New Jersey                     94
+New Mexico                     91
+New York                      100
+North Carolina                 71
+North Dakota                   72
+Ohio                           88
+Oklahoma                       74
+Oregon                         44
+Pennsylvania                   73
+Rhode Island                   76
+South Carolina                 74
+South Dakota                   94
+Tennessee                      65
+Texas                          72
+Utah                           78
+Vermont                        63
+Virginia                       52
+Washington                     57
+West Virginia                  98
+Wisconsin                      70
+Wyoming                        75
