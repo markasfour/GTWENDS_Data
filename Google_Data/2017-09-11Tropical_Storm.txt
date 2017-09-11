@@ -1,0 +1,53 @@
+                      Tropical Storm
+geoName                             
+Alabama                           23
+Alaska                             7
+Arizona                            7
+Arkansas                          11
+California                         5
+Colorado                           8
+Connecticut                       12
+Delaware                          14
+District of Columbia              15
+Florida                           67
+Georgia                           19
+Hawaii                           100
+Idaho                              4
+Illinois                           7
+Indiana                            8
+Iowa                               6
+Kansas                             7
+Kentucky                          11
+Louisiana                         55
+Maine                              9
+Maryland                          13
+Massachusetts                      9
+Michigan                           6
+Minnesota                          5
+Mississippi                       32
+Missouri                           8
+Montana                            5
+Nebraska                           6
+Nevada                             6
+New Hampshire                      9
+New Jersey                        13
+New Mexico                         7
+New York                          11
+North Carolina                    24
+North Dakota                       5
+Ohio                               8
+Oklahoma                          13
+Oregon                             5
+Pennsylvania                      10
+Rhode Island                      13
+South Carolina                    35
+South Dakota                       4
+Tennessee                         13
+Texas                             29
+Utah                               5
+Vermont                           13
+Virginia                          14
+Washington                         6
+West Virginia                      9
+Wisconsin                          6
+Wyoming                            6

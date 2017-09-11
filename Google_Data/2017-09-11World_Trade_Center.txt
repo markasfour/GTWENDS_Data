@@ -1,0 +1,53 @@
+                      World Trade Center
+geoName                                 
+Alabama                               19
+Alaska                                20
+Arizona                               19
+Arkansas                              23
+California                            19
+Colorado                              22
+Connecticut                           39
+Delaware                              31
+District of Columbia                  38
+Florida                               21
+Georgia                               20
+Hawaii                                19
+Idaho                                 17
+Illinois                              21
+Indiana                               22
+Iowa                                  22
+Kansas                                20
+Kentucky                              21
+Louisiana                             22
+Maine                                 26
+Maryland                              27
+Massachusetts                         41
+Michigan                              21
+Minnesota                             21
+Mississippi                           19
+Missouri                              21
+Montana                               20
+Nebraska                              22
+Nevada                                20
+New Hampshire                         28
+New Jersey                            71
+New Mexico                            20
+New York                             100
+North Carolina                        21
+North Dakota                          21
+Ohio                                  22
+Oklahoma                              22
+Oregon                                17
+Pennsylvania                          31
+Rhode Island                          30
+South Carolina                        22
+South Dakota                          21
+Tennessee                             20
+Texas                                 21
+Utah                                  22
+Vermont                               26
+Virginia                              21
+Washington                            19
+West Virginia                         23
+Wisconsin                             21
+Wyoming                               20

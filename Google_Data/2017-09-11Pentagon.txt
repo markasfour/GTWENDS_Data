@@ -1,0 +1,53 @@
+                      Pentagon
+geoName                       
+Alabama                      9
+Alaska                       9
+Arizona                      8
+Arkansas                     8
+California                   8
+Colorado                     8
+Connecticut                  8
+Delaware                    10
+District of Columbia       100
+Florida                      8
+Georgia                      9
+Hawaii                      13
+Idaho                        8
+Illinois                     8
+Indiana                      9
+Iowa                         9
+Kansas                       8
+Kentucky                     8
+Louisiana                    7
+Maine                        8
+Maryland                    37
+Massachusetts                8
+Michigan                     8
+Minnesota                    8
+Mississippi                  8
+Missouri                     8
+Montana                      8
+Nebraska                    10
+Nevada                       8
+New Hampshire                9
+New Jersey                   9
+New Mexico                   9
+New York                     8
+North Carolina              11
+North Dakota                 8
+Ohio                         9
+Oklahoma                     8
+Oregon                       6
+Pennsylvania                 9
+Rhode Island                 8
+South Carolina               9
+South Dakota                36
+Tennessee                    7
+Texas                        9
+Utah                         7
+Vermont                      8
+Virginia                    54
+Washington                   7
+West Virginia               11
+Wisconsin                    8
+Wyoming                      8

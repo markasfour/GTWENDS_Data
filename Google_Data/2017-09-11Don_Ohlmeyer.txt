@@ -1,20 +1,20 @@
                 Don Ohlmeyer
 geoName                     
-Arizona                   51
-California                73
-Colorado                  36
-Connecticut              100
-Georgia                   21
-Illinois                  50
-Maryland                  31
-Massachusetts             60
-Michigan                  46
-Minnesota                 36
-Nevada                    25
-New Jersey                53
-New York                  68
-North Carolina            18
-Ohio                      41
-Pennsylvania              60
-Texas                     32
-Virginia                  23
+Arizona                   57
+California               100
+Colorado                  83
+Connecticut               38
+Georgia                   23
+Illinois                  69
+Maryland                  55
+Massachusetts             70
+Michigan                  48
+Minnesota                 69
+Nevada                    48
+New Jersey                63
+New York                  96
+North Carolina            14
+Ohio                      65
+Pennsylvania              73
+Texas                     39
+Virginia                  33

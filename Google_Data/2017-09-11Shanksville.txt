@@ -1,0 +1,52 @@
+                      Shanksville
+geoName                          
+Alabama                         6
+Alaska                          7
+Arizona                         7
+Arkansas                        4
+California                      4
+Colorado                        4
+Connecticut                    13
+Delaware                       25
+District of Columbia           32
+Florida                         7
+Georgia                         7
+Hawaii                          4
+Idaho                           7
+Illinois                        8
+Indiana                        13
+Iowa                           10
+Kansas                          5
+Kentucky                       10
+Louisiana                       5
+Maine                          12
+Maryland                       25
+Massachusetts                  10
+Michigan                       11
+Minnesota                       7
+Mississippi                     5
+Missouri                        6
+Montana                         5
+Nebraska                        7
+Nevada                          5
+New Hampshire                  11
+New Jersey                     19
+New Mexico                      5
+New York                       12
+North Carolina                 10
+North Dakota                    9
+Ohio                           32
+Oklahoma                        6
+Oregon                          4
+Pennsylvania                  100
+Rhode Island                    9
+South Carolina                  9
+South Dakota                    6
+Tennessee                       8
+Texas                           4
+Utah                            5
+Vermont                         7
+Virginia                       16
+Washington                      4
+West Virginia                  47
+Wisconsin                      10

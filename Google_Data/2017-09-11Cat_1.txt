@@ -1,0 +1,7 @@
+            Cat 1
+geoName          
+California     80
+Florida        79
+Georgia        70
+New York      100
+Texas          75
