@@ -1,0 +1,53 @@
+                      Dez Bryant
+geoName                         
+Alabama                       23
+Alaska                        20
+Arizona                       34
+Arkansas                      42
+California                    30
+Colorado                      32
+Connecticut                   39
+Delaware                      53
+District of Columbia          64
+Florida                       26
+Georgia                       32
+Hawaii                        34
+Idaho                         30
+Illinois                      30
+Indiana                       24
+Iowa                          37
+Kansas                        29
+Kentucky                      28
+Louisiana                     46
+Maine                         25
+Maryland                      49
+Massachusetts                 33
+Michigan                      29
+Minnesota                     33
+Mississippi                   43
+Missouri                      28
+Montana                       29
+Nebraska                      30
+Nevada                        34
+New Hampshire                 23
+New Jersey                    48
+New Mexico                    52
+New York                      36
+North Carolina                36
+North Dakota                  38
+Ohio                          28
+Oklahoma                      60
+Oregon                        15
+Pennsylvania                  44
+Rhode Island                  39
+South Carolina                39
+South Dakota                  37
+Tennessee                     31
+Texas                        100
+Utah                          22
+Vermont                       21
+Virginia                      45
+Washington                    31
+West Virginia                 33
+Wisconsin                     37
+Wyoming                       31

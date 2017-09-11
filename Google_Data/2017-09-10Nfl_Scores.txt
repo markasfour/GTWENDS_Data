@@ -1,0 +1,53 @@
+                      Nfl Scores
+geoName                         
+Alabama                       28
+Alaska                        69
+Arizona                       71
+Arkansas                      38
+California                    51
+Colorado                      65
+Connecticut                   48
+Delaware                      92
+District of Columbia          91
+Florida                       53
+Georgia                       57
+Hawaii                        88
+Idaho                         55
+Illinois                      55
+Indiana                       45
+Iowa                          50
+Kansas                        47
+Kentucky                      41
+Louisiana                     48
+Maine                         56
+Maryland                      57
+Massachusetts                 53
+Michigan                      43
+Minnesota                     55
+Mississippi                   75
+Missouri                      49
+Montana                       72
+Nebraska                      43
+Nevada                       100
+New Hampshire                 49
+New Jersey                    57
+New Mexico                    90
+New York                      48
+North Carolina                61
+North Dakota                  68
+Ohio                          47
+Oklahoma                      38
+Oregon                        31
+Pennsylvania                  63
+Rhode Island                  55
+South Carolina                60
+South Dakota                  80
+Tennessee                     45
+Texas                         57
+Utah                          48
+Vermont                       53
+Virginia                      54
+Washington                    55
+West Virginia                 52
+Wisconsin                     61
+Wyoming                       91

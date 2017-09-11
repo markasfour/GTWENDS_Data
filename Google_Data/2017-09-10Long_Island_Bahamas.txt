@@ -1,53 +1,53 @@
                       Long Island Bahamas
 geoName                                  
-Alabama                                23
-Alaska                                 21
+Alabama                                24
+Alaska                                 22
 Arizona                                15
-Arkansas                               24
+Arkansas                               25
 California                             12
-Colorado                               24
-Connecticut                            40
-Delaware                               37
-District of Columbia                   33
-Florida                                66
-Georgia                                25
-Hawaii                                 16
-Idaho                                  21
-Illinois                               16
-Indiana                                16
-Iowa                                   12
-Kansas                                 18
+Colorado                               23
+Connecticut                            42
+Delaware                               31
+District of Columbia                   40
+Florida                                69
+Georgia                                27
+Hawaii                                 11
+Idaho                                  23
+Illinois                               17
+Indiana                                15
+Iowa                                   21
+Kansas                                 23
 Kentucky                               21
-Louisiana                              14
-Maine                                  70
-Maryland                               29
-Massachusetts                          40
+Louisiana                              17
+Maine                                  64
+Maryland                               32
+Massachusetts                          41
 Michigan                               19
-Minnesota                              28
-Mississippi                            13
+Minnesota                              27
+Mississippi                             9
 Missouri                               20
 Montana                               100
 Nebraska                               15
-Nevada                                 13
-New Hampshire                          63
+Nevada                                  9
+New Hampshire                          70
 New Jersey                             33
-New Mexico                             25
-New York                               55
-North Carolina                         33
-North Dakota                           11
-Ohio                                   21
-Oklahoma                               16
-Oregon                                 21
-Pennsylvania                           30
+New Mexico                             23
+New York                               57
+North Carolina                         36
+North Dakota                            8
+Ohio                                   24
+Oklahoma                               15
+Oregon                                 23
+Pennsylvania                           28
 Rhode Island                           30
-South Carolina                         37
-South Dakota                           22
-Tennessee                              22
+South Carolina                         41
+South Dakota                           21
+Tennessee                              28
 Texas                                  17
-Utah                                   15
-Vermont                                86
+Utah                                   16
+Vermont                                96
 Virginia                               29
-Washington                             15
-West Virginia                          28
-Wisconsin                              20
-Wyoming                                29
+Washington                             18
+West Virginia                          29
+Wisconsin                              18
+Wyoming                                39

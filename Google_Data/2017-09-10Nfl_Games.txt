@@ -1,53 +1,53 @@
                       Nfl Games
 geoName                        
-Alabama                      48
-Alaska                       76
-Arizona                      89
-Arkansas                     57
-California                   60
-Colorado                     88
-Connecticut                  62
+Alabama                      47
+Alaska                       72
+Arizona                      87
+Arkansas                     54
+California                   57
+Colorado                     86
+Connecticut                  58
 Delaware                     80
-District of Columbia         77
-Florida                      67
-Georgia                      67
-Hawaii                       78
-Idaho                        84
-Illinois                     58
-Indiana                      66
-Iowa                         76
-Kansas                       59
-Kentucky                     55
-Louisiana                    72
+District of Columbia         75
+Florida                      65
+Georgia                      64
+Hawaii                       75
+Idaho                        77
+Illinois                     56
+Indiana                      64
+Iowa                         72
+Kansas                       58
+Kentucky                     52
+Louisiana                    69
 Maine                        66
-Maryland                     71
-Massachusetts                59
-Michigan                     53
-Minnesota                    68
-Mississippi                  80
-Missouri                     57
-Montana                     100
-Nebraska                     64
-Nevada                       87
-New Hampshire                63
-New Jersey                   60
-New Mexico                   99
-New York                     52
-North Carolina               78
-North Dakota                 95
-Ohio                         66
-Oklahoma                     51
+Maryland                     69
+Massachusetts                57
+Michigan                     52
+Minnesota                    66
+Mississippi                  78
+Missouri                     55
+Montana                      97
+Nebraska                     60
+Nevada                       85
+New Hampshire                61
+New Jersey                   58
+New Mexico                   96
+New York                     50
+North Carolina               76
+North Dakota                 94
+Ohio                         63
+Oklahoma                     50
 Oregon                       43
-Pennsylvania                 69
-Rhode Island                 72
-South Carolina               77
+Pennsylvania                 67
+Rhode Island                 70
+South Carolina               74
 South Dakota                100
-Tennessee                    58
-Texas                        74
-Utah                         63
-Vermont                      67
-Virginia                     63
-Washington                   82
+Tennessee                    56
+Texas                        72
+Utah                         60
+Vermont                      63
+Virginia                     60
+Washington                   77
 West Virginia                63
-Wisconsin                    84
-Wyoming                      97
+Wisconsin                    81
+Wyoming                      98

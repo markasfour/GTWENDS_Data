@@ -1,0 +1,53 @@
+                      49ers
+geoName                    
+Alabama                  11
+Alaska                   33
+Arizona                  42
+Arkansas                 15
+California              100
+Colorado                 29
+Connecticut              17
+Delaware                 20
+District of Columbia     23
+Florida                  14
+Georgia                  18
+Hawaii                   65
+Idaho                    43
+Illinois                 16
+Indiana                  13
+Iowa                     22
+Kansas                   18
+Kentucky                 16
+Louisiana                23
+Maine                    11
+Maryland                 18
+Massachusetts            13
+Michigan                 12
+Minnesota                15
+Mississippi              28
+Missouri                 15
+Montana                  38
+Nebraska                 19
+Nevada                   74
+New Hampshire            10
+New Jersey               19
+New Mexico               54
+New York                 15
+North Carolina           21
+North Dakota             26
+Ohio                     14
+Oklahoma                 16
+Oregon                   30
+Pennsylvania             18
+Rhode Island             15
+South Carolina           22
+South Dakota             28
+Tennessee                17
+Texas                    24
+Utah                     39
+Vermont                  11
+Virginia                 18
+Washington               57
+West Virginia            16
+Wisconsin                19
+Wyoming                  30

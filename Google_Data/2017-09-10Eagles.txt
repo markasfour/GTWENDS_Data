@@ -1,53 +1,53 @@
                       Eagles
 geoName                     
 Alabama                   14
-Alaska                    14
+Alaska                    13
 Arizona                   13
 Arkansas                  12
-California                11
+California                10
 Colorado                  16
 Connecticut               14
 Delaware                 100
-District of Columbia      48
+District of Columbia      47
 Florida                   15
 Georgia                   19
 Hawaii                    12
-Idaho                     14
+Idaho                     13
 Illinois                  12
 Indiana                   15
-Iowa                      20
+Iowa                      19
 Kansas                    12
 Kentucky                  13
 Louisiana                 12
 Maine                     14
 Maryland                  23
 Massachusetts             13
-Michigan                  13
-Minnesota                 15
-Mississippi               17
+Michigan                  12
+Minnesota                 14
+Mississippi               16
 Missouri                  14
 Montana                   17
-Nebraska                  16
+Nebraska                  15
 Nevada                    13
 New Hampshire             12
-New Jersey                45
+New Jersey                44
 New Mexico                18
-New York                  14
-North Carolina            18
-North Dakota              29
+New York                  13
+North Carolina            17
+North Dakota              28
 Ohio                      15
 Oklahoma                  14
-Oregon                    10
-Pennsylvania              88
-Rhode Island              13
-South Carolina            20
+Oregon                     9
+Pennsylvania              86
+Rhode Island              12
+South Carolina            19
 South Dakota              20
 Tennessee                 14
 Texas                     15
 Utah                      12
 Vermont                   14
 Virginia                  22
-Washington                14
+Washington                13
 West Virginia             16
 Wisconsin                 16
-Wyoming                   22
+Wyoming                   21

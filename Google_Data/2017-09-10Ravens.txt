@@ -8,7 +8,7 @@ California                 4
 Colorado                   6
 Connecticut                5
 Delaware                  27
-District of Columbia      37
+District of Columbia      36
 Florida                    5
 Georgia                    6
 Hawaii                     6
@@ -31,10 +31,10 @@ Nebraska                   4
 Nevada                     6
 New Hampshire              5
 New Jersey                 7
-New Mexico                 6
+New Mexico                 5
 New York                   5
 North Carolina             7
-North Dakota               4
+North Dakota               5
 Ohio                       6
 Oklahoma                   4
 Oregon                     3
@@ -44,7 +44,7 @@ South Carolina             7
 South Dakota               5
 Tennessee                  5
 Texas                      5
-Utah                       5
+Utah                       4
 Vermont                    5
 Virginia                  14
 Washington                 5

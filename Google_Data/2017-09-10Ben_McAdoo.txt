@@ -1,0 +1,52 @@
+                      Ben McAdoo
+geoName                         
+Alabama                       15
+Alaska                        18
+Arizona                       13
+Arkansas                      16
+California                    12
+Colorado                      15
+Connecticut                   59
+Delaware                      43
+District of Columbia          36
+Florida                       23
+Georgia                       17
+Hawaii                        10
+Idaho                         15
+Illinois                      17
+Indiana                       24
+Iowa                          19
+Kansas                        13
+Kentucky                      15
+Louisiana                     19
+Maine                         19
+Maryland                      26
+Massachusetts                 26
+Michigan                      15
+Minnesota                     18
+Mississippi                   22
+Missouri                      12
+Montana                       14
+Nebraska                      18
+Nevada                        15
+New Hampshire                 16
+New Jersey                   100
+New Mexico                     9
+New York                      56
+North Carolina                25
+North Dakota                  21
+Ohio                          25
+Oklahoma                      15
+Oregon                         8
+Pennsylvania                  52
+Rhode Island                  30
+South Carolina                21
+South Dakota                  30
+Tennessee                     16
+Texas                         15
+Utah                          10
+Vermont                       24
+Virginia                      24
+Washington                    11
+West Virginia                 23
+Wisconsin                     33

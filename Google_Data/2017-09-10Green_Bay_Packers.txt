@@ -1,0 +1,53 @@
+                      Green Bay Packers
+geoName                                
+Alabama                               5
+Alaska                               10
+Arizona                              10
+Arkansas                              7
+California                            6
+Colorado                              9
+Connecticut                           5
+Delaware                              6
+District of Columbia                  7
+Florida                               6
+Georgia                               6
+Hawaii                                8
+Idaho                                11
+Illinois                             17
+Indiana                               8
+Iowa                                 25
+Kansas                                7
+Kentucky                              8
+Louisiana                             6
+Maine                                 5
+Maryland                              5
+Massachusetts                         4
+Michigan                             11
+Minnesota                            22
+Mississippi                           7
+Missouri                              8
+Montana                              17
+Nebraska                             13
+Nevada                                8
+New Hampshire                         4
+New Jersey                            5
+New Mexico                           10
+New York                              4
+North Carolina                        7
+North Dakota                         21
+Ohio                                  7
+Oklahoma                              7
+Oregon                                5
+Pennsylvania                          6
+Rhode Island                          5
+South Carolina                        7
+South Dakota                         22
+Tennessee                             7
+Texas                                 7
+Utah                                  8
+Vermont                               5
+Virginia                              5
+Washington                            8
+West Virginia                         7
+Wisconsin                           100
+Wyoming                              13

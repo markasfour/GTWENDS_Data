@@ -1,0 +1,53 @@
+                      NFL Week 1
+geoName                         
+Alabama                       21
+Alaska                        42
+Arizona                       53
+Arkansas                      28
+California                    43
+Colorado                      60
+Connecticut                   54
+Delaware                     100
+District of Columbia          62
+Florida                       40
+Georgia                       31
+Hawaii                        43
+Idaho                         41
+Illinois                      57
+Indiana                       46
+Iowa                          48
+Kansas                        37
+Kentucky                      35
+Louisiana                     34
+Maine                         53
+Maryland                      56
+Massachusetts                 61
+Michigan                      40
+Minnesota                     65
+Mississippi                   29
+Missouri                      46
+Montana                       59
+Nebraska                      41
+Nevada                        69
+New Hampshire                 59
+New Jersey                    68
+New Mexico                    47
+New York                      50
+North Carolina                43
+North Dakota                  77
+Ohio                          48
+Oklahoma                      26
+Oregon                        25
+Pennsylvania                  65
+Rhode Island                  60
+South Carolina                41
+South Dakota                  79
+Tennessee                     30
+Texas                         35
+Utah                          37
+Vermont                       49
+Virginia                      42
+Washington                    43
+West Virginia                 38
+Wisconsin                     69
+Wyoming                       56

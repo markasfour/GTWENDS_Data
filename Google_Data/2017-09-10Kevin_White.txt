@@ -1,0 +1,52 @@
+                      Kevin White
+geoName                          
+Alabama                        26
+Arizona                        21
+Arkansas                       24
+California                     21
+Colorado                       20
+Connecticut                    29
+Delaware                       32
+District of Columbia           40
+Florida                        22
+Georgia                        27
+Hawaii                         20
+Idaho                          18
+Illinois                       46
+Indiana                        30
+Iowa                           35
+Kansas                         22
+Kentucky                       25
+Louisiana                      35
+Maine                          26
+Maryland                       30
+Massachusetts                  32
+Michigan                       25
+Minnesota                      29
+Mississippi                    32
+Missouri                       25
+Montana                        20
+Nebraska                       29
+Nevada                         20
+New Hampshire                  26
+New Jersey                     30
+New Mexico                     19
+New York                       27
+North Carolina                 26
+North Dakota                   31
+Ohio                           26
+Oklahoma                       28
+Oregon                         15
+Pennsylvania                   33
+Rhode Island                   29
+South Carolina                 25
+South Dakota                   30
+Tennessee                      25
+Texas                          23
+Utah                           16
+Vermont                        25
+Virginia                       25
+Washington                     20
+West Virginia                 100
+Wisconsin                      30
+Wyoming                        17

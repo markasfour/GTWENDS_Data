@@ -1,53 +1,53 @@
                       Sloane Stephens
 geoName                              
-Alabama                            53
-Alaska                             20
+Alabama                            57
+Alaska                             18
 Arizona                            32
-Arkansas                           38
-California                         46
-Colorado                           35
-Connecticut                        62
-Delaware                           62
-District of Columbia               95
-Florida                            57
-Georgia                            83
-Hawaii                             43
-Idaho                              23
-Illinois                           51
-Indiana                            43
-Iowa                               29
-Kansas                             37
-Kentucky                           34
-Louisiana                          60
-Maine                              35
+Arkansas                           35
+California                         44
+Colorado                           36
+Connecticut                        61
+Delaware                           72
+District of Columbia               81
+Florida                            58
+Georgia                            80
+Hawaii                             38
+Idaho                              24
+Illinois                           50
+Indiana                            40
+Iowa                               25
+Kansas                             41
+Kentucky                           36
+Louisiana                          66
+Maine                              38
 Maryland                          100
-Massachusetts                      51
-Michigan                           43
-Minnesota                          38
-Mississippi                        54
-Missouri                           37
-Montana                            27
-Nebraska                           28
+Massachusetts                      48
+Michigan                           46
+Minnesota                          40
+Mississippi                        58
+Missouri                           39
+Montana                            33
+Nebraska                           30
 Nevada                             38
-New Hampshire                      37
+New Hampshire                      35
 New Jersey                         64
 New Mexico                         29
-New York                           73
-North Carolina                     54
+New York                           74
+North Carolina                     58
 North Dakota                       23
-Ohio                               48
-Oklahoma                           35
-Oregon                             27
-Pennsylvania                       51
-Rhode Island                       41
-South Carolina                     65
-South Dakota                       28
+Ohio                               50
+Oklahoma                           37
+Oregon                             26
+Pennsylvania                       52
+Rhode Island                       39
+South Carolina                     57
+South Dakota                       27
 Tennessee                          43
-Texas                              43
-Utah                               26
-Vermont                            29
-Virginia                           56
+Texas                              42
+Utah                               25
+Vermont                            40
+Virginia                           57
 Washington                         35
-West Virginia                      26
+West Virginia                      29
 Wisconsin                          33
-Wyoming                            32
+Wyoming                            28

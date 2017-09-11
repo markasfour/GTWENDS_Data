@@ -16,14 +16,14 @@ Idaho                              5
 Illinois                           6
 Indiana                            6
 Iowa                               6
-Kansas                             8
+Kansas                             9
 Kentucky                           7
 Louisiana                         22
 Maine                              5
 Maryland                           6
 Massachusetts                      6
 Michigan                           5
-Minnesota                          6
+Minnesota                          5
 Mississippi                        8
 Missouri                           6
 Montana                            7
@@ -34,14 +34,14 @@ New Jersey                         5
 New Mexico                        10
 New York                           5
 North Carolina                     6
-North Dakota                       9
+North Dakota                       8
 Ohio                               6
-Oklahoma                          15
+Oklahoma                          14
 Oregon                             3
 Pennsylvania                       5
 Rhode Island                       6
 South Carolina                     9
-South Dakota                       7
+South Dakota                       6
 Tennessee                          7
 Texas                            100
 Utah                               5
@@ -49,5 +49,5 @@ Vermont                            3
 Virginia                           5
 Washington                         6
 West Virginia                      5
-Wisconsin                          6
+Wisconsin                          7
 Wyoming                            8

@@ -1,0 +1,53 @@
+                      Shahs
+geoName                    
+Alabama                  35
+Alaska                   26
+Arizona                  62
+Arkansas                 28
+California              100
+Colorado                 37
+Connecticut              65
+Delaware                 56
+District of Columbia     75
+Florida                  63
+Georgia                  49
+Hawaii                   84
+Idaho                    26
+Illinois                 56
+Indiana                  36
+Iowa                     28
+Kansas                   32
+Kentucky                 38
+Louisiana                64
+Maine                    35
+Maryland                 77
+Massachusetts            62
+Michigan                 48
+Minnesota                38
+Mississippi              34
+Missouri                 41
+Montana                  23
+Nebraska                 31
+Nevada                   77
+New Hampshire            40
+New Jersey               98
+New Mexico               45
+New York                 98
+North Carolina           43
+North Dakota             29
+Ohio                     45
+Oklahoma                 44
+Oregon                   23
+Pennsylvania             56
+Rhode Island             75
+South Carolina           44
+South Dakota             29
+Tennessee                35
+Texas                    57
+Utah                     23
+Vermont                  29
+Virginia                 52
+Washington               46
+West Virginia            37
+Wisconsin                36
+Wyoming                  19

@@ -1,0 +1,53 @@
+                      Jordy Nelson
+geoName                           
+Alabama                          6
+Alaska                           9
+Arizona                          9
+Arkansas                         6
+California                       7
+Colorado                        10
+Connecticut                      9
+Delaware                        10
+District of Columbia            11
+Florida                          7
+Georgia                          7
+Hawaii                           8
+Idaho                            9
+Illinois                        19
+Indiana                         10
+Iowa                            21
+Kansas                          24
+Kentucky                         8
+Louisiana                        7
+Maine                            7
+Maryland                         8
+Massachusetts                    9
+Michigan                        10
+Minnesota                       22
+Mississippi                      6
+Missouri                        11
+Montana                         11
+Nebraska                        15
+Nevada                           9
+New Hampshire                    6
+New Jersey                      10
+New Mexico                       8
+New York                         8
+North Carolina                   8
+North Dakota                    19
+Ohio                             8
+Oklahoma                         8
+Oregon                           5
+Pennsylvania                     9
+Rhode Island                     9
+South Carolina                   8
+South Dakota                    18
+Tennessee                        7
+Texas                            8
+Utah                             7
+Vermont                          7
+Virginia                         7
+Washington                       8
+West Virginia                    7
+Wisconsin                      100
+Wyoming                         10

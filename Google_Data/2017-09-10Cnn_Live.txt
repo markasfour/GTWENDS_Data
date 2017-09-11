@@ -1,53 +1,53 @@
                       Cnn Live
 geoName                       
-Alabama                     54
-Alaska                      43
-Arizona                     54
-Arkansas                    50
-California                  57
+Alabama                     53
+Alaska                      40
+Arizona                     50
+Arkansas                    46
+California                  54
 Colorado                    47
-Connecticut                 72
+Connecticut                 70
 Delaware                    69
 District of Columbia       100
-Florida                     70
-Georgia                     63
-Hawaii                      48
-Idaho                       39
-Illinois                    47
-Indiana                     48
+Florida                     68
+Georgia                     61
+Hawaii                      47
+Idaho                       37
+Illinois                    46
+Indiana                     46
 Iowa                        43
-Kansas                      41
-Kentucky                    43
-Louisiana                   52
-Maine                       62
-Maryland                    91
-Massachusetts               70
-Michigan                    51
-Minnesota                   54
-Mississippi                 45
-Missouri                    51
-Montana                     46
-Nebraska                    45
-Nevada                      51
-New Hampshire               56
-New Jersey                  75
-New Mexico                  47
-New York                    77
-North Carolina              55
-North Dakota                51
+Kansas                      38
+Kentucky                    41
+Louisiana                   51
+Maine                       60
+Maryland                    88
+Massachusetts               66
+Michigan                    49
+Minnesota                   51
+Mississippi                 41
+Missouri                    48
+Montana                     41
+Nebraska                    44
+Nevada                      50
+New Hampshire               54
+New Jersey                  72
+New Mexico                  46
+New York                    75
+North Carolina              54
+North Dakota                48
 Ohio                        48
 Oklahoma                    41
 Oregon                      64
-Pennsylvania                60
-Rhode Island                65
-South Carolina              69
+Pennsylvania                59
+Rhode Island                66
+South Carolina              63
 South Dakota                45
-Tennessee                   50
-Texas                       52
-Utah                        40
-Vermont                     78
-Virginia                    62
-Washington                  53
-West Virginia               47
-Wisconsin                   42
-Wyoming                     42
+Tennessee                   49
+Texas                       49
+Utah                        38
+Vermont                     76
+Virginia                    60
+Washington                  52
+West Virginia               48
+Wisconsin                   40
+Wyoming                     38
