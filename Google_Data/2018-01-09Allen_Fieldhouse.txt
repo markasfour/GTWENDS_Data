@@ -1,0 +1,28 @@
+                Allen Fieldhouse
+geoName                         
+Arizona                        1
+California                     1
+Colorado                       2
+Florida                        0
+Georgia                        1
+Illinois                       3
+Indiana                        2
+Iowa                           5
+Kansas                       100
+Kentucky                       3
+Massachusetts                  0
+Michigan                       1
+Minnesota                      2
+Missouri                      19
+Nebraska                       6
+New Jersey                     0
+New York                       1
+North Carolina                 1
+Ohio                           1
+Oklahoma                       3
+Pennsylvania                   1
+Tennessee                      1
+Texas                          1
+Virginia                       1
+Washington                     0
+West Virginia                  3

@@ -1,0 +1,43 @@
+                Caribbean
+geoName                  
+Alabama                42
+Alaska                 31
+Arkansas               36
+California             27
+Colorado               33
+Connecticut            54
+Delaware               57
+Florida               100
+Georgia                62
+Hawaii                 22
+Illinois               34
+Indiana                43
+Kentucky               39
+Louisiana              39
+Maine                  41
+Maryland               57
+Massachusetts          45
+Michigan               38
+Mississippi            38
+Missouri               34
+Montana                28
+Nebraska               32
+Nevada                 32
+New Hampshire          47
+New Mexico             28
+New York               61
+North Carolina         48
+North Dakota           34
+Oregon                 24
+Pennsylvania           48
+Rhode Island           54
+South Carolina         50
+South Dakota           31
+Tennessee              41
+Texas                  35
+Utah                   41
+Vermont                40
+Virginia               41
+Washington             28
+Wisconsin              34
+Wyoming                32

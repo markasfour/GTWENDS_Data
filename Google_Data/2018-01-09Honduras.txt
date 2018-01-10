@@ -1,0 +1,53 @@
+                      Honduras
+geoName                       
+Alabama                     23
+Alaska                      16
+Arizona                     22
+Arkansas                    31
+California                  35
+Colorado                    30
+Connecticut                 33
+Delaware                    22
+District of Columbia        94
+Florida                     78
+Georgia                     53
+Hawaii                      13
+Idaho                       17
+Illinois                    29
+Indiana                     25
+Iowa                        22
+Kansas                      33
+Kentucky                    24
+Louisiana                  100
+Maine                       13
+Maryland                    73
+Massachusetts               34
+Michigan                    20
+Minnesota                   23
+Mississippi                 30
+Missouri                    24
+Montana                     13
+Nebraska                    24
+Nevada                      31
+New Hampshire               16
+New Jersey                  61
+New Mexico                  20
+New York                    61
+North Carolina              53
+North Dakota                12
+Ohio                        15
+Oklahoma                    29
+Oregon                      28
+Pennsylvania                24
+Rhode Island                21
+South Carolina              42
+South Dakota                18
+Tennessee                   38
+Texas                       74
+Utah                        24
+Vermont                     15
+Virginia                    63
+Washington                  23
+West Virginia               16
+Wisconsin                   18
+Wyoming                     15
