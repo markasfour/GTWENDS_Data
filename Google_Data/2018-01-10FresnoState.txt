@@ -1,0 +1,5 @@
+            FresnoState
+geoName                
+California          100
+Oregon                2
+Washington            8

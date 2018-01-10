@@ -1,0 +1,53 @@
+                      Alabama Vs Georgia
+geoName                                 
+Alabama                              100
+Alaska                                 4
+Arizona                                3
+Arkansas                              13
+California                             2
+Colorado                               3
+Connecticut                            3
+Delaware                               3
+District of Columbia                   3
+Florida                               10
+Georgia                               55
+Hawaii                                 6
+Idaho                                  3
+Illinois                               4
+Indiana                                5
+Iowa                                   3
+Kansas                                 4
+Kentucky                               9
+Louisiana                             12
+Maine                                  3
+Maryland                               3
+Massachusetts                          2
+Michigan                               4
+Minnesota                              2
+Mississippi                           28
+Missouri                               4
+Montana                                2
+Nebraska                               7
+Nevada                                 5
+New Hampshire                          2
+New Jersey                             3
+New Mexico                             3
+New York                               2
+North Carolina                         9
+North Dakota                           3
+Ohio                                   6
+Oklahoma                               8
+Oregon                                 2
+Pennsylvania                           4
+Rhode Island                           2
+South Carolina                        21
+South Dakota                           2
+Tennessee                             25
+Texas                                  6
+Utah                                   4
+Vermont                                2
+Virginia                               5
+Washington                             2
+West Virginia                          6
+Wisconsin                              3
+Wyoming                                2

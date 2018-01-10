@@ -1,0 +1,48 @@
+                      Dragula
+geoName                      
+Alabama                    53
+Arizona                    54
+Arkansas                   64
+California                 46
+Colorado                   53
+Connecticut                39
+District of Columbia       47
+Florida                    41
+Georgia                    45
+Idaho                      58
+Illinois                   56
+Indiana                    64
+Iowa                       72
+Kansas                     60
+Kentucky                   76
+Louisiana                  52
+Maine                      68
+Maryland                   42
+Massachusetts              48
+Michigan                   61
+Minnesota                  53
+Mississippi                50
+Missouri                   65
+Montana                    60
+Nebraska                   62
+Nevada                     51
+New Hampshire              52
+New Jersey                 41
+New Mexico                 62
+New York                   40
+North Carolina             49
+North Dakota               87
+Ohio                       71
+Oklahoma                   70
+Oregon                     48
+Pennsylvania               58
+Rhode Island               56
+South Carolina             54
+South Dakota               81
+Tennessee                  61
+Texas                      50
+Utah                       61
+Virginia                   40
+Washington                 64
+West Virginia             100
+Wisconsin                  60

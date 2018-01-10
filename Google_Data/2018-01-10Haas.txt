@@ -1,0 +1,53 @@
+                      Haas
+geoName                   
+Alabama                 28
+Alaska                  18
+Arizona                 27
+Arkansas                62
+California              57
+Colorado                30
+Connecticut             42
+Delaware                44
+District of Columbia    37
+Florida                 25
+Georgia                 22
+Hawaii                  30
+Idaho                   28
+Illinois                38
+Indiana                 49
+Iowa                    40
+Kansas                  36
+Kentucky                33
+Louisiana               27
+Maine                   28
+Maryland                28
+Massachusetts           36
+Michigan                43
+Minnesota               43
+Mississippi             19
+Missouri                30
+Montana                 34
+Nebraska               100
+Nevada                  23
+New Hampshire           49
+New Jersey              30
+New Mexico              31
+New York                32
+North Carolina          35
+North Dakota            33
+Ohio                    48
+Oklahoma                28
+Oregon                  25
+Pennsylvania            43
+Rhode Island            27
+South Carolina          29
+South Dakota            40
+Tennessee               29
+Texas                   52
+Utah                    21
+Vermont                 38
+Virginia                26
+Washington              30
+West Virginia           25
+Wisconsin               51
+Wyoming                 24

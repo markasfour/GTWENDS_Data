@@ -1,0 +1,38 @@
+                      John Beilein
+geoName                           
+Alabama                          5
+Arizona                          6
+California                       4
+Colorado                         5
+Connecticut                      9
+District of Columbia            17
+Florida                          6
+Georgia                          5
+Illinois                        14
+Indiana                         21
+Iowa                            10
+Kansas                          10
+Kentucky                        19
+Louisiana                        5
+Maryland                        12
+Massachusetts                    7
+Michigan                       100
+Minnesota                        8
+Missouri                        10
+Nebraska                        10
+Nevada                           3
+New Jersey                       6
+New York                        12
+North Carolina                   8
+Ohio                            19
+Oklahoma                         5
+Oregon                           3
+Pennsylvania                    11
+South Carolina                   7
+Tennessee                        8
+Texas                            3
+Utah                             3
+Virginia                        10
+Washington                       3
+West Virginia                   57
+Wisconsin                       10

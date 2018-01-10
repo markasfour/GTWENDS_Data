@@ -1,0 +1,53 @@
+                      TEQUILA
+geoName                      
+Alabama                    52
+Alaska                     74
+Arizona                    92
+Arkansas                   85
+California                100
+Colorado                   87
+Connecticut                68
+Delaware                   63
+District of Columbia       81
+Florida                    76
+Georgia                    74
+Hawaii                     74
+Idaho                      55
+Illinois                   84
+Indiana                    61
+Iowa                       60
+Kansas                     59
+Kentucky                   58
+Louisiana                  63
+Maine                      55
+Maryland                   59
+Massachusetts              70
+Michigan                   68
+Minnesota                  62
+Mississippi                55
+Missouri                   64
+Montana                    56
+Nebraska                   64
+Nevada                     99
+New Hampshire              62
+New Jersey                 65
+New Mexico                 81
+New York                   76
+North Carolina             67
+North Dakota               58
+Ohio                       65
+Oklahoma                   93
+Oregon                     59
+Pennsylvania               62
+Rhode Island               68
+South Carolina             65
+South Dakota               48
+Tennessee                  65
+Texas                      96
+Utah                       49
+Vermont                    59
+Virginia                   55
+Washington                 81
+West Virginia              49
+Wisconsin                  70
+Wyoming                    64

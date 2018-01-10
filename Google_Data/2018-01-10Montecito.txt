@@ -1,0 +1,53 @@
+                      Montecito
+geoName                        
+Alabama                       2
+Alaska                        4
+Arizona                      35
+Arkansas                      6
+California                  100
+Colorado                     13
+Connecticut                   5
+Delaware                      2
+District of Columbia          8
+Florida                       7
+Georgia                       3
+Hawaii                       26
+Idaho                         8
+Illinois                      5
+Indiana                       3
+Iowa                          3
+Kansas                        4
+Kentucky                      3
+Louisiana                     3
+Maine                         4
+Maryland                      4
+Massachusetts                 4
+Michigan                      3
+Minnesota                     4
+Mississippi                   2
+Missouri                      5
+Montana                       7
+Nebraska                      4
+Nevada                       78
+New Hampshire                 3
+New Jersey                    4
+New Mexico                   22
+New York                      6
+North Carolina                6
+North Dakota                  2
+Ohio                          3
+Oklahoma                      4
+Oregon                        9
+Pennsylvania                  3
+Rhode Island                  3
+South Carolina                3
+South Dakota                  3
+Tennessee                     3
+Texas                        11
+Utah                          6
+Vermont                       5
+Virginia                      3
+Washington                    9
+West Virginia                 2
+Wisconsin                     4
+Wyoming                       6

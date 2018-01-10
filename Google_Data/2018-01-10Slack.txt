@@ -1,0 +1,53 @@
+                      Slack
+geoName                    
+Alabama                  29
+Alaska                   41
+Arizona                  43
+Arkansas                 38
+California               91
+Colorado                 69
+Connecticut              42
+Delaware                 35
+District of Columbia     64
+Florida                  33
+Georgia                  39
+Hawaii                   64
+Idaho                    48
+Illinois                 47
+Indiana                  39
+Iowa                     34
+Kansas                   30
+Kentucky                 29
+Louisiana                33
+Maine                    42
+Maryland                 55
+Massachusetts            78
+Michigan                 35
+Minnesota                45
+Mississippi              23
+Missouri                 38
+Montana                  45
+Nebraska                 42
+Nevada                   37
+New Hampshire            52
+New Jersey               41
+New Mexico               30
+New York                 68
+North Carolina           40
+North Dakota             29
+Ohio                     37
+Oklahoma                 30
+Oregon                   61
+Pennsylvania             45
+Rhode Island             44
+South Carolina           31
+South Dakota             33
+Tennessee                39
+Texas                    39
+Utah                    100
+Vermont                  65
+Virginia                 47
+Washington               82
+West Virginia            32
+Wisconsin                40
+Wyoming                  32

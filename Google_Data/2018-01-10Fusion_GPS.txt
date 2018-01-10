@@ -1,0 +1,53 @@
+                      Fusion GPS
+geoName                         
+Alabama                       48
+Alaska                        38
+Arizona                       47
+Arkansas                      39
+California                    43
+Colorado                      44
+Connecticut                   52
+Delaware                      47
+District of Columbia         100
+Florida                       50
+Georgia                       35
+Hawaii                        25
+Idaho                         49
+Illinois                      37
+Indiana                       41
+Iowa                          41
+Kansas                        30
+Kentucky                      39
+Louisiana                     47
+Maine                         48
+Maryland                      65
+Massachusetts                 46
+Michigan                      46
+Minnesota                     36
+Mississippi                   37
+Missouri                      50
+Montana                       41
+Nebraska                      46
+Nevada                        35
+New Hampshire                 57
+New Jersey                    44
+New Mexico                    38
+New York                      46
+North Carolina                43
+North Dakota                  39
+Ohio                          38
+Oklahoma                      39
+Oregon                        49
+Pennsylvania                  49
+Rhode Island                  59
+South Carolina                44
+South Dakota                  35
+Tennessee                     44
+Texas                         37
+Utah                          31
+Vermont                       67
+Virginia                      45
+Washington                    51
+West Virginia                 53
+Wisconsin                     35
+Wyoming                       44
