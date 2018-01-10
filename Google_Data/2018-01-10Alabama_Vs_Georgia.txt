@@ -1,53 +1,53 @@
                       Alabama Vs Georgia
 geoName                                 
 Alabama                              100
-Alaska                                 4
+Alaska                                 5
 Arizona                                3
-Arkansas                              13
-California                             2
-Colorado                               3
-Connecticut                            3
-Delaware                               3
-District of Columbia                   3
-Florida                               10
+Arkansas                              14
+California                             3
+Colorado                               5
+Connecticut                            4
+Delaware                               4
+District of Columbia                   4
+Florida                               11
 Georgia                               55
-Hawaii                                 6
-Idaho                                  3
+Hawaii                                 8
+Idaho                                  5
 Illinois                               4
 Indiana                                5
-Iowa                                   3
+Iowa                                   5
 Kansas                                 4
-Kentucky                               9
-Louisiana                             12
-Maine                                  3
-Maryland                               3
-Massachusetts                          2
-Michigan                               4
-Minnesota                              2
-Mississippi                           28
-Missouri                               4
+Kentucky                              11
+Louisiana                             14
+Maine                                  4
+Maryland                               4
+Massachusetts                          3
+Michigan                               5
+Minnesota                              3
+Mississippi                           29
+Missouri                               5
 Montana                                2
-Nebraska                               7
+Nebraska                               8
 Nevada                                 5
 New Hampshire                          2
-New Jersey                             3
-New Mexico                             3
-New York                               2
+New Jersey                             4
+New Mexico                             5
+New York                               3
 North Carolina                         9
-North Dakota                           3
-Ohio                                   6
-Oklahoma                               8
-Oregon                                 2
+North Dakota                           5
+Ohio                                   7
+Oklahoma                               9
+Oregon                                 3
 Pennsylvania                           4
-Rhode Island                           2
-South Carolina                        21
-South Dakota                           2
-Tennessee                             25
-Texas                                  6
-Utah                                   4
+Rhode Island                           3
+South Carolina                        22
+South Dakota                           3
+Tennessee                             27
+Texas                                  7
+Utah                                   5
 Vermont                                2
 Virginia                               5
-Washington                             2
-West Virginia                          6
+Washington                             3
+West Virginia                          9
 Wisconsin                              3
-Wyoming                                2
+Wyoming                                6

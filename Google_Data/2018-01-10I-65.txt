@@ -1,0 +1,33 @@
+                      I-65
+geoName                   
+Alabama                100
+Arkansas                 4
+California               1
+Connecticut              1
+District of Columbia     2
+Florida                  5
+Georgia                 13
+Illinois                14
+Indiana                 69
+Kentucky                59
+Louisiana                8
+Maryland                 1
+Massachusetts            1
+Michigan                 6
+Minnesota                2
+Mississippi             12
+Missouri                 4
+New Jersey               1
+New Mexico               1
+New York                 1
+North Carolina           3
+Ohio                     6
+Oklahoma                 2
+Oregon                   1
+Pennsylvania             1
+South Carolina           4
+Tennessee               38
+Texas                    2
+Virginia                 1
+Washington               1
+Wisconsin                6

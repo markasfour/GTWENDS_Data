@@ -1,6 +1,6 @@
-AL 0
+AL 1
 AK 0
-AZ 13
+AZ 15
 AR 0
 CA 0
 CO 15

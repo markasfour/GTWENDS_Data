@@ -1,36 +1,38 @@
-                Har Gobind Khorana
-geoName                           
-Alabama                         37
-Arizona                         17
-Arkansas                        58
-California                      23
-Colorado                        30
-Connecticut                     30
-Florida                          8
-Georgia                         13
-Illinois                        18
-Indiana                         21
-Iowa                            48
-Kansas                          49
-Louisiana                       31
-Maine                           91
-Maryland                        45
-Massachusetts                   26
-Michigan                        20
-Minnesota                       27
-Mississippi                     58
-Missouri                        27
-New Jersey                      17
-New Mexico                     100
-New York                        12
-North Carolina                  19
-Ohio                            16
-Oklahoma                        91
-Oregon                          38
-Pennsylvania                     9
-South Carolina                  27
-Tennessee                       21
-Texas                           16
-Utah                            50
-Virginia                        38
-Wisconsin                       40
+                      Har Gobind Khorana
+geoName                                 
+Alabama                               38
+Arkansas                              40
+California                            11
+Colorado                              12
+Connecticut                           41
+District of Columbia                  43
+Florida                               11
+Georgia                                9
+Idaho                                 58
+Illinois                               9
+Indiana                               15
+Iowa                                  30
+Kansas                                34
+Kentucky                              21
+Louisiana                             25
+Maryland                              43
+Massachusetts                         24
+Michigan                              20
+Minnesota                             25
+Missouri                              18
+Montana                              100
+Nebraska                              54
+Nevada                                28
+New Hampshire                         59
+New Jersey                            20
+New York                               4
+North Carolina                        16
+Ohio                                  22
+Pennsylvania                          14
+Rhode Island                          89
+Tennessee                             14
+Texas                                 13
+Utah                                  31
+Virginia                              19
+Washington                             9
+Wisconsin                             71

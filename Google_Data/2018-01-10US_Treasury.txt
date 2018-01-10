@@ -1,0 +1,46 @@
+                      US Treasury
+geoName                          
+Alabama                        47
+Arizona                        38
+Arkansas                       37
+California                     43
+Colorado                       42
+Connecticut                    61
+Delaware                       52
+District of Columbia          100
+Florida                        41
+Georgia                        39
+Idaho                          35
+Illinois                       48
+Indiana                        39
+Iowa                           42
+Kansas                         41
+Kentucky                       34
+Louisiana                      47
+Maine                          42
+Maryland                       63
+Massachusetts                  56
+Michigan                       40
+Minnesota                      45
+Mississippi                    39
+Missouri                       48
+Nebraska                       41
+Nevada                         40
+New Hampshire                  45
+New Jersey                     61
+New Mexico                     41
+New York                       76
+North Carolina                 51
+Ohio                           42
+Oklahoma                       41
+Oregon                         32
+Pennsylvania                   56
+Rhode Island                   60
+South Carolina                 40
+Tennessee                      37
+Texas                          39
+Utah                           35
+Virginia                       51
+Washington                     38
+West Virginia                  46
+Wisconsin                      43

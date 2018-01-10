@@ -1,53 +1,53 @@
                       SpaceX
 geoName                     
-Alabama                   46
-Alaska                    58
+Alabama                   47
+Alaska                    56
 Arizona                   61
-Arkansas                  30
+Arkansas                  31
 California               100
-Colorado                  68
-Connecticut               46
-Delaware                  41
-District of Columbia      56
-Florida                   98
-Georgia                   36
-Hawaii                    54
-Idaho                     45
+Colorado                  67
+Connecticut               48
+Delaware                  40
+District of Columbia      57
+Florida                   99
+Georgia                   37
+Hawaii                    53
+Idaho                     48
 Illinois                  41
-Indiana                   45
-Iowa                      43
-Kansas                    38
+Indiana                   43
+Iowa                      41
+Kansas                    37
 Kentucky                  30
-Louisiana                 29
-Maine                     42
-Maryland                  55
-Massachusetts             51
+Louisiana                 28
+Maine                     45
+Maryland                  57
+Massachusetts             52
 Michigan                  43
 Minnesota                 45
 Mississippi               24
-Missouri                  38
-Montana                   56
-Nebraska                  42
-Nevada                    44
-New Hampshire             54
-New Jersey                38
-New Mexico                54
+Missouri                  39
+Montana                   59
+Nebraska                  44
+Nevada                    45
+New Hampshire             53
+New Jersey                39
+New Mexico                53
 New York                  38
 North Carolina            36
-North Dakota              34
-Ohio                      40
-Oklahoma                  41
-Oregon                    49
-Pennsylvania              42
-Rhode Island              35
+North Dakota              35
+Ohio                      39
+Oklahoma                  40
+Oregon                    50
+Pennsylvania              43
+Rhode Island              37
 South Carolina            34
-South Dakota              37
-Tennessee                 29
-Texas                     48
-Utah                      63
-Vermont                   56
+South Dakota              36
+Tennessee                 30
+Texas                     49
+Utah                      64
+Vermont                   60
 Virginia                  46
 Washington                79
-West Virginia             28
+West Virginia             27
 Wisconsin                 41
-Wyoming                   42
+Wyoming                   46

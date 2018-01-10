@@ -1,0 +1,53 @@
+                      Hump Day
+geoName                       
+Alabama                     70
+Alaska                      69
+Arizona                     78
+Arkansas                    71
+California                  63
+Colorado                    75
+Connecticut                 69
+Delaware                    71
+District of Columbia        76
+Florida                     81
+Georgia                     83
+Hawaii                      55
+Idaho                       65
+Illinois                    81
+Indiana                     76
+Iowa                        79
+Kansas                      75
+Kentucky                    81
+Louisiana                   82
+Maine                       62
+Maryland                    73
+Massachusetts               72
+Michigan                    79
+Minnesota                   89
+Mississippi                 89
+Missouri                    85
+Montana                     58
+Nebraska                    85
+Nevada                      75
+New Hampshire               74
+New Jersey                  69
+New Mexico                  70
+New York                    65
+North Carolina              77
+North Dakota                77
+Ohio                        77
+Oklahoma                   100
+Oregon                      47
+Pennsylvania                77
+Rhode Island                65
+South Carolina              79
+South Dakota                85
+Tennessee                   84
+Texas                       77
+Utah                        72
+Vermont                     62
+Virginia                    72
+Washington                  68
+West Virginia               71
+Wisconsin                   79
+Wyoming                     77

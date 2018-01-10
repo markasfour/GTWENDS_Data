@@ -1,53 +1,53 @@
                       Slack
 geoName                    
 Alabama                  29
-Alaska                   41
-Arizona                  43
-Arkansas                 38
+Alaska                   39
+Arizona                  42
+Arkansas                 39
 California               91
-Colorado                 69
+Colorado                 70
 Connecticut              42
-Delaware                 35
+Delaware                 36
 District of Columbia     64
 Florida                  33
-Georgia                  39
+Georgia                  40
 Hawaii                   64
-Idaho                    48
+Idaho                    49
 Illinois                 47
-Indiana                  39
-Iowa                     34
-Kansas                   30
-Kentucky                 29
-Louisiana                33
-Maine                    42
+Indiana                  40
+Iowa                     35
+Kansas                   32
+Kentucky                 30
+Louisiana                32
+Maine                    40
 Maryland                 55
-Massachusetts            78
-Michigan                 35
+Massachusetts            79
+Michigan                 36
 Minnesota                45
-Mississippi              23
+Mississippi              22
 Missouri                 38
 Montana                  45
-Nebraska                 42
-Nevada                   37
-New Hampshire            52
+Nebraska                 41
+Nevada                   38
+New Hampshire            53
 New Jersey               41
-New Mexico               30
-New York                 68
+New Mexico               31
+New York                 71
 North Carolina           40
-North Dakota             29
+North Dakota             30
 Ohio                     37
 Oklahoma                 30
-Oregon                   61
-Pennsylvania             45
-Rhode Island             44
-South Carolina           31
-South Dakota             33
+Oregon                   62
+Pennsylvania             46
+Rhode Island             45
+South Carolina           32
+South Dakota             32
 Tennessee                39
-Texas                    39
+Texas                    40
 Utah                    100
-Vermont                  65
+Vermont                  64
 Virginia                 47
 Washington               82
-West Virginia            32
+West Virginia            34
 Wisconsin                40
-Wyoming                  32
+Wyoming                  34
