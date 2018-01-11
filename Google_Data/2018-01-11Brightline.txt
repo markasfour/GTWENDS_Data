@@ -1,0 +1,30 @@
+                      Brightline
+geoName                         
+Arizona                        8
+California                    11
+Colorado                      12
+Connecticut                   14
+District of Columbia          23
+Florida                      100
+Georgia                       13
+Illinois                      11
+Indiana                        7
+Louisiana                      3
+Maryland                      17
+Massachusetts                 13
+Michigan                       9
+Minnesota                      8
+Missouri                       7
+New Jersey                    15
+New York                      21
+North Carolina                 9
+Ohio                           8
+Oregon                         6
+Pennsylvania                  15
+South Carolina                10
+Tennessee                      7
+Texas                          8
+Utah                          12
+Virginia                      14
+Washington                    10
+Wisconsin                      7

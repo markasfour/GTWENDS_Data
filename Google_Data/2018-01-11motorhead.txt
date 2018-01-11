@@ -1,0 +1,53 @@
+                      motorhead
+geoName                        
+Alabama                      44
+Alaska                       67
+Arizona                      59
+Arkansas                     53
+California                   71
+Colorado                     61
+Connecticut                  56
+Delaware                     47
+District of Columbia         55
+Florida                      48
+Georgia                      50
+Hawaii                       50
+Idaho                        60
+Illinois                     67
+Indiana                      60
+Iowa                         56
+Kansas                       49
+Kentucky                     59
+Louisiana                    44
+Maine                       100
+Maryland                     49
+Massachusetts                64
+Michigan                     63
+Minnesota                    68
+Mississippi                  41
+Missouri                     62
+Montana                      76
+Nebraska                     54
+Nevada                       66
+New Hampshire                79
+New Jersey                   61
+New Mexico                   64
+New York                     59
+North Carolina               51
+North Dakota                 68
+Ohio                         63
+Oklahoma                     50
+Oregon                       64
+Pennsylvania                 67
+Rhode Island                 76
+South Carolina               47
+South Dakota                 58
+Tennessee                    57
+Texas                        52
+Utah                         59
+Vermont                      75
+Virginia                     47
+Washington                   67
+West Virginia                72
+Wisconsin                    66
+Wyoming                      72

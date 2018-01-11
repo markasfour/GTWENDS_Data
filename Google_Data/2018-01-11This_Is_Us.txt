@@ -1,0 +1,53 @@
+                      This Is Us
+geoName                         
+Alabama                       82
+Alaska                        54
+Arizona                       69
+Arkansas                      76
+California                    62
+Colorado                      67
+Connecticut                   98
+Delaware                      94
+District of Columbia          63
+Florida                       67
+Georgia                       67
+Hawaii                        54
+Idaho                         71
+Illinois                      76
+Indiana                       93
+Iowa                          86
+Kansas                        68
+Kentucky                      79
+Louisiana                     71
+Maine                         82
+Maryland                      83
+Massachusetts                 90
+Michigan                      82
+Minnesota                     77
+Mississippi                   73
+Missouri                      81
+Montana                       64
+Nebraska                      79
+Nevada                        58
+New Hampshire                 89
+New Jersey                   100
+New Mexico                    60
+New York                      80
+North Carolina                80
+North Dakota                  73
+Ohio                          89
+Oklahoma                      69
+Oregon                        51
+Pennsylvania                  98
+Rhode Island                 100
+South Carolina                83
+South Dakota                  79
+Tennessee                     80
+Texas                         63
+Utah                          77
+Vermont                       82
+Virginia                      61
+Washington                    61
+West Virginia                 81
+Wisconsin                     76
+Wyoming                       56

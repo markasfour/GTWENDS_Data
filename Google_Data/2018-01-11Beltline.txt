@@ -1,0 +1,42 @@
+                      Beltline
+geoName                       
+Alabama                     60
+Arizona                      3
+Arkansas                     5
+California                   3
+Colorado                     5
+Connecticut                  2
+District of Columbia         5
+Florida                      4
+Georgia                     93
+Illinois                     9
+Indiana                      4
+Iowa                         3
+Kansas                       4
+Kentucky                     7
+Louisiana                   10
+Maryland                     3
+Massachusetts                2
+Michigan                    97
+Minnesota                    7
+Mississippi                  8
+Missouri                     6
+Nebraska                     4
+Nevada                       2
+New Jersey                   2
+New Mexico                   3
+New York                     5
+North Carolina              14
+Ohio                         3
+Oklahoma                     9
+Oregon                       8
+Pennsylvania                 3
+South Carolina              76
+Tennessee                    8
+Texas                      100
+Utah                         2
+Vermont                      5
+Virginia                     3
+Washington                   3
+West Virginia                2
+Wisconsin                   41

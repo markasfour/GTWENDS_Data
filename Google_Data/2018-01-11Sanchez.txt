@@ -1,0 +1,53 @@
+                      Sanchez
+geoName                      
+Alabama                    19
+Alaska                     18
+Arizona                    44
+Arkansas                   20
+California                 58
+Colorado                   39
+Connecticut                34
+Delaware                   27
+District of Columbia       37
+Florida                    43
+Georgia                    27
+Hawaii                     34
+Idaho                      22
+Illinois                   33
+Indiana                    21
+Iowa                       19
+Kansas                     27
+Kentucky                   18
+Louisiana                  34
+Maine                      16
+Maryland                   28
+Massachusetts              29
+Michigan                   23
+Minnesota                  20
+Mississippi                18
+Missouri                   21
+Montana                    19
+Nebraska                   25
+Nevada                     49
+New Hampshire              19
+New Jersey                 41
+New Mexico                100
+New York                   40
+North Carolina             23
+North Dakota               17
+Ohio                       18
+Oklahoma                   29
+Oregon                     28
+Pennsylvania               27
+Rhode Island               34
+South Carolina             21
+South Dakota               19
+Tennessee                  19
+Texas                      50
+Utah                       25
+Vermont                    17
+Virginia                   24
+Washington                 28
+West Virginia              16
+Wisconsin                  20
+Wyoming                    26

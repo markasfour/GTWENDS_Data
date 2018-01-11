@@ -1,0 +1,53 @@
+                      FISA
+geoName                   
+Alabama                 17
+Alaska                  14
+Arizona                 22
+Arkansas                15
+California              25
+Colorado                20
+Connecticut             26
+Delaware                18
+District of Columbia   100
+Florida                 21
+Georgia                 15
+Hawaii                  19
+Idaho                   18
+Illinois                18
+Indiana                 20
+Iowa                    15
+Kansas                  18
+Kentucky                14
+Louisiana               16
+Maine                   24
+Maryland                35
+Massachusetts           26
+Michigan                16
+Minnesota               17
+Mississippi             13
+Missouri                18
+Montana                 28
+Nebraska                19
+Nevada                  20
+New Hampshire           25
+New Jersey              23
+New Mexico              18
+New York                26
+North Carolina          16
+North Dakota            16
+Ohio                    18
+Oklahoma                17
+Oregon                  21
+Pennsylvania            24
+Rhode Island            25
+South Carolina          16
+South Dakota            17
+Tennessee               16
+Texas                   16
+Utah                    16
+Vermont                 31
+Virginia                31
+Washington              24
+West Virginia           22
+Wisconsin               17
+Wyoming                 19

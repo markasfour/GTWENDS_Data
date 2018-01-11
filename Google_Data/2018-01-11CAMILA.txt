@@ -1,0 +1,53 @@
+                      CAMILA
+geoName                     
+Alabama                   50
+Alaska                    42
+Arizona                   77
+Arkansas                  51
+California                99
+Colorado                  56
+Connecticut               76
+Delaware                  58
+District of Columbia      62
+Florida                  100
+Georgia                   64
+Hawaii                    76
+Idaho                     41
+Illinois                  69
+Indiana                   55
+Iowa                      46
+Kansas                    52
+Kentucky                  44
+Louisiana                 52
+Maine                     43
+Maryland                  66
+Massachusetts             77
+Michigan                  53
+Minnesota                 50
+Mississippi               46
+Missouri                  44
+Montana                   38
+Nebraska                  53
+Nevada                    86
+New Hampshire             46
+New Jersey                92
+New Mexico                76
+New York                  89
+North Carolina            58
+North Dakota              45
+Ohio                      51
+Oklahoma                  55
+Oregon                    97
+Pennsylvania              59
+Rhode Island              81
+South Carolina            52
+South Dakota              38
+Tennessee                 47
+Texas                     93
+Utah                      56
+Vermont                   40
+Virginia                  66
+Washington                55
+West Virginia             40
+Wisconsin                 47
+Wyoming                   36

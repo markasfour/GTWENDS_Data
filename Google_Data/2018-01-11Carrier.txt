@@ -1,0 +1,53 @@
+                      Carrier
+geoName                      
+Alabama                    82
+Alaska                    100
+Arizona                    82
+Arkansas                   88
+California                 79
+Colorado                   89
+Connecticut                87
+Delaware                   82
+District of Columbia       85
+Florida                    82
+Georgia                    79
+Hawaii                     88
+Idaho                      95
+Illinois                   80
+Indiana                    89
+Iowa                       82
+Kansas                     81
+Kentucky                   84
+Louisiana                  78
+Maine                      84
+Maryland                   88
+Massachusetts              73
+Michigan                   82
+Minnesota                  81
+Mississippi                74
+Missouri                   84
+Montana                    95
+Nebraska                   90
+Nevada                     76
+New Hampshire              89
+New Jersey                 80
+New Mexico                 85
+New York                   78
+North Carolina             86
+North Dakota               85
+Ohio                       83
+Oklahoma                   88
+Oregon                     73
+Pennsylvania               81
+Rhode Island               71
+South Carolina             86
+South Dakota               84
+Tennessee                  91
+Texas                      82
+Utah                       87
+Vermont                    84
+Virginia                   85
+Washington                 90
+West Virginia              88
+Wisconsin                  84
+Wyoming                    92
