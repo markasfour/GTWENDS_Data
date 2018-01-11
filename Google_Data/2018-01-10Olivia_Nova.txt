@@ -1,52 +1,51 @@
                       Olivia Nova
 geoName                          
-Alabama                        22
-Alaska                         32
-Arizona                        28
-Arkansas                       24
-California                     33
-Colorado                       23
-Connecticut                    19
-Delaware                       22
-District of Columbia           14
-Florida                        21
-Georgia                        16
-Hawaii                         34
-Idaho                          27
-Illinois                       24
-Indiana                        13
-Iowa                           12
-Kansas                         15
-Kentucky                       15
-Louisiana                      25
-Maine                          27
-Maryland                       32
-Massachusetts                  22
-Michigan                       14
-Minnesota                      46
-Mississippi                    14
-Missouri                       15
-Montana                        23
-Nebraska                       14
-Nevada                         30
-New Hampshire                  27
-New Jersey                     29
-New Mexico                     24
-New York                       26
-North Carolina                 16
-North Dakota                   31
-Ohio                           11
-Oklahoma                        6
-Oregon                         16
-Pennsylvania                   26
-Rhode Island                   39
-South Carolina                 19
-South Dakota                   42
-Tennessee                       9
-Texas                          16
-Utah                           11
-Vermont                       100
-Virginia                       26
-Washington                     25
-West Virginia                  30
-Wisconsin                      15
+Alabama                        41
+Alaska                         68
+Arizona                        64
+Arkansas                       37
+California                     78
+Colorado                       47
+Connecticut                    42
+Delaware                       74
+District of Columbia           37
+Florida                        47
+Georgia                        36
+Hawaii                         73
+Idaho                          58
+Illinois                       53
+Indiana                        36
+Iowa                           26
+Kansas                         32
+Kentucky                       19
+Louisiana                      40
+Maine                          96
+Maryland                       53
+Massachusetts                  41
+Michigan                       46
+Minnesota                     100
+Mississippi                    21
+Missouri                       26
+Montana                        57
+Nevada                         42
+New Hampshire                  44
+New Jersey                     57
+New Mexico                     79
+New York                       57
+North Carolina                 33
+North Dakota                   62
+Ohio                           33
+Oklahoma                       18
+Oregon                         32
+Pennsylvania                   45
+Rhode Island                   87
+South Carolina                 34
+South Dakota                   61
+Tennessee                      18
+Texas                          39
+Utah                           29
+Vermont                        91
+Virginia                       52
+Washington                     37
+West Virginia                  57
+Wisconsin                      18

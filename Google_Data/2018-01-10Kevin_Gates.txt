@@ -3,10 +3,10 @@ geoName
 Alabama                        39
 Alaska                          7
 Arizona                         7
-Arkansas                       41
+Arkansas                       42
 California                      5
 Colorado                        8
-Connecticut                     4
+Connecticut                     3
 Delaware                        7
 District of Columbia           11
 Florida                        16
@@ -17,23 +17,23 @@ Illinois                       11
 Indiana                        16
 Iowa                           10
 Kansas                         12
-Kentucky                       22
+Kentucky                       21
 Louisiana                     100
 Maine                           4
 Maryland                        9
 Massachusetts                   4
 Michigan                       11
-Minnesota                       8
-Mississippi                    82
+Minnesota                       7
+Mississippi                    81
 Missouri                       16
-Montana                         5
+Montana                         4
 Nebraska                       13
 Nevada                          7
 New Hampshire                   3
 New Jersey                      4
 New Mexico                     13
 New York                        6
-North Carolina                 17
+North Carolina                 16
 North Dakota                    7
 Ohio                           11
 Oklahoma                       22
@@ -42,12 +42,12 @@ Pennsylvania                    6
 Rhode Island                    5
 South Carolina                 27
 South Dakota                   11
-Tennessee                      30
-Texas                          25
+Tennessee                      29
+Texas                          24
 Utah                            3
-Vermont                         4
+Vermont                         3
 Virginia                        9
 Washington                      5
-West Virginia                  12
+West Virginia                  11
 Wisconsin                       8
 Wyoming                         6

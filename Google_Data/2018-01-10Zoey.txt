@@ -1,0 +1,53 @@
+                      Zoey
+geoName                   
+Alabama                 76
+Alaska                  71
+Arizona                 70
+Arkansas                71
+California              75
+Colorado                63
+Connecticut             83
+Delaware                88
+District of Columbia    57
+Florida                 69
+Georgia                 69
+Hawaii                  70
+Idaho                   62
+Illinois                71
+Indiana                 77
+Iowa                    74
+Kansas                  67
+Kentucky                76
+Louisiana               71
+Maine                   69
+Maryland                77
+Massachusetts           76
+Michigan                83
+Minnesota               67
+Mississippi             75
+Missouri                70
+Montana                 60
+Nebraska                69
+Nevada                  73
+New Hampshire           76
+New Jersey             100
+New Mexico              69
+New York                82
+North Carolina          69
+North Dakota            71
+Ohio                    78
+Oklahoma                70
+Oregon                  52
+Pennsylvania            85
+Rhode Island            88
+South Carolina          76
+South Dakota            74
+Tennessee               71
+Texas                   69
+Utah                    60
+Vermont                 66
+Virginia                66
+Washington              60
+West Virginia           82
+Wisconsin               68
+Wyoming                 65

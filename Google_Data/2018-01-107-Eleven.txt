@@ -1,18 +1,53 @@
                       7-Eleven
 geoName                       
-District of Columbia        96
-Florida                     86
-Hawaii                      76
-Illinois                    58
-Kansas                      27
+Alabama                     14
+Alaska                      10
+Arizona                     33
+Arkansas                    17
+California                  80
+Colorado                    86
+Connecticut                 30
+Delaware                    48
+District of Columbia        95
+Florida                     83
+Georgia                     22
+Hawaii                      82
+Idaho                       20
+Illinois                    56
+Indiana                     24
+Iowa                        15
+Kansas                      28
+Kentucky                    14
 Louisiana                   15
-Maryland                   100
-Michigan                    56
-Montana                     15
-Nebraska                    17
-New York                    59
-South Dakota                15
-Tennessee                   19
-West Virginia               64
-Wisconsin                   22
-Wyoming                     17
+Maine                       30
+Maryland                    97
+Massachusetts               43
+Michigan                    55
+Minnesota                   17
+Mississippi                 11
+Missouri                    36
+Montana                     13
+Nebraska                    18
+Nevada                     100
+New Hampshire               31
+New Jersey                  58
+New Mexico                  42
+New York                    60
+North Carolina              30
+North Dakota                17
+Ohio                        23
+Oklahoma                    86
+Oregon                      49
+Pennsylvania                40
+Rhode Island                39
+South Carolina              31
+South Dakota                13
+Tennessee                   18
+Texas                       76
+Utah                        71
+Vermont                     15
+Virginia                    96
+Washington                  60
+West Virginia               61
+Wisconsin                   21
+Wyoming                     13

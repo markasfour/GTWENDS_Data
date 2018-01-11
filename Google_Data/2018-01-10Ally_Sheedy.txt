@@ -1,53 +1,53 @@
                       Ally Sheedy
 geoName                          
-Alabama                        75
-Alaska                         86
-Arizona                        80
-Arkansas                       66
+Alabama                        73
+Alaska                         73
+Arizona                        77
+Arkansas                       74
 California                     66
-Colorado                       86
-Connecticut                    78
-Delaware                       63
-District of Columbia           66
-Florida                        62
+Colorado                       88
+Connecticut                    76
+Delaware                       71
+District of Columbia           67
+Florida                        60
 Georgia                        65
-Hawaii                         60
-Idaho                          77
+Hawaii                         55
+Idaho                          80
 Illinois                       78
-Indiana                        83
+Indiana                        85
 Iowa                           74
-Kansas                         85
-Kentucky                       79
-Louisiana                      84
-Maine                          77
-Maryland                       69
-Massachusetts                  79
-Michigan                       77
-Minnesota                      81
-Mississippi                    63
-Missouri                       80
-Montana                       100
-Nebraska                       98
-Nevada                         77
-New Hampshire                  79
-New Jersey                     77
-New Mexico                     83
-New York                       79
-North Carolina                 62
-North Dakota                   67
-Ohio                           81
-Oklahoma                       84
-Oregon                         65
-Pennsylvania                   85
-Rhode Island                   89
-South Carolina                 60
-South Dakota                   82
-Tennessee                      74
+Kansas                         79
+Kentucky                       82
+Louisiana                      81
+Maine                          75
+Maryland                       68
+Massachusetts                  81
+Michigan                       82
+Minnesota                      80
+Mississippi                    59
+Missouri                       79
+Montana                        81
+Nebraska                      100
+Nevada                         76
+New Hampshire                  81
+New Jersey                     72
+New Mexico                     85
+New York                       74
+North Carolina                 65
+North Dakota                   55
+Ohio                           85
+Oklahoma                       86
+Oregon                         70
+Pennsylvania                   84
+Rhode Island                   86
+South Carolina                 65
+South Dakota                   69
+Tennessee                      78
 Texas                          68
-Utah                           73
-Vermont                        84
+Utah                           78
+Vermont                        89
 Virginia                       62
 Washington                     81
-West Virginia                  77
-Wisconsin                      73
-Wyoming                        62
+West Virginia                  63
+Wisconsin                      78
+Wyoming                        60

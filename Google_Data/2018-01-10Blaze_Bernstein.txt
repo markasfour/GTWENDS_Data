@@ -1,4 +1,41 @@
-              Blaze Bernstein
-geoName                      
-California                100
-Pennsylvania               30
+                      Blaze Bernstein
+geoName                              
+Alabama                             7
+Arizona                            11
+Arkansas                           17
+California                        100
+Colorado                            4
+Connecticut                        28
+Delaware                           31
+District of Columbia               19
+Florida                             7
+Georgia                             7
+Hawaii                             18
+Illinois                           13
+Indiana                             5
+Kentucky                            7
+Louisiana                           7
+Maryland                           14
+Massachusetts                       8
+Michigan                            6
+Minnesota                          11
+Missouri                            8
+Nebraska                           13
+Nevada                             23
+New Hampshire                      18
+New Jersey                         25
+New Mexico                         32
+New York                           12
+North Carolina                      7
+Ohio                                8
+Oregon                             11
+Pennsylvania                       23
+South Carolina                      9
+Tennessee                           7
+Texas                               7
+Utah                               25
+Vermont                            52
+Virginia                            7
+Washington                          9
+West Virginia                      22
+Wisconsin                           8

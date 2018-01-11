@@ -1,53 +1,53 @@
                       Michael Douglas
 geoName                              
-Alabama                            71
-Alaska                             75
-Arizona                            91
-Arkansas                           68
+Alabama                            70
+Alaska                             73
+Arizona                            88
+Arkansas                           70
 California                         86
 Colorado                           84
-Connecticut                        99
-Delaware                           81
+Connecticut                        97
+Delaware                           85
 District of Columbia               93
-Florida                            90
-Georgia                            80
-Hawaii                             75
-Idaho                              70
-Illinois                           87
+Florida                            92
+Georgia                            82
+Hawaii                             76
+Idaho                              72
+Illinois                           89
 Indiana                            75
-Iowa                               70
+Iowa                               72
 Kansas                             67
-Kentucky                           79
-Louisiana                          78
-Maine                              73
-Maryland                           81
-Massachusetts                      89
+Kentucky                           75
+Louisiana                          80
+Maine                              70
+Maryland                           82
+Massachusetts                      90
 Michigan                           81
-Minnesota                          83
-Mississippi                        67
-Missouri                           84
-Montana                            70
-Nebraska                           87
-Nevada                             97
-New Hampshire                      84
-New Jersey                         93
-New Mexico                         87
+Minnesota                          81
+Mississippi                        66
+Missouri                           83
+Montana                            68
+Nebraska                           90
+Nevada                             95
+New Hampshire                      83
+New Jersey                         92
+New Mexico                         86
 New York                          100
-North Carolina                     71
+North Carolina                     70
 North Dakota                       60
-Ohio                               78
-Oklahoma                           88
-Oregon                             64
+Ohio                               77
+Oklahoma                           84
+Oregon                             65
 Pennsylvania                       84
-Rhode Island                       88
-South Carolina                     70
-South Dakota                       59
-Tennessee                          77
+Rhode Island                       89
+South Carolina                     68
+South Dakota                       58
+Tennessee                          78
 Texas                              74
-Utah                               74
-Vermont                            71
-Virginia                           68
+Utah                               72
+Vermont                            74
+Virginia                           70
 Washington                         82
-West Virginia                      70
-Wisconsin                          72
-Wyoming                            72
+West Virginia                      69
+Wisconsin                          71
+Wyoming                            75

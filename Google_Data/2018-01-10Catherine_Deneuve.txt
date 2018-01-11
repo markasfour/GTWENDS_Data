@@ -1,48 +1,50 @@
                       Catherine Deneuve
 geoName                                
-Alabama                              57
-Arizona                              58
+Alabama                              54
+Alaska                               56
+Arizona                              61
 Arkansas                             58
 California                           74
-Colorado                             50
-Connecticut                          74
-Delaware                             73
-District of Columbia                 75
+Colorado                             52
+Connecticut                          72
+Delaware                             71
+District of Columbia                 76
 Florida                              66
-Georgia                              50
-Hawaii                               75
-Idaho                                44
+Georgia                              54
+Hawaii                               65
+Idaho                                37
 Illinois                             56
-Indiana                              52
-Iowa                                 45
-Kansas                               52
-Kentucky                             56
-Louisiana                            60
-Maine                                70
-Maryland                             64
-Massachusetts                        75
-Michigan                             57
-Minnesota                            53
+Indiana                              51
+Iowa                                 43
+Kansas                               43
+Kentucky                             50
+Louisiana                            64
+Maine                                78
+Maryland                             66
+Massachusetts                        81
+Michigan                             54
+Minnesota                            56
 Mississippi                          41
-Missouri                             52
-Nebraska                             31
-Nevada                               55
-New Hampshire                        70
-New Jersey                           72
-New Mexico                           70
+Missouri                             53
+Montana                              61
+Nebraska                             39
+Nevada                               57
+New Hampshire                        76
+New Jersey                           73
+New Mexico                           81
 New York                            100
-North Carolina                       55
-Ohio                                 53
-Oklahoma                             57
-Oregon                               50
-Pennsylvania                         66
-Rhode Island                         81
-South Carolina                       46
-Tennessee                            51
-Texas                                54
+North Carolina                       57
+Ohio                                 56
+Oklahoma                             61
+Oregon                               53
+Pennsylvania                         63
+Rhode Island                         70
+South Carolina                       47
+Tennessee                            53
+Texas                                53
 Utah                                 58
-Vermont                              88
-Virginia                             55
-Washington                           64
-West Virginia                        48
-Wisconsin                            62
+Vermont                              77
+Virginia                             56
+Washington                           68
+West Virginia                        45
+Wisconsin                            61

@@ -1,15 +1,18 @@
                       Darrell Issa
 geoName                           
 Alabama                         11
+Alaska                          22
 Arizona                         20
 Arkansas                        10
 California                      57
-Colorado                        18
-Connecticut                     17
-Delaware                        13
+Colorado                        16
+Connecticut                     16
+Delaware                        15
 District of Columbia           100
 Florida                         13
 Georgia                         13
+Hawaii                          17
+Idaho                           16
 Illinois                        16
 Indiana                         13
 Iowa                            15
@@ -17,27 +20,31 @@ Kansas                          13
 Kentucky                        14
 Louisiana                       10
 Maine                           15
-Maryland                        29
+Maryland                        28
 Massachusetts                   21
-Michigan                        13
-Minnesota                       16
-Mississippi                      7
+Michigan                        14
+Minnesota                       17
+Mississippi                      6
 Missouri                        13
-Nebraska                        14
-Nevada                          15
-New Hampshire                   26
+Montana                         21
+Nebraska                        13
+Nevada                          16
+New Hampshire                   23
 New Jersey                      16
 New Mexico                      15
 New York                        20
 North Carolina                  13
 Ohio                            15
 Oklahoma                        11
-Oregon                          15
-Pennsylvania                    16
-South Carolina                  13
+Oregon                          14
+Pennsylvania                    15
+Rhode Island                    16
+South Carolina                  14
 Tennessee                       14
 Texas                           11
-Utah                            12
+Utah                            11
+Vermont                         27
 Virginia                        25
-Washington                      19
+Washington                      18
+West Virginia                   12
 Wisconsin                       10
