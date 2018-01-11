@@ -1,53 +1,53 @@
                       LaMelo Ball
 geoName                          
-Alabama                       100
-Alaska                         41
+Alabama                        98
+Alaska                         42
 Arizona                        62
-Arkansas                       97
-California                     89
-Colorado                       52
-Connecticut                    89
-Delaware                       87
-District of Columbia           54
-Florida                        61
-Georgia                        81
-Hawaii                         59
-Idaho                          48
-Illinois                       84
-Indiana                        98
-Iowa                           78
-Kansas                         66
-Kentucky                       82
-Louisiana                      87
-Maine                          68
-Maryland                       83
-Massachusetts                  73
-Michigan                       81
-Minnesota                      66
-Mississippi                    93
-Missouri                       72
-Montana                        60
-Nebraska                       71
-Nevada                         76
-New Hampshire                  69
-New Jersey                     92
+Arkansas                       90
+California                     88
+Colorado                       50
+Connecticut                    86
+Delaware                       96
+District of Columbia           59
+Florida                        60
+Georgia                        78
+Hawaii                         60
+Idaho                          43
+Illinois                       86
+Indiana                        97
+Iowa                           84
+Kansas                         64
+Kentucky                       78
+Louisiana                      86
+Maine                          67
+Maryland                       82
+Massachusetts                  74
+Michigan                       82
+Minnesota                      61
+Mississippi                   100
+Missouri                       71
+Montana                        54
+Nebraska                       74
+Nevada                         73
+New Hampshire                  60
+New Jersey                     93
 New Mexico                     64
-New York                       67
-North Carolina                 90
-North Dakota                   76
-Ohio                           84
-Oklahoma                       62
+New York                       66
+North Carolina                 89
+North Dakota                   79
+Ohio                           86
+Oklahoma                       64
 Oregon                         40
-Pennsylvania                   73
+Pennsylvania                   74
 Rhode Island                   90
-South Carolina                 91
-South Dakota                   83
+South Carolina                 90
+South Dakota                   98
 Tennessee                      74
-Texas                          71
-Utah                           46
-Vermont                        58
-Virginia                       60
+Texas                          72
+Utah                           45
+Vermont                        51
+Virginia                       61
 Washington                     53
-West Virginia                  68
-Wisconsin                      76
-Wyoming                        56
+West Virginia                  70
+Wisconsin                      74
+Wyoming                        55

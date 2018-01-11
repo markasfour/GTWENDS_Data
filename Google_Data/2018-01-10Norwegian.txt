@@ -1,0 +1,53 @@
+                      Norwegian
+geoName                        
+Alabama                      31
+Alaska                       67
+Arizona                      38
+Arkansas                     30
+California                   43
+Colorado                     41
+Connecticut                  78
+Delaware                     51
+District of Columbia         44
+Florida                      87
+Georgia                      34
+Hawaii                       42
+Idaho                        43
+Illinois                     37
+Indiana                      34
+Iowa                         40
+Kansas                       29
+Kentucky                     32
+Louisiana                    39
+Maine                        64
+Maryland                     41
+Massachusetts                77
+Michigan                     35
+Minnesota                    64
+Mississippi                  28
+Missouri                     32
+Montana                      57
+Nebraska                     30
+Nevada                       44
+New Hampshire                75
+New Jersey                   71
+New Mexico                   31
+New York                     79
+North Carolina               35
+North Dakota                 77
+Ohio                         35
+Oklahoma                     34
+Oregon                       37
+Pennsylvania                 48
+Rhode Island                100
+South Carolina               34
+South Dakota                 50
+Tennessee                    35
+Texas                        27
+Utah                         50
+Vermont                      66
+Virginia                     33
+Washington                   58
+West Virginia                33
+Wisconsin                    48
+Wyoming                      45

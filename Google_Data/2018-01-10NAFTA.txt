@@ -1,0 +1,53 @@
+                      NAFTA
+geoName                    
+Alabama                  39
+Alaska                   40
+Arizona                  48
+Arkansas                 42
+California               48
+Colorado                 47
+Connecticut              52
+Delaware                 54
+District of Columbia    100
+Florida                  45
+Georgia                  55
+Hawaii                   30
+Idaho                    66
+Illinois                 52
+Indiana                  62
+Iowa                     53
+Kansas                   44
+Kentucky                 43
+Louisiana                44
+Maine                    54
+Maryland                 61
+Massachusetts            47
+Michigan                 69
+Minnesota                58
+Mississippi              41
+Missouri                 43
+Montana                  41
+Nebraska                 44
+Nevada                   40
+New Hampshire            49
+New Jersey               49
+New Mexico               44
+New York                 52
+North Carolina           53
+North Dakota             47
+Ohio                     54
+Oklahoma                 40
+Oregon                   52
+Pennsylvania             48
+Rhode Island             52
+South Carolina           51
+South Dakota             44
+Tennessee                41
+Texas                    63
+Utah                     38
+Vermont                  60
+Virginia                 47
+Washington               46
+West Virginia            48
+Wisconsin                52
+Wyoming                  51

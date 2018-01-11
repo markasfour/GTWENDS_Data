@@ -1,13 +1,13 @@
                       Tsunami
 geoName                      
 Alabama                    14
-Alaska                     43
-Arizona                    18
-Arkansas                   16
-California                 24
+Alaska                     41
+Arizona                    17
+Arkansas                   15
+California                 23
 Colorado                   18
 Connecticut                18
-Delaware                   20
+Delaware                   19
 District of Columbia       16
 Florida                    19
 Georgia                    20
@@ -16,38 +16,38 @@ Idaho                      19
 Illinois                   14
 Indiana                    16
 Iowa                       15
-Kansas                     17
-Kentucky                   15
-Louisiana                  27
-Maine                      21
-Maryland                   18
+Kansas                     16
+Kentucky                   14
+Louisiana                  26
+Maine                      20
+Maryland                   17
 Massachusetts              15
-Michigan                   15
-Minnesota                  14
+Michigan                   14
+Minnesota                  13
 Mississippi                14
 Missouri                   14
-Montana                    16
-Nebraska                   13
-Nevada                     19
-New Hampshire              17
-New Jersey                 19
+Montana                    15
+Nebraska                   12
+Nevada                     18
+New Hampshire              16
+New Jersey                 18
 New Mexico                 15
-New York                   16
-North Carolina             19
+New York                   15
+North Carolina             18
 North Dakota               12
 Ohio                       14
 Oklahoma                   15
-Oregon                     29
+Oregon                     28
 Pennsylvania               15
 Rhode Island               18
 South Carolina             30
 South Dakota               15
 Tennessee                  14
 Texas                      16
-Utah                       38
+Utah                       37
 Vermont                    16
-Virginia                   16
-Washington                 25
+Virginia                   15
+Washington                 24
 West Virginia              15
-Wisconsin                  15
-Wyoming                    15
+Wisconsin                  14
+Wyoming                    16

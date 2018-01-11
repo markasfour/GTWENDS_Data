@@ -1,53 +1,53 @@
                       Overwatch League
 geoName                               
-Alabama                             60
-Alaska                             100
-Arizona                             58
-Arkansas                            40
+Alabama                             52
+Alaska                              86
+Arizona                             64
+Arkansas                            45
 California                          98
-Colorado                            71
-Connecticut                         73
-Delaware                            64
-District of Columbia                25
-Florida                             61
-Georgia                             44
-Hawaii                              67
-Idaho                               73
-Illinois                            61
-Indiana                             70
-Iowa                                64
-Kansas                              52
-Kentucky                            50
-Louisiana                           57
-Maine                               60
-Maryland                            62
-Massachusetts                       70
-Michigan                            56
-Minnesota                           62
-Mississippi                         35
-Missouri                            58
-Montana                             51
-Nebraska                            60
-Nevada                              82
-New Hampshire                       74
-New Jersey                          76
-New Mexico                          62
-New York                            63
-North Carolina                      47
-North Dakota                        51
-Ohio                                59
-Oklahoma                            55
+Colorado                            77
+Connecticut                         74
+Delaware                            66
+District of Columbia                22
+Florida                             67
+Georgia                             48
+Hawaii                              60
+Idaho                               79
+Illinois                            65
+Indiana                             67
+Iowa                                74
+Kansas                              60
+Kentucky                            51
+Louisiana                           53
+Maine                               73
+Maryland                            72
+Massachusetts                       79
+Michigan                            64
+Minnesota                           69
+Mississippi                         33
+Missouri                            60
+Montana                             70
+Nebraska                            52
+Nevada                             100
+New Hampshire                       99
+New Jersey                          83
+New Mexico                          59
+New York                            65
+North Carolina                      57
+North Dakota                        55
+Ohio                                65
+Oklahoma                            51
 Oregon                              58
-Pennsylvania                        60
-Rhode Island                        73
-South Carolina                      44
-South Dakota                        69
-Tennessee                           49
-Texas                               61
-Utah                                78
-Vermont                             64
+Pennsylvania                        63
+Rhode Island                        80
+South Carolina                      56
+South Dakota                        57
+Tennessee                           55
+Texas                               66
+Utah                                67
+Vermont                             69
 Virginia                            56
-Washington                          84
-West Virginia                       52
-Wisconsin                           57
-Wyoming                             54
+Washington                          86
+West Virginia                       54
+Wisconsin                           59
+Wyoming                             63

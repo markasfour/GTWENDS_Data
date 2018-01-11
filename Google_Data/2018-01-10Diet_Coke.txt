@@ -1,0 +1,52 @@
+                      Diet Coke
+geoName                        
+Alabama                      55
+Alaska                       39
+Arizona                      52
+Arkansas                     58
+California                   48
+Colorado                     43
+Connecticut                  48
+Delaware                     41
+District of Columbia         50
+Florida                      49
+Georgia                      54
+Hawaii                       49
+Idaho                        51
+Illinois                     60
+Indiana                      68
+Iowa                         53
+Kansas                       51
+Kentucky                     61
+Louisiana                    61
+Maine                        40
+Maryland                     45
+Massachusetts                52
+Michigan                     57
+Minnesota                    69
+Mississippi                  63
+Missouri                     55
+Montana                      44
+Nebraska                     58
+Nevada                       48
+New Hampshire                46
+New Jersey                   41
+New Mexico                   42
+New York                     42
+North Carolina               42
+North Dakota                 74
+Ohio                         56
+Oklahoma                     56
+Oregon                       32
+Pennsylvania                 42
+Rhode Island                 45
+South Carolina               51
+South Dakota                 73
+Tennessee                    58
+Texas                        50
+Utah                        100
+Vermont                      41
+Virginia                     40
+Washington                   47
+West Virginia                50
+Wisconsin                    55

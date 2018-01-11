@@ -1,48 +1,49 @@
                       Mike Pettine
 geoName                           
-Alabama                          4
-Arizona                          7
+Alabama                          5
+Arizona                          8
 Arkansas                         4
 California                       5
-Colorado                         6
+Colorado                         7
 Connecticut                     10
 Delaware                        15
-District of Columbia            16
-Florida                          7
-Georgia                          6
-Hawaii                           7
-Idaho                            5
+District of Columbia            13
+Florida                          8
+Georgia                          5
+Hawaii                           5
+Idaho                            4
 Illinois                         7
-Indiana                          6
+Indiana                          7
 Iowa                             4
-Kansas                           4
+Kansas                           5
 Kentucky                         9
 Louisiana                        6
-Maine                            4
-Maryland                        15
-Massachusetts                    9
-Michigan                        10
-Minnesota                        7
-Mississippi                      6
+Maine                            3
+Maryland                        17
+Massachusetts                   10
+Michigan                         9
+Minnesota                        6
+Mississippi                      5
 Missouri                         6
-Nebraska                         4
-Nevada                           6
-New Hampshire                    5
+Nebraska                         6
+Nevada                           8
+New Hampshire                    4
 New Jersey                      13
-New Mexico                       6
-New York                        13
+New Mexico                       7
+New York                        12
 North Carolina                   7
+North Dakota                     3
 Ohio                           100
 Oklahoma                         5
 Oregon                           3
 Pennsylvania                    34
-Rhode Island                     6
-South Carolina                   7
-South Dakota                     7
-Tennessee                        7
+Rhode Island                    11
+South Carolina                   8
+South Dakota                     4
+Tennessee                        8
 Texas                            6
-Utah                             3
+Utah                             2
 Virginia                         9
 Washington                       7
-West Virginia                   13
+West Virginia                   11
 Wisconsin                        7
