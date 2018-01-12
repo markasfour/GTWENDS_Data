@@ -1,0 +1,53 @@
+                      walmart
+geoName                      
+Alabama                    77
+Alaska                     32
+Arizona                    54
+Arkansas                  100
+California                 36
+Colorado                   45
+Connecticut                38
+Delaware                   49
+District of Columbia       40
+Florida                    58
+Georgia                    68
+Hawaii                     36
+Idaho                      55
+Illinois                   50
+Indiana                    58
+Iowa                       56
+Kansas                     58
+Kentucky                   74
+Louisiana                  73
+Maine                      54
+Maryland                   41
+Massachusetts              34
+Michigan                   46
+Minnesota                  43
+Mississippi                88
+Missouri                   67
+Montana                    47
+Nebraska                   58
+Nevada                     53
+New Hampshire              49
+New Jersey                 39
+New Mexico                 59
+New York                   33
+North Carolina             62
+North Dakota               58
+Ohio                       54
+Oklahoma                   71
+Oregon                     26
+Pennsylvania               51
+Rhode Island               44
+South Carolina             71
+South Dakota               58
+Tennessee                  70
+Texas                      61
+Utah                       53
+Vermont                    37
+Virginia                   41
+Washington                 36
+West Virginia              80
+Wisconsin                  54
+Wyoming                    55

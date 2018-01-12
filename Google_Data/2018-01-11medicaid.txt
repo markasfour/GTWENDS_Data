@@ -1,0 +1,53 @@
+                      medicaid
+geoName                       
+Alabama                     84
+Alaska                      69
+Arizona                     18
+Arkansas                    78
+California                  11
+Colorado                    74
+Connecticut                 29
+Delaware                    51
+District of Columbia        46
+Florida                     67
+Georgia                     55
+Hawaii                      19
+Idaho                       59
+Illinois                    38
+Indiana                     67
+Iowa                        53
+Kansas                      30
+Kentucky                    56
+Louisiana                  100
+Maine                       18
+Maryland                    42
+Massachusetts               19
+Michigan                    53
+Minnesota                   23
+Mississippi                 99
+Missouri                    48
+Montana                     70
+Nebraska                    49
+Nevada                      64
+New Hampshire               44
+New Jersey                  39
+New Mexico                  78
+New York                    54
+North Carolina              58
+North Dakota                36
+Ohio                        52
+Oklahoma                    26
+Oregon                      16
+Pennsylvania                27
+Rhode Island                31
+South Carolina              80
+South Dakota                43
+Tennessee                   34
+Texas                       49
+Utah                        51
+Vermont                     60
+Virginia                    36
+Washington                  22
+West Virginia               58
+Wisconsin                   25
+Wyoming                     61

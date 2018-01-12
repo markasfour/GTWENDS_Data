@@ -1,51 +1,51 @@
                       James Rosen
 geoName                          
-Alabama                        46
-Arizona                        38
-Arkansas                       31
-California                     33
-Colorado                       34
-Connecticut                    62
-Delaware                       44
+Alabama                        48
+Arizona                        35
+Arkansas                       30
+California                     30
+Colorado                       28
+Connecticut                    65
+Delaware                       25
 District of Columbia          100
-Florida                        42
-Georgia                        33
-Hawaii                         22
-Idaho                          35
+Florida                        43
+Georgia                        34
+Hawaii                         21
+Idaho                          31
 Illinois                       32
-Indiana                        30
-Iowa                           30
-Kansas                         31
-Kentucky                       34
-Louisiana                      37
-Maine                          33
+Indiana                        36
+Iowa                           36
+Kansas                         26
+Kentucky                       30
+Louisiana                      34
+Maine                          30
 Maryland                       53
-Massachusetts                  35
-Michigan                       34
-Minnesota                      36
-Mississippi                    46
-Missouri                       33
-Montana                        26
-Nebraska                       31
-Nevada                         37
-New Hampshire                  46
-New Jersey                     42
-New Mexico                     28
-New York                       48
-North Carolina                 36
-North Dakota                   44
+Massachusetts                  40
+Michigan                       33
+Minnesota                      30
+Mississippi                    34
+Missouri                       39
+Montana                        32
+Nebraska                       29
+Nevada                         38
+New Hampshire                  44
+New Jersey                     44
+New Mexico                     26
+New York                       45
+North Carolina                 34
+North Dakota                   28
 Ohio                           38
-Oklahoma                       39
-Oregon                         30
-Pennsylvania                   48
-Rhode Island                   38
-South Carolina                 51
+Oklahoma                       36
+Oregon                         26
+Pennsylvania                   50
+Rhode Island                   40
+South Carolina                 45
 South Dakota                   46
-Tennessee                      39
-Texas                          31
-Utah                           22
-Vermont                        44
+Tennessee                      37
+Texas                          32
+Utah                           23
+Vermont                        38
 Virginia                       40
-Washington                     29
-West Virginia                  40
+Washington                     30
+West Virginia                  33
 Wisconsin                      29

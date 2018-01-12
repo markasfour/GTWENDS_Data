@@ -1,0 +1,26 @@
+                      sesta
+geoName                    
+Arizona                  11
+California               17
+Colorado                  8
+District of Columbia     35
+Florida                  37
+Georgia                  12
+Idaho                   100
+Illinois                 13
+Indiana                  14
+Maryland                 18
+Massachusetts            21
+Michigan                 10
+Minnesota                 8
+Missouri                 11
+New Jersey               26
+New York                 25
+North Carolina           12
+Ohio                     15
+Oregon                   37
+Pennsylvania             14
+Tennessee                13
+Texas                    11
+Virginia                 25
+Washington               10

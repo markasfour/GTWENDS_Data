@@ -1,0 +1,53 @@
+                      gambit
+geoName                     
+Alabama                   20
+Alaska                    25
+Arizona                   27
+Arkansas                  22
+California                24
+Colorado                  22
+Connecticut               25
+Delaware                  23
+District of Columbia      22
+Florida                   20
+Georgia                   19
+Hawaii                    26
+Idaho                     24
+Illinois                  21
+Indiana                   22
+Iowa                      21
+Kansas                    21
+Kentucky                  22
+Louisiana                100
+Maine                     21
+Maryland                  23
+Massachusetts             21
+Michigan                  21
+Minnesota                 19
+Mississippi               22
+Missouri                  25
+Montana                   19
+Nebraska                  21
+Nevada                    27
+New Hampshire             21
+New Jersey                23
+New Mexico                24
+New York                  23
+North Carolina            20
+North Dakota              21
+Ohio                      21
+Oklahoma                  24
+Oregon                    20
+Pennsylvania              21
+Rhode Island              22
+South Carolina            20
+South Dakota              19
+Tennessee                 21
+Texas                     23
+Utah                      26
+Vermont                   18
+Virginia                  21
+Washington                25
+West Virginia             23
+Wisconsin                 19
+Wyoming                   17

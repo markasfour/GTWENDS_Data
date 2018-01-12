@@ -1,53 +1,53 @@
                       Michael Douglas
 geoName                              
-Alabama                            71
-Alaska                             72
-Arizona                            88
-Arkansas                           66
-California                         86
-Colorado                           83
-Connecticut                        96
-Delaware                           78
-District of Columbia               93
-Florida                            91
-Georgia                            81
-Hawaii                             75
-Idaho                              66
-Illinois                           87
-Indiana                            73
+Alabama                            70
+Alaska                             69
+Arizona                            90
+Arkansas                           68
+California                         87
+Colorado                           82
+Connecticut                        95
+Delaware                           81
+District of Columbia               91
+Florida                            93
+Georgia                            83
+Hawaii                             74
+Idaho                              70
+Illinois                           86
+Indiana                            75
 Iowa                               71
-Kansas                             66
-Kentucky                           76
-Louisiana                          77
-Maine                              66
-Maryland                           81
-Massachusetts                      88
-Michigan                           80
+Kansas                             71
+Kentucky                           78
+Louisiana                          78
+Maine                              73
+Maryland                           85
+Massachusetts                      91
+Michigan                           82
 Minnesota                          83
-Mississippi                        68
-Missouri                           84
-Montana                            71
-Nebraska                           91
-Nevada                             94
+Mississippi                        69
+Missouri                           85
+Montana                            75
+Nebraska                           88
+Nevada                             95
 New Hampshire                      81
-New Jersey                         92
-New Mexico                         87
+New Jersey                         91
+New Mexico                         88
 New York                          100
-North Carolina                     70
-North Dakota                       63
-Ohio                               77
-Oklahoma                           83
-Oregon                             63
-Pennsylvania                       83
-Rhode Island                       90
-South Carolina                     70
-South Dakota                       61
-Tennessee                          77
-Texas                              73
+North Carolina                     72
+North Dakota                       58
+Ohio                               79
+Oklahoma                           85
+Oregon                             65
+Pennsylvania                       85
+Rhode Island                       94
+South Carolina                     72
+South Dakota                       59
+Tennessee                          79
+Texas                              75
 Utah                               71
-Vermont                            74
-Virginia                           70
-Washington                         82
-West Virginia                      73
-Wisconsin                          73
-Wyoming                            77
+Vermont                            69
+Virginia                           69
+Washington                         85
+West Virginia                      72
+Wisconsin                          74
+Wyoming                            75

@@ -1,0 +1,30 @@
+                samsclub
+geoName                 
+Alabama               70
+Arkansas             100
+California            31
+Connecticut           21
+Delaware              34
+Georgia               50
+Indiana               59
+Iowa                  56
+Kentucky              55
+Michigan              65
+Minnesota             62
+Mississippi           74
+Nebraska              59
+New Jersey            34
+New York              22
+North Carolina        55
+North Dakota          86
+Ohio                  61
+Oklahoma              77
+Pennsylvania          52
+Rhode Island          17
+South Carolina        57
+South Dakota          69
+Tennessee             60
+Texas                 65
+Utah                  73
+Virginia              38
+West Virginia         88

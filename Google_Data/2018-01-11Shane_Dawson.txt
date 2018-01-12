@@ -1,53 +1,53 @@
                       Shane Dawson
 geoName                           
-Alabama                         52
-Alaska                          61
-Arizona                         64
-Arkansas                        64
-California                      60
-Colorado                        51
-Connecticut                     70
-Delaware                        66
-District of Columbia            28
-Florida                         54
-Georgia                         46
-Hawaii                          44
-Idaho                           58
-Illinois                        57
-Indiana                         76
-Iowa                            72
-Kansas                          54
-Kentucky                        75
-Louisiana                       57
-Maine                           82
-Maryland                        52
-Massachusetts                   58
-Michigan                        62
-Minnesota                       53
-Mississippi                     54
-Missouri                        55
-Montana                         54
-Nebraska                        57
-Nevada                          66
-New Hampshire                   74
-New Jersey                      74
-New Mexico                      63
-New York                        56
-North Carolina                  55
-North Dakota                    65
-Ohio                            74
-Oklahoma                        61
-Oregon                          42
-Pennsylvania                    68
-Rhode Island                    73
-South Carolina                  56
-South Dakota                    64
-Tennessee                       59
-Texas                           54
-Utah                            44
-Vermont                         67
-Virginia                        44
-Washington                      50
+Alabama                         61
+Alaska                          73
+Arizona                         75
+Arkansas                        75
+California                      70
+Colorado                        56
+Connecticut                     80
+Delaware                        70
+District of Columbia            33
+Florida                         62
+Georgia                         52
+Hawaii                          46
+Idaho                           65
+Illinois                        66
+Indiana                         86
+Iowa                            85
+Kansas                          61
+Kentucky                        84
+Louisiana                       63
+Maine                           93
+Maryland                        60
+Massachusetts                   67
+Michigan                        71
+Minnesota                       63
+Mississippi                     61
+Missouri                        65
+Montana                         64
+Nebraska                        71
+Nevada                          75
+New Hampshire                   85
+New Jersey                      84
+New Mexico                      74
+New York                        65
+North Carolina                  63
+North Dakota                    75
+Ohio                            82
+Oklahoma                        68
+Oregon                          48
+Pennsylvania                    78
+Rhode Island                    84
+South Carolina                  66
+South Dakota                    74
+Tennessee                       67
+Texas                           62
+Utah                            51
+Vermont                         80
+Virginia                        50
+Washington                      58
 West Virginia                  100
-Wisconsin                       62
-Wyoming                         60
+Wisconsin                       72
+Wyoming                         68

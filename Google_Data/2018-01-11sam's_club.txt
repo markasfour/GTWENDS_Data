@@ -1,0 +1,53 @@
+                      sam's club
+geoName                         
+Alabama                       69
+Alaska                        70
+Arizona                       64
+Arkansas                     100
+California                    32
+Colorado                      57
+Connecticut                   21
+Delaware                      32
+District of Columbia          37
+Florida                       60
+Georgia                       58
+Hawaii                        67
+Idaho                         28
+Illinois                      62
+Indiana                       67
+Iowa                          69
+Kansas                        64
+Kentucky                      65
+Louisiana                     71
+Maine                         60
+Maryland                      49
+Massachusetts                 14
+Michigan                      77
+Minnesota                     77
+Mississippi                   65
+Missouri                      83
+Montana                       40
+Nebraska                      73
+Nevada                        73
+New Hampshire                 40
+New Jersey                    31
+New Mexico                    93
+New York                      23
+North Carolina                63
+North Dakota                  95
+Ohio                          70
+Oklahoma                      78
+Oregon                         4
+Pennsylvania                  60
+Rhode Island                  20
+South Carolina                62
+South Dakota                  76
+Tennessee                     64
+Texas                         65
+Utah                          68
+Vermont                        9
+Virginia                      41
+Washington                    15
+West Virginia                 92
+Wisconsin                     62
+Wyoming                       73

@@ -1,44 +1,44 @@
                       Gerrit Cole
 geoName                          
-Alabama                         5
-Arizona                        11
-Arkansas                        8
-California                     18
+Alabama                         6
+Arizona                        10
+Arkansas                        7
+California                     17
 Colorado                        8
-Connecticut                    26
-Delaware                       20
-District of Columbia           20
+Connecticut                    27
+Delaware                       17
+District of Columbia           19
 Florida                        10
-Georgia                         9
-Illinois                       21
-Indiana                        13
+Georgia                         8
+Illinois                       20
+Indiana                        11
 Iowa                           14
-Kansas                          8
-Kentucky                        8
+Kansas                          9
+Kentucky                        7
 Louisiana                       6
 Maine                          15
-Maryland                       17
-Massachusetts                  18
-Michigan                       15
-Minnesota                      15
+Maryland                       16
+Massachusetts                  20
+Michigan                       14
+Minnesota                      13
 Mississippi                     6
 Missouri                       20
-Nebraska                       13
-Nevada                         13
-New Hampshire                  20
+Nebraska                       11
+Nevada                          9
+New Hampshire                  15
 New Jersey                     31
-New York                       29
-North Carolina                 10
-Ohio                           17
+New York                       28
+North Carolina                  9
+Ohio                           16
 Oklahoma                        8
-Oregon                          6
+Oregon                          7
 Pennsylvania                  100
-Rhode Island                   19
-South Carolina                  9
-Tennessee                       8
+Rhode Island                   22
+South Carolina                 10
+Tennessee                       7
 Texas                           8
-Utah                            6
+Utah                            4
 Virginia                       12
-Washington                      7
-West Virginia                  55
+Washington                      9
+West Virginia                  48
 Wisconsin                      14

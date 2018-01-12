@@ -1,0 +1,53 @@
+                      venom
+geoName                    
+Alabama                  78
+Alaska                   85
+Arizona                  97
+Arkansas                 80
+California               80
+Colorado                 86
+Connecticut              69
+Delaware                 74
+District of Columbia     58
+Florida                  81
+Georgia                  74
+Hawaii                   75
+Idaho                    90
+Illinois                 72
+Indiana                  81
+Iowa                     77
+Kansas                   74
+Kentucky                 77
+Louisiana                77
+Maine                    85
+Maryland                 70
+Massachusetts            61
+Michigan                 80
+Minnesota                69
+Mississippi              78
+Missouri                 78
+Montana                  79
+Nebraska                 73
+Nevada                   93
+New Hampshire            73
+New Jersey               76
+New Mexico              100
+New York                 69
+North Carolina           76
+North Dakota             79
+Ohio                     75
+Oklahoma                 88
+Oregon                   66
+Pennsylvania             75
+Rhode Island             69
+South Carolina           76
+South Dakota             76
+Tennessee                81
+Texas                    87
+Utah                     88
+Vermont                  69
+Virginia                 67
+Washington               79
+West Virginia            90
+Wisconsin                72
+Wyoming                  86

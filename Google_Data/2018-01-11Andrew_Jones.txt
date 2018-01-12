@@ -1,8 +1,49 @@
-            Andrew Jones
-geoName                 
-Arkansas              55
-Delaware             100
-Iowa                  72
-Nebraska              66
-New Jersey            76
-Oklahoma              65
+                      Andrew Jones
+geoName                           
+Alabama                         89
+Arizona                         56
+Arkansas                        52
+California                      62
+Colorado                        63
+Connecticut                     78
+Delaware                        84
+District of Columbia            90
+Florida                         61
+Georgia                        100
+Hawaii                          41
+Idaho                           59
+Illinois                        67
+Indiana                         84
+Iowa                            64
+Kansas                          69
+Kentucky                        74
+Louisiana                       69
+Maine                           73
+Maryland                        73
+Massachusetts                   70
+Michigan                        59
+Minnesota                       77
+Mississippi                     86
+Missouri                        77
+Montana                         60
+Nebraska                        58
+Nevada                          55
+New Hampshire                   60
+New Jersey                      65
+New Mexico                      50
+New York                        77
+North Carolina                  79
+Ohio                            63
+Oklahoma                        59
+Oregon                          49
+Pennsylvania                    71
+Rhode Island                    59
+South Carolina                  80
+South Dakota                    38
+Tennessee                       88
+Texas                           66
+Utah                            58
+Virginia                        64
+Washington                      57
+West Virginia                   56
+Wisconsin                       65

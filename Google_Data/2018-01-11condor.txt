@@ -1,0 +1,53 @@
+                      condor
+geoName                     
+Alabama                   15
+Alaska                   100
+Arizona                   22
+Arkansas                  15
+California                26
+Colorado                  20
+Connecticut               17
+Delaware                  14
+District of Columbia      21
+Florida                   18
+Georgia                   16
+Hawaii                    22
+Idaho                     25
+Illinois                  15
+Indiana                   16
+Iowa                      15
+Kansas                    17
+Kentucky                  16
+Louisiana                 18
+Maine                     17
+Maryland                  21
+Massachusetts             17
+Michigan                  14
+Minnesota                 23
+Mississippi               14
+Missouri                  16
+Montana                   23
+Nebraska                  16
+Nevada                    42
+New Hampshire             18
+New Jersey                16
+New Mexico                19
+New York                  18
+North Carolina            16
+North Dakota              18
+Ohio                      16
+Oklahoma                  18
+Oregon                    31
+Pennsylvania              19
+Rhode Island              24
+South Carolina            15
+South Dakota              18
+Tennessee                 16
+Texas                     17
+Utah                      23
+Vermont                   20
+Virginia                  18
+Washington                31
+West Virginia             17
+Wisconsin                 17
+Wyoming                   19

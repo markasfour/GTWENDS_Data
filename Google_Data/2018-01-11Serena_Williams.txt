@@ -1,53 +1,53 @@
                       Serena Williams
 geoName                              
-Alabama                            66
-Alaska                             29
-Arizona                            41
+Alabama                            65
+Alaska                             28
+Arizona                            40
 Arkansas                           44
-California                         50
+California                         49
 Colorado                           38
-Connecticut                        58
-Delaware                           73
+Connecticut                        57
+Delaware                           71
 District of Columbia              100
-Florida                            65
+Florida                            64
 Georgia                            88
-Hawaii                             42
-Idaho                              26
+Hawaii                             43
+Idaho                              25
 Illinois                           56
-Indiana                            45
+Indiana                            44
 Iowa                               34
 Kansas                             37
-Kentucky                           44
-Louisiana                          75
-Maine                              39
+Kentucky                           43
+Louisiana                          72
+Maine                              40
 Maryland                           88
 Massachusetts                      52
-Michigan                           55
-Minnesota                          41
-Mississippi                        77
-Missouri                           46
-Montana                            29
+Michigan                           54
+Minnesota                          40
+Mississippi                        75
+Missouri                           45
+Montana                            28
 Nebraska                           37
 Nevada                             51
 New Hampshire                      37
-New Jersey                         69
+New Jersey                         67
 New Mexico                         33
 New York                           78
 North Carolina                     65
-North Dakota                       31
-Ohio                               50
+North Dakota                       30
+Ohio                               49
 Oklahoma                           42
 Oregon                             30
-Pennsylvania                       52
-Rhode Island                       49
-South Carolina                     71
-South Dakota                       29
-Tennessee                          51
+Pennsylvania                       51
+Rhode Island                       48
+South Carolina                     72
+South Dakota                       28
+Tennessee                          52
 Texas                              55
 Utah                               28
-Vermont                            39
-Virginia                           58
+Vermont                            42
+Virginia                           57
 Washington                         37
-West Virginia                      35
-Wisconsin                          37
-Wyoming                            27
+West Virginia                      36
+Wisconsin                          36
+Wyoming                            25

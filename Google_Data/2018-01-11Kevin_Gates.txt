@@ -1,40 +1,40 @@
                       Kevin Gates
 geoName                          
 Alabama                        40
-Alaska                          8
+Alaska                          7
 Arizona                         7
-Arkansas                       42
+Arkansas                       43
 California                      5
-Colorado                        9
+Colorado                        8
 Connecticut                     4
-Delaware                        7
-District of Columbia           11
-Florida                        17
-Georgia                        27
+Delaware                        6
+District of Columbia           12
+Florida                        16
+Georgia                        28
 Hawaii                          4
-Idaho                           3
+Idaho                           4
 Illinois                       11
 Indiana                        16
 Iowa                           10
 Kansas                         12
-Kentucky                       22
+Kentucky                       21
 Louisiana                     100
 Maine                           4
 Maryland                        9
 Massachusetts                   4
 Michigan                       11
-Minnesota                       8
-Mississippi                    83
+Minnesota                       7
+Mississippi                    82
 Missouri                       17
 Montana                         5
 Nebraska                       13
-Nevada                          7
+Nevada                          8
 New Hampshire                   3
 New Jersey                      4
 New Mexico                     13
 New York                        6
-North Carolina                 17
-North Dakota                    7
+North Carolina                 16
+North Dakota                    8
 Ohio                           11
 Oklahoma                       22
 Oregon                          3
@@ -45,9 +45,9 @@ South Dakota                   12
 Tennessee                      30
 Texas                          25
 Utah                            3
-Vermont                         4
+Vermont                         3
 Virginia                        9
 Washington                      5
-West Virginia                  12
+West Virginia                  11
 Wisconsin                       8
-Wyoming                         6
+Wyoming                         7

@@ -1,0 +1,39 @@
+                      shadowban
+geoName                        
+Alabama                      63
+Arizona                      75
+Arkansas                     69
+California                   84
+Colorado                     61
+Connecticut                  75
+District of Columbia         48
+Florida                      51
+Georgia                      49
+Hawaii                      100
+Illinois                     66
+Indiana                      44
+Iowa                         68
+Kansas                       42
+Kentucky                     53
+Louisiana                    43
+Maryland                     68
+Massachusetts                84
+Michigan                     56
+Minnesota                    64
+Missouri                     45
+Nebraska                     69
+Nevada                       74
+New Jersey                   71
+New York                     68
+North Carolina               69
+Ohio                         69
+Oklahoma                     65
+Oregon                       73
+Pennsylvania                 71
+South Carolina               56
+Tennessee                    44
+Texas                        57
+Utah                         95
+Virginia                     54
+Washington                   94
+Wisconsin                    60

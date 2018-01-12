@@ -1,0 +1,28 @@
+                final space
+geoName                    
+Alabama                  68
+Arizona                  77
+California               78
+Colorado                 65
+Florida                  73
+Georgia                  61
+Illinois                 59
+Indiana                  87
+Kansas                   67
+Maryland                 78
+Massachusetts            69
+Michigan                 65
+Minnesota                64
+Missouri                 72
+New Jersey               66
+New York                 67
+North Carolina           62
+Ohio                     68
+Oregon                   67
+Pennsylvania             74
+South Carolina           67
+Tennessee                61
+Texas                    68
+Utah                    100
+Virginia                 72
+Washington               74

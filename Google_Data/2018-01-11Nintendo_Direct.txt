@@ -1,52 +1,52 @@
                       Nintendo Direct
 geoName                              
-Alabama                            53
-Alaska                             70
-Arizona                            69
-Arkansas                           58
-California                         69
-Colorado                           47
-Connecticut                        73
-Delaware                           89
-District of Columbia               32
-Florida                            69
-Georgia                            51
-Hawaii                             42
-Idaho                              70
-Illinois                           63
-Indiana                            75
-Iowa                               58
-Kansas                             51
-Kentucky                           65
-Louisiana                          55
-Maine                              69
-Maryland                           71
-Massachusetts                      72
-Michigan                           69
-Minnesota                          63
-Mississippi                        54
-Missouri                           63
-Montana                            51
-Nebraska                           69
-Nevada                             59
-New Hampshire                      72
-New Jersey                         91
-New Mexico                         59
-New York                           71
-North Carolina                     57
-North Dakota                       43
-Ohio                               79
-Oklahoma                           65
-Oregon                             54
-Pennsylvania                       79
-Rhode Island                       78
-South Carolina                     50
-South Dakota                       49
-Tennessee                          54
-Texas                              59
+Alabama                            61
+Alaska                             96
+Arizona                            73
+Arkansas                           64
+California                         71
+Colorado                           52
+Connecticut                        76
+Delaware                           91
+District of Columbia               37
+Florida                            70
+Georgia                            54
+Hawaii                             49
+Idaho                              75
+Illinois                           65
+Indiana                            76
+Iowa                               67
+Kansas                             54
+Kentucky                           73
+Louisiana                          54
+Maine                              73
+Maryland                           77
+Massachusetts                      79
+Michigan                           74
+Minnesota                          69
+Mississippi                        56
+Missouri                           65
+Montana                            50
+Nebraska                           64
+Nevada                             65
+New Hampshire                      75
+New Jersey                         94
+New Mexico                         67
+New York                           74
+North Carolina                     61
+North Dakota                       58
+Ohio                               83
+Oklahoma                           63
+Oregon                             57
+Pennsylvania                       85
+Rhode Island                       90
+South Carolina                     54
+South Dakota                       58
+Tennessee                          58
+Texas                              63
 Utah                              100
-Vermont                            92
-Virginia                           57
-Washington                         80
-West Virginia                      85
-Wisconsin                          64
+Vermont                            88
+Virginia                           62
+Washington                         81
+West Virginia                      87
+Wisconsin                          67
