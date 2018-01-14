@@ -1,53 +1,53 @@
                       Michelle Williams
 geoName                                
-Alabama                              71
+Alabama                              72
 Alaska                               55
 Arizona                              63
-Arkansas                             59
+Arkansas                             55
 California                           72
-Colorado                             62
+Colorado                             60
 Connecticut                          74
-Delaware                             74
+Delaware                             77
 District of Columbia                 91
 Florida                              67
 Georgia                              83
-Hawaii                               57
-Idaho                                51
-Illinois                             77
+Hawaii                               62
+Idaho                                52
+Illinois                             76
 Indiana                              61
-Iowa                                 54
-Kansas                               56
+Iowa                                 53
+Kansas                               58
 Kentucky                             61
-Louisiana                            80
-Maine                                51
-Maryland                             89
+Louisiana                            77
+Maine                                53
+Maryland                             90
 Massachusetts                        83
-Michigan                             67
+Michigan                             66
 Minnesota                            64
-Mississippi                          77
-Missouri                             69
+Mississippi                          71
+Missouri                             67
 Montana                              77
-Nebraska                             55
+Nebraska                             57
 Nevada                               58
-New Hampshire                        67
-New Jersey                           77
-New Mexico                           62
+New Hampshire                        62
+New Jersey                           76
+New Mexico                           60
 New York                            100
-North Carolina                       74
-North Dakota                         45
+North Carolina                       72
+North Dakota                         43
 Ohio                                 64
 Oklahoma                             63
-Oregon                               53
+Oregon                               54
 Pennsylvania                         73
-Rhode Island                         68
+Rhode Island                         71
 South Carolina                       71
 South Dakota                         47
 Tennessee                            69
-Texas                                68
-Utah                                 63
-Vermont                              61
-Virginia                             71
+Texas                                66
+Utah                                 59
+Vermont                              57
+Virginia                             69
 Washington                           67
 West Virginia                        51
-Wisconsin                            61
-Wyoming                              46
+Wisconsin                            60
+Wyoming                              44

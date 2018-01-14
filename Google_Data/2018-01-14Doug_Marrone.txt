@@ -1,0 +1,51 @@
+                      Doug Marrone
+geoName                           
+Alabama                         12
+Arizona                         16
+Arkansas                         8
+California                      15
+Colorado                        18
+Connecticut                     38
+Delaware                        23
+District of Columbia            55
+Florida                         39
+Georgia                         22
+Hawaii                          17
+Idaho                            8
+Illinois                        19
+Indiana                         17
+Iowa                            16
+Kansas                          13
+Kentucky                        19
+Louisiana                       24
+Maine                           20
+Maryland                        32
+Massachusetts                   36
+Michigan                        17
+Minnesota                       16
+Mississippi                     14
+Missouri                        13
+Montana                         22
+Nebraska                        18
+Nevada                          14
+New Hampshire                   22
+New Jersey                      41
+New Mexico                      11
+New York                       100
+North Carolina                  21
+North Dakota                    12
+Ohio                            30
+Oklahoma                        22
+Oregon                           7
+Pennsylvania                    34
+Rhode Island                    26
+South Carolina                  19
+South Dakota                    14
+Tennessee                       35
+Texas                           14
+Utah                             8
+Vermont                         28
+Virginia                        22
+Washington                      14
+West Virginia                   26
+Wisconsin                       18

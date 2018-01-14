@@ -15,7 +15,7 @@ Hawaii                      6
 Idaho                       9
 Illinois                    9
 Indiana                     6
-Iowa                       26
+Iowa                       27
 Kansas                      6
 Kentucky                    6
 Louisiana                   5
@@ -34,7 +34,7 @@ New Jersey                  5
 New Mexico                  8
 New York                    4
 North Carolina              6
-North Dakota               75
+North Dakota               76
 Ohio                        5
 Oklahoma                    6
 Oregon                      5
@@ -45,7 +45,7 @@ South Dakota               66
 Tennessee                   5
 Texas                       5
 Utah                        7
-Vermont                     6
+Vermont                     5
 Virginia                    5
 Washington                  7
 West Virginia               6

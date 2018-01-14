@@ -1,0 +1,53 @@
+                      Leonard
+geoName                      
+Alabama                    40
+Alaska                     38
+Arizona                    33
+Arkansas                   39
+California                 37
+Colorado                   34
+Connecticut                50
+Delaware                   37
+District of Columbia       53
+Florida                    37
+Georgia                    38
+Hawaii                     37
+Idaho                      31
+Illinois                   44
+Indiana                    38
+Iowa                       52
+Kansas                     37
+Kentucky                   40
+Louisiana                  57
+Maine                      46
+Maryland                   52
+Massachusetts              52
+Michigan                   52
+Minnesota                  42
+Mississippi                39
+Missouri                  100
+Montana                    38
+Nebraska                   37
+Nevada                     32
+New Hampshire              43
+New Jersey                 48
+New Mexico                 39
+New York                   54
+North Carolina             46
+North Dakota               47
+Ohio                       40
+Oklahoma                   55
+Oregon                     37
+Pennsylvania               43
+Rhode Island               48
+South Carolina             39
+South Dakota               40
+Tennessee                  40
+Texas                      44
+Utah                       31
+Vermont                    47
+Virginia                   38
+Washington                 38
+West Virginia              40
+Wisconsin                  39
+Wyoming                    34

@@ -1,0 +1,51 @@
+                      Bouye
+geoName                    
+Alabama                  27
+Alaska                   40
+Arizona                  22
+Arkansas                 32
+California               27
+Colorado                 28
+Connecticut              38
+Delaware                 65
+District of Columbia     48
+Florida                  70
+Georgia                  61
+Hawaii                   44
+Idaho                    26
+Illinois                 35
+Indiana                  38
+Iowa                     19
+Kansas                   18
+Kentucky                 26
+Louisiana                54
+Maine                    31
+Maryland                 50
+Massachusetts            34
+Michigan                 27
+Minnesota                29
+Mississippi              31
+Missouri                 20
+Montana                  18
+Nebraska                 15
+Nevada                   19
+New Hampshire            34
+New Jersey               46
+New Mexico               25
+New York                 30
+North Carolina           32
+North Dakota             20
+Ohio                     33
+Oklahoma                 21
+Oregon                   17
+Pennsylvania             61
+Rhode Island             45
+South Carolina           42
+South Dakota             37
+Tennessee                52
+Texas                   100
+Utah                     17
+Virginia                 28
+Washington               29
+West Virginia            24
+Wisconsin                46

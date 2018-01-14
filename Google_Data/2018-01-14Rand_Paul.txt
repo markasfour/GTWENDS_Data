@@ -1,0 +1,53 @@
+                      Rand Paul
+geoName                        
+Alabama                      33
+Alaska                       33
+Arizona                      32
+Arkansas                     29
+California                   28
+Colorado                     32
+Connecticut                  36
+Delaware                     32
+District of Columbia         75
+Florida                      27
+Georgia                      29
+Hawaii                       23
+Idaho                        34
+Illinois                     31
+Indiana                      36
+Iowa                         48
+Kansas                       28
+Kentucky                    100
+Louisiana                    28
+Maine                        39
+Maryland                     36
+Massachusetts                37
+Michigan                     32
+Minnesota                    34
+Mississippi                  25
+Missouri                     34
+Montana                      40
+Nebraska                     36
+Nevada                       31
+New Hampshire                55
+New Jersey                   31
+New Mexico                   27
+New York                     34
+North Carolina               31
+North Dakota                 32
+Ohio                         34
+Oklahoma                     32
+Oregon                       25
+Pennsylvania                 37
+Rhode Island                 32
+South Carolina               32
+South Dakota                 29
+Tennessee                    34
+Texas                        27
+Utah                         29
+Vermont                      40
+Virginia                     35
+Washington                   32
+West Virginia                37
+Wisconsin                    33
+Wyoming                      35
