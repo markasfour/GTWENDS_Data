@@ -1,0 +1,53 @@
+                      Chivas
+geoName                     
+Alabama                   11
+Alaska                     6
+Arizona                   49
+Arkansas                  19
+California               100
+Colorado                  34
+Connecticut                9
+Delaware                  15
+District of Columbia      14
+Florida                   15
+Georgia                   22
+Hawaii                    12
+Idaho                     23
+Illinois                  48
+Indiana                   16
+Iowa                      15
+Kansas                    23
+Kentucky                   9
+Louisiana                 12
+Maine                      2
+Maryland                  10
+Massachusetts              7
+Michigan                  12
+Minnesota                 11
+Mississippi                9
+Missouri                  12
+Montana                    3
+Nebraska                  22
+Nevada                    70
+New Hampshire              4
+New Jersey                15
+New Mexico                37
+New York                  16
+North Carolina            19
+North Dakota               7
+Ohio                       7
+Oklahoma                  20
+Oregon                    31
+Pennsylvania               7
+Rhode Island               6
+South Carolina            13
+South Dakota               6
+Tennessee                 14
+Texas                     73
+Utah                      27
+Vermont                    4
+Virginia                  15
+Washington                33
+West Virginia              4
+Wisconsin                 17
+Wyoming                   15

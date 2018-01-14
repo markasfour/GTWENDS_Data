@@ -1,0 +1,53 @@
+                      James Harrison
+geoName                             
+Alabama                           30
+Alaska                            22
+Arizona                           26
+Arkansas                          35
+California                        21
+Colorado                          25
+Connecticut                       36
+Delaware                          39
+District of Columbia              37
+Florida                           25
+Georgia                           28
+Hawaii                            25
+Idaho                             23
+Illinois                          25
+Indiana                           32
+Iowa                              29
+Kansas                            24
+Kentucky                          37
+Louisiana                         27
+Maine                             40
+Maryland                          48
+Massachusetts                     43
+Michigan                          30
+Minnesota                         24
+Mississippi                       35
+Missouri                          25
+Montana                           27
+Nebraska                          28
+Nevada                            26
+New Hampshire                     41
+New Jersey                        34
+New Mexico                        25
+New York                          27
+North Carolina                    33
+North Dakota                      31
+Ohio                              60
+Oklahoma                          24
+Oregon                            15
+Pennsylvania                     100
+Rhode Island                      38
+South Carolina                    33
+South Dakota                      30
+Tennessee                         31
+Texas                             23
+Utah                              23
+Vermont                           30
+Virginia                          33
+Washington                        21
+West Virginia                     76
+Wisconsin                         23
+Wyoming                           22

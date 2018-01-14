@@ -1,0 +1,53 @@
+                      football schedule
+geoName                                
+Alabama                             100
+Alaska                               10
+Arizona                              19
+Arkansas                             38
+California                           11
+Colorado                             20
+Connecticut                          12
+Delaware                             16
+District of Columbia                 23
+Florida                              27
+Georgia                              48
+Hawaii                               18
+Idaho                                31
+Illinois                             19
+Indiana                              25
+Iowa                                 46
+Kansas                               24
+Kentucky                             40
+Louisiana                            46
+Maine                                 9
+Maryland                             14
+Massachusetts                        11
+Michigan                             35
+Minnesota                            20
+Mississippi                          67
+Missouri                             21
+Montana                              25
+Nebraska                             67
+Nevada                               16
+New Hampshire                         9
+New Jersey                           13
+New Mexico                           15
+New York                             10
+North Carolina                       30
+North Dakota                         25
+Ohio                                 41
+Oklahoma                             52
+Oregon                               18
+Pennsylvania                         22
+Rhode Island                          9
+South Carolina                       54
+South Dakota                         24
+Tennessee                            48
+Texas                                30
+Utah                                 34
+Vermont                               8
+Virginia                             19
+Washington                           21
+West Virginia                        50
+Wisconsin                            26
+Wyoming                              25
