@@ -1,51 +1,51 @@
                       Google Arts and Culture
 geoName                                      
-Alabama                                    22
-Alaska                                     61
-Arizona                                    31
-Arkansas                                   49
-California                                 40
-Colorado                                   41
-Connecticut                                48
-Delaware                                   77
-District of Columbia                       40
-Florida                                    15
-Georgia                                    35
-Hawaii                                     29
-Idaho                                      41
-Illinois                                   45
-Indiana                                    62
-Iowa                                       73
-Kansas                                     42
-Kentucky                                   61
-Louisiana                                  37
-Maine                                      37
-Maryland                                   36
-Massachusetts                              48
-Michigan                                   24
-Minnesota                                  35
-Mississippi                                11
-Missouri                                   50
-Montana                                    69
-Nebraska                                   57
-Nevada                                     20
-New Hampshire                              35
-New Jersey                                 57
-New Mexico                                 84
-New York                                   37
-North Carolina                             32
-North Dakota                               37
-Ohio                                       34
-Oklahoma                                   33
-Oregon                                     27
-Pennsylvania                               38
-Rhode Island                               43
-South Carolina                             51
-Tennessee                                  27
-Texas                                      31
-Utah                                       22
-Vermont                                   100
-Virginia                                   52
-Washington                                 29
-West Virginia                              47
-Wisconsin                                  78
+Alabama                                    32
+Alaska                                     85
+Arizona                                    33
+Arkansas                                   57
+California                                 64
+Colorado                                   60
+Connecticut                                71
+Delaware                                   96
+District of Columbia                       43
+Florida                                    25
+Georgia                                    52
+Hawaii                                     64
+Idaho                                      64
+Illinois                                   60
+Indiana                                    80
+Iowa                                       85
+Kansas                                     60
+Kentucky                                   88
+Louisiana                                  46
+Maine                                      50
+Maryland                                   58
+Massachusetts                              68
+Michigan                                   33
+Minnesota                                  40
+Mississippi                                27
+Missouri                                   66
+Montana                                    79
+Nebraska                                   71
+Nevada                                     24
+New Hampshire                              45
+New Jersey                                 69
+New Mexico                                100
+New York                                   68
+North Carolina                             28
+North Dakota                               36
+Ohio                                       47
+Oklahoma                                   27
+Oregon                                     58
+Pennsylvania                               57
+Rhode Island                               81
+South Carolina                             59
+Tennessee                                  36
+Texas                                      41
+Utah                                       19
+Vermont                                    99
+Virginia                                   68
+Washington                                 52
+West Virginia                              63
+Wisconsin                                  98

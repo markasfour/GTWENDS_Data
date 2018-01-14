@@ -1,0 +1,32 @@
+                      LivePD
+geoName                     
+Alabama                   14
+Arizona                   20
+Arkansas                  15
+California                 7
+Colorado                  10
+Connecticut               19
+District of Columbia      11
+Florida                   14
+Georgia                   18
+Illinois                  11
+Indiana                   13
+Kentucky                  18
+Louisiana                 16
+Maryland                  22
+Massachusetts             12
+Michigan                   6
+Minnesota                  7
+Missouri                  13
+New Jersey                14
+New York                   8
+North Carolina            22
+Ohio                      14
+Oklahoma                  31
+Pennsylvania              12
+South Carolina           100
+Tennessee                 14
+Texas                     10
+Virginia                  15
+Washington                10
+Wisconsin                  9

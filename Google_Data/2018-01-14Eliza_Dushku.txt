@@ -1,53 +1,53 @@
                       Eliza Dushku
 geoName                           
-Alabama                         56
-Alaska                          70
-Arizona                         73
-Arkansas                        56
-California                      61
-Colorado                        70
-Connecticut                     62
-Delaware                        66
-District of Columbia            53
-Florida                         51
-Georgia                         53
-Hawaii                          56
-Idaho                           71
-Illinois                        61
-Indiana                         67
-Iowa                            64
-Kansas                          60
-Kentucky                        68
-Louisiana                       59
-Maine                           68
+Alabama                         60
+Alaska                          72
+Arizona                         71
+Arkansas                        55
+California                      62
+Colorado                        73
+Connecticut                     66
+Delaware                        54
+District of Columbia            56
+Florida                         52
+Georgia                         55
+Hawaii                          62
+Idaho                           68
+Illinois                        63
+Indiana                         65
+Iowa                            65
+Kansas                          59
+Kentucky                        63
+Louisiana                       60
+Maine                           62
 Maryland                        58
 Massachusetts                  100
-Michigan                        64
-Minnesota                       59
-Mississippi                     48
+Michigan                        63
+Minnesota                       60
+Mississippi                     54
 Missouri                        65
-Montana                         65
-Nebraska                        74
-Nevada                          72
+Montana                         66
+Nebraska                        79
+Nevada                          69
 New Hampshire                   79
-New Jersey                      64
-New Mexico                      80
-New York                        63
+New Jersey                      63
+New Mexico                      79
+New York                        64
 North Carolina                  53
-North Dakota                    75
+North Dakota                    72
 Ohio                            64
-Oklahoma                        72
-Oregon                          49
+Oklahoma                        71
+Oregon                          50
 Pennsylvania                    69
-Rhode Island                    83
-South Carolina                  54
-South Dakota                    59
-Tennessee                       56
-Texas                           58
+Rhode Island                    78
+South Carolina                  56
+South Dakota                    65
+Tennessee                       58
+Texas                           59
 Utah                            80
-Vermont                         57
+Vermont                         63
 Virginia                        52
-Washington                      64
-West Virginia                   69
+Washington                      63
+West Virginia                   72
 Wisconsin                       60
-Wyoming                         80
+Wyoming                         79

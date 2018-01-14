@@ -1,53 +1,53 @@
                       Landon Donovan
 geoName                             
-Alabama                           42
-Alaska                            29
-Arizona                           58
-Arkansas                          41
+Alabama                           39
+Alaska                            27
+Arizona                           57
+Arkansas                          42
 California                       100
 Colorado                          57
-Connecticut                       71
-Delaware                          55
-District of Columbia              71
-Florida                           52
-Georgia                           50
-Hawaii                            60
-Idaho                             37
-Illinois                          56
-Indiana                           47
-Iowa                              43
-Kansas                            53
-Kentucky                          46
-Louisiana                         50
+Connecticut                       73
+Delaware                          57
+District of Columbia              68
+Florida                           53
+Georgia                           49
+Hawaii                            62
+Idaho                             42
+Illinois                          57
+Indiana                           42
+Iowa                              46
+Kansas                            52
+Kentucky                          45
+Louisiana                         47
 Maine                             35
-Maryland                          61
-Massachusetts                     60
+Maryland                          63
+Massachusetts                     58
 Michigan                          44
-Minnesota                         47
-Mississippi                       39
-Missouri                          53
-Montana                           33
-Nebraska                          60
-Nevada                            63
-New Hampshire                     45
-New Jersey                        76
+Minnesota                         49
+Mississippi                       35
+Missouri                          50
+Montana                           31
+Nebraska                          54
+Nevada                            59
+New Hampshire                     49
+New Jersey                        73
 New Mexico                        41
 New York                          62
-North Carolina                    51
-North Dakota                      33
-Ohio                              53
-Oklahoma                          48
-Oregon                            45
-Pennsylvania                      52
-Rhode Island                      46
-South Carolina                    51
-South Dakota                      40
-Tennessee                         44
-Texas                             59
-Utah                              70
-Vermont                           60
-Virginia                          63
+North Carolina                    49
+North Dakota                      30
+Ohio                              51
+Oklahoma                          49
+Oregon                            46
+Pennsylvania                      54
+Rhode Island                      42
+South Carolina                    52
+South Dakota                      48
+Tennessee                         46
+Texas                             61
+Utah                              66
+Vermont                           51
+Virginia                          62
 Washington                        63
 West Virginia                     30
 Wisconsin                         47
-Wyoming                           41
+Wyoming                           34

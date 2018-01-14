@@ -1,53 +1,53 @@
                       Sam Rockwell
 geoName                           
-Alabama                         51
-Alaska                          81
-Arizona                         78
-Arkansas                        57
-California                      90
-Colorado                        85
+Alabama                         56
+Alaska                          88
+Arizona                         82
+Arkansas                        64
+California                      93
+Colorado                        87
 Connecticut                     72
-Delaware                        89
-District of Columbia            76
+Delaware                        83
+District of Columbia            73
 Florida                         59
-Georgia                         58
-Hawaii                          60
-Idaho                           67
-Illinois                        77
-Indiana                         69
-Iowa                            67
-Kansas                          64
-Kentucky                        68
-Louisiana                       57
-Maine                           81
-Maryland                        76
-Massachusetts                   86
-Michigan                        73
-Minnesota                       75
-Mississippi                     50
+Georgia                         60
+Hawaii                          65
+Idaho                           74
+Illinois                        82
+Indiana                         72
+Iowa                            64
+Kansas                          69
+Kentucky                        71
+Louisiana                       62
+Maine                           83
+Maryland                        79
+Massachusetts                   88
+Michigan                        74
+Minnesota                       76
+Mississippi                     48
 Missouri                        78
-Montana                         88
-Nebraska                        68
-Nevada                          81
-New Hampshire                   71
-New Jersey                      74
-New Mexico                      69
-New York                        92
-North Carolina                  63
-North Dakota                    67
-Ohio                            68
-Oklahoma                        75
-Oregon                          75
-Pennsylvania                    78
-Rhode Island                    83
-South Carolina                  51
-South Dakota                    66
-Tennessee                       68
-Texas                           66
-Utah                            93
-Vermont                         74
-Virginia                        64
+Montana                         79
+Nebraska                        71
+Nevada                          77
+New Hampshire                   72
+New Jersey                      77
+New Mexico                      71
+New York                        94
+North Carolina                  64
+North Dakota                    61
+Ohio                            67
+Oklahoma                        77
+Oregon                          80
+Pennsylvania                    81
+Rhode Island                    86
+South Carolina                  48
+South Dakota                    62
+Tennessee                       66
+Texas                           70
+Utah                            91
+Vermont                         79
+Virginia                        65
 Washington                     100
-West Virginia                   67
-Wisconsin                       67
-Wyoming                         68
+West Virginia                   75
+Wisconsin                       71
+Wyoming                         64

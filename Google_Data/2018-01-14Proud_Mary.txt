@@ -1,53 +1,53 @@
                       Proud Mary
 geoName                         
-Alabama                       59
-Alaska                        42
+Alabama                       61
+Alaska                        38
 Arizona                       35
-Arkansas                      51
-California                    40
-Colorado                      34
-Connecticut                   40
-Delaware                      46
-District of Columbia          99
-Florida                       39
-Georgia                       54
-Hawaii                        41
-Idaho                         32
+Arkansas                      53
+California                    39
+Colorado                      31
+Connecticut                   42
+Delaware                      41
+District of Columbia          87
+Florida                       42
+Georgia                       57
+Hawaii                        35
+Idaho                         29
 Illinois                      46
-Indiana                       42
+Indiana                       43
 Iowa                          40
-Kansas                        32
-Kentucky                      79
-Louisiana                     69
-Maine                         45
+Kansas                        35
+Kentucky                      87
+Louisiana                     66
+Maine                         49
 Maryland                     100
-Massachusetts                 49
-Michigan                      43
-Minnesota                     40
-Mississippi                   65
-Missouri                      50
-Montana                       35
-Nebraska                      44
-Nevada                        35
-New Hampshire                 42
-New Jersey                    38
-New Mexico                    35
-New York                      40
-North Carolina                49
-North Dakota                  31
-Ohio                          42
-Oklahoma                      41
-Oregon                        52
-Pennsylvania                  43
-Rhode Island                  36
-South Carolina                54
-South Dakota                  35
-Tennessee                     60
-Texas                         41
-Utah                          31
-Vermont                       57
-Virginia                      45
+Massachusetts                 48
+Michigan                      47
+Minnesota                     39
+Mississippi                   72
+Missouri                      48
+Montana                       41
+Nebraska                      42
+Nevada                        39
+New Hampshire                 37
+New Jersey                    39
+New Mexico                    41
+New York                      42
+North Carolina                51
+North Dakota                  32
+Ohio                          44
+Oklahoma                      42
+Oregon                        49
+Pennsylvania                  44
+Rhode Island                  44
+South Carolina                59
+South Dakota                  32
+Tennessee                     57
+Texas                         42
+Utah                          28
+Vermont                       46
+Virginia                      48
 Washington                    36
 West Virginia                 43
-Wisconsin                     38
-Wyoming                       34
+Wisconsin                     41
+Wyoming                       27

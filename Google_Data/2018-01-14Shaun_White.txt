@@ -1,53 +1,53 @@
                       Shaun White
 geoName                          
 Alabama                        47
-Alaska                         56
+Alaska                         58
 Arizona                        42
-Arkansas                       36
+Arkansas                       32
 California                     50
-Colorado                       86
-Connecticut                    54
-Delaware                       42
+Colorado                       84
+Connecticut                    51
+Delaware                       46
 District of Columbia           36
-Florida                        35
+Florida                        34
 Georgia                        37
-Hawaii                         45
-Idaho                          61
-Illinois                       48
-Indiana                        43
-Iowa                           54
+Hawaii                         44
+Idaho                          60
+Illinois                       47
+Indiana                        42
+Iowa                           56
 Kansas                         43
-Kentucky                       36
-Louisiana                      35
-Maine                          49
-Maryland                       47
-Massachusetts                  54
-Michigan                       50
-Minnesota                      63
-Mississippi                    38
-Missouri                       47
-Montana                        66
-Nebraska                       44
+Kentucky                       38
+Louisiana                      34
+Maine                          51
+Maryland                       45
+Massachusetts                  52
+Michigan                       51
+Minnesota                      61
+Mississippi                    37
+Missouri                       46
+Montana                        68
+Nebraska                       49
 Nevada                         46
-New Hampshire                  61
-New Jersey                     50
-New Mexico                     42
+New Hampshire                  63
+New Jersey                     48
+New Mexico                     43
 New York                       46
-North Carolina                 39
-North Dakota                   65
+North Carolina                 40
+North Dakota                   63
 Ohio                           45
 Oklahoma                       48
-Oregon                         44
+Oregon                         43
 Pennsylvania                   55
-Rhode Island                   50
+Rhode Island                   52
 South Carolina                 36
-South Dakota                   57
-Tennessee                      40
+South Dakota                   56
+Tennessee                      42
 Texas                          35
-Utah                           69
+Utah                           71
 Vermont                       100
-Virginia                       41
-Washington                     52
-West Virginia                  45
-Wisconsin                      58
-Wyoming                        61
+Virginia                       40
+Washington                     50
+West Virginia                  43
+Wisconsin                      57
+Wyoming                        63

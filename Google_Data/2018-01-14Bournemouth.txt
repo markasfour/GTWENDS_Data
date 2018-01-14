@@ -1,0 +1,51 @@
+                      Bournemouth
+geoName                          
+Alabama                        19
+Alaska                         18
+Arizona                        22
+Arkansas                       16
+California                     35
+Colorado                       24
+Connecticut                    39
+Delaware                       47
+District of Columbia           37
+Florida                        41
+Georgia                        26
+Hawaii                         25
+Idaho                          20
+Illinois                       34
+Indiana                        23
+Iowa                           20
+Kansas                        100
+Kentucky                       18
+Louisiana                      16
+Maine                          24
+Maryland                       39
+Massachusetts                  49
+Michigan                       28
+Minnesota                      26
+Mississippi                    11
+Missouri                       26
+Montana                        24
+Nebraska                       24
+Nevada                         30
+New Hampshire                  33
+New Jersey                     43
+New Mexico                     37
+New York                       64
+North Carolina                 33
+Ohio                           24
+Oklahoma                       21
+Oregon                         50
+Pennsylvania                   36
+Rhode Island                   22
+South Carolina                 22
+Tennessee                      22
+Texas                          32
+Utah                           20
+Vermont                        36
+Virginia                       60
+Washington                     32
+West Virginia                  12
+Wisconsin                      21
+Wyoming                        22

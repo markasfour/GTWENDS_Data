@@ -1,53 +1,53 @@
                       Real Madrid
 geoName                          
-Alabama                        24
+Alabama                        25
 Alaska                         17
 Arizona                        48
-Arkansas                       37
-California                     87
-Colorado                       39
-Connecticut                    55
+Arkansas                       38
+California                     89
+Colorado                       38
+Connecticut                    56
 Delaware                       44
-District of Columbia           85
-Florida                        86
-Georgia                        52
-Hawaii                         25
+District of Columbia           87
+Florida                        87
+Georgia                        53
+Hawaii                         26
 Idaho                          26
-Illinois                       56
-Indiana                        36
-Iowa                           33
+Illinois                       55
+Indiana                        37
+Iowa                           34
 Kansas                         54
 Kentucky                       27
 Louisiana                      31
-Maine                          19
-Maryland                       85
-Massachusetts                  53
+Maine                          20
+Maryland                       86
+Massachusetts                  54
 Michigan                       38
-Minnesota                      36
+Minnesota                      37
 Mississippi                    20
 Missouri                       29
 Montana                         9
-Nebraska                       46
-Nevada                         67
+Nebraska                       47
+Nevada                         68
 New Hampshire                  23
-New Jersey                     87
+New Jersey                     88
 New Mexico                     36
-New York                       77
+New York                       78
 North Carolina                 50
-North Dakota                   27
+North Dakota                   28
 Ohio                           27
 Oklahoma                       37
 Oregon                         74
 Pennsylvania                   34
-Rhode Island                   55
-South Carolina                 34
-South Dakota                   35
+Rhode Island                   56
+South Carolina                 33
+South Dakota                   34
 Tennessee                      32
-Texas                          74
+Texas                          76
 Utah                           42
-Vermont                        26
+Vermont                        27
 Virginia                      100
-Washington                     38
+Washington                     39
 West Virginia                  16
-Wisconsin                      26
-Wyoming                        21
+Wisconsin                      27
+Wyoming                        20

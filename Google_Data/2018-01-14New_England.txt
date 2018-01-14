@@ -1,0 +1,53 @@
+                      New England
+geoName                          
+Alabama                         5
+Alaska                          5
+Arizona                         5
+Arkansas                        5
+California                      4
+Colorado                        6
+Connecticut                    52
+Delaware                        7
+District of Columbia            9
+Florida                         7
+Georgia                         6
+Hawaii                          6
+Idaho                           5
+Illinois                        5
+Indiana                         5
+Iowa                            5
+Kansas                          4
+Kentucky                        5
+Louisiana                       5
+Maine                          76
+Maryland                        6
+Massachusetts                  86
+Michigan                        5
+Minnesota                       4
+Mississippi                     6
+Missouri                        5
+Montana                         5
+Nebraska                        5
+Nevada                          5
+New Hampshire                 100
+New Jersey                      7
+New Mexico                      6
+New York                        9
+North Carolina                  7
+North Dakota                    7
+Ohio                            5
+Oklahoma                        5
+Oregon                          3
+Pennsylvania                    7
+Rhode Island                   97
+South Carolina                  7
+South Dakota                    6
+Tennessee                       5
+Texas                           5
+Utah                            5
+Vermont                        65
+Virginia                        6
+Washington                      4
+West Virginia                   6
+Wisconsin                       5
+Wyoming                         6
