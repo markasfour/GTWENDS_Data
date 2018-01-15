@@ -1,0 +1,53 @@
+                      Eric Decker
+geoName                          
+Alabama                        25
+Alaska                         21
+Arizona                        31
+Arkansas                       22
+California                     26
+Colorado                      100
+Connecticut                    41
+Delaware                       33
+District of Columbia           31
+Florida                        25
+Georgia                        26
+Hawaii                         29
+Idaho                          23
+Illinois                       32
+Indiana                        30
+Iowa                           34
+Kansas                         32
+Kentucky                       30
+Louisiana                      32
+Maine                          22
+Maryland                       30
+Massachusetts                  36
+Michigan                       28
+Minnesota                      66
+Mississippi                    29
+Missouri                       30
+Montana                        34
+Nebraska                       38
+Nevada                         33
+New Hampshire                  26
+New Jersey                     54
+New Mexico                     31
+New York                       43
+North Carolina                 25
+North Dakota                   51
+Ohio                           29
+Oklahoma                       31
+Oregon                         17
+Pennsylvania                   35
+Rhode Island                   38
+South Carolina                 24
+South Dakota                   43
+Tennessee                      35
+Texas                          27
+Utah                           27
+Vermont                        20
+Virginia                       24
+Washington                     30
+West Virginia                  27
+Wisconsin                      30
+Wyoming                        51

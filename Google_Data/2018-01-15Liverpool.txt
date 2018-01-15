@@ -1,0 +1,53 @@
+                      Liverpool
+geoName                        
+Alabama                      17
+Alaska                       15
+Arizona                      20
+Arkansas                     18
+California                   30
+Colorado                     25
+Connecticut                  42
+Delaware                     30
+District of Columbia         44
+Florida                      29
+Georgia                      25
+Hawaii                       18
+Idaho                        15
+Illinois                     29
+Indiana                      24
+Iowa                         20
+Kansas                       39
+Kentucky                     19
+Louisiana                    16
+Maine                        29
+Maryland                     37
+Massachusetts                53
+Michigan                     26
+Minnesota                    27
+Mississippi                  12
+Missouri                     23
+Montana                      16
+Nebraska                     22
+Nevada                       25
+New Hampshire                30
+New Jersey                   41
+New Mexico                   18
+New York                    100
+North Carolina               28
+North Dakota                 19
+Ohio                         53
+Oklahoma                     18
+Oregon                       42
+Pennsylvania                 41
+Rhode Island                 33
+South Carolina               26
+South Dakota                 16
+Tennessee                    19
+Texas                        29
+Utah                         20
+Vermont                      33
+Virginia                     57
+Washington                   26
+West Virginia                50
+Wisconsin                    21
+Wyoming                      14

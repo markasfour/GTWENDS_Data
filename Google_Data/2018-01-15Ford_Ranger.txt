@@ -1,0 +1,53 @@
+                      Ford Ranger
+geoName                          
+Alabama                        62
+Alaska                         64
+Arizona                        46
+Arkansas                       58
+California                     36
+Colorado                       46
+Connecticut                    32
+Delaware                       32
+District of Columbia           32
+Florida                        42
+Georgia                        59
+Hawaii                         55
+Idaho                          67
+Illinois                       34
+Indiana                        55
+Iowa                           55
+Kansas                         54
+Kentucky                       77
+Louisiana                      42
+Maine                          57
+Maryland                       26
+Massachusetts                  26
+Michigan                       50
+Minnesota                      38
+Mississippi                    66
+Missouri                       57
+Montana                        65
+Nebraska                       50
+Nevada                         44
+New Hampshire                  49
+New Jersey                     21
+New Mexico                     64
+New York                       19
+North Carolina                 59
+North Dakota                   49
+Ohio                           52
+Oklahoma                       49
+Oregon                         53
+Pennsylvania                   40
+Rhode Island                   39
+South Carolina                 61
+South Dakota                   49
+Tennessee                      67
+Texas                          41
+Utah                           49
+Vermont                        46
+Virginia                       38
+Washington                     58
+West Virginia                 100
+Wisconsin                      46
+Wyoming                        59

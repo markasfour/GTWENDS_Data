@@ -1,0 +1,53 @@
+                      Queen Victoria
+geoName                             
+Alabama                           77
+Alaska                            85
+Arizona                           86
+Arkansas                          76
+California                        73
+Colorado                          75
+Connecticut                       89
+Delaware                          95
+District of Columbia              70
+Florida                           72
+Georgia                           65
+Hawaii                            82
+Idaho                             95
+Illinois                          72
+Indiana                           81
+Iowa                              74
+Kansas                            70
+Kentucky                          75
+Louisiana                         72
+Maine                            100
+Maryland                          84
+Massachusetts                     88
+Michigan                          75
+Minnesota                         77
+Mississippi                       70
+Missouri                          74
+Montana                           89
+Nebraska                          68
+Nevada                            72
+New Hampshire                     91
+New Jersey                        82
+New Mexico                        92
+New York                          70
+North Carolina                    75
+North Dakota                      55
+Ohio                              74
+Oklahoma                          75
+Oregon                            73
+Pennsylvania                      82
+Rhode Island                      83
+South Carolina                    80
+South Dakota                      68
+Tennessee                         77
+Texas                             72
+Utah                             100
+Vermont                           94
+Virginia                          74
+Washington                        94
+West Virginia                     76
+Wisconsin                         73
+Wyoming                           81

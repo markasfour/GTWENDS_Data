@@ -1,0 +1,53 @@
+                      Stalin
+geoName                     
+Alabama                   78
+Alaska                    79
+Arizona                   86
+Arkansas                  82
+California               100
+Colorado                  80
+Connecticut               95
+Delaware                  68
+District of Columbia      68
+Florida                   65
+Georgia                   63
+Hawaii                    62
+Idaho                     89
+Illinois                  76
+Indiana                   90
+Iowa                      97
+Kansas                    85
+Kentucky                  72
+Louisiana                 63
+Maine                     92
+Maryland                  79
+Massachusetts             90
+Michigan                  82
+Minnesota                 80
+Mississippi               64
+Missouri                  82
+Montana                   75
+Nebraska                  85
+Nevada                    70
+New Hampshire             88
+New Jersey                91
+New Mexico                79
+New York                  82
+North Carolina            75
+North Dakota              84
+Ohio                      87
+Oklahoma                  73
+Oregon                    66
+Pennsylvania              84
+Rhode Island              84
+South Carolina            89
+South Dakota              85
+Tennessee                 68
+Texas                     71
+Utah                      76
+Vermont                   96
+Virginia                  75
+Washington                83
+West Virginia             80
+Wisconsin                 86
+Wyoming                   82

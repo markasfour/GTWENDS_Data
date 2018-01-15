@@ -1,0 +1,53 @@
+                      Matt Patricia
+geoName                            
+Alabama                           9
+Alaska                           13
+Arizona                          16
+Arkansas                          9
+California                       11
+Colorado                         15
+Connecticut                      42
+Delaware                         16
+District of Columbia             20
+Florida                          16
+Georgia                          11
+Hawaii                            9
+Idaho                             7
+Illinois                         15
+Indiana                          13
+Iowa                             12
+Kansas                            9
+Kentucky                         12
+Louisiana                        11
+Maine                            63
+Maryland                         17
+Massachusetts                   100
+Michigan                         52
+Minnesota                        11
+Mississippi                      10
+Missouri                          9
+Montana                          15
+Nebraska                         11
+Nevada                           12
+New Hampshire                    79
+New Jersey                       22
+New Mexico                       11
+New York                         23
+North Carolina                   14
+North Dakota                     11
+Ohio                             21
+Oklahoma                          9
+Oregon                            6
+Pennsylvania                     16
+Rhode Island                     86
+South Carolina                   12
+South Dakota                     13
+Tennessee                        11
+Texas                            11
+Utah                              9
+Vermont                          32
+Virginia                         13
+Washington                       10
+West Virginia                     9
+Wisconsin                        13
+Wyoming                          11

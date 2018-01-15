@@ -1,0 +1,53 @@
+                      Shameless
+geoName                        
+Alabama                      52
+Alaska                       60
+Arizona                      64
+Arkansas                     53
+California                   54
+Colorado                     62
+Connecticut                  89
+Delaware                     89
+District of Columbia         53
+Florida                      58
+Georgia                      48
+Hawaii                       43
+Idaho                        62
+Illinois                    100
+Indiana                      91
+Iowa                         87
+Kansas                       59
+Kentucky                     72
+Louisiana                    55
+Maine                        90
+Maryland                     71
+Massachusetts                83
+Michigan                     87
+Minnesota                    67
+Mississippi                  44
+Missouri                     74
+Montana                      76
+Nebraska                     76
+Nevada                       62
+New Hampshire                94
+New Jersey                   88
+New Mexico                   63
+New York                     77
+North Carolina               55
+North Dakota                 89
+Ohio                         83
+Oklahoma                     57
+Oregon                       46
+Pennsylvania                 90
+Rhode Island                 95
+South Carolina               55
+South Dakota                 73
+Tennessee                    55
+Texas                        54
+Utah                         49
+Vermont                      82
+Virginia                     49
+Washington                   58
+West Virginia                86
+Wisconsin                    77
+Wyoming                      68

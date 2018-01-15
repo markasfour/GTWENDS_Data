@@ -1,0 +1,53 @@
+                      Trophy
+geoName                     
+Alabama                   89
+Alaska                    90
+Arizona                   70
+Arkansas                  78
+California                63
+Colorado                  69
+Connecticut               65
+Delaware                  76
+District of Columbia      59
+Florida                   65
+Georgia                   75
+Hawaii                    64
+Idaho                     76
+Illinois                  72
+Indiana                   76
+Iowa                      89
+Kansas                    70
+Kentucky                  83
+Louisiana                 71
+Maine                     65
+Maryland                  66
+Massachusetts             66
+Michigan                  79
+Minnesota                 75
+Mississippi               82
+Missouri                  76
+Montana                   86
+Nebraska                  88
+Nevada                    70
+New Hampshire             75
+New Jersey                69
+New Mexico                65
+New York                  63
+North Carolina            77
+North Dakota             100
+Ohio                      76
+Oklahoma                  92
+Oregon                    57
+Pennsylvania              75
+Rhode Island              69
+South Carolina            78
+South Dakota              85
+Tennessee                 75
+Texas                     97
+Utah                      74
+Vermont                   74
+Virginia                  64
+Washington                80
+West Virginia             87
+Wisconsin                 82
+Wyoming                   95

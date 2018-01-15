@@ -1,0 +1,46 @@
+                      ISAC
+geoName                   
+Alabama                 27
+Arizona                 43
+Arkansas                31
+California              46
+Colorado                33
+Connecticut             40
+District of Columbia    77
+Florida                 35
+Georgia                 31
+Hawaii                  59
+Idaho                   45
+Illinois                92
+Indiana                 33
+Iowa                   100
+Kansas                  32
+Kentucky                28
+Louisiana               29
+Maine                   40
+Maryland                46
+Massachusetts           48
+Michigan                30
+Minnesota               38
+Mississippi             30
+Missouri                31
+Nebraska                34
+Nevada                  39
+New Hampshire           33
+New Jersey              39
+New Mexico              35
+New York                37
+North Carolina          32
+Ohio                    29
+Oklahoma                33
+Oregon                  47
+Pennsylvania            30
+Rhode Island            32
+South Carolina          28
+South Dakota            34
+Tennessee               27
+Texas                   35
+Utah                    35
+Virginia                51
+Washington              37
+Wisconsin               31
