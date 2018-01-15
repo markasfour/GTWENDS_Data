@@ -1,0 +1,52 @@
+                2019 Chevy Silverado
+geoName                             
+Alabama                           31
+Alaska                            29
+Arizona                           27
+Arkansas                          45
+California                        14
+Colorado                          18
+Connecticut                       14
+Delaware                          26
+Florida                           14
+Georgia                           21
+Hawaii                             8
+Idaho                             32
+Illinois                          17
+Indiana                           29
+Iowa                              38
+Kansas                            21
+Kentucky                          34
+Louisiana                         40
+Maine                             34
+Maryland                          11
+Massachusetts                     10
+Michigan                          44
+Minnesota                         38
+Mississippi                       41
+Missouri                          27
+Montana                           24
+Nebraska                          36
+Nevada                            19
+New Hampshire                     26
+New Jersey                         9
+New Mexico                        29
+New York                          12
+North Carolina                    21
+North Dakota                     100
+Ohio                              28
+Oklahoma                          36
+Oregon                             9
+Pennsylvania                      23
+Rhode Island                       4
+South Carolina                    20
+South Dakota                      59
+Tennessee                         19
+Texas                             36
+Utah                              20
+Vermont                           22
+Virginia                          10
+Washington                        12
+West Virginia                     47
+Wisconsin                         35
+Wyoming                           52

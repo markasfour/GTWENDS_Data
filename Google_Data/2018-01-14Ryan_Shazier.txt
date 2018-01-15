@@ -1,0 +1,53 @@
+                      Ryan Shazier
+geoName                           
+Alabama                         22
+Alaska                          18
+Arizona                         28
+Arkansas                        20
+California                      20
+Colorado                        31
+Connecticut                     29
+Delaware                        46
+District of Columbia            14
+Florida                         25
+Georgia                         24
+Hawaii                          20
+Idaho                           24
+Illinois                        21
+Indiana                         29
+Iowa                            31
+Kansas                          19
+Kentucky                        29
+Louisiana                       22
+Maine                           21
+Maryland                        46
+Massachusetts                   26
+Michigan                        27
+Minnesota                       24
+Mississippi                     26
+Missouri                        21
+Montana                         38
+Nebraska                        28
+Nevada                          23
+New Hampshire                   24
+New Jersey                      30
+New Mexico                      29
+New York                        21
+North Carolina                  32
+North Dakota                    41
+Ohio                            87
+Oklahoma                        17
+Oregon                          15
+Pennsylvania                   100
+Rhode Island                    28
+South Carolina                  31
+South Dakota                    38
+Tennessee                       25
+Texas                           21
+Utah                            22
+Vermont                         19
+Virginia                        30
+Washington                      23
+West Virginia                   78
+Wisconsin                       31
+Wyoming                         35

@@ -8,7 +8,7 @@ California                  13
 Colorado                    17
 Connecticut                 17
 Delaware                    36
-District of Columbia        35
+District of Columbia        36
 Florida                     17
 Georgia                     18
 Hawaii                      20
@@ -24,29 +24,29 @@ Maryland                    35
 Massachusetts               13
 Michigan                    17
 Minnesota                   10
-Mississippi                 22
+Mississippi                 21
 Missouri                    13
 Montana                     23
 Nebraska                    17
-Nevada                      22
+Nevada                      21
 New Hampshire               13
 New Jersey                  20
 New Mexico                  35
 New York                    16
 North Carolina              27
-North Dakota                19
+North Dakota                18
 Ohio                        50
-Oklahoma                    13
+Oklahoma                    12
 Oregon                       8
 Pennsylvania               100
 Rhode Island                16
-South Carolina              32
-South Dakota                22
+South Carolina              31
+South Dakota                21
 Tennessee                   21
 Texas                       15
 Utah                        15
-Vermont                     14
-Virginia                    29
+Vermont                     13
+Virginia                    28
 Washington                  12
 West Virginia               81
 Wisconsin                   12

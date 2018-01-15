@@ -1,53 +1,53 @@
                       Liverpool
 geoName                        
 Alabama                      17
-Alaska                       14
-Arizona                      19
+Alaska                       15
+Arizona                      20
 Arkansas                     18
 California                   30
-Colorado                     25
+Colorado                     24
 Connecticut                  40
-Delaware                     31
+Delaware                     30
 District of Columbia         43
-Florida                      29
-Georgia                      24
-Hawaii                       18
-Idaho                        15
-Illinois                     29
+Florida                      28
+Georgia                      25
+Hawaii                       17
+Idaho                        14
+Illinois                     28
 Indiana                      23
-Iowa                         20
-Kansas                       39
+Iowa                         21
+Kansas                       38
 Kentucky                     19
 Louisiana                    15
 Maine                        28
 Maryland                     37
-Massachusetts                52
-Michigan                     25
+Massachusetts                51
+Michigan                     26
 Minnesota                    27
 Mississippi                  12
 Missouri                     24
 Montana                      15
-Nebraska                     22
-Nevada                       25
+Nebraska                     21
+Nevada                       24
 New Hampshire                29
 New Jersey                   40
-New Mexico                   17
+New Mexico                   18
 New York                    100
 North Carolina               27
 North Dakota                 19
 Ohio                         52
-Oklahoma                     17
-Oregon                       41
-Pennsylvania                 40
+Oklahoma                     18
+Oregon                       42
+Pennsylvania                 39
 Rhode Island                 33
 South Carolina               26
 South Dakota                 17
 Tennessee                    19
 Texas                        29
 Utah                         20
-Vermont                      32
+Vermont                      31
 Virginia                     56
 Washington                   25
-West Virginia                50
+West Virginia                48
 Wisconsin                    21
 Wyoming                      15

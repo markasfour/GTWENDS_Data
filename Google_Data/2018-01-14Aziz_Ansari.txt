@@ -1,53 +1,53 @@
                       Aziz Ansari
 geoName                          
-Alabama                        34
-Alaska                         42
-Arizona                        51
-Arkansas                       31
-California                     69
-Colorado                       59
-Connecticut                    58
-Delaware                       63
+Alabama                        33
+Alaska                         37
+Arizona                        50
+Arkansas                       32
+California                     68
+Colorado                       61
+Connecticut                    59
+Delaware                       59
 District of Columbia          100
 Florida                        41
 Georgia                        46
 Hawaii                         42
-Idaho                          36
-Illinois                       69
-Indiana                        49
-Iowa                           45
-Kansas                         41
+Idaho                          35
+Illinois                       66
+Indiana                        46
+Iowa                           44
+Kansas                         38
 Kentucky                       41
-Louisiana                      43
-Maine                          49
-Maryland                       66
-Massachusetts                  74
+Louisiana                      44
+Maine                          48
+Maryland                       64
+Massachusetts                  73
 Michigan                       54
-Minnesota                      58
+Minnesota                      56
 Mississippi                    29
 Missouri                       48
 Montana                        38
-Nebraska                       45
-Nevada                         46
+Nebraska                       43
+Nevada                         45
 New Hampshire                  45
-New Jersey                     63
-New Mexico                     38
+New Jersey                     62
+New Mexico                     39
 New York                       83
 North Carolina                 48
-North Dakota                   41
-Ohio                           52
-Oklahoma                       48
+North Dakota                   40
+Ohio                           51
+Oklahoma                       49
 Oregon                         52
-Pennsylvania                   61
-Rhode Island                   66
+Pennsylvania                   59
+Rhode Island                   65
 South Carolina                 59
-South Dakota                   33
-Tennessee                      45
-Texas                          54
-Utah                           43
-Vermont                        62
-Virginia                       83
-Washington                     66
-West Virginia                  42
+South Dakota                   30
+Tennessee                      46
+Texas                          52
+Utah                           39
+Vermont                        58
+Virginia                       82
+Washington                     65
+West Virginia                  40
 Wisconsin                      51
-Wyoming                        41
+Wyoming                        40

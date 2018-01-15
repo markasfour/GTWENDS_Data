@@ -1,53 +1,53 @@
                       Sharon Stone
 geoName                           
-Alabama                         77
-Alaska                          79
-Arizona                         79
-Arkansas                        80
+Alabama                         69
+Alaska                          67
+Arizona                         82
+Arkansas                        75
 California                      80
-Colorado                        76
-Connecticut                     83
-Delaware                        73
-District of Columbia            73
+Colorado                        79
+Connecticut                     80
+Delaware                        75
+District of Columbia            74
 Florida                         78
-Georgia                         76
-Hawaii                          67
-Idaho                           77
-Illinois                        83
+Georgia                         77
+Hawaii                          71
+Idaho                           78
+Illinois                        81
 Indiana                         76
-Iowa                            85
-Kansas                          76
-Kentucky                        83
+Iowa                            87
+Kansas                          74
+Kentucky                        87
 Louisiana                       80
-Maine                           75
+Maine                           77
 Maryland                        75
 Massachusetts                   79
-Michigan                        77
+Michigan                        81
 Minnesota                       81
-Mississippi                     77
-Missouri                        80
+Mississippi                     78
+Missouri                        82
 Montana                        100
-Nebraska                        82
-Nevada                          84
-New Hampshire                   77
-New Jersey                      81
-New Mexico                      81
-New York                        84
-North Carolina                  72
-North Dakota                    89
+Nebraska                        89
+Nevada                          87
+New Hampshire                   76
+New Jersey                      83
+New Mexico                      83
+New York                        87
+North Carolina                  73
+North Dakota                    82
 Ohio                            82
-Oklahoma                        89
-Oregon                          64
-Pennsylvania                    88
-Rhode Island                    75
-South Carolina                  75
-South Dakota                    88
-Tennessee                       79
-Texas                           74
-Utah                            74
-Vermont                         69
-Virginia                        70
-Washington                      76
-West Virginia                   79
-Wisconsin                       79
-Wyoming                         99
+Oklahoma                        87
+Oregon                          66
+Pennsylvania                    87
+Rhode Island                    76
+South Carolina                  76
+South Dakota                    84
+Tennessee                       81
+Texas                           73
+Utah                            73
+Vermont                         78
+Virginia                        71
+Washington                      77
+West Virginia                   85
+Wisconsin                       80
+Wyoming                         91
