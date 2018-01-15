@@ -1,0 +1,53 @@
+                      Negro
+geoName                    
+Alabama                  31
+Alaska                   16
+Arizona                  36
+Arkansas                 32
+California               48
+Colorado                 30
+Connecticut              32
+Delaware                 29
+District of Columbia     50
+Florida                  60
+Georgia                  43
+Hawaii                   15
+Idaho                    17
+Illinois                 36
+Indiana                  24
+Iowa                     18
+Kansas                   45
+Kentucky                 21
+Louisiana                43
+Maine                    15
+Maryland                 41
+Massachusetts            31
+Michigan                 24
+Minnesota                21
+Mississippi              32
+Missouri                 29
+Montana                  12
+Nebraska                 23
+Nevada                   40
+New Hampshire            15
+New Jersey               44
+New Mexico               37
+New York                 50
+North Carolina           32
+North Dakota             13
+Ohio                     21
+Oklahoma                 31
+Oregon                  100
+Pennsylvania             26
+Rhode Island             31
+South Carolina           30
+South Dakota             14
+Tennessee                27
+Texas                    62
+Utah                     28
+Vermont                  20
+Virginia                 45
+Washington               25
+West Virginia            16
+Wisconsin                21
+Wyoming                  19

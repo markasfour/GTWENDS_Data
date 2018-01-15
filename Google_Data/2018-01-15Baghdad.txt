@@ -1,53 +1,53 @@
                       Baghdad
 geoName                      
-Alabama                    37
-Alaska                     45
-Arizona                    44
+Alabama                    36
+Alaska                     39
+Arizona                    46
 Arkansas                   35
-California                 42
-Colorado                   45
-Connecticut                40
-Delaware                   31
+California                 43
+Colorado                   44
+Connecticut                42
+Delaware                   32
 District of Columbia      100
-Florida                    35
-Georgia                    38
-Hawaii                     37
-Idaho                      45
+Florida                    36
+Georgia                    39
+Hawaii                     34
+Idaho                      40
 Illinois                   40
-Indiana                    36
-Iowa                       32
-Kansas                     39
-Kentucky                   41
-Louisiana                  31
-Maine                      47
-Maryland                   51
-Massachusetts              45
-Michigan                   64
-Minnesota                  36
-Mississippi                27
-Missouri                   40
-Montana                    36
-Nebraska                   42
-Nevada                     35
-New Hampshire              43
-New Jersey                 37
-New Mexico                 40
-New York                   41
-North Carolina             39
-North Dakota               38
+Indiana                    38
+Iowa                       34
+Kansas                     37
+Kentucky                   42
+Louisiana                  33
+Maine                      48
+Maryland                   52
+Massachusetts              46
+Michigan                   66
+Minnesota                  37
+Mississippi                28
+Missouri                   38
+Montana                    35
+Nebraska                   41
+Nevada                     36
+New Hampshire              42
+New Jersey                 38
+New Mexico                 43
+New York                   44
+North Carolina             40
+North Dakota               42
 Ohio                       37
-Oklahoma                   37
-Oregon                     61
-Pennsylvania               38
-Rhode Island               42
-South Carolina             34
-South Dakota               37
+Oklahoma                   36
+Oregon                     59
+Pennsylvania               37
+Rhode Island               40
+South Carolina             35
+South Dakota               41
 Tennessee                  38
-Texas                      40
+Texas                      41
 Utah                       34
-Vermont                    56
-Virginia                   58
+Vermont                    58
+Virginia                   56
 Washington                 46
-West Virginia              35
+West Virginia              34
 Wisconsin                  36
-Wyoming                    36
+Wyoming                    33

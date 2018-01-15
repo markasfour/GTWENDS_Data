@@ -3,8 +3,8 @@ AK 1
 AZ 1
 AR 0
 CA 3
-CO 15
-CT 0
+CO 13
+CT 2
 DE 0
 DC 0
 FL 1
@@ -28,10 +28,10 @@ MT 0
 NE 0
 NV 0
 NH 0
-NJ 0
+NJ 2
 NM 0
 NY 0
-NC 0
+NC 1
 ND 0
 OH 0
 OK 0

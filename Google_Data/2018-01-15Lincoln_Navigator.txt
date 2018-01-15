@@ -1,0 +1,52 @@
+                      Lincoln Navigator
+geoName                                
+Alabama                              75
+Alaska                               69
+Arizona                              81
+Arkansas                             78
+California                           63
+Colorado                             66
+Connecticut                          46
+Delaware                             67
+District of Columbia                 69
+Florida                              85
+Georgia                              90
+Hawaii                               44
+Idaho                                61
+Illinois                             79
+Indiana                              69
+Iowa                                 62
+Kansas                               64
+Kentucky                             77
+Louisiana                            90
+Maine                                41
+Maryland                             66
+Massachusetts                        51
+Michigan                             92
+Minnesota                            67
+Mississippi                          94
+Missouri                             73
+Montana                              71
+Nebraska                             81
+Nevada                               85
+New Hampshire                        45
+New Jersey                           68
+New Mexico                           80
+New York                             60
+North Carolina                       69
+North Dakota                         95
+Ohio                                 58
+Oklahoma                             96
+Oregon                               40
+Pennsylvania                         61
+Rhode Island                         46
+South Carolina                       76
+South Dakota                         91
+Tennessee                            76
+Texas                               100
+Utah                                 54
+Virginia                             58
+Washington                           54
+West Virginia                        72
+Wisconsin                            66
+Wyoming                              79

@@ -1,53 +1,53 @@
                       G Eazy
 geoName                     
-Alabama                   32
-Alaska                    54
-Arizona                   65
-Arkansas                  37
-California                63
+Alabama                   33
+Alaska                    57
+Arizona                   67
+Arkansas                  39
+California                66
 Colorado                  59
-Connecticut               37
-Delaware                  35
-District of Columbia      33
-Florida                   29
+Connecticut               40
+Delaware                  34
+District of Columbia      34
+Florida                   31
 Georgia                   32
-Hawaii                    45
+Hawaii                    46
 Idaho                     69
-Illinois                  41
-Indiana                   48
-Iowa                      49
-Kansas                    42
-Kentucky                  34
-Louisiana                 36
-Maine                     39
+Illinois                  43
+Indiana                   50
+Iowa                      50
+Kansas                    43
+Kentucky                  35
+Louisiana                 37
+Maine                     42
 Maryland                  28
-Massachusetts             35
-Michigan                  48
-Minnesota                 56
-Mississippi               28
-Missouri                  46
-Montana                   56
-Nebraska                  53
+Massachusetts             36
+Michigan                  50
+Minnesota                 59
+Mississippi               29
+Missouri                  47
+Montana                   58
+Nebraska                  59
 Nevada                    66
-New Hampshire             41
-New Jersey                28
+New Hampshire             39
+New Jersey                30
 New Mexico               100
-New York                  28
-North Carolina            36
-North Dakota              66
-Ohio                      42
-Oklahoma                  35
-Oregon                    38
-Pennsylvania              36
-Rhode Island              38
-South Carolina            32
-South Dakota              66
-Tennessee                 33
-Texas                     43
-Utah                      71
-Vermont                   36
-Virginia                  27
-Washington                50
-West Virginia             33
-Wisconsin                 49
-Wyoming                   55
+New York                  30
+North Carolina            37
+North Dakota              63
+Ohio                      44
+Oklahoma                  36
+Oregon                    42
+Pennsylvania              37
+Rhode Island              37
+South Carolina            34
+South Dakota              67
+Tennessee                 34
+Texas                     44
+Utah                      72
+Vermont                   39
+Virginia                  28
+Washington                52
+West Virginia             37
+Wisconsin                 50
+Wyoming                   64

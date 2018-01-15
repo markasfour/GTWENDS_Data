@@ -1,0 +1,53 @@
+                      Jakarta
+geoName                      
+Alabama                     5
+Alaska                     15
+Arizona                    10
+Arkansas                    6
+California                 19
+Colorado                   12
+Connecticut                16
+Delaware                   10
+District of Columbia       31
+Florida                     8
+Georgia                     9
+Hawaii                     22
+Idaho                       8
+Illinois                   11
+Indiana                     7
+Iowa                        7
+Kansas                     86
+Kentucky                    6
+Louisiana                   7
+Maine                       7
+Maryland                   15
+Massachusetts              12
+Michigan                    7
+Minnesota                   8
+Mississippi                 6
+Missouri                    7
+Montana                     7
+Nebraska                    6
+Nevada                     11
+New Hampshire              11
+New Jersey                 11
+New Mexico                  8
+New York                   20
+North Carolina              9
+North Dakota                6
+Ohio                        7
+Oklahoma                    7
+Oregon                    100
+Pennsylvania                9
+Rhode Island                9
+South Carolina              5
+South Dakota                6
+Tennessee                   7
+Texas                      17
+Utah                        9
+Vermont                     8
+Virginia                   78
+Washington                 17
+West Virginia               5
+Wisconsin                   9
+Wyoming                     8

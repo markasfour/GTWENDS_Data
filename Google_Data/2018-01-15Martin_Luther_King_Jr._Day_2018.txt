@@ -1,38 +1,47 @@
-                Martin Luther King Jr. Day 2018
-geoName                                        
-Alabama                                      42
-Arizona                                      21
-Arkansas                                    100
-California                                   31
-Colorado                                     45
-Connecticut                                  26
-Florida                                      43
-Georgia                                      31
-Hawaii                                       71
-Illinois                                     22
-Indiana                                      19
-Kansas                                       55
-Kentucky                                     26
-Louisiana                                    27
-Maryland                                     36
-Massachusetts                                38
-Michigan                                     24
-Minnesota                                    16
-Mississippi                                  51
-Missouri                                     49
-Nevada                                       64
-New Jersey                                   24
-New Mexico                                   66
-New York                                     39
-North Carolina                               14
-Ohio                                         21
-Oklahoma                                     29
-Oregon                                       17
-Pennsylvania                                 28
-South Carolina                               27
-Tennessee                                    57
-Texas                                        31
-Utah                                         33
-Virginia                                     30
-Washington                                   25
-Wisconsin                                    20
+                      Martin Luther King Jr. Day 2018
+geoName                                              
+Alabama                                            15
+Arizona                                             8
+Arkansas                                           83
+California                                         19
+Colorado                                           28
+Connecticut                                        14
+Delaware                                           77
+District of Columbia                               30
+Florida                                            22
+Georgia                                            19
+Hawaii                                             59
+Idaho                                              59
+Illinois                                           16
+Indiana                                            16
+Iowa                                               24
+Kansas                                             19
+Kentucky                                           14
+Louisiana                                          29
+Maine                                             100
+Maryland                                           28
+Massachusetts                                      12
+Michigan                                           19
+Minnesota                                          26
+Mississippi                                        28
+Missouri                                           13
+Nebraska                                           69
+Nevada                                             35
+New Hampshire                                      41
+New Jersey                                         16
+New Mexico                                         48
+New York                                           19
+North Carolina                                     20
+Ohio                                               24
+Oklahoma                                           16
+Oregon                                             14
+Pennsylvania                                       14
+Rhode Island                                       51
+South Carolina                                     30
+Tennessee                                          30
+Texas                                              17
+Utah                                               37
+Virginia                                            8
+Washington                                         13
+West Virginia                                      45
+Wisconsin                                          17

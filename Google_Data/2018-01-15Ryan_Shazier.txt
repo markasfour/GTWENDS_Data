@@ -1,53 +1,53 @@
                       Ryan Shazier
 geoName                           
-Alabama                         22
-Alaska                          18
+Alabama                         24
+Alaska                          17
 Arizona                         29
 Arkansas                        20
 California                      20
-Colorado                        32
+Colorado                        33
 Connecticut                     30
-Delaware                        45
+Delaware                        44
 District of Columbia            14
 Florida                         26
 Georgia                         24
-Hawaii                          21
-Idaho                           27
-Illinois                        22
-Indiana                         28
-Iowa                            30
-Kansas                          20
-Kentucky                        30
+Hawaii                          20
+Idaho                           26
+Illinois                        21
+Indiana                         27
+Iowa                            33
+Kansas                          19
+Kentucky                        31
 Louisiana                       22
-Maine                           22
+Maine                           24
 Maryland                        46
 Massachusetts                   27
-Michigan                        27
+Michigan                        28
 Minnesota                       25
-Mississippi                     26
+Mississippi                     27
 Missouri                        21
-Montana                         34
-Nebraska                        28
+Montana                         37
+Nebraska                        30
 Nevada                          25
-New Hampshire                   27
-New Jersey                      30
-New Mexico                      30
-New York                        21
-North Carolina                  32
+New Hampshire                   26
+New Jersey                      29
+New Mexico                      31
+New York                        20
+North Carolina                  33
 North Dakota                    42
-Ohio                            88
-Oklahoma                        16
+Ohio                            92
+Oklahoma                        17
 Oregon                          15
 Pennsylvania                   100
-Rhode Island                    30
-South Carolina                  32
-South Dakota                    37
-Tennessee                       25
-Texas                           21
+Rhode Island                    29
+South Carolina                  34
+South Dakota                    31
+Tennessee                       26
+Texas                           22
 Utah                            23
-Vermont                         19
-Virginia                        30
+Vermont                         23
+Virginia                        31
 Washington                      23
-West Virginia                   74
-Wisconsin                       31
-Wyoming                         35
+West Virginia                   72
+Wisconsin                       30
+Wyoming                         38

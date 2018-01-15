@@ -1,52 +1,52 @@
                 2019 Chevy Silverado
 geoName                             
-Alabama                           26
-Alaska                            19
-Arizona                           26
-Arkansas                          47
-California                        14
-Colorado                          14
+Alabama                           29
+Alaska                            14
+Arizona                           25
+Arkansas                          44
+California                        13
+Colorado                          17
 Connecticut                       11
-Delaware                          22
+Delaware                          13
 Florida                           14
-Georgia                           21
-Hawaii                             3
-Idaho                             25
-Illinois                          13
-Indiana                           28
-Iowa                              37
-Kansas                            19
-Kentucky                          26
-Louisiana                         39
-Maine                             27
-Maryland                           6
+Georgia                           20
+Hawaii                             5
+Idaho                             34
+Illinois                          15
+Indiana                           24
+Iowa                              31
+Kansas                            16
+Kentucky                          27
+Louisiana                         43
+Maine                             31
+Maryland                           7
 Massachusetts                      9
-Michigan                          41
-Minnesota                         32
-Mississippi                       35
-Missouri                          26
-Montana                           32
+Michigan                          38
+Minnesota                         33
+Mississippi                       23
+Missouri                          23
+Montana                           43
 Nebraska                          33
-Nevada                            20
-New Hampshire                     23
+Nevada                            17
+New Hampshire                     27
 New Jersey                         7
-New Mexico                        25
+New Mexico                        29
 New York                          11
-North Carolina                    19
+North Carolina                    20
 North Dakota                     100
-Ohio                              23
-Oklahoma                          31
-Oregon                             6
+Ohio                              21
+Oklahoma                          32
+Oregon                             9
 Pennsylvania                      21
 Rhode Island                      12
-South Carolina                    21
-South Dakota                      54
-Tennessee                         18
-Texas                             34
-Utah                              24
-Vermont                           10
-Virginia                           9
-Washington                        11
-West Virginia                     31
-Wisconsin                         35
-Wyoming                           44
+South Carolina                    19
+South Dakota                      46
+Tennessee                         19
+Texas                             32
+Utah                              21
+Vermont                           19
+Virginia                           8
+Washington                        13
+West Virginia                     39
+Wisconsin                         26
+Wyoming                           42

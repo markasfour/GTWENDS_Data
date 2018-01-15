@@ -1,0 +1,53 @@
+                      Eagles
+geoName                     
+Alabama                   12
+Alaska                    12
+Arizona                   12
+Arkansas                  11
+California                 9
+Colorado                  14
+Connecticut               13
+Delaware                 100
+District of Columbia      41
+Florida                   13
+Georgia                   16
+Hawaii                    10
+Idaho                     12
+Illinois                  10
+Indiana                   13
+Iowa                      17
+Kansas                    10
+Kentucky                  11
+Louisiana                 11
+Maine                     12
+Maryland                  21
+Massachusetts             11
+Michigan                  11
+Minnesota                 14
+Mississippi               14
+Missouri                  12
+Montana                   15
+Nebraska                  14
+Nevada                    12
+New Hampshire             11
+New Jersey                43
+New Mexico                17
+New York                  12
+North Carolina            16
+North Dakota              31
+Ohio                      13
+Oklahoma                  12
+Oregon                     8
+Pennsylvania              85
+Rhode Island              11
+South Carolina            18
+South Dakota              17
+Tennessee                 12
+Texas                     13
+Utah                      11
+Vermont                   12
+Virginia                  20
+Washington                12
+West Virginia             15
+Wisconsin                 14
+Wyoming                   18
