@@ -1,38 +1,41 @@
                       Edwin Hawkins
 geoName                            
-Alabama                          73
-Arizona                          20
-Arkansas                         40
-California                       33
-Colorado                         26
-Connecticut                      31
-Delaware                         54
-District of Columbia             83
-Florida                          26
-Georgia                          69
-Illinois                         49
-Indiana                          42
-Kansas                           35
-Kentucky                         43
-Louisiana                        58
-Maryland                         88
-Massachusetts                    18
-Michigan                         42
-Minnesota                        17
+Alabama                          79
+Arizona                          21
+Arkansas                         47
+California                       39
+Colorado                         23
+Connecticut                      34
+Delaware                         35
+District of Columbia             98
+Florida                          28
+Georgia                          73
+Illinois                         56
+Indiana                          43
+Iowa                             17
+Kansas                           34
+Kentucky                         55
+Louisiana                        66
+Maryland                         91
+Massachusetts                    22
+Michigan                         47
+Minnesota                        18
 Mississippi                     100
-Missouri                         53
-Nevada                           42
+Missouri                         41
+Nebraska                         24
+Nevada                           41
 New Jersey                       37
-New York                         32
-North Carolina                   59
-Ohio                             40
-Oklahoma                         28
-Oregon                           21
-Pennsylvania                     43
-South Carolina                   53
-Tennessee                        75
-Texas                            46
-Virginia                         43
-Washington                       23
-West Virginia                    29
-Wisconsin                        20
+New Mexico                       24
+New York                         35
+North Carolina                   64
+Ohio                             38
+Oklahoma                         37
+Oregon                           22
+Pennsylvania                     50
+South Carolina                   61
+Tennessee                        82
+Texas                            44
+Virginia                         52
+Washington                       28
+West Virginia                    36
+Wisconsin                        25

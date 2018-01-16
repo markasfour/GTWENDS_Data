@@ -1,0 +1,53 @@
+                      Harrow
+geoName                     
+Alabama                   65
+Alaska                    33
+Arizona                   31
+Arkansas                  57
+California                38
+Colorado                  55
+Connecticut               57
+Delaware                  43
+District of Columbia      44
+Florida                   36
+Georgia                   61
+Hawaii                    27
+Idaho                     68
+Illinois                  45
+Indiana                   42
+Iowa                      58
+Kansas                    57
+Kentucky                  72
+Louisiana                 48
+Maine                     69
+Maryland                  48
+Massachusetts             52
+Michigan                  49
+Minnesota                 50
+Mississippi               66
+Missouri                  52
+Montana                   77
+Nebraska                  55
+Nevada                    29
+New Hampshire             59
+New Jersey                44
+New Mexico                38
+New York                  53
+North Carolina            51
+North Dakota             100
+Ohio                      41
+Oklahoma                  49
+Oregon                    50
+Pennsylvania              53
+Rhode Island              46
+South Carolina            55
+South Dakota              63
+Tennessee                 53
+Texas                     50
+Utah                      47
+Vermont                   76
+Virginia                  45
+Washington                45
+West Virginia             39
+Wisconsin                 49
+Wyoming                   70

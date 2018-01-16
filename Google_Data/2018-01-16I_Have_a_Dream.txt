@@ -1,53 +1,53 @@
                       I Have a Dream
 geoName                             
-Alabama                           85
-Alaska                            65
-Arizona                           70
-Arkansas                          94
-California                        68
-Colorado                          76
-Connecticut                       79
-Delaware                          77
-District of Columbia              65
-Florida                           67
-Georgia                           79
+Alabama                           91
+Alaska                            68
+Arizona                           72
+Arkansas                          96
+California                        70
+Colorado                          77
+Connecticut                       81
+Delaware                          78
+District of Columbia              69
+Florida                           69
+Georgia                           82
 Hawaii                            67
-Idaho                             77
-Illinois                          67
-Indiana                           84
-Iowa                              84
-Kansas                            74
-Kentucky                          70
+Idaho                             79
+Illinois                          71
+Indiana                           88
+Iowa                              90
+Kansas                            78
+Kentucky                          69
 Louisiana                         78
-Maine                             77
-Maryland                          82
-Massachusetts                     63
-Michigan                          67
-Minnesota                         64
+Maine                             80
+Maryland                          85
+Massachusetts                     66
+Michigan                          69
+Minnesota                         66
 Mississippi                      100
-Missouri                          70
+Missouri                          73
 Montana                           56
-Nebraska                          65
-Nevada                            63
-New Hampshire                     63
-New Jersey                        76
+Nebraska                          68
+Nevada                            68
+New Hampshire                     68
+New Jersey                        82
 New Mexico                        84
-New York                          62
-North Carolina                    79
-North Dakota                      65
-Ohio                              73
-Oklahoma                          71
-Oregon                            54
-Pennsylvania                      67
-Rhode Island                      75
-South Carolina                    83
-South Dakota                      78
-Tennessee                         76
-Texas                             67
-Utah                              82
-Vermont                           82
-Virginia                          63
-Washington                        55
-West Virginia                     80
-Wisconsin                         69
+New York                          65
+North Carolina                    82
+North Dakota                      71
+Ohio                              75
+Oklahoma                          73
+Oregon                            58
+Pennsylvania                      70
+Rhode Island                      78
+South Carolina                    84
+South Dakota                      80
+Tennessee                         80
+Texas                             70
+Utah                              84
+Vermont                           88
+Virginia                          66
+Washington                        57
+West Virginia                     84
+Wisconsin                         70
 Wyoming                           69

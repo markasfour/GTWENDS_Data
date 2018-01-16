@@ -1,53 +1,53 @@
                       Coretta Scott King
 geoName                                 
-Alabama                               98
-Alaska                                23
-Arizona                               25
-Arkansas                              62
+Alabama                               97
+Alaska                                25
+Arizona                               26
+Arkansas                              59
 California                            31
 Colorado                              26
-Connecticut                           40
-Delaware                              38
-District of Columbia                  60
-Florida                               38
-Georgia                               99
-Hawaii                                19
-Idaho                                 25
+Connecticut                           38
+Delaware                              47
+District of Columbia                  58
+Florida                               39
+Georgia                              100
+Hawaii                                17
+Idaho                                 24
 Illinois                              52
-Indiana                               43
-Iowa                                  36
+Indiana                               41
+Iowa                                  34
 Kansas                                34
-Kentucky                              36
-Louisiana                             57
-Maine                                 27
-Maryland                              65
+Kentucky                              35
+Louisiana                             60
+Maine                                 29
+Maryland                              69
 Massachusetts                         38
-Michigan                              44
-Minnesota                             31
-Mississippi                          100
-Missouri                              45
-Montana                               28
-Nebraska                              34
-Nevada                                29
-New Hampshire                         21
-New Jersey                            47
-New Mexico                            35
+Michigan                              43
+Minnesota                             29
+Mississippi                           96
+Missouri                              44
+Montana                               24
+Nebraska                              33
+Nevada                                31
+New Hampshire                         23
+New Jersey                            50
+New Mexico                            30
 New York                              44
-North Carolina                        58
-North Dakota                          17
+North Carolina                        57
+North Dakota                          20
 Ohio                                  42
-Oklahoma                              32
-Oregon                                23
-Pennsylvania                          43
-Rhode Island                          42
-South Carolina                        63
-South Dakota                          29
+Oklahoma                              30
+Oregon                                25
+Pennsylvania                          41
+Rhode Island                          41
+South Carolina                        60
+South Dakota                          25
 Tennessee                             48
 Texas                                 34
-Utah                                  19
-Vermont                               46
-Virginia                              39
+Utah                                  20
+Vermont                               39
+Virginia                              38
 Washington                            30
 West Virginia                         37
 Wisconsin                             34
-Wyoming                               27
+Wyoming                               24

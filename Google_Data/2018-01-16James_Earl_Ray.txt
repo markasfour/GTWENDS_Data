@@ -1,53 +1,53 @@
                       James Earl Ray
 geoName                             
-Alabama                           57
-Alaska                            43
-Arizona                           34
-Arkansas                          56
+Alabama                           55
+Alaska                            28
+Arizona                           33
+Arkansas                          64
 California                        31
-Colorado                          33
-Connecticut                       39
-Delaware                          39
-District of Columbia              34
+Colorado                          30
+Connecticut                       36
+Delaware                          44
+District of Columbia              36
 Florida                           38
 Georgia                           54
-Hawaii                            24
-Idaho                             25
+Hawaii                            22
+Idaho                             28
 Illinois                          46
-Indiana                           53
-Iowa                              44
-Kansas                            47
-Kentucky                          49
+Indiana                           55
+Iowa                              46
+Kansas                            44
+Kentucky                          47
 Louisiana                         50
-Maine                             44
-Maryland                          46
-Massachusetts                     36
-Michigan                          49
-Minnesota                         39
-Mississippi                       66
-Missouri                          63
-Montana                           36
-Nebraska                          38
-Nevada                            33
-New Hampshire                     36
+Maine                             43
+Maryland                          44
+Massachusetts                     34
+Michigan                          48
+Minnesota                         36
+Mississippi                       77
+Missouri                          59
+Montana                           38
+Nebraska                          41
+Nevada                            32
+New Hampshire                     28
 New Jersey                        46
-New Mexico                        40
-New York                          35
-North Carolina                    50
-North Dakota                      42
-Ohio                              51
-Oklahoma                          46
-Oregon                            24
+New Mexico                        29
+New York                          34
+North Carolina                    48
+North Dakota                      44
+Ohio                              52
+Oklahoma                          45
+Oregon                            22
 Pennsylvania                      43
-Rhode Island                      38
-South Carolina                    52
-South Dakota                      47
+Rhode Island                      37
+South Carolina                    50
+South Dakota                      36
 Tennessee                        100
-Texas                             37
-Utah                              25
-Vermont                           41
-Virginia                          35
-Washington                        34
-West Virginia                     46
-Wisconsin                         40
-Wyoming                           48
+Texas                             35
+Utah                              23
+Vermont                           33
+Virginia                          33
+Washington                        31
+West Virginia                     54
+Wisconsin                         37
+Wyoming                           32

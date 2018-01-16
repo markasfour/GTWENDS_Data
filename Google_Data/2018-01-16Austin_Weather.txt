@@ -28,7 +28,7 @@ Mississippi                        2
 Missouri                           3
 Montana                            3
 Nebraska                           2
-Nevada                             4
+Nevada                             3
 New Hampshire                      2
 New Jersey                         2
 New Mexico                         5
@@ -40,7 +40,7 @@ Oklahoma                           8
 Oregon                             3
 Pennsylvania                       2
 Rhode Island                       2
-South Carolina                     2
+South Carolina                     1
 South Dakota                       2
 Tennessee                          2
 Texas                            100

@@ -1,0 +1,53 @@
+                      Cherokee
+geoName                       
+Alabama                     63
+Alaska                      36
+Arizona                     30
+Arkansas                    60
+California                  22
+Colorado                    50
+Connecticut                 33
+Delaware                    33
+District of Columbia        32
+Florida                     28
+Georgia                    100
+Hawaii                      17
+Idaho                       34
+Illinois                    34
+Indiana                     35
+Iowa                        62
+Kansas                      38
+Kentucky                    47
+Louisiana                   33
+Maine                       31
+Maryland                    28
+Massachusetts               28
+Michigan                    42
+Minnesota                   32
+Mississippi                 40
+Missouri                    44
+Montana                     35
+Nebraska                    37
+Nevada                      29
+New Hampshire               31
+New Jersey                  35
+New Mexico                  34
+New York                    29
+North Carolina              72
+North Dakota                33
+Ohio                        32
+Oklahoma                    88
+Oregon                      24
+Pennsylvania                35
+Rhode Island                31
+South Carolina              78
+South Dakota                37
+Tennessee                   74
+Texas                       31
+Utah                        31
+Vermont                     28
+Virginia                    29
+Washington                  28
+West Virginia               55
+Wisconsin                   33
+Wyoming                     40

@@ -1,0 +1,45 @@
+                      House Intelligence Committee
+geoName                                           
+Alabama                                          7
+Arizona                                          7
+Arkansas                                         7
+California                                       8
+Colorado                                         8
+Connecticut                                     11
+Delaware                                         9
+District of Columbia                           100
+Florida                                          7
+Georgia                                          6
+Illinois                                         6
+Indiana                                          8
+Iowa                                             5
+Kansas                                           6
+Kentucky                                         5
+Louisiana                                        5
+Maine                                            9
+Maryland                                        22
+Massachusetts                                   11
+Michigan                                         7
+Minnesota                                        7
+Missouri                                         7
+Nebraska                                         5
+Nevada                                           7
+New Hampshire                                   12
+New Jersey                                       7
+New Mexico                                       8
+New York                                        10
+North Carolina                                   7
+Ohio                                             8
+Oklahoma                                         6
+Oregon                                           7
+Pennsylvania                                     7
+Rhode Island                                    10
+South Carolina                                   6
+Tennessee                                        7
+Texas                                            6
+Utah                                             6
+Vermont                                         13
+Virginia                                        16
+Washington                                       9
+West Virginia                                    6
+Wisconsin                                        4

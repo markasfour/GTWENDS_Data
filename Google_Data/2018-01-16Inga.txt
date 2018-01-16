@@ -1,0 +1,50 @@
+                      Inga
+geoName                   
+Alabama                 52
+Alaska                  66
+Arizona                 53
+Arkansas                38
+California              76
+Colorado                57
+Connecticut             89
+Delaware                51
+District of Columbia    83
+Florida                 66
+Georgia                100
+Hawaii                  65
+Idaho                   60
+Illinois                62
+Indiana                 40
+Iowa                    41
+Kansas                  44
+Kentucky                44
+Louisiana               42
+Maine                   69
+Maryland                68
+Massachusetts           72
+Michigan                50
+Minnesota               71
+Mississippi             31
+Missouri                44
+Montana                 73
+Nebraska                44
+Nevada                  53
+New Hampshire           70
+New Jersey              76
+New Mexico              51
+New York                89
+North Carolina          46
+Ohio                    44
+Oklahoma                41
+Oregon                  75
+Pennsylvania            66
+Rhode Island            57
+South Carolina          48
+Tennessee               55
+Texas                   44
+Utah                    52
+Vermont                 73
+Virginia                62
+Washington              71
+West Virginia           40
+Wisconsin               74

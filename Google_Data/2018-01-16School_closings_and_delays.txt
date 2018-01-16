@@ -1,0 +1,49 @@
+                      School closings and delays
+geoName                                         
+Alabama                                       12
+Arizona                                        0
+Arkansas                                       3
+California                                     1
+Colorado                                       4
+Connecticut                                   19
+Delaware                                      14
+District of Columbia                          11
+Florida                                        1
+Georgia                                        7
+Idaho                                          1
+Illinois                                       6
+Indiana                                       34
+Iowa                                          10
+Kansas                                         7
+Kentucky                                      17
+Louisiana                                      1
+Maine                                          9
+Maryland                                      19
+Massachusetts                                  8
+Michigan                                      17
+Minnesota                                      7
+Mississippi                                    4
+Missouri                                       3
+Nebraska                                       5
+Nevada                                         1
+New Hampshire                                  8
+New Jersey                                     5
+New Mexico                                     9
+New York                                      12
+North Carolina                                18
+North Dakota                                   3
+Ohio                                          55
+Oklahoma                                       1
+Oregon                                         1
+Pennsylvania                                  29
+Rhode Island                                  19
+South Carolina                                10
+South Dakota                                   3
+Tennessee                                     13
+Texas                                          2
+Utah                                           0
+Vermont                                        9
+Virginia                                      21
+Washington                                     2
+West Virginia                                100
+Wisconsin                                     14

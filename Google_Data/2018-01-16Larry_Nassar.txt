@@ -1,53 +1,53 @@
                       Larry Nassar
 geoName                           
-Alabama                         16
-Alaska                          16
-Arizona                         19
-Arkansas                        14
+Alabama                         17
+Alaska                          20
+Arizona                         20
+Arkansas                        15
 California                      21
-Colorado                        19
-Connecticut                     19
-Delaware                        32
-District of Columbia            18
+Colorado                        17
+Connecticut                     23
+Delaware                        31
+District of Columbia            21
 Florida                         17
-Georgia                         13
-Hawaii                          17
-Idaho                           14
-Illinois                        25
-Indiana                         24
-Iowa                            16
-Kansas                          12
+Georgia                         14
+Hawaii                          16
+Idaho                           12
+Illinois                        24
+Indiana                         23
+Iowa                            20
+Kansas                          15
 Kentucky                        14
 Louisiana                       14
-Maine                           13
+Maine                           14
 Maryland                        23
-Massachusetts                   25
+Massachusetts                   27
 Michigan                       100
-Minnesota                       21
-Mississippi                     13
-Missouri                        14
+Minnesota                       22
+Mississippi                     10
+Missouri                        16
 Montana                         13
-Nebraska                        19
-Nevada                          14
-New Hampshire                   18
-New Jersey                      19
-New Mexico                      10
-New York                        19
+Nebraska                        15
+Nevada                          16
+New Hampshire                   23
+New Jersey                      22
+New Mexico                      14
+New York                        20
 North Carolina                  16
-North Dakota                    13
+North Dakota                     8
 Ohio                            22
 Oklahoma                        14
-Oregon                          13
-Pennsylvania                    19
-Rhode Island                    16
+Oregon                          14
+Pennsylvania                    18
+Rhode Island                    18
 South Carolina                  18
-South Dakota                    14
+South Dakota                    18
 Tennessee                       16
-Texas                           17
-Utah                            14
-Vermont                         19
-Virginia                        15
-Washington                      19
-West Virginia                   11
-Wisconsin                       16
-Wyoming                         11
+Texas                           18
+Utah                            13
+Vermont                         23
+Virginia                        16
+Washington                      17
+West Virginia                   12
+Wisconsin                       19
+Wyoming                         23
