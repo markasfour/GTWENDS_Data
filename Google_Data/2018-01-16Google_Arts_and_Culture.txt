@@ -1,0 +1,53 @@
+                      Google Arts and Culture
+geoName                                      
+Alabama                                    38
+Alaska                                     43
+Arizona                                    34
+Arkansas                                   35
+California                                 50
+Colorado                                   32
+Connecticut                                50
+Delaware                                   36
+District of Columbia                       36
+Florida                                    25
+Georgia                                    38
+Hawaii                                     31
+Idaho                                      34
+Illinois                                   45
+Indiana                                    50
+Iowa                                       39
+Kansas                                     31
+Kentucky                                   51
+Louisiana                                  28
+Maine                                      46
+Maryland                                   40
+Massachusetts                              57
+Michigan                                   30
+Minnesota                                  29
+Mississippi                                13
+Missouri                                   48
+Montana                                    36
+Nebraska                                   43
+Nevada                                     22
+New Hampshire                              24
+New Jersey                                 47
+New Mexico                                 42
+New York                                   62
+North Carolina                             32
+North Dakota                               22
+Ohio                                       40
+Oklahoma                                   32
+Oregon                                     44
+Pennsylvania                               53
+Rhode Island                               57
+South Carolina                             51
+South Dakota                               22
+Tennessee                                  35
+Texas                                      30
+Utah                                       33
+Vermont                                   100
+Virginia                                   48
+Washington                                 41
+West Virginia                              22
+Wisconsin                                  53
+Wyoming                                    36

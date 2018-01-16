@@ -1,0 +1,53 @@
+                      Tide pod challenge
+geoName                                 
+Alabama                               18
+Alaska                                33
+Arizona                               24
+Arkansas                              19
+California                            16
+Colorado                              24
+Connecticut                           22
+Delaware                              23
+District of Columbia                   4
+Florida                               17
+Georgia                               15
+Hawaii                                14
+Idaho                                 54
+Illinois                              20
+Indiana                               26
+Iowa                                  17
+Kansas                                12
+Kentucky                              21
+Louisiana                             18
+Maine                                 30
+Maryland                              25
+Massachusetts                         26
+Michigan                              27
+Minnesota                             25
+Mississippi                           19
+Missouri                              24
+Montana                               39
+Nebraska                              21
+Nevada                                18
+New Hampshire                         27
+New Jersey                            22
+New Mexico                            21
+New York                              19
+North Carolina                        20
+North Dakota                          99
+Ohio                                  31
+Oklahoma                              22
+Oregon                                13
+Pennsylvania                          28
+Rhode Island                          22
+South Carolina                        23
+South Dakota                          57
+Tennessee                             22
+Texas                                 19
+Utah                                  12
+Vermont                               45
+Virginia                              20
+Washington                            18
+West Virginia                         23
+Wisconsin                             28
+Wyoming                              100

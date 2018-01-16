@@ -1,0 +1,47 @@
+                      relationshep
+geoName                           
+Alabama                         38
+Arizona                         16
+Arkansas                        21
+California                      18
+Colorado                        14
+Connecticut                     24
+Delaware                        25
+District of Columbia            28
+Florida                         26
+Georgia                         37
+Hawaii                          16
+Idaho                           11
+Illinois                        21
+Indiana                         23
+Iowa                            10
+Kansas                          16
+Kentucky                        25
+Louisiana                       37
+Maine                           20
+Maryland                        35
+Massachusetts                   31
+Michigan                        17
+Minnesota                       17
+Mississippi                     17
+Missouri                        23
+Nebraska                        12
+Nevada                          14
+New Hampshire                   19
+New Jersey                      26
+New Mexico                       5
+New York                        25
+North Carolina                  40
+Ohio                            27
+Oklahoma                        13
+Oregon                          10
+Pennsylvania                    29
+Rhode Island                    27
+South Carolina                 100
+Tennessee                       29
+Texas                           26
+Utah                            14
+Virginia                        41
+Washington                      13
+West Virginia                   23
+Wisconsin                       20

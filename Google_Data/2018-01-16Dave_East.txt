@@ -1,0 +1,48 @@
+                      Dave East
+geoName                        
+Alabama                      20
+Alaska                        8
+Arizona                      15
+Arkansas                     14
+California                   17
+Colorado                     13
+Connecticut                  74
+Delaware                     69
+District of Columbia         60
+Florida                      26
+Georgia                      36
+Hawaii                        8
+Idaho                         8
+Illinois                     25
+Indiana                      20
+Iowa                         11
+Kansas                       11
+Kentucky                     15
+Louisiana                    29
+Maine                        14
+Maryland                     58
+Massachusetts                51
+Michigan                     28
+Minnesota                    15
+Mississippi                  20
+Missouri                     16
+Nebraska                     12
+Nevada                       21
+New Hampshire                19
+New Jersey                   75
+New Mexico                   10
+New York                    100
+North Carolina               36
+Ohio                         25
+Oklahoma                     10
+Oregon                        6
+Pennsylvania                 47
+Rhode Island                 69
+South Carolina               26
+Tennessee                    22
+Texas                        18
+Utah                          7
+Virginia                     31
+Washington                   13
+West Virginia                16
+Wisconsin                    14
