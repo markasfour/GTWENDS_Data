@@ -1,0 +1,53 @@
+                      Embiid
+geoName                     
+Alabama                   11
+Alaska                     8
+Arizona                   12
+Arkansas                  11
+California                17
+Colorado                  11
+Connecticut               21
+Delaware                 100
+District of Columbia      39
+Florida                   13
+Georgia                   12
+Hawaii                    13
+Idaho                      7
+Illinois                  18
+Indiana                   14
+Iowa                      15
+Kansas                    61
+Kentucky                  13
+Louisiana                 11
+Maine                     13
+Maryland                  21
+Massachusetts             23
+Michigan                  14
+Minnesota                 14
+Mississippi               11
+Missouri                  22
+Montana                    9
+Nebraska                  14
+Nevada                    14
+New Hampshire             14
+New Jersey                49
+New Mexico                 9
+New York                  20
+North Carolina            14
+North Dakota              13
+Ohio                      17
+Oklahoma                  12
+Oregon                    10
+Pennsylvania              99
+Rhode Island              19
+South Carolina            12
+South Dakota              15
+Tennessee                 12
+Texas                     11
+Utah                      12
+Vermont                   15
+Virginia                  15
+Washington                11
+West Virginia             12
+Wisconsin                 15
+Wyoming                    8

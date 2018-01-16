@@ -1,15 +1,15 @@
                 MLKDay
 geoName               
-California          59
-Florida             33
+California          42
+Florida             47
 Georgia            100
-Illinois            40
-Massachusetts       87
-Michigan            50
-New Jersey          50
-New York            68
-North Carolina      55
-Ohio                24
-Pennsylvania        55
-Texas               35
-Virginia            70
+Illinois            23
+Massachusetts       56
+Michigan            53
+New Jersey          84
+New York            44
+North Carolina      35
+Ohio                41
+Pennsylvania        78
+Texas               41
+Virginia            49

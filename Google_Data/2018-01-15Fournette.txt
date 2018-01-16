@@ -1,0 +1,53 @@
+                      Fournette
+geoName                        
+Alabama                      27
+Alaska                        5
+Arizona                       7
+Arkansas                     15
+California                    6
+Colorado                      8
+Connecticut                   9
+Delaware                     11
+District of Columbia         11
+Florida                      12
+Georgia                      15
+Hawaii                        7
+Idaho                         6
+Illinois                     11
+Indiana                       9
+Iowa                         10
+Kansas                        7
+Kentucky                      9
+Louisiana                   100
+Maine                         7
+Maryland                      9
+Massachusetts                 9
+Michigan                      9
+Minnesota                     9
+Mississippi                  34
+Missouri                      7
+Montana                       7
+Nebraska                     10
+Nevada                        7
+New Hampshire                 7
+New Jersey                   10
+New Mexico                    6
+New York                      8
+North Carolina               11
+North Dakota                 10
+Ohio                         10
+Oklahoma                      9
+Oregon                        4
+Pennsylvania                 10
+Rhode Island                 10
+South Carolina               12
+South Dakota                  9
+Tennessee                    14
+Texas                        15
+Utah                          6
+Vermont                       6
+Virginia                      7
+Washington                    7
+West Virginia                 9
+Wisconsin                     9
+Wyoming                       6

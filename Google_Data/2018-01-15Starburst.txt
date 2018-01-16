@@ -1,0 +1,53 @@
+                      Starburst
+geoName                        
+Alabama                      75
+Alaska                       65
+Arizona                      71
+Arkansas                     75
+California                   70
+Colorado                     74
+Connecticut                  93
+Delaware                     88
+District of Columbia         62
+Florida                      73
+Georgia                      73
+Hawaii                       61
+Idaho                        73
+Illinois                     84
+Indiana                      82
+Iowa                         88
+Kansas                       83
+Kentucky                     80
+Louisiana                    75
+Maine                        67
+Maryland                     87
+Massachusetts                91
+Michigan                     84
+Minnesota                    88
+Mississippi                  81
+Missouri                     91
+Montana                      57
+Nebraska                    100
+Nevada                       66
+New Hampshire                86
+New Jersey                   93
+New Mexico                   62
+New York                     76
+North Carolina               81
+North Dakota                 75
+Ohio                         98
+Oklahoma                     77
+Oregon                       54
+Pennsylvania                 90
+Rhode Island                 90
+South Carolina               77
+South Dakota                 75
+Tennessee                    77
+Texas                        73
+Utah                         74
+Vermont                      68
+Virginia                     71
+Washington                   66
+West Virginia                80
+Wisconsin                    85
+Wyoming                      67

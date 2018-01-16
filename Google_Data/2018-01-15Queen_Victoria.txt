@@ -1,53 +1,53 @@
                       Queen Victoria
 geoName                             
-Alabama                           80
-Alaska                            89
-Arizona                           81
+Alabama                           78
+Alaska                            85
+Arizona                           83
 Arkansas                          80
 California                        72
-Colorado                          73
-Connecticut                       85
-Delaware                         100
-District of Columbia              69
-Florida                           73
-Georgia                           64
-Hawaii                            84
-Idaho                             96
-Illinois                          70
-Indiana                           85
-Iowa                              69
-Kansas                            69
+Colorado                          75
+Connecticut                       87
+Delaware                          94
+District of Columbia              70
+Florida                           71
+Georgia                           63
+Hawaii                            83
+Idaho                             93
+Illinois                          72
+Indiana                           83
+Iowa                              72
+Kansas                            72
 Kentucky                          71
-Louisiana                         70
-Maine                             96
-Maryland                          83
-Massachusetts                     89
+Louisiana                         73
+Maine                             98
+Maryland                          82
+Massachusetts                     88
 Michigan                          74
-Minnesota                         77
-Mississippi                       70
-Missouri                          74
-Montana                           79
-Nebraska                          65
-Nevada                            72
-New Hampshire                     95
-New Jersey                        83
-New Mexico                        86
-New York                          70
+Minnesota                         80
+Mississippi                       67
+Missouri                          72
+Montana                           75
+Nebraska                          70
+Nevada                            70
+New Hampshire                     96
+New Jersey                        82
+New Mexico                        90
+New York                          69
 North Carolina                    75
-North Dakota                      58
-Ohio                              76
-Oklahoma                          77
+North Dakota                      55
+Ohio                              75
+Oklahoma                          73
 Oregon                            73
-Pennsylvania                      84
-Rhode Island                      82
+Pennsylvania                      82
+Rhode Island                      79
 South Carolina                    80
-South Dakota                      64
-Tennessee                         75
-Texas                             71
-Utah                              98
-Vermont                          100
-Virginia                          75
-Washington                        90
-West Virginia                     76
+South Dakota                      63
+Tennessee                         79
+Texas                             72
+Utah                             100
+Vermont                           89
+Virginia                          74
+Washington                        91
+West Virginia                     73
 Wisconsin                         71
-Wyoming                           83
+Wyoming                           68

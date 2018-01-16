@@ -1,53 +1,53 @@
                       Ford Ranger
 geoName                          
 Alabama                        61
-Alaska                         61
-Arizona                        45
+Alaska                         63
+Arizona                        46
 Arkansas                       58
-California                     35
+California                     36
 Colorado                       44
 Connecticut                    31
 Delaware                       31
-District of Columbia           31
+District of Columbia           32
 Florida                        41
-Georgia                        58
-Hawaii                         52
-Idaho                          67
+Georgia                        59
+Hawaii                         53
+Idaho                          69
 Illinois                       33
 Indiana                        54
-Iowa                           53
-Kansas                         51
-Kentucky                       75
-Louisiana                      41
-Maine                          54
-Maryland                       25
-Massachusetts                  25
-Michigan                       48
-Minnesota                      36
-Mississippi                    65
+Iowa                           55
+Kansas                         53
+Kentucky                       76
+Louisiana                      42
+Maine                          55
+Maryland                       26
+Massachusetts                  26
+Michigan                       49
+Minnesota                      37
+Mississippi                    66
 Missouri                       56
-Montana                        65
-Nebraska                       48
-Nevada                         42
-New Hampshire                  48
+Montana                        67
+Nebraska                       49
+Nevada                         43
+New Hampshire                  49
 New Jersey                     21
-New Mexico                     62
-New York                       18
-North Carolina                 57
+New Mexico                     64
+New York                       19
+North Carolina                 59
 North Dakota                   47
-Ohio                           50
-Oklahoma                       49
-Oregon                         50
-Pennsylvania                   38
-Rhode Island                   36
-South Carolina                 59
-South Dakota                   48
+Ohio                           51
+Oklahoma                       50
+Oregon                         51
+Pennsylvania                   39
+Rhode Island                   37
+South Carolina                 60
+South Dakota                   50
 Tennessee                      67
 Texas                          40
-Utah                           48
-Vermont                        44
-Virginia                       37
+Utah                           49
+Vermont                        45
+Virginia                       38
 Washington                     57
 West Virginia                 100
-Wisconsin                      45
-Wyoming                        61
+Wisconsin                      46
+Wyoming                        60

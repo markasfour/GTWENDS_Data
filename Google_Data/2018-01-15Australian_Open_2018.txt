@@ -1,53 +1,53 @@
                       Australian Open 2018
 geoName                                   
-Alabama                                 39
-Alaska                                  35
-Arizona                                 37
-Arkansas                                20
-California                              56
-Colorado                                55
-Connecticut                             64
+Alabama                                 35
+Alaska                                  34
+Arizona                                 30
+Arkansas                                25
+California                              46
+Colorado                                37
+Connecticut                             58
 Delaware                               100
-District of Columbia                    38
-Florida                                 57
-Georgia                                 47
-Hawaii                                  66
-Idaho                                   39
-Illinois                                39
-Indiana                                 33
-Iowa                                    34
-Kansas                                  25
-Kentucky                                25
-Louisiana                               36
-Maine                                   31
-Maryland                                68
-Massachusetts                           37
-Michigan                                36
-Minnesota                               42
-Mississippi                             36
-Missouri                                38
-Montana                                 39
-Nebraska                                51
-Nevada                                  40
-New Hampshire                           40
-New Jersey                              62
-New Mexico                              41
-New York                                60
-North Carolina                          45
-North Dakota                            30
-Ohio                                    41
-Oklahoma                                18
-Oregon                                  46
-Pennsylvania                            44
-Rhode Island                            40
-South Carolina                          48
-South Dakota                            30
-Tennessee                               36
-Texas                                   32
-Utah                                    29
-Vermont                                 73
-Virginia                                45
-Washington                              47
-West Virginia                           39
-Wisconsin                               32
-Wyoming                                 45
+District of Columbia                    35
+Florida                                 47
+Georgia                                 40
+Hawaii                                  63
+Idaho                                   24
+Illinois                                36
+Indiana                                 28
+Iowa                                    26
+Kansas                                  20
+Kentucky                                28
+Louisiana                               33
+Maine                                   23
+Maryland                                61
+Massachusetts                           32
+Michigan                                27
+Minnesota                               30
+Mississippi                             39
+Missouri                                28
+Montana                                 28
+Nebraska                                33
+Nevada                                  33
+New Hampshire                           34
+New Jersey                              47
+New Mexico                              39
+New York                                47
+North Carolina                          37
+North Dakota                            40
+Ohio                                    34
+Oklahoma                                20
+Oregon                                  42
+Pennsylvania                            38
+Rhode Island                            33
+South Carolina                          45
+South Dakota                            25
+Tennessee                               37
+Texas                                   29
+Utah                                    31
+Vermont                                 66
+Virginia                                37
+Washington                              40
+West Virginia                           30
+Wisconsin                               28
+Wyoming                                 22

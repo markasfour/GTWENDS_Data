@@ -1,53 +1,53 @@
                       Paige VanZant
 geoName                            
-Alabama                          57
-Alaska                           61
-Arizona                          62
-Arkansas                         55
-California                       58
+Alabama                          53
+Alaska                           66
+Arizona                          60
+Arkansas                         51
+California                       56
 Colorado                         61
-Connecticut                      50
-Delaware                         50
-District of Columbia             59
-Florida                          46
+Connecticut                      46
+Delaware                         52
+District of Columbia             56
+Florida                          45
 Georgia                          48
-Hawaii                           75
-Idaho                            61
-Illinois                         60
-Indiana                          64
-Iowa                             64
-Kansas                           49
-Kentucky                         62
-Louisiana                        57
-Maine                            50
-Maryland                         50
-Massachusetts                    51
-Michigan                         60
-Minnesota                        53
-Mississippi                      45
-Missouri                         60
-Montana                          64
-Nebraska                         65
+Hawaii                           72
+Idaho                            59
+Illinois                         57
+Indiana                          60
+Iowa                             63
+Kansas                           48
+Kentucky                         60
+Louisiana                        56
+Maine                            46
+Maryland                         48
+Massachusetts                    50
+Michigan                         56
+Minnesota                        50
+Mississippi                      49
+Missouri                         59
+Montana                          61
+Nebraska                         68
 Nevada                          100
-New Hampshire                    47
-New Jersey                       62
-New Mexico                       75
-New York                         50
+New Hampshire                    51
+New Jersey                       58
+New Mexico                       71
+New York                         49
 North Carolina                   53
-North Dakota                     71
-Ohio                             69
-Oklahoma                         61
+North Dakota                     72
+Ohio                             67
+Oklahoma                         57
 Oregon                           47
-Pennsylvania                     66
-Rhode Island                     51
-South Carolina                   56
-South Dakota                     53
-Tennessee                        60
-Texas                            59
-Utah                             57
-Vermont                          32
-Virginia                         41
-Washington                       55
-West Virginia                    77
-Wisconsin                        61
-Wyoming                          82
+Pennsylvania                     64
+Rhode Island                     49
+South Carolina                   52
+South Dakota                     58
+Tennessee                        57
+Texas                            57
+Utah                             55
+Vermont                          30
+Virginia                         40
+Washington                       53
+West Virginia                    75
+Wisconsin                        58
+Wyoming                          78

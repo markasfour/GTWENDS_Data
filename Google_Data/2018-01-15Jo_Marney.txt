@@ -1,23 +1,18 @@
                 Jo Marney
 geoName                  
 Alabama                44
-Arizona                18
-Arkansas               60
-California              7
-Colorado               37
+California              8
 Connecticut            31
 Florida                15
 Hawaii                100
+Illinois                7
 Indiana                23
-Iowa                   44
 Louisiana              43
-Massachusetts          17
-New Jersey             12
-New York               12
+Massachusetts          14
+New York               15
 North Carolina         11
-Ohio                   19
+Ohio                   13
 Pennsylvania           10
 South Carolina         75
 Texas                   4
 Virginia               11
-Wisconsin              21

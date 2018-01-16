@@ -1,0 +1,53 @@
+                      James Earl Ray
+geoName                             
+Alabama                           60
+Alaska                            48
+Arizona                           36
+Arkansas                          71
+California                        32
+Colorado                          34
+Connecticut                       44
+Delaware                          42
+District of Columbia              37
+Florida                           38
+Georgia                           58
+Hawaii                            27
+Idaho                             33
+Illinois                          48
+Indiana                           55
+Iowa                              52
+Kansas                            47
+Kentucky                          54
+Louisiana                         49
+Maine                             39
+Maryland                          47
+Massachusetts                     38
+Michigan                          50
+Minnesota                         39
+Mississippi                       80
+Missouri                          66
+Montana                           44
+Nebraska                          42
+Nevada                            34
+New Hampshire                     35
+New Jersey                        50
+New Mexico                        35
+New York                          37
+North Carolina                    49
+North Dakota                      47
+Ohio                              55
+Oklahoma                          49
+Oregon                            23
+Pennsylvania                      46
+Rhode Island                      40
+South Carolina                    50
+South Dakota                      44
+Tennessee                        100
+Texas                             38
+Utah                              21
+Vermont                           44
+Virginia                          36
+Washington                        33
+West Virginia                     53
+Wisconsin                         44
+Wyoming                           38
