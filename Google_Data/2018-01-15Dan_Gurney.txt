@@ -1,0 +1,45 @@
+                Dan Gurney
+geoName                   
+Alabama                 31
+Arizona                 58
+Arkansas                30
+California              66
+Colorado                45
+Connecticut             40
+Delaware                27
+Florida                 29
+Georgia                 30
+Idaho                   59
+Illinois                35
+Indiana                100
+Iowa                    31
+Kansas                  31
+Kentucky                43
+Louisiana               22
+Maine                   43
+Maryland                27
+Massachusetts           27
+Michigan                53
+Minnesota               40
+Mississippi             17
+Missouri                32
+Nebraska                19
+Nevada                  44
+New Hampshire           66
+New Jersey              17
+New Mexico              36
+New York                24
+North Carolina          34
+Ohio                    38
+Oklahoma                28
+Oregon                  45
+Pennsylvania            39
+South Carolina          40
+Tennessee               34
+Texas                   24
+Utah                    22
+Vermont                 77
+Virginia                28
+Washington              58
+West Virginia           50
+Wisconsin               43

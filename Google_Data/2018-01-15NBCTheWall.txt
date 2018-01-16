@@ -1,0 +1,9 @@
+              NBCTheWall
+geoName                 
+California            48
+Florida               61
+Illinois              55
+New York              32
+Pennsylvania          95
+Texas                100
+Washington            71

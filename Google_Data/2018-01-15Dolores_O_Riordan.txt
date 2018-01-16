@@ -1,45 +1,37 @@
-                      Dolores O Riordan
-geoName                                
-Alaska                               33
-Arizona                               5
-Arkansas                             22
-California                            6
-Colorado                              3
-Connecticut                          16
-Delaware                             27
-District of Columbia                  6
-Florida                               3
-Georgia                               2
-Idaho                                21
-Illinois                              2
-Iowa                                  9
-Kansas                                7
-Kentucky                             15
-Louisiana                             7
-Maine                                17
-Maryland                              7
-Massachusetts                         9
-Michigan                              6
-Minnesota                             3
-Mississippi                          11
-Missouri                              5
-Nebraska                             19
-Nevada                                7
-New Hampshire                        16
-New Jersey                            6
-New Mexico                           14
-New York                              6
-North Carolina                        5
-Ohio                                  2
-Oklahoma                             10
-Oregon                                9
-Pennsylvania                          5
-South Carolina                        5
-Tennessee                             5
-Texas                                 6
-Utah                                  8
-Virginia                              3
-Washington                            9
-West Virginia                        18
-Wisconsin                             7
-Wyoming                             100
+                Dolores O Riordan
+geoName                          
+Alaska                         94
+Arizona                        26
+California                     13
+Colorado                       10
+Delaware                       77
+Florida                        14
+Georgia                        10
+Idaho                          62
+Illinois                       13
+Indiana                        24
+Iowa                           32
+Maine                         100
+Maryland                       18
+Massachusetts                  21
+Michigan                       14
+Minnesota                      21
+Missouri                       10
+Nebraska                       32
+Nevada                         27
+New Hampshire                  46
+New Jersey                     31
+New York                       21
+North Carolina                  9
+Ohio                           11
+Oklahoma                       21
+Oregon                         23
+Pennsylvania                   14
+Rhode Island                   92
+Tennessee                      10
+Texas                          15
+Utah                           36
+Virginia                       18
+Washington                     19
+West Virginia                  52
+Wisconsin                      13

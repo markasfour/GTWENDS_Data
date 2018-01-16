@@ -1,47 +1,48 @@
                       Martin Luther King Jr. Day 2018
 geoName                                              
-Alabama                                            16
-Arizona                                            13
-Arkansas                                           87
-California                                         15
-Colorado                                           29
-Connecticut                                        15
-Delaware                                           94
-District of Columbia                               31
-Florida                                            20
-Georgia                                            21
-Hawaii                                             62
-Idaho                                              42
-Illinois                                           17
-Indiana                                            17
-Iowa                                               25
-Kansas                                             27
-Kentucky                                           15
-Louisiana                                          16
-Maine                                             100
-Maryland                                           26
-Massachusetts                                      15
-Michigan                                           23
-Minnesota                                           9
-Mississippi                                        30
-Missouri                                           33
-Montana                                            72
-Nebraska                                           73
-Nevada                                             37
-New Jersey                                         16
-New Mexico                                         44
-New York                                           19
-North Carolina                                     16
-Ohio                                               20
-Oklahoma                                           17
-Oregon                                             19
-Pennsylvania                                       18
-Rhode Island                                       53
-South Carolina                                     30
-Tennessee                                          31
-Texas                                              19
-Utah                                               19
+Alabama                                            17
+Arizona                                             9
+Arkansas                                           50
+California                                         10
+Colorado                                           13
+Connecticut                                        10
+Delaware                                           44
+District of Columbia                               18
+Florida                                            17
+Georgia                                             6
+Hawaii                                             35
+Idaho                                              24
+Illinois                                            9
+Indiana                                             9
+Iowa                                               13
+Kansas                                             12
+Kentucky                                           13
+Louisiana                                          15
+Maine                                              35
+Maryland                                           21
+Massachusetts                                       7
+Michigan                                            9
+Minnesota                                          15
+Mississippi                                        17
+Missouri                                           22
+Nebraska                                           25
+Nevada                                             16
+New Hampshire                                      24
+New Jersey                                          8
+New Mexico                                         29
+New York                                           13
+North Carolina                                     12
+Ohio                                               10
+Oklahoma                                           20
+Oregon                                             14
+Pennsylvania                                        7
+Rhode Island                                       37
+South Carolina                                     11
+Tennessee                                          18
+Texas                                              11
+Utah                                               16
 Virginia                                           10
-Washington                                         10
-West Virginia                                      72
+Washington                                          8
+West Virginia                                      27
 Wisconsin                                          12
+Wyoming                                           100

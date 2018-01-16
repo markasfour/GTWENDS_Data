@@ -1,0 +1,45 @@
+                      Turgeon
+geoName                      
+Alabama                     8
+Arizona                    15
+Arkansas                    5
+California                  9
+Colorado                   22
+Connecticut                59
+Delaware                   18
+District of Columbia       47
+Florida                    16
+Georgia                    12
+Hawaii                      8
+Illinois                   14
+Indiana                    10
+Iowa                       16
+Kansas                     84
+Kentucky                    9
+Louisiana                  12
+Maine                      89
+Maryland                   83
+Massachusetts              47
+Michigan                   16
+Minnesota                  24
+Missouri                   29
+Nebraska                   26
+Nevada                      8
+New Hampshire             100
+New Jersey                 12
+New Mexico                  5
+New York                   20
+North Carolina             16
+North Dakota               16
+Ohio                       12
+Oklahoma                   12
+Oregon                     12
+Pennsylvania               17
+Rhode Island               56
+South Carolina              9
+Tennessee                   9
+Texas                      12
+Virginia                   24
+Washington                 35
+West Virginia              13
+Wisconsin                  15

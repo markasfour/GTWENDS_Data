@@ -1,0 +1,53 @@
+                      Bagley
+geoName                     
+Alabama                   19
+Alaska                    11
+Arizona                   19
+Arkansas                  10
+California                11
+Colorado                  12
+Connecticut               14
+Delaware                  11
+District of Columbia      15
+Florida                   10
+Georgia                   17
+Hawaii                     7
+Idaho                     18
+Illinois                  14
+Indiana                   12
+Iowa                      27
+Kansas                    11
+Kentucky                  13
+Louisiana                 11
+Maine                     19
+Maryland                  14
+Massachusetts             17
+Michigan                  27
+Minnesota                100
+Mississippi               18
+Missouri                  13
+Montana                   14
+Nebraska                  14
+Nevada                    11
+New Hampshire             17
+New Jersey                11
+New Mexico                 9
+New York                  12
+North Carolina            20
+North Dakota              75
+Ohio                      45
+Oklahoma                   9
+Oregon                    12
+Pennsylvania              12
+Rhode Island              18
+South Carolina            15
+South Dakota              29
+Tennessee                 12
+Texas                     11
+Utah                      36
+Vermont                   13
+Virginia                  11
+Washington                25
+West Virginia              9
+Wisconsin                 25
+Wyoming                   13

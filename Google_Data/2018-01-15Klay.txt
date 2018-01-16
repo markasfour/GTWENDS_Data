@@ -1,0 +1,53 @@
+                      Klay
+geoName                   
+Alabama                 51
+Alaska                  43
+Arizona                 43
+Arkansas                47
+California             100
+Colorado                32
+Connecticut             44
+Delaware                53
+District of Columbia    57
+Florida                 41
+Georgia                 49
+Hawaii                  51
+Idaho                   37
+Illinois                51
+Indiana                 47
+Iowa                    37
+Kansas                  31
+Kentucky                44
+Louisiana               49
+Maine                   30
+Maryland                48
+Massachusetts           44
+Michigan                46
+Minnesota               35
+Mississippi             54
+Missouri                39
+Montana                 31
+Nebraska                44
+Nevada                  56
+New Hampshire           32
+New Jersey              52
+New Mexico              34
+New York                52
+North Carolina          45
+North Dakota            41
+Ohio                    52
+Oklahoma                47
+Oregon                  40
+Pennsylvania            48
+Rhode Island            43
+South Carolina          45
+South Dakota            54
+Tennessee               45
+Texas                   45
+Utah                    40
+Vermont                 30
+Virginia                36
+Washington              59
+West Virginia           43
+Wisconsin               37
+Wyoming                 28

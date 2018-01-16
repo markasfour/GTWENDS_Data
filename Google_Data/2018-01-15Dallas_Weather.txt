@@ -1,0 +1,53 @@
+                      Dallas Weather
+geoName                             
+Alabama                            4
+Alaska                             3
+Arizona                            6
+Arkansas                          12
+California                         4
+Colorado                           7
+Connecticut                        3
+Delaware                           3
+District of Columbia               4
+Florida                            4
+Georgia                            7
+Hawaii                             3
+Idaho                              3
+Illinois                           5
+Indiana                            3
+Iowa                               5
+Kansas                             7
+Kentucky                           4
+Louisiana                         12
+Maine                              2
+Maryland                           3
+Massachusetts                      3
+Michigan                           4
+Minnesota                          4
+Mississippi                        6
+Missouri                           6
+Montana                            3
+Nebraska                           5
+Nevada                             5
+New Hampshire                      2
+New Jersey                         3
+New Mexico                        11
+New York                           5
+North Carolina                     4
+North Dakota                       4
+Ohio                               3
+Oklahoma                          21
+Oregon                             6
+Pennsylvania                       3
+Rhode Island                       2
+South Carolina                     3
+South Dakota                       4
+Tennessee                          5
+Texas                            100
+Utah                               4
+Vermont                            2
+Virginia                           3
+Washington                         5
+West Virginia                      2
+Wisconsin                          4
+Wyoming                            3

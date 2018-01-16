@@ -1,53 +1,53 @@
                       Matt Hughes
 geoName                          
-Alabama                        48
-Alaska                         68
-Arizona                        62
-Arkansas                       62
-California                     52
-Colorado                       54
-Connecticut                    49
-Delaware                       52
+Alabama                        50
+Alaska                         55
+Arizona                        64
+Arkansas                       58
+California                     54
+Colorado                       52
+Connecticut                    50
+Delaware                       33
 District of Columbia           42
-Florida                        49
-Georgia                        48
-Hawaii                         78
-Idaho                          44
+Florida                        48
+Georgia                        49
+Hawaii                         75
+Idaho                          43
 Illinois                      100
-Indiana                        62
-Iowa                           91
+Indiana                        61
+Iowa                           90
 Kansas                         57
-Kentucky                       56
+Kentucky                       61
 Louisiana                      56
-Maine                          46
-Maryland                       40
-Massachusetts                  44
-Michigan                       49
-Minnesota                      50
-Mississippi                    60
-Missouri                       73
-Montana                        50
-Nebraska                       60
-Nevada                         77
-New Hampshire                  43
-New Jersey                     47
-New Mexico                     70
+Maine                          43
+Maryland                       39
+Massachusetts                  43
+Michigan                       48
+Minnesota                      46
+Mississippi                    57
+Missouri                       76
+Montana                        56
+Nebraska                       68
+Nevada                         79
+New Hampshire                  41
+New Jersey                     49
+New Mexico                     63
 New York                       47
 North Carolina                 52
-North Dakota                   76
-Ohio                           56
-Oklahoma                       68
-Oregon                         43
+North Dakota                   63
+Ohio                           58
+Oklahoma                       74
+Oregon                         42
 Pennsylvania                   53
 Rhode Island                   53
-South Carolina                 53
-South Dakota                   55
-Tennessee                      56
-Texas                          52
-Utah                           47
+South Carolina                 58
+South Dakota                   57
+Tennessee                      57
+Texas                          51
+Utah                           49
 Vermont                        40
-Virginia                       39
-Washington                     52
-West Virginia                  75
-Wisconsin                      51
-Wyoming                        50
+Virginia                       38
+Washington                     51
+West Virginia                  67
+Wisconsin                      50
+Wyoming                        61

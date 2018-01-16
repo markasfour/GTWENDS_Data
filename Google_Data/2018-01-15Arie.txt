@@ -1,0 +1,53 @@
+                      Arie
+geoName                   
+Alabama                 52
+Alaska                  60
+Arizona                 43
+Arkansas                49
+California              45
+Colorado                39
+Connecticut             59
+Delaware                63
+District of Columbia    70
+Florida                 46
+Georgia                 69
+Hawaii                  40
+Idaho                   30
+Illinois               100
+Indiana                 63
+Iowa                    49
+Kansas                  46
+Kentucky                50
+Louisiana               59
+Maine                   53
+Maryland                72
+Massachusetts           60
+Michigan                67
+Minnesota               54
+Mississippi             63
+Missouri                52
+Montana                 29
+Nebraska                42
+Nevada                  38
+New Hampshire           62
+New Jersey              57
+New Mexico              27
+New York                64
+North Carolina          65
+North Dakota            30
+Ohio                    54
+Oklahoma                41
+Oregon                  39
+Pennsylvania            68
+Rhode Island            48
+South Carolina          57
+South Dakota            52
+Tennessee               68
+Texas                   43
+Utah                    44
+Vermont                 52
+Virginia                54
+Washington              43
+West Virginia           42
+Wisconsin               60
+Wyoming                 26

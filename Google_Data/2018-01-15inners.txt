@@ -1,0 +1,15 @@
+                inners
+geoName               
+California          55
+Florida             43
+Illinois            49
+Massachusetts       43
+Michigan            43
+New Jersey          58
+New York            53
+North Carolina      55
+Ohio                49
+Oregon              32
+Pennsylvania        99
+Texas               41
+Virginia           100

@@ -1,0 +1,52 @@
+                      Pat Shurmur
+geoName                          
+Alabama                         9
+Arizona                        27
+Arkansas                        6
+California                     11
+Colorado                       16
+Connecticut                    21
+Delaware                       76
+District of Columbia           35
+Florida                        11
+Georgia                         8
+Hawaii                          8
+Idaho                           8
+Illinois                       22
+Indiana                        12
+Iowa                           24
+Kansas                          9
+Kentucky                        8
+Louisiana                      11
+Maine                          10
+Maryland                       18
+Massachusetts                   8
+Michigan                       35
+Minnesota                     100
+Mississippi                     5
+Missouri                       18
+Montana                        30
+Nebraska                       19
+Nevada                         17
+New Hampshire                   8
+New Jersey                     46
+New Mexico                      8
+New York                       15
+North Carolina                 10
+North Dakota                   66
+Ohio                           63
+Oklahoma                        7
+Oregon                          8
+Pennsylvania                   73
+Rhode Island                   16
+South Carolina                 11
+South Dakota                   64
+Tennessee                      15
+Texas                           8
+Utah                            6
+Vermont                         7
+Virginia                       18
+Washington                     12
+West Virginia                  17
+Wisconsin                      28
+Wyoming                        18

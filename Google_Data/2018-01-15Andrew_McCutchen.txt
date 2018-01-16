@@ -1,0 +1,51 @@
+                      Andrew McCutchen
+geoName                               
+Alabama                             10
+Arizona                             12
+Arkansas                             8
+California                          10
+Colorado                             8
+Connecticut                         17
+Delaware                            16
+District of Columbia                19
+Florida                             12
+Georgia                             12
+Hawaii                               7
+Idaho                                5
+Illinois                            15
+Indiana                             13
+Iowa                                12
+Kansas                               9
+Kentucky                            11
+Louisiana                            9
+Maine                               10
+Maryland                            15
+Massachusetts                       13
+Michigan                            15
+Minnesota                           12
+Mississippi                         11
+Missouri                            19
+Montana                              5
+Nebraska                            10
+Nevada                               9
+New Hampshire                        9
+New Jersey                          17
+New Mexico                           6
+New York                            17
+North Carolina                      11
+North Dakota                         9
+Ohio                                20
+Oklahoma                             9
+Oregon                               5
+Pennsylvania                       100
+Rhode Island                        13
+South Carolina                      11
+South Dakota                         8
+Tennessee                            9
+Texas                                8
+Utah                                 7
+Vermont                              9
+Virginia                            13
+Washington                           9
+West Virginia                       65
+Wisconsin                           12
