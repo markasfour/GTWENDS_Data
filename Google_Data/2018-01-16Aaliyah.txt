@@ -1,49 +1,53 @@
                       Aaliyah
 geoName                      
-Alabama                    74
-Alaska                     35
+Alabama                    72
+Alaska                     33
 Arizona                    46
-Arkansas                   53
-California                 55
-Colorado                   37
+Arkansas                   51
+California                 54
+Colorado                   36
 Connecticut                46
-Delaware                   66
-District of Columbia       75
+Delaware                   69
+District of Columbia       76
 Florida                    59
-Georgia                    92
-Idaho                      22
-Illinois                   60
+Georgia                    91
+Hawaii                     51
+Idaho                      21
+Illinois                   61
 Indiana                    44
-Iowa                       28
-Kansas                     43
-Kentucky                   46
-Louisiana                  89
+Iowa                       27
+Kansas                     42
+Kentucky                   48
+Louisiana                  90
 Maine                      20
-Maryland                   76
+Maryland                   77
 Massachusetts              44
-Michigan                   60
-Minnesota                  35
+Michigan                   59
+Minnesota                  36
 Mississippi               100
 Missouri                   50
-Montana                    19
+Montana                    20
 Nebraska                   35
-Nevada                     58
-New Hampshire              21
-New Jersey                 60
+Nevada                     57
+New Hampshire              22
+New Jersey                 59
 New Mexico                 46
 New York                   71
 North Carolina             69
-Ohio                       49
+North Dakota               25
+Ohio                       47
 Oklahoma                   48
 Oregon                     24
 Pennsylvania               53
-Rhode Island               48
-South Carolina             77
-Tennessee                  57
-Texas                      61
-Utah                       25
+Rhode Island               49
+South Carolina             79
+South Dakota               23
+Tennessee                  58
+Texas                      59
+Utah                       24
 Vermont                    21
 Virginia                   59
-Washington                 38
+Washington                 37
 West Virginia              32
-Wisconsin                  35
+Wisconsin                  33
+Wyoming                    21

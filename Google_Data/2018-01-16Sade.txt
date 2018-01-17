@@ -1,0 +1,53 @@
+                      Sade
+geoName                   
+Alabama                 56
+Alaska                  39
+Arizona                 54
+Arkansas                41
+California              80
+Colorado                45
+Connecticut             58
+Delaware                70
+District of Columbia   100
+Florida                 75
+Georgia                 83
+Hawaii                  65
+Idaho                   26
+Illinois                61
+Indiana                 44
+Iowa                    30
+Kansas                  51
+Kentucky                42
+Louisiana               77
+Maine                   37
+Maryland                91
+Massachusetts           56
+Michigan                60
+Minnesota               42
+Mississippi             61
+Missouri                49
+Montana                 30
+Nebraska                33
+Nevada                  67
+New Hampshire           36
+New Jersey              85
+New Mexico              53
+New York                97
+North Carolina          62
+North Dakota            29
+Ohio                    47
+Oklahoma                44
+Oregon                  50
+Pennsylvania            57
+Rhode Island            59
+South Carolina          58
+South Dakota            26
+Tennessee               51
+Texas                   64
+Utah                    33
+Vermont                 43
+Virginia                78
+Washington              54
+West Virginia           33
+Wisconsin               35
+Wyoming                 28

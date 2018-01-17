@@ -1,0 +1,53 @@
+                      Zombie
+geoName                     
+Alabama                   61
+Alaska                    81
+Arizona                   73
+Arkansas                  75
+California                57
+Colorado                  67
+Connecticut               49
+Delaware                  56
+District of Columbia      41
+Florida                   54
+Georgia                   57
+Hawaii                    56
+Idaho                     76
+Illinois                  61
+Indiana                   77
+Iowa                     100
+Kansas                    71
+Kentucky                  81
+Louisiana                 62
+Maine                     67
+Maryland                  49
+Massachusetts             48
+Michigan                  66
+Minnesota                 65
+Mississippi               62
+Missouri                  71
+Montana                   70
+Nebraska                  74
+Nevada                    79
+New Hampshire             60
+New Jersey                53
+New Mexico                81
+New York                  48
+North Carolina            59
+North Dakota              70
+Ohio                      72
+Oklahoma                  73
+Oregon                    56
+Pennsylvania              62
+Rhode Island              57
+South Carolina            61
+South Dakota              75
+Tennessee                 66
+Texas                     62
+Utah                      72
+Vermont                   57
+Virginia                  50
+Washington                63
+West Virginia             91
+Wisconsin                 66
+Wyoming                   80

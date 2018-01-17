@@ -1,0 +1,53 @@
+                      Nassar
+geoName                     
+Alabama                   22
+Alaska                    42
+Arizona                   34
+Arkansas                  16
+California                33
+Colorado                  25
+Connecticut               30
+Delaware                  28
+District of Columbia      42
+Florida                   26
+Georgia                   22
+Hawaii                    17
+Idaho                     16
+Illinois                  28
+Indiana                   26
+Iowa                      19
+Kansas                    25
+Kentucky                  19
+Louisiana                 28
+Maine                     21
+Maryland                  29
+Massachusetts             39
+Michigan                 100
+Minnesota                 22
+Mississippi               19
+Missouri                  28
+Montana                   17
+Nebraska                  20
+Nevada                    29
+New Hampshire             39
+New Jersey                28
+New Mexico                36
+New York                  29
+North Carolina            20
+North Dakota              12
+Ohio                      27
+Oklahoma                  37
+Oregon                    29
+Pennsylvania              27
+Rhode Island              51
+South Carolina            21
+South Dakota              21
+Tennessee                 22
+Texas                     27
+Utah                      17
+Vermont                   44
+Virginia                  32
+Washington                23
+West Virginia             14
+Wisconsin                 20
+Wyoming                   15

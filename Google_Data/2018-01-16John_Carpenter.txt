@@ -1,5 +1,7 @@
             John Carpenter
 geoName                   
+Alaska                  41
 California              46
-New York                45
+New York                47
+Oklahoma                52
 Texas                  100

@@ -1,0 +1,53 @@
+                      weather tomorrow
+geoName                               
+Alabama                             56
+Alaska                              18
+Arizona                             32
+Arkansas                            47
+California                          63
+Colorado                            52
+Connecticut                         79
+Delaware                            85
+District of Columbia                60
+Florida                             54
+Georgia                             60
+Hawaii                              34
+Idaho                               38
+Illinois                            62
+Indiana                             54
+Iowa                                44
+Kansas                              42
+Kentucky                            48
+Louisiana                           43
+Maine                               69
+Maryland                            76
+Massachusetts                       86
+Michigan                            62
+Minnesota                           44
+Mississippi                         46
+Missouri                            50
+Montana                             28
+Nebraska                            43
+Nevada                              37
+New Hampshire                       72
+New Jersey                          90
+New Mexico                          42
+New York                            79
+North Carolina                      63
+North Dakota                        27
+Ohio                                57
+Oklahoma                            45
+Oregon                              31
+Pennsylvania                        72
+Rhode Island                       100
+South Carolina                      67
+South Dakota                        37
+Tennessee                           49
+Texas                               46
+Utah                                46
+Vermont                             51
+Virginia                            56
+Washington                          50
+West Virginia                       53
+Wisconsin                           54
+Wyoming                             35

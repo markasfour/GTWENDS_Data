@@ -1,0 +1,53 @@
+                      Ferrero
+geoName                      
+Alabama                    39
+Alaska                     55
+Arizona                    66
+Arkansas                   52
+California                 89
+Colorado                   48
+Connecticut                71
+Delaware                   62
+District of Columbia       68
+Florida                    78
+Georgia                    58
+Hawaii                     57
+Idaho                      42
+Illinois                   71
+Indiana                    44
+Iowa                       37
+Kansas                     45
+Kentucky                   37
+Louisiana                  40
+Maine                      35
+Maryland                   63
+Massachusetts              64
+Michigan                   49
+Minnesota                  43
+Mississippi                33
+Missouri                   42
+Montana                    24
+Nebraska                   47
+Nevada                     77
+New Hampshire              42
+New Jersey                100
+New Mexico                 62
+New York                   88
+North Carolina             48
+North Dakota               33
+Ohio                       43
+Oklahoma                   53
+Oregon                     53
+Pennsylvania               55
+Rhode Island               64
+South Carolina             42
+South Dakota               28
+Tennessee                  41
+Texas                      79
+Utah                       47
+Vermont                    33
+Virginia                   53
+Washington                 64
+West Virginia              40
+Wisconsin                  40
+Wyoming                    41

@@ -1,53 +1,53 @@
                       Cryptocurrency News
 geoName                                  
-Alabama                                42
-Alaska                                 71
-Arizona                                53
-Arkansas                               32
-California                             80
-Colorado                               70
-Connecticut                            71
-Delaware                               56
-District of Columbia                   29
-Florida                                68
-Georgia                                42
-Hawaii                                 55
-Idaho                                  61
-Illinois                               50
-Indiana                                42
-Iowa                                   38
-Kansas                                 28
+Alabama                                38
+Alaska                                 82
+Arizona                                45
+Arkansas                               26
+California                             71
+Colorado                               63
+Connecticut                            55
+Delaware                               46
+District of Columbia                   25
+Florida                                64
+Georgia                                39
+Hawaii                                 56
+Idaho                                  57
+Illinois                               43
+Indiana                                41
+Iowa                                   26
+Kansas                                 26
 Kentucky                               33
-Louisiana                              38
-Maine                                  33
-Maryland                               55
-Massachusetts                          47
-Michigan                               51
-Minnesota                              38
-Mississippi                            26
-Missouri                               38
-Montana                                52
-Nebraska                               39
+Louisiana                              36
+Maine                                  35
+Maryland                               50
+Massachusetts                          45
+Michigan                               42
+Minnesota                              37
+Mississippi                            22
+Missouri                               33
+Montana                                50
+Nebraska                               36
 Nevada                                100
-New Hampshire                          73
-New Jersey                             75
-New Mexico                             53
-New York                               58
-North Carolina                         44
-North Dakota                           83
-Ohio                                   41
-Oklahoma                               35
-Oregon                                 53
-Pennsylvania                           58
-Rhode Island                           43
-South Carolina                         31
-South Dakota                           43
+New Hampshire                          46
+New Jersey                             61
+New Mexico                             47
+New York                               53
+North Carolina                         34
+North Dakota                           58
+Ohio                                   36
+Oklahoma                               28
+Oregon                                 49
+Pennsylvania                           49
+Rhode Island                           39
+South Carolina                         25
+South Dakota                           34
 Tennessee                              39
-Texas                                  51
-Utah                                   78
-Vermont                                26
-Virginia                               45
-Washington                             78
-West Virginia                          24
-Wisconsin                              35
-Wyoming                                25
+Texas                                  45
+Utah                                   72
+Vermont                                28
+Virginia                               40
+Washington                             71
+West Virginia                          31
+Wisconsin                              29
+Wyoming                                17

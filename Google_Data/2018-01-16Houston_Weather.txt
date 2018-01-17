@@ -1,14 +1,14 @@
                       Houston Weather
 geoName                              
 Alabama                             3
-Alaska                              4
+Alaska                              3
 Arizona                             3
 Arkansas                            4
 California                          3
-Colorado                            4
+Colorado                            5
 Connecticut                         2
 Delaware                            2
-District of Columbia                3
+District of Columbia                2
 Florida                             2
 Georgia                             3
 Hawaii                              2
@@ -46,7 +46,7 @@ Tennessee                           3
 Texas                             100
 Utah                                2
 Vermont                             1
-Virginia                            1
+Virginia                            2
 Washington                          3
 West Virginia                       1
 Wisconsin                           2

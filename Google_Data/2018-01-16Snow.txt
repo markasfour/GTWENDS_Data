@@ -1,0 +1,53 @@
+                      Snow
+geoName                   
+Alabama                 29
+Alaska                  76
+Arizona                 32
+Arkansas                30
+California              35
+Colorado                71
+Connecticut             64
+Delaware                52
+District of Columbia    43
+Florida                 25
+Georgia                 30
+Hawaii                  31
+Idaho                   71
+Illinois                39
+Indiana                 40
+Iowa                    46
+Kansas                  35
+Kentucky                40
+Louisiana               26
+Maine                   83
+Maryland                50
+Massachusetts           66
+Michigan                54
+Minnesota               54
+Mississippi             27
+Missouri                37
+Montana                 72
+Nebraska                43
+Nevada                  37
+New Hampshire           78
+New Jersey              51
+New Mexico              38
+New York                50
+North Carolina          39
+North Dakota            55
+Ohio                    48
+Oklahoma                32
+Oregon                  37
+Pennsylvania            52
+Rhode Island            58
+South Carolina          30
+South Dakota            51
+Tennessee               34
+Texas                   27
+Utah                    77
+Vermont                100
+Virginia                39
+Washington              46
+West Virginia           50
+Wisconsin               49
+Wyoming                 77
