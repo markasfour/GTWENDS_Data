@@ -1,0 +1,53 @@
+                      Road Closures
+geoName                            
+Alabama                          11
+Alaska                            7
+Arizona                          18
+Arkansas                          8
+California                       11
+Colorado                         31
+Connecticut                       5
+Delaware                          9
+District of Columbia             19
+Florida                           5
+Georgia                           7
+Hawaii                           24
+Idaho                            22
+Illinois                          9
+Indiana                           8
+Iowa                              9
+Kansas                            6
+Kentucky                          7
+Louisiana                        48
+Maine                             3
+Maryland                          8
+Massachusetts                     5
+Michigan                          6
+Minnesota                        16
+Mississippi                      10
+Missouri                         20
+Montana                          23
+Nebraska                          9
+Nevada                           15
+New Hampshire                     6
+New Jersey                        4
+New Mexico                       15
+New York                          5
+North Carolina                    9
+North Dakota                     13
+Ohio                              7
+Oklahoma                          9
+Oregon                           12
+Pennsylvania                      9
+Rhode Island                      2
+South Carolina                   17
+South Dakota                     10
+Tennessee                         9
+Texas                            21
+Utah                             13
+Vermont                          11
+Virginia                          8
+Washington                       13
+West Virginia                     5
+Wisconsin                         7
+Wyoming                         100

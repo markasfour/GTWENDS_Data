@@ -1,0 +1,53 @@
+                      Huffman
+geoName                      
+Alabama                    22
+Alaska                    100
+Arizona                     5
+Arkansas                    6
+California                  6
+Colorado                    6
+Connecticut                 5
+Delaware                    5
+District of Columbia        9
+Florida                     5
+Georgia                     7
+Hawaii                      4
+Idaho                       5
+Illinois                    7
+Indiana                    12
+Iowa                        9
+Kansas                      7
+Kentucky                   28
+Louisiana                   8
+Maine                       3
+Maryland                    6
+Massachusetts               5
+Michigan                    6
+Minnesota                   5
+Mississippi                 7
+Missouri                    8
+Montana                     6
+Nebraska                    7
+Nevada                      4
+New Hampshire               4
+New Jersey                  9
+New Mexico                  4
+New York                    7
+North Carolina             15
+North Dakota                4
+Ohio                       12
+Oklahoma                   14
+Oregon                      6
+Pennsylvania                7
+Rhode Island                4
+South Carolina              7
+South Dakota                6
+Tennessee                   9
+Texas                      18
+Utah                        4
+Vermont                     5
+Virginia                    8
+Washington                  8
+West Virginia              19
+Wisconsin                   5
+Wyoming                     5

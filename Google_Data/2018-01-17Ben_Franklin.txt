@@ -1,0 +1,53 @@
+                      Ben Franklin
+geoName                           
+Alabama                         10
+Alaska                          14
+Arizona                         10
+Arkansas                        11
+California                       8
+Colorado                        13
+Connecticut                     12
+Delaware                        18
+District of Columbia            16
+Florida                          8
+Georgia                         10
+Hawaii                         100
+Idaho                           12
+Illinois                        11
+Indiana                         16
+Iowa                            16
+Kansas                           9
+Kentucky                        13
+Louisiana                       18
+Maine                           13
+Maryland                        12
+Massachusetts                   13
+Michigan                        10
+Minnesota                       14
+Mississippi                      9
+Missouri                        13
+Montana                         21
+Nebraska                        13
+Nevada                           8
+New Hampshire                   19
+New Jersey                      20
+New Mexico                       8
+New York                         9
+North Carolina                  13
+North Dakota                    29
+Ohio                            13
+Oklahoma                         9
+Oregon                           8
+Pennsylvania                    32
+Rhode Island                    11
+South Carolina                  10
+South Dakota                    15
+Tennessee                       25
+Texas                            8
+Utah                            11
+Vermont                         15
+Virginia                        12
+Washington                      23
+West Virginia                   24
+Wisconsin                       23
+Wyoming                         12

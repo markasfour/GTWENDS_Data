@@ -1,0 +1,53 @@
+                      Atlanta Weather
+geoName                              
+Alabama                            12
+Alaska                              1
+Arizona                             2
+Arkansas                            2
+California                          1
+Colorado                            2
+Connecticut                         2
+Delaware                            2
+District of Columbia                3
+Florida                             6
+Georgia                           100
+Hawaii                              1
+Idaho                               1
+Illinois                            3
+Indiana                             2
+Iowa                                2
+Kansas                              2
+Kentucky                            4
+Louisiana                           4
+Maine                               1
+Maryland                            2
+Massachusetts                       2
+Michigan                            3
+Minnesota                           2
+Mississippi                         7
+Missouri                            2
+Montana                             1
+Nebraska                            2
+Nevada                              2
+New Hampshire                       1
+New Jersey                          2
+New Mexico                          1
+New York                            2
+North Carolina                      5
+North Dakota                        1
+Ohio                                2
+Oklahoma                            2
+Oregon                              1
+Pennsylvania                        2
+Rhode Island                        2
+South Carolina                      8
+South Dakota                        1
+Tennessee                           8
+Texas                               2
+Utah                                1
+Vermont                             1
+Virginia                            2
+Washington                          2
+West Virginia                       1
+Wisconsin                           2
+Wyoming                             1

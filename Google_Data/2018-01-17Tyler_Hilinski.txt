@@ -1,0 +1,32 @@
+                Tyler Hilinski
+geoName                       
+Alabama                     12
+Arizona                     14
+Arkansas                    16
+California                  30
+Colorado                    11
+Florida                      4
+Georgia                      3
+Hawaii                      30
+Idaho                       44
+Illinois                     2
+Kentucky                     8
+Louisiana                    7
+Maryland                     4
+Massachusetts                7
+Michigan                     3
+Minnesota                    4
+Nebraska                    24
+New Jersey                   5
+New York                     2
+North Carolina               3
+North Dakota                37
+Ohio                         4
+Oregon                      16
+Pennsylvania                 5
+Texas                        1
+Utah                         8
+Virginia                     3
+Washington                 100
+Wisconsin                    4
+Wyoming                     55

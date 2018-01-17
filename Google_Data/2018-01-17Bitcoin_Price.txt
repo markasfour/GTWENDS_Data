@@ -1,0 +1,53 @@
+                      Bitcoin Price
+geoName                            
+Alabama                          46
+Alaska                           69
+Arizona                          70
+Arkansas                         47
+California                      100
+Colorado                         77
+Connecticut                      80
+Delaware                         64
+District of Columbia             47
+Florida                          75
+Georgia                          50
+Hawaii                           99
+Idaho                            63
+Illinois                         79
+Indiana                          54
+Iowa                             50
+Kansas                           44
+Kentucky                         40
+Louisiana                        44
+Maine                            51
+Maryland                         68
+Massachusetts                    75
+Michigan                         60
+Minnesota                        62
+Mississippi                      34
+Missouri                         57
+Montana                          70
+Nebraska                         58
+Nevada                           99
+New Hampshire                    72
+New Jersey                       90
+New Mexico                       53
+New York                         88
+North Carolina                   55
+North Dakota                     65
+Ohio                             56
+Oklahoma                         44
+Oregon                           57
+Pennsylvania                     65
+Rhode Island                     62
+South Carolina                   42
+South Dakota                     48
+Tennessee                        48
+Texas                            58
+Utah                             88
+Vermont                          65
+Virginia                         54
+Washington                       99
+West Virginia                    38
+Wisconsin                        57
+Wyoming                          46

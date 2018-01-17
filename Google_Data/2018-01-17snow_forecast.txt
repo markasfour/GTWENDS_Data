@@ -1,0 +1,53 @@
+                      snow forecast
+geoName                            
+Alabama                          16
+Alaska                           32
+Arizona                          15
+Arkansas                         20
+California                       20
+Colorado                         98
+Connecticut                      62
+Delaware                         72
+District of Columbia             56
+Florida                          14
+Georgia                          21
+Hawaii                           22
+Idaho                            40
+Illinois                         29
+Indiana                          32
+Iowa                             35
+Kansas                           28
+Kentucky                         29
+Louisiana                        10
+Maine                            57
+Maryland                         61
+Massachusetts                    77
+Michigan                         29
+Minnesota                        38
+Mississippi                      13
+Missouri                         29
+Montana                          49
+Nebraska                         40
+Nevada                           20
+New Hampshire                    62
+New Jersey                       60
+New Mexico                       26
+New York                         42
+North Carolina                   37
+North Dakota                     25
+Ohio                             27
+Oklahoma                         19
+Oregon                           41
+Pennsylvania                     52
+Rhode Island                     62
+South Carolina                   22
+South Dakota                     30
+Tennessee                        25
+Texas                            11
+Utah                            100
+Vermont                          76
+Virginia                         49
+Washington                       48
+West Virginia                    31
+Wisconsin                        33
+Wyoming                          54
