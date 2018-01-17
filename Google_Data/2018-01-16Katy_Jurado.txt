@@ -1,52 +1,52 @@
                       Katy Jurado
 geoName                          
-Alabama                        40
-Alaska                         62
-Arizona                        54
-Arkansas                       36
-California                     57
-Colorado                       33
-Connecticut                    33
-Delaware                       30
-District of Columbia           23
-Florida                        35
-Georgia                        25
+Alabama                        34
+Alaska                         78
+Arizona                        53
+Arkansas                       47
+California                     54
+Colorado                       28
+Connecticut                    21
+Delaware                       29
+District of Columbia           25
+Florida                        33
+Georgia                        24
 Hawaii                         22
-Idaho                          39
-Illinois                       39
-Indiana                        36
-Iowa                           36
-Kansas                         44
-Kentucky                       30
-Louisiana                      31
-Maine                          30
-Maryland                       28
-Massachusetts                  24
-Michigan                       24
-Minnesota                      18
-Mississippi                    25
-Missouri                       41
-Montana                        51
-Nebraska                       27
-Nevada                         40
-New Hampshire                  35
-New Jersey                     30
-New Mexico                     83
+Idaho                          51
+Illinois                       38
+Indiana                        30
+Iowa                           24
+Kansas                         26
+Kentucky                       34
+Louisiana                      33
+Maine                          28
+Maryland                       36
+Massachusetts                  20
+Michigan                       33
+Minnesota                      24
+Mississippi                    42
+Missouri                       34
+Montana                        44
+Nebraska                       29
+Nevada                         56
+New Hampshire                  30
+New Jersey                     28
+New Mexico                    100
 New York                       32
-North Carolina                 28
-North Dakota                   43
-Ohio                           30
-Oklahoma                       37
-Oregon                         32
-Pennsylvania                   25
-Rhode Island                   20
-South Carolina                 25
-Tennessee                      28
-Texas                          55
-Utah                           40
-Vermont                        28
-Virginia                       24
-Washington                     34
-West Virginia                  30
+North Carolina                 23
+North Dakota                   45
+Ohio                           25
+Oklahoma                       38
+Oregon                         31
+Pennsylvania                   28
+Rhode Island                   40
+South Carolina                 26
+South Dakota                   25
+Tennessee                      26
+Texas                          50
+Utah                           37
+Vermont                        29
+Virginia                       22
+Washington                     30
+West Virginia                  34
 Wisconsin                      26
-Wyoming                       100

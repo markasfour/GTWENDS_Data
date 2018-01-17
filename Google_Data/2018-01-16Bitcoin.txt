@@ -1,0 +1,53 @@
+                      Bitcoin
+geoName                      
+Alabama                    55
+Alaska                     78
+Arizona                    76
+Arkansas                   54
+California                100
+Colorado                   84
+Connecticut                84
+Delaware                   70
+District of Columbia       56
+Florida                    80
+Georgia                    59
+Hawaii                     96
+Idaho                      75
+Illinois                   79
+Indiana                    63
+Iowa                       59
+Kansas                     56
+Kentucky                   51
+Louisiana                  54
+Maine                      60
+Maryland                   78
+Massachusetts              82
+Michigan                   67
+Minnesota                  68
+Mississippi                42
+Missouri                   62
+Montana                    73
+Nebraska                   62
+Nevada                     97
+New Hampshire              78
+New Jersey                 89
+New Mexico                 61
+New York                   93
+North Carolina             61
+North Dakota               68
+Ohio                       64
+Oklahoma                   53
+Oregon                     66
+Pennsylvania               70
+Rhode Island               70
+South Carolina             51
+South Dakota               58
+Tennessee                  55
+Texas                      65
+Utah                       93
+Vermont                    70
+Virginia                   61
+Washington                100
+West Virginia              48
+Wisconsin                  62
+Wyoming                    54

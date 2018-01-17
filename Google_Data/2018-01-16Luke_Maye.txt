@@ -1,0 +1,53 @@
+                      Luke Maye
+geoName                        
+Alabama                       6
+Alaska                        3
+Arizona                       4
+Arkansas                      8
+California                    3
+Colorado                      3
+Connecticut                   8
+Delaware                      8
+District of Columbia          8
+Florida                       4
+Georgia                      11
+Hawaii                        4
+Idaho                         3
+Illinois                      6
+Indiana                       9
+Iowa                          5
+Kansas                        6
+Kentucky                     15
+Louisiana                     3
+Maine                         5
+Maryland                      8
+Massachusetts                 6
+Michigan                      5
+Minnesota                     6
+Mississippi                   4
+Missouri                      5
+Montana                       6
+Nebraska                      7
+Nevada                        4
+New Hampshire                 4
+New Jersey                    6
+New Mexico                    3
+New York                      6
+North Carolina              100
+North Dakota                 12
+Ohio                          7
+Oklahoma                      4
+Oregon                        3
+Pennsylvania                  7
+Rhode Island                  7
+South Carolina               19
+South Dakota                  8
+Tennessee                    11
+Texas                         4
+Utah                          5
+Vermont                       8
+Virginia                     11
+Washington                    3
+West Virginia                 9
+Wisconsin                     5
+Wyoming                       5

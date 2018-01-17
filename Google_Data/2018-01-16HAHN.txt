@@ -1,0 +1,53 @@
+                      HAHN
+geoName                   
+Alabama                 18
+Alaska                  25
+Arizona                 23
+Arkansas                19
+California              31
+Colorado                25
+Connecticut             28
+Delaware                25
+District of Columbia    33
+Florida                 19
+Georgia                 18
+Hawaii                  24
+Idaho                   37
+Illinois                28
+Indiana                 43
+Iowa                    32
+Kansas                  24
+Kentucky                24
+Louisiana               21
+Maine                   22
+Maryland                30
+Massachusetts           25
+Michigan                26
+Minnesota               29
+Mississippi             16
+Missouri                30
+Montana                 28
+Nebraska                33
+Nevada                  20
+New Hampshire           22
+New Jersey              28
+New Mexico              22
+New York                29
+North Carolina          25
+North Dakota            24
+Ohio                    31
+Oklahoma               100
+Oregon                  20
+Pennsylvania            31
+Rhode Island            29
+South Carolina          22
+South Dakota            26
+Tennessee               20
+Texas                   21
+Utah                    18
+Vermont                 22
+Virginia                22
+Washington              32
+West Virginia           37
+Wisconsin               35
+Wyoming                 24

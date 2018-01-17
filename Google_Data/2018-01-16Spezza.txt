@@ -1,0 +1,29 @@
+                      Spezza
+geoName                     
+Arizona                   25
+California                26
+Colorado                  38
+Connecticut               51
+District of Columbia      30
+Florida                   30
+Georgia                   16
+Illinois                  56
+Indiana                   27
+Kansas                    20
+Maryland                  31
+Massachusetts             80
+Michigan                  63
+Minnesota                 70
+Missouri                  88
+Nevada                    23
+New Jersey                69
+New York                  82
+North Carolina            25
+Ohio                      26
+Oregon                    20
+Pennsylvania              79
+Tennessee                 26
+Texas                    100
+Virginia                  22
+Washington                25
+Wisconsin                 22

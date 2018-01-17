@@ -1,5 +1,53 @@
-            Austin Rivers
-geoName                  
-California             94
-Texas                 100
-Wyoming                22
+                      Austin Rivers
+geoName                            
+Alabama                          49
+Alaska                           26
+Arizona                          40
+Arkansas                         43
+California                       72
+Colorado                         29
+Connecticut                      52
+Delaware                         47
+District of Columbia             64
+Florida                          58
+Georgia                          58
+Hawaii                           61
+Idaho                            30
+Illinois                         52
+Indiana                          43
+Iowa                             32
+Kansas                           37
+Kentucky                         47
+Louisiana                       100
+Maine                            45
+Maryland                         61
+Massachusetts                    74
+Michigan                         42
+Minnesota                        40
+Mississippi                      55
+Missouri                         42
+Montana                          39
+Nebraska                         34
+Nevada                           46
+New Hampshire                    54
+New Jersey                       55
+New Mexico                       41
+New York                         58
+North Carolina                   80
+North Dakota                     40
+Ohio                             46
+Oklahoma                         55
+Oregon                           39
+Pennsylvania                     47
+Rhode Island                     61
+South Carolina                   57
+South Dakota                     44
+Tennessee                        48
+Texas                            78
+Utah                             38
+Vermont                          50
+Virginia                         47
+Washington                       37
+West Virginia                    32
+Wisconsin                        44
+Wyoming                          23

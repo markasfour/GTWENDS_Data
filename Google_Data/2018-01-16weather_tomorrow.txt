@@ -1,53 +1,53 @@
                       weather tomorrow
 geoName                               
-Alabama                             56
-Alaska                              18
+Alabama                             58
+Alaska                              20
 Arizona                             32
-Arkansas                            47
-California                          63
-Colorado                            52
-Connecticut                         79
-Delaware                            85
-District of Columbia                60
-Florida                             54
-Georgia                             60
-Hawaii                              34
-Idaho                               38
-Illinois                            62
-Indiana                             54
-Iowa                                44
-Kansas                              42
-Kentucky                            48
-Louisiana                           43
-Maine                               69
-Maryland                            76
-Massachusetts                       86
-Michigan                            62
-Minnesota                           44
+Arkansas                            49
+California                          64
+Colorado                            55
+Connecticut                         80
+Delaware                            87
+District of Columbia                62
+Florida                             56
+Georgia                             62
+Hawaii                              35
+Idaho                               39
+Illinois                            63
+Indiana                             57
+Iowa                                45
+Kansas                              43
+Kentucky                            49
+Louisiana                           44
+Maine                               71
+Maryland                            79
+Massachusetts                       89
+Michigan                            64
+Minnesota                           45
 Mississippi                         46
-Missouri                            50
-Montana                             28
-Nebraska                            43
+Missouri                            51
+Montana                             29
+Nebraska                            46
 Nevada                              37
-New Hampshire                       72
-New Jersey                          90
-New Mexico                          42
-New York                            79
+New Hampshire                       71
+New Jersey                          92
+New Mexico                          40
+New York                            80
 North Carolina                      63
 North Dakota                        27
-Ohio                                57
+Ohio                                60
 Oklahoma                            45
-Oregon                              31
-Pennsylvania                        72
+Oregon                              32
+Pennsylvania                        73
 Rhode Island                       100
-South Carolina                      67
-South Dakota                        37
+South Carolina                      68
+South Dakota                        39
 Tennessee                           49
-Texas                               46
-Utah                                46
-Vermont                             51
-Virginia                            56
-Washington                          50
-West Virginia                       53
+Texas                               47
+Utah                                47
+Vermont                             49
+Virginia                            58
+Washington                          52
+West Virginia                       55
 Wisconsin                           54
-Wyoming                             35
+Wyoming                             34

@@ -1,0 +1,53 @@
+                      New California
+geoName                             
+Alabama                           13
+Alaska                            18
+Arizona                           29
+Arkansas                          15
+California                       100
+Colorado                          21
+Connecticut                       25
+Delaware                          18
+District of Columbia              24
+Florida                           16
+Georgia                           17
+Hawaii                            32
+Idaho                             20
+Illinois                          17
+Indiana                           15
+Iowa                              15
+Kansas                            15
+Kentucky                          13
+Louisiana                         28
+Maine                             19
+Maryland                          17
+Massachusetts                     19
+Michigan                          14
+Minnesota                         15
+Mississippi                       16
+Missouri                          16
+Montana                           17
+Nebraska                          15
+Nevada                            35
+New Hampshire                     27
+New Jersey                        32
+New Mexico                        61
+New York                          37
+North Carolina                    14
+North Dakota                      14
+Ohio                              15
+Oklahoma                          16
+Oregon                            19
+Pennsylvania                      16
+Rhode Island                      20
+South Carolina                    14
+South Dakota                      14
+Tennessee                         13
+Texas                             17
+Utah                              24
+Vermont                           21
+Virginia                          14
+Washington                        19
+West Virginia                     12
+Wisconsin                         13
+Wyoming                           18

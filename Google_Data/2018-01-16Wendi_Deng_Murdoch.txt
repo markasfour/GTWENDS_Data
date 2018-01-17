@@ -1,45 +1,46 @@
                       Wendi Deng Murdoch
 geoName                                 
-Alabama                               23
-Arizona                               39
-Arkansas                              33
-California                            99
-Colorado                              29
-Connecticut                           64
-Delaware                              51
-District of Columbia                  97
-Florida                               38
-Georgia                               32
-Hawaii                                89
-Idaho                                 24
-Illinois                              43
-Indiana                               35
-Iowa                                  25
-Kansas                                29
-Kentucky                              29
-Louisiana                             23
-Maine                                 40
-Maryland                              81
-Massachusetts                         83
-Michigan                              38
-Minnesota                             45
-Missouri                              28
-Nebraska                              15
-Nevada                                23
-New Hampshire                         31
-New Jersey                            63
-New Mexico                            38
+Alabama                               14
+Arizona                               37
+Arkansas                              13
+California                            87
+Colorado                              28
+Connecticut                           59
+Delaware                              54
+District of Columbia                  81
+Florida                               30
+Georgia                               30
+Hawaii                                66
+Idaho                                 22
+Illinois                              48
+Indiana                               29
+Iowa                                   9
+Kansas                                18
+Kentucky                              20
+Louisiana                             27
+Maine                                 72
+Maryland                              61
+Massachusetts                         80
+Michigan                              28
+Minnesota                             42
+Missouri                              29
+Nebraska                              18
+Nevada                                30
+New Hampshire                         33
+New Jersey                            60
+New Mexico                            30
 New York                             100
-North Carolina                        31
-Ohio                                  29
-Oklahoma                              30
-Oregon                                36
-Pennsylvania                          41
-Rhode Island                          56
-South Carolina                        23
-Tennessee                             31
-Texas                                 43
-Utah                                  28
-Virginia                              43
-Washington                            62
-Wisconsin                             23
+North Carolina                        25
+Ohio                                  28
+Oklahoma                              26
+Oregon                                43
+Pennsylvania                          40
+Rhode Island                          84
+South Carolina                        25
+Tennessee                             32
+Texas                                 36
+Utah                                  20
+Vermont                               67
+Virginia                              41
+Washington                            54
+Wisconsin                             31

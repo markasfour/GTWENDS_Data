@@ -1,0 +1,53 @@
+                      ANTM
+geoName                   
+Alabama                 64
+Alaska                  71
+Arizona                 68
+Arkansas                65
+California              82
+Colorado                65
+Connecticut             77
+Delaware                81
+District of Columbia    78
+Florida                 62
+Georgia                 68
+Hawaii                  83
+Idaho                   73
+Illinois                71
+Indiana                 78
+Iowa                    60
+Kansas                  58
+Kentucky                75
+Louisiana               65
+Maine                   95
+Maryland                88
+Massachusetts           86
+Michigan                70
+Minnesota               74
+Mississippi             58
+Missouri                65
+Montana                 65
+Nebraska                59
+Nevada                  73
+New Hampshire           79
+New Jersey              73
+New Mexico              67
+New York                89
+North Carolina          71
+North Dakota            75
+Ohio                    68
+Oklahoma                62
+Oregon                  73
+Pennsylvania            72
+Rhode Island            94
+South Carolina          64
+South Dakota            55
+Tennessee               63
+Texas                   61
+Utah                    87
+Vermont                100
+Virginia                73
+Washington              81
+West Virginia           66
+Wisconsin               65
+Wyoming                 69

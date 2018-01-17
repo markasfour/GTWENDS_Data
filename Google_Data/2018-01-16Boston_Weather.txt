@@ -1,0 +1,53 @@
+                      Boston Weather
+geoName                             
+Alabama                            1
+Alaska                             1
+Arizona                            1
+Arkansas                           0
+California                         1
+Colorado                           1
+Connecticut                        5
+Delaware                           1
+District of Columbia               4
+Florida                            2
+Georgia                            1
+Hawaii                             1
+Idaho                              1
+Illinois                           1
+Indiana                            1
+Iowa                               1
+Kansas                             1
+Kentucky                           1
+Louisiana                          1
+Maine                             10
+Maryland                           2
+Massachusetts                    100
+Michigan                           1
+Minnesota                          1
+Mississippi                        0
+Missouri                           1
+Montana                            1
+Nebraska                           1
+Nevada                             1
+New Hampshire                     19
+New Jersey                         2
+New Mexico                         1
+New York                           4
+North Carolina                     1
+North Dakota                       1
+Ohio                               1
+Oklahoma                           1
+Oregon                             1
+Pennsylvania                       2
+Rhode Island                      11
+South Carolina                     1
+South Dakota                       0
+Tennessee                          1
+Texas                              1
+Utah                               1
+Vermont                            9
+Virginia                           2
+Washington                         1
+West Virginia                      1
+Wisconsin                          1
+Wyoming                            1

@@ -1,0 +1,25 @@
+                FixerUpper
+geoName                   
+Alabama                 76
+Arizona                 82
+California              61
+Colorado                80
+Florida                 69
+Georgia                 69
+Illinois                58
+Indiana                 76
+Massachusetts           56
+Michigan                72
+Minnesota               77
+Missouri               100
+New Jersey              65
+New York                61
+North Carolina          78
+Ohio                    92
+Pennsylvania            82
+South Carolina          66
+Tennessee               94
+Texas                   99
+Virginia                61
+Washington              76
+Wisconsin               61

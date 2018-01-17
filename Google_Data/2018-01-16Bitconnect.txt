@@ -1,0 +1,53 @@
+                      Bitconnect
+geoName                         
+Alabama                       38
+Alaska                        50
+Arizona                       52
+Arkansas                      65
+California                    71
+Colorado                      44
+Connecticut                   55
+Delaware                      56
+District of Columbia          20
+Florida                       77
+Georgia                       50
+Hawaii                        96
+Idaho                         33
+Illinois                      47
+Indiana                       44
+Iowa                          28
+Kansas                        31
+Kentucky                      32
+Louisiana                     44
+Maine                         32
+Maryland                      66
+Massachusetts                 34
+Michigan                      47
+Minnesota                     33
+Mississippi                   43
+Missouri                      42
+Montana                       33
+Nebraska                      24
+Nevada                       100
+New Hampshire                 23
+New Jersey                    65
+New Mexico                    39
+New York                      50
+North Carolina                44
+North Dakota                  44
+Ohio                          40
+Oklahoma                      36
+Oregon                        31
+Pennsylvania                  42
+Rhode Island                  45
+South Carolina                40
+South Dakota                  33
+Tennessee                     42
+Texas                         54
+Utah                          54
+Vermont                       11
+Virginia                      41
+Washington                    62
+West Virginia                 32
+Wisconsin                     40
+Wyoming                       27
