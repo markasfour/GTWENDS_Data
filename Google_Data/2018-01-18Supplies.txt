@@ -1,0 +1,53 @@
+                      Supplies
+geoName                       
+Alabama                     80
+Alaska                      79
+Arizona                     77
+Arkansas                    81
+California                  65
+Colorado                    71
+Connecticut                 68
+Delaware                    72
+District of Columbia        56
+Florida                     75
+Georgia                     66
+Hawaii                      69
+Idaho                       81
+Illinois                    67
+Indiana                     79
+Iowa                        67
+Kansas                      70
+Kentucky                    82
+Louisiana                   85
+Maine                       81
+Maryland                    65
+Massachusetts               64
+Michigan                    88
+Minnesota                   66
+Mississippi                 81
+Missouri                    73
+Montana                     84
+Nebraska                    67
+Nevada                      69
+New Hampshire               76
+New Jersey                  65
+New Mexico                  82
+New York                    74
+North Carolina              72
+North Dakota                70
+Ohio                        88
+Oklahoma                    79
+Oregon                      65
+Pennsylvania                76
+Rhode Island                70
+South Carolina              76
+South Dakota                75
+Tennessee                   76
+Texas                       74
+Utah                        68
+Vermont                     74
+Virginia                    58
+Washington                  72
+West Virginia              100
+Wisconsin                   74
+Wyoming                     87

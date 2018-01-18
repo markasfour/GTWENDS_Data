@@ -1,0 +1,52 @@
+                      Road Conditions Near Me
+geoName                                      
+Alabama                                    31
+Alaska                                     18
+Arizona                                     6
+Arkansas                                   19
+California                                 11
+Colorado                                   21
+Connecticut                                11
+Delaware                                   32
+District of Columbia                        7
+Florida                                     3
+Georgia                                    21
+Idaho                                      44
+Illinois                                   17
+Indiana                                    31
+Iowa                                       21
+Kansas                                     19
+Kentucky                                   27
+Louisiana                                  12
+Maine                                      21
+Maryland                                   19
+Massachusetts                               9
+Michigan                                   32
+Minnesota                                  17
+Mississippi                                21
+Missouri                                   41
+Montana                                    32
+Nebraska                                   25
+Nevada                                     16
+New Hampshire                              16
+New Jersey                                 12
+New Mexico                                 12
+New York                                    8
+North Carolina                             40
+North Dakota                               25
+Ohio                                       25
+Oklahoma                                   10
+Oregon                                     27
+Pennsylvania                               22
+Rhode Island                               11
+South Carolina                             30
+South Dakota                               23
+Tennessee                                  29
+Texas                                      16
+Utah                                       17
+Vermont                                    21
+Virginia                                   22
+Washington                                 20
+West Virginia                              39
+Wisconsin                                  16
+Wyoming                                   100

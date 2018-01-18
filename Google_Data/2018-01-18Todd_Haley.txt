@@ -1,0 +1,52 @@
+                      Todd Haley
+geoName                         
+Alabama                       10
+Alaska                        12
+Arizona                       19
+Arkansas                      10
+California                    11
+Colorado                      18
+Connecticut                   15
+Delaware                      29
+District of Columbia          17
+Florida                       15
+Georgia                       14
+Hawaii                        10
+Idaho                          8
+Illinois                      16
+Indiana                       18
+Iowa                          14
+Kansas                        54
+Kentucky                      16
+Louisiana                     11
+Maine                          8
+Maryland                      32
+Massachusetts                 14
+Michigan                      13
+Minnesota                     12
+Mississippi                   12
+Missouri                      49
+Montana                       11
+Nebraska                      15
+Nevada                        13
+New Hampshire                 12
+New Jersey                    21
+New Mexico                    13
+New York                      16
+North Carolina                17
+North Dakota                  12
+Ohio                          31
+Oklahoma                      12
+Oregon                         7
+Pennsylvania                 100
+Rhode Island                  20
+South Carolina                18
+South Dakota                  19
+Tennessee                     19
+Texas                         12
+Utah                          11
+Vermont                       15
+Virginia                      22
+Washington                    11
+West Virginia                 49
+Wisconsin                     10

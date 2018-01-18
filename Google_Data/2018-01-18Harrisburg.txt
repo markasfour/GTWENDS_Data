@@ -1,0 +1,53 @@
+                      Harrisburg
+geoName                         
+Alabama                        1
+Alaska                         1
+Arizona                        1
+Arkansas                       6
+California                     1
+Colorado                       1
+Connecticut                    2
+Delaware                       8
+District of Columbia          26
+Florida                        1
+Georgia                        2
+Hawaii                         0
+Idaho                          1
+Illinois                       4
+Indiana                        1
+Iowa                           1
+Kansas                         2
+Kentucky                       3
+Louisiana                      1
+Maine                          2
+Maryland                       7
+Massachusetts                  2
+Michigan                       1
+Minnesota                      1
+Mississippi                    2
+Missouri                       3
+Montana                        1
+Nebraska                       2
+Nevada                         1
+New Hampshire                  2
+New Jersey                     8
+New Mexico                     1
+New York                       3
+North Carolina                 9
+North Dakota                   1
+Ohio                           3
+Oklahoma                       1
+Oregon                         3
+Pennsylvania                 100
+Rhode Island                   2
+South Carolina                 3
+South Dakota                  40
+Tennessee                      2
+Texas                          1
+Utah                           1
+Vermont                        2
+Virginia                       7
+Washington                     1
+West Virginia                  4
+Wisconsin                      1
+Wyoming                        1

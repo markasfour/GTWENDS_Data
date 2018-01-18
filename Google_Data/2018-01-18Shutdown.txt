@@ -1,0 +1,53 @@
+                      Shutdown
+geoName                       
+Alabama                     52
+Alaska                      70
+Arizona                     47
+Arkansas                    51
+California                  49
+Colorado                    56
+Connecticut                 45
+Delaware                    47
+District of Columbia       100
+Florida                     41
+Georgia                     49
+Hawaii                      62
+Idaho                       53
+Illinois                    44
+Indiana                     44
+Iowa                        46
+Kansas                      49
+Kentucky                    56
+Louisiana                   44
+Maine                       61
+Maryland                    94
+Massachusetts               52
+Michigan                    44
+Minnesota                   51
+Mississippi                 60
+Missouri                    53
+Montana                     62
+Nebraska                    45
+Nevada                      52
+New Hampshire               55
+New Jersey                  53
+New Mexico                  62
+New York                    45
+North Carolina              47
+North Dakota                51
+Ohio                        47
+Oklahoma                    58
+Oregon                      43
+Pennsylvania                45
+Rhode Island                45
+South Carolina              40
+South Dakota                55
+Tennessee                   46
+Texas                       46
+Utah                        59
+Vermont                     54
+Virginia                    74
+Washington                  58
+West Virginia               59
+Wisconsin                   43
+Wyoming                     60

@@ -1,0 +1,53 @@
+                      Meteor
+geoName                     
+Alabama                   57
+Alaska                    62
+Arizona                  100
+Arkansas                  64
+California                69
+Colorado                  74
+Connecticut               54
+Delaware                  56
+District of Columbia      49
+Florida                   54
+Georgia                   55
+Hawaii                    72
+Idaho                     68
+Illinois                  54
+Indiana                   62
+Iowa                      59
+Kansas                    58
+Kentucky                  57
+Louisiana                 50
+Maine                     82
+Maryland                  53
+Massachusetts             64
+Michigan                  62
+Minnesota                 55
+Mississippi               51
+Missouri                  62
+Montana                   74
+Nebraska                  58
+Nevada                    70
+New Hampshire             80
+New Jersey                50
+New Mexico                81
+New York                  49
+North Carolina            59
+North Dakota              56
+Ohio                      59
+Oklahoma                  57
+Oregon                    60
+Pennsylvania              57
+Rhode Island              56
+South Carolina            64
+South Dakota              59
+Tennessee                 59
+Texas                     56
+Utah                      76
+Vermont                   78
+Virginia                  51
+Washington                72
+West Virginia             72
+Wisconsin                 64
+Wyoming                   77

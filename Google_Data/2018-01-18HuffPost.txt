@@ -1,0 +1,53 @@
+                      HuffPost
+geoName                       
+Alabama                     25
+Alaska                      75
+Arizona                     37
+Arkansas                    26
+California                  51
+Colorado                    58
+Connecticut                 50
+Delaware                    39
+District of Columbia        70
+Florida                     30
+Georgia                     28
+Hawaii                      42
+Idaho                       39
+Illinois                    42
+Indiana                     33
+Iowa                        39
+Kansas                      31
+Kentucky                    30
+Louisiana                   27
+Maine                       67
+Maryland                    53
+Massachusetts               61
+Michigan                    38
+Minnesota                   50
+Mississippi                 19
+Missouri                    35
+Montana                     76
+Nebraska                    36
+Nevada                      37
+New Hampshire               59
+New Jersey                  42
+New Mexico                  56
+New York                    61
+North Carolina              38
+North Dakota                20
+Ohio                        33
+Oklahoma                    25
+Oregon                      54
+Pennsylvania                44
+Rhode Island                57
+South Carolina              30
+South Dakota                33
+Tennessee                   29
+Texas                       28
+Utah                        33
+Vermont                    100
+Virginia                    35
+Washington                  62
+West Virginia               26
+Wisconsin                   46
+Wyoming                     34
