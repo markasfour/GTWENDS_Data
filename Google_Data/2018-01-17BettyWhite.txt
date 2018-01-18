@@ -1,14 +1,14 @@
                BettyWhite
 geoName                  
-California             70
-Florida                76
-Georgia                76
-Illinois               79
-Massachusetts          80
-Michigan              100
-New Jersey             99
-New York               76
-Pennsylvania           92
-Texas                  67
-Virginia               78
-Washington             55
+California             78
+Florida                72
+Georgia                73
+Illinois               86
+Massachusetts          75
+Michigan               88
+New Jersey             66
+New York               70
+Pennsylvania          100
+Texas                  82
+Virginia               49
+Washington             95

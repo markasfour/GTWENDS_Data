@@ -1,0 +1,48 @@
+                      snowday
+geoName                      
+Alabama                     3
+Arizona                     3
+Arkansas                    3
+California                  3
+Colorado                   16
+Connecticut                29
+Delaware                    4
+District of Columbia       11
+Florida                     2
+Georgia                     3
+Idaho                      15
+Illinois                    7
+Indiana                     5
+Iowa                        6
+Kansas                      5
+Kentucky                    7
+Louisiana                   2
+Maine                     100
+Maryland                    9
+Massachusetts              40
+Michigan                   57
+Minnesota                   8
+Mississippi                 3
+Missouri                    9
+Montana                     9
+Nebraska                   11
+Nevada                      3
+New Hampshire              41
+New Jersey                 18
+New York                   25
+North Carolina              4
+North Dakota                5
+Ohio                       28
+Oklahoma                    3
+Oregon                      3
+Pennsylvania                9
+Rhode Island               11
+South Carolina              2
+Tennessee                   4
+Texas                       2
+Utah                        4
+Vermont                    50
+Virginia                    6
+Washington                  3
+West Virginia              12
+Wisconsin                   8

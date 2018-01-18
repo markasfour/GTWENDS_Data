@@ -1,52 +1,52 @@
                       Kirstjen Nielsen
 geoName                               
-Alabama                             12
+Alabama                             10
 Alaska                              10
-Arizona                              9
-Arkansas                             8
-California                          12
-Colorado                            12
-Connecticut                         12
-Delaware                            11
+Arizona                             10
+Arkansas                             9
+California                          11
+Colorado                            11
+Connecticut                         14
+Delaware                            12
 District of Columbia               100
 Florida                             12
 Georgia                              7
-Hawaii                               8
-Idaho                                7
-Illinois                            11
-Indiana                              7
-Iowa                                 5
+Hawaii                              10
+Idaho                                5
+Illinois                            10
+Indiana                              8
+Iowa                                 7
 Kansas                               9
 Kentucky                             6
 Louisiana                            9
-Maine                                8
-Maryland                            32
-Massachusetts                       14
+Maine                                9
+Maryland                            33
+Massachusetts                       13
 Michigan                             9
-Minnesota                           10
-Mississippi                          9
-Missouri                             7
+Minnesota                            9
+Mississippi                         10
+Missouri                            10
 Montana                             10
-Nebraska                             7
-Nevada                               6
-New Hampshire                       16
-New Jersey                          13
-New Mexico                          12
-New York                            11
+Nebraska                             6
+Nevada                               9
+New Hampshire                       13
+New Jersey                          12
+New Mexico                          17
+New York                            12
 North Carolina                      10
-North Dakota                        10
-Ohio                                 9
-Oklahoma                            12
-Oregon                               5
-Pennsylvania                        11
-Rhode Island                        13
-South Carolina                      11
-South Dakota                         7
-Tennessee                            9
+North Dakota                        11
+Ohio                                 8
+Oklahoma                            10
+Oregon                               7
+Pennsylvania                        12
+Rhode Island                        19
+South Carolina                      12
+South Dakota                        14
+Tennessee                           11
 Texas                               11
-Utah                                 7
+Utah                                 9
 Vermont                             19
 Virginia                            28
-Washington                          12
+Washington                          11
 West Virginia                        7
 Wisconsin                           10

@@ -1,53 +1,53 @@
                       Montreal Cognitive Assessment
 geoName                                            
 Alabama                                          21
-Alaska                                           55
-Arizona                                          31
-Arkansas                                         37
-California                                       26
+Alaska                                           70
+Arizona                                          29
+Arkansas                                         34
+California                                       25
 Colorado                                         44
-Connecticut                                      34
-Delaware                                         26
-District of Columbia                             21
+Connecticut                                      27
+Delaware                                         29
+District of Columbia                             22
 Florida                                          24
-Georgia                                          16
-Hawaii                                           13
-Idaho                                            53
+Georgia                                          14
+Hawaii                                           20
+Idaho                                            45
 Illinois                                         27
-Indiana                                          30
-Iowa                                             68
-Kansas                                           20
-Kentucky                                         21
-Louisiana                                        24
+Indiana                                          31
+Iowa                                             65
+Kansas                                           22
+Kentucky                                         24
+Louisiana                                        15
 Maine                                           100
-Maryland                                         50
-Massachusetts                                    52
-Michigan                                         39
-Minnesota                                        46
-Mississippi                                      13
-Missouri                                         36
-Montana                                          50
-Nebraska                                         58
-Nevada                                           22
-New Hampshire                                    63
-New Jersey                                       16
-New Mexico                                       51
-New York                                         27
-North Carolina                                   29
-North Dakota                                     62
+Maryland                                         45
+Massachusetts                                    50
+Michigan                                         36
+Minnesota                                        51
+Mississippi                                      15
+Missouri                                         35
+Montana                                          47
+Nebraska                                         53
+Nevada                                           19
+New Hampshire                                    54
+New Jersey                                       15
+New Mexico                                       52
+New York                                         25
+North Carolina                                   28
+North Dakota                                     41
 Ohio                                             40
-Oklahoma                                         22
-Oregon                                           36
-Pennsylvania                                     48
-Rhode Island                                     34
-South Carolina                                   21
-South Dakota                                     71
+Oklahoma                                         27
+Oregon                                           33
+Pennsylvania                                     43
+Rhode Island                                     30
+South Carolina                                   15
+South Dakota                                     54
 Tennessee                                        28
-Texas                                            17
-Utah                                             33
-Vermont                                          87
+Texas                                            18
+Utah                                             29
+Vermont                                          60
 Virginia                                         22
-Washington                                       30
-West Virginia                                    31
-Wisconsin                                        45
-Wyoming                                          33
+Washington                                       32
+West Virginia                                    22
+Wisconsin                                        42
+Wyoming                                          42

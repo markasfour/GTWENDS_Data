@@ -1,53 +1,53 @@
                       Paul Pierce
 geoName                          
 Alabama                        21
-Alaska                         17
+Alaska                         15
 Arizona                        15
-Arkansas                       15
+Arkansas                       17
 California                     24
-Colorado                       13
-Connecticut                    36
+Colorado                       14
+Connecticut                    35
 Delaware                       24
-District of Columbia           34
-Florida                        22
-Georgia                        23
-Hawaii                         20
+District of Columbia           35
+Florida                        23
+Georgia                        24
+Hawaii                         22
 Idaho                          11
-Illinois                       22
-Indiana                        17
+Illinois                       23
+Indiana                        18
 Iowa                           15
 Kansas                         30
 Kentucky                       19
-Louisiana                      20
-Maine                          60
+Louisiana                      21
+Maine                          61
 Maryland                       30
 Massachusetts                 100
 Michigan                       18
 Minnesota                      22
-Mississippi                    25
+Mississippi                    24
 Missouri                       20
-Montana                        14
-Nebraska                       20
+Montana                        13
+Nebraska                       19
 Nevada                         20
-New Hampshire                  68
-New Jersey                     27
-New Mexico                     14
+New Hampshire                  73
+New Jersey                     29
+New Mexico                     13
 New York                       32
 North Carolina                 21
-North Dakota                   16
+North Dakota                   15
 Ohio                           21
-Oklahoma                       19
-Oregon                         12
+Oklahoma                       20
+Oregon                         13
 Pennsylvania                   20
-Rhode Island                   76
-South Carolina                 21
-South Dakota                   17
-Tennessee                      19
+Rhode Island                   74
+South Carolina                 20
+South Dakota                   16
+Tennessee                      18
 Texas                          18
 Utah                           16
-Vermont                        36
+Vermont                        37
 Virginia                       23
 Washington                     17
 West Virginia                  17
-Wisconsin                      15
-Wyoming                        11
+Wisconsin                      16
+Wyoming                        12

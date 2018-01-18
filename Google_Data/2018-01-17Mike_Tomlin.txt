@@ -1,0 +1,53 @@
+                      Mike Tomlin
+geoName                          
+Alabama                        30
+Alaska                         19
+Arizona                        25
+Arkansas                       28
+California                     20
+Colorado                       31
+Connecticut                    34
+Delaware                       59
+District of Columbia           50
+Florida                        27
+Georgia                        36
+Hawaii                         21
+Idaho                          20
+Illinois                       28
+Indiana                        29
+Iowa                           29
+Kansas                         24
+Kentucky                       38
+Louisiana                      34
+Maine                          28
+Maryland                       66
+Massachusetts                  41
+Michigan                       30
+Minnesota                      30
+Mississippi                    39
+Missouri                       28
+Montana                        21
+Nebraska                       28
+Nevada                         27
+New Hampshire                  39
+New Jersey                     34
+New Mexico                     24
+New York                       27
+North Carolina                 40
+North Dakota                   31
+Ohio                           54
+Oklahoma                       24
+Oregon                         12
+Pennsylvania                  100
+Rhode Island                   37
+South Carolina                 40
+South Dakota                   31
+Tennessee                      34
+Texas                          26
+Utah                           21
+Vermont                        23
+Virginia                       49
+Washington                     24
+West Virginia                  72
+Wisconsin                      27
+Wyoming                        24

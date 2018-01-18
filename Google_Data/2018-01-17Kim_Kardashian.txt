@@ -2,52 +2,52 @@
 geoName                             
 Alabama                           61
 Alaska                            54
-Arizona                           89
+Arizona                           88
 Arkansas                          56
 California                       100
 Colorado                          65
 Connecticut                       78
 Delaware                          74
 District of Columbia              84
-Florida                           81
-Georgia                           74
+Florida                           80
+Georgia                           75
 Hawaii                            88
 Idaho                             51
-Illinois                          78
-Indiana                           59
-Iowa                              54
-Kansas                            60
+Illinois                          79
+Indiana                           61
+Iowa                              55
+Kansas                            61
 Kentucky                          68
-Louisiana                         82
+Louisiana                         81
 Maine                             50
 Maryland                          77
-Massachusetts                     79
-Michigan                          69
-Minnesota                         62
+Massachusetts                     80
+Michigan                          68
+Minnesota                         63
 Mississippi                       68
 Missouri                          62
-Montana                           50
+Montana                           49
 Nebraska                          59
-Nevada                            93
+Nevada                            94
 New Hampshire                     59
 New Jersey                        92
 New Mexico                        87
 New York                          98
-North Carolina                    63
+North Carolina                    64
 North Dakota                      59
-Ohio                              63
+Ohio                              64
 Oklahoma                          72
 Oregon                            48
 Pennsylvania                      74
-Rhode Island                      84
+Rhode Island                      85
 South Carolina                    63
-South Dakota                      54
+South Dakota                      55
 Tennessee                         62
 Texas                             87
-Utah                              57
-Vermont                           51
+Utah                              58
+Vermont                           50
 Virginia                          64
 Washington                        67
 West Virginia                     62
 Wisconsin                         58
-Wyoming                           48
+Wyoming                           49

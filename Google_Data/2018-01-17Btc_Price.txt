@@ -1,0 +1,53 @@
+                      Btc Price
+geoName                        
+Alabama                      35
+Alaska                       35
+Arizona                      45
+Arkansas                     39
+California                   77
+Colorado                     68
+Connecticut                  69
+Delaware                     39
+District of Columbia         41
+Florida                      55
+Georgia                      36
+Hawaii                       90
+Idaho                        44
+Illinois                     56
+Indiana                      38
+Iowa                         40
+Kansas                       29
+Kentucky                     32
+Louisiana                    39
+Maine                        52
+Maryland                     55
+Massachusetts                66
+Michigan                     47
+Minnesota                    43
+Mississippi                  30
+Missouri                     42
+Montana                      34
+Nebraska                     45
+Nevada                      100
+New Hampshire                61
+New Jersey                   64
+New Mexico                   35
+New York                     67
+North Carolina               40
+North Dakota                 50
+Ohio                         44
+Oklahoma                     28
+Oregon                       42
+Pennsylvania                 46
+Rhode Island                 42
+South Carolina               26
+South Dakota                 27
+Tennessee                    30
+Texas                        46
+Utah                         59
+Vermont                      54
+Virginia                     47
+Washington                   86
+West Virginia                27
+Wisconsin                    39
+Wyoming                      33

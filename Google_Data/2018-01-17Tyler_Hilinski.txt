@@ -1,32 +1,33 @@
-                Tyler Hilinski
-geoName                       
-Alabama                     12
-Arizona                     14
-Arkansas                    16
-California                  30
-Colorado                    11
-Florida                      4
-Georgia                      3
-Hawaii                      30
-Idaho                       44
-Illinois                     2
-Kentucky                     8
-Louisiana                    7
-Maryland                     4
-Massachusetts                7
-Michigan                     3
-Minnesota                    4
-Nebraska                    24
-New Jersey                   5
-New York                     2
-North Carolina               3
-North Dakota                37
-Ohio                         4
-Oregon                      16
-Pennsylvania                 5
-Texas                        1
-Utah                         8
-Virginia                     3
-Washington                 100
-Wisconsin                    4
-Wyoming                     55
+                      Tyler Hilinski
+geoName                             
+Alabama                            8
+Arizona                           14
+Arkansas                          12
+California                        26
+Colorado                           8
+District of Columbia               9
+Florida                            4
+Georgia                            3
+Hawaii                            30
+Idaho                             44
+Illinois                           2
+Kentucky                           8
+Louisiana                          7
+Maryland                           4
+Massachusetts                      5
+Michigan                           5
+Nebraska                          24
+New Hampshire                     17
+New Jersey                         5
+New York                           1
+North Carolina                     4
+Ohio                               4
+Oregon                             9
+Pennsylvania                       3
+South Carolina                     6
+Texas                              3
+Utah                               8
+Virginia                           2
+Washington                       100
+Wisconsin                          5
+Wyoming                           55
