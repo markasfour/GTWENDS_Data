@@ -1,0 +1,53 @@
+                      Bob Dole
+geoName                       
+Alabama                     24
+Alaska                      20
+Arizona                     22
+Arkansas                    27
+California                  23
+Colorado                    28
+Connecticut                 32
+Delaware                    29
+District of Columbia        60
+Florida                     22
+Georgia                     23
+Hawaii                      20
+Idaho                       26
+Illinois                    32
+Indiana                     29
+Iowa                        34
+Kansas                     100
+Kentucky                    26
+Louisiana                   21
+Maine                       34
+Maryland                    34
+Massachusetts               33
+Michigan                    26
+Minnesota                   28
+Mississippi                 21
+Missouri                    37
+Montana                     19
+Nebraska                    28
+Nevada                      22
+New Hampshire               28
+New Jersey                  29
+New Mexico                  22
+New York                    28
+North Carolina              25
+North Dakota                27
+Ohio                        29
+Oklahoma                    26
+Oregon                      21
+Pennsylvania                27
+Rhode Island                32
+South Carolina              23
+South Dakota                22
+Tennessee                   25
+Texas                       21
+Utah                        18
+Vermont                     34
+Virginia                    28
+Washington                  26
+West Virginia               26
+Wisconsin                   26
+Wyoming                     22

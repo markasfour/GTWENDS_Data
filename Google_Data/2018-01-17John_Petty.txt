@@ -1,0 +1,26 @@
+                John Petty
+geoName                   
+Alabama                100
+Arizona                  8
+California               8
+Florida                  9
+Georgia                 15
+Illinois                 9
+Indiana                 15
+Kentucky                15
+Louisiana               11
+Massachusetts            9
+Michigan                 9
+Minnesota                8
+Mississippi             11
+Missouri                 9
+New Jersey               8
+New York                 8
+North Carolina          11
+Ohio                     9
+Pennsylvania             9
+South Carolina          12
+Tennessee               18
+Texas                   10
+Virginia                 8
+Washington               7

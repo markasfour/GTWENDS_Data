@@ -1,53 +1,53 @@
                       Ronaldinho
 geoName                         
-Alabama                       34
-Alaska                        25
+Alabama                       35
+Alaska                        27
 Arizona                       65
 Arkansas                      38
-California                    98
-Colorado                      56
-Connecticut                   67
-Delaware                      59
-District of Columbia          65
-Florida                       80
+California                    97
+Colorado                      57
+Connecticut                   69
+Delaware                      55
+District of Columbia          64
+Florida                       81
 Georgia                       62
-Hawaii                        44
-Idaho                         46
+Hawaii                        49
+Idaho                         44
 Illinois                      70
-Indiana                       43
+Indiana                       42
 Iowa                          38
-Kansas                        64
-Kentucky                      35
-Louisiana                     43
-Maine                         33
-Maryland                      72
+Kansas                        66
+Kentucky                      37
+Louisiana                     42
+Maine                         34
+Maryland                      73
 Massachusetts                 61
-Michigan                      42
-Minnesota                     48
-Mississippi                   29
-Missouri                      43
+Michigan                      41
+Minnesota                     49
+Mississippi                   27
+Missouri                      40
 Montana                       15
-Nebraska                      49
-Nevada                        82
-New Hampshire                 35
+Nebraska                      48
+Nevada                        78
+New Hampshire                 36
 New Jersey                    93
-New Mexico                    45
-New York                      81
-North Carolina                57
-North Dakota                  34
-Ohio                          35
-Oklahoma                      51
-Oregon                        98
-Pennsylvania                  44
-Rhode Island                  60
+New Mexico                    46
+New York                      80
+North Carolina                58
+North Dakota                  33
+Ohio                          36
+Oklahoma                      49
+Oregon                        97
+Pennsylvania                  45
+Rhode Island                  63
 South Carolina                43
-South Dakota                  33
-Tennessee                     39
-Texas                         92
-Utah                          62
+South Dakota                  32
+Tennessee                     40
+Texas                         94
+Utah                          63
 Vermont                       42
 Virginia                     100
-Washington                    55
-West Virginia                 24
-Wisconsin                     39
-Wyoming                       34
+Washington                    53
+West Virginia                 25
+Wisconsin                     38
+Wyoming                       32

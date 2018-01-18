@@ -1,0 +1,53 @@
+                      Jordan Bell
+geoName                          
+Alabama                        30
+Alaska                         25
+Arizona                        27
+Arkansas                       23
+California                     61
+Colorado                       21
+Connecticut                    23
+Delaware                       22
+District of Columbia           24
+Florida                        21
+Georgia                        25
+Hawaii                         30
+Idaho                          25
+Illinois                       35
+Indiana                        27
+Iowa                           27
+Kansas                         24
+Kentucky                       27
+Louisiana                      28
+Maine                          17
+Maryland                       26
+Massachusetts                  22
+Michigan                       24
+Minnesota                      26
+Mississippi                    29
+Missouri                       24
+Montana                        24
+Nebraska                       37
+Nevada                         34
+New Hampshire                  19
+New Jersey                     24
+New Mexico                     15
+New York                       25
+North Carolina                 28
+North Dakota                   27
+Ohio                           27
+Oklahoma                       19
+Oregon                         91
+Pennsylvania                   24
+Rhode Island                   22
+South Carolina                 24
+South Dakota                   29
+Tennessee                      25
+Texas                          23
+Utah                          100
+Vermont                        14
+Virginia                       20
+Washington                     29
+West Virginia                  19
+Wisconsin                      22
+Wyoming                        13

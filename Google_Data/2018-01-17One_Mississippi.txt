@@ -1,0 +1,53 @@
+                      One Mississippi
+geoName                              
+Alabama                             6
+Alaska                              1
+Arizona                             2
+Arkansas                            5
+California                          1
+Colorado                            2
+Connecticut                         1
+Delaware                            2
+District of Columbia                2
+Florida                             2
+Georgia                             4
+Hawaii                              1
+Idaho                               2
+Illinois                            2
+Indiana                             2
+Iowa                                3
+Kansas                              2
+Kentucky                            3
+Louisiana                           9
+Maine                               2
+Maryland                            1
+Massachusetts                       2
+Michigan                            2
+Minnesota                           2
+Mississippi                       100
+Missouri                            3
+Montana                             1
+Nebraska                            2
+Nevada                              1
+New Hampshire                       2
+New Jersey                          1
+New Mexico                          2
+New York                            2
+North Carolina                      2
+North Dakota                        2
+Ohio                                2
+Oklahoma                            2
+Oregon                              2
+Pennsylvania                        2
+Rhode Island                        2
+South Carolina                      2
+South Dakota                        2
+Tennessee                           5
+Texas                               2
+Utah                                2
+Vermont                             2
+Virginia                            1
+Washington                          2
+West Virginia                       2
+Wisconsin                           2
+Wyoming                             1

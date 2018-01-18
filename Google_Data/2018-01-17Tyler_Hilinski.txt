@@ -1,33 +1,33 @@
-                      Tyler Hilinski
-geoName                             
-Alabama                            8
-Arizona                           14
-Arkansas                          12
-California                        26
-Colorado                           8
-District of Columbia               9
-Florida                            4
-Georgia                            3
-Hawaii                            30
-Idaho                             44
-Illinois                           2
-Kentucky                           8
-Louisiana                          7
-Maryland                           4
-Massachusetts                      5
-Michigan                           5
-Nebraska                          24
-New Hampshire                     17
-New Jersey                         5
-New York                           1
-North Carolina                     4
-Ohio                               4
-Oregon                             9
-Pennsylvania                       3
-South Carolina                     6
-Texas                              3
-Utah                               8
-Virginia                           2
-Washington                       100
-Wisconsin                          5
-Wyoming                           55
+                Tyler Hilinski
+geoName                       
+Alabama                      9
+Arizona                      9
+Arkansas                    14
+California                  27
+Colorado                     5
+Florida                      3
+Georgia                      2
+Hawaii                      15
+Idaho                       44
+Illinois                     3
+Louisiana                   11
+Maryland                     5
+Massachusetts                4
+Michigan                     3
+Minnesota                    5
+Nevada                       8
+New Jersey                   2
+New Mexico                  16
+New York                     3
+North Carolina               4
+Ohio                         5
+Oregon                      18
+Pennsylvania                 6
+Rhode Island                20
+Tennessee                    4
+Texas                        2
+Utah                        24
+Virginia                     2
+Washington                 100
+Wisconsin                    4
+Wyoming                     55

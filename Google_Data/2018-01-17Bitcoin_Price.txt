@@ -1,53 +1,53 @@
                       Bitcoin Price
 geoName                            
-Alabama                          46
-Alaska                           67
-Arizona                          69
-Arkansas                         48
-California                       99
-Colorado                         77
+Alabama                          44
+Alaska                           64
+Arizona                          67
+Arkansas                         45
+California                       98
+Colorado                         76
 Connecticut                      80
 Delaware                         62
-District of Columbia             46
-Florida                          74
+District of Columbia             45
+Florida                          73
 Georgia                          50
 Hawaii                          100
-Idaho                            63
-Illinois                         78
-Indiana                          55
-Iowa                             52
-Kansas                           43
-Kentucky                         40
+Idaho                            64
+Illinois                         77
+Indiana                          52
+Iowa                             50
+Kansas                           42
+Kentucky                         41
 Louisiana                        43
 Maine                            48
-Maryland                         69
-Massachusetts                    74
-Michigan                         60
-Minnesota                        63
-Mississippi                      33
+Maryland                         68
+Massachusetts                    73
+Michigan                         59
+Minnesota                        62
+Mississippi                      32
 Missouri                         56
-Montana                          69
+Montana                          70
 Nebraska                         58
-Nevada                           98
-New Hampshire                    71
-New Jersey                       90
-New Mexico                       52
-New York                         88
-North Carolina                   55
-North Dakota                     64
-Ohio                             56
+Nevada                           96
+New Hampshire                    70
+New Jersey                       89
+New Mexico                       54
+New York                         86
+North Carolina                   54
+North Dakota                     63
+Ohio                             54
 Oklahoma                         43
 Oregon                           57
-Pennsylvania                     64
-Rhode Island                     62
-South Carolina                   42
-South Dakota                     50
-Tennessee                        48
+Pennsylvania                     63
+Rhode Island                     61
+South Carolina                   41
+South Dakota                     48
+Tennessee                        47
 Texas                            58
-Utah                             87
-Vermont                          65
-Virginia                         54
-Washington                       99
-West Virginia                    38
+Utah                             85
+Vermont                          60
+Virginia                         53
+Washington                      100
+West Virginia                    37
 Wisconsin                        56
-Wyoming                          46
+Wyoming                          44

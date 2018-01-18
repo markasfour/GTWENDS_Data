@@ -1,50 +1,52 @@
                       Todd Haley
 geoName                         
-Alabama                       12
-Arizona                       19
-Arkansas                      10
-California                    10
-Colorado                      18
-Connecticut                   14
-Delaware                      35
-District of Columbia          18
-Florida                       14
+Alabama                       11
+Alaska                        12
+Arizona                       21
+Arkansas                      12
+California                    11
+Colorado                      16
+Connecticut                   13
+Delaware                      33
+District of Columbia          19
+Florida                       15
 Georgia                       15
-Hawaii                        11
+Hawaii                        10
 Idaho                          9
-Illinois                      16
-Indiana                       15
-Iowa                          15
-Kansas                        55
-Kentucky                      18
+Illinois                      17
+Indiana                       16
+Iowa                          20
+Kansas                        57
+Kentucky                      19
 Louisiana                     11
-Maine                          8
+Maine                         11
 Maryland                      30
-Massachusetts                 14
-Michigan                      11
-Minnesota                     11
-Mississippi                   10
-Missouri                      42
-Montana                       13
-Nebraska                      21
+Massachusetts                 15
+Michigan                      14
+Minnesota                     10
+Mississippi                   14
+Missouri                      47
+Montana                        4
+Nebraska                      20
 Nevada                        16
-New Hampshire                  9
+New Hampshire                 12
 New Jersey                    20
-New Mexico                    16
-New York                      14
-North Carolina                16
+New Mexico                    17
+New York                      16
+North Carolina                18
 North Dakota                  20
-Ohio                          29
-Oklahoma                      11
+Ohio                          30
+Oklahoma                      14
 Oregon                         8
 Pennsylvania                 100
-Rhode Island                  15
-South Carolina                18
-South Dakota                  24
-Tennessee                     16
+Rhode Island                  17
+South Carolina                20
+South Dakota                  27
+Tennessee                     14
 Texas                         13
-Utah                          11
-Virginia                      21
+Utah                          10
+Vermont                       13
+Virginia                      24
 Washington                    11
-West Virginia                 39
-Wisconsin                     11
+West Virginia                 45
+Wisconsin                     12

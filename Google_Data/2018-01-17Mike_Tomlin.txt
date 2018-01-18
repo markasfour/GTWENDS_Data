@@ -1,53 +1,53 @@
                       Mike Tomlin
 geoName                          
 Alabama                        30
-Alaska                         19
-Arizona                        25
-Arkansas                       28
-California                     20
-Colorado                       31
+Alaska                         18
+Arizona                        26
+Arkansas                       30
+California                     19
+Colorado                       30
 Connecticut                    34
-Delaware                       59
+Delaware                       52
 District of Columbia           50
-Florida                        27
-Georgia                        36
-Hawaii                         21
+Florida                        28
+Georgia                        37
+Hawaii                         20
 Idaho                          20
 Illinois                       28
-Indiana                        29
-Iowa                           29
-Kansas                         24
-Kentucky                       38
-Louisiana                      34
+Indiana                        30
+Iowa                           32
+Kansas                         26
+Kentucky                       35
+Louisiana                      33
 Maine                          28
-Maryland                       66
+Maryland                       68
 Massachusetts                  41
 Michigan                       30
-Minnesota                      30
-Mississippi                    39
-Missouri                       28
-Montana                        21
-Nebraska                       28
-Nevada                         27
-New Hampshire                  39
-New Jersey                     34
-New Mexico                     24
+Minnesota                      29
+Mississippi                    40
+Missouri                       29
+Montana                        23
+Nebraska                       29
+Nevada                         29
+New Hampshire                  36
+New Jersey                     33
+New Mexico                     25
 New York                       27
-North Carolina                 40
-North Dakota                   31
-Ohio                           54
-Oklahoma                       24
-Oregon                         12
+North Carolina                 41
+North Dakota                   35
+Ohio                           55
+Oklahoma                       25
+Oregon                         14
 Pennsylvania                  100
 Rhode Island                   37
 South Carolina                 40
 South Dakota                   31
 Tennessee                      34
 Texas                          26
-Utah                           21
-Vermont                        23
-Virginia                       49
+Utah                           20
+Vermont                        27
+Virginia                       48
 Washington                     24
-West Virginia                  72
-Wisconsin                      27
-Wyoming                        24
+West Virginia                  75
+Wisconsin                      28
+Wyoming                        25

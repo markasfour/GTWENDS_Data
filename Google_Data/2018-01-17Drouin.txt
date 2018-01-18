@@ -1,0 +1,45 @@
+                      Drouin
+geoName                     
+Alabama                    3
+Arizona                    5
+California                 6
+Colorado                  10
+Connecticut               22
+Delaware                  10
+District of Columbia      11
+Florida                   24
+Georgia                    5
+Hawaii                     7
+Illinois                  12
+Indiana                    8
+Iowa                       4
+Kansas                     6
+Kentucky                   3
+Louisiana                  4
+Maine                    100
+Maryland                   7
+Massachusetts             25
+Michigan                  13
+Minnesota                 19
+Missouri                  11
+Nebraska                   3
+Nevada                     6
+New Hampshire             80
+New Jersey                12
+New York                  15
+North Carolina             8
+North Dakota              12
+Ohio                       5
+Oklahoma                   3
+Oregon                     6
+Pennsylvania              13
+Rhode Island              13
+South Carolina             5
+South Dakota               8
+Tennessee                  5
+Texas                      4
+Utah                       3
+Vermont                   23
+Virginia                   8
+Washington                 6
+Wisconsin                  6

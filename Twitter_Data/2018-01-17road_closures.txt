@@ -21,7 +21,7 @@ ME 0
 MD 9
 MA 0
 MI 0
-MN 2
+MN 5
 MS 7
 MO 0
 MT 0
@@ -44,7 +44,7 @@ TN 3
 TX 11
 UT 2
 VT 0
-VA 2
+VA 4
 WA 0
 WV 0
 WI 0

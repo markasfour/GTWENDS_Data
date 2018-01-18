@@ -1,0 +1,53 @@
+                      Steven Adams
+geoName                           
+Alabama                          7
+Alaska                           8
+Arizona                          7
+Arkansas                        11
+California                      10
+Colorado                         7
+Connecticut                      9
+Delaware                         9
+District of Columbia             9
+Florida                          7
+Georgia                          7
+Hawaii                          10
+Idaho                            8
+Illinois                         9
+Indiana                          8
+Iowa                             8
+Kansas                           8
+Kentucky                         8
+Louisiana                        9
+Maine                            7
+Maryland                         8
+Massachusetts                    9
+Michigan                         7
+Minnesota                        7
+Mississippi                      8
+Missouri                         9
+Montana                          7
+Nebraska                         8
+Nevada                           7
+New Hampshire                    6
+New Jersey                       8
+New Mexico                       6
+New York                         9
+North Carolina                   8
+North Dakota                     7
+Ohio                             9
+Oklahoma                       100
+Oregon                           7
+Pennsylvania                    10
+Rhode Island                     8
+South Carolina                   7
+South Dakota                     9
+Tennessee                        8
+Texas                           11
+Utah                            11
+Vermont                          7
+Virginia                         6
+Washington                       7
+West Virginia                    7
+Wisconsin                        7
+Wyoming                          7

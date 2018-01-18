@@ -1,0 +1,53 @@
+                      Ted Bundy
+geoName                        
+Alabama                      40
+Alaska                       36
+Arizona                      38
+Arkansas                     35
+California                   32
+Colorado                     40
+Connecticut                  33
+Delaware                     33
+District of Columbia         31
+Florida                      41
+Georgia                      36
+Hawaii                       27
+Idaho                        46
+Illinois                     34
+Indiana                      39
+Iowa                         34
+Kansas                       34
+Kentucky                     44
+Louisiana                    36
+Maine                        36
+Maryland                     33
+Massachusetts                32
+Michigan                     34
+Minnesota                    33
+Mississippi                  38
+Missouri                     36
+Montana                      40
+Nebraska                     36
+Nevada                       38
+New Hampshire                33
+New Jersey                   33
+New Mexico                   38
+New York                     33
+North Carolina               32
+North Dakota                 41
+Ohio                         36
+Oklahoma                     38
+Oregon                       32
+Pennsylvania                 37
+Rhode Island                 36
+South Carolina               36
+South Dakota                 37
+Tennessee                    38
+Texas                        35
+Utah                        100
+Vermont                      46
+Virginia                     29
+Washington                   57
+West Virginia                43
+Wisconsin                    34
+Wyoming                      49

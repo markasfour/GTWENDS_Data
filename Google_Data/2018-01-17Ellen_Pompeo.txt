@@ -1,53 +1,53 @@
                       Ellen Pompeo
 geoName                           
-Alabama                         82
-Alaska                          59
-Arizona                         67
-Arkansas                        74
-California                      66
-Colorado                        64
-Connecticut                     84
-Delaware                        80
-District of Columbia            69
-Florida                         64
-Georgia                         69
+Alabama                         88
+Alaska                          61
+Arizona                         73
+Arkansas                        78
+California                      70
+Colorado                        66
+Connecticut                     86
+Delaware                        81
+District of Columbia            74
+Florida                         68
+Georgia                         71
 Hawaii                          66
-Idaho                           67
-Illinois                        71
-Indiana                         76
-Iowa                            75
-Kansas                          70
-Kentucky                        83
-Louisiana                       81
-Maine                           87
-Maryland                        73
-Massachusetts                   94
-Michigan                        73
-Minnesota                       72
-Mississippi                     78
-Missouri                        75
-Montana                         65
-Nebraska                        72
-Nevada                          62
-New Hampshire                   80
-New Jersey                      83
-New Mexico                      66
-New York                        78
-North Carolina                  71
-North Dakota                    83
-Ohio                            77
-Oklahoma                        76
-Oregon                          48
-Pennsylvania                    82
+Idaho                           69
+Illinois                        75
+Indiana                         80
+Iowa                            80
+Kansas                          74
+Kentucky                        87
+Louisiana                       85
+Maine                           93
+Maryland                        78
+Massachusetts                   98
+Michigan                        75
+Minnesota                       74
+Mississippi                     85
+Missouri                        79
+Montana                         73
+Nebraska                        80
+Nevada                          68
+New Hampshire                   87
+New Jersey                      87
+New Mexico                      71
+New York                        83
+North Carolina                  75
+North Dakota                    80
+Ohio                            81
+Oklahoma                        83
+Oregon                          52
+Pennsylvania                    83
 Rhode Island                   100
-South Carolina                  73
+South Carolina                  75
 South Dakota                    72
-Tennessee                       77
-Texas                           70
-Utah                            70
-Vermont                         74
-Virginia                        63
-Washington                      66
-West Virginia                   81
-Wisconsin                       68
-Wyoming                         70
+Tennessee                       79
+Texas                           74
+Utah                            76
+Vermont                         77
+Virginia                        66
+Washington                      68
+West Virginia                   88
+Wisconsin                       74
+Wyoming                         77

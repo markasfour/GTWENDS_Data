@@ -1,0 +1,53 @@
+                      Fake News Awards
+geoName                               
+Alabama                             50
+Alaska                              52
+Arizona                             54
+Arkansas                            51
+California                          49
+Colorado                            43
+Connecticut                        100
+Delaware                            87
+District of Columbia                52
+Florida                             52
+Georgia                             51
+Hawaii                              37
+Idaho                               46
+Illinois                            53
+Indiana                             63
+Iowa                                48
+Kansas                              24
+Kentucky                            41
+Louisiana                           38
+Maine                               71
+Maryland                            67
+Massachusetts                       43
+Michigan                            51
+Minnesota                           58
+Mississippi                         31
+Missouri                            50
+Montana                             43
+Nebraska                            58
+Nevada                              41
+New Hampshire                       94
+New Jersey                          67
+New Mexico                          42
+New York                            58
+North Carolina                      54
+North Dakota                        81
+Ohio                                77
+Oklahoma                            49
+Oregon                              30
+Pennsylvania                        67
+Rhode Island                        54
+South Carolina                      60
+South Dakota                        79
+Tennessee                           57
+Texas                               41
+Utah                                43
+Vermont                             80
+Virginia                            51
+Washington                          58
+West Virginia                       63
+Wisconsin                           52
+Wyoming                             80

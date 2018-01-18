@@ -1,53 +1,53 @@
                       Ann Curry
 geoName                        
-Alabama                      65
-Alaska                       52
-Arizona                      48
-Arkansas                     49
+Alabama                      63
+Alaska                       49
+Arizona                      49
+Arkansas                     44
 California                   50
-Colorado                     54
-Connecticut                  84
-Delaware                     59
-District of Columbia         71
-Florida                      54
-Georgia                      52
-Hawaii                       57
-Idaho                        65
+Colorado                     57
+Connecticut                  80
+Delaware                     55
+District of Columbia         64
+Florida                      53
+Georgia                      51
+Hawaii                       55
+Idaho                        60
 Illinois                     56
-Indiana                      62
-Iowa                         66
-Kansas                       47
-Kentucky                     61
-Louisiana                    47
-Maine                        77
-Maryland                     81
-Massachusetts                75
-Michigan                     84
-Minnesota                    60
-Mississippi                  59
+Indiana                      60
+Iowa                         63
+Kansas                       44
+Kentucky                     57
+Louisiana                    49
+Maine                        78
+Maryland                     79
+Massachusetts                72
+Michigan                     83
+Minnesota                    56
+Mississippi                  53
 Missouri                     62
 Montana                      43
-Nebraska                     55
+Nebraska                     53
 Nevada                       42
-New Hampshire                58
-New Jersey                   71
-New Mexico                   58
+New Hampshire                55
+New Jersey                   68
+New Mexico                   63
 New York                     70
-North Carolina               57
-North Dakota                 67
-Ohio                         66
-Oklahoma                     48
+North Carolina               56
+North Dakota                 66
+Ohio                         67
+Oklahoma                     51
 Oregon                       58
-Pennsylvania                 69
+Pennsylvania                 67
 Rhode Island                100
-South Carolina               71
-South Dakota                 42
-Tennessee                    64
-Texas                        47
-Utah                         47
-Vermont                      59
-Virginia                     66
-Washington                   63
-West Virginia                73
-Wisconsin                    59
-Wyoming                      42
+South Carolina               63
+South Dakota                 47
+Tennessee                    65
+Texas                        45
+Utah                         51
+Vermont                      65
+Virginia                     64
+Washington                   65
+West Virginia                69
+Wisconsin                    56
+Wyoming                      35
