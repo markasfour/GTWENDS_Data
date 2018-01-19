@@ -1,53 +1,53 @@
                       Betty White
 geoName                          
-Alabama                        80
-Alaska                         73
-Arizona                        71
+Alabama                        81
+Alaska                         68
+Arizona                        73
 Arkansas                       85
-California                     54
-Colorado                       64
-Connecticut                    53
-Delaware                       70
+California                     55
+Colorado                       69
+Connecticut                    61
+Delaware                       76
 District of Columbia           69
-Florida                        66
-Georgia                        70
-Hawaii                         64
+Florida                        69
+Georgia                        73
+Hawaii                         63
 Idaho                          77
-Illinois                       68
-Indiana                        81
-Iowa                           77
-Kansas                         66
-Kentucky                       87
-Louisiana                      75
-Maine                          76
-Maryland                       64
-Massachusetts                  61
+Illinois                       72
+Indiana                        80
+Iowa                           79
+Kansas                         68
+Kentucky                       94
+Louisiana                      83
+Maine                          78
+Maryland                       67
+Massachusetts                  63
 Michigan                       83
-Minnesota                      69
-Mississippi                    79
-Missouri                       79
-Montana                        75
-Nebraska                       78
-Nevada                         74
-New Hampshire                  71
+Minnesota                      74
+Mississippi                    77
+Missouri                       81
+Montana                        85
+Nebraska                       77
+Nevada                         77
+New Hampshire                  74
 New Jersey                     61
-New Mexico                     71
-New York                       60
-North Carolina                 70
-North Dakota                   72
-Ohio                           81
-Oklahoma                       84
-Oregon                         51
-Pennsylvania                   73
-Rhode Island                   75
-South Carolina                 78
-South Dakota                   74
+New Mexico                     74
+New York                       63
+North Carolina                 71
+North Dakota                   88
+Ohio                           83
+Oklahoma                       89
+Oregon                         55
+Pennsylvania                   76
+Rhode Island                   74
+South Carolina                 83
+South Dakota                   85
 Tennessee                      78
-Texas                          65
-Utah                           63
-Vermont                        64
-Virginia                       56
-Washington                     67
+Texas                          66
+Utah                           66
+Vermont                        68
+Virginia                       60
+Washington                     70
 West Virginia                 100
-Wisconsin                      75
-Wyoming                        90
+Wisconsin                      82
+Wyoming                        92

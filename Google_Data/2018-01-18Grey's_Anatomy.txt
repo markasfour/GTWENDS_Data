@@ -1,0 +1,53 @@
+                      Grey's Anatomy
+geoName                             
+Alabama                           79
+Alaska                            74
+Arizona                           61
+Arkansas                          79
+California                        59
+Colorado                          56
+Connecticut                       88
+Delaware                          71
+District of Columbia              57
+Florida                           62
+Georgia                           60
+Hawaii                            63
+Idaho                             69
+Illinois                          66
+Indiana                           79
+Iowa                              81
+Kansas                            63
+Kentucky                          91
+Louisiana                         68
+Maine                             86
+Maryland                          62
+Massachusetts                     78
+Michigan                          71
+Minnesota                         69
+Mississippi                       76
+Missouri                          74
+Montana                           77
+Nebraska                          75
+Nevada                            56
+New Hampshire                     85
+New Jersey                        73
+New Mexico                        58
+New York                          68
+North Carolina                    72
+North Dakota                      90
+Ohio                              79
+Oklahoma                          74
+Oregon                            48
+Pennsylvania                      76
+Rhode Island                      94
+South Carolina                    70
+South Dakota                      89
+Tennessee                         70
+Texas                             65
+Utah                              68
+Vermont                           89
+Virginia                          58
+Washington                        63
+West Virginia                    100
+Wisconsin                         75
+Wyoming                           70

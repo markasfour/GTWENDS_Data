@@ -1,43 +1,45 @@
-                      Harley Barber
-geoName                            
-Alabama                         100
-Alaska                           66
-Arizona                          13
-Arkansas                         45
-California                       28
-Colorado                         14
-Connecticut                      35
-District of Columbia             24
-Florida                          23
-Georgia                          42
-Idaho                            98
-Illinois                         14
-Indiana                          26
-Kansas                           14
-Kentucky                         12
-Louisiana                        12
-Maryland                         14
-Massachusetts                     5
-Michigan                          4
-Minnesota                         7
-Mississippi                      46
-Missouri                         51
-Nebraska                         91
-Nevada                           29
-New Hampshire                    66
-New Jersey                       18
-New Mexico                       30
-New York                         15
-North Carolina                   33
-Ohio                             17
-Oklahoma                         13
-Oregon                           15
-Pennsylvania                     10
-Rhode Island                     38
-South Carolina                   42
-Tennessee                        14
-Texas                            26
-Vermont                          70
-Virginia                         30
-Washington                       16
-Wisconsin                        32
+                Harley Barber
+geoName                      
+Alabama                    73
+Arizona                    14
+Arkansas                   66
+California                 11
+Colorado                    5
+Connecticut                 9
+Florida                    10
+Georgia                    30
+Hawaii                     41
+Illinois                    8
+Indiana                    12
+Iowa                       25
+Kansas                     10
+Kentucky                    9
+Louisiana                  18
+Maryland                    5
+Massachusetts              14
+Michigan                   10
+Minnesota                   5
+Mississippi                34
+Missouri                   11
+Montana                    40
+Nebraska                   33
+Nevada                     42
+New Hampshire              48
+New Jersey                  6
+New Mexico                 22
+New York                   15
+North Carolina             12
+Ohio                        9
+Oregon                     11
+Pennsylvania               20
+Rhode Island               28
+South Carolina             39
+South Dakota              100
+Tennessee                  31
+Texas                      13
+Utah                       22
+Vermont                    51
+Virginia                    8
+Washington                 15
+West Virginia              27
+Wisconsin                  23

@@ -1,0 +1,53 @@
+                      Scandal
+geoName                      
+Alabama                    71
+Alaska                     63
+Arizona                    59
+Arkansas                   59
+California                 72
+Colorado                   53
+Connecticut                77
+Delaware                   76
+District of Columbia      100
+Florida                    66
+Georgia                    78
+Hawaii                     95
+Idaho                      50
+Illinois                   69
+Indiana                    65
+Iowa                       59
+Kansas                     61
+Kentucky                   71
+Louisiana                  77
+Maine                      59
+Maryland                   86
+Massachusetts              75
+Michigan                   65
+Minnesota                  63
+Mississippi                73
+Missouri                   63
+Montana                    52
+Nebraska                   59
+Nevada                     66
+New Hampshire              64
+New Jersey                 78
+New Mexico                 51
+New York                   85
+North Carolina             76
+North Dakota               57
+Ohio                       66
+Oklahoma                   65
+Oregon                     57
+Pennsylvania               71
+Rhode Island               78
+South Carolina             70
+South Dakota               57
+Tennessee                  68
+Texas                      67
+Utah                       50
+Vermont                    63
+Virginia                   83
+Washington                 62
+West Virginia              56
+Wisconsin                  60
+Wyoming                    46

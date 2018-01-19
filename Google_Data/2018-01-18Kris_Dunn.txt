@@ -1,5 +1,52 @@
-            Kris Dunn
-geoName              
-Alaska             16
-California         28
-Illinois          100
+                      Kris Dunn
+geoName                        
+Alabama                       5
+Alaska                        3
+Arizona                       5
+Arkansas                      4
+California                    5
+Colorado                      3
+Connecticut                  32
+Delaware                     10
+District of Columbia          7
+Florida                       4
+Georgia                       5
+Hawaii                        5
+Idaho                         1
+Illinois                     18
+Indiana                       7
+Iowa                          7
+Kansas                        3
+Kentucky                      4
+Louisiana                     6
+Maine                         6
+Maryland                      6
+Massachusetts                17
+Michigan                      4
+Minnesota                    25
+Mississippi                   7
+Missouri                      4
+Montana                       4
+Nebraska                      5
+Nevada                        4
+New Hampshire                 7
+New Jersey                    8
+New Mexico                    3
+New York                      7
+North Carolina                6
+North Dakota                  9
+Ohio                          5
+Oklahoma                      2
+Oregon                        3
+Pennsylvania                  8
+Rhode Island                100
+South Carolina                5
+South Dakota                  7
+Tennessee                     4
+Texas                         3
+Utah                          3
+Vermont                       8
+Virginia                      4
+Washington                    3
+West Virginia                 5
+Wisconsin                     8
