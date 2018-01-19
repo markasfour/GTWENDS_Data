@@ -1,0 +1,53 @@
+                      Bulls
+geoName                    
+Alabama                  10
+Alaska                    9
+Arizona                  10
+Arkansas                 11
+California                9
+Colorado                  9
+Connecticut              10
+Delaware                  8
+District of Columbia     11
+Florida                  12
+Georgia                  11
+Hawaii                    9
+Idaho                     9
+Illinois                100
+Indiana                  25
+Iowa                     23
+Kansas                   10
+Kentucky                 11
+Louisiana                10
+Maine                     7
+Maryland                  8
+Massachusetts             8
+Michigan                 11
+Minnesota                10
+Mississippi              13
+Missouri                 13
+Montana                  10
+Nebraska                 15
+Nevada                   11
+New Hampshire             6
+New Jersey               15
+New Mexico               13
+New York                 12
+North Carolina           18
+North Dakota             10
+Ohio                     11
+Oklahoma                 10
+Oregon                    6
+Pennsylvania              9
+Rhode Island              8
+South Carolina           12
+South Dakota             13
+Tennessee                12
+Texas                    10
+Utah                      8
+Vermont                   7
+Virginia                  8
+Washington                7
+West Virginia             9
+Wisconsin                17
+Wyoming                   9

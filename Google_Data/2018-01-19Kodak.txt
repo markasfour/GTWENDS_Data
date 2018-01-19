@@ -1,0 +1,53 @@
+                      Kodak
+geoName                    
+Alabama                  75
+Alaska                   29
+Arizona                  36
+Arkansas                 57
+California               39
+Colorado                 29
+Connecticut              43
+Delaware                 50
+District of Columbia     44
+Florida                 100
+Georgia                  65
+Hawaii                   25
+Idaho                    27
+Illinois                 38
+Indiana                  47
+Iowa                     33
+Kansas                   32
+Kentucky                 45
+Louisiana                51
+Maine                    36
+Maryland                 49
+Massachusetts            37
+Michigan                 37
+Minnesota                30
+Mississippi              78
+Missouri                 39
+Montana                  27
+Nebraska                 34
+Nevada                   36
+New Hampshire            34
+New Jersey               42
+New Mexico               35
+New York                 45
+North Carolina           66
+North Dakota             34
+Ohio                     45
+Oklahoma                 35
+Oregon                   29
+Pennsylvania             38
+Rhode Island             44
+South Carolina           77
+South Dakota             31
+Tennessee                87
+Texas                    44
+Utah                     23
+Vermont                  33
+Virginia                 40
+Washington               29
+West Virginia            45
+Wisconsin                33
+Wyoming                  28

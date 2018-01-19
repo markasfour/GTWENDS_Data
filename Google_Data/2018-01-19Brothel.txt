@@ -1,0 +1,53 @@
+                      Brothel
+geoName                      
+Alabama                    22
+Alaska                     40
+Arizona                    30
+Arkansas                   25
+California                 35
+Colorado                   28
+Connecticut                24
+Delaware                   24
+District of Columbia       28
+Florida                    24
+Georgia                    23
+Hawaii                     30
+Idaho                      35
+Illinois                   28
+Indiana                    24
+Iowa                       25
+Kansas                     27
+Kentucky                   25
+Louisiana                  23
+Maine                      21
+Maryland                   24
+Massachusetts              26
+Michigan                   25
+Minnesota                  26
+Mississippi                28
+Missouri                   28
+Montana                    42
+Nebraska                   25
+Nevada                    100
+New Hampshire              24
+New Jersey                 26
+New Mexico                 28
+New York                   27
+North Carolina             23
+North Dakota               32
+Ohio                       25
+Oklahoma                   26
+Oregon                     21
+Pennsylvania               25
+Rhode Island               30
+South Carolina             23
+South Dakota               26
+Tennessee                  25
+Texas                      27
+Utah                       39
+Vermont                    21
+Virginia                   23
+Washington                 30
+West Virginia              26
+Wisconsin                  24
+Wyoming                    39

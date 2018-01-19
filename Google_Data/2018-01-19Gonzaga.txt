@@ -1,0 +1,53 @@
+                      Gonzaga
+geoName                      
+Alabama                     5
+Alaska                     14
+Arizona                    10
+Arkansas                    6
+California                  8
+Colorado                    9
+Connecticut                 5
+Delaware                    5
+District of Columbia       15
+Florida                     4
+Georgia                     5
+Hawaii                     12
+Idaho                      63
+Illinois                    7
+Indiana                     8
+Iowa                        9
+Kansas                      8
+Kentucky                   10
+Louisiana                   4
+Maine                       4
+Maryland                   11
+Massachusetts               5
+Michigan                    5
+Minnesota                   6
+Mississippi                 4
+Missouri                    6
+Montana                    37
+Nebraska                   10
+Nevada                     10
+New Hampshire               4
+New Jersey                  5
+New Mexico                  7
+New York                    5
+North Carolina              9
+North Dakota                9
+Ohio                        6
+Oklahoma                    5
+Oregon                     17
+Pennsylvania                6
+Rhode Island                5
+South Carolina              8
+South Dakota               10
+Tennessee                   6
+Texas                       4
+Utah                       15
+Vermont                     5
+Virginia                    8
+Washington                100
+West Virginia              10
+Wisconsin                   7
+Wyoming                    11

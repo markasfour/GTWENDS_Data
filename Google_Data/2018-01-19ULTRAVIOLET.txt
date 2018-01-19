@@ -1,0 +1,53 @@
+                      ULTRAVIOLET
+geoName                          
+Alabama                        51
+Alaska                         78
+Arizona                        68
+Arkansas                       66
+California                     55
+Colorado                       67
+Connecticut                    48
+Delaware                       56
+District of Columbia           35
+Florida                        52
+Georgia                        50
+Hawaii                         60
+Idaho                          81
+Illinois                       52
+Indiana                        65
+Iowa                           73
+Kansas                         55
+Kentucky                       56
+Louisiana                      46
+Maine                          64
+Maryland                       53
+Massachusetts                  44
+Michigan                       56
+Minnesota                      63
+Mississippi                    52
+Missouri                       58
+Montana                        70
+Nebraska                       66
+Nevada                         66
+New Hampshire                  56
+New Jersey                     43
+New Mexico                     76
+New York                       43
+North Carolina                 51
+North Dakota                   73
+Ohio                           57
+Oklahoma                       58
+Oregon                         53
+Pennsylvania                   55
+Rhode Island                   48
+South Carolina                 55
+South Dakota                   78
+Tennessee                      50
+Texas                          53
+Utah                          100
+Vermont                        57
+Virginia                       50
+Washington                     59
+West Virginia                  63
+Wisconsin                      61
+Wyoming                        89

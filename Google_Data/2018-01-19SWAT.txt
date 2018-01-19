@@ -1,0 +1,53 @@
+                      SWAT
+geoName                   
+Alabama                 72
+Alaska                  67
+Arizona                 83
+Arkansas                77
+California              79
+Colorado                77
+Connecticut             66
+Delaware                60
+District of Columbia    63
+Florida                 72
+Georgia                 71
+Hawaii                  75
+Idaho                   71
+Illinois                64
+Indiana                 79
+Iowa                    59
+Kansas                  64
+Kentucky                71
+Louisiana               72
+Maine                   57
+Maryland                62
+Massachusetts           68
+Michigan                69
+Minnesota               65
+Mississippi             68
+Missouri                64
+Montana                 73
+Nebraska                57
+Nevada                  98
+New Hampshire           81
+New Jersey              63
+New Mexico             100
+New York                59
+North Carolina          66
+North Dakota            71
+Ohio                    77
+Oklahoma                76
+Oregon                  63
+Pennsylvania            74
+Rhode Island            60
+South Carolina          62
+South Dakota            74
+Tennessee               65
+Texas                   79
+Utah                    75
+Vermont                 60
+Virginia                66
+Washington              70
+West Virginia           69
+Wisconsin               76
+Wyoming                 62
