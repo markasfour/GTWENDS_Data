@@ -1,53 +1,53 @@
                       Gianni Versace
 geoName                             
-Alabama                           57
-Alaska                            34
-Arizona                           57
-Arkansas                          52
-California                        69
+Alabama                           59
+Alaska                            46
+Arizona                           63
+Arkansas                          47
+California                        71
 Colorado                          46
-Connecticut                       61
-Delaware                          73
-District of Columbia              45
+Connecticut                       64
+Delaware                          54
+District of Columbia              48
 Florida                          100
-Georgia                           61
+Georgia                           68
 Hawaii                            56
-Idaho                             38
-Illinois                          59
-Indiana                           50
-Iowa                              36
-Kansas                            41
-Kentucky                          44
+Idaho                             35
+Illinois                          57
+Indiana                           49
+Iowa                              33
+Kansas                            31
+Kentucky                          50
 Louisiana                         64
-Maine                             39
-Maryland                          74
-Massachusetts                     58
-Michigan                          52
-Minnesota                         47
+Maine                             33
+Maryland                          77
+Massachusetts                     60
+Michigan                          55
+Minnesota                         40
 Mississippi                       57
-Missouri                          44
-Montana                           19
-Nebraska                          45
-Nevada                            69
-New Hampshire                     35
-New Jersey                        81
-New Mexico                        52
-New York                          78
-North Carolina                    53
-North Dakota                      47
-Ohio                              51
-Oklahoma                          60
-Oregon                            31
-Pennsylvania                      59
-Rhode Island                      61
-South Carolina                    53
-South Dakota                      36
-Tennessee                         51
-Texas                             68
-Utah                              31
-Vermont                           31
-Virginia                          52
-Washington                        45
-West Virginia                     49
+Missouri                          47
+Montana                           31
+Nebraska                          39
+Nevada                            78
+New Hampshire                     51
+New Jersey                        83
+New Mexico                        62
+New York                          85
+North Carolina                    56
+North Dakota                      42
+Ohio                              61
+Oklahoma                          59
+Oregon                            32
+Pennsylvania                      63
+Rhode Island                      64
+South Carolina                    49
+South Dakota                      34
+Tennessee                         55
+Texas                             71
+Utah                              46
+Vermont                           43
+Virginia                          59
+Washington                        48
+West Virginia                     60
 Wisconsin                         44
-Wyoming                           51
+Wyoming                           23

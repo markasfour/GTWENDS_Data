@@ -1,0 +1,47 @@
+                      Amazon HQ2
+geoName                         
+Alabama                       23
+Arizona                       22
+Arkansas                      19
+California                    26
+Colorado                      89
+Connecticut                   32
+Delaware                      26
+District of Columbia          53
+Florida                       15
+Georgia                       84
+Hawaii                        16
+Idaho                          8
+Illinois                      55
+Indiana                       27
+Iowa                          12
+Kansas                        23
+Kentucky                      20
+Louisiana                     10
+Maine                         12
+Maryland                      57
+Massachusetts                 71
+Michigan                      57
+Minnesota                     16
+Mississippi                   11
+Missouri                      41
+Nebraska                       5
+Nevada                        25
+New Hampshire                 35
+New Jersey                    29
+New Mexico                    24
+New York                      28
+North Carolina                60
+Ohio                          37
+Oklahoma                      23
+Oregon                        14
+Pennsylvania                  73
+Rhode Island                  58
+South Carolina                14
+Tennessee                     19
+Texas                         53
+Utah                          30
+Virginia                      39
+Washington                   100
+West Virginia                  9
+Wisconsin                     22

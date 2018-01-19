@@ -1,0 +1,51 @@
+                      Josh Allen
+geoName                         
+Alabama                        5
+Arizona                        5
+Arkansas                       7
+California                     4
+Colorado                       9
+Connecticut                    5
+Delaware                       5
+District of Columbia           5
+Florida                        4
+Georgia                        4
+Hawaii                         4
+Idaho                          8
+Illinois                       5
+Indiana                        5
+Iowa                           7
+Kansas                         5
+Kentucky                       7
+Louisiana                      5
+Maine                          4
+Maryland                       5
+Massachusetts                  4
+Michigan                       4
+Minnesota                      5
+Mississippi                    4
+Missouri                       5
+Montana                        6
+Nebraska                       7
+Nevada                         5
+New Hampshire                  4
+New Jersey                     7
+New Mexico                     4
+New York                       5
+North Carolina                 6
+North Dakota                   8
+Ohio                           8
+Oklahoma                       4
+Oregon                         3
+Pennsylvania                   5
+Rhode Island                   4
+South Carolina                 5
+South Dakota                   7
+Tennessee                      5
+Texas                          4
+Utah                           5
+Virginia                       5
+Washington                     3
+West Virginia                  6
+Wisconsin                      4
+Wyoming                      100

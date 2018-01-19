@@ -1,52 +1,52 @@
                       Tom Brady
 geoName                        
-Alabama                      18
-Alaska                       18
-Arizona                      22
+Alabama                      16
+Alaska                       17
+Arizona                      21
 Arkansas                     19
-California                   19
-Colorado                     28
-Connecticut                  45
+California                   20
+Colorado                     26
+Connecticut                  43
 Delaware                     25
-District of Columbia         32
-Florida                      22
+District of Columbia         31
+Florida                      23
 Georgia                      21
 Hawaii                       21
 Idaho                        19
 Illinois                     21
-Indiana                      23
+Indiana                      22
 Iowa                         21
-Kansas                       18
+Kansas                       17
 Kentucky                     21
 Louisiana                    20
-Maine                        78
-Maryland                     25
+Maine                        77
+Maryland                     24
 Massachusetts               100
-Michigan                     26
+Michigan                     27
 Minnesota                    22
-Mississippi                  20
+Mississippi                  19
 Missouri                     20
-Montana                      23
+Montana                      22
 Nebraska                     22
 Nevada                       22
-New Hampshire                87
-New Jersey                   25
-New Mexico                   19
+New Hampshire                85
+New Jersey                   24
+New Mexico                   20
 New York                     26
-North Carolina               22
+North Carolina               23
 North Dakota                 24
 Ohio                         22
 Oklahoma                     19
 Oregon                       13
 Pennsylvania                 26
-Rhode Island                100
+Rhode Island                 95
 South Carolina               23
-South Dakota                 24
-Tennessee                    21
+South Dakota                 23
+Tennessee                    20
 Texas                        21
 Utah                         20
 Vermont                      44
-Virginia                     21
+Virginia                     20
 Washington                   22
 West Virginia                22
 Wisconsin                    20

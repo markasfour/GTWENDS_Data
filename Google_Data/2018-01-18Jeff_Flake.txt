@@ -1,53 +1,53 @@
                       Jeff Flake
 geoName                         
-Alabama                        6
-Alaska                         5
+Alabama                        5
+Alaska                         8
 Arizona                      100
-Arkansas                       6
+Arkansas                       4
 California                     8
 Colorado                       7
-Connecticut                    8
-Delaware                       7
+Connecticut                    7
+Delaware                      11
 District of Columbia          35
 Florida                        5
-Georgia                        5
-Hawaii                         4
-Idaho                          8
+Georgia                        6
+Hawaii                         5
+Idaho                          9
 Illinois                       7
-Indiana                        5
-Iowa                           5
-Kansas                         4
+Indiana                        6
+Iowa                           7
+Kansas                         3
 Kentucky                       5
 Louisiana                      5
-Maine                          8
-Maryland                      12
+Maine                          6
+Maryland                      13
 Massachusetts                  9
-Michigan                       6
-Minnesota                      7
-Mississippi                    5
-Missouri                       6
+Michigan                       5
+Minnesota                      6
+Mississippi                    3
+Missouri                       5
 Montana                        9
-Nebraska                       7
-Nevada                         7
-New Hampshire                  8
+Nebraska                       5
+Nevada                         9
+New Hampshire                  6
 New Jersey                     7
-New Mexico                     8
+New Mexico                    11
 New York                       8
-North Carolina                 6
-North Dakota                   5
-Ohio                           5
-Oklahoma                       4
+North Carolina                 7
+North Dakota                   3
+Ohio                           6
+Oklahoma                       5
 Oregon                         7
-Pennsylvania                   7
-Rhode Island                   8
-South Carolina                 5
-South Dakota                   5
+Pennsylvania                   8
+Rhode Island                  10
+South Carolina                 6
+South Dakota                   7
 Tennessee                      6
 Texas                          5
-Utah                          12
-Vermont                       10
+Utah                           9
+Vermont                        9
 Virginia                       8
 Washington                     8
-West Virginia                  4
+West Virginia                  6
 Wisconsin                      6
-Wyoming                        7
+Wyoming                        9

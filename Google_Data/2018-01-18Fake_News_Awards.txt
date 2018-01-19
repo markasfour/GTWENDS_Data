@@ -1,50 +1,50 @@
                       Fake News Awards
 geoName                               
-Alabama                             25
-Arizona                             25
-Arkansas                            28
-California                          27
-Colorado                            25
-Connecticut                         31
-Delaware                            36
-District of Columbia                28
-Florida                             28
-Georgia                             25
+Alabama                             27
+Arizona                             33
+Arkansas                            33
+California                          47
+Colorado                            35
+Connecticut                         77
+District of Columbia                52
+Florida                             46
+Georgia                             53
+Hawaii                              40
 Idaho                               24
-Illinois                            29
-Indiana                             27
-Iowa                                18
-Kansas                              18
-Kentucky                            23
-Louisiana                           22
-Maine                               64
+Illinois                            45
+Indiana                             31
+Iowa                                49
+Kansas                              10
+Kentucky                            26
+Louisiana                           18
+Maine                               51
 Maryland                            31
-Massachusetts                       24
-Michigan                            33
-Minnesota                           23
-Mississippi                         13
-Missouri                            29
-Montana                             50
-Nebraska                            36
-Nevada                              23
-New Hampshire                       53
-New Jersey                          27
-New Mexico                          26
-New York                            34
-North Carolina                      25
-North Dakota                        68
-Ohio                                32
-Oklahoma                            21
-Oregon                              28
-Pennsylvania                        49
-Rhode Island                        43
-South Carolina                      23
-Tennessee                           34
-Texas                               23
-Utah                                27
-Vermont                             38
-Virginia                            25
-Washington                          35
-West Virginia                       74
-Wisconsin                           34
-Wyoming                            100
+Massachusetts                       61
+Michigan                            57
+Minnesota                           51
+Mississippi                         33
+Missouri                            48
+Montana                             40
+Nebraska                            49
+Nevada                              42
+New Hampshire                       96
+New Jersey                          51
+New Mexico                          65
+New York                            50
+North Carolina                      40
+North Dakota                       100
+Ohio                                43
+Oklahoma                            19
+Oregon                              39
+Pennsylvania                        65
+Rhode Island                        56
+South Carolina                      31
+South Dakota                        50
+Tennessee                           46
+Texas                               40
+Utah                                43
+Virginia                            40
+Washington                          49
+West Virginia                       27
+Wisconsin                           35
+Wyoming                             74

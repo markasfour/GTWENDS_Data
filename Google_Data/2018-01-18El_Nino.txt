@@ -1,0 +1,53 @@
+                      El Nino
+geoName                      
+Alabama                    21
+Alaska                     29
+Arizona                    39
+Arkansas                   23
+California                100
+Colorado                   37
+Connecticut                26
+Delaware                   22
+District of Columbia       29
+Florida                    31
+Georgia                    26
+Hawaii                     50
+Idaho                      37
+Illinois                   29
+Indiana                    25
+Iowa                       24
+Kansas                     22
+Kentucky                   18
+Louisiana                  22
+Maine                      26
+Maryland                   26
+Massachusetts              24
+Michigan                   25
+Minnesota                  25
+Mississippi                18
+Missouri                   20
+Montana                    33
+Nebraska                   23
+Nevada                     44
+New Hampshire              23
+New Jersey                 29
+New Mexico                 45
+New York                   30
+North Carolina             35
+North Dakota               24
+Ohio                       21
+Oklahoma                   30
+Oregon                     34
+Pennsylvania               22
+Rhode Island               25
+South Carolina             20
+South Dakota               33
+Tennessee                  17
+Texas                      41
+Utah                       32
+Vermont                    29
+Virginia                   23
+Washington                 34
+West Virginia              23
+Wisconsin                  26
+Wyoming                    31

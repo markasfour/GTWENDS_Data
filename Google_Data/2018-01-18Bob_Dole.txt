@@ -1,53 +1,53 @@
                       Bob Dole
 geoName                       
-Alabama                     26
-Alaska                      20
-Arizona                     24
-Arkansas                    22
+Alabama                     29
+Alaska                      14
+Arizona                     22
+Arkansas                    24
 California                  22
-Colorado                    28
-Connecticut                 33
-Delaware                    31
-District of Columbia        65
+Colorado                    27
+Connecticut                 34
+Delaware                    30
+District of Columbia        60
 Florida                     22
-Georgia                     25
-Hawaii                      17
-Idaho                       26
-Illinois                    32
-Indiana                     31
-Iowa                        31
+Georgia                     20
+Hawaii                      14
+Idaho                       25
+Illinois                    30
+Indiana                     26
+Iowa                        32
 Kansas                     100
-Kentucky                    26
+Kentucky                    22
 Louisiana                   21
-Maine                       26
-Maryland                    34
-Massachusetts               33
-Michigan                    26
-Minnesota                   29
-Mississippi                 21
-Missouri                    36
-Montana                     21
-Nebraska                    30
-Nevada                      19
-New Hampshire               34
+Maine                       31
+Maryland                    32
+Massachusetts               32
+Michigan                    25
+Minnesota                   31
+Mississippi                 22
+Missouri                    33
+Montana                     29
+Nebraska                    26
+Nevada                      20
+New Hampshire               25
 New Jersey                  29
-New Mexico                  23
-New York                    28
-North Carolina              23
-North Dakota                20
+New Mexico                  26
+New York                    27
+North Carolina              24
+North Dakota                21
 Ohio                        29
-Oklahoma                    28
-Oregon                      20
-Pennsylvania                28
-Rhode Island                31
-South Carolina              21
-South Dakota                23
-Tennessee                   26
+Oklahoma                    26
+Oregon                      17
+Pennsylvania                29
+Rhode Island                32
+South Carolina              20
+South Dakota                19
+Tennessee                   24
 Texas                       21
-Utah                        17
-Vermont                     26
-Virginia                    30
-Washington                  25
-West Virginia               25
-Wisconsin                   26
-Wyoming                     23
+Utah                        16
+Vermont                     23
+Virginia                    27
+Washington                  26
+West Virginia               33
+Wisconsin                   27
+Wyoming                     22

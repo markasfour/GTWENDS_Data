@@ -1,48 +1,49 @@
                       Katie Way
 geoName                        
-Alabama                      51
-Arizona                      37
-Arkansas                     27
-California                   48
-Colorado                     50
-Connecticut                  54
-Delaware                     66
-District of Columbia         47
-Florida                      43
-Georgia                      50
-Hawaii                       28
-Idaho                        75
-Illinois                     50
-Indiana                      43
-Iowa                         42
-Kansas                       46
-Kentucky                     38
-Louisiana                    38
-Maine                        50
-Maryland                     57
-Massachusetts                55
-Michigan                     35
-Minnesota                    52
-Mississippi                  40
-Missouri                     37
-Nebraska                     34
-Nevada                       53
-New Hampshire                60
-New Jersey                   58
-New Mexico                   21
-New York                     44
-North Carolina               44
-Ohio                         40
-Oklahoma                     37
-Oregon                       30
-Pennsylvania                 61
-Rhode Island                 49
-South Carolina               44
-Tennessee                    45
-Texas                        35
-Utah                         51
-Vermont                      85
-Virginia                     43
+Alabama                      40
+Alaska                       99
+Arizona                      36
+Arkansas                     33
+California                   44
+Colorado                     54
+Connecticut                  73
+Delaware                     32
+District of Columbia         39
+Florida                      55
+Georgia                      47
+Hawaii                       24
+Idaho                        87
+Illinois                     57
+Indiana                      45
+Iowa                         60
+Kansas                       45
+Kentucky                     45
+Louisiana                    42
+Maine                        52
+Maryland                     67
+Massachusetts                51
+Michigan                     50
+Minnesota                    66
+Mississippi                  27
+Missouri                     50
+Nebraska                     47
+Nevada                       33
+New Hampshire                67
+New Jersey                   56
+New Mexico                   35
+New York                     48
+North Carolina               46
+Ohio                         52
+Oklahoma                     47
+Oregon                       40
+Pennsylvania                 79
+Rhode Island                 45
+South Carolina               50
+Tennessee                    39
+Texas                        39
+Utah                         53
+Vermont                      82
+Virginia                     37
 Washington                  100
-West Virginia                41
-Wisconsin                    53
+West Virginia                11
+Wisconsin                    49

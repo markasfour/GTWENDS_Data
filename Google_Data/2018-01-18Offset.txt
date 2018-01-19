@@ -1,0 +1,53 @@
+                      Offset
+geoName                     
+Alabama                   97
+Alaska                    80
+Arizona                   77
+Arkansas                  90
+California                85
+Colorado                  86
+Connecticut               85
+Delaware                  80
+District of Columbia      83
+Florida                   76
+Georgia                  100
+Hawaii                    69
+Idaho                     85
+Illinois                  80
+Indiana                   84
+Iowa                      79
+Kansas                    75
+Kentucky                  78
+Louisiana                 90
+Maine                     76
+Maryland                  94
+Massachusetts             82
+Michigan                  83
+Minnesota                 77
+Mississippi              100
+Missouri                  85
+Montana                   81
+Nebraska                  75
+Nevada                    73
+New Hampshire             83
+New Jersey                78
+New Mexico                74
+New York                  80
+North Carolina            91
+North Dakota              85
+Ohio                      89
+Oklahoma                  79
+Oregon                    71
+Pennsylvania              81
+Rhode Island              77
+South Carolina            92
+South Dakota              76
+Tennessee                 87
+Texas                     81
+Utah                      87
+Vermont                   87
+Virginia                  76
+Washington                88
+West Virginia             74
+Wisconsin                 85
+Wyoming                   78

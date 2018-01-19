@@ -1,0 +1,53 @@
+                      Heathers
+geoName                       
+Alabama                     61
+Alaska                      55
+Arizona                     63
+Arkansas                    65
+California                  74
+Colorado                    65
+Connecticut                 84
+Delaware                    90
+District of Columbia        53
+Florida                     62
+Georgia                     60
+Hawaii                      54
+Idaho                       59
+Illinois                    67
+Indiana                     73
+Iowa                        65
+Kansas                      61
+Kentucky                    66
+Louisiana                   86
+Maine                       78
+Maryland                    66
+Massachusetts               79
+Michigan                    83
+Minnesota                   63
+Mississippi                 51
+Missouri                    69
+Montana                     58
+Nebraska                    65
+Nevada                      69
+New Hampshire               86
+New Jersey                  94
+New Mexico                  65
+New York                    83
+North Carolina              61
+North Dakota                69
+Ohio                        86
+Oklahoma                    71
+Oregon                      59
+Pennsylvania                76
+Rhode Island               100
+South Carolina              52
+South Dakota                53
+Tennessee                   58
+Texas                       65
+Utah                        58
+Vermont                     94
+Virginia                    58
+Washington                  66
+West Virginia               65
+Wisconsin                   67
+Wyoming                     49
