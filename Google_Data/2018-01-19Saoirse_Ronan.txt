@@ -1,53 +1,53 @@
                       Saoirse Ronan
 geoName                            
 Alabama                          59
-Alaska                           88
-Arizona                          66
-Arkansas                         55
+Alaska                           62
+Arizona                          71
+Arkansas                         43
 California                       93
 Colorado                         80
-Connecticut                      93
-Delaware                         76
-District of Columbia             70
-Florida                          61
+Connecticut                      94
+Delaware                         73
+District of Columbia             71
+Florida                          58
 Georgia                          54
-Hawaii                           70
-Idaho                            64
-Illinois                         77
-Indiana                          63
-Iowa                             59
-Kansas                           68
-Kentucky                         58
+Hawaii                           80
+Idaho                            76
+Illinois                         79
+Indiana                          66
+Iowa                             64
+Kansas                           71
+Kentucky                         59
 Louisiana                        55
-Maine                            68
-Maryland                         83
-Massachusetts                    98
-Michigan                         75
-Minnesota                        80
-Mississippi                      52
-Missouri                         75
-Montana                          81
-Nebraska                         71
-Nevada                           61
-New Hampshire                   100
-New Jersey                       91
-New Mexico                       74
-New York                         99
+Maine                            77
+Maryland                         85
+Massachusetts                   100
+Michigan                         74
+Minnesota                        75
+Mississippi                      49
+Missouri                         82
+Montana                          86
+Nebraska                         70
+Nevada                           64
+New Hampshire                    87
+New Jersey                       93
+New Mexico                       69
+New York                         96
 North Carolina                   58
-North Dakota                     69
-Ohio                             66
-Oklahoma                         64
-Oregon                           72
-Pennsylvania                     81
-Rhode Island                     97
+North Dakota                     64
+Ohio                             64
+Oklahoma                         58
+Oregon                           74
+Pennsylvania                     82
+Rhode Island                     98
 South Carolina                   54
-South Dakota                     54
-Tennessee                        58
-Texas                            63
-Utah                             71
-Vermont                          96
-Virginia                         68
-Washington                       93
-West Virginia                    64
-Wisconsin                        63
-Wyoming                          56
+South Dakota                     66
+Tennessee                        68
+Texas                            62
+Utah                             68
+Vermont                          89
+Virginia                         64
+Washington                       88
+West Virginia                    56
+Wisconsin                        59
+Wyoming                          67

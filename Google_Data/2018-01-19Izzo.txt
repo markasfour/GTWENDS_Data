@@ -1,0 +1,53 @@
+                      Izzo
+geoName                   
+Alabama                 12
+Alaska                  11
+Arizona                 15
+Arkansas                 9
+California              13
+Colorado                13
+Connecticut             29
+Delaware                16
+District of Columbia    19
+Florida                 18
+Georgia                 13
+Hawaii                  13
+Idaho                    8
+Illinois                26
+Indiana                 23
+Iowa                    18
+Kansas                  14
+Kentucky                20
+Louisiana               26
+Maine                   15
+Maryland                15
+Massachusetts           22
+Michigan               100
+Minnesota               22
+Mississippi             12
+Missouri                12
+Montana                  7
+Nebraska                18
+Nevada                  12
+New Hampshire           14
+New Jersey              23
+New Mexico              11
+New York                26
+North Carolina          14
+North Dakota            78
+Ohio                    20
+Oklahoma                12
+Oregon                   9
+Pennsylvania            21
+Rhode Island            45
+South Carolina          14
+South Dakota            20
+Tennessee               13
+Texas                   12
+Utah                    10
+Vermont                 19
+Virginia                16
+Washington              11
+West Virginia           16
+Wisconsin               22
+Wyoming                 10

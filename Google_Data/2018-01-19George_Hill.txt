@@ -1,0 +1,53 @@
+                      George Hill
+geoName                          
+Alabama                        21
+Alaska                         19
+Arizona                        16
+Arkansas                       19
+California                     22
+Colorado                       18
+Connecticut                    35
+Delaware                       51
+District of Columbia           50
+Florida                        20
+Georgia                        26
+Hawaii                         13
+Idaho                          17
+Illinois                       25
+Indiana                        96
+Iowa                           21
+Kansas                         18
+Kentucky                       23
+Louisiana                      20
+Maine                          34
+Maryland                       33
+Massachusetts                  37
+Michigan                       20
+Minnesota                      18
+Mississippi                    20
+Missouri                       20
+Montana                        21
+Nebraska                       16
+Nevada                         18
+New Hampshire                  32
+New Jersey                     37
+New Mexico                     14
+New York                       32
+North Carolina                 33
+North Dakota                   15
+Ohio                           24
+Oklahoma                       19
+Oregon                         13
+Pennsylvania                   60
+Rhode Island                   39
+South Carolina                 31
+South Dakota                   27
+Tennessee                      24
+Texas                          25
+Utah                          100
+Vermont                        32
+Virginia                       34
+Washington                     18
+West Virginia                  21
+Wisconsin                      18
+Wyoming                        14

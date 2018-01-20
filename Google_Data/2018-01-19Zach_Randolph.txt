@@ -1,0 +1,53 @@
+                      Zach Randolph
+geoName                            
+Alabama                          25
+Alaska                            9
+Arizona                          16
+Arkansas                         34
+California                       25
+Colorado                         14
+Connecticut                      21
+Delaware                         23
+District of Columbia             31
+Florida                          20
+Georgia                          26
+Hawaii                           19
+Idaho                             6
+Illinois                         27
+Indiana                          40
+Iowa                             13
+Kansas                           14
+Kentucky                         31
+Louisiana                        26
+Maine                            11
+Maryland                         24
+Massachusetts                    21
+Michigan                         26
+Minnesota                        16
+Mississippi                      64
+Missouri                         21
+Montana                          13
+Nebraska                         15
+Nevada                           21
+New Hampshire                     9
+New Jersey                       24
+New Mexico                       10
+New York                         26
+North Carolina                   22
+North Dakota                     15
+Ohio                             21
+Oklahoma                         42
+Oregon                           20
+Pennsylvania                     19
+Rhode Island                     19
+South Carolina                   19
+South Dakota                     13
+Tennessee                       100
+Texas                            21
+Utah                             14
+Vermont                          20
+Virginia                         16
+Washington                       16
+West Virginia                    13
+Wisconsin                        20
+Wyoming                          22

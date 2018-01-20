@@ -1,53 +1,53 @@
                       Kodak Black
 geoName                          
-Alabama                        76
+Alabama                        77
 Alaska                         16
 Arizona                        22
-Arkansas                       47
-California                     24
-Colorado                       16
-Connecticut                    30
-Delaware                       44
+Arkansas                       44
+California                     25
+Colorado                       17
+Connecticut                    31
+Delaware                       45
 District of Columbia           38
 Florida                       100
 Georgia                        65
 Hawaii                         12
-Idaho                          11
-Illinois                       29
-Indiana                        37
+Idaho                          10
+Illinois                       30
+Indiana                        38
 Iowa                           19
 Kansas                         18
-Kentucky                       25
-Louisiana                      49
-Maine                          14
-Maryland                       40
-Massachusetts                  25
-Michigan                       25
-Minnesota                      16
-Mississippi                    81
+Kentucky                       27
+Louisiana                      46
+Maine                          16
+Maryland                       39
+Massachusetts                  24
+Michigan                       26
+Minnesota                      15
+Mississippi                    83
 Missouri                       27
 Montana                         9
-Nebraska                       20
-Nevada                         23
+Nebraska                       21
+Nevada                         26
 New Hampshire                  14
-New Jersey                     29
+New Jersey                     30
 New Mexico                     21
 New York                       26
 North Carolina                 57
-North Dakota                   14
+North Dakota                   15
 Ohio                           31
-Oklahoma                       22
+Oklahoma                       21
 Oregon                         10
-Pennsylvania                   24
+Pennsylvania                   25
 Rhode Island                   32
-South Carolina                 79
-South Dakota                   14
-Tennessee                      39
+South Carolina                 80
+South Dakota                   15
+Tennessee                      38
 Texas                          37
-Utah                           10
+Utah                            9
 Vermont                        11
-Virginia                       31
+Virginia                       30
 Washington                     16
 West Virginia                  25
-Wisconsin                      17
+Wisconsin                      18
 Wyoming                         8

@@ -1,0 +1,41 @@
+                      Robert Johnson
+geoName                             
+Alabama                           11
+Arizona                            9
+Arkansas                          10
+California                         9
+Colorado                          10
+Connecticut                       12
+District of Columbia              21
+Florida                            9
+Georgia                           10
+Illinois                          11
+Indiana                           13
+Iowa                               9
+Kansas                             9
+Kentucky                          13
+Louisiana                         10
+Maine                             10
+Maryland                          14
+Massachusetts                     13
+Michigan                           9
+Minnesota                         11
+Mississippi                       21
+Missouri                          10
+Nebraska                           9
+Nevada                             8
+New Jersey                       100
+New York                          16
+North Carolina                    11
+Ohio                              10
+Oklahoma                           9
+Oregon                             8
+Pennsylvania                      16
+South Carolina                    11
+Tennessee                         15
+Texas                             10
+Utah                               8
+Virginia                          11
+Washington                         9
+West Virginia                     12
+Wisconsin                         10

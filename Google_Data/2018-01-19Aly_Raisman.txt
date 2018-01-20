@@ -1,53 +1,53 @@
                       Aly Raisman
 geoName                          
-Alabama                        35
-Alaska                         36
-Arizona                        40
-Arkansas                       31
+Alabama                        37
+Alaska                         38
+Arizona                        39
+Arkansas                       32
 California                     37
-Colorado                       45
-Connecticut                    57
-Delaware                       48
+Colorado                       42
+Connecticut                    60
+Delaware                       45
 District of Columbia           46
-Florida                        36
-Georgia                        33
-Hawaii                         36
-Idaho                          35
-Illinois                       53
-Indiana                        43
-Iowa                           48
+Florida                        34
+Georgia                        31
+Hawaii                         39
+Idaho                          36
+Illinois                       51
+Indiana                        41
+Iowa                           47
 Kansas                         36
-Kentucky                       34
-Louisiana                      35
-Maine                          44
-Maryland                       45
+Kentucky                       32
+Louisiana                      34
+Maine                          40
+Maryland                       46
 Massachusetts                 100
-Michigan                       39
-Minnesota                      45
-Mississippi                    24
-Missouri                       42
-Montana                        36
-Nebraska                       47
+Michigan                       36
+Minnesota                      44
+Mississippi                    26
+Missouri                       41
+Montana                        34
+Nebraska                       50
 Nevada                         30
 New Hampshire                  69
-New Jersey                     52
-New Mexico                     44
-New York                       42
+New Jersey                     55
+New Mexico                     41
+New York                       41
 North Carolina                 37
-North Dakota                   44
-Ohio                           48
-Oklahoma                       37
-Oregon                         25
+North Dakota                   51
+Ohio                           46
+Oklahoma                       34
+Oregon                         22
 Pennsylvania                   47
-Rhode Island                   53
-South Carolina                 37
-South Dakota                   40
-Tennessee                      38
-Texas                          47
-Utah                           35
-Vermont                        62
-Virginia                       35
-Washington                     33
-West Virginia                  36
-Wisconsin                      48
-Wyoming                        31
+Rhode Island                   61
+South Carolina                 35
+South Dakota                   41
+Tennessee                      36
+Texas                          44
+Utah                           33
+Vermont                        46
+Virginia                       34
+Washington                     32
+West Virginia                  38
+Wisconsin                      45
+Wyoming                        28

@@ -1,0 +1,53 @@
+                      Conor
+geoName                    
+Alabama                  64
+Alaska                   70
+Arizona                  79
+Arkansas                 64
+California               88
+Colorado                 71
+Connecticut              82
+Delaware                 77
+District of Columbia     80
+Florida                  69
+Georgia                  67
+Hawaii                   93
+Idaho                    70
+Illinois                 77
+Indiana                  76
+Iowa                     66
+Kansas                   50
+Kentucky                 66
+Louisiana                69
+Maine                    59
+Maryland                 69
+Massachusetts            87
+Michigan                 72
+Minnesota                58
+Mississippi              55
+Missouri                 62
+Montana                  70
+Nebraska                 77
+Nevada                  100
+New Hampshire            66
+New Jersey               85
+New Mexico               83
+New York                 85
+North Carolina           66
+North Dakota             75
+Ohio                     69
+Oklahoma                 63
+Oregon                   51
+Pennsylvania             82
+Rhode Island             86
+South Carolina           66
+South Dakota             59
+Tennessee                68
+Texas                    75
+Utah                     65
+Vermont                  58
+Virginia                 52
+Washington               73
+West Virginia            84
+Wisconsin                58
+Wyoming                  57

@@ -1,0 +1,53 @@
+                      Blindspot
+geoName                        
+Alabama                      86
+Alaska                       73
+Arizona                      76
+Arkansas                     69
+California                   62
+Colorado                     67
+Connecticut                  86
+Delaware                     77
+District of Columbia         61
+Florida                      76
+Georgia                      68
+Hawaii                       66
+Idaho                       100
+Illinois                     67
+Indiana                      84
+Iowa                         92
+Kansas                       66
+Kentucky                     72
+Louisiana                    67
+Maine                        97
+Maryland                     80
+Massachusetts                72
+Michigan                     80
+Minnesota                    75
+Mississippi                  68
+Missouri                     69
+Montana                      91
+Nebraska                     77
+Nevada                       68
+New Hampshire                78
+New Jersey                   81
+New Mexico                   65
+New York                     77
+North Carolina               80
+North Dakota                 88
+Ohio                         81
+Oklahoma                     70
+Oregon                       60
+Pennsylvania                 82
+Rhode Island                 86
+South Carolina               87
+South Dakota                 53
+Tennessee                    74
+Texas                        64
+Utah                         87
+Vermont                      86
+Virginia                     60
+Washington                   76
+West Virginia                91
+Wisconsin                    75
+Wyoming                      88

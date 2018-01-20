@@ -1,0 +1,53 @@
+                      MacGyver
+geoName                       
+Alabama                     79
+Alaska                      88
+Arizona                     68
+Arkansas                    95
+California                  61
+Colorado                    71
+Connecticut                 73
+Delaware                    77
+District of Columbia        63
+Florida                     67
+Georgia                     73
+Hawaii                      76
+Idaho                       88
+Illinois                    68
+Indiana                     95
+Iowa                        98
+Kansas                      76
+Kentucky                    84
+Louisiana                   65
+Maine                      100
+Maryland                    75
+Massachusetts               68
+Michigan                    83
+Minnesota                   85
+Mississippi                 65
+Missouri                    83
+Montana                     88
+Nebraska                    85
+Nevada                      68
+New Hampshire               88
+New Jersey                  61
+New Mexico                  71
+New York                    59
+North Carolina              76
+North Dakota                95
+Ohio                        92
+Oklahoma                    82
+Oregon                      66
+Pennsylvania                79
+Rhode Island                69
+South Carolina              82
+South Dakota                90
+Tennessee                   86
+Texas                       61
+Utah                        89
+Vermont                     87
+Virginia                    58
+Washington                  85
+West Virginia               93
+Wisconsin                   85
+Wyoming                     86
