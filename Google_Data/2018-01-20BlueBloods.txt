@@ -1,0 +1,53 @@
+                      BlueBloods
+geoName                         
+Alabama                       47
+Alaska                        85
+Arizona                       50
+Arkansas                      40
+California                    35
+Colorado                      51
+Connecticut                   53
+Delaware                      43
+District of Columbia          28
+Florida                       48
+Georgia                       40
+Hawaii                        55
+Idaho                         41
+Illinois                      38
+Indiana                       60
+Iowa                          60
+Kansas                        45
+Kentucky                      73
+Louisiana                     32
+Maine                         63
+Maryland                      46
+Massachusetts                 55
+Michigan                      55
+Minnesota                     48
+Mississippi                   40
+Missouri                      46
+Montana                       54
+Nebraska                      59
+Nevada                        50
+New Hampshire                 35
+New Jersey                    52
+New Mexico                    61
+New York                      49
+North Carolina                50
+North Dakota                  47
+Ohio                          48
+Oklahoma                      55
+Oregon                        38
+Pennsylvania                  53
+Rhode Island                  79
+South Carolina                60
+South Dakota                  54
+Tennessee                     59
+Texas                         39
+Utah                          50
+Vermont                       75
+Virginia                      33
+Washington                    47
+West Virginia                 70
+Wisconsin                     57
+Wyoming                      100

@@ -1,0 +1,53 @@
+                      Turpin
+geoName                     
+Alabama                   24
+Alaska                    53
+Arizona                   13
+Arkansas                  67
+California                17
+Colorado                  19
+Connecticut               17
+Delaware                  16
+District of Columbia      17
+Florida                   13
+Georgia                   24
+Hawaii                    10
+Idaho                     24
+Illinois                  22
+Indiana                   32
+Iowa                      85
+Kansas                    42
+Kentucky                  60
+Louisiana                 35
+Maine                     10
+Maryland                  18
+Massachusetts             15
+Michigan                  16
+Minnesota                 18
+Mississippi               17
+Missouri                  34
+Montana                   16
+Nebraska                  23
+Nevada                    12
+New Hampshire             15
+New Jersey                37
+New Mexico                16
+New York                  16
+North Carolina            17
+North Dakota              13
+Ohio                      87
+Oklahoma                  52
+Oregon                    12
+Pennsylvania              16
+Rhode Island              13
+South Carolina            20
+South Dakota               9
+Tennessee                 26
+Texas                     22
+Utah                      30
+Vermont                   21
+Virginia                  20
+Washington                17
+West Virginia             16
+Wisconsin                 21
+Wyoming                  100

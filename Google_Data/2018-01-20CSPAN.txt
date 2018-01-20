@@ -1,0 +1,53 @@
+                      CSPAN
+geoName                    
+Alabama                  12
+Alaska                   15
+Arizona                  12
+Arkansas                 12
+California               12
+Colorado                 14
+Connecticut              15
+Delaware                 15
+District of Columbia    100
+Florida                  11
+Georgia                  11
+Hawaii                   11
+Idaho                    12
+Illinois                 13
+Indiana                  13
+Iowa                     14
+Kansas                   11
+Kentucky                 12
+Louisiana                12
+Maine                    19
+Maryland                 42
+Massachusetts            17
+Michigan                 12
+Minnesota                14
+Mississippi              10
+Missouri                 13
+Montana                  16
+Nebraska                 15
+Nevada                   10
+New Hampshire            15
+New Jersey               12
+New Mexico               13
+New York                 15
+North Carolina           14
+North Dakota             10
+Ohio                     13
+Oklahoma                 11
+Oregon                   12
+Pennsylvania             14
+Rhode Island             17
+South Carolina           12
+South Dakota             15
+Tennessee                12
+Texas                    10
+Utah                     10
+Vermont                  22
+Virginia                 26
+Washington               14
+West Virginia            15
+Wisconsin                12
+Wyoming                  15

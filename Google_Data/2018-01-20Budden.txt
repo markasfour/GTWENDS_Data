@@ -1,0 +1,53 @@
+                      Budden
+geoName                     
+Alabama                   34
+Alaska                    15
+Arizona                   36
+Arkansas                  22
+California                38
+Colorado                  23
+Connecticut               69
+Delaware                  81
+District of Columbia      76
+Florida                   52
+Georgia                   59
+Hawaii                    20
+Idaho                     11
+Illinois                  40
+Indiana                   26
+Iowa                      18
+Kansas                    24
+Kentucky                  25
+Louisiana                 47
+Maine                     22
+Maryland                  82
+Massachusetts             66
+Michigan                  43
+Minnesota                 22
+Mississippi               38
+Missouri                  29
+Montana                    7
+Nebraska                  25
+Nevada                    45
+New Hampshire             21
+New Jersey               100
+New Mexico                22
+New York                  99
+North Carolina            51
+North Dakota              10
+Ohio                      33
+Oklahoma                  23
+Oregon                    16
+Pennsylvania              57
+Rhode Island              94
+South Carolina            44
+South Dakota              14
+Tennessee                 32
+Texas                     38
+Utah                      13
+Vermont                   23
+Virginia                  52
+Washington                23
+West Virginia             26
+Wisconsin                 20
+Wyoming                   13

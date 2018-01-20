@@ -1,0 +1,53 @@
+                      Den of Thieves
+geoName                             
+Alabama                           54
+Alaska                            46
+Arizona                           61
+Arkansas                          53
+California                        69
+Colorado                          42
+Connecticut                       63
+Delaware                          91
+District of Columbia             100
+Florida                           57
+Georgia                           94
+Hawaii                            97
+Idaho                             23
+Illinois                          58
+Indiana                           63
+Iowa                              42
+Kansas                            43
+Kentucky                          55
+Louisiana                         78
+Maine                             34
+Maryland                          88
+Massachusetts                     59
+Michigan                          54
+Minnesota                         52
+Mississippi                       63
+Missouri                          59
+Montana                           30
+Nebraska                          41
+Nevada                            48
+New Hampshire                     45
+New Jersey                        56
+New Mexico                        61
+New York                          67
+North Carolina                    60
+North Dakota                      37
+Ohio                              56
+Oklahoma                          53
+Oregon                            33
+Pennsylvania                      53
+Rhode Island                      27
+South Carolina                    60
+South Dakota                      28
+Tennessee                         65
+Texas                             60
+Utah                              48
+Vermont                           38
+Virginia                          56
+Washington                        45
+West Virginia                     62
+Wisconsin                         48
+Wyoming                           70
