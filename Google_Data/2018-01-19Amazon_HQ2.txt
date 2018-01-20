@@ -1,49 +1,48 @@
                       Amazon HQ2
 geoName                         
-Alabama                       26
-Arizona                       24
-Arkansas                      17
-California                    25
-Colorado                      97
-Connecticut                   31
-Delaware                      30
-District of Columbia          59
-Florida                       15
-Georgia                       75
-Hawaii                        21
-Idaho                          7
-Illinois                      59
-Indiana                       29
-Iowa                          11
-Kansas                        23
-Kentucky                      16
-Louisiana                     11
-Maine                          8
-Maryland                      49
-Massachusetts                 66
-Michigan                      46
-Minnesota                     19
-Mississippi                   18
-Missouri                      49
-Montana                       18
-Nebraska                      17
-Nevada                        35
-New Hampshire                 51
-New Jersey                    31
-New Mexico                    19
-New York                      27
-North Carolina                48
-Ohio                          40
-Oklahoma                      18
-Oregon                        13
-Pennsylvania                  66
-Rhode Island                  50
-South Carolina                24
-Tennessee                     27
-Texas                         48
-Utah                          26
-Vermont                       15
-Virginia                      35
+Alabama                       32
+Arizona                       26
+Arkansas                      16
+California                    28
+Colorado                      88
+Connecticut                   41
+Delaware                      26
+District of Columbia          76
+Florida                       18
+Georgia                       93
+Hawaii                        23
+Idaho                          4
+Illinois                      62
+Indiana                       39
+Iowa                           8
+Kansas                        22
+Kentucky                      19
+Louisiana                     10
+Maine                          4
+Maryland                      53
+Massachusetts                 57
+Michigan                      52
+Minnesota                     26
+Mississippi                    6
+Missouri                      63
+Montana                       26
+Nebraska                      16
+Nevada                        29
+New Hampshire                 55
+New Jersey                    29
+New Mexico                    28
+New York                      32
+North Carolina                62
+Ohio                          43
+Oklahoma                      13
+Oregon                        17
+Pennsylvania                  78
+Rhode Island                  68
+South Carolina                23
+Tennessee                     24
+Texas                         52
+Utah                          29
+Vermont                       25
+Virginia                      38
 Washington                   100
-West Virginia                  8
-Wisconsin                     18
+Wisconsin                     20

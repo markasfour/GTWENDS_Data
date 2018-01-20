@@ -1,0 +1,53 @@
+                      The Situation
+geoName                            
+Alabama                          86
+Alaska                           82
+Arizona                          84
+Arkansas                         90
+California                       75
+Colorado                         62
+Connecticut                      75
+Delaware                         86
+District of Columbia             68
+Florida                          92
+Georgia                          83
+Hawaii                           77
+Idaho                            88
+Illinois                         66
+Indiana                         100
+Iowa                             77
+Kansas                           78
+Kentucky                         77
+Louisiana                        86
+Maine                            68
+Maryland                         81
+Massachusetts                    67
+Michigan                         79
+Minnesota                        68
+Mississippi                      90
+Missouri                         66
+Montana                          57
+Nebraska                         75
+Nevada                           74
+New Hampshire                    66
+New Jersey                       83
+New Mexico                       94
+New York                         74
+North Carolina                   89
+North Dakota                     88
+Ohio                             82
+Oklahoma                         80
+Oregon                           46
+Pennsylvania                     77
+Rhode Island                     75
+South Carolina                   92
+South Dakota                     80
+Tennessee                        69
+Texas                            80
+Utah                             64
+Vermont                          56
+Virginia                         73
+Washington                       60
+West Virginia                    88
+Wisconsin                        65
+Wyoming                          61

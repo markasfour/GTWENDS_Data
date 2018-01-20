@@ -1,0 +1,53 @@
+                      Danny Amendola
+geoName                             
+Alabama                            9
+Alaska                             7
+Arizona                           12
+Arkansas                          10
+California                        12
+Colorado                          14
+Connecticut                       35
+Delaware                          13
+District of Columbia              18
+Florida                           13
+Georgia                           10
+Hawaii                            12
+Idaho                             10
+Illinois                          14
+Indiana                            9
+Iowa                              13
+Kansas                            10
+Kentucky                          10
+Louisiana                         12
+Maine                             55
+Maryland                          16
+Massachusetts                     82
+Michigan                          11
+Minnesota                         13
+Mississippi                       10
+Missouri                          15
+Montana                           11
+Nebraska                          12
+Nevada                            13
+New Hampshire                     60
+New Jersey                        18
+New Mexico                         9
+New York                          18
+North Carolina                    13
+North Dakota                      15
+Ohio                              11
+Oklahoma                          14
+Oregon                             5
+Pennsylvania                      15
+Rhode Island                     100
+South Carolina                    11
+South Dakota                      11
+Tennessee                         10
+Texas                             17
+Utah                               8
+Vermont                           25
+Virginia                          11
+Washington                        10
+West Virginia                     16
+Wisconsin                         13
+Wyoming                           12

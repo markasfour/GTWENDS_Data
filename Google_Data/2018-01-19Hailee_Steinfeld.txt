@@ -1,53 +1,53 @@
                       Hailee Steinfeld
 geoName                               
-Alabama                             73
-Alaska                              82
-Arizona                             81
-Arkansas                            77
-California                          98
-Colorado                            72
-Connecticut                         98
-Delaware                            73
-District of Columbia                83
-Florida                             71
-Georgia                             67
-Hawaii                              97
-Idaho                               76
-Illinois                            87
-Indiana                             74
-Iowa                                84
-Kansas                              67
-Kentucky                            67
-Louisiana                           62
-Maine                               62
-Maryland                            79
-Massachusetts                       81
-Michigan                            78
-Minnesota                           82
-Mississippi                         60
-Missouri                            72
-Montana                             78
-Nebraska                            84
-Nevada                              89
-New Hampshire                       83
-New Jersey                          95
+Alabama                             74
+Alaska                              77
+Arizona                             82
+Arkansas                            79
+California                         100
+Colorado                            73
+Connecticut                         93
+Delaware                            85
+District of Columbia                80
+Florida                             76
+Georgia                             71
+Hawaii                              98
+Idaho                               87
+Illinois                            93
+Indiana                             79
+Iowa                                85
+Kansas                              69
+Kentucky                            66
+Louisiana                           66
+Maine                               67
+Maryland                            85
+Massachusetts                       91
+Michigan                            85
+Minnesota                           86
+Mississippi                         58
+Missouri                            68
+Montana                             77
+Nebraska                            86
+Nevada                              96
+New Hampshire                       74
+New Jersey                          97
 New Mexico                          89
-New York                            87
-North Carolina                      70
-North Dakota                        79
-Ohio                                76
-Oklahoma                            74
-Oregon                              56
-Pennsylvania                        83
-Rhode Island                        82
-South Carolina                      67
-South Dakota                        74
-Tennessee                           75
-Texas                               80
-Utah                                88
-Vermont                             76
-Virginia                            64
-Washington                          73
-West Virginia                       72
-Wisconsin                           76
-Wyoming                            100
+New York                            91
+North Carolina                      75
+North Dakota                        92
+Ohio                                80
+Oklahoma                            82
+Oregon                              60
+Pennsylvania                        86
+Rhode Island                        92
+South Carolina                      71
+South Dakota                        78
+Tennessee                           73
+Texas                               84
+Utah                                91
+Vermont                             78
+Virginia                            66
+Washington                          74
+West Virginia                       77
+Wisconsin                           83
+Wyoming                             93

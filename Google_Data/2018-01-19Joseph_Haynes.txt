@@ -1,42 +1,47 @@
                       Joseph Haynes
 geoName                            
-Alabama                          44
-Arizona                          29
-Arkansas                        100
-California                       25
-Colorado                         30
-Connecticut                      21
-District of Columbia             53
-Florida                          96
-Georgia                          15
-Illinois                         54
-Indiana                          45
-Iowa                             74
-Kansas                           25
-Kentucky                         21
-Louisiana                        43
-Maine                            93
+Alabama                          41
+Alaska                           54
+Arizona                          37
+Arkansas                         74
+California                       14
+Colorado                         23
+Connecticut                      29
+Delaware                         45
+District of Columbia             49
+Florida                         100
+Georgia                          31
+Hawaii                           23
+Idaho                            27
+Illinois                         46
+Indiana                          42
+Iowa                             55
+Kansas                           35
+Kentucky                         49
+Louisiana                        59
+Maine                            58
 Maryland                          6
-Massachusetts                    25
-Michigan                         15
-Minnesota                        12
-Mississippi                      41
-Missouri                         32
-Nevada                           38
-New Hampshire                    29
-New Jersey                       46
-New Mexico                       26
-New York                         23
-North Carolina                   59
-Ohio                             22
-Oklahoma                         35
-Oregon                           40
-Pennsylvania                     30
-South Carolina                   19
-Tennessee                        56
-Texas                            27
-Utah                             26
-Virginia                         43
-Washington                       46
-West Virginia                    32
-Wisconsin                        21
+Massachusetts                    42
+Michigan                          7
+Minnesota                        11
+Mississippi                      37
+Missouri                         53
+Nebraska                         18
+Nevada                           12
+New Hampshire                    81
+New Jersey                       35
+New Mexico                       48
+New York                         25
+North Carolina                   48
+Ohio                             24
+Oklahoma                         11
+Oregon                           50
+Pennsylvania                     28
+South Carolina                   17
+Tennessee                        46
+Texas                            30
+Utah                             49
+Vermont                          57
+Virginia                         27
+Washington                       43
+Wisconsin                        13

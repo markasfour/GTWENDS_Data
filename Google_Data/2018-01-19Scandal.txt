@@ -1,53 +1,53 @@
                       Scandal
 geoName                      
-Alabama                    71
-Alaska                     63
+Alabama                    73
+Alaska                     67
 Arizona                    59
-Arkansas                   59
-California                 72
-Colorado                   53
-Connecticut                77
+Arkansas                   62
+California                 73
+Colorado                   55
+Connecticut                78
 Delaware                   76
 District of Columbia      100
-Florida                    66
-Georgia                    78
-Hawaii                     95
-Idaho                      50
-Illinois                   69
+Florida                    65
+Georgia                    80
+Hawaii                     99
+Idaho                      49
+Illinois                   73
 Indiana                    65
 Iowa                       59
-Kansas                     61
-Kentucky                   71
-Louisiana                  77
-Maine                      59
-Maryland                   86
-Massachusetts              75
-Michigan                   65
+Kansas                     62
+Kentucky                   73
+Louisiana                  78
+Maine                      62
+Maryland                   89
+Massachusetts              79
+Michigan                   64
 Minnesota                  63
-Mississippi                73
-Missouri                   63
-Montana                    52
-Nebraska                   59
-Nevada                     66
-New Hampshire              64
-New Jersey                 78
-New Mexico                 51
-New York                   85
-North Carolina             76
-North Dakota               57
+Mississippi                72
+Missouri                   61
+Montana                    49
+Nebraska                   58
+Nevada                     62
+New Hampshire              63
+New Jersey                 83
+New Mexico                 50
+New York                   88
+North Carolina             78
+North Dakota               52
 Ohio                       66
-Oklahoma                   65
-Oregon                     57
-Pennsylvania               71
+Oklahoma                   66
+Oregon                     59
+Pennsylvania               75
 Rhode Island               78
-South Carolina             70
-South Dakota               57
-Tennessee                  68
+South Carolina             72
+South Dakota               54
+Tennessee                  70
 Texas                      67
 Utah                       50
-Vermont                    63
+Vermont                    67
 Virginia                   83
-Washington                 62
-West Virginia              56
+Washington                 63
+West Virginia              59
 Wisconsin                  60
-Wyoming                    46
+Wyoming                    48

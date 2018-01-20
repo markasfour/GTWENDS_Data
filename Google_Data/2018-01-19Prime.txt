@@ -1,0 +1,53 @@
+                      Prime
+geoName                    
+Alabama                  61
+Alaska                   87
+Arizona                  70
+Arkansas                 61
+California               64
+Colorado                 67
+Connecticut              78
+Delaware                 74
+District of Columbia     56
+Florida                  67
+Georgia                  56
+Hawaii                   70
+Idaho                    89
+Illinois                 59
+Indiana                  66
+Iowa                     65
+Kansas                   58
+Kentucky                 57
+Louisiana                60
+Maine                   100
+Maryland                 68
+Massachusetts            71
+Michigan                 59
+Minnesota                69
+Mississippi              56
+Missouri                 61
+Montana                  89
+Nebraska                 71
+Nevada                   65
+New Hampshire            78
+New Jersey               65
+New Mexico               70
+New York                 64
+North Carolina           64
+North Dakota             74
+Ohio                     63
+Oklahoma                 61
+Oregon                   62
+Pennsylvania             62
+Rhode Island             72
+South Carolina           64
+South Dakota             74
+Tennessee                59
+Texas                    58
+Utah                     77
+Vermont                  82
+Virginia                 61
+Washington               78
+West Virginia            59
+Wisconsin                68
+Wyoming                  86

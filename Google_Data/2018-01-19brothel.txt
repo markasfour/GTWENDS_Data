@@ -1,0 +1,53 @@
+                      brothel
+geoName                      
+Alabama                    23
+Alaska                     35
+Arizona                    29
+Arkansas                   26
+California                 34
+Colorado                   28
+Connecticut                23
+Delaware                   26
+District of Columbia       29
+Florida                    24
+Georgia                    23
+Hawaii                     28
+Idaho                      35
+Illinois                   27
+Indiana                    27
+Iowa                       27
+Kansas                     25
+Kentucky                   23
+Louisiana                  25
+Maine                      23
+Maryland                   24
+Massachusetts              25
+Michigan                   24
+Minnesota                  26
+Mississippi                26
+Missouri                   27
+Montana                    44
+Nebraska                   25
+Nevada                    100
+New Hampshire              22
+New Jersey                 24
+New Mexico                 30
+New York                   27
+North Carolina             21
+North Dakota               36
+Ohio                       24
+Oklahoma                   25
+Oregon                     21
+Pennsylvania               24
+Rhode Island               25
+South Carolina             22
+South Dakota               27
+Tennessee                  25
+Texas                      26
+Utah                       38
+Vermont                    19
+Virginia                   23
+Washington                 29
+West Virginia              25
+Wisconsin                  24
+Wyoming                    40

@@ -1,53 +1,53 @@
                       Grey's Anatomy
 geoName                             
-Alabama                           79
-Alaska                            74
+Alabama                           80
+Alaska                            69
 Arizona                           61
-Arkansas                          79
-California                        59
+Arkansas                          78
+California                        57
 Colorado                          56
-Connecticut                       88
-Delaware                          71
-District of Columbia              57
-Florida                           62
-Georgia                           60
-Hawaii                            63
-Idaho                             69
-Illinois                          66
-Indiana                           79
-Iowa                              81
-Kansas                            63
-Kentucky                          91
-Louisiana                         68
-Maine                             86
-Maryland                          62
-Massachusetts                     78
-Michigan                          71
-Minnesota                         69
-Mississippi                       76
-Missouri                          74
-Montana                           77
-Nebraska                          75
+Connecticut                       86
+Delaware                          73
+District of Columbia              56
+Florida                           58
+Georgia                           58
+Hawaii                            62
+Idaho                             72
+Illinois                          68
+Indiana                           80
+Iowa                              85
+Kansas                            66
+Kentucky                          90
+Louisiana                         67
+Maine                             90
+Maryland                          63
+Massachusetts                     79
+Michigan                          69
+Minnesota                         67
+Mississippi                       78
+Missouri                          72
+Montana                           75
+Nebraska                          74
 Nevada                            56
-New Hampshire                     85
-New Jersey                        73
-New Mexico                        58
-New York                          68
-North Carolina                    72
-North Dakota                      90
+New Hampshire                     84
+New Jersey                        66
+New Mexico                        56
+New York                          66
+North Carolina                    70
+North Dakota                      88
 Ohio                              79
-Oklahoma                          74
-Oregon                            48
+Oklahoma                          69
+Oregon                            46
 Pennsylvania                      76
-Rhode Island                      94
-South Carolina                    70
-South Dakota                      89
-Tennessee                         70
-Texas                             65
-Utah                              68
-Vermont                           89
-Virginia                          58
-Washington                        63
+Rhode Island                      98
+South Carolina                    69
+South Dakota                      77
+Tennessee                         73
+Texas                             64
+Utah                              70
+Vermont                           81
+Virginia                          57
+Washington                        64
 West Virginia                    100
-Wisconsin                         75
-Wyoming                           70
+Wisconsin                         73
+Wyoming                           80
