@@ -1,49 +1,40 @@
                       Carl Higbie
 geoName                          
-Alabama                        49
-Arizona                        35
-Arkansas                       32
-California                     24
-Colorado                       24
+Alabama                        19
+Arizona                        22
+California                     22
+Colorado                       21
 Connecticut                   100
-Delaware                       19
-District of Columbia           83
-Florida                        25
+Delaware                       33
+District of Columbia           37
+Florida                        19
 Georgia                        21
-Hawaii                         20
-Idaho                          35
-Illinois                       16
-Indiana                        18
-Iowa                           18
-Kansas                         10
-Kentucky                       21
-Louisiana                       8
-Maine                          13
-Maryland                       25
-Massachusetts                  22
-Michigan                       17
-Minnesota                      17
-Mississippi                    16
-Missouri                       16
-Montana                        58
-Nebraska                       16
-Nevada                         20
-New Hampshire                  35
-New Jersey                     34
-New Mexico                     21
-New York                       44
-North Carolina                 22
-Ohio                            9
-Oklahoma                        9
-Oregon                         13
-Pennsylvania                   36
-Rhode Island                   27
-South Carolina                 15
-Tennessee                      23
-Texas                          22
-Utah                           21
-Vermont                        25
-Virginia                       54
-Washington                     11
-West Virginia                  26
-Wisconsin                      14
+Hawaii                          8
+Idaho                          10
+Illinois                       19
+Indiana                        23
+Iowa                           20
+Kentucky                       11
+Louisiana                      22
+Maryland                       32
+Massachusetts                  26
+Michigan                       11
+Minnesota                      21
+Mississippi                    28
+Nevada                         17
+New Hampshire                  40
+New Jersey                     37
+New Mexico                     18
+North Carolina                 13
+Ohio                           10
+Oklahoma                       20
+Oregon                          9
+Pennsylvania                   30
+Rhode Island                   12
+South Carolina                 13
+Tennessee                      26
+Utah                           18
+Vermont                        21
+Washington                     19
+West Virginia                  11
+Wisconsin                      12

@@ -1,0 +1,53 @@
+                      Santana
+geoName                      
+Alabama                    32
+Alaska                     30
+Arizona                    45
+Arkansas                   30
+California                100
+Colorado                   38
+Connecticut                51
+Delaware                   46
+District of Columbia       52
+Florida                    52
+Georgia                    44
+Hawaii                     53
+Idaho                      28
+Illinois                   46
+Indiana                    27
+Iowa                       25
+Kansas                     36
+Kentucky                   31
+Louisiana                  36
+Maine                      27
+Maryland                   51
+Massachusetts              48
+Michigan                   36
+Minnesota                  41
+Mississippi                38
+Missouri                   36
+Montana                    23
+Nebraska                   30
+Nevada                     58
+New Hampshire              29
+New Jersey                 58
+New Mexico                 49
+New York                   63
+North Carolina             40
+North Dakota               23
+Ohio                       39
+Oklahoma                   33
+Oregon                     71
+Pennsylvania               43
+Rhode Island               52
+South Carolina             37
+South Dakota               27
+Tennessee                  32
+Texas                      42
+Utah                       24
+Vermont                    29
+Virginia                   45
+Washington                 39
+West Virginia              25
+Wisconsin                  30
+Wyoming                    23

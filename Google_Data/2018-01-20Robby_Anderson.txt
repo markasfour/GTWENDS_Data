@@ -1,51 +1,48 @@
                       Robby Anderson
 geoName                             
-Alabama                           24
-Arizona                           23
-Arkansas                          25
-California                        28
-Colorado                          28
-Connecticut                       55
-Delaware                          68
-District of Columbia              37
-Florida                           49
-Georgia                           24
-Hawaii                            38
-Idaho                             31
-Illinois                          33
-Indiana                           19
-Iowa                              30
+Alabama                           27
+Arizona                           25
+Arkansas                          16
+California                        29
+Colorado                          24
+Connecticut                       62
+Delaware                          86
+District of Columbia              46
+Florida                           47
+Georgia                           25
+Hawaii                            32
+Idaho                             28
+Illinois                          36
+Indiana                           22
+Iowa                              24
 Kansas                            18
-Kentucky                          20
-Louisiana                         32
-Maine                             25
-Maryland                          36
-Massachusetts                     40
-Michigan                          33
-Minnesota                         45
-Mississippi                       22
-Missouri                          23
-Montana                           38
-Nebraska                          29
-Nevada                            22
-New Hampshire                     36
+Kentucky                          22
+Louisiana                         33
+Maine                             15
+Maryland                          39
+Massachusetts                     33
+Michigan                          39
+Minnesota                         48
+Mississippi                       32
+Missouri                          19
+Nebraska                          32
+Nevada                            28
+New Hampshire                     33
 New Jersey                       100
-New Mexico                        16
-New York                          69
-North Carolina                    34
-North Dakota                      38
-Ohio                              36
-Oklahoma                           7
-Oregon                            11
-Pennsylvania                      56
-Rhode Island                      48
-South Carolina                    22
-South Dakota                       9
-Tennessee                         23
-Texas                             27
-Utah                              10
-Vermont                           38
+New Mexico                        13
+New York                          62
+North Carolina                    26
+North Dakota                      19
+Ohio                              33
+Oklahoma                          19
+Oregon                            15
+Pennsylvania                      62
+Rhode Island                      49
+South Carolina                    20
+Tennessee                         27
+Texas                             26
+Utah                              19
 Virginia                          30
-Washington                        41
-West Virginia                     10
-Wisconsin                         36
+Washington                        34
+West Virginia                     32
+Wisconsin                         41

@@ -1,0 +1,52 @@
+                      Chicago West
+geoName                           
+Alabama                          1
+Alaska                           1
+Arizona                          2
+Arkansas                         2
+California                       2
+Colorado                         2
+Connecticut                      2
+Delaware                         1
+District of Columbia             3
+Florida                          2
+Georgia                          2
+Hawaii                           1
+Idaho                            1
+Illinois                       100
+Indiana                         10
+Iowa                             6
+Kansas                           3
+Kentucky                         2
+Louisiana                        1
+Maine                            1
+Maryland                         2
+Massachusetts                    3
+Michigan                         6
+Minnesota                        4
+Mississippi                      1
+Missouri                         4
+Montana                          1
+Nebraska                         3
+Nevada                           1
+New Hampshire                    1
+New Jersey                       2
+New Mexico                       1
+New York                         3
+North Carolina                   1
+North Dakota                     2
+Ohio                             3
+Oklahoma                         1
+Oregon                           1
+Pennsylvania                     2
+Rhode Island                     1
+South Carolina                   1
+South Dakota                     2
+Tennessee                        2
+Texas                            2
+Utah                             1
+Vermont                          1
+Virginia                         1
+Washington                       1
+West Virginia                    2
+Wisconsin                        8

@@ -1,53 +1,53 @@
                       Dolly Parton
 geoName                           
 Alabama                         50
-Alaska                          31
+Alaska                          29
 Arizona                         23
 Arkansas                        47
-California                      19
-Colorado                        26
+California                      18
+Colorado                        24
 Connecticut                     18
-Delaware                        21
+Delaware                        22
 District of Columbia            25
 Florida                         23
 Georgia                         39
-Hawaii                          18
+Hawaii                          16
 Idaho                           28
-Illinois                        26
-Indiana                         36
+Illinois                        24
+Indiana                         33
 Iowa                            32
-Kansas                          32
-Kentucky                        60
-Louisiana                       39
-Maine                           30
+Kansas                          31
+Kentucky                        54
+Louisiana                       38
+Maine                           29
 Maryland                        20
 Massachusetts                   19
 Michigan                        27
-Minnesota                       27
-Mississippi                     51
-Missouri                        40
-Montana                         36
+Minnesota                       28
+Mississippi                     50
+Missouri                        38
+Montana                         37
 Nebraska                        30
-Nevada                          22
-New Hampshire                   24
-New Jersey                      17
-New Mexico                      30
-New York                        19
-North Carolina                  39
-North Dakota                    46
-Ohio                            33
-Oklahoma                        40
-Oregon                          20
+Nevada                          20
+New Hampshire                   21
+New Jersey                      16
+New Mexico                      31
+New York                        20
+North Carolina                  38
+North Dakota                    45
+Ohio                            31
+Oklahoma                        38
+Oregon                          19
 Pennsylvania                    25
-Rhode Island                    21
-South Carolina                  44
+Rhode Island                    20
+South Carolina                  43
 South Dakota                    45
 Tennessee                      100
-Texas                           30
-Utah                            25
-Vermont                         24
-Virginia                        24
-Washington                      25
-West Virginia                   67
-Wisconsin                       27
+Texas                           28
+Utah                            23
+Vermont                         21
+Virginia                        23
+Washington                      23
+West Virginia                   70
+Wisconsin                       26
 Wyoming                         33

@@ -1,0 +1,53 @@
+                      Sundance
+geoName                       
+Alabama                      7
+Alaska                      13
+Arizona                     14
+Arkansas                     7
+California                  15
+Colorado                    21
+Connecticut                 11
+Delaware                     9
+District of Columbia        10
+Florida                      7
+Georgia                      7
+Hawaii                       8
+Idaho                       16
+Illinois                    10
+Indiana                      9
+Iowa                         9
+Kansas                      10
+Kentucky                     7
+Louisiana                    7
+Maine                       12
+Maryland                     9
+Massachusetts               10
+Michigan                    20
+Minnesota                   12
+Mississippi                  6
+Missouri                     8
+Montana                     23
+Nebraska                     9
+Nevada                      18
+New Hampshire               14
+New Jersey                   8
+New Mexico                  18
+New York                    11
+North Carolina               7
+North Dakota                13
+Ohio                        10
+Oklahoma                    12
+Oregon                      12
+Pennsylvania                10
+Rhode Island                10
+South Carolina               7
+South Dakota                24
+Tennessee                    7
+Texas                       16
+Utah                       100
+Vermont                     18
+Virginia                     8
+Washington                  19
+West Virginia                7
+Wisconsin                   27
+Wyoming                     87

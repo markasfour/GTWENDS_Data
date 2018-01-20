@@ -1,53 +1,53 @@
                       Charissa Thompson
 geoName                                
-Alabama                              54
-Alaska                               54
-Arizona                              63
-Arkansas                             41
-California                           52
+Alabama                              52
+Alaska                               41
+Arizona                              64
+Arkansas                             51
+California                           49
 Colorado                             57
-Connecticut                          84
-Delaware                             64
-District of Columbia                 64
-Florida                              55
-Georgia                              60
-Hawaii                               41
-Idaho                                45
-Illinois                             75
-Indiana                              64
-Iowa                                 60
-Kansas                               67
+Connecticut                          83
+Delaware                             67
+District of Columbia                 55
+Florida                              51
+Georgia                              58
+Hawaii                               42
+Idaho                                48
+Illinois                             74
+Indiana                              58
+Iowa                                 68
+Kansas                               53
 Kentucky                             65
-Louisiana                            64
-Maine                                58
-Maryland                             83
-Massachusetts                        73
-Michigan                             82
-Minnesota                            62
-Mississippi                          55
-Missouri                             58
-Montana                              53
-Nebraska                             76
-Nevada                               69
-New Hampshire                        47
-New Jersey                           78
-New Mexico                           79
-New York                             62
-North Carolina                       59
-North Dakota                         76
-Ohio                                 80
-Oklahoma                             67
-Oregon                               36
-Pennsylvania                         88
-Rhode Island                         74
+Louisiana                            76
+Maine                                41
+Maryland                             70
+Massachusetts                        71
+Michigan                             79
+Minnesota                            67
+Mississippi                          40
+Missouri                             53
+Montana                              60
+Nebraska                             69
+Nevada                               61
+New Hampshire                        42
+New Jersey                           77
+New Mexico                           76
+New York                             59
+North Carolina                       62
+North Dakota                         57
+Ohio                                 72
+Oklahoma                             57
+Oregon                               40
+Pennsylvania                         86
+Rhode Island                         84
 South Carolina                       56
-South Dakota                         71
-Tennessee                            58
-Texas                                59
-Utah                                 51
-Vermont                              38
-Virginia                             58
+South Dakota                         68
+Tennessee                            60
+Texas                                56
+Utah                                 41
+Vermont                              36
+Virginia                             51
 Washington                          100
-West Virginia                        55
-Wisconsin                            82
-Wyoming                              49
+West Virginia                        62
+Wisconsin                            81
+Wyoming                              40

@@ -1,0 +1,53 @@
+                      Lean
+geoName                   
+Alabama                 96
+Alaska                  79
+Arizona                 88
+Arkansas                94
+California              89
+Colorado                80
+Connecticut             91
+Delaware                92
+District of Columbia    97
+Florida                 87
+Georgia                100
+Hawaii                  79
+Idaho                   79
+Illinois                95
+Indiana                 92
+Iowa                    88
+Kansas                  84
+Kentucky                89
+Louisiana               99
+Maine                   81
+Maryland                95
+Massachusetts           88
+Michigan                90
+Minnesota               87
+Mississippi             93
+Missouri                90
+Montana                 71
+Nebraska                90
+Nevada                  82
+New Hampshire           82
+New Jersey              85
+New Mexico              80
+New York                90
+North Carolina          93
+North Dakota            85
+Ohio                    88
+Oklahoma                95
+Oregon                  65
+Pennsylvania            84
+Rhode Island            90
+South Carolina          93
+South Dakota            81
+Tennessee               91
+Texas                   94
+Utah                    81
+Vermont                 79
+Virginia                84
+Washington              88
+West Virginia           84
+Wisconsin               92
+Wyoming                 72

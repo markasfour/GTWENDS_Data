@@ -1,0 +1,49 @@
+                      Gasquet
+geoName                      
+Alabama                    22
+Arizona                    23
+Arkansas                   11
+California                 67
+Colorado                   25
+Connecticut                56
+Delaware                   32
+District of Columbia       54
+Florida                    38
+Georgia                    32
+Hawaii                     53
+Idaho                      19
+Illinois                   33
+Indiana                    23
+Iowa                       11
+Kansas                     26
+Kentucky                   27
+Louisiana                  33
+Maine                      21
+Maryland                   43
+Massachusetts              47
+Michigan                   24
+Minnesota                  23
+Mississippi                22
+Missouri                   18
+Montana                    18
+Nebraska                   28
+Nevada                     42
+New Hampshire              38
+New Jersey                 47
+New Mexico                 10
+New York                   59
+North Carolina             28
+Ohio                       25
+Oklahoma                   26
+Oregon                    100
+Pennsylvania               33
+Rhode Island               19
+South Carolina             29
+Tennessee                  28
+Texas                      28
+Utah                       38
+Vermont                    29
+Virginia                   36
+Washington                 32
+West Virginia              28
+Wisconsin                  24

@@ -1,53 +1,53 @@
                       Drake
 geoName                    
-Alabama                  60
-Alaska                   31
-Arizona                  50
-Arkansas                 49
-California               58
-Colorado                 41
-Connecticut              52
-Delaware                 60
-District of Columbia     66
-Florida                  55
-Georgia                  65
-Hawaii                   40
-Idaho                    28
-Illinois                 60
-Indiana                  46
+Alabama                  62
+Alaska                   32
+Arizona                  52
+Arkansas                 50
+California               61
+Colorado                 43
+Connecticut              59
+Delaware                 70
+District of Columbia     70
+Florida                  62
+Georgia                  71
+Hawaii                   41
+Idaho                    29
+Illinois                 65
+Indiana                  48
 Iowa                    100
-Kansas                   42
-Kentucky                 48
-Louisiana                64
-Maine                    31
-Maryland                 56
-Massachusetts            52
-Michigan                 56
-Minnesota                40
-Mississippi              62
-Missouri                 47
-Montana                  23
-Nebraska                 45
-Nevada                   55
-New Hampshire            32
-New Jersey               64
-New Mexico               42
-New York                 69
-North Carolina           59
-North Dakota             35
-Ohio                     48
-Oklahoma                 45
-Oregon                   28
-Pennsylvania             56
-Rhode Island             60
-South Carolina           56
-South Dakota             35
-Tennessee                48
-Texas                    60
-Utah                     27
-Vermont                  30
-Virginia                 47
-Washington               37
-West Virginia            42
-Wisconsin                38
-Wyoming                  25
+Kansas                   45
+Kentucky                 50
+Louisiana                69
+Maine                    34
+Maryland                 61
+Massachusetts            54
+Michigan                 59
+Minnesota                42
+Mississippi              69
+Missouri                 48
+Montana                  26
+Nebraska                 47
+Nevada                   58
+New Hampshire            34
+New Jersey               69
+New Mexico               44
+New York                 71
+North Carolina           61
+North Dakota             39
+Ohio                     49
+Oklahoma                 49
+Oregon                   29
+Pennsylvania             57
+Rhode Island             61
+South Carolina           57
+South Dakota             36
+Tennessee                51
+Texas                    65
+Utah                     29
+Vermont                  33
+Virginia                 48
+Washington               38
+West Virginia            44
+Wisconsin                42
+Wyoming                  27

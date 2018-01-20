@@ -1,0 +1,52 @@
+                      Fredo
+geoName                    
+Alabama                  63
+Alaska                   28
+Arizona                  50
+Arkansas                 50
+California               50
+Colorado                 34
+Connecticut              72
+Delaware                100
+District of Columbia     84
+Florida                  70
+Georgia                  75
+Hawaii                   25
+Idaho                    20
+Illinois                 93
+Indiana                  56
+Iowa                     53
+Kansas                   39
+Kentucky                 56
+Louisiana                65
+Maine                    23
+Maryland                 93
+Massachusetts            69
+Michigan                 52
+Minnesota                45
+Mississippi              89
+Missouri                 57
+Montana                  17
+Nebraska                 37
+Nevada                   53
+New Hampshire            22
+New Jersey               76
+New Mexico               31
+New York                 84
+North Carolina           85
+North Dakota             14
+Ohio                     55
+Oklahoma                 33
+Oregon                   22
+Pennsylvania             68
+Rhode Island             79
+South Carolina           78
+South Dakota             32
+Tennessee                53
+Texas                    52
+Utah                     18
+Vermont                  21
+Virginia                 70
+Washington               34
+West Virginia            32
+Wisconsin                42

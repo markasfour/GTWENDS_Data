@@ -1,53 +1,53 @@
                       Government Shutdown
 geoName                                  
 Alabama                                42
-Alaska                                 62
-Arizona                                38
-Arkansas                               41
-California                             33
-Colorado                               44
+Alaska                                 60
+Arizona                                37
+Arkansas                               40
+California                             34
+Colorado                               43
 Connecticut                            30
-Delaware                               30
+Delaware                               35
 District of Columbia                  100
 Florida                                30
-Georgia                                40
+Georgia                                41
 Hawaii                                 50
-Idaho                                  41
+Idaho                                  42
 Illinois                               33
-Indiana                                32
+Indiana                                34
 Iowa                                   35
-Kansas                                 41
+Kansas                                 39
 Kentucky                               49
-Louisiana                              34
-Maine                                  43
-Maryland                               91
+Louisiana                              35
+Maine                                  42
+Maryland                               93
 Massachusetts                          35
 Michigan                               30
 Minnesota                              35
-Mississippi                            58
+Mississippi                            59
 Missouri                               44
-Montana                                52
-Nebraska                               36
-Nevada                                 44
-New Hampshire                          37
-New Jersey                             38
-New Mexico                             53
-New York                               32
-North Carolina                         38
-North Dakota                           40
-Ohio                                   35
-Oklahoma                               51
+Montana                                53
+Nebraska                               35
+Nevada                                 43
+New Hampshire                          35
+New Jersey                             37
+New Mexico                             58
+New York                               31
+North Carolina                         37
+North Dakota                           35
+Ohio                                   36
+Oklahoma                               52
 Oregon                                 29
 Pennsylvania                           33
-Rhode Island                           34
+Rhode Island                           33
 South Carolina                         30
-South Dakota                           42
+South Dakota                           44
 Tennessee                              36
 Texas                                  34
-Utah                                   46
-Vermont                                40
-Virginia                               69
-Washington                             45
-West Virginia                          52
+Utah                                   47
+Vermont                                38
+Virginia                               67
+Washington                             44
+West Virginia                          49
 Wisconsin                              26
-Wyoming                                48
+Wyoming                                50

@@ -1,53 +1,53 @@
                       Dragon Ball Super
 geoName                                
-Alabama                              90
-Alaska                               77
-Arizona                              77
-Arkansas                             91
-California                           90
-Colorado                             49
-Connecticut                          69
-Delaware                             92
-District of Columbia                 52
-Florida                              89
-Georgia                              81
+Alabama                              89
+Alaska                               82
+Arizona                              80
+Arkansas                             88
+California                           92
+Colorado                             50
+Connecticut                          71
+Delaware                             96
+District of Columbia                 53
+Florida                              92
+Georgia                              83
 Hawaii                               84
-Idaho                                54
-Illinois                             66
-Indiana                              72
-Iowa                                 55
-Kansas                               59
-Kentucky                             63
-Louisiana                            91
-Maine                                37
+Idaho                                51
+Illinois                             68
+Indiana                              74
+Iowa                                 59
+Kansas                               63
+Kentucky                             65
+Louisiana                            98
+Maine                                40
 Maryland                             88
-Massachusetts                        54
-Michigan                             69
-Minnesota                            49
-Mississippi                          97
-Missouri                             60
-Montana                              37
-Nebraska                             65
-Nevada                               97
+Massachusetts                        56
+Michigan                             71
+Minnesota                            50
+Mississippi                          99
+Missouri                             59
+Montana                              36
+Nebraska                             63
+Nevada                               99
 New Hampshire                        39
-New Jersey                           98
-New Mexico                           73
-New York                             92
-North Carolina                       77
-North Dakota                         55
-Ohio                                 60
+New Jersey                           97
+New Mexico                           77
+New York                             94
+North Carolina                       79
+North Dakota                         60
+Ohio                                 62
 Oklahoma                             74
-Oregon                               41
-Pennsylvania                         65
+Oregon                               43
+Pennsylvania                         66
 Rhode Island                         71
-South Carolina                       77
-South Dakota                         51
-Tennessee                            71
+South Carolina                       81
+South Dakota                         50
+Tennessee                            74
 Texas                               100
-Utah                                 46
-Vermont                              31
-Virginia                             62
+Utah                                 49
+Vermont                              34
+Virginia                             63
 Washington                           58
-West Virginia                        68
-Wisconsin                            49
-Wyoming                              46
+West Virginia                        71
+Wisconsin                            51
+Wyoming                              49
