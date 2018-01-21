@@ -1,19 +1,47 @@
                       Paul Bocuse
 geoName                          
-California                     81
-Colorado                       57
-Connecticut                    89
-District of Columbia           73
-Florida                        71
-Georgia                        27
-Illinois                       62
+Alabama                        32
+Arizona                        35
+Arkansas                       17
+California                     56
+Colorado                       44
+Connecticut                    48
+Delaware                       14
+District of Columbia           40
+Florida                        52
+Georgia                        28
+Hawaii                        100
+Idaho                          17
+Illinois                       38
+Indiana                        26
+Iowa                           38
+Kansas                         22
+Kentucky                       18
+Louisiana                      56
+Maine                          27
+Maryland                       42
 Massachusetts                  48
-Michigan                       31
-New Jersey                     55
-New York                      100
-North Carolina                 32
-Ohio                           29
-Pennsylvania                   44
-Texas                          40
-Virginia                       47
-Washington                     49
+Michigan                       28
+Minnesota                      27
+Mississippi                    35
+Missouri                       20
+Nebraska                        6
+Nevada                         44
+New Hampshire                  67
+New Jersey                     42
+New Mexico                     15
+New York                       72
+North Carolina                 35
+Ohio                           35
+Oklahoma                       20
+Oregon                         21
+Pennsylvania                   34
+Rhode Island                   48
+South Carolina                 32
+Tennessee                      24
+Texas                          32
+Utah                           19
+Vermont                        71
+Virginia                       38
+Washington                     55
+Wisconsin                      32

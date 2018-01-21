@@ -39,7 +39,7 @@ Ohio                             3
 Oklahoma                         1
 Oregon                           1
 Pennsylvania                     2
-Rhode Island                     1
+Rhode Island                     2
 South Carolina                   1
 South Dakota                     2
 Tennessee                        2
@@ -48,5 +48,6 @@ Utah                             1
 Vermont                          1
 Virginia                         1
 Washington                       1
-West Virginia                    2
+West Virginia                    3
 Wisconsin                        8
+Wyoming                          1

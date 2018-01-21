@@ -1,50 +1,50 @@
                       Women's March 2018
 geoName                                 
-Alabama                                7
-Alaska                                19
-Arizona                               23
-Arkansas                              20
-California                            48
-Colorado                              58
-Connecticut                           65
-Delaware                              31
-District of Columbia                  64
-Florida                               20
-Georgia                               10
-Hawaii                                 8
-Idaho                                 28
+Alabama                               13
+Alaska                                23
+Arizona                               24
+Arkansas                              15
+California                            56
+Colorado                              75
+Connecticut                           64
+District of Columbia                  57
+Florida                               25
+Georgia                               12
+Hawaii                                48
+Idaho                                 11
 Illinois                              41
-Indiana                               30
-Iowa                                  19
-Kansas                                12
-Kentucky                              17
-Louisiana                              7
-Maine                                 72
-Maryland                              62
-Massachusetts                         42
-Michigan                              19
-Minnesota                             12
-Mississippi                           20
-Missouri                              21
-Montana                               16
-Nebraska                              20
-Nevada                                54
-New Hampshire                         19
-New Jersey                            31
-New Mexico                            34
-New York                              44
-North Carolina                        25
-Ohio                                  22
-Oklahoma                              11
-Oregon                                28
-Pennsylvania                          37
-Rhode Island                          33
-South Carolina                        18
-South Dakota                          20
-Tennessee                             21
-Texas                                 14
-Vermont                              100
-Virginia                              27
-Washington                            53
-Wisconsin                             30
-Wyoming                               88
+Indiana                               17
+Iowa                                  29
+Kansas                                19
+Kentucky                              24
+Louisiana                             12
+Maine                                 96
+Maryland                              63
+Massachusetts                         57
+Michigan                              32
+Minnesota                             19
+Mississippi                           15
+Missouri                              25
+Montana                               38
+Nebraska                              46
+Nevada                                39
+New Hampshire                         33
+New Jersey                            40
+New Mexico                           100
+New York                              54
+North Carolina                        27
+North Dakota                          23
+Ohio                                  20
+Oklahoma                              41
+Oregon                                43
+Pennsylvania                          40
+Rhode Island                          39
+South Carolina                        22
+Tennessee                             17
+Texas                                 16
+Utah                                  25
+Vermont                               95
+Virginia                              37
+Washington                            75
+West Virginia                         13
+Wisconsin                             27

@@ -1,0 +1,53 @@
+                      Wells Fargo Bank
+geoName                               
+Alabama                             46
+Alaska                             100
+Arizona                             75
+Arkansas                            19
+California                          80
+Colorado                            63
+Connecticut                         43
+Delaware                            54
+District of Columbia                48
+Florida                             60
+Georgia                             58
+Hawaii                              25
+Idaho                               61
+Illinois                            21
+Indiana                             17
+Iowa                                52
+Kansas                              23
+Kentucky                            17
+Louisiana                           19
+Maine                               12
+Maryland                            47
+Massachusetts                       16
+Michigan                            14
+Minnesota                           80
+Mississippi                         27
+Missouri                            24
+Montana                             65
+Nebraska                            64
+Nevada                              91
+New Hampshire                       16
+New Jersey                          66
+New Mexico                          73
+New York                            26
+North Carolina                      58
+North Dakota                        86
+Ohio                                13
+Oklahoma                            21
+Oregon                              37
+Pennsylvania                        52
+Rhode Island                        18
+South Carolina                      59
+South Dakota                        73
+Tennessee                           25
+Texas                               52
+Utah                                53
+Vermont                             16
+Virginia                            41
+Washington                          45
+West Virginia                       17
+Wisconsin                           31
+Wyoming                             58

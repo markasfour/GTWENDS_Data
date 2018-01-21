@@ -1,53 +1,53 @@
                       The Home Depot
 geoName                             
-Alabama                           70
-Alaska                            64
-Arizona                           97
-Arkansas                          58
+Alabama                           66
+Alaska                            60
+Arizona                          100
+Arkansas                          55
 California                        96
-Colorado                          92
-Connecticut                       83
+Colorado                          94
+Connecticut                       86
 Delaware                          75
-District of Columbia              66
-Florida                           96
-Georgia                           92
-Hawaii                            57
-Idaho                             83
-Illinois                          68
-Indiana                           42
-Iowa                              40
+District of Columbia              64
+Florida                           94
+Georgia                           94
+Hawaii                            60
+Idaho                             81
+Illinois                          69
+Indiana                           43
+Iowa                              39
 Kansas                            61
-Kentucky                          51
-Louisiana                         77
-Maine                             77
-Maryland                          78
-Massachusetts                     77
-Michigan                          79
-Minnesota                         64
-Mississippi                       52
-Missouri                          63
+Kentucky                          52
+Louisiana                         78
+Maine                             82
+Maryland                          77
+Massachusetts                     75
+Michigan                          78
+Minnesota                         62
+Mississippi                       50
+Missouri                          60
 Montana                           63
-Nebraska                          54
-Nevada                            75
-New Hampshire                    100
-New Jersey                        86
-New Mexico                        79
-New York                          73
-North Carolina                    53
-North Dakota                      30
-Ohio                              66
-Oklahoma                          60
-Oregon                            66
-Pennsylvania                      70
-Rhode Island                      87
-South Carolina                    63
-South Dakota                      25
-Tennessee                         64
+Nebraska                          49
+Nevada                            77
+New Hampshire                     94
+New Jersey                        84
+New Mexico                        84
+New York                          72
+North Carolina                    54
+North Dakota                      36
+Ohio                              69
+Oklahoma                          59
+Oregon                            65
+Pennsylvania                      73
+Rhode Island                      83
+South Carolina                    61
+South Dakota                      21
+Tennessee                         65
 Texas                             93
-Utah                              89
-Vermont                           65
-Virginia                          54
+Utah                              91
+Vermont                           71
+Virginia                          55
 Washington                        76
-West Virginia                     44
-Wisconsin                         56
-Wyoming                           72
+West Virginia                     48
+Wisconsin                         55
+Wyoming                           70

@@ -1,53 +1,53 @@
                       Drake
 geoName                    
-Alabama                  61
+Alabama                  62
 Alaska                   31
 Arizona                  49
-Arkansas                 51
-California               57
+Arkansas                 49
+California               60
 Colorado                 42
-Connecticut              54
+Connecticut              53
 Delaware                 63
-District of Columbia     66
-Florida                  57
-Georgia                  68
-Hawaii                   39
-Idaho                    27
+District of Columbia     67
+Florida                  59
+Georgia                  67
+Hawaii                   38
+Idaho                    26
 Illinois                 59
-Indiana                  48
+Indiana                  46
 Iowa                    100
-Kansas                   42
-Kentucky                 47
-Louisiana                64
+Kansas                   41
+Kentucky                 49
+Louisiana                65
 Maine                    32
 Maryland                 56
-Massachusetts            51
-Michigan                 58
-Minnesota                42
+Massachusetts            52
+Michigan                 57
+Minnesota                41
 Mississippi              64
-Missouri                 47
+Missouri                 48
 Montana                  24
 Nebraska                 45
 Nevada                   56
-New Hampshire            32
-New Jersey               66
+New Hampshire            33
+New Jersey               67
 New Mexico               42
 New York                 68
-North Carolina           58
-North Dakota             36
-Ohio                     50
+North Carolina           60
+North Dakota             37
+Ohio                     48
 Oklahoma                 46
-Oregon                   28
-Pennsylvania             55
-Rhode Island             61
-South Carolina           56
-South Dakota             35
-Tennessee                48
-Texas                    61
-Utah                     28
-Vermont                  30
-Virginia                 47
-Washington               38
-West Virginia            43
-Wisconsin                38
-Wyoming                  26
+Oregon                   29
+Pennsylvania             56
+Rhode Island             59
+South Carolina           58
+South Dakota             34
+Tennessee                49
+Texas                    62
+Utah                     29
+Vermont                  29
+Virginia                 48
+Washington               37
+West Virginia            41
+Wisconsin                40
+Wyoming                  25

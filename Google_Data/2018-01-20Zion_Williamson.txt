@@ -1,53 +1,53 @@
                       Zion Williamson
 geoName                              
 Alabama                            23
-Alaska                              8
+Alaska                              9
 Arizona                            11
-Arkansas                           27
+Arkansas                           24
 California                         11
 Colorado                           11
-Connecticut                        21
-Delaware                           18
-District of Columbia               16
+Connecticut                        18
+Delaware                           17
+District of Columbia               14
 Florida                            12
-Georgia                            27
-Hawaii                              8
-Idaho                               5
+Georgia                            26
+Hawaii                             10
+Idaho                               7
 Illinois                           19
-Indiana                            24
-Iowa                               18
-Kansas                             28
-Kentucky                           52
-Louisiana                          14
-Maine                              12
-Maryland                           20
-Massachusetts                      18
-Michigan                           19
-Minnesota                          12
-Mississippi                        17
-Missouri                           19
-Montana                             9
-Nebraska                           17
+Indiana                            26
+Iowa                               17
+Kansas                             25
+Kentucky                           54
+Louisiana                          12
+Maine                              10
+Maryland                           16
+Massachusetts                      17
+Michigan                           18
+Minnesota                          13
+Mississippi                        19
+Missouri                           18
+Montana                             7
+Nebraska                           21
 Nevada                             13
-New Hampshire                      13
-New Jersey                         19
-New Mexico                         10
-New York                           14
-North Carolina                     53
-North Dakota                       12
-Ohio                               20
-Oklahoma                           11
-Oregon                              7
-Pennsylvania                       15
-Rhode Island                       19
+New Hampshire                      11
+New Jersey                         18
+New Mexico                          9
+New York                           13
+North Carolina                     54
+North Dakota                       11
+Ohio                               21
+Oklahoma                           10
+Oregon                              9
+Pennsylvania                       16
+Rhode Island                       18
 South Carolina                    100
-South Dakota                       19
-Tennessee                          28
+South Dakota                       18
+Tennessee                          24
 Texas                              14
-Utah                               11
-Vermont                            14
-Virginia                           16
-Washington                         12
-West Virginia                      23
+Utah                                9
+Vermont                            10
+Virginia                           17
+Washington                         11
+West Virginia                      25
 Wisconsin                          14
-Wyoming                            11
+Wyoming                            17

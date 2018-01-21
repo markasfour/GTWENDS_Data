@@ -1,0 +1,53 @@
+                      United States Postal Service
+geoName                                           
+Alabama                                         87
+Alaska                                          74
+Arizona                                         67
+Arkansas                                        80
+California                                      48
+Colorado                                        67
+Connecticut                                     57
+Delaware                                        71
+District of Columbia                            53
+Florida                                         73
+Georgia                                         73
+Hawaii                                          63
+Idaho                                           82
+Illinois                                        49
+Indiana                                         74
+Iowa                                            89
+Kansas                                          68
+Kentucky                                        78
+Louisiana                                      100
+Maine                                           68
+Maryland                                        68
+Massachusetts                                   45
+Michigan                                        73
+Minnesota                                       65
+Mississippi                                     92
+Missouri                                        77
+Montana                                         67
+Nebraska                                        89
+Nevada                                          63
+New Hampshire                                   53
+New Jersey                                      57
+New Mexico                                      72
+New York                                        55
+North Carolina                                  63
+North Dakota                                    78
+Ohio                                            86
+Oklahoma                                        70
+Oregon                                          35
+Pennsylvania                                    70
+Rhode Island                                    46
+South Carolina                                  64
+South Dakota                                    85
+Tennessee                                       73
+Texas                                           62
+Utah                                            71
+Vermont                                         58
+Virginia                                        61
+Washington                                      52
+West Virginia                                   62
+Wisconsin                                       69
+Wyoming                                         73

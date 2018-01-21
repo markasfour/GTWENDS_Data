@@ -1,52 +1,52 @@
                       Lauren Davis
 geoName                           
-Alabama                         59
-Arizona                         39
-Arkansas                        63
-California                      70
-Colorado                        57
-Connecticut                     90
-Delaware                        35
-District of Columbia            77
-Florida                         44
-Georgia                         63
-Hawaii                          39
-Idaho                           41
-Illinois                        41
-Indiana                         46
-Iowa                            32
-Kansas                          40
-Kentucky                        51
-Louisiana                       75
-Maine                           41
-Maryland                        61
-Massachusetts                   54
-Michigan                        55
-Minnesota                       36
-Mississippi                     41
+Alabama                         56
+Arizona                         43
+Arkansas                        49
+California                      68
+Colorado                        61
+Connecticut                     80
+Delaware                        34
+District of Columbia            95
+Florida                         42
+Georgia                         50
+Hawaii                          60
+Idaho                           38
+Illinois                        54
+Indiana                         42
+Iowa                            19
+Kansas                          42
+Kentucky                        54
+Louisiana                      100
+Maine                           50
+Maryland                        60
+Massachusetts                   58
+Michigan                        44
+Minnesota                       34
+Mississippi                     70
 Missouri                        41
-Montana                         21
-Nebraska                        26
-Nevada                          36
-New Hampshire                   25
-New Jersey                      57
-New Mexico                      37
-New York                        73
-North Carolina                  58
-North Dakota                    26
-Ohio                            92
-Oklahoma                        37
-Oregon                          36
-Pennsylvania                    59
-Rhode Island                    73
-South Carolina                 100
-South Dakota                    17
-Tennessee                       76
-Texas                           54
-Utah                            48
-Vermont                         52
-Virginia                        48
-Washington                      44
-West Virginia                   29
-Wisconsin                       40
-Wyoming                         39
+Montana                         70
+Nebraska                        20
+Nevada                          42
+New Hampshire                   17
+New Jersey                      55
+New Mexico                      53
+New York                        75
+North Carolina                  54
+North Dakota                    18
+Ohio                            84
+Oklahoma                        43
+Oregon                          29
+Pennsylvania                    61
+Rhode Island                    72
+South Carolina                  88
+South Dakota                    35
+Tennessee                       88
+Texas                           48
+Utah                            42
+Vermont                         80
+Virginia                        46
+Washington                      42
+West Virginia                   28
+Wisconsin                       46
+Wyoming                         26

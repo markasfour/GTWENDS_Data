@@ -1,53 +1,53 @@
                       Forever My Girl
 geoName                              
-Alabama                           100
-Alaska                             34
-Arizona                            40
-Arkansas                           71
-California                         38
-Colorado                           32
-Connecticut                        31
-Delaware                           65
-District of Columbia               30
-Florida                            39
-Georgia                            64
-Hawaii                             31
-Idaho                              64
-Illinois                           44
-Indiana                            67
-Iowa                               62
-Kansas                             59
-Kentucky                           78
-Louisiana                          55
-Maine                              39
+Alabama                            99
+Alaska                             46
+Arizona                            41
+Arkansas                           73
+California                         44
+Colorado                           38
+Connecticut                        46
+Delaware                           53
+District of Columbia               26
+Florida                            44
+Georgia                            82
+Hawaii                             36
+Idaho                              54
+Illinois                           50
+Indiana                            83
+Iowa                               91
+Kansas                             62
+Kentucky                           84
+Louisiana                          64
+Maine                              70
 Maryland                           46
-Massachusetts                      33
-Michigan                           53
-Minnesota                          37
-Mississippi                        87
-Missouri                           57
-Montana                            38
-Nebraska                           60
-Nevada                             25
-New Hampshire                      36
-New Jersey                         45
-New Mexico                         53
-New York                           38
-North Carolina                     60
-North Dakota                       46
-Ohio                               59
-Oklahoma                           60
-Oregon                             28
-Pennsylvania                       47
-Rhode Island                       29
-South Carolina                     61
-South Dakota                       88
+Massachusetts                      42
+Michigan                           62
+Minnesota                          52
+Mississippi                        88
+Missouri                           63
+Montana                            16
+Nebraska                           56
+Nevada                             47
+New Hampshire                      46
+New Jersey                         44
+New Mexico                         70
+New York                           41
+North Carolina                     75
+North Dakota                       68
+Ohio                               70
+Oklahoma                           51
+Oregon                             38
+Pennsylvania                       66
+Rhode Island                       30
+South Carolina                     85
+South Dakota                       95
 Tennessee                          73
-Texas                              48
-Utah                               36
-Vermont                            18
-Virginia                           44
-Washington                         33
-West Virginia                      81
-Wisconsin                          65
-Wyoming                            51
+Texas                              60
+Utah                               57
+Vermont                            35
+Virginia                           52
+Washington                         39
+West Virginia                     100
+Wisconsin                          77
+Wyoming                            50
