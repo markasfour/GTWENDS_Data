@@ -1,0 +1,53 @@
+                      Drake
+geoName                    
+Alabama                  62
+Alaska                   31
+Arizona                  49
+Arkansas                 49
+California               60
+Colorado                 42
+Connecticut              53
+Delaware                 63
+District of Columbia     67
+Florida                  59
+Georgia                  67
+Hawaii                   38
+Idaho                    26
+Illinois                 59
+Indiana                  46
+Iowa                    100
+Kansas                   41
+Kentucky                 49
+Louisiana                65
+Maine                    32
+Maryland                 56
+Massachusetts            52
+Michigan                 57
+Minnesota                41
+Mississippi              64
+Missouri                 48
+Montana                  24
+Nebraska                 45
+Nevada                   56
+New Hampshire            33
+New Jersey               67
+New Mexico               42
+New York                 68
+North Carolina           60
+North Dakota             37
+Ohio                     48
+Oklahoma                 46
+Oregon                   29
+Pennsylvania             56
+Rhode Island             59
+South Carolina           58
+South Dakota             34
+Tennessee                49
+Texas                    62
+Utah                     29
+Vermont                  29
+Virginia                 48
+Washington               37
+West Virginia            41
+Wisconsin                40
+Wyoming                  25

@@ -1,0 +1,53 @@
+                      Celine
+geoName                     
+Alabama                   31
+Alaska                    27
+Arizona                   37
+Arkansas                  29
+California                53
+Colorado                  29
+Connecticut               44
+Delaware                  37
+District of Columbia      44
+Florida                   46
+Georgia                   35
+Hawaii                    61
+Idaho                     27
+Illinois                  37
+Indiana                   28
+Iowa                      29
+Kansas                    30
+Kentucky                  30
+Louisiana                 37
+Maine                     33
+Maryland                  39
+Massachusetts             44
+Michigan                  34
+Minnesota                 31
+Mississippi               33
+Missouri                  30
+Montana                   25
+Nebraska                  28
+Nevada                   100
+New Hampshire             35
+New Jersey                49
+New Mexico                30
+New York                  73
+North Carolina            30
+North Dakota              31
+Ohio                      30
+Oklahoma                  33
+Oregon                    30
+Pennsylvania              36
+Rhode Island              45
+South Carolina            28
+South Dakota              23
+Tennessee                 32
+Texas                     35
+Utah                      41
+Vermont                   31
+Virginia                  35
+Washington                36
+West Virginia             30
+Wisconsin                 28
+Wyoming                   30

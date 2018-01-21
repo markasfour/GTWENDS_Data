@@ -1,0 +1,46 @@
+                      Diplomatic Immunity
+geoName                                  
+Alabama                                64
+Arizona                                60
+Arkansas                               81
+California                             60
+Colorado                               64
+Connecticut                            63
+Delaware                               64
+District of Columbia                  100
+Florida                                54
+Georgia                                58
+Hawaii                                 51
+Illinois                               69
+Indiana                                54
+Iowa                                   70
+Kansas                                 52
+Kentucky                               62
+Louisiana                              62
+Maine                                  86
+Maryland                               75
+Massachusetts                          61
+Michigan                               65
+Minnesota                              59
+Mississippi                            60
+Missouri                               68
+Nebraska                               50
+Nevada                                 74
+New Hampshire                          58
+New Jersey                             65
+New Mexico                             50
+New York                               63
+North Carolina                         61
+Ohio                                   58
+Oklahoma                               64
+Oregon                                 44
+Pennsylvania                           69
+Rhode Island                           76
+South Carolina                         56
+Tennessee                              56
+Texas                                  54
+Utah                                   75
+Virginia                               67
+Washington                             70
+West Virginia                          79
+Wisconsin                              59

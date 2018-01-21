@@ -1,49 +1,48 @@
                       Paul Bocuse
 geoName                          
-Alabama                        32
-Arizona                        35
-Arkansas                       17
-California                     56
-Colorado                       44
-Connecticut                    48
-Delaware                       14
-District of Columbia           40
-Florida                        52
-Georgia                        28
-Hawaii                        100
-Idaho                          17
-Illinois                       38
-Indiana                        26
-Iowa                           38
-Kansas                         22
-Kentucky                       18
-Louisiana                      56
-Maine                          27
-Maryland                       42
-Massachusetts                  48
-Michigan                       28
-Minnesota                      27
-Mississippi                    35
-Missouri                       20
-Montana                        28
-Nebraska                        6
-Nevada                         44
-New Hampshire                  67
-New Jersey                     42
-New Mexico                     15
-New York                       72
-North Carolina                 35
-Ohio                           35
-Oklahoma                       20
-Oregon                         21
-Pennsylvania                   34
-Rhode Island                   48
-South Carolina                 32
-Tennessee                      24
-Texas                          32
-Utah                           19
-Vermont                        71
-Virginia                       38
-Washington                     55
-West Virginia                  19
-Wisconsin                      32
+Alabama                        41
+Arizona                        23
+Arkansas                       51
+California                     67
+Colorado                       41
+Connecticut                    49
+District of Columbia           64
+Florida                        63
+Georgia                        36
+Hawaii                         91
+Idaho                          11
+Illinois                       51
+Indiana                        25
+Iowa                           27
+Kansas                         47
+Kentucky                       43
+Louisiana                      80
+Maine                          58
+Maryland                       56
+Massachusetts                  57
+Michigan                       34
+Minnesota                      39
+Mississippi                    22
+Missouri                       34
+Montana                        36
+Nebraska                       15
+Nevada                         70
+New Hampshire                  64
+New Jersey                     63
+New Mexico                     38
+New York                      100
+North Carolina                 36
+Ohio                           23
+Oklahoma                       35
+Oregon                         29
+Pennsylvania                   56
+Rhode Island                   88
+South Carolina                 34
+Tennessee                      39
+Texas                          41
+Utah                           29
+Vermont                        46
+Virginia                       45
+Washington                     49
+West Virginia                  48
+Wisconsin                      18

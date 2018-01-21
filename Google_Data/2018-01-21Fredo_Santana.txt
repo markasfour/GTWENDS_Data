@@ -1,53 +1,53 @@
                       Fredo Santana
 geoName                            
-Alabama                          63
-Alaska                           22
-Arizona                          48
-Arkansas                         36
-California                       43
-Colorado                         30
-Connecticut                      63
-Delaware                         92
-District of Columbia             72
-Florida                          65
-Georgia                          79
-Hawaii                           17
-Idaho                             5
-Illinois                         99
+Alabama                          55
+Alaska                           27
+Arizona                          44
+Arkansas                         40
+California                       40
+Colorado                         24
+Connecticut                      61
+Delaware                         73
+District of Columbia             64
+Florida                          62
+Georgia                          72
+Hawaii                           15
+Idaho                             8
+Illinois                         89
 Indiana                          55
-Iowa                             32
-Kansas                           45
-Kentucky                         48
-Louisiana                        63
+Iowa                             30
+Kansas                           44
+Kentucky                         43
+Louisiana                        62
 Maine                            21
-Maryland                         95
-Massachusetts                    59
-Michigan                         47
-Minnesota                        42
+Maryland                         86
+Massachusetts                    55
+Michigan                         44
+Minnesota                        34
 Mississippi                     100
-Missouri                         54
-Montana                           6
+Missouri                         49
+Montana                           8
 Nebraska                         34
-Nevada                           46
-New Hampshire                    22
-New Jersey                       67
-New Mexico                       22
-New York                         78
-North Carolina                   92
-North Dakota                      7
-Ohio                             52
-Oklahoma                         41
-Oregon                           16
-Pennsylvania                     61
-Rhode Island                     82
-South Carolina                   84
-South Dakota                     19
-Tennessee                        52
-Texas                            52
-Utah                             11
-Vermont                          23
-Virginia                         67
+Nevada                           40
+New Hampshire                    28
+New Jersey                       63
+New Mexico                       27
+New York                         73
+North Carolina                   82
+North Dakota                     18
+Ohio                             49
+Oklahoma                         33
+Oregon                           13
+Pennsylvania                     56
+Rhode Island                     81
+South Carolina                   79
+South Dakota                     23
+Tennessee                        47
+Texas                            49
+Utah                              9
+Vermont                          15
+Virginia                         65
 Washington                       27
-West Virginia                    28
-Wisconsin                        40
-Wyoming                          15
+West Virginia                    35
+Wisconsin                        34
+Wyoming                           5

@@ -1,53 +1,53 @@
                       Wells Fargo Bank
 geoName                               
-Alabama                             46
+Alabama                             47
 Alaska                             100
-Arizona                             75
-Arkansas                            19
-California                          80
-Colorado                            63
-Connecticut                         43
-Delaware                            54
-District of Columbia                48
-Florida                             60
-Georgia                             58
-Hawaii                              25
-Idaho                               61
+Arizona                             79
+Arkansas                            18
+California                          77
+Colorado                            66
+Connecticut                         41
+Delaware                            60
+District of Columbia                53
+Florida                             66
+Georgia                             60
+Hawaii                              28
+Idaho                               64
 Illinois                            21
-Indiana                             17
+Indiana                             18
 Iowa                                52
-Kansas                              23
+Kansas                              25
 Kentucky                            17
-Louisiana                           19
-Maine                               12
-Maryland                            47
-Massachusetts                       16
+Louisiana                           20
+Maine                               14
+Maryland                            48
+Massachusetts                       18
 Michigan                            14
-Minnesota                           80
-Mississippi                         27
+Minnesota                           81
+Mississippi                         29
 Missouri                            24
-Montana                             65
+Montana                             68
 Nebraska                            64
-Nevada                              91
-New Hampshire                       16
-New Jersey                          66
-New Mexico                          73
-New York                            26
-North Carolina                      58
-North Dakota                        86
+Nevada                              98
+New Hampshire                       15
+New Jersey                          68
+New Mexico                          80
+New York                            27
+North Carolina                      59
+North Dakota                        92
 Ohio                                13
-Oklahoma                            21
-Oregon                              37
-Pennsylvania                        52
-Rhode Island                        18
-South Carolina                      59
-South Dakota                        73
-Tennessee                           25
-Texas                               52
-Utah                                53
-Vermont                             16
-Virginia                            41
-Washington                          45
-West Virginia                       17
-Wisconsin                           31
-Wyoming                             58
+Oklahoma                            22
+Oregon                              40
+Pennsylvania                        53
+Rhode Island                        17
+South Carolina                      60
+South Dakota                        80
+Tennessee                           27
+Texas                               56
+Utah                                56
+Vermont                             15
+Virginia                            43
+Washington                          49
+West Virginia                       18
+Wisconsin                           32
+Wyoming                             68

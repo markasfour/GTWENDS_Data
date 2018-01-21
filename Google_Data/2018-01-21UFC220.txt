@@ -1,17 +1,19 @@
                 UFC220
 geoName               
-Arizona             47
-California          28
-Florida             43
-Georgia             25
-Illinois            40
-Louisiana           87
-Massachusetts      100
-Michigan            32
-Minnesota           50
-New Jersey          62
-New York            23
-North Carolina      30
-Pennsylvania        50
-Texas               31
-Wisconsin           57
+Arizona             24
+California          15
+Florida             23
+Georgia             13
+Illinois            21
+Louisiana           46
+Massachusetts       52
+Michigan            17
+Minnesota           26
+New Jersey          33
+New York            12
+North Carolina      16
+Oklahoma           100
+Pennsylvania        26
+South Carolina      40
+Texas               16
+Wisconsin           30
