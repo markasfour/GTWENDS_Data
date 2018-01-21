@@ -1,0 +1,53 @@
+                      Cherry Seaborn
+geoName                             
+Alabama                           52
+Alaska                            24
+Arizona                           45
+Arkansas                          53
+California                        56
+Colorado                          47
+Connecticut                       82
+Delaware                          60
+District of Columbia              68
+Florida                           57
+Georgia                           57
+Hawaii                            30
+Idaho                             53
+Illinois                          59
+Indiana                           68
+Iowa                              55
+Kansas                            41
+Kentucky                          71
+Louisiana                         51
+Maine                             90
+Maryland                          61
+Massachusetts                     81
+Michigan                          57
+Minnesota                         67
+Mississippi                       41
+Missouri                          65
+Montana                           61
+Nebraska                          62
+Nevada                            52
+New Hampshire                     78
+New Jersey                        63
+New Mexico                        48
+New York                          69
+North Carolina                    76
+North Dakota                      12
+Ohio                              72
+Oklahoma                          36
+Oregon                            39
+Pennsylvania                      75
+Rhode Island                      98
+South Carolina                    53
+South Dakota                      50
+Tennessee                         58
+Texas                             47
+Utah                              43
+Vermont                          100
+Virginia                          50
+Washington                        56
+West Virginia                     47
+Wisconsin                         57
+Wyoming                           37

@@ -1,53 +1,53 @@
                       Tom Petty
 geoName                        
-Alabama                      62
-Alaska                       61
-Arizona                      62
-Arkansas                     73
-California                   67
-Colorado                     84
-Connecticut                  78
-Delaware                     69
-District of Columbia         66
-Florida                      62
-Georgia                      58
-Hawaii                       40
-Idaho                        73
-Illinois                     82
+Alabama                      63
+Alaska                       57
+Arizona                      65
+Arkansas                     65
+California                   64
+Colorado                     85
+Connecticut                  80
+Delaware                     79
+District of Columbia         61
+Florida                      59
+Georgia                      57
+Hawaii                       42
+Idaho                        69
+Illinois                     80
 Indiana                     100
-Iowa                         73
-Kansas                       53
-Kentucky                     78
-Louisiana                    53
-Maine                        91
-Maryland                     56
-Massachusetts                78
-Michigan                     76
-Minnesota                    81
-Mississippi                  59
-Missouri                     72
-Montana                      79
-Nebraska                     81
-Nevada                       55
-New Hampshire                91
-New Jersey                   67
+Iowa                         79
+Kansas                       54
+Kentucky                     77
+Louisiana                    50
+Maine                        90
+Maryland                     55
+Massachusetts                77
+Michigan                     74
+Minnesota                    78
+Mississippi                  54
+Missouri                     70
+Montana                      89
+Nebraska                     74
+Nevada                       54
+New Hampshire                97
+New Jersey                   66
 New Mexico                   65
-New York                     61
+New York                     62
 North Carolina               61
-North Dakota                 70
-Ohio                         86
-Oklahoma                     70
-Oregon                       65
+North Dakota                 69
+Ohio                         81
+Oklahoma                     68
+Oregon                       67
 Pennsylvania                 87
-Rhode Island                 84
-South Carolina               58
+Rhode Island                 83
+South Carolina               60
 South Dakota                 74
 Tennessee                    85
-Texas                        55
+Texas                        52
 Utah                         57
-Vermont                      86
-Virginia                     47
-Washington                   79
-West Virginia                80
-Wisconsin                    84
-Wyoming                      78
+Vermont                      93
+Virginia                     45
+Washington                   76
+West Virginia                84
+Wisconsin                    85
+Wyoming                      74

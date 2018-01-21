@@ -2,34 +2,51 @@
 geoName                           
 Alabama                         59
 Arizona                         39
+Arkansas                        63
 California                      70
 Colorado                        57
 Connecticut                     90
+Delaware                        35
 District of Columbia            77
 Florida                         44
 Georgia                         63
 Hawaii                          39
+Idaho                           41
 Illinois                        41
 Indiana                         46
+Iowa                            32
+Kansas                          40
 Kentucky                        51
 Louisiana                       75
+Maine                           41
 Maryland                        61
 Massachusetts                   54
 Michigan                        55
 Minnesota                       36
+Mississippi                     41
 Missouri                        41
+Montana                         21
+Nebraska                        26
 Nevada                          36
+New Hampshire                   25
 New Jersey                      57
+New Mexico                      37
 New York                        73
 North Carolina                  58
+North Dakota                    26
 Ohio                            92
 Oklahoma                        37
 Oregon                          36
 Pennsylvania                    59
+Rhode Island                    73
 South Carolina                 100
+South Dakota                    17
 Tennessee                       76
 Texas                           54
 Utah                            48
+Vermont                         52
 Virginia                        48
 Washington                      44
+West Virginia                   29
 Wisconsin                       40
+Wyoming                         39

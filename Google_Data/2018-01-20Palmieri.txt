@@ -1,0 +1,50 @@
+                      Palmieri
+geoName                       
+Alabama                     10
+Alaska                      20
+Arizona                     12
+Arkansas                     5
+California                  22
+Colorado                    13
+Connecticut                 84
+Delaware                    10
+District of Columbia        51
+Florida                     23
+Georgia                     10
+Hawaii                      15
+Idaho                        5
+Illinois                    16
+Indiana                     11
+Iowa                         6
+Kansas                      13
+Kentucky                    11
+Louisiana                   11
+Maine                       22
+Maryland                    24
+Massachusetts               38
+Michigan                    18
+Minnesota                   15
+Mississippi                  6
+Missouri                    10
+Montana                      6
+Nebraska                     7
+Nevada                       9
+New Hampshire               17
+New Jersey                  84
+New Mexico                   7
+New York                    56
+North Carolina              18
+Ohio                        98
+Oklahoma                    10
+Oregon                      12
+Pennsylvania                35
+Rhode Island               100
+South Carolina              12
+Tennessee                   14
+Texas                       11
+Utah                        13
+Vermont                     36
+Virginia                    20
+Washington                  11
+West Virginia               15
+Wisconsin                    9

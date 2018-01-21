@@ -1,53 +1,53 @@
                       Roy Halladay
 geoName                           
-Alabama                         14
-Alaska                           8
-Arizona                         15
-Arkansas                         9
+Alabama                         16
+Alaska                           5
+Arizona                         16
+Arkansas                        13
 California                      15
 Colorado                        22
-Connecticut                     27
+Connecticut                     26
 Delaware                       100
-District of Columbia            22
-Florida                         23
+District of Columbia            23
+Florida                         22
 Georgia                         14
-Hawaii                           9
-Idaho                           10
-Illinois                        19
+Hawaii                          11
+Idaho                            8
+Illinois                        20
 Indiana                         15
-Iowa                            12
-Kansas                          11
-Kentucky                        12
-Louisiana                       13
-Maine                           16
-Maryland                        19
-Massachusetts                   28
-Michigan                        16
-Minnesota                       14
-Mississippi                     13
-Missouri                        21
-Montana                         10
-Nebraska                        13
-Nevada                          14
-New Hampshire                   24
-New Jersey                      48
-New Mexico                      13
+Iowa                            13
+Kansas                          10
+Kentucky                        11
+Louisiana                       11
+Maine                           19
+Maryland                        21
+Massachusetts                   30
+Michigan                        15
+Minnesota                       15
+Mississippi                     15
+Missouri                        19
+Montana                         12
+Nebraska                        12
+Nevada                          15
+New Hampshire                   27
+New Jersey                      49
+New Mexico                       5
 New York                        23
-North Carolina                  13
-North Dakota                    11
-Ohio                            18
-Oklahoma                        11
-Oregon                           8
-Pennsylvania                    81
-Rhode Island                    25
+North Carolina                  14
+North Dakota                    15
+Ohio                            19
+Oklahoma                        10
+Oregon                           7
+Pennsylvania                    82
+Rhode Island                    27
 South Carolina                  14
-South Dakota                    13
-Tennessee                       12
-Texas                           14
-Utah                             9
-Vermont                         18
-Virginia                        13
-Washington                      11
-West Virginia                   15
-Wisconsin                       12
-Wyoming                          7
+South Dakota                     9
+Tennessee                       15
+Texas                           13
+Utah                            11
+Vermont                         20
+Virginia                        14
+Washington                      12
+West Virginia                   16
+Wisconsin                       14
+Wyoming                         13

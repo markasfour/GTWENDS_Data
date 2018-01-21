@@ -1,0 +1,14 @@
+               Noesen
+geoName              
+California         10
+Florida             4
+Illinois           15
+Massachusetts       4
+Michigan           23
+Minnesota         100
+New Jersey         24
+New York            8
+Pennsylvania        3
+Texas              13
+Virginia            5
+Wisconsin          14

@@ -1,26 +1,28 @@
-                Release The Memo
-geoName                         
-Arizona                       16
-California                     9
-Colorado                       8
-Connecticut                   28
-Florida                       10
-Georgia                        8
-Hawaii                       100
-Idaho                         39
-Illinois                       3
-Kansas                        17
-Louisiana                     29
-Maryland                       8
-Massachusetts                 11
-Michigan                       5
-Minnesota                      8
-Missouri                       9
-New Jersey                    10
-New York                      12
-North Carolina                10
-Oregon                         9
-Pennsylvania                   4
-Texas                          7
-Virginia                      13
-Wisconsin                      9
+                      Release The Memo
+geoName                               
+Alabama                             28
+Arizona                             14
+Arkansas                           100
+California                           6
+Colorado                            15
+District of Columbia                27
+Florida                             18
+Georgia                              8
+Illinois                             6
+Indiana                             19
+Iowa                                37
+Kansas                              94
+Louisiana                           80
+Maryland                            16
+Massachusetts                       10
+Michigan                            39
+Missouri                            16
+New Jersey                          38
+New York                            14
+North Carolina                      18
+Ohio                                 9
+Pennsylvania                        23
+Texas                                6
+Virginia                             8
+Washington                          12
+Wisconsin                           35

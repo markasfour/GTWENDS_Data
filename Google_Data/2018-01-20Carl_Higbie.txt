@@ -2,6 +2,7 @@
 geoName                          
 Alabama                        19
 Arizona                        22
+Arkansas                        7
 California                     22
 Colorado                       21
 Connecticut                   100
@@ -16,15 +17,19 @@ Indiana                        23
 Iowa                           20
 Kentucky                       11
 Louisiana                      22
+Maine                          11
 Maryland                       32
 Massachusetts                  26
 Michigan                       11
 Minnesota                      21
 Mississippi                    28
+Missouri                       11
+Nebraska                        7
 Nevada                         17
 New Hampshire                  40
 New Jersey                     37
 New Mexico                     18
+New York                       30
 North Carolina                 13
 Ohio                           10
 Oklahoma                       20
@@ -33,8 +38,10 @@ Pennsylvania                   30
 Rhode Island                   12
 South Carolina                 13
 Tennessee                      26
+Texas                          19
 Utah                           18
 Vermont                        21
+Virginia                       41
 Washington                     19
 West Virginia                  11
 Wisconsin                      12

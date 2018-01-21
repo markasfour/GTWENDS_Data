@@ -1,0 +1,53 @@
+                      Mcdonald's
+geoName                         
+Alabama                       77
+Alaska                        53
+Arizona                       75
+Arkansas                      81
+California                    61
+Colorado                      61
+Connecticut                   57
+Delaware                      69
+District of Columbia          79
+Florida                       77
+Georgia                       81
+Hawaii                        82
+Idaho                         60
+Illinois                     100
+Indiana                       93
+Iowa                          74
+Kansas                        78
+Kentucky                      95
+Louisiana                     83
+Maine                         60
+Maryland                      69
+Massachusetts                 59
+Michigan                      96
+Minnesota                     77
+Mississippi                   84
+Missouri                      92
+Montana                       58
+Nebraska                      73
+Nevada                        73
+New Hampshire                 54
+New Jersey                    55
+New Mexico                    64
+New York                      60
+North Carolina                81
+North Dakota                  68
+Ohio                          97
+Oklahoma                      75
+Oregon                        43
+Pennsylvania                  69
+Rhode Island                  57
+South Carolina                80
+South Dakota                  63
+Tennessee                     82
+Texas                         68
+Utah                          60
+Vermont                       46
+Virginia                      61
+Washington                    64
+West Virginia                 88
+Wisconsin                     85
+Wyoming                       64

@@ -1,0 +1,51 @@
+                      Bed Bath & Beyond
+geoName                                
+Alabama                              62
+Arizona                              74
+Arkansas                             60
+California                           61
+Colorado                             74
+Connecticut                          82
+Delaware                             75
+District of Columbia                 57
+Florida                              91
+Georgia                              60
+Hawaii                               42
+Idaho                                57
+Illinois                             72
+Indiana                              60
+Iowa                                 64
+Kansas                               65
+Kentucky                             57
+Louisiana                            81
+Maine                                61
+Maryland                             67
+Massachusetts                        66
+Michigan                             88
+Minnesota                            47
+Mississippi                          53
+Missouri                             70
+Montana                              55
+Nebraska                             69
+Nevada                               62
+New Hampshire                        73
+New Jersey                          100
+New Mexico                           58
+New York                             79
+North Carolina                       62
+North Dakota                         44
+Ohio                                 71
+Oklahoma                             60
+Oregon                               44
+Pennsylvania                         75
+Rhode Island                         84
+South Carolina                       66
+South Dakota                         50
+Tennessee                            62
+Texas                                62
+Utah                                 55
+Vermont                              58
+Virginia                             51
+Washington                           52
+West Virginia                        32
+Wisconsin                            57
