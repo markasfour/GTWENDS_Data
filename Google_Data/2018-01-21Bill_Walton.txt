@@ -1,0 +1,51 @@
+                      Bill Walton
+geoName                          
+Alabama                        40
+Arizona                        78
+Arkansas                       61
+California                     64
+Colorado                       50
+Connecticut                    57
+Delaware                       37
+District of Columbia           59
+Florida                        42
+Georgia                        71
+Hawaii                         41
+Idaho                          41
+Illinois                       50
+Indiana                        59
+Iowa                           50
+Kansas                         53
+Kentucky                       58
+Louisiana                      36
+Maine                          38
+Maryland                       39
+Massachusetts                  61
+Michigan                       47
+Minnesota                      42
+Mississippi                    29
+Missouri                       41
+Montana                        42
+Nebraska                       56
+Nevada                         52
+New Hampshire                  50
+New Jersey                     41
+New Mexico                     37
+New York                       45
+North Carolina                 50
+North Dakota                   43
+Ohio                           47
+Oklahoma                       40
+Oregon                        100
+Pennsylvania                   46
+Rhode Island                   54
+South Carolina                 34
+South Dakota                   49
+Tennessee                      45
+Texas                          37
+Utah                           59
+Vermont                        57
+Virginia                       37
+Washington                     66
+West Virginia                  42
+Wisconsin                      42

@@ -1,0 +1,53 @@
+                      Schwartzman
+geoName                          
+Alabama                        36
+Alaska                         40
+Arizona                        48
+Arkansas                       33
+California                     71
+Colorado                       54
+Connecticut                    68
+Delaware                       34
+District of Columbia           90
+Florida                        45
+Georgia                        41
+Hawaii                         63
+Idaho                          55
+Illinois                       61
+Indiana                        46
+Iowa                           42
+Kansas                         48
+Kentucky                       31
+Louisiana                      39
+Maine                          53
+Maryland                       58
+Massachusetts                  71
+Michigan                       47
+Minnesota                      54
+Mississippi                    26
+Missouri                       52
+Montana                        44
+Nebraska                       49
+Nevada                         47
+New Hampshire                  46
+New Jersey                     62
+New Mexico                     45
+New York                      100
+North Carolina                 37
+North Dakota                   32
+Ohio                           45
+Oklahoma                       32
+Oregon                         60
+Pennsylvania                   69
+Rhode Island                   57
+South Carolina                 39
+South Dakota                   33
+Tennessee                      41
+Texas                          46
+Utah                           54
+Vermont                        72
+Virginia                       46
+Washington                     68
+West Virginia                  26
+Wisconsin                      40
+Wyoming                        27

@@ -1,0 +1,53 @@
+                      UFC 220
+geoName                      
+Alabama                    10
+Alaska                     14
+Arizona                    20
+Arkansas                    9
+California                 22
+Colorado                   20
+Connecticut                42
+Delaware                   11
+District of Columbia        1
+Florida                    12
+Georgia                    10
+Hawaii                     11
+Idaho                      33
+Illinois                   14
+Indiana                    27
+Iowa                       12
+Kansas                      7
+Kentucky                   17
+Louisiana                  10
+Maine                      51
+Maryland                   15
+Massachusetts             100
+Michigan                   16
+Minnesota                   9
+Mississippi                14
+Missouri                   11
+Montana                    23
+Nebraska                    9
+Nevada                     26
+New Hampshire              87
+New Jersey                 21
+New Mexico                 42
+New York                   21
+North Carolina              9
+North Dakota               14
+Ohio                       25
+Oklahoma                   10
+Oregon                     15
+Pennsylvania               19
+Rhode Island               62
+South Carolina             15
+South Dakota               14
+Tennessee                  13
+Texas                      14
+Utah                       20
+Vermont                    14
+Virginia                   10
+Washington                 20
+West Virginia              30
+Wisconsin                  14
+Wyoming                    31

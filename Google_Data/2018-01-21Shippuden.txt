@@ -1,0 +1,53 @@
+                      Shippuden
+geoName                        
+Alabama                      65
+Alaska                       75
+Arizona                      72
+Arkansas                     68
+California                   78
+Colorado                     46
+Connecticut                  64
+Delaware                     67
+District of Columbia         38
+Florida                      80
+Georgia                      68
+Hawaii                      100
+Idaho                        56
+Illinois                     57
+Indiana                      60
+Iowa                         55
+Kansas                       70
+Kentucky                     54
+Louisiana                    71
+Maine                        42
+Maryland                     76
+Massachusetts                52
+Michigan                     58
+Minnesota                    56
+Mississippi                  71
+Missouri                     53
+Montana                      43
+Nebraska                     54
+Nevada                       80
+New Hampshire                43
+New Jersey                   80
+New Mexico                   62
+New York                     75
+North Carolina               64
+North Dakota                 53
+Ohio                         55
+Oklahoma                     62
+Oregon                       71
+Pennsylvania                 59
+Rhode Island                 64
+South Carolina               63
+South Dakota                 52
+Tennessee                    54
+Texas                        80
+Utah                         56
+Vermont                      42
+Virginia                     77
+Washington                   56
+West Virginia                59
+Wisconsin                    52
+Wyoming                      45

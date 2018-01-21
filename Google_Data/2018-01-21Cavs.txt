@@ -1,0 +1,53 @@
+                      Cavs
+geoName                   
+Alabama                  7
+Alaska                   4
+Arizona                  5
+Arkansas                 6
+California               6
+Colorado                 4
+Connecticut              6
+Delaware                 7
+District of Columbia     7
+Florida                  7
+Georgia                  8
+Hawaii                   6
+Idaho                    4
+Illinois                 8
+Indiana                  8
+Iowa                     5
+Kansas                   3
+Kentucky                 7
+Louisiana                6
+Maine                    4
+Maryland                 6
+Massachusetts            6
+Michigan                12
+Minnesota                4
+Mississippi              8
+Missouri                 5
+Montana                  3
+Nebraska                 5
+Nevada                   6
+New Hampshire            4
+New Jersey               7
+New Mexico               5
+New York                 6
+North Carolina           7
+North Dakota             4
+Ohio                   100
+Oklahoma                 5
+Oregon                   3
+Pennsylvania             9
+Rhode Island             5
+South Carolina           8
+South Dakota             5
+Tennessee                7
+Texas                    6
+Utah                     5
+Vermont                  4
+Virginia                 5
+Washington               4
+West Virginia            8
+Wisconsin                5
+Wyoming                  4

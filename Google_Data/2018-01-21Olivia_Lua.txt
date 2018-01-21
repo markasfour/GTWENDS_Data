@@ -1,0 +1,38 @@
+                Olivia Lua
+geoName                   
+Alabama                 23
+Arizona                 30
+California              26
+Colorado                25
+Delaware               100
+Florida                 36
+Georgia                  6
+Illinois                12
+Indiana                 31
+Iowa                    15
+Kansas                  13
+Louisiana               22
+Maryland                13
+Massachusetts           34
+Michigan                32
+Minnesota                6
+Mississippi             21
+Missouri                20
+Nebraska                20
+Nevada                  39
+New Hampshire           60
+New Jersey              24
+New Mexico              26
+New York                22
+North Carolina          23
+Ohio                     8
+Oklahoma                36
+Oregon                  14
+Pennsylvania            28
+South Carolina          19
+South Dakota            63
+Tennessee                6
+Texas                   12
+Virginia                17
+Washington              19
+Wisconsin               36
