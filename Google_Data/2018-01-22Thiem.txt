@@ -1,0 +1,52 @@
+                      Thiem
+geoName                    
+Alabama                  43
+Alaska                   22
+Arizona                  56
+Arkansas                 32
+California               84
+Colorado                 50
+Connecticut             100
+Delaware                 42
+District of Columbia     92
+Florida                  78
+Georgia                  61
+Hawaii                   85
+Idaho                    45
+Illinois                 70
+Indiana                  48
+Iowa                     48
+Kansas                   40
+Kentucky                 36
+Louisiana                58
+Maine                    61
+Maryland                 79
+Massachusetts            85
+Michigan                 50
+Minnesota                58
+Mississippi              48
+Missouri                 45
+Montana                  23
+Nebraska                 74
+Nevada                   51
+New Hampshire            70
+New Jersey               90
+New Mexico               47
+New York                 94
+North Carolina           48
+North Dakota             17
+Ohio                     55
+Oklahoma                 27
+Oregon                   62
+Pennsylvania             60
+Rhode Island             87
+South Carolina           76
+South Dakota             40
+Tennessee                42
+Texas                    61
+Utah                     47
+Vermont                  83
+Virginia                 57
+Washington               53
+West Virginia            28
+Wisconsin                41

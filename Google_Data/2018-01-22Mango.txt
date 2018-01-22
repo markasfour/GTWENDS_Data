@@ -1,0 +1,39 @@
+                      Mango
+geoName                    
+Alabama                  31
+Alaska                   37
+Arkansas                 33
+Colorado                 42
+Connecticut              51
+Delaware                 44
+District of Columbia     52
+Georgia                  40
+Hawaii                  100
+Indiana                  36
+Kansas                   34
+Kentucky                 33
+Louisiana                35
+Maine                    38
+Maryland                 50
+Massachusetts            50
+Michigan                 39
+Minnesota                44
+Mississippi              26
+Nebraska                 41
+Nevada                   47
+New Mexico               33
+New York                 61
+North Carolina           39
+North Dakota             31
+Ohio                     40
+Oklahoma                 36
+Oregon                   36
+Pennsylvania             43
+Rhode Island             45
+South Carolina           33
+Utah                     44
+Vermont                  42
+Virginia                 47
+Washington               46
+Wisconsin                37
+Wyoming                  34

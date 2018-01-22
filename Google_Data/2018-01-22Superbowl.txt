@@ -1,0 +1,53 @@
+                      Superbowl
+geoName                        
+Alabama                      46
+Alaska                       76
+Arizona                      82
+Arkansas                     61
+California                   71
+Colorado                     90
+Connecticut                  73
+Delaware                     70
+District of Columbia         76
+Florida                      59
+Georgia                      68
+Hawaii                       82
+Idaho                        76
+Illinois                     67
+Indiana                      65
+Iowa                         68
+Kansas                       64
+Kentucky                     59
+Louisiana                    75
+Maine                        79
+Maryland                     74
+Massachusetts                85
+Michigan                     72
+Minnesota                    78
+Mississippi                  63
+Missouri                     67
+Montana                      81
+Nebraska                     63
+Nevada                       85
+New Hampshire                87
+New Jersey                   68
+New Mexico                   74
+New York                     66
+North Carolina               70
+North Dakota                 84
+Ohio                         61
+Oklahoma                     64
+Oregon                       53
+Pennsylvania                 73
+Rhode Island                 84
+South Carolina               58
+South Dakota                 82
+Tennessee                    61
+Texas                        68
+Utah                         72
+Vermont                      82
+Virginia                     59
+Washington                  100
+West Virginia                64
+Wisconsin                    70
+Wyoming                      91

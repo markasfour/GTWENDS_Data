@@ -1,0 +1,50 @@
+                      Lincoln Financial Field
+geoName                                      
+Alabama                                     2
+Arizona                                     1
+Arkansas                                    1
+California                                  2
+Colorado                                    2
+Connecticut                                 6
+Delaware                                  100
+District of Columbia                       32
+Florida                                     2
+Georgia                                     2
+Hawaii                                      1
+Idaho                                       1
+Illinois                                    2
+Indiana                                     2
+Iowa                                        2
+Kansas                                      1
+Kentucky                                    2
+Louisiana                                   1
+Maine                                       1
+Maryland                                   14
+Massachusetts                               4
+Michigan                                    2
+Minnesota                                   2
+Mississippi                                 1
+Missouri                                    1
+Nebraska                                    2
+Nevada                                      2
+New Hampshire                               2
+New Jersey                                 44
+New Mexico                                  2
+New York                                    7
+North Carolina                              3
+North Dakota                                4
+Ohio                                        2
+Oklahoma                                    1
+Oregon                                      1
+Pennsylvania                               92
+Rhode Island                                3
+South Carolina                              4
+South Dakota                                1
+Tennessee                                   3
+Texas                                       1
+Utah                                        1
+Vermont                                     2
+Virginia                                    9
+Washington                                  1
+West Virginia                               5
+Wisconsin                                   2

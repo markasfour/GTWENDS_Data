@@ -1,0 +1,44 @@
+                      SharkTank
+geoName                        
+Alabama                      34
+Arizona                      63
+Arkansas                     51
+California                   80
+Colorado                     76
+Connecticut                  74
+District of Columbia         80
+Florida                      68
+Georgia                      61
+Hawaii                       97
+Idaho                        40
+Illinois                     66
+Indiana                      64
+Iowa                         53
+Kansas                       40
+Kentucky                     58
+Louisiana                    56
+Maine                        68
+Maryland                     74
+Massachusetts                89
+Michigan                     60
+Minnesota                    71
+Mississippi                  50
+Missouri                     51
+Nebraska                     52
+Nevada                       57
+New Hampshire                78
+New Jersey                   98
+New York                    100
+North Carolina               69
+Ohio                         59
+Oklahoma                     66
+Oregon                       44
+Pennsylvania                 79
+Rhode Island                 79
+South Carolina               59
+Tennessee                    52
+Texas                        56
+Utah                         99
+Virginia                     65
+Washington                   64
+Wisconsin                    77

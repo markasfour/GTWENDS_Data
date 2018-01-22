@@ -1,0 +1,53 @@
+                      Three Billboards
+geoName                               
+Alabama                             45
+Alaska                              34
+Arizona                             71
+Arkansas                            47
+California                          79
+Colorado                            63
+Connecticut                         66
+Delaware                            50
+District of Columbia                38
+Florida                             55
+Georgia                             42
+Hawaii                              38
+Idaho                               57
+Illinois                            69
+Indiana                             70
+Iowa                                74
+Kansas                              55
+Kentucky                            45
+Louisiana                           42
+Maine                               60
+Maryland                            62
+Massachusetts                       70
+Michigan                            57
+Minnesota                           71
+Mississippi                         26
+Missouri                           100
+Montana                             52
+Nebraska                            62
+Nevada                              54
+New Hampshire                       56
+New Jersey                          58
+New Mexico                          73
+New York                            69
+North Carolina                      56
+North Dakota                        44
+Ohio                                57
+Oklahoma                            52
+Oregon                              68
+Pennsylvania                        56
+Rhode Island                        63
+South Carolina                      43
+South Dakota                        33
+Tennessee                           51
+Texas                               51
+Utah                                60
+Vermont                             72
+Virginia                            49
+Washington                          66
+West Virginia                       46
+Wisconsin                           50
+Wyoming                             45

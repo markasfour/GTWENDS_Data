@@ -1,0 +1,53 @@
+                      Halep
+geoName                    
+Alabama                  49
+Alaska                   53
+Arizona                  60
+Arkansas                 59
+California               67
+Colorado                 58
+Connecticut             100
+Delaware                 72
+District of Columbia     91
+Florida                  74
+Georgia                  64
+Hawaii                   68
+Idaho                    43
+Illinois                 79
+Indiana                  51
+Iowa                     48
+Kansas                   40
+Kentucky                 45
+Louisiana                59
+Maine                    50
+Maryland                 81
+Massachusetts            78
+Michigan                 66
+Minnesota                58
+Mississippi              38
+Missouri                 42
+Montana                  54
+Nebraska                 51
+Nevada                   74
+New Hampshire            64
+New Jersey               85
+New Mexico               51
+New York                 90
+North Carolina           63
+North Dakota             49
+Ohio                     67
+Oklahoma                 53
+Oregon                   57
+Pennsylvania             69
+Rhode Island             67
+South Carolina           59
+South Dakota             53
+Tennessee                54
+Texas                    58
+Utah                     43
+Vermont                  59
+Virginia                 79
+Washington               65
+West Virginia            57
+Wisconsin                54
+Wyoming                  32

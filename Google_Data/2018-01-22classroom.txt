@@ -1,0 +1,53 @@
+                      classroom
+geoName                        
+Alabama                      36
+Alaska                       12
+Arizona                      20
+Arkansas                    100
+California                   33
+Colorado                     29
+Connecticut                  52
+Delaware                     11
+District of Columbia          7
+Florida                      12
+Georgia                      20
+Hawaii                       35
+Idaho                        38
+Illinois                     32
+Indiana                      38
+Iowa                         50
+Kansas                       38
+Kentucky                     27
+Louisiana                    25
+Maine                        36
+Maryland                     34
+Massachusetts                27
+Michigan                     31
+Minnesota                    24
+Mississippi                  21
+Missouri                     45
+Montana                      33
+Nebraska                     34
+Nevada                       30
+New Hampshire                39
+New Jersey                   55
+New Mexico                   18
+New York                     21
+North Carolina               35
+North Dakota                 30
+Ohio                         38
+Oklahoma                     22
+Oregon                       19
+Pennsylvania                 23
+Rhode Island                 50
+South Carolina               56
+South Dakota                 41
+Tennessee                    18
+Texas                        26
+Utah                         18
+Vermont                      30
+Virginia                     27
+Washington                   17
+West Virginia                 9
+Wisconsin                    44
+Wyoming                      63
