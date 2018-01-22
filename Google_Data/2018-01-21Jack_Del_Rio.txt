@@ -1,0 +1,53 @@
+                      Jack Del Rio
+geoName                           
+Alabama                         41
+Alaska                          24
+Arizona                         46
+Arkansas                        40
+California                      82
+Colorado                       100
+Connecticut                     34
+Delaware                        28
+District of Columbia            35
+Florida                         54
+Georgia                         35
+Hawaii                          56
+Idaho                           46
+Illinois                        34
+Indiana                         40
+Iowa                            43
+Kansas                          39
+Kentucky                        36
+Louisiana                       62
+Maine                           50
+Maryland                        35
+Massachusetts                   30
+Michigan                        21
+Minnesota                       52
+Mississippi                     40
+Missouri                        40
+Montana                         49
+Nebraska                        57
+Nevada                          77
+New Hampshire                   23
+New Jersey                      39
+New Mexico                      69
+New York                        30
+North Carolina                  32
+North Dakota                    43
+Ohio                            31
+Oklahoma                        37
+Oregon                          35
+Pennsylvania                    33
+Rhode Island                    36
+South Carolina                  33
+South Dakota                    46
+Tennessee                       42
+Texas                           45
+Utah                            40
+Vermont                         25
+Virginia                        27
+Washington                      52
+West Virginia                   19
+Wisconsin                       28
+Wyoming                         65

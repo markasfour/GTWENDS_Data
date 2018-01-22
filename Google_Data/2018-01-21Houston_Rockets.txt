@@ -1,19 +1,19 @@
                       Houston Rockets
 geoName                              
-Alabama                            10
-Alaska                              8
+Alabama                             9
+Alaska                              9
 Arizona                             7
-Arkansas                           10
-California                         10
+Arkansas                           11
+California                          9
 Colorado                            8
 Connecticut                         6
-Delaware                            5
+Delaware                            6
 District of Columbia                8
 Florida                             7
 Georgia                            10
-Hawaii                              9
+Hawaii                              8
 Idaho                               6
-Illinois                            8
+Illinois                            9
 Indiana                             6
 Iowa                                6
 Kansas                              8
@@ -27,11 +27,11 @@ Minnesota                           5
 Mississippi                        13
 Missouri                            7
 Montana                             5
-Nebraska                            7
-Nevada                              9
+Nebraska                            6
+Nevada                             10
 New Hampshire                       4
-New Jersey                          8
-New Mexico                         10
+New Jersey                          7
+New Mexico                          9
 New York                            9
 North Carolina                      7
 North Dakota                        6
@@ -40,9 +40,9 @@ Oklahoma                           20
 Oregon                              7
 Pennsylvania                        6
 Rhode Island                        5
-South Carolina                      9
-South Dakota                        6
-Tennessee                           9
+South Carolina                      8
+South Dakota                        5
+Tennessee                           8
 Texas                             100
 Utah                                9
 Vermont                             4
@@ -50,4 +50,4 @@ Virginia                            7
 Washington                          7
 West Virginia                       6
 Wisconsin                           6
-Wyoming                             7
+Wyoming                             6

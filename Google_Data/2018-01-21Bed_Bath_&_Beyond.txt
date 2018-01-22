@@ -1,51 +1,51 @@
                       Bed Bath & Beyond
 geoName                                
-Alabama                              64
-Arizona                              80
-Arkansas                             57
-California                           63
-Colorado                             74
-Connecticut                          93
-Delaware                             76
-District of Columbia                 60
-Florida                              92
+Alabama                              53
+Arizona                              73
+Arkansas                             56
+California                           58
+Colorado                             67
+Connecticut                          86
+Delaware                             78
+District of Columbia                 56
+Florida                              90
 Georgia                              58
-Hawaii                               46
-Idaho                                63
-Illinois                             77
-Indiana                              66
-Iowa                                 59
-Kansas                               62
-Kentucky                             57
-Louisiana                            82
-Maine                                65
-Maryland                             66
-Massachusetts                        68
-Michigan                             86
+Hawaii                               36
+Idaho                                62
+Illinois                             69
+Indiana                              56
+Iowa                                 49
+Kansas                               59
+Kentucky                             56
+Louisiana                            76
+Maine                                50
+Maryland                             63
+Massachusetts                        62
+Michigan                             80
 Minnesota                            48
-Mississippi                          52
-Missouri                             73
-Montana                              67
-Nebraska                             79
-Nevada                               63
-New Hampshire                        75
+Mississippi                          49
+Missouri                             71
+Montana                              66
+Nebraska                             68
+Nevada                               57
+New Hampshire                        69
 New Jersey                          100
-New Mexico                           61
-New York                             83
-North Carolina                       66
-North Dakota                         51
-Ohio                                 69
+New Mexico                           55
+New York                             77
+North Carolina                       60
+North Dakota                         49
+Ohio                                 67
 Oklahoma                             62
-Oregon                               43
-Pennsylvania                         77
-Rhode Island                         86
-South Carolina                       71
-South Dakota                         37
-Tennessee                            62
-Texas                                65
-Utah                                 52
-Vermont                              64
-Virginia                             57
-Washington                           53
-West Virginia                        32
-Wisconsin                            60
+Oregon                               39
+Pennsylvania                         69
+Rhode Island                         79
+South Carolina                       69
+South Dakota                         39
+Tennessee                            59
+Texas                                57
+Utah                                 49
+Vermont                              60
+Virginia                             51
+Washington                           49
+West Virginia                        24
+Wisconsin                            54

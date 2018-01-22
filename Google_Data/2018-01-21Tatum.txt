@@ -1,0 +1,53 @@
+                      Tatum
+geoName                    
+Alabama                  38
+Alaska                   30
+Arizona                 100
+Arkansas                 33
+California               31
+Colorado                 31
+Connecticut              29
+Delaware                 29
+District of Columbia     29
+Florida                  30
+Georgia                  33
+Hawaii                   34
+Idaho                    31
+Illinois                 30
+Indiana                  31
+Iowa                     31
+Kansas                   34
+Kentucky                 34
+Louisiana                38
+Maine                    30
+Maryland                 28
+Massachusetts            35
+Michigan                 30
+Minnesota                29
+Mississippi              40
+Missouri                 39
+Montana                  26
+Nebraska                 31
+Nevada                   36
+New Hampshire            32
+New Jersey               30
+New Mexico               42
+New York                 28
+North Carolina           32
+North Dakota             27
+Ohio                     30
+Oklahoma                 38
+Oregon                   23
+Pennsylvania             31
+Rhode Island             33
+South Carolina           32
+South Dakota             30
+Tennessee                34
+Texas                    37
+Utah                     32
+Vermont                  29
+Virginia                 27
+Washington               28
+West Virginia            37
+Wisconsin                28
+Wyoming                  32

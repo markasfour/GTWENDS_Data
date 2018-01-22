@@ -1,53 +1,53 @@
                       Griselda Blanco
 geoName                              
-Alabama                            58
-Alaska                             17
-Arizona                            71
-Arkansas                           34
-California                         78
+Alabama                            54
+Alaska                             19
+Arizona                            68
+Arkansas                           41
+California                         80
 Colorado                           48
-Connecticut                        48
-Delaware                           37
-District of Columbia               57
+Connecticut                        42
+Delaware                           40
+District of Columbia               60
 Florida                           100
-Georgia                            68
-Hawaii                             30
-Idaho                              23
-Illinois                           56
-Indiana                            30
-Iowa                               23
-Kansas                             48
-Kentucky                           33
-Louisiana                          67
-Maine                              10
-Maryland                           53
-Massachusetts                      53
+Georgia                            70
+Hawaii                             23
+Idaho                              25
+Illinois                           51
+Indiana                            32
+Iowa                               20
+Kansas                             55
+Kentucky                           30
+Louisiana                          65
+Maine                              12
+Maryland                           55
+Massachusetts                      49
 Michigan                           39
-Minnesota                          25
-Mississippi                        53
-Missouri                           27
-Montana                            13
-Nebraska                           35
-Nevada                             73
-New Hampshire                      20
-New Jersey                         68
+Minnesota                          27
+Mississippi                        46
+Missouri                           32
+Montana                            20
+Nebraska                           17
+Nevada                             66
+New Hampshire                      14
+New Jersey                         71
 New Mexico                         58
-New York                           72
-North Carolina                     51
-North Dakota                       24
-Ohio                               27
-Oklahoma                           50
-Oregon                             35
-Pennsylvania                       40
-Rhode Island                       68
-South Carolina                     48
-South Dakota                        9
-Tennessee                          36
-Texas                              94
-Utah                               22
-Vermont                            10
-Virginia                           47
-Washington                         33
-West Virginia                      29
-Wisconsin                          22
-Wyoming                            35
+New York                           75
+North Carolina                     47
+North Dakota                       23
+Ohio                               26
+Oklahoma                           52
+Oregon                             36
+Pennsylvania                       38
+Rhode Island                       63
+South Carolina                     49
+South Dakota                       10
+Tennessee                          43
+Texas                             100
+Utah                               25
+Vermont                            18
+Virginia                           48
+Washington                         36
+West Virginia                      31
+Wisconsin                          26
+Wyoming                            15

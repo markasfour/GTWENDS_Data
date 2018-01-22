@@ -1,33 +1,39 @@
                 Bellator 192
 geoName                     
-Alabama                   44
-Arizona                   23
-California                80
-Colorado                  49
-Connecticut               41
-Florida                   21
-Idaho                     57
-Illinois                  15
-Indiana                   60
-Iowa                      29
-Kansas                    25
-Louisiana                 21
-Maryland                  12
-Massachusetts             41
-Michigan                  23
-Missouri                  25
-Nebraska                  40
-Nevada                   100
-New Jersey                23
-New York                  25
-North Carolina            30
-Ohio                      22
-Oklahoma                  93
-Pennsylvania              12
-Rhode Island              66
-South Carolina            18
-Tennessee                 50
-Texas                     15
-Virginia                  13
-Washington                36
-Wisconsin                 28
+Alabama                   18
+Arizona                   28
+California                67
+Colorado                  10
+Florida                   18
+Georgia                   15
+Hawaii                    41
+Illinois                  28
+Indiana                   12
+Iowa                      25
+Kansas                    21
+Kentucky                  17
+Louisiana                 18
+Maryland                  10
+Massachusetts             21
+Michigan                   6
+Minnesota                 10
+Missouri                  54
+Nebraska                  33
+Nevada                    21
+New Jersey                19
+New Mexico                43
+New York                  17
+North Carolina            31
+Ohio                      18
+Oklahoma                  19
+Oregon                    11
+Pennsylvania              20
+Rhode Island              56
+South Carolina            31
+South Dakota             100
+Tennessee                 21
+Texas                     25
+Virginia                  16
+Washington                38
+West Virginia             54
+Wisconsin                 35

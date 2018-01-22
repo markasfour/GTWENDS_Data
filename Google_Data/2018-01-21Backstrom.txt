@@ -1,0 +1,53 @@
+                      Backstrom
+geoName                        
+Alabama                      20
+Alaska                       48
+Arizona                      31
+Arkansas                     93
+California                   25
+Colorado                     35
+Connecticut                  28
+Delaware                     26
+District of Columbia         66
+Florida                      21
+Georgia                      23
+Hawaii                       31
+Idaho                        31
+Illinois                     30
+Indiana                      28
+Iowa                         39
+Kansas                       25
+Kentucky                     32
+Louisiana                    21
+Maine                        45
+Maryland                     70
+Massachusetts                37
+Michigan                     34
+Minnesota                   100
+Mississippi                  22
+Missouri                     23
+Montana                      43
+Nebraska                     34
+Nevada                       29
+New Hampshire                47
+New Jersey                   27
+New Mexico                   19
+New York                     32
+North Carolina               23
+North Dakota                 60
+Ohio                         29
+Oklahoma                     36
+Oregon                       42
+Pennsylvania                 41
+Rhode Island                 34
+South Carolina               26
+South Dakota                 39
+Tennessee                    23
+Texas                        20
+Utah                         29
+Vermont                      33
+Virginia                     56
+Washington                   50
+West Virginia                35
+Wisconsin                    40
+Wyoming                      31

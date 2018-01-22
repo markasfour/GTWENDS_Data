@@ -1,0 +1,53 @@
+                      Amazon Go
+geoName                        
+Alabama                      70
+Alaska                       81
+Arizona                      64
+Arkansas                     61
+California                   69
+Colorado                     66
+Connecticut                  76
+Delaware                     76
+District of Columbia         52
+Florida                      71
+Georgia                      58
+Hawaii                       72
+Idaho                        77
+Illinois                     60
+Indiana                      59
+Iowa                         63
+Kansas                       53
+Kentucky                     63
+Louisiana                    68
+Maine                        70
+Maryland                     71
+Massachusetts                68
+Michigan                     58
+Minnesota                    67
+Mississippi                  56
+Missouri                     61
+Montana                      76
+Nebraska                     62
+Nevada                       59
+New Hampshire                69
+New Jersey                   70
+New Mexico                   57
+New York                     68
+North Carolina               68
+North Dakota                 69
+Ohio                         64
+Oklahoma                     60
+Oregon                       56
+Pennsylvania                 67
+Rhode Island                 77
+South Carolina               69
+South Dakota                 63
+Tennessee                    68
+Texas                        59
+Utah                         78
+Vermont                      94
+Virginia                     60
+Washington                  100
+West Virginia                57
+Wisconsin                    62
+Wyoming                      78

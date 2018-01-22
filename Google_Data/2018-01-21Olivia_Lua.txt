@@ -1,39 +1,45 @@
                       Olivia Lua
 geoName                         
-Alabama                       73
-Arizona                       29
-Arkansas                      33
-California                    50
-Colorado                      61
-District of Columbia          71
-Florida                       53
-Georgia                        5
+Alabama                       37
+Alaska                        65
+Arizona                       25
+Arkansas                      22
+California                    42
+Colorado                      13
+Connecticut                   46
+Delaware                      53
+District of Columbia          47
+Florida                       41
+Georgia                        7
+Hawaii                        27
 Illinois                       8
-Indiana                       62
-Kansas                        41
-Kentucky                      34
-Louisiana                     35
-Maine                         52
-Maryland                      10
-Massachusetts                 34
-Michigan                      32
-Minnesota                     20
-Mississippi                  100
-Missouri                      74
-Nevada                        21
-New Jersey                    38
-New Mexico                    43
-New York                      33
-North Carolina                37
-Ohio                          18
-Oklahoma                      39
-Oregon                        33
-Pennsylvania                  51
-Rhode Island                  56
-South Carolina                31
-Tennessee                     42
-Texas                         50
-Utah                          22
-Virginia                      27
-Washington                    46
-Wisconsin                     35
+Indiana                       50
+Iowa                          16
+Kansas                        27
+Kentucky                      35
+Louisiana                     23
+Maryland                      21
+Massachusetts                 36
+Michigan                      47
+Minnesota                      7
+Missouri                      36
+Montana                       54
+Nevada                        69
+New Hampshire                 65
+New Jersey                    47
+New York                      32
+North Carolina                28
+Ohio                          29
+Oklahoma                      26
+Oregon                        22
+Pennsylvania                  64
+Rhode Island                  74
+South Carolina                10
+Tennessee                     14
+Texas                         48
+Utah                          29
+Virginia                      29
+Washington                    35
+West Virginia                 36
+Wisconsin                     39
+Wyoming                      100

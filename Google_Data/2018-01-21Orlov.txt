@@ -1,0 +1,44 @@
+                      Orlov
+geoName                    
+Alabama                  19
+Arizona                  26
+Arkansas                 20
+California               42
+Colorado                 36
+Connecticut              39
+Delaware                 94
+District of Columbia    100
+Florida                  27
+Georgia                  27
+Hawaii                   51
+Illinois                 38
+Indiana                  21
+Iowa                     19
+Kansas                   21
+Kentucky                 24
+Louisiana                31
+Maryland                 86
+Massachusetts            61
+Michigan                 27
+Minnesota                36
+Mississippi              14
+Missouri                 30
+Nebraska                 16
+Nevada                   21
+New Hampshire            29
+New Jersey               49
+New York                 54
+North Carolina           31
+Ohio                     26
+Oklahoma                 18
+Oregon                   53
+Pennsylvania             41
+South Carolina           32
+South Dakota             41
+Tennessee                30
+Texas                    26
+Utah                     23
+Virginia                 54
+Washington               81
+West Virginia            26
+Wisconsin                43
