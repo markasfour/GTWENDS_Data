@@ -1,46 +1,48 @@
                       SAG Awards 2018
 geoName                              
-Alabama                            16
-Alaska                             44
-Arizona                            30
-Arkansas                           15
-California                         94
-Colorado                           27
-Connecticut                        31
-District of Columbia               56
-Florida                            33
-Georgia                            41
-Hawaii                             18
-Idaho                              43
-Illinois                           49
-Indiana                            28
-Iowa                               66
-Kansas                             46
-Kentucky                           23
-Louisiana                          24
-Maryland                           42
-Massachusetts                      64
-Michigan                           29
-Minnesota                          32
-Missouri                           34
-Montana                            71
-Nebraska                           74
-Nevada                              9
-New Hampshire                      43
-New Jersey                         68
-New York                           64
-North Carolina                     30
-Ohio                               47
-Oregon                             20
-Pennsylvania                       41
-Rhode Island                      100
-South Carolina                     21
-South Dakota                       44
-Tennessee                          42
-Texas                              25
-Utah                               10
-Vermont                            46
-Virginia                           17
-Washington                         27
-West Virginia                      72
-Wisconsin                          52
+Alabama                            15
+Arizona                            40
+California                         92
+Colorado                           21
+Connecticut                        21
+Delaware                          100
+District of Columbia               30
+Florida                            31
+Georgia                            34
+Hawaii                             50
+Idaho                              40
+Illinois                           70
+Indiana                            42
+Iowa                               41
+Kansas                             69
+Kentucky                           22
+Louisiana                          37
+Maryland                           70
+Massachusetts                      71
+Michigan                           37
+Minnesota                          34
+Mississippi                        14
+Missouri                           59
+Nebraska                           42
+Nevada                             43
+New Hampshire                      80
+New Jersey                         80
+New Mexico                         72
+New York                           80
+North Carolina                     33
+North Dakota                       42
+Ohio                               28
+Oklahoma                            8
+Oregon                             28
+Pennsylvania                       38
+Rhode Island                       69
+South Carolina                     26
+Tennessee                          17
+Texas                              26
+Utah                               18
+Vermont                            43
+Virginia                           27
+Washington                         29
+West Virginia                      90
+Wisconsin                          34
+Wyoming                            63

@@ -1,53 +1,53 @@
                       Morgan Freeman
 geoName                             
-Alabama                           75
-Alaska                            56
-Arizona                           65
-Arkansas                          71
-California                        57
-Colorado                          64
-Connecticut                       59
+Alabama                           71
+Alaska                            59
+Arizona                           61
+Arkansas                          69
+California                        53
+Colorado                          60
+Connecticut                       54
 Delaware                          64
-District of Columbia              60
-Florida                           64
-Georgia                           73
-Hawaii                            53
-Idaho                             61
-Illinois                          65
-Indiana                           70
-Iowa                              70
-Kansas                            60
-Kentucky                          70
-Louisiana                         69
-Maine                             61
-Maryland                          64
-Massachusetts                     56
-Michigan                          68
-Minnesota                         62
+District of Columbia              59
+Florida                           62
+Georgia                           66
+Hawaii                            50
+Idaho                             57
+Illinois                          62
+Indiana                           66
+Iowa                              58
+Kansas                            55
+Kentucky                          67
+Louisiana                         66
+Maine                             59
+Maryland                          60
+Massachusetts                     51
+Michigan                          64
+Minnesota                         58
 Mississippi                      100
-Missouri                          72
-Montana                           63
-Nebraska                          64
-Nevada                            60
+Missouri                          64
+Montana                           56
+Nebraska                          60
+Nevada                            59
 New Hampshire                     62
-New Jersey                        60
-New Mexico                        63
-New York                          57
-North Carolina                    66
-North Dakota                      67
-Ohio                              67
-Oklahoma                          75
-Oregon                            50
-Pennsylvania                      65
-Rhode Island                      53
-South Carolina                    70
-South Dakota                      56
-Tennessee                         74
-Texas                             61
-Utah                              60
-Vermont                           55
-Virginia                          55
-Washington                        60
-West Virginia                     73
-Wisconsin                         65
-Wyoming                           60
+New Jersey                        58
+New Mexico                        60
+New York                          53
+North Carolina                    62
+North Dakota                      61
+Ohio                              64
+Oklahoma                          68
+Oregon                            44
+Pennsylvania                      59
+Rhode Island                      59
+South Carolina                    64
+South Dakota                      60
+Tennessee                         68
+Texas                             57
+Utah                              54
+Vermont                           52
+Virginia                          50
+Washington                        58
+West Virginia                     64
+Wisconsin                         60
+Wyoming                           59

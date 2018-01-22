@@ -1,53 +1,53 @@
                       Heath Ledger
 geoName                           
-Alabama                         77
-Alaska                          85
-Arizona                         79
-Arkansas                        86
+Alabama                         80
+Alaska                          82
+Arizona                         84
+Arkansas                        81
 California                      81
-Colorado                        74
-Connecticut                     72
-Delaware                        75
-District of Columbia            69
-Florida                         73
-Georgia                         75
-Hawaii                          67
-Idaho                           88
-Illinois                        83
-Indiana                         82
-Iowa                            88
-Kansas                          77
-Kentucky                        85
+Colorado                        77
+Connecticut                     82
+Delaware                        81
+District of Columbia            71
+Florida                         75
+Georgia                         77
+Hawaii                          71
+Idaho                           97
+Illinois                        79
+Indiana                         84
+Iowa                            87
+Kansas                          79
+Kentucky                        88
 Louisiana                       79
-Maine                           78
-Maryland                        69
-Massachusetts                   76
-Michigan                        83
-Minnesota                       74
+Maine                           83
+Maryland                        71
+Massachusetts                   78
+Michigan                        88
+Minnesota                       70
 Mississippi                     81
 Missouri                        84
-Montana                         87
-Nebraska                        86
-Nevada                          84
-New Hampshire                   81
-New Jersey                      79
-New Mexico                      88
-New York                        74
-North Carolina                  73
+Montana                         86
+Nebraska                        85
+Nevada                          88
+New Hampshire                   73
+New Jersey                      80
+New Mexico                      82
+New York                        79
+North Carolina                  78
 North Dakota                    84
-Ohio                            82
-Oklahoma                        92
-Oregon                          60
-Pennsylvania                    82
-Rhode Island                    95
+Ohio                            85
+Oklahoma                        88
+Oregon                          61
+Pennsylvania                    83
+Rhode Island                    79
 South Carolina                  79
-South Dakota                    82
-Tennessee                       79
-Texas                           81
-Utah                            95
-Vermont                         62
-Virginia                        68
+South Dakota                    85
+Tennessee                       83
+Texas                           83
+Utah                           100
+Vermont                         69
+Virginia                        64
 Washington                      77
-West Virginia                   83
-Wisconsin                       76
-Wyoming                        100
+West Virginia                   85
+Wisconsin                       75
+Wyoming                         84

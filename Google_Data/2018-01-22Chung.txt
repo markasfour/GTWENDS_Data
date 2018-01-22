@@ -1,0 +1,53 @@
+                      Chung
+geoName                    
+Alabama                  19
+Alaska                   24
+Arizona                  28
+Arkansas                 19
+California               67
+Colorado                 25
+Connecticut              34
+Delaware                 27
+District of Columbia     41
+Florida                  25
+Georgia                  28
+Hawaii                  100
+Idaho                    22
+Illinois                 30
+Indiana                  19
+Iowa                     22
+Kansas                   29
+Kentucky                 19
+Louisiana                23
+Maine                    23
+Maryland                 42
+Massachusetts            50
+Michigan                 24
+Minnesota                28
+Mississippi              16
+Missouri                 22
+Montana                  18
+Nebraska                 21
+Nevada                   38
+New Hampshire            26
+New Jersey               44
+New Mexico               23
+New York                 53
+North Carolina           24
+North Dakota             14
+Ohio                     22
+Oklahoma                 24
+Oregon                   97
+Pennsylvania             33
+Rhode Island             34
+South Carolina           18
+South Dakota             13
+Tennessee                21
+Texas                    30
+Utah                     21
+Vermont                  22
+Virginia                 39
+Washington               45
+West Virginia            18
+Wisconsin                22
+Wyoming                  15

@@ -1,0 +1,53 @@
+                      Rampage
+geoName                      
+Alabama                    56
+Alaska                     70
+Arizona                    58
+Arkansas                   54
+California                 57
+Colorado                   74
+Connecticut                51
+Delaware                   55
+District of Columbia       34
+Florida                    47
+Georgia                    53
+Hawaii                     54
+Idaho                      63
+Illinois                   54
+Indiana                    50
+Iowa                       65
+Kansas                     51
+Kentucky                   60
+Louisiana                  49
+Maine                      52
+Maryland                   46
+Massachusetts              46
+Michigan                   53
+Minnesota                  49
+Mississippi                61
+Missouri                   52
+Montana                    71
+Nebraska                   57
+Nevada                     65
+New Hampshire              54
+New Jersey                 50
+New Mexico                 62
+New York                   48
+North Carolina             50
+North Dakota               65
+Ohio                       53
+Oklahoma                   53
+Oregon                     51
+Pennsylvania               50
+Rhode Island               55
+South Carolina             50
+South Dakota               59
+Tennessee                  62
+Texas                      69
+Utah                      100
+Vermont                    58
+Virginia                   47
+Washington                 58
+West Virginia              56
+Wisconsin                  57
+Wyoming                    57

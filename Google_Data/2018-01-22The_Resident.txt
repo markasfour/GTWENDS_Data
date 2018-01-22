@@ -1,53 +1,53 @@
                       The Resident
 geoName                           
-Alabama                         66
-Alaska                          61
+Alabama                         65
+Alaska                          69
 Arizona                         66
-Arkansas                        68
-California                      69
-Colorado                        61
-Connecticut                     66
+Arkansas                        71
+California                      64
+Colorado                        57
+Connecticut                     64
 Delaware                        68
 District of Columbia            55
-Florida                         81
-Georgia                         65
-Hawaii                          56
-Idaho                           62
-Illinois                        63
-Indiana                         72
-Iowa                            62
-Kansas                          64
-Kentucky                        70
-Louisiana                       62
-Maine                           64
+Florida                         78
+Georgia                         63
+Hawaii                          57
+Idaho                           63
+Illinois                        61
+Indiana                         74
+Iowa                            59
+Kansas                          62
+Kentucky                        72
+Louisiana                       63
+Maine                           68
 Maryland                        68
-Massachusetts                   58
-Michigan                        65
+Massachusetts                   59
+Michigan                        63
 Minnesota                       54
-Mississippi                     75
-Missouri                        62
+Mississippi                     77
+Missouri                        64
 Montana                         56
-Nebraska                        56
-Nevada                          74
-New Hampshire                   60
-New Jersey                      65
-New Mexico                      78
-New York                        66
-North Carolina                  63
-North Dakota                    73
+Nebraska                        62
+Nevada                          70
+New Hampshire                   59
+New Jersey                      62
+New Mexico                      77
+New York                        62
+North Carolina                  58
+North Dakota                    69
 Ohio                            69
-Oklahoma                        67
+Oklahoma                        64
 Oregon                          44
-Pennsylvania                    69
+Pennsylvania                    70
 Rhode Island                    66
-South Carolina                  69
-South Dakota                    72
-Tennessee                       64
-Texas                           69
+South Carolina                  63
+South Dakota                    67
+Tennessee                       58
+Texas                           67
 Utah                            61
-Vermont                         50
-Virginia                        60
-Washington                      60
+Vermont                         65
+Virginia                        55
+Washington                      59
 West Virginia                  100
-Wisconsin                       63
-Wyoming                         66
+Wisconsin                       59
+Wyoming                         78

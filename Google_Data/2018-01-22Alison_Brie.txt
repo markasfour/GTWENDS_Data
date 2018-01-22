@@ -1,53 +1,53 @@
                       Alison Brie
 geoName                          
-Alabama                        70
-Alaska                         95
-Arizona                        88
-Arkansas                       58
-California                     99
-Colorado                       84
-Connecticut                    91
-Delaware                       84
-District of Columbia           89
-Florida                        62
-Georgia                        63
-Hawaii                         76
+Alabama                        62
+Alaska                         99
+Arizona                        86
+Arkansas                       63
+California                    100
+Colorado                       82
+Connecticut                    88
+Delaware                       97
+District of Columbia           78
+Florida                        60
+Georgia                        66
+Hawaii                         81
 Idaho                          80
-Illinois                       90
-Indiana                        82
-Iowa                           89
-Kansas                         73
-Kentucky                       67
-Louisiana                      74
-Maine                          74
-Maryland                       86
-Massachusetts                  95
-Michigan                       85
-Minnesota                      84
-Mississippi                    52
+Illinois                       87
+Indiana                        83
+Iowa                           81
+Kansas                         75
+Kentucky                       65
+Louisiana                      64
+Maine                          79
+Maryland                       89
+Massachusetts                  96
+Michigan                       80
+Minnesota                      82
+Mississippi                    55
 Missouri                       79
-Montana                        70
-Nebraska                       81
-Nevada                         81
-New Hampshire                  84
-New Jersey                     90
-New Mexico                     83
-New York                       90
-North Carolina                 66
+Montana                        67
+Nebraska                       82
+Nevada                         86
+New Hampshire                  80
+New Jersey                     92
+New Mexico                     80
+New York                       88
+North Carolina                 68
 North Dakota                   72
-Ohio                           86
-Oklahoma                       77
+Ohio                           84
+Oklahoma                       81
 Oregon                         78
-Pennsylvania                   91
-Rhode Island                   83
-South Carolina                 66
-South Dakota                   58
-Tennessee                      68
-Texas                          78
-Utah                          100
-Vermont                        82
-Virginia                       71
-Washington                     94
-West Virginia                  68
-Wisconsin                      88
-Wyoming                        60
+Pennsylvania                   87
+Rhode Island                   82
+South Carolina                 63
+South Dakota                   74
+Tennessee                      66
+Texas                          76
+Utah                           97
+Vermont                        97
+Virginia                       72
+Washington                     95
+West Virginia                  74
+Wisconsin                      85
+Wyoming                        49

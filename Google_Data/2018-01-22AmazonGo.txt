@@ -1,0 +1,29 @@
+                      AmazonGo
+geoName                       
+Arizona                      8
+California                  42
+Colorado                     8
+Connecticut                 84
+District of Columbia        15
+Florida                     34
+Georgia                      4
+Illinois                    27
+Indiana                     10
+Maryland                    17
+Massachusetts               22
+Michigan                     5
+Minnesota                    8
+Missouri                    18
+New Jersey                  21
+New York                    15
+North Carolina              25
+Ohio                        15
+Oregon                      18
+Pennsylvania                12
+South Carolina              25
+Tennessee                    9
+Texas                       12
+Utah                        18
+Virginia                    31
+Washington                 100
+Wisconsin                    9
