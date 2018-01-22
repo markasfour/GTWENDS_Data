@@ -1,0 +1,53 @@
+                      Patriots
+geoName                       
+Alabama                      7
+Alaska                      10
+Arizona                     10
+Arkansas                     8
+California                   8
+Colorado                    13
+Connecticut                 34
+Delaware                    12
+District of Columbia        15
+Florida                     12
+Georgia                     10
+Hawaii                      12
+Idaho                        8
+Illinois                     8
+Indiana                      9
+Iowa                         9
+Kansas                       8
+Kentucky                     8
+Louisiana                    8
+Maine                       87
+Maryland                    11
+Massachusetts               95
+Michigan                     8
+Minnesota                    7
+Mississippi                 10
+Missouri                     8
+Montana                     10
+Nebraska                     9
+Nevada                      11
+New Hampshire               96
+New Jersey                  11
+New Mexico                  12
+New York                    12
+North Carolina              13
+North Dakota                 9
+Ohio                         8
+Oklahoma                     7
+Oregon                       5
+Pennsylvania                11
+Rhode Island               100
+South Carolina              15
+South Dakota                11
+Tennessee                    9
+Texas                        9
+Utah                         8
+Vermont                     45
+Virginia                    10
+Washington                   9
+West Virginia               10
+Wisconsin                    8
+Wyoming                     12

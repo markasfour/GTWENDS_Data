@@ -1,0 +1,53 @@
+                      Football Game Today
+geoName                                  
+Alabama                                99
+Alaska                                 27
+Arizona                                54
+Arkansas                               63
+California                             29
+Colorado                               41
+Connecticut                            24
+Delaware                               33
+District of Columbia                   40
+Florida                                48
+Georgia                                64
+Hawaii                                 40
+Idaho                                  41
+Illinois                               35
+Indiana                                39
+Iowa                                   84
+Kansas                                 48
+Kentucky                               64
+Louisiana                              65
+Maine                                  24
+Maryland                               29
+Massachusetts                          23
+Michigan                               65
+Minnesota                              41
+Mississippi                            74
+Missouri                               40
+Montana                                58
+Nebraska                              100
+Nevada                                 40
+New Hampshire                          30
+New Jersey                             26
+New Mexico                             37
+New York                               23
+North Carolina                         50
+North Dakota                           72
+Ohio                                   59
+Oklahoma                               81
+Oregon                                 36
+Pennsylvania                           36
+Rhode Island                           31
+South Carolina                         74
+South Dakota                           40
+Tennessee                              66
+Texas                                  50
+Utah                                   47
+Vermont                                14
+Virginia                               33
+Washington                             46
+West Virginia                          83
+Wisconsin                              62
+Wyoming                                45

@@ -1,47 +1,46 @@
                       SAG Awards 2018
 geoName                              
-Alabama                            35
-Arizona                            27
+Alabama                            16
+Alaska                             44
+Arizona                            30
+Arkansas                           15
 California                         94
-Colorado                           34
-Connecticut                        33
-Delaware                           38
-District of Columbia               34
-Florida                            44
-Georgia                            32
-Hawaii                             20
-Idaho                              23
-Illinois                           47
-Indiana                            18
-Iowa                               24
-Kansas                             40
-Kentucky                           25
-Maine                             100
-Maryland                           45
-Massachusetts                      43
-Michigan                           31
-Minnesota                          44
-Mississippi                        16
-Missouri                           42
-Nebraska                           96
-Nevada                             20
-New Jersey                         98
-New Mexico                         41
-New York                           65
-North Carolina                     26
-North Dakota                       48
-Ohio                               68
-Oklahoma                            9
-Oregon                             16
-Pennsylvania                       32
-Rhode Island                       80
-South Carolina                     37
-South Dakota                       48
-Tennessee                          45
-Texas                              31
-Utah                               11
-Vermont                            49
-Virginia                           26
-Washington                         26
-West Virginia                      52
-Wisconsin                          67
+Colorado                           27
+Connecticut                        31
+District of Columbia               56
+Florida                            33
+Georgia                            41
+Hawaii                             18
+Idaho                              43
+Illinois                           49
+Indiana                            28
+Iowa                               66
+Kansas                             46
+Kentucky                           23
+Louisiana                          24
+Maryland                           42
+Massachusetts                      64
+Michigan                           29
+Minnesota                          32
+Missouri                           34
+Montana                            71
+Nebraska                           74
+Nevada                              9
+New Hampshire                      43
+New Jersey                         68
+New York                           64
+North Carolina                     30
+Ohio                               47
+Oregon                             20
+Pennsylvania                       41
+Rhode Island                      100
+South Carolina                     21
+South Dakota                       44
+Tennessee                          42
+Texas                              25
+Utah                               10
+Vermont                            46
+Virginia                           17
+Washington                         27
+West Virginia                      72
+Wisconsin                          52

@@ -1,53 +1,53 @@
                       Cherry Seaborn
 geoName                             
-Alabama                           36
-Alaska                            78
-Arizona                           62
-Arkansas                          74
-California                        54
-Colorado                          58
-Connecticut                      100
-Delaware                          85
-District of Columbia              64
-Florida                           61
-Georgia                           58
-Hawaii                            66
-Idaho                             64
-Illinois                          63
-Indiana                           93
-Iowa                              53
-Kansas                            52
-Kentucky                          51
-Louisiana                         47
-Maine                             90
-Maryland                          77
-Massachusetts                     90
-Michigan                          71
-Minnesota                         63
-Mississippi                       44
+Alabama                           46
+Alaska                            86
+Arizona                           42
+Arkansas                          50
+California                        60
+Colorado                          53
+Connecticut                       60
+Delaware                         100
+District of Columbia              63
+Florida                           54
+Georgia                           48
+Hawaii                            51
+Idaho                             65
+Illinois                          55
+Indiana                           67
+Iowa                              40
+Kansas                            26
+Kentucky                          71
+Louisiana                         45
+Maine                             33
+Maryland                          66
+Massachusetts                     93
+Michigan                          48
+Minnesota                         58
+Mississippi                       34
 Missouri                          54
-Montana                           43
-Nebraska                          93
-Nevada                            48
-New Hampshire                     84
-New Jersey                        91
-New Mexico                        40
-New York                          82
-North Carolina                    84
-North Dakota                      80
-Ohio                              82
-Oklahoma                          60
-Oregon                            40
-Pennsylvania                      79
-Rhode Island                      81
-South Carolina                    58
-South Dakota                      66
-Tennessee                         59
-Texas                             53
-Utah                              52
-Vermont                           96
-Virginia                          62
-Washington                        62
-West Virginia                     58
-Wisconsin                         70
-Wyoming                           40
+Montana                           50
+Nebraska                          67
+Nevada                            63
+New Hampshire                     67
+New Jersey                        81
+New Mexico                        65
+New York                          68
+North Carolina                    79
+North Dakota                      37
+Ohio                              76
+Oklahoma                          64
+Oregon                            35
+Pennsylvania                      71
+Rhode Island                      63
+South Carolina                    45
+South Dakota                      50
+Tennessee                         66
+Texas                             52
+Utah                              55
+Vermont                           89
+Virginia                          63
+Washington                        55
+West Virginia                     54
+Wisconsin                         73
+Wyoming                           56

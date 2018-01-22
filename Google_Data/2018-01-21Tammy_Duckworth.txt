@@ -1,53 +1,53 @@
                       Tammy Duckworth
 geoName                              
-Alabama                             7
-Alaska                             11
-Arizona                            11
-Arkansas                            8
+Alabama                             9
+Alaska                              5
+Arizona                             8
+Arkansas                            9
 California                         11
-Colorado                           13
-Connecticut                        11
-Delaware                            8
-District of Columbia               65
+Colorado                           10
+Connecticut                        12
+Delaware                           12
+District of Columbia               70
 Florida                             8
 Georgia                             6
-Hawaii                             21
-Idaho                               6
+Hawaii                             24
+Idaho                               8
 Illinois                          100
 Indiana                            13
-Iowa                               12
-Kansas                              7
+Iowa                                9
+Kansas                              6
 Kentucky                            8
-Louisiana                           4
-Maine                               7
+Louisiana                           6
+Maine                               8
 Maryland                           21
-Massachusetts                      16
-Michigan                            8
-Minnesota                          13
-Mississippi                         5
-Missouri                           14
-Montana                            10
-Nebraska                            9
+Massachusetts                      15
+Michigan                            9
+Minnesota                          10
+Mississippi                         4
+Missouri                           17
+Montana                             6
+Nebraska                            8
 Nevada                              7
-New Hampshire                      10
+New Hampshire                       9
 New Jersey                         10
-New Mexico                         11
-New York                           12
-North Carolina                      9
-North Dakota                        9
+New Mexico                         12
+New York                           13
+North Carolina                      8
+North Dakota                       12
 Ohio                                8
-Oklahoma                            6
+Oklahoma                            7
 Oregon                              8
 Pennsylvania                       11
-Rhode Island                       12
-South Carolina                     10
-South Dakota                        5
+Rhode Island                       11
+South Carolina                      7
+South Dakota                       11
 Tennessee                           9
 Texas                               6
-Utah                                5
-Vermont                            18
-Virginia                           17
-Washington                         10
-West Virginia                      10
-Wisconsin                          11
-Wyoming                             3
+Utah                                6
+Vermont                            20
+Virginia                           15
+Washington                         12
+West Virginia                       8
+Wisconsin                          13
+Wyoming                             9

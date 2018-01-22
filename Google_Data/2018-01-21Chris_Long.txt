@@ -1,0 +1,53 @@
+                      Chris Long
+geoName                         
+Alabama                       42
+Alaska                        36
+Arizona                       55
+Arkansas                      44
+California                    60
+Colorado                      47
+Connecticut                   71
+Delaware                      85
+District of Columbia          68
+Florida                       45
+Georgia                       53
+Hawaii                        48
+Idaho                         46
+Illinois                      59
+Indiana                       43
+Iowa                          62
+Kansas                        40
+Kentucky                      48
+Louisiana                     51
+Maine                         71
+Maryland                      68
+Massachusetts                100
+Michigan                      44
+Minnesota                     49
+Mississippi                   49
+Missouri                      82
+Montana                       42
+Nebraska                      50
+Nevada                        53
+New Hampshire                 75
+New Jersey                    72
+New Mexico                    48
+New York                      78
+North Carolina                55
+North Dakota                  46
+Ohio                          48
+Oklahoma                      46
+Oregon                        37
+Pennsylvania                  75
+Rhode Island                  91
+South Carolina                55
+South Dakota                  59
+Tennessee                     51
+Texas                         46
+Utah                          39
+Vermont                       58
+Virginia                      72
+Washington                    50
+West Virginia                 55
+Wisconsin                     46
+Wyoming                       45

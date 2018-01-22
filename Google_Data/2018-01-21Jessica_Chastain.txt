@@ -1,53 +1,53 @@
                       Jessica Chastain
 geoName                               
 Alabama                             64
-Alaska                              82
-Arizona                             84
-Arkansas                            68
-California                          99
-Colorado                            85
-Connecticut                         81
-Delaware                            71
-District of Columbia                87
-Florida                             66
-Georgia                             66
-Hawaii                              82
-Idaho                               75
-Illinois                            84
-Indiana                             67
-Iowa                                80
-Kansas                              74
-Kentucky                            66
-Louisiana                           76
-Maine                               71
-Maryland                            93
-Massachusetts                       98
-Michigan                            67
-Minnesota                           81
+Alaska                              89
+Arizona                             77
+Arkansas                            67
+California                          98
+Colorado                            83
+Connecticut                         85
+Delaware                            86
+District of Columbia               100
+Florida                             68
+Georgia                             65
+Hawaii                              79
+Idaho                               76
+Illinois                            85
+Indiana                             69
+Iowa                                75
+Kansas                              77
+Kentucky                            74
+Louisiana                           78
+Maine                               62
+Maryland                            91
+Massachusetts                      100
+Michigan                            70
+Minnesota                           78
 Mississippi                         67
-Missouri                            77
-Montana                             81
-Nebraska                            80
-Nevada                              80
-New Hampshire                       74
-New Jersey                          87
-New Mexico                          72
-New York                           100
-North Carolina                      71
-North Dakota                        64
-Ohio                                76
-Oklahoma                            80
-Oregon                              63
-Pennsylvania                        82
-Rhode Island                        91
-South Carolina                      64
-South Dakota                        68
+Missouri                            80
+Montana                             88
+Nebraska                            77
+Nevada                              76
+New Hampshire                       79
+New Jersey                          88
+New Mexico                          77
+New York                            98
+North Carolina                      70
+North Dakota                        66
+Ohio                                78
+Oklahoma                            79
+Oregon                              65
+Pennsylvania                        81
+Rhode Island                        87
+South Carolina                      57
+South Dakota                        60
 Tennessee                           76
-Texas                               76
-Utah                                91
-Vermont                             80
-Virginia                            79
-Washington                          85
-West Virginia                       65
-Wisconsin                           71
-Wyoming                             55
+Texas                               73
+Utah                                98
+Vermont                             81
+Virginia                            80
+Washington                          89
+West Virginia                       63
+Wisconsin                           68
+Wyoming                             67

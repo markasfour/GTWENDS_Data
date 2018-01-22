@@ -1,53 +1,53 @@
                       Nfl Games Today
 geoName                              
 Alabama                            43
-Alaska                             51
-Arizona                            76
-Arkansas                           51
-California                         47
+Alaska                             53
+Arizona                            75
+Arkansas                           50
+California                         48
 Colorado                           65
-Connecticut                        42
-Delaware                           63
-District of Columbia               49
-Florida                            62
-Georgia                            66
-Hawaii                             54
-Idaho                              68
+Connecticut                        47
+Delaware                           79
+District of Columbia               56
+Florida                            59
+Georgia                            71
+Hawaii                             51
+Idaho                              72
 Illinois                           43
-Indiana                            53
-Iowa                               57
-Kansas                             46
+Indiana                            51
+Iowa                               60
+Kansas                             47
 Kentucky                           39
-Louisiana                          69
-Maine                              44
-Maryland                           51
-Massachusetts                      38
+Louisiana                          68
+Maine                              41
+Maryland                           49
+Massachusetts                      37
 Michigan                           47
 Minnesota                          47
-Mississippi                        92
-Missouri                           46
-Montana                            76
-Nebraska                           56
-Nevada                             74
-New Hampshire                      32
-New Jersey                         43
+Mississippi                        91
+Missouri                           45
+Montana                            69
+Nebraska                           55
+Nevada                             77
+New Hampshire                      43
+New Jersey                         41
 New Mexico                        100
-New York                           34
-North Carolina                     76
-North Dakota                       76
-Ohio                               49
-Oklahoma                           45
-Oregon                             33
+New York                           33
+North Carolina                     74
+North Dakota                       68
+Ohio                               51
+Oklahoma                           46
+Oregon                             36
 Pennsylvania                       47
-Rhode Island                       53
-South Carolina                     72
-South Dakota                       69
+Rhode Island                       46
+South Carolina                     79
+South Dakota                       72
 Tennessee                          54
-Texas                              77
-Utah                               44
-Vermont                            52
-Virginia                           46
-Washington                         57
-West Virginia                      53
-Wisconsin                          48
-Wyoming                            70
+Texas                              79
+Utah                               49
+Vermont                            49
+Virginia                           47
+Washington                         59
+West Virginia                      51
+Wisconsin                          49
+Wyoming                            68

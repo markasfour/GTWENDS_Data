@@ -1,53 +1,52 @@
                       UFC 220
 geoName                      
-Alabama                    14
-Alaska                     19
-Arizona                    21
-Arkansas                   13
-California                 22
-Colorado                   17
-Connecticut                43
-Delaware                   10
-District of Columbia        2
-Florida                    14
-Georgia                    10
-Hawaii                      8
-Idaho                      25
-Illinois                   15
+Alabama                    10
+Alaska                     36
+Arizona                    18
+Arkansas                   12
+California                 20
+Colorado                   22
+Connecticut                50
+Delaware                   15
+District of Columbia        3
+Florida                    11
+Georgia                    11
+Hawaii                     20
+Idaho                      38
+Illinois                   14
 Indiana                    22
-Iowa                        6
-Kansas                      7
-Kentucky                   14
-Louisiana                  10
-Maine                      31
-Maryland                   18
+Iowa                       11
+Kansas                      8
+Kentucky                   10
+Louisiana                  12
+Maine                      36
+Maryland                   21
 Massachusetts             100
-Michigan                   17
-Minnesota                  13
-Mississippi                11
-Missouri                   16
-Montana                    21
-Nebraska                   24
-Nevada                     24
-New Hampshire              62
+Michigan                   18
+Minnesota                   8
+Mississippi                17
+Missouri                   13
+Montana                    10
+Nebraska                   14
+Nevada                     31
+New Hampshire              54
 New Jersey                 19
-New Mexico                 30
+New Mexico                 29
 New York                   22
-North Carolina             17
-North Dakota               19
-Ohio                       26
-Oklahoma                   15
-Oregon                     16
-Pennsylvania               20
-Rhode Island               64
-South Carolina             13
-South Dakota               26
-Tennessee                  15
-Texas                      14
-Utah                       15
-Vermont                    20
-Virginia                    9
-Washington                 27
-West Virginia               4
-Wisconsin                  14
-Wyoming                    29
+North Carolina             12
+Ohio                       23
+Oklahoma                   16
+Oregon                     14
+Pennsylvania               19
+Rhode Island               41
+South Carolina             15
+South Dakota               31
+Tennessee                  14
+Texas                      15
+Utah                       20
+Vermont                     6
+Virginia                   10
+Washington                 21
+West Virginia              13
+Wisconsin                   6
+Wyoming                    27

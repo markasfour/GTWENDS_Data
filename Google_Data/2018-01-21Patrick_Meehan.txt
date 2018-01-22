@@ -1,39 +1,39 @@
                       Patrick Meehan
 geoName                             
 Alabama                            2
-Arizona                            4
+Arizona                            3
 California                         7
-Colorado                           8
-Connecticut                        6
-Delaware                           9
+Colorado                           2
+Connecticut                       19
+Delaware                          18
 District of Columbia              93
-Florida                            4
-Georgia                            2
-Illinois                           4
-Indiana                            6
-Kansas                             5
-Kentucky                           6
-Louisiana                          4
-Maine                             12
-Maryland                          15
-Massachusetts                      9
+Florida                            5
+Georgia                            5
+Illinois                           5
+Indiana                            1
+Kansas                             2
+Kentucky                           2
+Louisiana                          6
+Maryland                          13
+Massachusetts                     11
 Michigan                           2
 Minnesota                          2
-Missouri                           5
+Missouri                           6
 Montana                           18
-Nebraska                           4
-New Hampshire                      5
-New Jersey                         9
-New York                           7
-North Carolina                     7
+Nevada                             2
+New Jersey                        13
+New York                           8
+North Carolina                    10
 Ohio                               3
 Oklahoma                           2
+Oregon                             1
 Pennsylvania                     100
-South Carolina                     9
+Rhode Island                       6
+South Carolina                     4
 Tennessee                          1
 Texas                              4
 Utah                               5
-Vermont                           11
-Virginia                          12
-Washington                        11
+Vermont                           23
+Virginia                           7
+Washington                         8
 Wisconsin                          4
