@@ -1,0 +1,53 @@
+                      Kawhi
+geoName                    
+Alabama                  34
+Alaska                   27
+Arizona                  29
+Arkansas                 32
+California               47
+Colorado                 24
+Connecticut              34
+Delaware                 35
+District of Columbia     37
+Florida                  29
+Georgia                  36
+Hawaii                   40
+Idaho                    23
+Illinois                 37
+Indiana                  34
+Iowa                     24
+Kansas                   28
+Kentucky                 28
+Louisiana                37
+Maine                    24
+Maryland                 38
+Massachusetts            33
+Michigan                 31
+Minnesota                28
+Mississippi              37
+Missouri                 30
+Montana                  24
+Nebraska                 31
+Nevada                   38
+New Hampshire            19
+New Jersey               37
+New Mexico               29
+New York                 39
+North Carolina           31
+North Dakota             33
+Ohio                     36
+Oklahoma                 36
+Oregon                   23
+Pennsylvania             29
+Rhode Island             27
+South Carolina           33
+South Dakota             36
+Tennessee                32
+Texas                   100
+Utah                     34
+Vermont                  16
+Virginia                 27
+Washington               25
+West Virginia            22
+Wisconsin                26
+Wyoming                  26

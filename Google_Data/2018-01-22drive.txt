@@ -1,0 +1,53 @@
+                      drive
+geoName                    
+Alabama                  81
+Alaska                   72
+Arizona                  69
+Arkansas                 80
+California               82
+Colorado                 88
+Connecticut              95
+Delaware                 78
+District of Columbia     67
+Florida                  76
+Georgia                  88
+Hawaii                   79
+Idaho                    79
+Illinois                 80
+Indiana                  91
+Iowa                     84
+Kansas                   67
+Kentucky                 78
+Louisiana                67
+Maine                    91
+Maryland                 84
+Massachusetts            83
+Michigan                 77
+Minnesota                77
+Mississippi              63
+Missouri                 85
+Montana                  77
+Nebraska                 68
+Nevada                   75
+New Hampshire            97
+New Jersey               86
+New Mexico               61
+New York                 65
+North Carolina           96
+North Dakota             64
+Ohio                     84
+Oklahoma                 61
+Oregon                   57
+Pennsylvania             84
+Rhode Island             84
+South Carolina           97
+South Dakota             79
+Tennessee                85
+Texas                    74
+Utah                     83
+Vermont                 100
+Virginia                 75
+Washington               66
+West Virginia            71
+Wisconsin                96
+Wyoming                  81

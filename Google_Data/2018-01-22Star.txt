@@ -1,0 +1,53 @@
+                      Star
+geoName                   
+Alabama                 63
+Alaska                  72
+Arizona                 62
+Arkansas                62
+California              61
+Colorado                60
+Connecticut             57
+Delaware                57
+District of Columbia    54
+Florida                 61
+Georgia                 55
+Hawaii                  95
+Idaho                   72
+Illinois                60
+Indiana                 73
+Iowa                    64
+Kansas                  72
+Kentucky                62
+Louisiana               61
+Maine                   59
+Maryland                56
+Massachusetts           58
+Michigan                62
+Minnesota              100
+Mississippi             55
+Missouri                70
+Montana                 60
+Nebraska               100
+Nevada                  61
+New Hampshire           58
+New Jersey              62
+New Mexico              69
+New York                57
+North Carolina          58
+North Dakota            68
+Ohio                    62
+Oklahoma                63
+Oregon                  52
+Pennsylvania            58
+Rhode Island            57
+South Carolina          53
+South Dakota            67
+Tennessee               58
+Texas                   72
+Utah                    69
+Vermont                 61
+Virginia                58
+Washington              59
+West Virginia           63
+Wisconsin               65
+Wyoming                 94

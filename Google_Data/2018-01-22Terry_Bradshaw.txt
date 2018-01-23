@@ -1,53 +1,53 @@
                       Terry Bradshaw
 geoName                             
-Alabama                           58
-Alaska                            57
-Arizona                           57
-Arkansas                          72
+Alabama                           57
+Alaska                            56
+Arizona                           61
+Arkansas                          73
 California                        35
-Colorado                          51
+Colorado                          53
 Connecticut                       48
-Delaware                          48
-District of Columbia              51
-Florida                           53
+Delaware                          56
+District of Columbia              56
+Florida                           54
 Georgia                           57
-Hawaii                            46
-Idaho                             62
-Illinois                          53
+Hawaii                            45
+Idaho                             52
+Illinois                          57
 Indiana                           61
-Iowa                              77
-Kansas                            59
-Kentucky                          65
-Louisiana                         98
-Maine                             48
-Maryland                          56
-Massachusetts                     47
-Michigan                          61
-Minnesota                         56
-Mississippi                       63
-Missouri                          60
-Montana                           71
-Nebraska                          61
-Nevada                            50
-New Hampshire                     46
-New Jersey                        51
-New Mexico                        61
-New York                          39
-North Carolina                    61
-North Dakota                      80
-Ohio                              62
-Oklahoma                          82
+Iowa                              79
+Kansas                            56
+Kentucky                          61
+Louisiana                        100
+Maine                             44
+Maryland                          53
+Massachusetts                     44
+Michigan                          58
+Minnesota                         61
+Mississippi                       72
+Missouri                          61
+Montana                           76
+Nebraska                          68
+Nevada                            53
+New Hampshire                     55
+New Jersey                        52
+New Mexico                        56
+New York                          40
+North Carolina                    63
+North Dakota                      70
+Ohio                              66
+Oklahoma                          86
 Oregon                            36
-Pennsylvania                      85
-Rhode Island                      42
-South Carolina                    64
-South Dakota                      61
-Tennessee                         62
-Texas                             62
-Utah                              42
-Vermont                           38
-Virginia                          48
-Washington                        57
-West Virginia                    100
-Wisconsin                         74
-Wyoming                           62
+Pennsylvania                      89
+Rhode Island                      48
+South Carolina                    63
+South Dakota                      64
+Tennessee                         64
+Texas                             65
+Utah                              44
+Vermont                           52
+Virginia                          49
+Washington                        58
+West Virginia                     92
+Wisconsin                         79
+Wyoming                           50

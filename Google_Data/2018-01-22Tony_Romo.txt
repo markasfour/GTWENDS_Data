@@ -1,53 +1,53 @@
                       Tony Romo
 geoName                        
-Alabama                      21
-Alaska                       20
+Alabama                      22
+Alaska                       22
 Arizona                      36
-Arkansas                     41
-California                   27
-Colorado                     40
-Connecticut                  33
-Delaware                     42
-District of Columbia         48
+Arkansas                     45
+California                   26
+Colorado                     39
+Connecticut                  32
+Delaware                     46
+District of Columbia         46
 Florida                      24
 Georgia                      28
-Hawaii                       27
-Idaho                        33
+Hawaii                       29
+Idaho                        32
 Illinois                     27
-Indiana                      26
-Iowa                         34
+Indiana                      25
+Iowa                         35
 Kansas                       32
-Kentucky                     29
-Louisiana                    37
-Maine                        23
-Maryland                     36
-Massachusetts                24
+Kentucky                     28
+Louisiana                    36
+Maine                        25
+Maryland                     35
+Massachusetts                25
 Michigan                     20
 Minnesota                    25
 Mississippi                  42
 Missouri                     27
-Montana                      32
-Nebraska                     33
-Nevada                       39
-New Hampshire                22
-New Jersey                   38
+Montana                      34
+Nebraska                     32
+Nevada                       37
+New Hampshire                21
+New Jersey                   37
 New Mexico                   68
 New York                     28
-North Carolina               34
-North Dakota                 38
+North Carolina               33
+North Dakota                 35
 Ohio                         24
-Oklahoma                     52
+Oklahoma                     49
 Oregon                       17
 Pennsylvania                 37
-Rhode Island                 28
-South Carolina               33
+Rhode Island                 27
+South Carolina               32
 South Dakota                 35
-Tennessee                    29
+Tennessee                    30
 Texas                       100
-Utah                         25
-Vermont                      22
-Virginia                     36
-Washington                   27
-West Virginia                31
-Wisconsin                    42
-Wyoming                      38
+Utah                         23
+Vermont                      19
+Virginia                     37
+Washington                   28
+West Virginia                34
+Wisconsin                    43
+Wyoming                      40

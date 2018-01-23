@@ -1,52 +1,52 @@
                       Julie Ertz
 geoName                         
-Alabama                       15
-Alaska                        13
+Alabama                       13
 Arizona                       27
-Arkansas                      13
-California                    25
-Colorado                      38
-Connecticut                   37
-Delaware                      96
-District of Columbia          55
-Florida                       26
-Georgia                       21
-Hawaii                         5
-Idaho                         32
-Illinois                      29
-Indiana                       27
+Arkansas                       8
+California                    22
+Colorado                      33
+Connecticut                   31
+Delaware                     100
+District of Columbia          57
+Florida                       20
+Georgia                       16
+Hawaii                        19
+Idaho                         38
+Illinois                      24
+Indiana                       11
 Iowa                          20
-Kansas                        25
-Kentucky                      23
-Louisiana                     38
-Maine                         27
-Maryland                      49
-Massachusetts                 25
+Kansas                        31
+Kentucky                      10
+Louisiana                     16
+Maine                         24
+Maryland                      33
+Massachusetts                 22
 Michigan                      20
-Minnesota                     15
-Mississippi                   13
-Missouri                      23
-Nebraska                      36
-Nevada                        14
-New Hampshire                 19
-New Jersey                    78
-New Mexico                    17
-New York                      25
-North Carolina                30
-North Dakota                  54
-Ohio                          35
-Oklahoma                      47
-Oregon                        24
-Pennsylvania                 100
-Rhode Island                  30
-South Carolina                25
-South Dakota                  40
-Tennessee                     12
-Texas                         24
-Utah                          29
-Vermont                       14
-Virginia                      37
-Washington                    27
-West Virginia                 14
+Minnesota                     26
+Mississippi                   15
+Missouri                      28
+Montana                       19
+Nebraska                      23
+Nevada                        19
+New Hampshire                 27
+New Jersey                    64
+New Mexico                    29
+New York                      20
+North Carolina                23
+North Dakota                  34
+Ohio                          27
+Oklahoma                      22
+Oregon                        21
+Pennsylvania                  73
+Rhode Island                  19
+South Carolina                21
+South Dakota                  34
+Tennessee                     14
+Texas                         21
+Utah                          22
+Vermont                       12
+Virginia                      32
+Washington                    31
+West Virginia                 12
 Wisconsin                     28
-Wyoming                       20
+Wyoming                       34

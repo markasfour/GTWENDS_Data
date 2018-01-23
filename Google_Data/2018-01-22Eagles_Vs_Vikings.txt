@@ -1,0 +1,53 @@
+                      Eagles Vs Vikings
+geoName                                
+Alabama                               9
+Alaska                               12
+Arizona                              17
+Arkansas                             15
+California                           12
+Colorado                             13
+Connecticut                          13
+Delaware                             73
+District of Columbia                 10
+Florida                              11
+Georgia                              12
+Hawaii                               16
+Idaho                                14
+Illinois                             11
+Indiana                              11
+Iowa                                 40
+Kansas                                7
+Kentucky                              7
+Louisiana                             9
+Maine                                15
+Maryland                             19
+Massachusetts                         8
+Michigan                              8
+Minnesota                            94
+Mississippi                          12
+Missouri                              8
+Montana                              26
+Nebraska                             26
+Nevada                               25
+New Hampshire                        13
+New Jersey                           29
+New Mexico                           20
+New York                             10
+North Carolina                       13
+North Dakota                        100
+Ohio                                  9
+Oklahoma                             11
+Oregon                                8
+Pennsylvania                         58
+Rhode Island                         13
+South Carolina                       16
+South Dakota                        100
+Tennessee                             9
+Texas                                15
+Utah                                 12
+Vermont                              15
+Virginia                             20
+Washington                           12
+West Virginia                        14
+Wisconsin                            19
+Wyoming                               4

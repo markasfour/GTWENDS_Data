@@ -1,0 +1,53 @@
+                      THE RESIDENT
+geoName                           
+Alabama                         60
+Alaska                          61
+Arizona                         63
+Arkansas                        70
+California                      62
+Colorado                        58
+Connecticut                     65
+Delaware                        69
+District of Columbia            54
+Florida                         76
+Georgia                         62
+Hawaii                          59
+Idaho                           67
+Illinois                        61
+Indiana                         70
+Iowa                            60
+Kansas                          63
+Kentucky                        68
+Louisiana                       62
+Maine                           68
+Maryland                        67
+Massachusetts                   54
+Michigan                        63
+Minnesota                       52
+Mississippi                     74
+Missouri                        59
+Montana                         59
+Nebraska                        62
+Nevada                          75
+New Hampshire                   54
+New Jersey                      58
+New Mexico                      71
+New York                        63
+North Carolina                  60
+North Dakota                    60
+Ohio                            67
+Oklahoma                        65
+Oregon                          45
+Pennsylvania                    66
+Rhode Island                    60
+South Carolina                  62
+South Dakota                    70
+Tennessee                       62
+Texas                           64
+Utah                            57
+Vermont                         54
+Virginia                        54
+Washington                      55
+West Virginia                  100
+Wisconsin                       57
+Wyoming                         85

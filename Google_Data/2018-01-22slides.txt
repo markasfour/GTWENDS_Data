@@ -1,0 +1,53 @@
+                      slides
+geoName                     
+Alabama                   45
+Alaska                    25
+Arizona                   35
+Arkansas                 100
+California                52
+Colorado                  41
+Connecticut               69
+Delaware                  52
+District of Columbia      21
+Florida                   28
+Georgia                   35
+Hawaii                    44
+Idaho                     57
+Illinois                  46
+Indiana                   65
+Iowa                      57
+Kansas                    49
+Kentucky                  34
+Louisiana                 35
+Maine                     48
+Maryland                  49
+Massachusetts             43
+Michigan                  49
+Minnesota                 42
+Mississippi               37
+Missouri                  54
+Montana                   43
+Nebraska                  42
+Nevada                    36
+New Hampshire             47
+New Jersey                69
+New Mexico                28
+New York                  37
+North Carolina            50
+North Dakota              38
+Ohio                      52
+Oklahoma                  33
+Oregon                    34
+Pennsylvania              45
+Rhode Island              75
+South Carolina            60
+South Dakota              39
+Tennessee                 32
+Texas                     40
+Utah                      45
+Vermont                   45
+Virginia                  31
+Washington                34
+West Virginia             21
+Wisconsin                 57
+Wyoming                   53

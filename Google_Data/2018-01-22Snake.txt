@@ -1,0 +1,53 @@
+                      Snake
+geoName                    
+Alabama                  58
+Alaska                   35
+Arizona                  45
+Arkansas                 61
+California               38
+Colorado                 44
+Connecticut              39
+Delaware                 37
+District of Columbia     33
+Florida                  46
+Georgia                  49
+Hawaii                   32
+Idaho                   100
+Illinois                 39
+Indiana                  49
+Iowa                     47
+Kansas                   45
+Kentucky                 48
+Louisiana                56
+Maine                    39
+Maryland                 40
+Massachusetts            34
+Michigan                 39
+Minnesota                37
+Mississippi              57
+Missouri                 51
+Montana                  46
+Nebraska                 52
+Nevada                   40
+New Hampshire            38
+New Jersey               39
+New Mexico               44
+New York                 33
+North Carolina           51
+North Dakota             38
+Ohio                     41
+Oklahoma                 55
+Oregon                   33
+Pennsylvania             42
+Rhode Island             40
+South Carolina           59
+South Dakota             54
+Tennessee                48
+Texas                    46
+Utah                     48
+Vermont                  46
+Virginia                 40
+Washington               37
+West Virginia            53
+Wisconsin                42
+Wyoming                  85

@@ -1,53 +1,53 @@
                       Olivia Munn
 geoName                          
-Alabama                        24
-Alaska                         34
-Arizona                        33
+Alabama                        23
+Alaska                         36
+Arizona                        34
 Arkansas                       22
-California                     39
-Colorado                       36
+California                     38
+Colorado                       35
 Connecticut                    33
-Delaware                       34
-District of Columbia           39
-Florida                        27
-Georgia                        26
+Delaware                       32
+District of Columbia           37
+Florida                        26
+Georgia                        25
 Hawaii                         46
-Idaho                          26
-Illinois                       41
+Idaho                          28
+Illinois                       40
 Indiana                        31
-Iowa                           32
+Iowa                           34
 Kansas                         25
-Kentucky                       28
+Kentucky                       27
 Louisiana                      27
-Maine                          26
+Maine                          29
 Maryland                       33
-Massachusetts                  36
-Michigan                       33
-Minnesota                      40
-Mississippi                    22
-Missouri                       28
-Montana                        30
+Massachusetts                  35
+Michigan                       32
+Minnesota                      38
+Mississippi                    19
+Missouri                       29
+Montana                        31
 Nebraska                       31
-Nevada                         37
-New Hampshire                  30
+Nevada                         34
+New Hampshire                  29
 New Jersey                     38
-New Mexico                     35
-New York                       35
+New Mexico                     33
+New York                       36
 North Carolina                 27
 North Dakota                   37
-Ohio                           31
+Ohio                           30
 Oklahoma                       37
 Oregon                         23
-Pennsylvania                   35
-Rhode Island                   34
-South Carolina                 26
-South Dakota                   37
+Pennsylvania                   34
+Rhode Island                   32
+South Carolina                 25
+South Dakota                   27
 Tennessee                      27
-Texas                          30
-Utah                           29
-Vermont                        30
-Virginia                       29
-Washington                     39
-West Virginia                  28
+Texas                          31
+Utah                           28
+Vermont                        32
+Virginia                       28
+Washington                     38
+West Virginia                  29
 Wisconsin                     100
-Wyoming                        29
+Wyoming                        27

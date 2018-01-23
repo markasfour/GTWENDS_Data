@@ -23,7 +23,7 @@ MA 13
 MI 0
 MN 2
 MS 0
-MO 2
+MO 3
 MT 0
 NE 0
 NV 0
@@ -31,7 +31,7 @@ NH 0
 NJ 15
 NM 2
 NY 3
-NC 9
+NC 11
 ND 0
 OH 1
 OK 3
