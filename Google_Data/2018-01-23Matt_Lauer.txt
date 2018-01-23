@@ -1,53 +1,53 @@
                       Matt Lauer
 geoName                         
-Alabama                       59
-Alaska                        37
-Arizona                       44
-Arkansas                      52
-California                    38
-Colorado                      49
-Connecticut                   84
-Delaware                      69
-District of Columbia          37
-Florida                       52
-Georgia                       48
+Alabama                       52
+Alaska                        41
+Arizona                       42
+Arkansas                      44
+California                    35
+Colorado                      47
+Connecticut                   76
+Delaware                      58
+District of Columbia          34
+Florida                       49
+Georgia                       44
 Hawaii                        27
-Idaho                         59
-Illinois                      54
-Indiana                       62
-Iowa                          70
-Kansas                        39
-Kentucky                      60
-Louisiana                     43
-Maine                         81
-Maryland                      71
-Massachusetts                 70
-Michigan                      54
-Minnesota                     54
-Mississippi                   52
-Missouri                      56
+Idaho                         49
+Illinois                      50
+Indiana                       61
+Iowa                          65
+Kansas                        36
+Kentucky                      54
+Louisiana                     38
+Maine                         83
+Maryland                      67
+Massachusetts                 64
+Michigan                      49
+Minnesota                     49
+Mississippi                   48
+Missouri                      54
 Montana                       45
-Nebraska                      58
-Nevada                        37
+Nebraska                      53
+Nevada                        33
 New Hampshire                 57
-New Jersey                    68
-New Mexico                    47
-New York                      63
-North Carolina                54
-North Dakota                  64
-Ohio                          68
-Oklahoma                      47
-Oregon                        33
-Pennsylvania                  68
+New Jersey                    62
+New Mexico                    43
+New York                      59
+North Carolina                51
+North Dakota                  56
+Ohio                          64
+Oklahoma                      45
+Oregon                        31
+Pennsylvania                  64
 Rhode Island                 100
-South Carolina                67
-South Dakota                  46
-Tennessee                     62
-Texas                         42
-Utah                          43
-Vermont                       59
-Virginia                      56
-Washington                    46
-West Virginia                 74
-Wisconsin                     58
-Wyoming                       38
+South Carolina                65
+South Dakota                  39
+Tennessee                     56
+Texas                         38
+Utah                          44
+Vermont                       62
+Virginia                      51
+Washington                    40
+West Virginia                 69
+Wisconsin                     50
+Wyoming                       30

@@ -1,53 +1,53 @@
                       CBS
 geoName                  
 Alabama                71
-Alaska                 56
-Arizona                65
-Arkansas               58
+Alaska                 59
+Arizona                67
+Arkansas               60
 California             56
-Colorado               72
-Connecticut            78
-Delaware               79
-District of Columbia   69
-Florida                57
-Georgia                56
-Hawaii                 61
-Idaho                  69
-Illinois               65
+Colorado               73
+Connecticut            83
+Delaware               78
+District of Columbia   68
+Florida                59
+Georgia                57
+Hawaii                 60
+Idaho                  70
+Illinois               67
 Indiana                68
-Iowa                   83
-Kansas                 69
-Kentucky               75
-Louisiana              55
-Maine                  89
-Maryland               72
-Massachusetts          76
-Michigan               62
-Minnesota              78
-Mississippi            53
-Missouri               67
-Montana                83
-Nebraska               93
+Iowa                   87
+Kansas                 71
+Kentucky               77
+Louisiana              56
+Maine                  88
+Maryland               73
+Massachusetts          75
+Michigan               66
+Minnesota              81
+Mississippi            56
+Missouri               68
+Montana                86
+Nebraska               96
 Nevada                 67
-New Hampshire          73
-New Jersey             76
-New Mexico             68
-New York               73
-North Carolina         69
-North Dakota           75
-Ohio                   76
-Oklahoma               57
+New Hampshire          74
+New Jersey             77
+New Mexico             70
+New York               76
+North Carolina         70
+North Dakota           78
+Ohio                   75
+Oklahoma               59
 Oregon                 49
-Pennsylvania           80
-Rhode Island           75
+Pennsylvania           84
+Rhode Island           77
 South Carolina         64
-South Dakota           94
+South Dakota           98
 Tennessee              67
-Texas                  51
-Utah                   51
+Texas                  53
+Utah                   53
 Vermont               100
-Virginia               60
-Washington             56
-West Virginia          61
-Wisconsin              88
-Wyoming                83
+Virginia               64
+Washington             57
+West Virginia          62
+Wisconsin              91
+Wyoming                81

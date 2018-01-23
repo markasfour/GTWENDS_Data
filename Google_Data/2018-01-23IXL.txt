@@ -1,53 +1,53 @@
                       IXL
 geoName                  
-Alabama                61
-Alaska                 34
+Alabama                60
+Alaska                 33
 Arizona                22
-Arkansas               54
-California             19
+Arkansas               56
+California             18
 Colorado               28
-Connecticut            35
-Delaware               38
+Connecticut            34
+Delaware               36
 District of Columbia    9
 Florida                27
 Georgia                36
 Hawaii                 90
-Idaho                  17
+Idaho                  16
 Illinois               40
-Indiana                58
-Iowa                   47
-Kansas                 27
-Kentucky               43
-Louisiana              34
+Indiana                55
+Iowa                   46
+Kansas                 26
+Kentucky               46
+Louisiana              33
 Maine                 100
-Maryland               22
-Massachusetts          24
-Michigan               33
-Minnesota              55
-Mississippi            31
-Missouri               26
-Montana                41
+Maryland               21
+Massachusetts          23
+Michigan               32
+Minnesota              54
+Mississippi            30
+Missouri               25
+Montana                40
 Nebraska               53
 Nevada                 22
-New Hampshire          31
-New Jersey             35
+New Hampshire          30
+New Jersey             34
 New Mexico             34
-New York               21
-North Carolina         41
-North Dakota           36
-Ohio                   26
-Oklahoma               23
+New York               20
+North Carolina         40
+North Dakota           37
+Ohio                   25
+Oklahoma               24
 Oregon                 36
 Pennsylvania           17
-Rhode Island           87
+Rhode Island           85
 South Carolina         36
-South Dakota           43
-Tennessee              51
+South Dakota           44
+Tennessee              49
 Texas                  17
-Utah                   23
-Vermont                39
-Virginia               43
-Washington             37
-West Virginia          36
-Wisconsin              33
-Wyoming                86
+Utah                   22
+Vermont                36
+Virginia               41
+Washington             38
+West Virginia          35
+Wisconsin              32
+Wyoming                84

@@ -1,53 +1,53 @@
                       Snake
 geoName                    
-Alabama                  56
-Alaska                   36
-Arizona                  45
-Arkansas                 57
-California               36
-Colorado                 44
+Alabama                  54
+Alaska                   33
+Arizona                  42
+Arkansas                 58
+California               38
+Colorado                 43
 Connecticut              38
-Delaware                 37
-District of Columbia     33
-Florida                  45
-Georgia                  49
-Hawaii                   33
+Delaware                 36
+District of Columbia     32
+Florida                  44
+Georgia                  46
+Hawaii                   32
 Idaho                   100
-Illinois                 40
-Indiana                  50
-Iowa                     49
-Kansas                   47
-Kentucky                 49
-Louisiana                52
-Maine                    39
-Maryland                 39
-Massachusetts            33
-Michigan                 39
-Minnesota                37
-Mississippi              59
-Missouri                 50
-Montana                  44
-Nebraska                 48
+Illinois                 39
+Indiana                  47
+Iowa                     47
+Kansas                   43
+Kentucky                 46
+Louisiana                53
+Maine                    38
+Maryland                 38
+Massachusetts            34
+Michigan                 37
+Minnesota                36
+Mississippi              55
+Missouri                 49
+Montana                  45
+Nebraska                 49
 Nevada                   38
-New Hampshire            37
-New Jersey               38
+New Hampshire            36
+New Jersey               37
 New Mexico               43
-New York                 31
-North Carolina           52
-North Dakota             41
-Ohio                     41
-Oklahoma                 54
-Oregon                   32
-Pennsylvania             41
-Rhode Island             41
-South Carolina           56
-South Dakota             52
-Tennessee                48
-Texas                    47
-Utah                     47
-Vermont                  45
-Virginia                 39
-Washington               37
-West Virginia            58
-Wisconsin                42
-Wyoming                  85
+New York                 30
+North Carolina           48
+North Dakota             38
+Ohio                     40
+Oklahoma                 53
+Oregon                   31
+Pennsylvania             40
+Rhode Island             39
+South Carolina           57
+South Dakota             48
+Tennessee                47
+Texas                    45
+Utah                     46
+Vermont                  44
+Virginia                 37
+Washington               36
+West Virginia            53
+Wisconsin                41
+Wyoming                  84

@@ -1,0 +1,53 @@
+                      Tsunami
+geoName                      
+Alabama                    15
+Alaska                     44
+Arizona                    18
+Arkansas                   15
+California                 24
+Colorado                   18
+Connecticut                19
+Delaware                   19
+District of Columbia       16
+Florida                    20
+Georgia                    21
+Hawaii                    100
+Idaho                      20
+Illinois                   15
+Indiana                    16
+Iowa                       16
+Kansas                     17
+Kentucky                   15
+Louisiana                  27
+Maine                      21
+Maryland                   18
+Massachusetts              16
+Michigan                   15
+Minnesota                  14
+Mississippi                15
+Missouri                   14
+Montana                    16
+Nebraska                   13
+Nevada                     19
+New Hampshire              17
+New Jersey                 19
+New Mexico                 15
+New York                   16
+North Carolina             19
+North Dakota               13
+Ohio                       14
+Oklahoma                   15
+Oregon                     30
+Pennsylvania               15
+Rhode Island               19
+South Carolina             32
+South Dakota               16
+Tennessee                  14
+Texas                      17
+Utah                       39
+Vermont                    18
+Virginia                   16
+Washington                 26
+West Virginia              16
+Wisconsin                  15
+Wyoming                    17

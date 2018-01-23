@@ -1,53 +1,53 @@
                       Fox Sports
 geoName                         
-Alabama                       58
-Alaska                        54
-Arizona                       82
+Alabama                       59
+Alaska                        55
+Arizona                       81
 Arkansas                      56
 California                    57
-Colorado                      61
-Connecticut                   51
+Colorado                      63
+Connecticut                   54
 Delaware                      55
-District of Columbia          51
-Florida                       52
-Georgia                       57
+District of Columbia          52
+Florida                       55
+Georgia                       58
 Hawaii                        54
 Idaho                         78
-Illinois                      54
+Illinois                      56
 Indiana                       68
-Iowa                          91
-Kansas                        82
-Kentucky                      67
-Louisiana                     54
-Maine                         69
-Maryland                      47
-Massachusetts                 47
-Michigan                      74
-Minnesota                     87
-Mississippi                   52
-Missouri                      92
+Iowa                          94
+Kansas                        84
+Kentucky                      66
+Louisiana                     53
+Maine                         66
+Maryland                      48
+Massachusetts                 48
+Michigan                      78
+Minnesota                     90
+Mississippi                   54
+Missouri                      93
 Montana                       77
-Nebraska                      89
+Nebraska                      86
 Nevada                        68
 New Hampshire                 58
 New Jersey                    50
-New Mexico                    61
+New Mexico                    62
 New York                      47
-North Carolina                66
-North Dakota                  93
-Ohio                          83
+North Carolina                67
+North Dakota                 100
+Ohio                          85
 Oklahoma                      86
-Oregon                        54
-Pennsylvania                  54
-Rhode Island                  56
-South Carolina                64
-South Dakota                  88
-Tennessee                     61
-Texas                         63
-Utah                          67
-Vermont                       66
-Virginia                      48
-Washington                    69
-West Virginia                 76
-Wisconsin                    100
-Wyoming                       69
+Oregon                        52
+Pennsylvania                  56
+Rhode Island                  57
+South Carolina                62
+South Dakota                  84
+Tennessee                     63
+Texas                         65
+Utah                          70
+Vermont                       65
+Virginia                      49
+Washington                    71
+West Virginia                 75
+Wisconsin                     97
+Wyoming                       77

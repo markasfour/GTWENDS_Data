@@ -1,53 +1,53 @@
                       Matt Patricia
 geoName                            
 Alabama                          10
-Alaska                           10
-Arizona                          18
-Arkansas                         14
-California                       12
-Colorado                         13
-Connecticut                      44
-Delaware                         22
-District of Columbia             13
-Florida                          15
-Georgia                          12
+Alaska                           14
+Arizona                          17
+Arkansas                         10
+California                       11
+Colorado                         15
+Connecticut                      38
+Delaware                         13
+District of Columbia             16
+Florida                          14
+Georgia                          10
 Hawaii                           10
 Idaho                            10
-Illinois                         14
-Indiana                          17
+Illinois                         12
+Indiana                          13
 Iowa                             12
-Kansas                            9
-Kentucky                          7
-Louisiana                        13
-Maine                            46
-Maryland                         17
-Massachusetts                    95
-Michigan                         66
-Minnesota                        12
-Mississippi                       7
-Missouri                         10
-Montana                          17
-Nebraska                         15
-Nevada                           11
-New Hampshire                    90
-New Jersey                       25
-New Mexico                        6
-New York                         23
+Kansas                            6
+Kentucky                          9
+Louisiana                        12
+Maine                            51
+Maryland                         15
+Massachusetts                    93
+Michigan                         59
+Minnesota                        10
+Mississippi                       9
+Missouri                          9
+Montana                          13
+Nebraska                         14
+Nevada                            9
+New Hampshire                   100
+New Jersey                       22
+New Mexico                        4
+New York                         20
 North Carolina                   13
-North Dakota                     19
-Ohio                             21
+North Dakota                     18
+Ohio                             20
 Oklahoma                          7
-Oregon                            7
-Pennsylvania                     15
-Rhode Island                    100
-South Carolina                   11
-South Dakota                     17
-Tennessee                        13
-Texas                            12
-Utah                             11
-Vermont                          35
-Virginia                         14
-Washington                       12
-West Virginia                    14
-Wisconsin                        14
-Wyoming                           9
+Oregon                            5
+Pennsylvania                     17
+Rhode Island                     99
+South Carolina                   10
+South Dakota                     11
+Tennessee                        11
+Texas                            10
+Utah                             10
+Vermont                          30
+Virginia                         13
+Washington                       10
+West Virginia                    16
+Wisconsin                        13
+Wyoming                           8

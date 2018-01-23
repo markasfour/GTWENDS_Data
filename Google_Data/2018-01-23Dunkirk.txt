@@ -1,0 +1,53 @@
+                      Dunkirk
+geoName                      
+Alabama                    26
+Alaska                     28
+Arizona                    31
+Arkansas                   23
+California                 31
+Colorado                   33
+Connecticut                34
+Delaware                   31
+District of Columbia       59
+Florida                    24
+Georgia                    23
+Hawaii                     20
+Idaho                      32
+Illinois                   30
+Indiana                    42
+Iowa                       27
+Kansas                     25
+Kentucky                   26
+Louisiana                  22
+Maine                      31
+Maryland                  100
+Massachusetts              37
+Michigan                   28
+Minnesota                  32
+Mississippi                19
+Missouri                   26
+Montana                    29
+Nebraska                   27
+Nevada                     23
+New Hampshire              29
+New Jersey                 28
+New Mexico                 25
+New York                   66
+North Carolina             28
+North Dakota               23
+Ohio                       32
+Oklahoma                   21
+Oregon                     23
+Pennsylvania               32
+Rhode Island               31
+South Carolina             27
+South Dakota               22
+Tennessee                  26
+Texas                      26
+Utah                       38
+Vermont                    28
+Virginia                   30
+Washington                 29
+West Virginia              22
+Wisconsin                  26
+Wyoming                    25

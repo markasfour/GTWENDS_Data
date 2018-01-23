@@ -1,53 +1,53 @@
                       Jason Kidd
 geoName                         
-Alabama                       32
-Alaska                        27
-Arizona                       45
-Arkansas                      31
-California                    54
-Colorado                      33
-Connecticut                   54
-Delaware                      42
-District of Columbia          55
-Florida                       43
-Georgia                       45
-Hawaii                        42
-Idaho                         27
-Illinois                      60
-Indiana                       45
+Alabama                       36
+Alaska                        26
+Arizona                       48
+Arkansas                      33
+California                    55
+Colorado                      29
+Connecticut                   52
+Delaware                      45
+District of Columbia          58
+Florida                       46
+Georgia                       48
+Hawaii                        37
+Idaho                         28
+Illinois                      57
+Indiana                       48
 Iowa                          35
-Kansas                        32
+Kansas                        34
 Kentucky                      44
-Louisiana                     47
-Maine                         31
-Maryland                      53
-Massachusetts                 51
-Michigan                      46
-Minnesota                     38
-Mississippi                   46
-Missouri                      36
-Montana                       25
-Nebraska                      37
-Nevada                        38
+Louisiana                     46
+Maine                         28
+Maryland                      55
+Massachusetts                 53
+Michigan                      44
+Minnesota                     40
+Mississippi                   41
+Missouri                      35
+Montana                       24
+Nebraska                      35
+Nevada                        44
 New Hampshire                 32
-New Jersey                    85
-New Mexico                    31
-New York                      90
-North Carolina                45
+New Jersey                    83
+New Mexico                    28
+New York                      87
+North Carolina                44
 North Dakota                  33
-Ohio                          45
+Ohio                          46
 Oklahoma                      47
-Oregon                        33
-Pennsylvania                  43
-Rhode Island                  35
-South Carolina                39
-South Dakota                  23
-Tennessee                     36
-Texas                         52
-Utah                          34
-Vermont                       34
-Virginia                      42
-Washington                    35
-West Virginia                 32
+Oregon                        31
+Pennsylvania                  47
+Rhode Island                  42
+South Carolina                37
+South Dakota                  28
+Tennessee                     39
+Texas                         53
+Utah                          31
+Vermont                       32
+Virginia                      45
+Washington                    34
+West Virginia                 28
 Wisconsin                    100
-Wyoming                       32
+Wyoming                       31

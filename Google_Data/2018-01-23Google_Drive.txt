@@ -1,53 +1,53 @@
                       Google Drive
 geoName                           
-Alabama                         36
+Alabama                         37
 Alaska                          36
 Arizona                         39
-Arkansas                        55
+Arkansas                        53
 California                      61
-Colorado                        64
+Colorado                        63
 Connecticut                     86
-Delaware                        46
-District of Columbia            29
+Delaware                        45
+District of Columbia            30
 Florida                         29
 Georgia                         31
 Hawaii                          61
-Idaho                           65
-Illinois                        59
-Indiana                         68
-Iowa                            80
-Kansas                          44
-Kentucky                        36
+Idaho                           64
+Illinois                        60
+Indiana                         64
+Iowa                            83
+Kansas                          45
+Kentucky                        37
 Louisiana                       29
-Maine                           83
-Maryland                        49
+Maine                           81
+Maryland                        48
 Massachusetts                   71
-Michigan                        51
+Michigan                        49
 Minnesota                       56
 Mississippi                     26
 Missouri                        64
-Montana                         54
+Montana                         55
 Nebraska                        50
 Nevada                          40
-New Hampshire                   80
-New Jersey                      75
-New Mexico                      31
-New York                        43
+New Hampshire                   83
+New Jersey                      74
+New Mexico                      30
+New York                        44
 North Carolina                  58
 North Dakota                    43
-Ohio                            57
-Oklahoma                        26
-Oregon                          44
-Pennsylvania                    52
-Rhode Island                    59
-South Carolina                  47
-South Dakota                    71
+Ohio                            56
+Oklahoma                        27
+Oregon                          43
+Pennsylvania                    51
+Rhode Island                    58
+South Carolina                  49
+South Dakota                    68
 Tennessee                       27
 Texas                           37
-Utah                            62
+Utah                            60
 Vermont                        100
-Virginia                        46
-Washington                      43
+Virginia                        45
+Washington                      42
 West Virginia                   21
-Wisconsin                       88
+Wisconsin                       87
 Wyoming                         76

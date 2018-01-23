@@ -1,53 +1,53 @@
                       Jane Fonda
 geoName                         
-Alabama                       70
-Alaska                        78
-Arizona                       81
+Alabama                       71
+Alaska                        81
+Arizona                       83
 Arkansas                      73
-California                    80
-Colorado                      89
-Connecticut                   83
-Delaware                      76
-District of Columbia          84
-Florida                       76
-Georgia                       72
-Hawaii                        68
-Idaho                         84
-Illinois                      73
-Indiana                       76
-Iowa                          76
-Kansas                        72
-Kentucky                      77
-Louisiana                     73
-Maine                        100
-Maryland                      73
-Massachusetts                 82
-Michigan                      81
-Minnesota                     81
-Mississippi                   61
-Missouri                      81
-Montana                       88
-Nebraska                      81
-Nevada                        77
-New Hampshire                 90
-New Jersey                    83
+California                    75
+Colorado                      86
+Connecticut                   84
+Delaware                      70
+District of Columbia          78
+Florida                       74
+Georgia                       67
+Hawaii                        72
+Idaho                         76
+Illinois                      74
+Indiana                       69
+Iowa                          77
+Kansas                        67
+Kentucky                      78
+Louisiana                     72
+Maine                         94
+Maryland                      72
+Massachusetts                 77
+Michigan                      80
+Minnesota                     78
+Mississippi                   57
+Missouri                      80
+Montana                       92
+Nebraska                      73
+Nevada                        76
+New Hampshire                 85
+New Jersey                    79
 New Mexico                    99
-New York                      83
-North Carolina                73
-North Dakota                  86
-Ohio                          77
-Oklahoma                      89
-Oregon                        69
-Pennsylvania                  79
-Rhode Island                  96
-South Carolina                73
-South Dakota                  74
-Tennessee                     74
-Texas                         66
-Utah                          84
-Vermont                       99
+New York                      78
+North Carolina                69
+North Dakota                  92
+Ohio                          72
+Oklahoma                      85
+Oregon                        70
+Pennsylvania                  78
+Rhode Island                  93
+South Carolina                66
+South Dakota                  64
+Tennessee                     73
+Texas                         63
+Utah                          79
+Vermont                      100
 Virginia                      59
-Washington                    87
-West Virginia                 77
-Wisconsin                     77
-Wyoming                       67
+Washington                    83
+West Virginia                 71
+Wisconsin                     69
+Wyoming                       70
