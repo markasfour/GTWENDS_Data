@@ -1,0 +1,53 @@
+                      Bank of America
+geoName                              
+Alabama                            19
+Alaska                             70
+Arizona                            78
+Arkansas                           39
+California                         82
+Colorado                           21
+Connecticut                        88
+Delaware                           46
+District of Columbia               67
+Florida                            97
+Georgia                            71
+Hawaii                             27
+Idaho                              23
+Illinois                           42
+Indiana                            14
+Iowa                               18
+Kansas                             43
+Kentucky                           17
+Louisiana                          19
+Maine                              44
+Maryland                           94
+Massachusetts                     100
+Michigan                           37
+Minnesota                          16
+Mississippi                        19
+Missouri                           54
+Montana                            18
+Nebraska                           14
+Nevada                             90
+New Hampshire                      59
+New Jersey                         82
+New Mexico                         64
+New York                           53
+North Carolina                     67
+North Dakota                       12
+Ohio                               14
+Oklahoma                           39
+Oregon                             39
+Pennsylvania                       32
+Rhode Island                       97
+South Carolina                     73
+South Dakota                       11
+Tennessee                          48
+Texas                              61
+Utah                               15
+Vermont                            25
+Virginia                           55
+Washington                         75
+West Virginia                      15
+Wisconsin                          14
+Wyoming                            17

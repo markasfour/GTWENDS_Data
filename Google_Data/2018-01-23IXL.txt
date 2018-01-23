@@ -1,0 +1,53 @@
+                      IXL
+geoName                  
+Alabama                61
+Alaska                 34
+Arizona                22
+Arkansas               54
+California             19
+Colorado               28
+Connecticut            35
+Delaware               38
+District of Columbia    9
+Florida                27
+Georgia                36
+Hawaii                 90
+Idaho                  17
+Illinois               40
+Indiana                58
+Iowa                   47
+Kansas                 27
+Kentucky               43
+Louisiana              34
+Maine                 100
+Maryland               22
+Massachusetts          24
+Michigan               33
+Minnesota              55
+Mississippi            31
+Missouri               26
+Montana                41
+Nebraska               53
+Nevada                 22
+New Hampshire          31
+New Jersey             35
+New Mexico             34
+New York               21
+North Carolina         41
+North Dakota           36
+Ohio                   26
+Oklahoma               23
+Oregon                 36
+Pennsylvania           17
+Rhode Island           87
+South Carolina         36
+South Dakota           43
+Tennessee              51
+Texas                  17
+Utah                   23
+Vermont                39
+Virginia               43
+Washington             37
+West Virginia          36
+Wisconsin              33
+Wyoming                86

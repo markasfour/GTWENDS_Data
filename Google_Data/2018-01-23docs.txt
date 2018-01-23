@@ -1,0 +1,53 @@
+                      docs
+geoName                   
+Alabama                 30
+Alaska                 100
+Arizona                 37
+Arkansas                68
+California              60
+Colorado                61
+Connecticut             82
+Delaware                44
+District of Columbia    20
+Florida                 20
+Georgia                 25
+Hawaii                  48
+Idaho                   61
+Illinois                46
+Indiana                 62
+Iowa                    67
+Kansas                  44
+Kentucky                27
+Louisiana               22
+Maine                   97
+Maryland                44
+Massachusetts           62
+Michigan                52
+Minnesota               54
+Mississippi             23
+Missouri                48
+Montana                 62
+Nebraska                50
+Nevada                  34
+New Hampshire           71
+New Jersey              73
+New Mexico              28
+New York                40
+North Carolina          45
+North Dakota            52
+Ohio                    53
+Oklahoma                25
+Oregon                  60
+Pennsylvania            50
+Rhode Island            72
+South Carolina          41
+South Dakota            37
+Tennessee               25
+Texas                   29
+Utah                    60
+Vermont                 85
+Virginia                32
+Washington              44
+West Virginia           16
+Wisconsin               67
+Wyoming                 62

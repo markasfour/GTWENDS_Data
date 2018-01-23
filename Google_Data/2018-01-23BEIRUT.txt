@@ -1,0 +1,53 @@
+                      BEIRUT
+geoName                     
+Alabama                   20
+Alaska                    28
+Arizona                   28
+Arkansas                  20
+California                45
+Colorado                  35
+Connecticut               43
+Delaware                  28
+District of Columbia     100
+Florida                   35
+Georgia                   35
+Hawaii                    24
+Idaho                     18
+Illinois                  35
+Indiana                   24
+Iowa                      22
+Kansas                    28
+Kentucky                  22
+Louisiana                 23
+Maine                     36
+Maryland                  42
+Massachusetts             74
+Michigan                  84
+Minnesota                 40
+Mississippi               14
+Missouri                  22
+Montana                   26
+Nebraska                  21
+Nevada                    26
+New Hampshire             46
+New Jersey                49
+New Mexico                34
+New York                  62
+North Carolina            30
+North Dakota              19
+Ohio                      42
+Oklahoma                  23
+Oregon                    42
+Pennsylvania              35
+Rhode Island              43
+South Carolina            21
+South Dakota              24
+Tennessee                 20
+Texas                     32
+Utah                      28
+Vermont                   57
+Virginia                  41
+Washington                35
+West Virginia             22
+Wisconsin                 24
+Wyoming                   17

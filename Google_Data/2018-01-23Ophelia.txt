@@ -1,0 +1,53 @@
+                      Ophelia
+geoName                      
+Alabama                    69
+Alaska                     73
+Arizona                    60
+Arkansas                   61
+California                 69
+Colorado                   94
+Connecticut                80
+Delaware                   64
+District of Columbia       60
+Florida                    65
+Georgia                    60
+Hawaii                     52
+Idaho                      93
+Illinois                   61
+Indiana                    71
+Iowa                       57
+Kansas                     58
+Kentucky                   57
+Louisiana                  69
+Maine                      76
+Maryland                   68
+Massachusetts              81
+Michigan                   62
+Minnesota                  56
+Mississippi                59
+Missouri                   62
+Montana                    70
+Nebraska                   63
+Nevada                     63
+New Hampshire              74
+New Jersey                 74
+New Mexico                 65
+New York                   69
+North Carolina             63
+North Dakota               55
+Ohio                       61
+Oklahoma                   59
+Oregon                     57
+Pennsylvania               69
+Rhode Island               98
+South Carolina             66
+South Dakota               53
+Tennessee                  67
+Texas                      56
+Utah                       78
+Vermont                   100
+Virginia                   55
+Washington                 66
+West Virginia              55
+Wisconsin                  63
+Wyoming                    65

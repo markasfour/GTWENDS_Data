@@ -1,0 +1,53 @@
+                      Dimitrov
+geoName                       
+Alabama                     38
+Alaska                      41
+Arizona                     47
+Arkansas                    35
+California                  79
+Colorado                    49
+Connecticut                 86
+Delaware                    61
+District of Columbia        89
+Florida                     80
+Georgia                     59
+Hawaii                      68
+Idaho                       32
+Illinois                    76
+Indiana                     33
+Iowa                        34
+Kansas                      44
+Kentucky                    36
+Louisiana                   44
+Maine                       43
+Maryland                    94
+Massachusetts               93
+Michigan                    49
+Minnesota                   39
+Mississippi                 43
+Missouri                    41
+Montana                     32
+Nebraska                    33
+Nevada                      82
+New Hampshire               34
+New Jersey                  96
+New Mexico                  41
+New York                   100
+North Carolina              46
+North Dakota                25
+Ohio                        46
+Oklahoma                    26
+Oregon                      57
+Pennsylvania                60
+Rhode Island                72
+South Carolina              53
+South Dakota                25
+Tennessee                   38
+Texas                       47
+Utah                        50
+Vermont                     74
+Virginia                    68
+Washington                  68
+West Virginia               43
+Wisconsin                   37
+Wyoming                     25
