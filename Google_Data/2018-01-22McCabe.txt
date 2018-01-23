@@ -1,0 +1,53 @@
+                      McCabe
+geoName                     
+Alabama                   28
+Alaska                    34
+Arizona                   42
+Arkansas                  36
+California                41
+Colorado                  39
+Connecticut               73
+Delaware                  71
+District of Columbia      90
+Florida                   38
+Georgia                   28
+Hawaii                    79
+Idaho                     35
+Illinois                  49
+Indiana                   38
+Iowa                      92
+Kansas                    30
+Kentucky                  33
+Louisiana                 39
+Maine                     71
+Maryland                  66
+Massachusetts             83
+Michigan                  49
+Minnesota                 67
+Mississippi               42
+Missouri                  35
+Montana                   34
+Nebraska                  38
+Nevada                    56
+New Hampshire             69
+New Jersey                67
+New Mexico                40
+New York                  69
+North Carolina            40
+North Dakota              99
+Ohio                      65
+Oklahoma                  36
+Oregon                    40
+Pennsylvania              78
+Rhode Island              96
+South Carolina            38
+South Dakota              43
+Tennessee                 92
+Texas                     27
+Utah                      27
+Vermont                   71
+Virginia                  48
+Washington                48
+West Virginia             64
+Wisconsin                100
+Wyoming                   22

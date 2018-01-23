@@ -1,0 +1,51 @@
+                      Livewire
+geoName                       
+Alabama                     17
+Alaska                      18
+Arizona                     98
+Arkansas                    12
+California                  18
+Colorado                    18
+Connecticut                 13
+Delaware                    15
+District of Columbia        24
+Florida                     16
+Georgia                     16
+Hawaii                      21
+Idaho                       21
+Illinois                    21
+Indiana                     17
+Iowa                        18
+Kansas                      19
+Kentucky                    17
+Louisiana                  100
+Maine                       10
+Maryland                    30
+Massachusetts               12
+Michigan                    15
+Minnesota                   22
+Mississippi                 18
+Missouri                    19
+Montana                     27
+Nebraska                    16
+Nevada                      17
+New Hampshire               18
+New Jersey                  12
+New Mexico                  17
+New York                    15
+North Carolina              17
+North Dakota                33
+Ohio                        13
+Oklahoma                    22
+Oregon                      20
+Pennsylvania                16
+Rhode Island                12
+South Carolina              16
+South Dakota                15
+Tennessee                   16
+Texas                       16
+Utah                        20
+Virginia                    17
+Washington                  19
+West Virginia               20
+Wisconsin                   20

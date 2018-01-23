@@ -1,0 +1,53 @@
+                      Whiteside
+geoName                        
+Alabama                      34
+Alaska                       19
+Arizona                      24
+Arkansas                     32
+California                   31
+Colorado                     21
+Connecticut                  30
+Delaware                     29
+District of Columbia         40
+Florida                      73
+Georgia                      36
+Hawaii                       24
+Idaho                        34
+Illinois                    100
+Indiana                      29
+Iowa                         79
+Kansas                       32
+Kentucky                     33
+Louisiana                    26
+Maine                        27
+Maryland                     27
+Massachusetts                31
+Michigan                     24
+Minnesota                    27
+Mississippi                  32
+Missouri                     61
+Montana                      17
+Nebraska                     30
+Nevada                       23
+New Hampshire                21
+New Jersey                   29
+New Mexico                   26
+New York                     32
+North Carolina               50
+North Dakota                 14
+Ohio                         44
+Oklahoma                     53
+Oregon                       35
+Pennsylvania                 31
+Rhode Island                 28
+South Carolina               57
+South Dakota                 26
+Tennessee                    43
+Texas                        30
+Utah                         23
+Vermont                      16
+Virginia                     25
+Washington                   28
+West Virginia                62
+Wisconsin                    58
+Wyoming                      15

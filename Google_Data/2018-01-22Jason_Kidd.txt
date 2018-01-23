@@ -1,0 +1,53 @@
+                      Jason Kidd
+geoName                         
+Alabama                       39
+Alaska                        42
+Arizona                       47
+Arkansas                      40
+California                    56
+Colorado                      29
+Connecticut                   59
+Delaware                      52
+District of Columbia          64
+Florida                       49
+Georgia                       51
+Hawaii                        44
+Idaho                         20
+Illinois                      57
+Indiana                       47
+Iowa                          34
+Kansas                        33
+Kentucky                      45
+Louisiana                     47
+Maine                         27
+Maryland                      61
+Massachusetts                 54
+Michigan                      44
+Minnesota                     38
+Mississippi                   53
+Missouri                      40
+Montana                       31
+Nebraska                      35
+Nevada                        42
+New Hampshire                 31
+New Jersey                    88
+New Mexico                    21
+New York                      90
+North Carolina                42
+North Dakota                  28
+Ohio                          47
+Oklahoma                      52
+Oregon                        31
+Pennsylvania                  43
+Rhode Island                  40
+South Carolina                33
+South Dakota                  22
+Tennessee                     41
+Texas                         54
+Utah                          38
+Vermont                       31
+Virginia                      41
+Washington                    38
+West Virginia                 27
+Wisconsin                    100
+Wyoming                       30
