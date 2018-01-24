@@ -1,0 +1,53 @@
+                      Tony Parker
+geoName                          
+Alabama                        33
+Alaska                         26
+Arizona                        36
+Arkansas                       37
+California                     47
+Colorado                       32
+Connecticut                    33
+Delaware                       35
+District of Columbia           49
+Florida                        48
+Georgia                        47
+Hawaii                         41
+Idaho                          25
+Illinois                       46
+Indiana                        33
+Iowa                           26
+Kansas                         30
+Kentucky                       32
+Louisiana                      46
+Maine                          20
+Maryland                       48
+Massachusetts                  37
+Michigan                       36
+Minnesota                      32
+Mississippi                    42
+Missouri                       34
+Montana                        21
+Nebraska                       31
+Nevada                         41
+New Hampshire                  22
+New Jersey                     43
+New Mexico                     32
+New York                       48
+North Carolina                 36
+North Dakota                   36
+Ohio                           39
+Oklahoma                       56
+Oregon                         28
+Pennsylvania                   35
+Rhode Island                   32
+South Carolina                 33
+South Dakota                   32
+Tennessee                      36
+Texas                         100
+Utah                           34
+Vermont                        17
+Virginia                       32
+Washington                     32
+West Virginia                  23
+Wisconsin                      30
+Wyoming                        22

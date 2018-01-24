@@ -1,53 +1,53 @@
                       Davos
 geoName                    
-Alabama                  23
-Alaska                   45
-Arizona                  32
-Arkansas                 27
-California               50
-Colorado                 42
-Connecticut              54
-Delaware                 46
+Alabama                  27
+Alaska                   39
+Arizona                  31
+Arkansas                 23
+California               47
+Colorado                 38
+Connecticut              48
+Delaware                 36
 District of Columbia    100
-Florida                  33
-Georgia                  28
-Hawaii                   36
-Idaho                    28
-Illinois                 42
-Indiana                  30
-Iowa                     29
-Kansas                   34
-Kentucky                 49
-Louisiana                24
-Maine                    43
-Maryland                 50
-Massachusetts            66
-Michigan                 31
-Minnesota                36
+Florida                  31
+Georgia                  30
+Hawaii                   33
+Idaho                    22
+Illinois                 36
+Indiana                  29
+Iowa                     24
+Kansas                   25
+Kentucky                 45
+Louisiana                25
+Maine                    37
+Maryland                 49
+Massachusetts            58
+Michigan                 32
+Minnesota                31
 Mississippi              17
-Missouri                 30
-Montana                  38
+Missouri                 27
+Montana                  42
 Nebraska                 23
-Nevada                   31
-New Hampshire            52
-New Jersey               53
-New Mexico               27
-New York                 72
-North Carolina           29
-North Dakota             28
+Nevada                   27
+New Hampshire            41
+New Jersey               51
+New Mexico               28
+New York                 71
+North Carolina           28
+North Dakota             25
 Ohio                     29
-Oklahoma                 26
-Oregon                   36
-Pennsylvania             42
-Rhode Island             41
-South Carolina           28
-South Dakota             32
-Tennessee                31
-Texas                    30
-Utah                     24
-Vermont                  61
-Virginia                 42
-Washington               40
-West Virginia            20
-Wisconsin                30
-Wyoming                  32
+Oklahoma                 28
+Oregon                   30
+Pennsylvania             40
+Rhode Island             37
+South Carolina           25
+South Dakota             22
+Tennessee                26
+Texas                    29
+Utah                     40
+Vermont                  62
+Virginia                 40
+Washington               37
+West Virginia            28
+Wisconsin                31
+Wyoming                  29

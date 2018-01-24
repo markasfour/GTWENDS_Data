@@ -1,53 +1,53 @@
                       DJI
 geoName                  
-Alabama                51
-Alaska                 94
+Alabama                49
+Alaska                 96
 Arizona                52
-Arkansas               49
-California             60
+Arkansas               48
+California             63
 Colorado               59
 Connecticut            47
-Delaware               56
+Delaware               48
 District of Columbia   36
 Florida                55
-Georgia                40
+Georgia                42
 Hawaii                100
-Idaho                  64
+Idaho                  61
 Illinois               39
-Indiana                42
+Indiana                43
 Iowa                   51
-Kansas                 40
-Kentucky               41
-Louisiana              41
-Maine                  51
+Kansas                 38
+Kentucky               40
+Louisiana              42
+Maine                  55
 Maryland               44
-Massachusetts          39
-Michigan               47
-Minnesota              47
+Massachusetts          40
+Michigan               46
+Minnesota              46
 Mississippi            35
-Missouri               39
-Montana                61
-Nebraska               47
-Nevada                 60
-New Hampshire          57
-New Jersey             46
-New Mexico             55
-New York               43
-North Carolina         43
-North Dakota           55
-Ohio                   40
-Oklahoma               45
-Oregon                 48
+Missouri               41
+Montana                68
+Nebraska               49
+Nevada                 58
+New Hampshire          53
+New Jersey             44
+New Mexico             48
+New York               42
+North Carolina         42
+North Dakota           57
+Ohio                   41
+Oklahoma               46
+Oregon                 49
 Pennsylvania           41
-Rhode Island           45
-South Carolina         40
-South Dakota           53
+Rhode Island           46
+South Carolina         42
+South Dakota           54
 Tennessee              43
-Texas                  43
-Utah                   77
+Texas                  45
+Utah                   80
 Vermont                59
-Virginia               36
-Washington             58
+Virginia               38
+Washington             56
 West Virginia          45
-Wisconsin              44
-Wyoming                64
+Wisconsin              46
+Wyoming                65

@@ -1,53 +1,53 @@
                       Rosie the Riveter
 geoName                                
-Alabama                              63
-Alaska                               66
-Arizona                              59
-Arkansas                             99
-California                           75
-Colorado                             67
-Connecticut                          72
-Delaware                             72
-District of Columbia                 79
-Florida                              45
-Georgia                              63
-Hawaii                               50
-Idaho                                81
-Illinois                             62
-Indiana                              79
-Iowa                                 66
-Kansas                               66
-Kentucky                             78
-Louisiana                            64
-Maine                                64
-Maryland                             59
-Massachusetts                        69
-Michigan                             92
-Minnesota                            73
-Mississippi                          63
-Missouri                             73
-Montana                              76
-Nebraska                             66
-Nevada                               49
-New Hampshire                        62
-New Jersey                           63
-New Mexico                           57
-New York                             65
-North Carolina                       62
-North Dakota                         59
-Ohio                                 70
-Oklahoma                             79
-Oregon                               51
-Pennsylvania                         71
-Rhode Island                         74
-South Carolina                       77
-South Dakota                         48
-Tennessee                            65
-Texas                                55
-Utah                                 73
+Alabama                              72
+Alaska                               79
+Arizona                              66
+Arkansas                            100
+California                           81
+Colorado                             74
+Connecticut                          74
+Delaware                             64
+District of Columbia                 78
+Florida                              48
+Georgia                              69
+Hawaii                               56
+Idaho                                86
+Illinois                             67
+Indiana                              85
+Iowa                                 78
+Kansas                               75
+Kentucky                             81
+Louisiana                            68
+Maine                                80
+Maryland                             66
+Massachusetts                        73
+Michigan                             93
+Minnesota                            85
+Mississippi                          72
+Missouri                             74
+Montana                              63
+Nebraska                             75
+Nevada                               52
+New Hampshire                        73
+New Jersey                           68
+New Mexico                           72
+New York                             69
+North Carolina                       76
+North Dakota                         71
+Ohio                                 75
+Oklahoma                             81
+Oregon                               53
+Pennsylvania                         75
+Rhode Island                         77
+South Carolina                       70
+South Dakota                         67
+Tennessee                            67
+Texas                                60
+Utah                                 81
 Vermont                              89
-Virginia                             62
-Washington                           70
+Virginia                             65
+Washington                           78
 West Virginia                       100
-Wisconsin                            76
-Wyoming                              71
+Wisconsin                            90
+Wyoming                              79

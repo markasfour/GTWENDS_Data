@@ -1,52 +1,53 @@
                       Oscar Nominations 2018
 geoName                                     
-Alabama                                   15
-Alaska                                    33
-Arizona                                   60
-Arkansas                                  78
-California                                85
+Alabama                                   40
+Alaska                                    15
+Arizona                                   48
+Arkansas                                  36
+California                                75
 Colorado                                  64
-Connecticut                               58
-Delaware                                  67
-District of Columbia                      63
-Florida                                   51
-Georgia                                   41
-Hawaii                                    41
-Idaho                                     49
+Connecticut                               72
+Delaware                                 100
+District of Columbia                      45
+Florida                                   37
+Georgia                                   40
+Hawaii                                    45
+Idaho                                     30
 Illinois                                  74
-Indiana                                   38
-Iowa                                      80
-Kansas                                    74
-Kentucky                                  27
-Louisiana                                 24
-Maine                                     70
-Maryland                                  57
-Massachusetts                             68
-Michigan                                  63
-Minnesota                                 75
-Mississippi                               17
-Missouri                                  54
-Montana                                   95
-Nebraska                                  50
-Nevada                                    53
-New Hampshire                             98
-New Jersey                               100
-New Mexico                                44
-New York                                  85
-North Carolina                            36
-North Dakota                              17
-Ohio                                      52
-Oklahoma                                  53
-Oregon                                    60
-Pennsylvania                              75
-Rhode Island                              28
-South Carolina                            32
-Tennessee                                 41
-Texas                                     45
-Utah                                      63
-Vermont                                   69
+Indiana                                   62
+Iowa                                      50
+Kansas                                    33
+Kentucky                                  38
+Louisiana                                 34
+Maine                                     66
+Maryland                                  51
+Massachusetts                             56
+Michigan                                  52
+Minnesota                                 51
+Mississippi                               16
+Missouri                                  60
+Montana                                   13
+Nebraska                                  37
+Nevada                                    36
+New Hampshire                             84
+New Jersey                                67
+New Mexico                                54
+New York                                  81
+North Carolina                            41
+North Dakota                              31
+Ohio                                      70
+Oklahoma                                  46
+Oregon                                    38
+Pennsylvania                              56
+Rhode Island                              70
+South Carolina                            46
+South Dakota                              31
+Tennessee                                 45
+Texas                                     44
+Utah                                      58
+Vermont                                   32
 Virginia                                  47
 Washington                                65
-West Virginia                             37
-Wisconsin                                 43
-Wyoming                                   51
+West Virginia                              9
+Wisconsin                                 40
+Wyoming                                   47

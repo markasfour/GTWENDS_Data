@@ -1,24 +1,24 @@
                       Hugh Masekela
 geoName                            
-California                       42
+California                       47
 District of Columbia            100
-Florida                          20
-Georgia                          34
+Florida                          24
+Georgia                          38
 Illinois                         31
-Louisiana                        33
-Maryland                         54
-Massachusetts                    38
-Michigan                         32
-Minnesota                        14
-New Hampshire                    30
-New Jersey                       35
-New York                         51
-North Carolina                   29
-Ohio                             22
-Oregon                           41
-Pennsylvania                     44
-Texas                            17
-Vermont                          64
-Virginia                         29
-Washington                       30
-Wisconsin                        22
+Louisiana                        42
+Maryland                         81
+Massachusetts                    41
+Michigan                         35
+Minnesota                        28
+New Hampshire                    43
+New Jersey                       37
+New York                         58
+North Carolina                   31
+Ohio                             38
+Oregon                           42
+Pennsylvania                     46
+Texas                            22
+Vermont                          55
+Virginia                         37
+Washington                       41
+Wisconsin                        25

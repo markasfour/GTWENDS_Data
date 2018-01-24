@@ -1,0 +1,48 @@
+                      Jeff Green
+geoName                         
+Alabama                       33
+Arizona                       22
+Arkansas                      26
+California                    31
+Colorado                      25
+Connecticut                   45
+Delaware                      24
+District of Columbia          46
+Florida                       31
+Georgia                       26
+Hawaii                        20
+Idaho                         15
+Illinois                      33
+Indiana                       31
+Iowa                          23
+Kansas                        18
+Kentucky                      54
+Louisiana                     28
+Maine                         64
+Maryland                      36
+Massachusetts                100
+Michigan                      32
+Minnesota                     25
+Mississippi                   31
+Missouri                      29
+Nebraska                      30
+Nevada                        27
+New Hampshire                 64
+New Jersey                    31
+New Mexico                    20
+New York                      41
+North Carolina                30
+Ohio                          57
+Oklahoma                      37
+Oregon                        23
+Pennsylvania                  31
+Rhode Island                  76
+South Carolina                27
+Tennessee                     41
+Texas                         23
+Utah                          22
+Vermont                       70
+Virginia                      31
+Washington                    24
+West Virginia                 27
+Wisconsin                     73
