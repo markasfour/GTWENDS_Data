@@ -1,0 +1,53 @@
+                      Mattress Firm
+geoName                            
+Alabama                          49
+Alaska                           15
+Arizona                          75
+Arkansas                         35
+California                       24
+Colorado                         60
+Connecticut                      35
+Delaware                         32
+District of Columbia             29
+Florida                          80
+Georgia                          80
+Hawaii                           17
+Idaho                            49
+Illinois                         54
+Indiana                          53
+Iowa                             40
+Kansas                           54
+Kentucky                         37
+Louisiana                        66
+Maine                            36
+Maryland                         30
+Massachusetts                    29
+Michigan                         22
+Minnesota                        40
+Mississippi                      37
+Missouri                         61
+Montana                          29
+Nebraska                         32
+Nevada                           50
+New Hampshire                    39
+New Jersey                       34
+New Mexico                       76
+New York                         33
+North Carolina                   80
+North Dakota                     39
+Ohio                             51
+Oklahoma                         72
+Oregon                           15
+Pennsylvania                     32
+Rhode Island                     29
+South Carolina                   81
+South Dakota                     40
+Tennessee                        64
+Texas                           100
+Utah                             48
+Vermont                          23
+Virginia                         32
+Washington                       28
+West Virginia                    20
+Wisconsin                        50
+Wyoming                          12

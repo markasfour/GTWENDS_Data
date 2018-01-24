@@ -1,0 +1,53 @@
+                      Lady Bird
+geoName                        
+Alabama                      26
+Alaska                       35
+Arizona                      37
+Arkansas                     28
+California                   56
+Colorado                     46
+Connecticut                  49
+Delaware                     31
+District of Columbia         34
+Florida                      39
+Georgia                      34
+Hawaii                       20
+Idaho                        39
+Illinois                     44
+Indiana                      34
+Iowa                         30
+Kansas                       35
+Kentucky                     27
+Louisiana                    38
+Maine                        38
+Maryland                     40
+Massachusetts                48
+Michigan                     40
+Minnesota                    43
+Mississippi                  19
+Missouri                     38
+Montana                      37
+Nebraska                     38
+Nevada                       23
+New Hampshire                40
+New Jersey                   38
+New Mexico                   47
+New York                     50
+North Carolina               29
+North Dakota                 16
+Ohio                         35
+Oklahoma                     30
+Oregon                       41
+Pennsylvania                 37
+Rhode Island                 47
+South Carolina               29
+South Dakota                 15
+Tennessee                    31
+Texas                       100
+Utah                         38
+Vermont                      54
+Virginia                     33
+Washington                   43
+West Virginia                23
+Wisconsin                    32
+Wyoming                      23

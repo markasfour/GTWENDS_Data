@@ -1,0 +1,53 @@
+                      Phantom Thread
+geoName                             
+Alabama                           42
+Alaska                            47
+Arizona                           63
+Arkansas                          41
+California                        94
+Colorado                          56
+Connecticut                       96
+Delaware                          54
+District of Columbia              45
+Florida                           48
+Georgia                           43
+Hawaii                            33
+Idaho                             46
+Illinois                          64
+Indiana                           49
+Iowa                              41
+Kansas                            39
+Kentucky                          41
+Louisiana                         45
+Maine                             61
+Maryland                          67
+Massachusetts                     77
+Michigan                          48
+Minnesota                         48
+Mississippi                       34
+Missouri                          33
+Montana                           42
+Nebraska                          43
+Nevada                            38
+New Hampshire                     56
+New Jersey                        74
+New Mexico                        68
+New York                         100
+North Carolina                    46
+North Dakota                      24
+Ohio                              54
+Oklahoma                          37
+Oregon                            68
+Pennsylvania                      64
+Rhode Island                      78
+South Carolina                    37
+South Dakota                      24
+Tennessee                         49
+Texas                             51
+Utah                              36
+Vermont                           29
+Virginia                          49
+Washington                        74
+West Virginia                     38
+Wisconsin                         51
+Wyoming                           67
