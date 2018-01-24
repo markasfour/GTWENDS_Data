@@ -1,0 +1,31 @@
+                      I-55
+geoName                   
+Alabama                  3
+Arizona                  1
+Arkansas                14
+California               1
+District of Columbia     1
+Florida                  1
+Georgia                  3
+Illinois                31
+Indiana                  4
+Iowa                     4
+Kansas                   3
+Kentucky                 3
+Louisiana               19
+Maryland                 1
+Michigan                 2
+Minnesota                2
+Mississippi            100
+Missouri                34
+New York                 1
+North Carolina           1
+Ohio                     1
+Oklahoma                 3
+Oregon                   1
+Pennsylvania             1
+South Carolina           1
+Tennessee                8
+Texas                    2
+Virginia                 1
+Wisconsin                4

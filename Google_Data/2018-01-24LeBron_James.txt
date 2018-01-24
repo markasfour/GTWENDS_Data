@@ -1,53 +1,53 @@
                       LeBron James
 geoName                           
-Alabama                         55
-Alaska                          30
-Arizona                         35
-Arkansas                        51
-California                      37
+Alabama                         54
+Alaska                          29
+Arizona                         32
+Arkansas                        48
+California                      35
 Colorado                        30
 Connecticut                     41
 Delaware                        46
-District of Columbia            51
-Florida                         58
-Georgia                         59
-Hawaii                          36
+District of Columbia            49
+Florida                         57
+Georgia                         58
+Hawaii                          34
 Idaho                           25
 Illinois                        50
-Indiana                         49
+Indiana                         50
 Iowa                            38
-Kansas                          37
+Kansas                          36
 Kentucky                        49
-Louisiana                       57
-Maine                           30
-Maryland                        47
+Louisiana                       55
+Maine                           29
+Maryland                        46
 Massachusetts                   40
 Michigan                        50
-Minnesota                       36
-Mississippi                     70
-Missouri                        43
-Montana                         26
+Minnesota                       35
+Mississippi                     68
+Missouri                        42
+Montana                         25
 Nebraska                        42
 Nevada                          36
-New Hampshire                   28
-New Jersey                      52
-New Mexico                      30
-New York                        52
+New Hampshire                   27
+New Jersey                      50
+New Mexico                      29
+New York                        50
 North Carolina                  50
-North Dakota                    36
+North Dakota                    34
 Ohio                           100
 Oklahoma                        42
-Oregon                          24
-Pennsylvania                    48
-Rhode Island                    39
+Oregon                          22
+Pennsylvania                    45
+Rhode Island                    37
 South Carolina                  54
-South Dakota                    40
+South Dakota                    41
 Tennessee                       47
-Texas                           45
-Utah                            32
-Vermont                         25
-Virginia                        39
+Texas                           42
+Utah                            33
+Vermont                         24
+Virginia                        38
 Washington                      30
-West Virginia                   46
+West Virginia                   43
 Wisconsin                       38
-Wyoming                         24
+Wyoming                         27

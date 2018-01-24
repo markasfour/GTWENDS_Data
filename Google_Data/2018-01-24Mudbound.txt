@@ -1,53 +1,53 @@
                       Mudbound
 geoName                       
-Alabama                     74
-Alaska                      43
-Arizona                     50
-Arkansas                    60
-California                  79
-Colorado                    51
-Connecticut                 91
-Delaware                    70
-District of Columbia        47
-Florida                     45
-Georgia                     58
-Hawaii                      29
-Idaho                       29
-Illinois                    64
-Indiana                     59
-Iowa                        52
-Kansas                      49
-Kentucky                    45
-Louisiana                   90
-Maine                       54
-Maryland                   100
-Massachusetts               56
-Michigan                    48
-Minnesota                   49
-Mississippi                 92
-Missouri                    54
-Montana                     52
-Nebraska                    56
-Nevada                      43
-New Hampshire               65
-New Jersey                  73
-New Mexico                  38
-New York                    97
-North Carolina              77
-North Dakota                22
-Ohio                        52
-Oklahoma                    40
-Oregon                      43
-Pennsylvania                50
-Rhode Island                86
-South Carolina              68
-South Dakota                38
-Tennessee                   76
-Texas                       50
-Utah                        54
-Vermont                     95
-Virginia                    61
-Washington                  61
-West Virginia               44
-Wisconsin                   45
-Wyoming                     49
+Alabama                     71
+Alaska                      34
+Arizona                     40
+Arkansas                    53
+California                  64
+Colorado                    43
+Connecticut                 71
+Delaware                    42
+District of Columbia        49
+Florida                     37
+Georgia                     47
+Hawaii                      20
+Idaho                       23
+Illinois                    49
+Indiana                     45
+Iowa                        39
+Kansas                      38
+Kentucky                    36
+Louisiana                   76
+Maine                       37
+Maryland                    71
+Massachusetts               51
+Michigan                    39
+Minnesota                   45
+Mississippi                 58
+Missouri                    48
+Montana                     50
+Nebraska                    38
+Nevada                      36
+New Hampshire               43
+New Jersey                  57
+New Mexico                  49
+New York                    81
+North Carolina              55
+North Dakota                40
+Ohio                        44
+Oklahoma                    24
+Oregon                      28
+Pennsylvania                39
+Rhode Island                64
+South Carolina              53
+South Dakota                36
+Tennessee                   47
+Texas                       40
+Utah                        55
+Vermont                    100
+Virginia                    50
+Washington                  45
+West Virginia               40
+Wisconsin                   40
+Wyoming                     39

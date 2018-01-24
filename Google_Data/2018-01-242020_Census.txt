@@ -1,0 +1,12 @@
+               2020 Census
+geoName                   
+California              52
+Florida                 33
+Illinois                55
+Massachusetts           50
+New Jersey              85
+New York                58
+Pennsylvania            39
+Texas                   40
+Virginia               100
+Washington              96

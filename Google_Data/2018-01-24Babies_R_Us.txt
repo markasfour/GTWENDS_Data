@@ -1,0 +1,53 @@
+                      Babies R Us
+geoName                          
+Alabama                        44
+Alaska                         28
+Arizona                        43
+Arkansas                       32
+California                     53
+Colorado                       44
+Connecticut                    80
+Delaware                       81
+District of Columbia           52
+Florida                        52
+Georgia                        49
+Hawaii                         54
+Idaho                          31
+Illinois                       53
+Indiana                        55
+Iowa                           33
+Kansas                         37
+Kentucky                       58
+Louisiana                      61
+Maine                          47
+Maryland                       58
+Massachusetts                  79
+Michigan                       64
+Minnesota                      41
+Mississippi                    40
+Missouri                       47
+Montana                        11
+Nebraska                       38
+Nevada                         61
+New Hampshire                  72
+New Jersey                     95
+New Mexico                     29
+New York                       73
+North Carolina                 52
+North Dakota                   12
+Ohio                           66
+Oklahoma                       52
+Oregon                         27
+Pennsylvania                   85
+Rhode Island                  100
+South Carolina                 48
+South Dakota                   18
+Tennessee                      48
+Texas                          50
+Utah                           33
+Vermont                        40
+Virginia                       47
+Washington                     41
+West Virginia                  36
+Wisconsin                      40
+Wyoming                        21

@@ -1,0 +1,22 @@
+                iOS 11.3
+geoName                 
+Arizona               41
+California            64
+Colorado              52
+Florida               53
+Georgia               60
+Illinois              52
+Maryland              62
+Massachusetts         52
+Michigan              54
+Missouri             100
+New Jersey            92
+New York              58
+North Carolina        83
+Ohio                  63
+Oregon                47
+Pennsylvania          64
+Texas                 78
+Virginia              19
+Washington            45
+Wisconsin             49

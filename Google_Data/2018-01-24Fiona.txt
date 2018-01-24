@@ -1,0 +1,53 @@
+                      Fiona
+geoName                    
+Alabama                  64
+Alaska                   64
+Arizona                  70
+Arkansas                 67
+California               84
+Colorado                 76
+Connecticut              91
+Delaware                 70
+District of Columbia     90
+Florida                  70
+Georgia                  70
+Hawaii                   66
+Idaho                    68
+Illinois                 83
+Indiana                  73
+Iowa                     64
+Kansas                   62
+Kentucky                 84
+Louisiana                69
+Maine                    86
+Maryland                 89
+Massachusetts            96
+Michigan                 75
+Minnesota                73
+Mississippi              69
+Missouri                 65
+Montana                  74
+Nebraska                 64
+Nevada                   68
+New Hampshire            86
+New Jersey               88
+New Mexico               70
+New York                100
+North Carolina           70
+North Dakota             69
+Ohio                     92
+Oklahoma                 65
+Oregon                   73
+Pennsylvania             85
+Rhode Island             95
+South Carolina           68
+South Dakota             63
+Tennessee                71
+Texas                    69
+Utah                     65
+Vermont                  94
+Virginia                 72
+Washington               85
+West Virginia            75
+Wisconsin                71
+Wyoming                  57

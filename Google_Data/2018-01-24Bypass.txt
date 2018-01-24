@@ -1,0 +1,53 @@
+                      Bypass
+geoName                     
+Alabama                   72
+Alaska                    70
+Arizona                   62
+Arkansas                  83
+California                54
+Colorado                  59
+Connecticut               51
+Delaware                  58
+District of Columbia      44
+Florida                   57
+Georgia                   65
+Hawaii                    61
+Idaho                     60
+Illinois                  51
+Indiana                   63
+Iowa                      57
+Kansas                    61
+Kentucky                 100
+Louisiana                 63
+Maine                     56
+Maryland                  54
+Massachusetts             47
+Michigan                  55
+Minnesota                 55
+Mississippi               71
+Missouri                  67
+Montana                   62
+Nebraska                  58
+Nevada                    62
+New Hampshire             58
+New Jersey                47
+New Mexico                82
+New York                  49
+North Carolina            64
+North Dakota              72
+Ohio                      59
+Oklahoma                  65
+Oregon                    48
+Pennsylvania              59
+Rhode Island              54
+South Carolina            82
+South Dakota              64
+Tennessee                 72
+Texas                     57
+Utah                      57
+Vermont                   45
+Virginia                  49
+Washington                59
+West Virginia             81
+Wisconsin                 51
+Wyoming                   59

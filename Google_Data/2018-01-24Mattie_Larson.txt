@@ -1,32 +1,33 @@
                       Mattie Larson
 geoName                            
-Alabama                          25
-California                       48
-Colorado                         55
-Connecticut                      46
-District of Columbia             48
-Florida                          40
-Georgia                           7
-Illinois                         27
-Iowa                            100
-Kentucky                         92
-Louisiana                        24
-Maine                            70
-Maryland                         14
-Massachusetts                    55
-Michigan                          9
-Minnesota                        14
-Missouri                         29
-Nevada                           28
-New Jersey                        9
-New York                         16
-North Carolina                    8
-Ohio                              8
-Oregon                           15
-Pennsylvania                     34
-South Carolina                   21
-Tennessee                        14
-Texas                            25
-Virginia                         52
-Washington                       61
-Wisconsin                        16
+Alabama                         100
+Arizona                          17
+California                       52
+Colorado                         56
+Connecticut                      95
+District of Columbia             32
+Florida                          38
+Georgia                          28
+Illinois                         60
+Indiana                          23
+Iowa                             45
+Kentucky                         94
+Louisiana                        32
+Maryland                         19
+Massachusetts                   100
+Michigan                         23
+Missouri                         39
+New Hampshire                    89
+New Jersey                       12
+New Mexico                       79
+New York                         56
+North Carolina                   34
+Ohio                             23
+Oregon                           40
+Pennsylvania                     27
+South Carolina                   29
+Tennessee                        38
+Texas                            38
+Virginia                         70
+Washington                       28
+Wisconsin                        21

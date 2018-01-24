@@ -1,53 +1,53 @@
                       Jalen Ramsey
 geoName                           
-Alabama                         55
-Alaska                          19
+Alabama                         52
+Alaska                          32
 Arizona                         26
-Arkansas                        26
+Arkansas                        29
 California                      30
 Colorado                        27
-Connecticut                     39
-Delaware                        51
+Connecticut                     38
+Delaware                        47
 District of Columbia            46
 Florida                        100
-Georgia                         59
-Hawaii                          24
-Idaho                           15
-Illinois                        24
-Indiana                         28
-Iowa                            32
-Kansas                          17
-Kentucky                        37
-Louisiana                       53
-Maine                           16
-Maryland                        67
-Massachusetts                   33
-Michigan                        27
-Minnesota                       22
-Mississippi                     47
-Missouri                        20
-Montana                         19
-Nebraska                        23
-Nevada                          26
+Georgia                         57
+Hawaii                          20
+Idaho                           16
+Illinois                        29
+Indiana                         33
+Iowa                            28
+Kansas                          22
+Kentucky                        34
+Louisiana                       47
+Maine                           18
+Maryland                        63
+Massachusetts                   36
+Michigan                        30
+Minnesota                       26
+Mississippi                     51
+Missouri                        24
+Montana                         16
+Nebraska                        25
+Nevada                          25
 New Hampshire                   26
 New Jersey                      43
-New Mexico                      28
-New York                        26
-North Carolina                  43
-North Dakota                    18
-Ohio                            34
-Oklahoma                        26
-Oregon                          13
-Pennsylvania                    39
-Rhode Island                    30
+New Mexico                      25
+New York                        27
+North Carolina                  44
+North Dakota                    35
+Ohio                            39
+Oklahoma                        28
+Oregon                          12
+Pennsylvania                    38
+Rhode Island                    39
 South Carolina                  48
-South Dakota                    22
-Tennessee                       88
-Texas                           44
-Utah                            14
-Vermont                         14
-Virginia                        36
+South Dakota                    18
+Tennessee                       91
+Texas                           46
+Utah                            16
+Vermont                         15
+Virginia                        37
 Washington                      23
-West Virginia                   39
-Wisconsin                       25
-Wyoming                         21
+West Virginia                   33
+Wisconsin                       27
+Wyoming                          9

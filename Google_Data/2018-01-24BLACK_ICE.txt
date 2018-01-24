@@ -1,0 +1,53 @@
+                      BLACK ICE
+geoName                        
+Alabama                      65
+Alaska                       82
+Arizona                      52
+Arkansas                     64
+California                   57
+Colorado                     63
+Connecticut                  62
+Delaware                     73
+District of Columbia         61
+Florida                      57
+Georgia                      69
+Hawaii                       63
+Idaho                        53
+Illinois                     68
+Indiana                      66
+Iowa                         73
+Kansas                       49
+Kentucky                     60
+Louisiana                    72
+Maine                        75
+Maryland                     72
+Massachusetts                65
+Michigan                     68
+Minnesota                    79
+Mississippi                  72
+Missouri                     62
+Montana                      63
+Nebraska                     63
+Nevada                       59
+New Hampshire               100
+New Jersey                   63
+New Mexico                   55
+New York                     73
+North Carolina               65
+North Dakota                 71
+Ohio                         62
+Oklahoma                     60
+Oregon                       45
+Pennsylvania                 66
+Rhode Island                 57
+South Carolina               67
+South Dakota                 72
+Tennessee                    59
+Texas                        57
+Utah                         68
+Vermont                      85
+Virginia                     60
+Washington                   55
+West Virginia                68
+Wisconsin                    69
+Wyoming                      69

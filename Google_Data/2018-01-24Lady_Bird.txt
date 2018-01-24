@@ -1,53 +1,53 @@
                       Lady Bird
 geoName                        
 Alabama                      26
-Alaska                       35
-Arizona                      37
-Arkansas                     28
-California                   56
-Colorado                     46
-Connecticut                  49
-Delaware                     31
-District of Columbia         34
+Alaska                       26
+Arizona                      38
+Arkansas                     29
+California                   53
+Colorado                     44
+Connecticut                  52
+Delaware                     29
+District of Columbia         36
 Florida                      39
-Georgia                      34
-Hawaii                       20
-Idaho                        39
-Illinois                     44
-Indiana                      34
-Iowa                         30
-Kansas                       35
-Kentucky                     27
-Louisiana                    38
-Maine                        38
-Maryland                     40
-Massachusetts                48
-Michigan                     40
+Georgia                      36
+Hawaii                       25
+Idaho                        35
+Illinois                     45
+Indiana                      32
+Iowa                         35
+Kansas                       32
+Kentucky                     28
+Louisiana                    43
+Maine                        44
+Maryland                     41
+Massachusetts                46
+Michigan                     43
 Minnesota                    43
-Mississippi                  19
-Missouri                     38
-Montana                      37
+Mississippi                  20
+Missouri                     33
+Montana                      30
 Nebraska                     38
-Nevada                       23
-New Hampshire                40
-New Jersey                   38
-New Mexico                   47
-New York                     50
-North Carolina               29
-North Dakota                 16
-Ohio                         35
-Oklahoma                     30
-Oregon                       41
-Pennsylvania                 37
+Nevada                       27
+New Hampshire                41
+New Jersey                   39
+New Mexico                   41
+New York                     47
+North Carolina               30
+North Dakota                 22
+Ohio                         36
+Oklahoma                     33
+Oregon                       42
+Pennsylvania                 36
 Rhode Island                 47
-South Carolina               29
-South Dakota                 15
-Tennessee                    31
+South Carolina               28
+South Dakota                 20
+Tennessee                    32
 Texas                       100
-Utah                         38
-Vermont                      54
+Utah                         37
+Vermont                      64
 Virginia                     33
-Washington                   43
-West Virginia                23
-Wisconsin                    32
-Wyoming                      23
+Washington                   45
+West Virginia                22
+Wisconsin                    31
+Wyoming                      28

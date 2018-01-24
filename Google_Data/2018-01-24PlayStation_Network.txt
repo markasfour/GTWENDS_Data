@@ -1,53 +1,53 @@
                       PlayStation Network
 geoName                                  
 Alabama                                88
-Alaska                                 69
+Alaska                                 73
 Arizona                                76
-Arkansas                               89
+Arkansas                               91
 California                             62
-Colorado                               68
+Colorado                               69
 Connecticut                            54
 Delaware                               73
-District of Columbia                   47
-Florida                                69
-Georgia                                73
-Hawaii                                 62
-Idaho                                  81
+District of Columbia                   49
+Florida                                67
+Georgia                                72
+Hawaii                                 56
+Idaho                                  90
 Illinois                               65
-Indiana                                86
-Iowa                                   86
-Kansas                                 69
-Kentucky                               88
-Louisiana                              85
-Maine                                  70
-Maryland                               71
-Massachusetts                          54
-Michigan                               72
-Minnesota                              59
-Mississippi                            91
-Missouri                               74
-Montana                                75
+Indiana                                87
+Iowa                                   83
+Kansas                                 68
+Kentucky                               89
+Louisiana                              88
+Maine                                  68
+Maryland                               69
+Massachusetts                          53
+Michigan                               71
+Minnesota                              60
+Mississippi                            88
+Missouri                               71
+Montana                                71
 Nebraska                               76
-Nevada                                 81
-New Hampshire                          73
-New Jersey                             59
-New Mexico                             87
-New York                               61
-North Carolina                         74
-North Dakota                           87
+Nevada                                 82
+New Hampshire                          68
+New Jersey                             60
+New Mexico                             84
+New York                               62
+North Carolina                         75
+North Dakota                           94
 Ohio                                   81
-Oklahoma                               90
-Oregon                                 50
-Pennsylvania                           76
-Rhode Island                           62
+Oklahoma                               88
+Oregon                                 49
+Pennsylvania                           75
+Rhode Island                           63
 South Carolina                         83
 South Dakota                           78
 Tennessee                              78
-Texas                                  73
-Utah                                   63
-Vermont                                64
-Virginia                               62
-Washington                             59
+Texas                                  71
+Utah                                   65
+Vermont                                56
+Virginia                               63
+Washington                             60
 West Virginia                         100
-Wisconsin                              68
-Wyoming                                93
+Wisconsin                              71
+Wyoming                                90

@@ -1,53 +1,53 @@
                       Genie Bouchard
 geoName                             
-Alabama                           39
-Alaska                            12
-Arizona                           54
-Arkansas                          29
-California                        52
-Colorado                          44
-Connecticut                       82
-Delaware                          42
-District of Columbia              87
-Florida                           48
-Georgia                           51
-Hawaii                            24
-Idaho                             76
-Illinois                          75
-Indiana                           48
-Iowa                              46
-Kansas                            43
-Kentucky                          29
-Louisiana                         54
-Maine                             43
-Maryland                          74
-Massachusetts                     76
-Michigan                          54
-Minnesota                         49
-Mississippi                       58
-Missouri                          63
-Montana                           48
-Nebraska                          35
-Nevada                            45
-New Hampshire                    100
-New Jersey                        74
-New Mexico                        30
-New York                          71
-North Carolina                    56
-North Dakota                      47
-Ohio                              54
-Oklahoma                          31
-Oregon                            38
-Pennsylvania                      60
-Rhode Island                      73
-South Carolina                    50
-South Dakota                      78
-Tennessee                         34
-Texas                             44
-Utah                              38
-Vermont                           18
-Virginia                          50
-Washington                        54
-West Virginia                     19
-Wisconsin                         51
-Wyoming                           27
+Alabama                           44
+Alaska                            18
+Arizona                           53
+Arkansas                          32
+California                        56
+Colorado                          52
+Connecticut                       87
+Delaware                          44
+District of Columbia             100
+Florida                           53
+Georgia                           48
+Hawaii                            52
+Idaho                             55
+Illinois                          72
+Indiana                           49
+Iowa                              50
+Kansas                            61
+Kentucky                          38
+Louisiana                         39
+Maine                             61
+Maryland                          71
+Massachusetts                     85
+Michigan                          58
+Minnesota                         55
+Mississippi                       43
+Missouri                          61
+Montana                           54
+Nebraska                          57
+Nevada                            53
+New Hampshire                     77
+New Jersey                        75
+New Mexico                        44
+New York                          74
+North Carolina                    46
+North Dakota                      93
+Ohio                              53
+Oklahoma                          43
+Oregon                            44
+Pennsylvania                      61
+Rhode Island                      54
+South Carolina                    49
+South Dakota                      74
+Tennessee                         39
+Texas                             46
+Utah                              41
+Vermont                           63
+Virginia                          56
+Washington                        43
+West Virginia                     40
+Wisconsin                         57
+Wyoming                            9

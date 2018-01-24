@@ -1,0 +1,53 @@
+                      Storm Chasers
+geoName                            
+Alabama                           3
+Alaska                            4
+Arizona                           2
+Arkansas                          5
+California                        1
+Colorado                          2
+Connecticut                       1
+Delaware                          2
+District of Columbia              2
+Florida                           1
+Georgia                           2
+Hawaii                            1
+Idaho                             2
+Illinois                          3
+Indiana                           3
+Iowa                             12
+Kansas                           10
+Kentucky                          2
+Louisiana                         2
+Maine                             1
+Maryland                          2
+Massachusetts                     1
+Michigan                          2
+Minnesota                         4
+Mississippi                       4
+Missouri                          8
+Montana                           2
+Nebraska                        100
+Nevada                            1
+New Hampshire                     1
+New Jersey                        1
+New Mexico                        2
+New York                          1
+North Carolina                    2
+North Dakota                      4
+Ohio                              2
+Oklahoma                          7
+Oregon                            1
+Pennsylvania                      5
+Rhode Island                      1
+South Carolina                    2
+South Dakota                     20
+Tennessee                         2
+Texas                             4
+Utah                              2
+Vermont                           1
+Virginia                          1
+Washington                        1
+West Virginia                     2
+Wisconsin                         3
+Wyoming                           2

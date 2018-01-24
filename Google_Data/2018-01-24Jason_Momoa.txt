@@ -1,53 +1,53 @@
                       Jason Momoa
 geoName                          
-Alabama                        40
-Alaska                         50
+Alabama                        42
+Alaska                         47
 Arizona                        45
-Arkansas                       40
-California                     45
-Colorado                       42
-Connecticut                    36
-Delaware                       45
-District of Columbia           38
+Arkansas                       43
+California                     47
+Colorado                       44
+Connecticut                    39
+Delaware                       47
+District of Columbia           40
 Florida                        44
-Georgia                        42
+Georgia                        44
 Hawaii                        100
 Idaho                          40
-Illinois                       35
-Indiana                        40
-Iowa                           41
+Illinois                       37
+Indiana                        43
+Iowa                           39
 Kansas                         33
 Kentucky                       43
-Louisiana                      41
-Maine                          36
-Maryland                       42
-Massachusetts                  35
-Michigan                       37
-Minnesota                      30
-Mississippi                    39
-Missouri                       37
-Montana                        37
+Louisiana                      40
+Maine                          33
+Maryland                       45
+Massachusetts                  36
+Michigan                       39
+Minnesota                      31
+Mississippi                    41
+Missouri                       38
+Montana                        45
 Nebraska                       38
 Nevada                         52
-New Hampshire                  33
-New Jersey                     39
-New Mexico                     44
-New York                       39
-North Carolina                 41
-North Dakota                   32
-Ohio                           38
-Oklahoma                       47
+New Hampshire                  34
+New Jersey                     42
+New Mexico                     47
+New York                       40
+North Carolina                 42
+North Dakota                   39
+Ohio                           41
+Oklahoma                       46
 Oregon                         32
 Pennsylvania                   39
 Rhode Island                   36
-South Carolina                 43
-South Dakota                   25
-Tennessee                      42
-Texas                          43
-Utah                           45
-Vermont                        30
-Virginia                       36
-Washington                     45
-West Virginia                  40
-Wisconsin                      33
-Wyoming                        39
+South Carolina                 44
+South Dakota                   28
+Tennessee                      43
+Texas                          42
+Utah                           47
+Vermont                        31
+Virginia                       38
+Washington                     46
+West Virginia                  51
+Wisconsin                      32
+Wyoming                        42

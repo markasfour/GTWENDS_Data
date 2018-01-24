@@ -1,0 +1,53 @@
+                      Mike Flynn
+geoName                         
+Alabama                       25
+Alaska                        19
+Arizona                       21
+Arkansas                      27
+California                    30
+Colorado                      31
+Connecticut                   45
+Delaware                      40
+District of Columbia          58
+Florida                       25
+Georgia                       25
+Hawaii                        20
+Idaho                         14
+Illinois                      34
+Indiana                       24
+Iowa                          20
+Kansas                        12
+Kentucky                      24
+Louisiana                     24
+Maine                         33
+Maryland                      38
+Massachusetts                 54
+Michigan                      24
+Minnesota                     25
+Mississippi                   19
+Missouri                      23
+Montana                       37
+Nebraska                      16
+Nevada                        30
+New Hampshire                 49
+New Jersey                    31
+New Mexico                    18
+New York                      34
+North Carolina                25
+North Dakota                  14
+Ohio                          27
+Oklahoma                      17
+Oregon                        19
+Pennsylvania                  32
+Rhode Island                 100
+South Carolina                21
+South Dakota                  19
+Tennessee                     24
+Texas                         20
+Utah                          19
+Vermont                       42
+Virginia                      33
+Washington                    33
+West Virginia                 30
+Wisconsin                     31
+Wyoming                       15
