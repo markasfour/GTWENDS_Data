@@ -1,0 +1,30 @@
+                      Spice World
+geoName                          
+Arizona                        49
+California                     54
+Colorado                       56
+Connecticut                    39
+District of Columbia           52
+Florida                        66
+Georgia                        47
+Illinois                       59
+Indiana                        38
+Louisiana                      50
+Maryland                       71
+Massachusetts                  54
+Michigan                       51
+Minnesota                      48
+Missouri                       54
+New Jersey                     53
+New York                       60
+North Carolina                 46
+Ohio                           43
+Oklahoma                       47
+Oregon                         46
+Pennsylvania                   51
+South Carolina                 53
+Tennessee                      55
+Texas                          48
+Virginia                       48
+Washington                    100
+Wisconsin                      69

@@ -1,0 +1,53 @@
+                      phish
+geoName                    
+Alabama                  15
+Alaska                    9
+Arizona                   6
+Arkansas                  5
+California                9
+Colorado                 47
+Connecticut              31
+Delaware                 17
+District of Columbia     20
+Florida                   8
+Georgia                  13
+Hawaii                    8
+Idaho                     7
+Illinois                 22
+Indiana                  14
+Iowa                      8
+Kansas                    7
+Kentucky                 10
+Louisiana                 8
+Maine                    40
+Maryland                 15
+Massachusetts            31
+Michigan                 10
+Minnesota                10
+Mississippi               9
+Missouri                  9
+Montana                  19
+Nebraska                  8
+Nevada                    9
+New Hampshire            30
+New Jersey               22
+New Mexico                7
+New York                 30
+North Carolina           16
+North Dakota              6
+Ohio                     14
+Oklahoma                  6
+Oregon                   16
+Pennsylvania             22
+Rhode Island             26
+South Carolina           16
+South Dakota              6
+Tennessee                13
+Texas                     5
+Utah                     10
+Vermont                 100
+Virginia                 15
+Washington               11
+West Virginia            11
+Wisconsin                15
+Wyoming                  19

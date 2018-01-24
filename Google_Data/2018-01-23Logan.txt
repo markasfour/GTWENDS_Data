@@ -1,0 +1,53 @@
+                      Logan
+geoName                    
+Alabama                   7
+Alaska                    6
+Arizona                   6
+Arkansas                  7
+California                7
+Colorado                 10
+Connecticut               8
+Delaware                  8
+District of Columbia     10
+Florida                   6
+Georgia                   6
+Hawaii                    6
+Idaho                    17
+Illinois                 13
+Indiana                   8
+Iowa                      9
+Kansas                    7
+Kentucky                 13
+Louisiana                 6
+Maine                    13
+Maryland                  7
+Massachusetts            26
+Michigan                  7
+Minnesota                 6
+Mississippi               6
+Missouri                  7
+Montana                  10
+Nebraska                  9
+Nevada                    8
+New Hampshire            18
+New Jersey                7
+New Mexico                7
+New York                  6
+North Carolina            6
+North Dakota              6
+Ohio                     15
+Oklahoma                  8
+Oregon                    5
+Pennsylvania              8
+Rhode Island             15
+South Carolina            6
+South Dakota             11
+Tennessee                 7
+Texas                     6
+Utah                    100
+Vermont                  10
+Virginia                  6
+Washington                6
+West Virginia            42
+Wisconsin                 6
+Wyoming                  13

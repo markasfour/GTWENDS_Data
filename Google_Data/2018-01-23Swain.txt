@@ -1,0 +1,53 @@
+                      Swain
+geoName                    
+Alabama                  42
+Alaska                   26
+Arizona                  25
+Arkansas                 32
+California               29
+Colorado                 23
+Connecticut              29
+Delaware                 28
+District of Columbia     24
+Florida                  33
+Georgia                  37
+Hawaii                   32
+Idaho                    38
+Illinois                 24
+Indiana                  30
+Iowa                     27
+Kansas                   27
+Kentucky                 27
+Louisiana                28
+Maine                    31
+Maryland                 30
+Massachusetts            31
+Michigan                 26
+Minnesota                29
+Mississippi              76
+Missouri                 24
+Montana                  26
+Nebraska                 28
+Nevada                   26
+New Hampshire            43
+New Jersey               25
+New Mexico               21
+New York                 34
+North Carolina          100
+North Dakota             25
+Ohio                     28
+Oklahoma                 28
+Oregon                   28
+Pennsylvania             33
+Rhode Island             31
+South Carolina           32
+South Dakota             33
+Tennessee                46
+Texas                    21
+Utah                     30
+Vermont                  28
+Virginia                 29
+Washington               33
+West Virginia            29
+Wisconsin                26
+Wyoming                  22

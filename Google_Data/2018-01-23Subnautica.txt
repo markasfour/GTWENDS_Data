@@ -1,0 +1,53 @@
+                      Subnautica
+geoName                         
+Alabama                       62
+Alaska                       100
+Arizona                       59
+Arkansas                      80
+California                    41
+Colorado                      69
+Connecticut                   52
+Delaware                      47
+District of Columbia          15
+Florida                       52
+Georgia                       39
+Hawaii                        50
+Idaho                         95
+Illinois                      40
+Indiana                       74
+Iowa                          68
+Kansas                        56
+Kentucky                      62
+Louisiana                     53
+Maine                         81
+Maryland                      47
+Massachusetts                 38
+Michigan                      56
+Minnesota                     55
+Mississippi                   51
+Missouri                      56
+Montana                       93
+Nebraska                      53
+Nevada                        61
+New Hampshire                 64
+New Jersey                    36
+New Mexico                    64
+New York                      29
+North Carolina                50
+North Dakota                  73
+Ohio                          63
+Oklahoma                      60
+Oregon                        64
+Pennsylvania                  48
+Rhode Island                  43
+South Carolina                56
+South Dakota                  81
+Tennessee                     54
+Texas                         44
+Utah                          84
+Vermont                       95
+Virginia                      44
+Washington                    75
+West Virginia                 75
+Wisconsin                     63
+Wyoming                       89

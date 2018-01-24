@@ -1,52 +1,52 @@
                       The Florida Project
 geoName                                  
-Alabama                                16
-Alaska                                 17
-Arizona                                26
-Arkansas                               15
-California                             46
-Colorado                               28
-Connecticut                            42
-Delaware                               18
-District of Columbia                   38
+Alabama                                17
+Alaska                                 11
+Arizona                                31
+Arkansas                                8
+California                             42
+Colorado                               31
+Connecticut                            48
+Delaware                               32
+District of Columbia                   43
 Florida                               100
-Georgia                                21
-Hawaii                                 33
-Idaho                                   8
-Illinois                               36
-Indiana                                23
-Iowa                                   18
-Kansas                                 17
-Kentucky                               21
-Louisiana                              21
-Maine                                  42
-Maryland                               38
+Georgia                                19
+Hawaii                                 19
+Idaho                                  18
+Illinois                               33
+Indiana                                21
+Iowa                                   20
+Kansas                                 15
+Kentucky                               18
+Louisiana                              19
+Maine                                  36
+Maryland                               29
 Massachusetts                          50
-Michigan                               28
+Michigan                               26
 Minnesota                              20
-Mississippi                             7
-Missouri                               22
-Montana                                12
-Nebraska                               31
-Nevada                                 14
-New Hampshire                          32
-New Jersey                             31
-New Mexico                             35
-New York                               57
-North Carolina                         23
-North Dakota                            6
-Ohio                                   22
-Oklahoma                               16
-Oregon                                 33
-Pennsylvania                           28
-Rhode Island                           22
-South Carolina                         16
-South Dakota                           11
-Tennessee                              21
-Texas                                  20
-Utah                                   20
-Vermont                                68
-Virginia                               23
-Washington                             31
-West Virginia                          14
-Wisconsin                              19
+Mississippi                            11
+Missouri                               21
+Montana                                 9
+Nebraska                               25
+Nevada                                 17
+New Hampshire                          29
+New Jersey                             27
+New Mexico                             40
+New York                               53
+North Carolina                         26
+North Dakota                            8
+Ohio                                   21
+Oklahoma                               12
+Oregon                                 36
+Pennsylvania                           25
+Rhode Island                           40
+South Carolina                         18
+South Dakota                            9
+Tennessee                              20
+Texas                                  18
+Utah                                   24
+Vermont                                35
+Virginia                               19
+Washington                             28
+West Virginia                          12
+Wisconsin                              20

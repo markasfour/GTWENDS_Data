@@ -1,0 +1,53 @@
+                      Mudbound
+geoName                       
+Alabama                     64
+Alaska                      28
+Arizona                     40
+Arkansas                    59
+California                  71
+Colorado                    46
+Connecticut                 71
+Delaware                    68
+District of Columbia        57
+Florida                     40
+Georgia                     54
+Hawaii                      30
+Idaho                       29
+Illinois                    50
+Indiana                     48
+Iowa                        39
+Kansas                      33
+Kentucky                    39
+Louisiana                   79
+Maine                       27
+Maryland                    84
+Massachusetts               57
+Michigan                    45
+Minnesota                   40
+Mississippi                 76
+Missouri                    48
+Montana                     45
+Nebraska                    37
+Nevada                      29
+New Hampshire               38
+New Jersey                  62
+New Mexico                  39
+New York                    84
+North Carolina              61
+North Dakota                19
+Ohio                        44
+Oklahoma                    29
+Oregon                      36
+Pennsylvania                40
+Rhode Island                70
+South Carolina              62
+South Dakota                47
+Tennessee                   59
+Texas                       41
+Utah                        43
+Vermont                    100
+Virginia                    51
+Washington                  46
+West Virginia               31
+Wisconsin                   38
+Wyoming                     42

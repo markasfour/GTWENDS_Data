@@ -1,0 +1,53 @@
+                      DJI
+geoName                  
+Alabama                51
+Alaska                 94
+Arizona                52
+Arkansas               49
+California             60
+Colorado               59
+Connecticut            47
+Delaware               56
+District of Columbia   36
+Florida                55
+Georgia                40
+Hawaii                100
+Idaho                  64
+Illinois               39
+Indiana                42
+Iowa                   51
+Kansas                 40
+Kentucky               41
+Louisiana              41
+Maine                  51
+Maryland               44
+Massachusetts          39
+Michigan               47
+Minnesota              47
+Mississippi            35
+Missouri               39
+Montana                61
+Nebraska               47
+Nevada                 60
+New Hampshire          57
+New Jersey             46
+New Mexico             55
+New York               43
+North Carolina         43
+North Dakota           55
+Ohio                   40
+Oklahoma               45
+Oregon                 48
+Pennsylvania           41
+Rhode Island           45
+South Carolina         40
+South Dakota           53
+Tennessee              43
+Texas                  43
+Utah                   77
+Vermont                59
+Virginia               36
+Washington             58
+West Virginia          45
+Wisconsin              44
+Wyoming                64

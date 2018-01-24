@@ -1,0 +1,53 @@
+                      Wonder Woman
+geoName                           
+Alabama                         77
+Alaska                          80
+Arizona                         89
+Arkansas                        75
+California                      92
+Colorado                        74
+Connecticut                     69
+Delaware                        76
+District of Columbia            73
+Florida                         73
+Georgia                         71
+Hawaii                          80
+Idaho                           82
+Illinois                        73
+Indiana                         77
+Iowa                            66
+Kansas                          66
+Kentucky                        71
+Louisiana                       70
+Maine                           60
+Maryland                        78
+Massachusetts                   63
+Michigan                        74
+Minnesota                       64
+Mississippi                     66
+Missouri                        71
+Montana                         66
+Nebraska                        66
+Nevada                          87
+New Hampshire                   63
+New Jersey                      75
+New Mexico                      88
+New York                        69
+North Carolina                  71
+North Dakota                    61
+Ohio                            67
+Oklahoma                        78
+Oregon                          61
+Pennsylvania                    67
+Rhode Island                    76
+South Carolina                  68
+South Dakota                    58
+Tennessee                       74
+Texas                           85
+Utah                           100
+Vermont                         59
+Virginia                        62
+Washington                      76
+West Virginia                   69
+Wisconsin                       59
+Wyoming                         73

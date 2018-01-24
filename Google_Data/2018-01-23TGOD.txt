@@ -1,0 +1,44 @@
+                      TGOD
+geoName                   
+Alabama                 56
+Arizona                 64
+Arkansas                43
+California              52
+Colorado                50
+Connecticut             48
+District of Columbia    28
+Florida                 43
+Georgia                 54
+Hawaii                  29
+Idaho                   44
+Illinois                53
+Indiana                 80
+Iowa                    88
+Kansas                  63
+Kentucky                51
+Louisiana               26
+Maine                   37
+Maryland                26
+Massachusetts           28
+Michigan                57
+Minnesota               46
+Mississippi             61
+Missouri                39
+Nebraska                91
+Nevada                  46
+New Jersey              28
+New Mexico             100
+New York                30
+North Carolina          46
+Ohio                    53
+Oklahoma                57
+Oregon                  42
+Pennsylvania            48
+South Carolina          44
+Tennessee               39
+Texas                   60
+Utah                    63
+Virginia                28
+Washington              47
+West Virginia           72
+Wisconsin               67

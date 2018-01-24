@@ -1,0 +1,52 @@
+                      RHOC
+geoName                   
+Alabama                 67
+Alaska                  42
+Arizona                 75
+Arkansas                71
+California             100
+Colorado                60
+Connecticut             89
+Delaware                88
+District of Columbia    93
+Florida                 65
+Georgia                 59
+Hawaii                  64
+Idaho                   54
+Illinois                71
+Indiana                 56
+Iowa                    54
+Kansas                  61
+Kentucky                68
+Louisiana               81
+Maine                   68
+Maryland                83
+Massachusetts           81
+Michigan                69
+Minnesota               80
+Mississippi             58
+Missouri                88
+Montana                 53
+Nebraska                69
+Nevada                  68
+New Hampshire           77
+New Jersey              92
+New Mexico              61
+New York                79
+North Carolina          65
+North Dakota            55
+Ohio                    69
+Oklahoma                69
+Oregon                  35
+Pennsylvania            77
+Rhode Island            92
+South Carolina          79
+South Dakota            55
+Tennessee               58
+Texas                   64
+Utah                    39
+Vermont                 30
+Virginia                64
+Washington              71
+West Virginia           63
+Wisconsin               60

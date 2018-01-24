@@ -1,0 +1,53 @@
+                      Amazon Stock
+geoName                           
+Alabama                         21
+Alaska                          26
+Arizona                         34
+Arkansas                        24
+California                      38
+Colorado                        25
+Connecticut                     41
+Delaware                        44
+District of Columbia            31
+Florida                         27
+Georgia                         23
+Hawaii                          33
+Idaho                           25
+Illinois                        31
+Indiana                         31
+Iowa                            25
+Kansas                          23
+Kentucky                        37
+Louisiana                       17
+Maine                           28
+Maryland                        35
+Massachusetts                   32
+Michigan                        28
+Minnesota                       29
+Mississippi                     16
+Missouri                        26
+Montana                         23
+Nebraska                        26
+Nevada                          29
+New Hampshire                   28
+New Jersey                      43
+New Mexico                      17
+New York                        36
+North Carolina                  26
+North Dakota                    25
+Ohio                            26
+Oklahoma                        18
+Oregon                          22
+Pennsylvania                    32
+Rhode Island                    34
+South Carolina                  24
+South Dakota                    23
+Tennessee                       27
+Texas                           22
+Utah                            24
+Vermont                         25
+Virginia                        40
+Washington                     100
+West Virginia                   20
+Wisconsin                       28
+Wyoming                         24

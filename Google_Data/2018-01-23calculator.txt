@@ -1,0 +1,53 @@
+                      calculator
+geoName                         
+Alabama                       76
+Alaska                        81
+Arizona                       79
+Arkansas                      82
+California                    73
+Colorado                      85
+Connecticut                   83
+Delaware                      84
+District of Columbia          61
+Florida                       69
+Georgia                       68
+Hawaii                        73
+Idaho                         91
+Illinois                      76
+Indiana                      100
+Iowa                          95
+Kansas                        80
+Kentucky                      79
+Louisiana                     72
+Maine                         95
+Maryland                      79
+Massachusetts                 75
+Michigan                      79
+Minnesota                     81
+Mississippi                   68
+Missouri                      80
+Montana                       82
+Nebraska                      86
+Nevada                        74
+New Hampshire                 84
+New Jersey                    78
+New Mexico                    74
+New York                      69
+North Carolina                85
+North Dakota                  81
+Ohio                          85
+Oklahoma                      72
+Oregon                        59
+Pennsylvania                  74
+Rhode Island                  84
+South Carolina                84
+South Dakota                  96
+Tennessee                     73
+Texas                         70
+Utah                          92
+Vermont                       92
+Virginia                      65
+Washington                    74
+West Virginia                 79
+Wisconsin                     94
+Wyoming                       91

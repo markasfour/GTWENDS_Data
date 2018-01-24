@@ -1,53 +1,53 @@
                       Kevin Love
 geoName                         
-Alabama                       27
-Alaska                        13
-Arizona                       21
-Arkansas                      26
+Alabama                       28
+Alaska                        16
+Arizona                       20
+Arkansas                      25
 California                    26
-Colorado                      17
-Connecticut                   24
+Colorado                      16
+Connecticut                   23
 Delaware                      24
-District of Columbia          27
+District of Columbia          30
 Florida                       23
-Georgia                       29
-Hawaii                        23
+Georgia                       27
+Hawaii                        22
 Idaho                         14
-Illinois                      29
-Indiana                       25
-Iowa                          21
-Kansas                        18
-Kentucky                      25
-Louisiana                     38
+Illinois                      28
+Indiana                       24
+Iowa                          18
+Kansas                        17
+Kentucky                      24
+Louisiana                     40
 Maine                         16
 Maryland                      24
-Massachusetts                 28
-Michigan                      27
-Minnesota                     51
-Mississippi                   41
-Missouri                      23
-Montana                       19
+Massachusetts                 27
+Michigan                      26
+Minnesota                     54
+Mississippi                   40
+Missouri                      21
+Montana                       15
 Nebraska                      22
 Nevada                        23
-New Hampshire                 17
-New Jersey                    25
-New Mexico                    15
-New York                      27
-North Carolina                23
-North Dakota                  33
+New Hampshire                 20
+New Jersey                    24
+New Mexico                    16
+New York                      28
+North Carolina                24
+North Dakota                  32
 Ohio                         100
 Oklahoma                      23
 Oregon                        20
 Pennsylvania                  24
-Rhode Island                  20
-South Carolina                28
-South Dakota                  27
-Tennessee                     27
-Texas                         23
-Utah                          17
+Rhode Island                  21
+South Carolina                25
+South Dakota                  25
+Tennessee                     26
+Texas                         22
+Utah                          16
 Vermont                       15
-Virginia                      21
+Virginia                      20
 Washington                    18
-West Virginia                 25
-Wisconsin                     20
-Wyoming                       14
+West Virginia                 24
+Wisconsin                     19
+Wyoming                       10
