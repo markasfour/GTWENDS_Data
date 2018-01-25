@@ -1,0 +1,53 @@
+                      Lynyrd Skynyrd
+geoName                             
+Alabama                          100
+Alaska                            39
+Arizona                           45
+Arkansas                          74
+California                        34
+Colorado                          51
+Connecticut                       48
+Delaware                          61
+District of Columbia              50
+Florida                           55
+Georgia                           76
+Hawaii                            25
+Idaho                             44
+Illinois                          49
+Indiana                           63
+Iowa                              60
+Kansas                            51
+Kentucky                          91
+Louisiana                         67
+Maine                             60
+Maryland                          43
+Massachusetts                     48
+Michigan                          53
+Minnesota                         55
+Mississippi                       80
+Missouri                          63
+Montana                           60
+Nebraska                          62
+Nevada                            41
+New Hampshire                     57
+New Jersey                        43
+New Mexico                        50
+New York                          41
+North Carolina                    68
+North Dakota                      57
+Ohio                              58
+Oklahoma                          73
+Oregon                            33
+Pennsylvania                      58
+Rhode Island                      56
+South Carolina                    75
+South Dakota                      59
+Tennessee                         90
+Texas                             47
+Utah                              43
+Vermont                           58
+Virginia                          48
+Washington                        44
+West Virginia                     99
+Wisconsin                         48
+Wyoming                           66

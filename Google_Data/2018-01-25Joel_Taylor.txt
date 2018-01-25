@@ -1,0 +1,53 @@
+                      Joel Taylor
+geoName                          
+Alabama                        42
+Alaska                         20
+Arizona                        41
+Arkansas                       31
+California                     33
+Colorado                       34
+Connecticut                    57
+Delaware                      100
+District of Columbia           57
+Florida                        28
+Georgia                        33
+Hawaii                         25
+Idaho                          20
+Illinois                       42
+Indiana                        39
+Iowa                           46
+Kansas                         39
+Kentucky                       40
+Louisiana                      56
+Maine                          43
+Maryland                       37
+Massachusetts                  65
+Michigan                       38
+Minnesota                      37
+Mississippi                    48
+Missouri                       52
+Montana                         8
+Nebraska                       48
+Nevada                         30
+New Hampshire                  45
+New Jersey                     49
+New Mexico                     23
+New York                       47
+North Carolina                 37
+North Dakota                   21
+Ohio                           35
+Oklahoma                       50
+Oregon                         45
+Pennsylvania                   49
+Rhode Island                   35
+South Carolina                 35
+South Dakota                   10
+Tennessee                      44
+Texas                          36
+Utah                           55
+Vermont                        43
+Virginia                       28
+Washington                     25
+West Virginia                  23
+Wisconsin                      38
+Wyoming                        16

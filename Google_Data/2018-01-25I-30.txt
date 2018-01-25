@@ -1,0 +1,27 @@
+                I-30
+geoName             
+Arizona            2
+Arkansas         100
+California         2
+Colorado           3
+Connecticut        2
+Florida            2
+Georgia            2
+Illinois           2
+Louisiana          6
+Maryland           2
+Massachusetts      1
+Michigan           1
+Mississippi        3
+Missouri           4
+New Jersey         1
+New York           2
+North Carolina     1
+Ohio               1
+Oklahoma           9
+Pennsylvania       1
+South Carolina     2
+Tennessee          6
+Texas             30
+Virginia           1
+Washington         1

@@ -1,0 +1,53 @@
+                      Grumpy Cat
+geoName                         
+Alabama                       67
+Alaska                        83
+Arizona                       69
+Arkansas                      71
+California                    68
+Colorado                      80
+Connecticut                   64
+Delaware                      66
+District of Columbia          75
+Florida                       62
+Georgia                       63
+Hawaii                        68
+Idaho                         81
+Illinois                      72
+Indiana                       84
+Iowa                          80
+Kansas                        70
+Kentucky                      77
+Louisiana                     64
+Maine                         96
+Maryland                      62
+Massachusetts                 76
+Michigan                      77
+Minnesota                     81
+Mississippi                   52
+Missouri                      78
+Montana                       80
+Nebraska                      75
+Nevada                        66
+New Hampshire                 88
+New Jersey                    57
+New Mexico                    75
+New York                      63
+North Carolina                66
+North Dakota                  79
+Ohio                          80
+Oklahoma                      81
+Oregon                        66
+Pennsylvania                  80
+Rhode Island                  76
+South Carolina                63
+South Dakota                  75
+Tennessee                     75
+Texas                         68
+Utah                          87
+Vermont                       91
+Virginia                      61
+Washington                    88
+West Virginia                100
+Wisconsin                     79
+Wyoming                       74

@@ -1,0 +1,53 @@
+                      Vehicle
+geoName                      
+Alabama                    57
+Alaska                     80
+Arizona                    86
+Arkansas                   66
+California                 50
+Colorado                   80
+Connecticut                54
+Delaware                   65
+District of Columbia       62
+Florida                    55
+Georgia                    58
+Hawaii                     66
+Idaho                      66
+Illinois                   55
+Indiana                    52
+Iowa                       65
+Kansas                     71
+Kentucky                   55
+Louisiana                  64
+Maine                      76
+Maryland                   61
+Massachusetts              45
+Michigan                   57
+Minnesota                  56
+Mississippi                54
+Missouri                   63
+Montana                   100
+Nebraska                   65
+Nevada                     57
+New Hampshire              60
+New Jersey                 83
+New Mexico                 91
+New York                   47
+North Carolina             60
+North Dakota               94
+Ohio                       45
+Oklahoma                   59
+Oregon                     43
+Pennsylvania               52
+Rhode Island               46
+South Carolina             60
+South Dakota               78
+Tennessee                  61
+Texas                      75
+Utah                       61
+Vermont                    56
+Virginia                   54
+Washington                 66
+West Virginia              65
+Wisconsin                  59
+Wyoming                    86

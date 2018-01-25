@@ -1,0 +1,53 @@
+                      Buford
+geoName                     
+Alabama                    6
+Alaska                     1
+Arizona                    1
+Arkansas                   3
+California                 1
+Colorado                   1
+Connecticut                1
+Delaware                   1
+District of Columbia       2
+Florida                    3
+Georgia                  100
+Hawaii                     1
+Idaho                      1
+Illinois                   2
+Indiana                    2
+Iowa                       1
+Kansas                     2
+Kentucky                   4
+Louisiana                  2
+Maine                      1
+Maryland                   1
+Massachusetts              1
+Michigan                   1
+Minnesota                  2
+Mississippi                6
+Missouri                   2
+Montana                    1
+Nebraska                   1
+Nevada                     1
+New Hampshire              1
+New Jersey                 1
+New Mexico                 1
+New York                   2
+North Carolina             4
+North Dakota               2
+Ohio                       2
+Oklahoma                   2
+Oregon                     1
+Pennsylvania               1
+Rhode Island               1
+South Carolina             8
+South Dakota               1
+Tennessee                  6
+Texas                      2
+Utah                       1
+Vermont                    1
+Virginia                   3
+Washington                 1
+West Virginia              2
+Wisconsin                  1
+Wyoming                    4

@@ -1,0 +1,53 @@
+                      Duke Basketball
+geoName                              
+Alabama                            10
+Alaska                              8
+Arizona                             6
+Arkansas                            8
+California                          5
+Colorado                            7
+Connecticut                        10
+Delaware                           14
+District of Columbia               18
+Florida                             8
+Georgia                            16
+Hawaii                              6
+Idaho                               7
+Illinois                            9
+Indiana                            12
+Iowa                                9
+Kansas                              9
+Kentucky                           26
+Louisiana                           8
+Maine                               9
+Maryland                           13
+Massachusetts                       8
+Michigan                            8
+Minnesota                           7
+Mississippi                        10
+Missouri                            9
+Montana                            11
+Nebraska                           13
+Nevada                              6
+New Hampshire                       7
+New Jersey                         10
+New Mexico                          8
+New York                           10
+North Carolina                    100
+North Dakota                       15
+Ohio                               11
+Oklahoma                            6
+Oregon                              4
+Pennsylvania                       13
+Rhode Island                        7
+South Carolina                     32
+South Dakota                       18
+Tennessee                          16
+Texas                               5
+Utah                                7
+Vermont                            11
+Virginia                           22
+Washington                          5
+West Virginia                      19
+Wisconsin                           9
+Wyoming                            10

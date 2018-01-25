@@ -1,0 +1,53 @@
+                      earthquake
+geoName                         
+Alabama                       13
+Alaska                       100
+Arizona                       25
+Arkansas                      19
+California                    66
+Colorado                      20
+Connecticut                   14
+Delaware                      18
+District of Columbia          16
+Florida                       13
+Georgia                       13
+Hawaii                        41
+Idaho                         29
+Illinois                      15
+Indiana                       15
+Iowa                          16
+Kansas                        24
+Kentucky                      15
+Louisiana                     11
+Maine                         16
+Maryland                      16
+Massachusetts                 14
+Michigan                      14
+Minnesota                     13
+Mississippi                   13
+Missouri                      18
+Montana                       38
+Nebraska                      15
+Nevada                        35
+New Hampshire                 15
+New Jersey                    17
+New Mexico                    19
+New York                      14
+North Carolina                15
+North Dakota                  13
+Ohio                          12
+Oklahoma                      43
+Oregon                        28
+Pennsylvania                  14
+Rhode Island                  15
+South Carolina                16
+South Dakota                  15
+Tennessee                     14
+Texas                         15
+Utah                          29
+Vermont                       17
+Virginia                      14
+Washington                    35
+West Virginia                 14
+Wisconsin                     14
+Wyoming                       22
