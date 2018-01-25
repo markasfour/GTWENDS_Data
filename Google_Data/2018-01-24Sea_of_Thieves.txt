@@ -1,52 +1,53 @@
                       Sea of Thieves
 geoName                             
-Alabama                           75
-Alaska                            61
-Arizona                           72
-Arkansas                          55
-California                        54
-Colorado                          67
-Connecticut                       62
-Delaware                          49
-District of Columbia              28
-Florida                           64
-Georgia                           43
-Hawaii                            22
-Idaho                             64
-Illinois                          52
-Indiana                           75
-Iowa                              87
-Kansas                            65
-Kentucky                          74
-Louisiana                         71
-Maine                             96
-Maryland                          55
-Massachusetts                     55
-Michigan                          64
-Minnesota                         62
-Mississippi                       46
-Missouri                          67
-Montana                           59
-Nebraska                          64
-Nevada                            49
-New Hampshire                     71
-New Jersey                        51
-New Mexico                        48
-New York                          42
-North Carolina                    56
-North Dakota                      74
-Ohio                              79
-Oklahoma                          67
-Oregon                            49
-Pennsylvania                      60
-Rhode Island                      89
-South Carolina                    58
-South Dakota                      49
-Tennessee                         81
-Texas                             55
-Utah                             100
-Vermont                           25
-Virginia                          51
-Washington                        86
-West Virginia                     88
-Wisconsin                         67
+Alabama                           59
+Alaska                            58
+Arizona                           54
+Arkansas                          53
+California                        44
+Colorado                          52
+Connecticut                       53
+Delaware                          20
+District of Columbia              19
+Florida                           51
+Georgia                           41
+Hawaii                            24
+Idaho                             57
+Illinois                          45
+Indiana                           67
+Iowa                              70
+Kansas                            60
+Kentucky                          73
+Louisiana                         56
+Maine                             55
+Maryland                          45
+Massachusetts                     46
+Michigan                          58
+Minnesota                         50
+Mississippi                       52
+Missouri                          47
+Montana                           68
+Nebraska                          45
+Nevada                            39
+New Hampshire                     61
+New Jersey                        47
+New Mexico                        40
+New York                          30
+North Carolina                    53
+North Dakota                     100
+Ohio                              68
+Oklahoma                          61
+Oregon                            47
+Pennsylvania                      50
+Rhode Island                      68
+South Carolina                    43
+South Dakota                      60
+Tennessee                         64
+Texas                             44
+Utah                              91
+Vermont                           16
+Virginia                          47
+Washington                        76
+West Virginia                     80
+Wisconsin                         62
+Wyoming                           67

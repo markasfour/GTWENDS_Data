@@ -1,49 +1,50 @@
                 Lari White
 geoName                   
-Alabama                 57
-Alaska                  41
-Arizona                 24
-Arkansas                69
-California              14
+Alabama                 33
+Alaska                  18
+Arizona                 21
+Arkansas                54
+California              15
 Colorado                26
-Connecticut             14
-Delaware                67
-Florida                 28
-Georgia                 37
-Idaho                   60
-Illinois                22
-Indiana                 31
+Connecticut             12
+Delaware                29
+Florida                 25
+Georgia                 28
+Hawaii                  15
+Idaho                   43
+Illinois                23
+Indiana                 29
 Iowa                    31
-Kansas                  39
-Kentucky                36
-Louisiana               15
-Maine                   44
-Maryland                19
-Massachusetts           14
-Michigan                28
-Minnesota               13
-Mississippi             56
-Missouri                33
-Montana                 17
-Nebraska                42
-Nevada                  18
-New Hampshire           10
-New Jersey              11
-New Mexico              36
+Kansas                  26
+Kentucky                41
+Louisiana               23
+Maine                   19
+Maryland                23
+Massachusetts           11
+Michigan                16
+Minnesota               17
+Mississippi             48
+Missouri                29
+Montana                 58
+Nebraska                36
+Nevada                  15
+New Hampshire           17
+New Jersey               9
+New Mexico              39
 New York                14
-North Carolina          39
-North Dakota            64
-Ohio                    33
-Oklahoma                37
-Oregon                  18
-Pennsylvania            12
-Rhode Island            35
-South Carolina          46
-South Dakota            63
+North Carolina          29
+North Dakota            18
+Ohio                    22
+Oklahoma                39
+Oregon                  16
+Pennsylvania            17
+South Carolina          17
+South Dakota            18
 Tennessee              100
-Texas                   27
-Utah                    27
-Virginia                22
-Washington              19
-West Virginia           68
+Texas                   30
+Utah                    16
+Vermont                 19
+Virginia                21
+Washington              12
+West Virginia           49
 Wisconsin               27

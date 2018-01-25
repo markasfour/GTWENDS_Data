@@ -1,0 +1,53 @@
+                      ProBowl
+geoName                      
+Alabama                    10
+Alaska                     18
+Arizona                    28
+Arkansas                    8
+California                 17
+Colorado                   22
+Connecticut                16
+Delaware                   17
+District of Columbia       18
+Florida                    19
+Georgia                    13
+Hawaii                    100
+Idaho                      16
+Illinois                   15
+Indiana                    21
+Iowa                       15
+Kansas                     20
+Kentucky                   12
+Louisiana                  23
+Maine                      23
+Maryland                   21
+Massachusetts              15
+Michigan                   13
+Minnesota                  25
+Mississippi                12
+Missouri                   17
+Montana                    29
+Nebraska                   18
+Nevada                     18
+New Hampshire              15
+New Jersey                 18
+New Mexico                 21
+New York                   13
+North Carolina             17
+North Dakota               32
+Ohio                       16
+Oklahoma                   13
+Oregon                     10
+Pennsylvania               19
+Rhode Island               14
+South Carolina             12
+South Dakota               24
+Tennessee                  14
+Texas                      19
+Utah                       13
+Vermont                    15
+Virginia                   17
+Washington                 35
+West Virginia              13
+Wisconsin                  31
+Wyoming                    14

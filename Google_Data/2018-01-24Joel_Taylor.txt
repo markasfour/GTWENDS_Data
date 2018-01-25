@@ -1,42 +1,53 @@
-                Joel Taylor
-geoName                    
-Alabama                  57
-Arizona                  44
-Arkansas                 56
-California               43
-Colorado                 65
-Florida                  55
-Georgia                  48
-Illinois                 72
-Indiana                  59
-Iowa                     56
-Kansas                   50
-Kentucky                 37
-Louisiana                60
-Maryland                 63
-Massachusetts            65
-Michigan                 50
-Minnesota                55
-Mississippi             100
-Missouri                 57
-Montana                  34
-Nebraska                 42
-Nevada                   35
-New Jersey               64
-New Mexico               37
-New York                 66
-North Carolina           53
-North Dakota             28
-Ohio                     52
-Oklahoma                 50
-Oregon                   57
-Pennsylvania             59
-South Carolina           41
-South Dakota             71
-Tennessee                57
-Texas                    54
-Utah                     59
-Virginia                 48
-Washington               53
-Wisconsin                49
-Wyoming                  85
+                      Joel Taylor
+geoName                          
+Alabama                        67
+Alaska                         41
+Arizona                        68
+Arkansas                       51
+California                     42
+Colorado                       44
+Connecticut                    45
+Delaware                      100
+District of Columbia           59
+Florida                        40
+Georgia                        42
+Hawaii                         17
+Idaho                          33
+Illinois                       62
+Indiana                        35
+Iowa                           72
+Kansas                         47
+Kentucky                       63
+Louisiana                      55
+Maine                          58
+Maryland                       48
+Massachusetts                  73
+Michigan                       51
+Minnesota                      47
+Mississippi                    60
+Missouri                       52
+Montana                        56
+Nebraska                       51
+Nevada                         54
+New Hampshire                  73
+New Jersey                     51
+New Mexico                     36
+New York                       59
+North Carolina                 56
+North Dakota                   57
+Ohio                           47
+Oklahoma                       60
+Oregon                         61
+Pennsylvania                   70
+Rhode Island                   54
+South Carolina                 52
+South Dakota                   14
+Tennessee                      64
+Texas                          47
+Utah                           55
+Vermont                        57
+Virginia                       43
+Washington                     43
+West Virginia                  68
+Wisconsin                      37
+Wyoming                        62

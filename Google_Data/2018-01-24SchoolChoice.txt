@@ -1,0 +1,5 @@
+         SchoolChoice
+geoName              
+Florida           100
+Georgia            20
+Texas               8

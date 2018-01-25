@@ -2,7 +2,7 @@
 geoName                                
 Alabama                               0
 Alaska                              100
-Arizona                               1
+Arizona                               0
 Arkansas                              0
 California                            1
 Colorado                              1
@@ -15,7 +15,7 @@ Hawaii                                1
 Idaho                                 1
 Illinois                              0
 Indiana                               0
-Iowa                                  0
+Iowa                                  1
 Kansas                                0
 Kentucky                              0
 Louisiana                             0
@@ -29,9 +29,9 @@ Missouri                              0
 Montana                               1
 Nebraska                              1
 Nevada                                1
-New Hampshire                         0
+New Hampshire                         1
 New Jersey                            0
-New Mexico                            1
+New Mexico                            0
 New York                              0
 North Carolina                        0
 North Dakota                          0
@@ -45,7 +45,7 @@ South Dakota                          0
 Tennessee                             0
 Texas                                 0
 Utah                                  1
-Vermont                               1
+Vermont                               0
 Virginia                              0
 Washington                            2
 West Virginia                         0

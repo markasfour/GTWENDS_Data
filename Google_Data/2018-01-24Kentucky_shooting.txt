@@ -1,53 +1,53 @@
                       Kentucky shooting
 geoName                                
-Alabama                               3
+Alabama                               4
 Alaska                                2
-Arizona                               1
+Arizona                               2
 Arkansas                              3
 California                            1
-Colorado                              3
+Colorado                              2
 Connecticut                           1
-Delaware                              2
-District of Columbia                  3
+Delaware                              1
+District of Columbia                  4
 Florida                               2
-Georgia                               6
+Georgia                               5
 Hawaii                                1
-Idaho                                 3
+Idaho                                 1
 Illinois                              3
-Indiana                              10
-Iowa                                  2
+Indiana                               8
+Iowa                                  3
 Kansas                                1
 Kentucky                            100
-Louisiana                             2
+Louisiana                             1
 Maine                                 1
 Maryland                              2
-Massachusetts                         2
+Massachusetts                         1
 Michigan                              3
 Minnesota                             2
-Mississippi                           2
-Missouri                              4
+Mississippi                           1
+Missouri                              3
 Montana                               2
-Nebraska                              3
-Nevada                                3
+Nebraska                              2
+Nevada                                1
 New Hampshire                         1
 New Jersey                            1
 New Mexico                            3
 New York                              1
 North Carolina                        2
-North Dakota                          6
+North Dakota                          2
 Ohio                                  7
 Oklahoma                              2
 Oregon                                1
 Pennsylvania                          2
 Rhode Island                          2
 South Carolina                        3
-South Dakota                          3
+South Dakota                          4
 Tennessee                             9
-Texas                                 2
-Utah                                  2
+Texas                                 1
+Utah                                  1
 Vermont                               1
 Virginia                              2
 Washington                            1
-West Virginia                         5
+West Virginia                         4
 Wisconsin                             2
 Wyoming                               1
