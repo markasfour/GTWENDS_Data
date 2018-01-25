@@ -1,0 +1,53 @@
+                      Seabrook
+geoName                       
+Alabama                      1
+Alaska                       1
+Arizona                      1
+Arkansas                     1
+California                   1
+Colorado                     1
+Connecticut                  3
+Delaware                     2
+District of Columbia         3
+Florida                      1
+Georgia                      2
+Hawaii                       0
+Idaho                        1
+Illinois                     2
+Indiana                      1
+Iowa                         1
+Kansas                       1
+Kentucky                     2
+Louisiana                    3
+Maine                        8
+Maryland                     3
+Massachusetts               18
+Michigan                     1
+Minnesota                    1
+Mississippi                  1
+Missouri                     1
+Montana                      1
+Nebraska                     1
+Nevada                       1
+New Hampshire              100
+New Jersey                   3
+New Mexico                   1
+New York                     2
+North Carolina               3
+North Dakota                 0
+Ohio                         1
+Oklahoma                     1
+Oregon                       1
+Pennsylvania                 2
+Rhode Island                 3
+South Carolina              13
+South Dakota                 0
+Tennessee                    2
+Texas                        9
+Utah                         1
+Vermont                      4
+Virginia                     1
+Washington                   7
+West Virginia                1
+Wisconsin                    1
+Wyoming                      1

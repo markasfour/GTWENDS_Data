@@ -6,8 +6,8 @@ CA 2
 CO 15
 CT 0
 DE 0
-DC 4
-FL 4
+DC 6
+FL 8
 GA 0
 HI 0
 ID 0
@@ -18,7 +18,7 @@ KS 0
 KY 0
 LA 0
 ME 0
-MD 4
+MD 6
 MA 1
 MI 0
 MN 0
@@ -31,7 +31,7 @@ NH 1
 NJ 0
 NM 0
 NY 0
-NC 0
+NC 1
 ND 0
 OH 0
 OK 0

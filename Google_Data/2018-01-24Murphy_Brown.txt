@@ -1,0 +1,40 @@
+                      Murphy Brown
+geoName                           
+Alabama                         49
+Arizona                         32
+Arkansas                        43
+California                      35
+Colorado                        43
+Connecticut                     50
+District of Columbia            63
+Florida                         33
+Georgia                         46
+Illinois                        48
+Indiana                         40
+Iowa                           100
+Kansas                          45
+Kentucky                        50
+Louisiana                       47
+Maine                           48
+Maryland                        51
+Massachusetts                   49
+Michigan                        45
+Minnesota                       45
+Mississippi                     45
+Missouri                        73
+Nebraska                        43
+Nevada                          27
+New Jersey                      49
+New York                        45
+North Carolina                  92
+Ohio                            44
+Oklahoma                        48
+Oregon                          29
+Pennsylvania                    49
+South Carolina                  52
+Tennessee                       46
+Texas                           33
+Utah                            27
+Virginia                        51
+Washington                      37
+Wisconsin                       50

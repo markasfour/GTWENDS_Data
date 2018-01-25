@@ -1,53 +1,53 @@
                       Call Me By Your Name
 geoName                                   
-Alabama                                 33
-Alaska                                  29
-Arizona                                 47
-Arkansas                                28
-California                              83
-Colorado                                47
-Connecticut                             70
-Delaware                                64
-District of Columbia                    55
-Florida                                 43
-Georgia                                 35
-Hawaii                                  37
-Idaho                                   38
+Alabama                                 27
+Alaska                                  24
+Arizona                                 44
+Arkansas                                34
+California                              81
+Colorado                                43
+Connecticut                             62
+Delaware                                59
+District of Columbia                    52
+Florida                                 39
+Georgia                                 37
+Hawaii                                  32
+Idaho                                   36
 Illinois                                56
 Indiana                                 39
-Iowa                                    34
-Kansas                                  25
-Kentucky                                29
+Iowa                                    30
+Kansas                                  28
+Kentucky                                26
 Louisiana                               33
-Maine                                   49
-Maryland                                64
-Massachusetts                           74
-Michigan                                39
-Minnesota                               55
+Maine                                   52
+Maryland                                61
+Massachusetts                           71
+Michigan                                37
+Minnesota                               51
 Mississippi                             20
-Missouri                                37
-Montana                                 21
-Nebraska                                35
-Nevada                                  40
-New Hampshire                           40
-New Jersey                              63
-New Mexico                              32
+Missouri                                36
+Montana                                 24
+Nebraska                                26
+Nevada                                  36
+New Hampshire                           31
+New Jersey                              65
+New Mexico                              44
 New York                               100
-North Carolina                          39
-North Dakota                            19
-Ohio                                    41
+North Carolina                          36
+North Dakota                            14
+Ohio                                    34
 Oklahoma                                30
-Oregon                                  52
+Oregon                                  49
 Pennsylvania                            49
-Rhode Island                            59
-South Carolina                          32
+Rhode Island                            57
+South Carolina                          31
 South Dakota                            12
 Tennessee                               31
-Texas                                   48
-Utah                                    47
-Vermont                                 59
-Virginia                                42
-Washington                              53
-West Virginia                           27
-Wisconsin                               38
-Wyoming                                 32
+Texas                                   45
+Utah                                    41
+Vermont                                 62
+Virginia                                40
+Washington                              51
+West Virginia                           28
+Wisconsin                               35
+Wyoming                                 13
