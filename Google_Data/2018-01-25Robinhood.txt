@@ -1,0 +1,53 @@
+                      Robinhood
+geoName                        
+Alabama                      20
+Alaska                       14
+Arizona                      20
+Arkansas                     18
+California                   34
+Colorado                     19
+Connecticut                  24
+Delaware                     21
+District of Columbia         24
+Florida                      23
+Georgia                      24
+Hawaii                       22
+Idaho                        18
+Illinois                     27
+Indiana                      18
+Iowa                         16
+Kansas                       18
+Kentucky                     15
+Louisiana                    18
+Maine                        35
+Maryland                     29
+Massachusetts                27
+Michigan                     22
+Minnesota                    20
+Mississippi                  22
+Missouri                     18
+Montana                      15
+Nebraska                     17
+Nevada                       19
+New Hampshire                23
+New Jersey                   26
+New Mexico                   12
+New York                     30
+North Carolina              100
+North Dakota                 19
+Ohio                         23
+Oklahoma                     15
+Oregon                       16
+Pennsylvania                 24
+Rhode Island                 24
+South Carolina               22
+South Dakota                 11
+Tennessee                    23
+Texas                        21
+Utah                         27
+Vermont                      19
+Virginia                     25
+Washington                   31
+West Virginia                14
+Wisconsin                    18
+Wyoming                      16

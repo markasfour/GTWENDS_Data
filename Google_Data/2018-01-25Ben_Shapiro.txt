@@ -1,0 +1,53 @@
+                      Ben Shapiro
+geoName                          
+Alabama                        41
+Alaska                         42
+Arizona                        38
+Arkansas                       36
+California                     47
+Colorado                       37
+Connecticut                    48
+Delaware                       38
+District of Columbia           35
+Florida                        30
+Georgia                        30
+Hawaii                         27
+Idaho                          56
+Illinois                       42
+Indiana                        46
+Iowa                           41
+Kansas                         37
+Kentucky                       30
+Louisiana                      31
+Maine                          34
+Maryland                       41
+Massachusetts                  38
+Michigan                       42
+Minnesota                      43
+Mississippi                    36
+Missouri                       41
+Montana                        51
+Nebraska                       43
+Nevada                         37
+New Hampshire                  37
+New Jersey                     42
+New Mexico                     36
+New York                       40
+North Carolina                 37
+North Dakota                   45
+Ohio                           41
+Oklahoma                       35
+Oregon                         27
+Pennsylvania                   45
+Rhode Island                   30
+South Carolina                 27
+South Dakota                   46
+Tennessee                      43
+Texas                          35
+Utah                          100
+Vermont                        36
+Virginia                       33
+Washington                     50
+West Virginia                  26
+Wisconsin                      41
+Wyoming                        32

@@ -1,0 +1,53 @@
+                      XFL
+geoName                  
+Alabama                97
+Alaska                 43
+Arizona                49
+Arkansas               65
+California             49
+Colorado               55
+Connecticut            78
+Delaware               74
+District of Columbia   63
+Florida                58
+Georgia                62
+Hawaii                 45
+Idaho                  53
+Illinois               75
+Indiana                91
+Iowa                   81
+Kansas                 61
+Kentucky               69
+Louisiana              83
+Maine                  61
+Maryland               67
+Massachusetts          76
+Michigan               82
+Minnesota              64
+Mississippi            67
+Missouri               64
+Montana                56
+Nebraska               83
+Nevada                 54
+New Hampshire          72
+New Jersey             69
+New Mexico             45
+New York               62
+North Carolina         64
+North Dakota           96
+Ohio                   98
+Oklahoma               97
+Oregon                 40
+Pennsylvania           82
+Rhode Island           93
+South Carolina         53
+South Dakota          100
+Tennessee              83
+Texas                  62
+Utah                   49
+Vermont                61
+Virginia               50
+Washington             53
+West Virginia          57
+Wisconsin              92
+Wyoming                44

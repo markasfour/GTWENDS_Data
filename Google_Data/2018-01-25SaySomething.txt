@@ -1,0 +1,6 @@
+            SaySomething
+geoName                 
+California            68
+Florida               71
+New York              84
+Texas                100

@@ -1,0 +1,52 @@
+                      Beme
+geoName                   
+Alabama                 36
+Alaska                  55
+Arizona                 57
+Arkansas                52
+California              63
+Colorado                52
+Connecticut            100
+Delaware                40
+District of Columbia    55
+Florida                 45
+Georgia                 37
+Hawaii                  59
+Idaho                   51
+Illinois                53
+Indiana                 57
+Iowa                    48
+Kansas                  35
+Kentucky                33
+Louisiana               26
+Maine                   46
+Maryland                64
+Massachusetts           64
+Michigan                49
+Minnesota               51
+Mississippi             21
+Missouri                30
+Montana                 56
+Nebraska                48
+Nevada                  65
+New Hampshire           70
+New Jersey              78
+New Mexico              36
+New York                88
+North Carolina          47
+North Dakota            51
+Ohio                    45
+Oklahoma                25
+Oregon                  59
+Pennsylvania            52
+Rhode Island            46
+South Carolina          45
+South Dakota            50
+Tennessee               37
+Texas                   39
+Utah                    61
+Vermont                 71
+Virginia                47
+Washington              60
+West Virginia           27
+Wisconsin               46

@@ -1,0 +1,52 @@
+                      Apollo 1
+geoName                       
+Alabama                     94
+Alaska                      85
+Arizona                     68
+Arkansas                    66
+California                  51
+Colorado                    78
+Connecticut                 64
+Delaware                    64
+District of Columbia        60
+Florida                     69
+Georgia                     55
+Hawaii                      58
+Idaho                       66
+Illinois                    62
+Indiana                     91
+Iowa                        85
+Kansas                      83
+Kentucky                    58
+Louisiana                   51
+Maine                       67
+Maryland                    83
+Massachusetts               67
+Michigan                    58
+Minnesota                   69
+Mississippi                 62
+Missouri                    66
+Montana                     74
+Nebraska                    77
+Nevada                      55
+New Hampshire               71
+New Jersey                  63
+New Mexico                  69
+New York                    59
+North Carolina              62
+North Dakota                91
+Ohio                        64
+Oklahoma                    72
+Oregon                      46
+Pennsylvania                78
+Rhode Island                67
+South Carolina              65
+South Dakota                75
+Tennessee                   73
+Texas                       70
+Utah                        59
+Vermont                    100
+Virginia                    72
+Washington                  67
+West Virginia               53
+Wisconsin                   81

@@ -1,0 +1,53 @@
+                      Hostiles
+geoName                       
+Alabama                     42
+Alaska                      30
+Arizona                     55
+Arkansas                    46
+California                  40
+Colorado                    46
+Connecticut                 23
+Delaware                    28
+District of Columbia        14
+Florida                     26
+Georgia                     27
+Hawaii                      19
+Idaho                       43
+Illinois                    28
+Indiana                     24
+Iowa                        28
+Kansas                      35
+Kentucky                    35
+Louisiana                   24
+Maine                       31
+Maryland                    28
+Massachusetts               23
+Michigan                    32
+Minnesota                   23
+Mississippi                 31
+Missouri                    35
+Montana                     69
+Nebraska                    35
+Nevada                      32
+New Hampshire               31
+New Jersey                  25
+New Mexico                 100
+New York                    25
+North Carolina              33
+North Dakota                35
+Ohio                        32
+Oklahoma                    47
+Oregon                      27
+Pennsylvania                26
+Rhode Island                18
+South Carolina              32
+South Dakota                73
+Tennessee                   38
+Texas                       38
+Utah                        51
+Vermont                     34
+Virginia                    25
+Washington                  35
+West Virginia               39
+Wisconsin                   33
+Wyoming                     63
