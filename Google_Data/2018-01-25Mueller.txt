@@ -1,0 +1,53 @@
+                      Mueller
+geoName                      
+Alabama                    33
+Alaska                     41
+Arizona                    42
+Arkansas                   37
+California                 40
+Colorado                   64
+Connecticut                44
+Delaware                   33
+District of Columbia       51
+Florida                    33
+Georgia                    31
+Hawaii                     33
+Idaho                      37
+Illinois                   58
+Indiana                    37
+Iowa                       53
+Kansas                     42
+Kentucky                   38
+Louisiana                  37
+Maine                      39
+Maryland                   40
+Massachusetts              47
+Michigan                   39
+Minnesota                  71
+Mississippi                32
+Missouri                   65
+Montana                    46
+Nebraska                   61
+Nevada                     34
+New Hampshire              41
+New Jersey                 43
+New Mexico                 52
+New York                   45
+North Carolina             33
+North Dakota               42
+Ohio                       47
+Oklahoma                   44
+Oregon                     37
+Pennsylvania               43
+Rhode Island               38
+South Carolina             31
+South Dakota               53
+Tennessee                  38
+Texas                      79
+Utah                       66
+Vermont                    48
+Virginia                   37
+Washington                 44
+West Virginia              33
+Wisconsin                 100
+Wyoming                    37

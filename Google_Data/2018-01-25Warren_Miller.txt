@@ -1,38 +1,38 @@
                       Warren Miller
 geoName                            
 Alaska                           30
-Arizona                          12
-California                        9
-Colorado                         68
-Connecticut                      25
+Arizona                          15
+California                       10
+Colorado                         80
+Connecticut                      26
 District of Columbia             11
 Florida                           3
-Georgia                           3
+Georgia                           4
 Hawaii                            6
-Idaho                            28
-Illinois                          6
-Indiana                           6
-Maine                            26
+Idaho                            40
+Illinois                          7
+Indiana                           7
+Maine                            22
 Maryland                          7
-Massachusetts                    20
-Michigan                         24
-Minnesota                        12
-Missouri                          5
+Massachusetts                    25
+Michigan                         26
+Minnesota                        16
+Missouri                          6
 Montana                         100
-Nevada                           15
-New Hampshire                    44
+Nevada                           13
+New Hampshire                    52
 New Jersey                        8
-New Mexico                        9
-New York                         11
-North Carolina                    6
+New Mexico                       13
+New York                         12
+North Carolina                    8
 Ohio                              9
-Oregon                           19
-Pennsylvania                     10
-Rhode Island                     22
-Tennessee                         5
+Oregon                           25
+Pennsylvania                     11
+Rhode Island                     25
+Tennessee                         6
 Texas                             4
-Utah                             70
-Vermont                          88
-Virginia                          5
-Washington                       32
-Wisconsin                         8
+Utah                             81
+Vermont                          96
+Virginia                          6
+Washington                       36
+Wisconsin                        10

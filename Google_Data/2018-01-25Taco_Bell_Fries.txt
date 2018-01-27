@@ -1,50 +1,51 @@
                       Taco Bell Fries
 geoName                              
 Alabama                            47
-Alaska                             15
-Arizona                            33
-Arkansas                           32
-California                         41
-Colorado                           19
-Connecticut                        25
-Delaware                           24
-District of Columbia               12
-Florida                            31
-Georgia                            25
-Hawaii                             19
-Idaho                              15
-Illinois                           29
-Indiana                            41
-Iowa                               19
-Kansas                             33
-Kentucky                           29
-Louisiana                          27
-Maryland                           23
-Massachusetts                      13
-Michigan                           50
-Minnesota                          24
-Mississippi                        30
-Missouri                           49
-Montana                            24
-Nebraska                           13
-Nevada                             30
-New Hampshire                      11
-New Jersey                         24
-New Mexico                         20
-New York                           18
-North Carolina                     24
-North Dakota                       31
-Ohio                               44
-Oklahoma                           28
-Oregon                             17
-Pennsylvania                       28
-Rhode Island                       42
-South Carolina                     27
-South Dakota                       15
+Alaska                             34
+Arizona                            34
+Arkansas                           35
+California                         43
+Colorado                           20
+Connecticut                        21
+Delaware                           28
+District of Columbia               22
+Florida                            38
+Georgia                            31
+Hawaii                             25
+Idaho                              29
+Illinois                           40
+Indiana                            55
+Iowa                               26
+Kansas                             26
+Kentucky                           57
+Louisiana                          29
+Maine                               5
+Maryland                           26
+Massachusetts                      18
+Michigan                           47
+Minnesota                          39
+Mississippi                        50
+Missouri                           53
+Montana                            14
+Nebraska                           18
+Nevada                             46
+New Hampshire                      17
+New Jersey                         27
+New Mexico                         38
+New York                           23
+North Carolina                     29
+North Dakota                       35
+Ohio                               58
+Oklahoma                           27
+Oregon                             27
+Pennsylvania                       27
+Rhode Island                       45
+South Carolina                     32
+South Dakota                       35
 Tennessee                          36
-Texas                              26
-Utah                               28
-Virginia                           24
-Washington                         28
+Texas                              28
+Utah                               32
+Virginia                           30
+Washington                         39
 West Virginia                     100
-Wisconsin                          29
+Wisconsin                          19

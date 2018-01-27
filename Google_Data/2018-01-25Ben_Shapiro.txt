@@ -1,53 +1,53 @@
                       Ben Shapiro
 geoName                          
-Alabama                        41
-Alaska                         42
-Arizona                        38
-Arkansas                       36
-California                     47
-Colorado                       37
+Alabama                        40
+Alaska                         37
+Arizona                        42
+Arkansas                       41
+California                     50
+Colorado                       41
 Connecticut                    48
-Delaware                       38
-District of Columbia           35
-Florida                        30
-Georgia                        30
-Hawaii                         27
-Idaho                          56
-Illinois                       42
-Indiana                        46
-Iowa                           41
-Kansas                         37
-Kentucky                       30
-Louisiana                      31
+Delaware                       37
+District of Columbia           36
+Florida                        32
+Georgia                        34
+Hawaii                         28
+Idaho                          53
+Illinois                       44
+Indiana                        49
+Iowa                           45
+Kansas                         38
+Kentucky                       33
+Louisiana                      32
 Maine                          34
-Maryland                       41
-Massachusetts                  38
-Michigan                       42
-Minnesota                      43
-Mississippi                    36
-Missouri                       41
-Montana                        51
-Nebraska                       43
-Nevada                         37
-New Hampshire                  37
-New Jersey                     42
-New Mexico                     36
-New York                       40
-North Carolina                 37
-North Dakota                   45
-Ohio                           41
-Oklahoma                       35
-Oregon                         27
-Pennsylvania                   45
-Rhode Island                   30
-South Carolina                 27
+Maryland                       47
+Massachusetts                  40
+Michigan                       44
+Minnesota                      46
+Mississippi                    38
+Missouri                       46
+Montana                        54
+Nebraska                       47
+Nevada                         40
+New Hampshire                  33
+New Jersey                     44
+New Mexico                     44
+New York                       42
+North Carolina                 36
+North Dakota                   48
+Ohio                           46
+Oklahoma                       40
+Oregon                         30
+Pennsylvania                   46
+Rhode Island                   29
+South Carolina                 28
 South Dakota                   46
 Tennessee                      43
-Texas                          35
+Texas                          37
 Utah                          100
-Vermont                        36
-Virginia                       33
-Washington                     50
+Vermont                        37
+Virginia                       35
+Washington                     55
 West Virginia                  26
-Wisconsin                      41
-Wyoming                        32
+Wisconsin                      44
+Wyoming                        37

@@ -1,0 +1,19 @@
+                TheFour
+geoName                
+California           48
+Florida              39
+Georgia              49
+Illinois             45
+Maryland            100
+Massachusetts        83
+Michigan             46
+Missouri             51
+New Jersey           54
+New York             45
+North Carolina       22
+Ohio                 37
+Pennsylvania         60
+Tennessee            75
+Texas                45
+Virginia             39
+Washington           46

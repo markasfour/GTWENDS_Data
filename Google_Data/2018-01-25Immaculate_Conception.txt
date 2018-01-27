@@ -1,52 +1,52 @@
                       Immaculate Conception
 geoName                                    
 Alabama                                  15
-Alaska                                   25
-Arizona                                  19
-Arkansas                                 45
-California                               15
-Colorado                                 26
-Connecticut                              45
-Delaware                                 25
-District of Columbia                     57
-Florida                                  18
+Alaska                                   23
+Arizona                                  18
+Arkansas                                 47
+California                               16
+Colorado                                 28
+Connecticut                              44
+Delaware                                 29
+District of Columbia                     62
+Florida                                  19
 Georgia                                  17
-Hawaii                                   24
+Hawaii                                   29
 Idaho                                    14
-Illinois                                 45
-Indiana                                  25
-Iowa                                     44
+Illinois                                 48
+Indiana                                  26
+Iowa                                     42
 Kansas                                   30
 Kentucky                                 20
 Louisiana                                84
-Maine                                    27
-Maryland                                 62
+Maine                                    30
+Maryland                                 66
 Massachusetts                            59
 Michigan                                 26
-Minnesota                                26
+Minnesota                                29
 Mississippi                              17
-Missouri                                 72
-Montana                                  17
-Nebraska                                 30
-Nevada                                   21
-New Hampshire                            53
-New Jersey                               63
-New Mexico                               47
-New York                                 47
+Missouri                                 74
+Montana                                  16
+Nebraska                                 31
+Nevada                                   23
+New Hampshire                            57
+New Jersey                               65
+New Mexico                               53
+New York                                 49
 North Carolina                           24
-North Dakota                             14
+North Dakota                             13
 Ohio                                     45
 Oklahoma                                 18
 Oregon                                    9
-Pennsylvania                             39
+Pennsylvania                             41
 Rhode Island                            100
 South Carolina                           20
-South Dakota                             54
-Tennessee                                35
-Texas                                    21
-Utah                                      7
-Vermont                                  25
-Virginia                                 27
-Washington                               19
+South Dakota                             51
+Tennessee                                36
+Texas                                    23
+Utah                                      8
+Vermont                                  22
+Virginia                                 26
+Washington                               20
 West Virginia                            27
-Wisconsin                                29
+Wisconsin                                31

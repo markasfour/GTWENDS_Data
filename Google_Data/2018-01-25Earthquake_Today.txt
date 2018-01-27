@@ -1,0 +1,53 @@
+                      Earthquake Today
+geoName                               
+Alabama                              8
+Alaska                              87
+Arizona                             24
+Arkansas                            13
+California                         100
+Colorado                            14
+Connecticut                         10
+Delaware                            12
+District of Columbia                13
+Florida                             10
+Georgia                             10
+Hawaii                              53
+Idaho                               19
+Illinois                            11
+Indiana                              9
+Iowa                                 8
+Kansas                              28
+Kentucky                            11
+Louisiana                            9
+Maine                                9
+Maryland                            10
+Massachusetts                       10
+Michigan                            10
+Minnesota                            9
+Mississippi                         10
+Missouri                            15
+Montana                             20
+Nebraska                             9
+Nevada                              36
+New Hampshire                       12
+New Jersey                          12
+New Mexico                          15
+New York                            10
+North Carolina                      10
+North Dakota                         6
+Ohio                                 8
+Oklahoma                            40
+Oregon                              17
+Pennsylvania                         9
+Rhode Island                         9
+South Carolina                      13
+South Dakota                         6
+Tennessee                           10
+Texas                               13
+Utah                                17
+Vermont                              8
+Virginia                            10
+Washington                          26
+West Virginia                        9
+Wisconsin                            9
+Wyoming                             12

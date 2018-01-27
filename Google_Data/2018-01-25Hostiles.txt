@@ -1,53 +1,53 @@
                       Hostiles
 geoName                       
 Alabama                     42
-Alaska                      30
-Arizona                     55
-Arkansas                    46
+Alaska                      28
+Arizona                     57
+Arkansas                    45
 California                  40
-Colorado                    46
-Connecticut                 23
-Delaware                    28
-District of Columbia        14
-Florida                     26
-Georgia                     27
+Colorado                    50
+Connecticut                 20
+Delaware                    34
+District of Columbia        12
+Florida                     28
+Georgia                     29
 Hawaii                      19
-Idaho                       43
-Illinois                    28
-Indiana                     24
-Iowa                        28
-Kansas                      35
-Kentucky                    35
-Louisiana                   24
-Maine                       31
-Maryland                    28
-Massachusetts               23
-Michigan                    32
-Minnesota                   23
-Mississippi                 31
-Missouri                    35
-Montana                     69
-Nebraska                    35
-Nevada                      32
-New Hampshire               31
-New Jersey                  25
+Idaho                       55
+Illinois                    30
+Indiana                     32
+Iowa                        32
+Kansas                      39
+Kentucky                    41
+Louisiana                   34
+Maine                       30
+Maryland                    29
+Massachusetts               24
+Michigan                    37
+Minnesota                   31
+Mississippi                 37
+Missouri                    42
+Montana                     67
+Nebraska                    34
+Nevada                      34
+New Hampshire               36
+New Jersey                  29
 New Mexico                 100
-New York                    25
-North Carolina              33
-North Dakota                35
-Ohio                        32
-Oklahoma                    47
-Oregon                      27
+New York                    27
+North Carolina              35
+North Dakota                40
+Ohio                        38
+Oklahoma                    48
+Oregon                      28
 Pennsylvania                26
-Rhode Island                18
-South Carolina              32
-South Dakota                73
-Tennessee                   38
-Texas                       38
-Utah                        51
+Rhode Island                20
+South Carolina              33
+South Dakota                84
+Tennessee                   42
+Texas                       41
+Utah                        46
 Vermont                     34
-Virginia                    25
-Washington                  35
-West Virginia               39
-Wisconsin                   33
-Wyoming                     63
+Virginia                    27
+Washington                  39
+West Virginia               37
+Wisconsin                   32
+Wyoming                     53

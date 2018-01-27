@@ -1,0 +1,53 @@
+                      Charmed
+geoName                      
+Alabama                    72
+Alaska                     58
+Arizona                    58
+Arkansas                   79
+California                 53
+Colorado                   52
+Connecticut                61
+Delaware                   74
+District of Columbia       52
+Florida                    60
+Georgia                    63
+Hawaii                     54
+Idaho                      63
+Illinois                   61
+Indiana                    70
+Iowa                       68
+Kansas                     65
+Kentucky                   88
+Louisiana                  73
+Maine                      81
+Maryland                   64
+Massachusetts              64
+Michigan                   72
+Minnesota                  55
+Mississippi                82
+Missouri                   69
+Montana                    58
+Nebraska                   64
+Nevada                     65
+New Hampshire              65
+New Jersey                 59
+New Mexico                 62
+New York                   61
+North Carolina             64
+North Dakota               78
+Ohio                       76
+Oklahoma                   68
+Oregon                     53
+Pennsylvania               70
+Rhode Island               72
+South Carolina             72
+South Dakota               66
+Tennessee                  74
+Texas                      57
+Utah                       60
+Vermont                    73
+Virginia                   54
+Washington                 54
+West Virginia             100
+Wisconsin                  61
+Wyoming                    62

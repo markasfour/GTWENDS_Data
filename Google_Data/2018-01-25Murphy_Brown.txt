@@ -1,48 +1,49 @@
                       Murphy Brown
 geoName                           
-Alabama                         49
-Arizona                         35
-Arkansas                        51
+Alabama                         44
+Arizona                         34
+Arkansas                        43
 California                      36
-Colorado                        49
-Connecticut                     56
-Delaware                        44
-District of Columbia            73
-Florida                         39
-Georgia                         50
-Hawaii                          31
-Idaho                           37
-Illinois                        47
-Indiana                         46
-Iowa                           100
-Kansas                          47
-Kentucky                        51
+Colorado                        42
+Connecticut                     57
+Delaware                        31
+District of Columbia            70
+Florida                         37
+Georgia                         56
+Hawaii                          30
+Idaho                           40
+Illinois                        48
+Indiana                         38
+Iowa                            96
+Kansas                          44
+Kentucky                        46
 Louisiana                       50
-Maine                           62
-Maryland                        57
-Massachusetts                   50
-Michigan                        48
-Minnesota                       50
-Mississippi                     43
-Missouri                        73
-Nebraska                        52
+Maine                           39
+Maryland                        52
+Massachusetts                   56
+Michigan                        47
+Minnesota                       51
+Mississippi                     55
+Missouri                        79
+Nebraska                        56
 Nevada                          29
-New Hampshire                   48
+New Hampshire                   59
 New Jersey                      50
-New Mexico                      37
-New York                        49
-North Carolina                  96
-Ohio                            51
-Oklahoma                        45
-Oregon                          28
-Pennsylvania                    50
-Rhode Island                    71
+New Mexico                      26
+New York                        48
+North Carolina                 100
+Ohio                            50
+Oklahoma                        42
+Oregon                          26
+Pennsylvania                    51
+Rhode Island                    75
 South Carolina                  49
-South Dakota                    53
-Tennessee                       51
-Texas                           37
-Utah                            38
-Virginia                        56
-Washington                      43
-West Virginia                   57
-Wisconsin                       47
+South Dakota                    57
+Tennessee                       52
+Texas                           36
+Utah                            31
+Vermont                         56
+Virginia                        47
+Washington                      41
+West Virginia                   47
+Wisconsin                       57
