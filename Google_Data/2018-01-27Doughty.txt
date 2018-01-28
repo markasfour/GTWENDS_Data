@@ -1,0 +1,49 @@
+                      Doughty
+geoName                      
+Alabama                    11
+Arizona                    12
+Arkansas                   11
+California                 16
+Colorado                   16
+Connecticut                13
+Delaware                   29
+District of Columbia       17
+Florida                    10
+Georgia                    10
+Hawaii                     12
+Idaho                      14
+Illinois                   11
+Indiana                    12
+Iowa                       11
+Kansas                      9
+Kentucky                   21
+Louisiana                  18
+Maine                     100
+Maryland                   17
+Massachusetts              20
+Michigan                   11
+Minnesota                  18
+Mississippi                13
+Missouri                   12
+Nebraska                   10
+Nevada                     11
+New Hampshire              24
+New Jersey                 20
+New Mexico                 19
+New York                   17
+North Carolina             10
+North Dakota               10
+Ohio                       13
+Oklahoma                   11
+Oregon                     11
+Pennsylvania               16
+Rhode Island               22
+South Carolina             21
+Tennessee                  32
+Texas                       9
+Utah                       12
+Vermont                    20
+Virginia                   22
+Washington                 14
+West Virginia              14
+Wisconsin                  15

@@ -1,0 +1,53 @@
+                      Jaylen
+geoName                     
+Alabama                   45
+Alaska                    17
+Arizona                   29
+Arkansas                  45
+California                31
+Colorado                  18
+Connecticut               45
+Delaware                  33
+District of Columbia      44
+Florida                   29
+Georgia                   51
+Hawaii                    31
+Idaho                     21
+Illinois                  31
+Indiana                   40
+Iowa                      34
+Kansas                    38
+Kentucky                  57
+Louisiana                 34
+Maine                     58
+Maryland                  44
+Massachusetts            100
+Michigan                  41
+Minnesota                 21
+Mississippi               51
+Missouri                  33
+Montana                   18
+Nebraska                  31
+Nevada                    27
+New Hampshire             68
+New Jersey                32
+New Mexico                17
+New York                  27
+North Carolina            49
+North Dakota              23
+Ohio                      34
+Oklahoma                  30
+Oregon                    17
+Pennsylvania              34
+Rhode Island              75
+South Carolina            51
+South Dakota              27
+Tennessee                 49
+Texas                     30
+Utah                      22
+Vermont                   35
+Virginia                  29
+Washington                42
+West Virginia             35
+Wisconsin                 24
+Wyoming                   19

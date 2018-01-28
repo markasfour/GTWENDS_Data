@@ -1,0 +1,29 @@
+                      Gun Runner
+geoName                         
+Arizona                       53
+California                    51
+Colorado                      40
+Connecticut                   69
+District of Columbia          58
+Florida                       42
+Georgia                       40
+Illinois                      41
+Indiana                       56
+Kentucky                     100
+Louisiana                     59
+Maryland                      42
+Massachusetts                 52
+Michigan                      42
+Minnesota                     49
+Missouri                      45
+New Jersey                    38
+New York                      47
+North Carolina                57
+Ohio                          87
+Pennsylvania                  61
+South Carolina                49
+Tennessee                     42
+Texas                         50
+Virginia                      33
+Washington                    64
+Wisconsin                     47

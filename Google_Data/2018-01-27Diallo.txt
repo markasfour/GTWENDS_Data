@@ -1,0 +1,52 @@
+                      Diallo
+geoName                     
+Alabama                   17
+Alaska                     9
+Arizona                   12
+Arkansas                  11
+California                12
+Colorado                  13
+Connecticut               34
+Delaware                  21
+District of Columbia      46
+Florida                   13
+Georgia                   23
+Hawaii                    13
+Idaho                      7
+Illinois                  16
+Indiana                   23
+Iowa                      40
+Kansas                    80
+Kentucky                 100
+Louisiana                 23
+Maine                      4
+Maryland                  36
+Massachusetts             24
+Michigan                  15
+Minnesota                 15
+Mississippi               12
+Missouri                  31
+Montana                    7
+Nebraska                  18
+Nevada                    15
+New Hampshire             16
+New Jersey                27
+New Mexico                10
+New York                  53
+North Carolina            19
+North Dakota               6
+Ohio                      15
+Oklahoma                  16
+Oregon                    11
+Pennsylvania              24
+Rhode Island              37
+South Carolina            13
+South Dakota              14
+Tennessee                 17
+Texas                     13
+Utah                       8
+Vermont                   24
+Virginia                  25
+Washington                11
+West Virginia             15
+Wisconsin                 13
