@@ -1,0 +1,53 @@
+                      Mazda
+geoName                    
+Alabama                  66
+Alaska                   56
+Arizona                  75
+Arkansas                 64
+California               84
+Colorado                 73
+Connecticut              89
+Delaware                 92
+District of Columbia     74
+Florida                  91
+Georgia                  74
+Hawaii                  100
+Idaho                    86
+Illinois                 71
+Indiana                  63
+Iowa                     55
+Kansas                   71
+Kentucky                 73
+Louisiana                71
+Maine                    65
+Maryland                 79
+Massachusetts            74
+Michigan                 52
+Minnesota                75
+Mississippi              64
+Missouri                 76
+Montana                  43
+Nebraska                 73
+Nevada                   71
+New Hampshire            85
+New Jersey               79
+New Mexico               75
+New York                 61
+North Carolina           79
+North Dakota             50
+Ohio                     76
+Oklahoma                 71
+Oregon                   74
+Pennsylvania             82
+Rhode Island             77
+South Carolina           71
+South Dakota             56
+Tennessee                75
+Texas                    80
+Utah                     97
+Vermont                  71
+Virginia                 73
+Washington               94
+West Virginia            59
+Wisconsin                73
+Wyoming                  42

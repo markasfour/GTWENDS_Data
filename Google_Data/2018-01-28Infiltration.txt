@@ -1,0 +1,53 @@
+                      Infiltration
+geoName                           
+Alabama                         61
+Alaska                          67
+Arizona                         63
+Arkansas                        68
+California                      58
+Colorado                        67
+Connecticut                     65
+Delaware                        73
+District of Columbia            46
+Florida                         63
+Georgia                         59
+Hawaii                          68
+Idaho                           73
+Illinois                        54
+Indiana                         77
+Iowa                            63
+Kansas                          51
+Kentucky                        63
+Louisiana                       53
+Maine                           68
+Maryland                        76
+Massachusetts                   69
+Michigan                        73
+Minnesota                       79
+Mississippi                     67
+Missouri                        56
+Montana                         86
+Nebraska                        77
+Nevada                          69
+New Hampshire                   73
+New Jersey                      63
+New Mexico                      58
+New York                        69
+North Carolina                 100
+North Dakota                    77
+Ohio                            75
+Oklahoma                        55
+Oregon                          55
+Pennsylvania                    69
+Rhode Island                    49
+South Carolina                  67
+South Dakota                    85
+Tennessee                       62
+Texas                           54
+Utah                            69
+Vermont                         95
+Virginia                        61
+Washington                      70
+West Virginia                   81
+Wisconsin                       68
+Wyoming                         79

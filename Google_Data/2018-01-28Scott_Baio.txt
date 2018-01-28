@@ -1,53 +1,53 @@
                       Scott Baio
 geoName                         
-Alabama                       73
-Alaska                        73
-Arizona                       84
-Arkansas                      75
-California                    80
-Colorado                      68
-Connecticut                   92
-Delaware                      67
-District of Columbia          77
-Florida                       64
-Georgia                       61
-Hawaii                        70
-Idaho                         67
-Illinois                      84
-Indiana                       77
-Iowa                          64
-Kansas                        60
-Kentucky                      65
-Louisiana                     71
-Maine                         72
-Maryland                      65
-Massachusetts                 88
-Michigan                      81
-Minnesota                     74
-Mississippi                   62
-Missouri                      80
-Montana                       63
-Nebraska                      79
-Nevada                        80
-New Hampshire                 67
-New Jersey                    94
-New Mexico                    75
-New York                      89
-North Carolina                67
-North Dakota                  65
-Ohio                          85
-Oklahoma                      60
-Oregon                        55
-Pennsylvania                  81
-Rhode Island                 100
+Alabama                       68
+Alaska                       100
+Arizona                       82
+Arkansas                      78
+California                    82
+Colorado                      70
+Connecticut                   79
+Delaware                      85
+District of Columbia          78
+Florida                       68
+Georgia                       65
+Hawaii                        69
+Idaho                         66
+Illinois                      85
+Indiana                       79
+Iowa                          74
+Kansas                        63
+Kentucky                      69
+Louisiana                     64
+Maine                         57
+Maryland                      72
+Massachusetts                 84
+Michigan                      74
+Minnesota                     75
+Mississippi                   59
+Missouri                      66
+Montana                       59
+Nebraska                      88
+Nevada                        75
+New Hampshire                 75
+New Jersey                    99
+New Mexico                    79
+New York                      87
+North Carolina                70
+North Dakota                  80
+Ohio                          80
+Oklahoma                      58
+Oregon                        64
+Pennsylvania                  83
+Rhode Island                  81
 South Carolina                66
-South Dakota                  60
-Tennessee                     79
-Texas                         60
-Utah                          70
-Vermont                       82
-Virginia                      60
-Washington                    77
-West Virginia                 70
-Wisconsin                     79
-Wyoming                       43
+South Dakota                  59
+Tennessee                     70
+Texas                         61
+Utah                          67
+Vermont                       60
+Virginia                      61
+Washington                    71
+West Virginia                 75
+Wisconsin                     81
+Wyoming                       70

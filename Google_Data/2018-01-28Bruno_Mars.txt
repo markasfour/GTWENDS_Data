@@ -1,53 +1,53 @@
                       Bruno Mars
 geoName                         
 Alabama                       42
-Alaska                        32
+Alaska                        31
 Arizona                       46
-Arkansas                      47
+Arkansas                      46
 California                    51
-Colorado                      42
+Colorado                      41
 Connecticut                   41
-Delaware                      41
-District of Columbia          43
-Florida                       46
+Delaware                      40
+District of Columbia          41
+Florida                       45
 Georgia                       44
 Hawaii                       100
 Idaho                         34
-Illinois                      47
-Indiana                       44
+Illinois                      46
+Indiana                       43
 Iowa                          35
-Kansas                        42
-Kentucky                      43
-Louisiana                     54
-Maine                         31
+Kansas                        41
+Kentucky                      44
+Louisiana                     51
+Maine                         32
 Maryland                      44
-Massachusetts                 41
-Michigan                      42
+Massachusetts                 39
+Michigan                      43
 Minnesota                     41
-Mississippi                   51
+Mississippi                   52
 Missouri                      45
-Montana                       28
+Montana                       26
 Nebraska                      43
-Nevada                        60
-New Hampshire                 31
-New Jersey                    44
-New Mexico                    44
-New York                      43
-North Carolina                43
-North Dakota                  40
+Nevada                        61
+New Hampshire                 30
+New Jersey                    45
+New Mexico                    42
+New York                      41
+North Carolina                41
+North Dakota                  36
 Ohio                          44
-Oklahoma                      45
-Oregon                        40
+Oklahoma                      44
+Oregon                        41
 Pennsylvania                  43
 Rhode Island                  39
-South Carolina                40
-South Dakota                  32
-Tennessee                     45
+South Carolina                41
+South Dakota                  33
+Tennessee                     44
 Texas                         48
-Utah                          37
-Vermont                       27
-Virginia                      40
-Washington                    41
-West Virginia                 34
-Wisconsin                     37
+Utah                          36
+Vermont                       29
+Virginia                      39
+Washington                    40
+West Virginia                 35
+Wisconsin                     36
 Wyoming                       30

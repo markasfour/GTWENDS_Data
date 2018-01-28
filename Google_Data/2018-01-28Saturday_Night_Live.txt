@@ -1,53 +1,53 @@
                       Saturday Night Live
 geoName                                  
-Alabama                                53
-Alaska                                 66
+Alabama                                54
+Alaska                                 69
 Arizona                                60
 Arkansas                               54
 California                             56
 Colorado                               77
-Connecticut                            74
-Delaware                               74
-District of Columbia                   83
+Connecticut                            77
+Delaware                               73
+District of Columbia                   81
 Florida                                56
 Georgia                                51
-Hawaii                                 56
-Idaho                                  59
-Illinois                               71
-Indiana                                67
-Iowa                                   79
-Kansas                                 59
-Kentucky                               62
-Louisiana                              55
-Maine                                  92
-Maryland                               70
-Massachusetts                          82
-Michigan                               68
-Minnesota                              77
-Mississippi                            44
-Missouri                               72
-Montana                                81
-Nebraska                               73
-Nevada                                 52
+Hawaii                                 60
+Idaho                                  64
+Illinois                               74
+Indiana                                65
+Iowa                                   81
+Kansas                                 63
+Kentucky                               61
+Louisiana                              53
+Maine                                  87
+Maryland                               72
+Massachusetts                          85
+Michigan                               67
+Minnesota                              79
+Mississippi                            47
+Missouri                               74
+Montana                                77
+Nebraska                               69
+Nevada                                 50
 New Hampshire                          80
-New Jersey                             69
-New Mexico                             62
-New York                               76
-North Carolina                         57
-North Dakota                           60
-Ohio                                   69
-Oklahoma                               60
-Oregon                                 62
-Pennsylvania                           73
-Rhode Island                           81
-South Carolina                         53
-South Dakota                           62
-Tennessee                              59
-Texas                                  49
-Utah                                   60
+New Jersey                             72
+New Mexico                             64
+New York                               73
+North Carolina                         54
+North Dakota                           59
+Ohio                                   70
+Oklahoma                               59
+Oregon                                 60
+Pennsylvania                           77
+Rhode Island                           86
+South Carolina                         52
+South Dakota                           67
+Tennessee                              58
+Texas                                  48
+Utah                                   61
 Vermont                               100
-Virginia                               57
-Washington                             73
-West Virginia                          52
-Wisconsin                              75
-Wyoming                                59
+Virginia                               55
+Washington                             70
+West Virginia                          51
+Wisconsin                              78
+Wyoming                                56

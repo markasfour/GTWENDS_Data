@@ -1,0 +1,53 @@
+                      Penske
+geoName                     
+Alabama                   39
+Alaska                     8
+Arizona                   63
+Arkansas                  35
+California                47
+Colorado                  43
+Connecticut               31
+Delaware                  37
+District of Columbia      37
+Florida                   41
+Georgia                   47
+Hawaii                    29
+Idaho                     30
+Illinois                  38
+Indiana                  100
+Iowa                      29
+Kansas                    31
+Kentucky                  40
+Louisiana                 36
+Maine                     24
+Maryland                  32
+Massachusetts             26
+Michigan                  43
+Minnesota                 27
+Mississippi               37
+Missouri                  35
+Montana                   12
+Nebraska                  29
+Nevada                    48
+New Hampshire             25
+New Jersey                30
+New Mexico                42
+New York                  24
+North Carolina            47
+North Dakota              27
+Ohio                      40
+Oklahoma                  31
+Oregon                    26
+Pennsylvania              53
+Rhode Island              29
+South Carolina            42
+South Dakota              19
+Tennessee                 45
+Texas                     35
+Utah                      36
+Vermont                   29
+Virginia                  32
+Washington                34
+West Virginia             28
+Wisconsin                 32
+Wyoming                   34

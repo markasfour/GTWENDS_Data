@@ -1,0 +1,44 @@
+                      SerieA
+geoName                     
+Alabama                   67
+Arizona                   43
+Arkansas                  53
+California                58
+Colorado                  58
+Connecticut               62
+District of Columbia      94
+Florida                   67
+Georgia                   51
+Hawaii                    61
+Idaho                     47
+Illinois                  75
+Indiana                   62
+Iowa                      61
+Kansas                    77
+Kentucky                  56
+Louisiana                 53
+Maryland                  40
+Massachusetts             55
+Michigan                  44
+Minnesota                 56
+Mississippi               45
+Missouri                  64
+Montana                   10
+Nebraska                  73
+Nevada                    91
+New Hampshire             59
+New Jersey                45
+New Mexico                48
+New York                  59
+North Carolina            54
+Ohio                      63
+Oklahoma                  79
+Oregon                   100
+Pennsylvania              46
+South Carolina            39
+Tennessee                 62
+Texas                     63
+Utah                      73
+Virginia                  65
+Washington                57
+Wisconsin                 70

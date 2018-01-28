@@ -6,8 +6,8 @@ Arkansas                                1
 California                              1
 Colorado                                1
 Connecticut                             2
-Delaware                                2
-District of Columbia                    5
+Delaware                                3
+District of Columbia                    4
 Florida                                 2
 Georgia                                 7
 Hawaii                                  1
@@ -22,7 +22,7 @@ Maine                                   1
 Maryland                                4
 Massachusetts                           2
 Michigan                                1
-Minnesota                               2
+Minnesota                               1
 Mississippi                             2
 Missouri                                2
 Nebraska                                2
@@ -44,5 +44,5 @@ Utah                                    1
 Vermont                                 3
 Virginia                                7
 Washington                              1
-West Virginia                           3
+West Virginia                           4
 Wisconsin                               2

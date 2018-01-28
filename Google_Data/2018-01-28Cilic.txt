@@ -1,0 +1,53 @@
+                      Cilic
+geoName                    
+Alabama                  32
+Alaska                   25
+Arizona                  36
+Arkansas                 22
+California               60
+Colorado                 43
+Connecticut              90
+Delaware                 50
+District of Columbia     70
+Florida                  55
+Georgia                  50
+Hawaii                   73
+Idaho                    20
+Illinois                 50
+Indiana                  38
+Iowa                     34
+Kansas                   35
+Kentucky                 37
+Louisiana                39
+Maine                    51
+Maryland                 65
+Massachusetts            75
+Michigan                 42
+Minnesota                42
+Mississippi              29
+Missouri                 38
+Montana                  23
+Nebraska                 33
+Nevada                   44
+New Hampshire            42
+New Jersey               85
+New Mexico               40
+New York                100
+North Carolina           44
+North Dakota             21
+Ohio                     46
+Oklahoma                 34
+Oregon                   46
+Pennsylvania             46
+Rhode Island             47
+South Carolina           48
+South Dakota             25
+Tennessee                33
+Texas                    38
+Utah                     46
+Vermont                  80
+Virginia                 55
+Washington               52
+West Virginia            38
+Wisconsin                31
+Wyoming                  25

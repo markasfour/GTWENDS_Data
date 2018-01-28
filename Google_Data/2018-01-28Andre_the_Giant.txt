@@ -1,53 +1,53 @@
                       Andre the Giant
 geoName                              
-Alabama                            76
+Alabama                            71
 Alaska                             72
-Arizona                            69
-Arkansas                           69
-California                         60
+Arizona                            63
+Arkansas                           71
+California                         58
 Colorado                           77
-Connecticut                        75
-Delaware                           71
-District of Columbia               69
-Florida                            57
-Georgia                            69
-Hawaii                             56
-Idaho                              85
-Illinois                           82
-Indiana                            91
-Iowa                               96
-Kansas                             77
-Kentucky                           92
-Louisiana                          76
-Maine                             100
-Maryland                           67
-Massachusetts                      91
-Michigan                           88
-Minnesota                          86
-Mississippi                        78
-Missouri                           87
-Montana                            61
-Nebraska                           95
-Nevada                             63
-New Hampshire                      85
-New Jersey                         80
-New Mexico                         70
-New York                           75
-North Carolina                     76
-North Dakota                       85
-Ohio                               85
-Oklahoma                           85
-Oregon                             58
-Pennsylvania                       91
-Rhode Island                       91
+Connecticut                        67
+Delaware                           72
+District of Columbia               73
+Florida                            54
+Georgia                            70
+Hawaii                             53
+Idaho                              75
+Illinois                           75
+Indiana                            84
+Iowa                              100
+Kansas                             73
+Kentucky                           90
+Louisiana                          69
+Maine                              86
+Maryland                           68
+Massachusetts                      89
+Michigan                           84
+Minnesota                          84
+Mississippi                        80
+Missouri                           84
+Montana                            78
+Nebraska                           93
+Nevada                             51
+New Hampshire                      74
+New Jersey                         76
+New Mexico                         54
+New York                           71
+North Carolina                     72
+North Dakota                       81
+Ohio                               84
+Oklahoma                           84
+Oregon                             55
+Pennsylvania                       87
+Rhode Island                       88
 South Carolina                     76
-South Dakota                       79
-Tennessee                          74
-Texas                              62
-Utah                               77
-Vermont                            68
-Virginia                           61
-Washington                         74
-West Virginia                      98
-Wisconsin                          91
-Wyoming                            80
+South Dakota                       82
+Tennessee                          77
+Texas                              65
+Utah                               82
+Vermont                            83
+Virginia                           60
+Washington                         71
+West Virginia                      94
+Wisconsin                          92
+Wyoming                            57

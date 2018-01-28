@@ -1,53 +1,53 @@
                       Pro Bowl 2018
 geoName                            
-Alabama                          31
-Alaska                           56
-Arizona                          33
-Arkansas                         21
-California                       25
-Colorado                         29
-Connecticut                      31
-Delaware                         35
-District of Columbia             10
-Florida                          95
-Georgia                          35
-Hawaii                           68
-Idaho                            30
-Illinois                         27
-Indiana                          29
-Iowa                             56
-Kansas                           25
-Kentucky                         25
-Louisiana                        49
-Maine                            29
-Maryland                         45
-Massachusetts                    34
-Michigan                         30
-Minnesota                        60
-Mississippi                      38
-Missouri                         28
-Montana                          45
-Nebraska                         33
-Nevada                           29
-New Hampshire                    24
-New Jersey                       40
-New Mexico                       24
-New York                         29
-North Carolina                   39
-North Dakota                     81
+Alabama                          35
+Alaska                           79
+Arizona                          34
+Arkansas                         34
+California                       26
+Colorado                         36
+Connecticut                      42
+Delaware                         55
+District of Columbia             13
+Florida                         100
+Georgia                          39
+Hawaii                           74
+Idaho                            44
+Illinois                         33
+Indiana                          37
+Iowa                             47
+Kansas                           44
+Kentucky                         21
+Louisiana                        69
+Maine                            27
+Maryland                         51
+Massachusetts                    35
+Michigan                         36
+Minnesota                        73
+Mississippi                      41
+Missouri                         36
+Montana                          28
+Nebraska                         42
+Nevada                           30
+New Hampshire                    31
+New Jersey                       46
+New Mexico                       30
+New York                         30
+North Carolina                   45
+North Dakota                     46
 Ohio                             40
-Oklahoma                         20
-Oregon                           15
-Pennsylvania                     51
-Rhode Island                     28
-South Carolina                   26
-South Dakota                    100
-Tennessee                        27
-Texas                            32
-Utah                             23
-Vermont                          26
-Virginia                         26
-Washington                       49
-West Virginia                    34
-Wisconsin                        41
-Wyoming                          66
+Oklahoma                         17
+Oregon                           21
+Pennsylvania                     57
+Rhode Island                     58
+South Carolina                   41
+South Dakota                     82
+Tennessee                        32
+Texas                            40
+Utah                             29
+Vermont                          42
+Virginia                         31
+Washington                       51
+West Virginia                    31
+Wisconsin                        45
+Wyoming                          26

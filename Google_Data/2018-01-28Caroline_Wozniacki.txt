@@ -1,53 +1,53 @@
                       Caroline Wozniacki
 geoName                                 
-Alabama                               55
-Alaska                                41
-Arizona                               62
-Arkansas                              56
-California                            61
-Colorado                              73
-Connecticut                           99
-Delaware                              70
-District of Columbia                  77
-Florida                               63
-Georgia                               69
-Hawaii                                68
-Idaho                                 49
-Illinois                              67
-Indiana                               62
-Iowa                                  62
-Kansas                                57
-Kentucky                              65
-Louisiana                             63
-Maine                                 66
-Maryland                              80
-Massachusetts                         77
-Michigan                              67
-Minnesota                             70
-Mississippi                           56
-Missouri                              68
-Montana                               62
-Nebraska                              65
-Nevada                                47
-New Hampshire                         80
-New Jersey                           100
-New Mexico                            40
-New York                              86
-North Carolina                        73
-North Dakota                          58
+Alabama                               64
+Alaska                                51
+Arizona                               57
+Arkansas                              48
+California                            58
+Colorado                              71
+Connecticut                          100
+Delaware                              78
+District of Columbia                  95
+Florida                               60
+Georgia                               67
+Hawaii                                66
+Idaho                                 59
+Illinois                              71
+Indiana                               56
+Iowa                                  54
+Kansas                                50
+Kentucky                              66
+Louisiana                             53
+Maine                                 62
+Maryland                              81
+Massachusetts                         78
+Michigan                              56
+Minnesota                             77
+Mississippi                           63
+Missouri                              57
+Montana                               56
+Nebraska                              53
+Nevada                                54
+New Hampshire                         70
+New Jersey                            91
+New Mexico                            41
+New York                              80
+North Carolina                        74
+North Dakota                          42
 Ohio                                  69
-Oklahoma                              59
-Oregon                                49
-Pennsylvania                          79
-Rhode Island                          59
-South Carolina                        75
-South Dakota                          56
-Tennessee                             56
-Texas                                 61
-Utah                                  44
-Vermont                               67
-Virginia                              69
-Washington                            50
+Oklahoma                              63
+Oregon                                43
+Pennsylvania                          77
+Rhode Island                          51
+South Carolina                        68
+South Dakota                          44
+Tennessee                             57
+Texas                                 58
+Utah                                  48
+Vermont                               71
+Virginia                              68
+Washington                            49
 West Virginia                         58
-Wisconsin                             80
-Wyoming                               51
+Wisconsin                             74
+Wyoming                               54

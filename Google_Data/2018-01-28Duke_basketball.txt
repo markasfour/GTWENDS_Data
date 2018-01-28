@@ -1,42 +1,42 @@
                       Duke basketball
 geoName                              
 Alabama                            10
-Alaska                              7
+Alaska                              8
 Arizona                             5
-Arkansas                            7
+Arkansas                            8
 California                          4
 Colorado                            7
-Connecticut                         9
+Connecticut                        10
 Delaware                           13
 District of Columbia               17
 Florida                             8
-Georgia                            15
+Georgia                            16
 Hawaii                              5
-Idaho                               6
+Idaho                               7
 Illinois                            9
-Indiana                            12
+Indiana                            13
 Iowa                                9
 Kansas                              9
-Kentucky                           24
+Kentucky                           25
 Louisiana                           7
 Maine                               9
 Maryland                           13
 Massachusetts                       8
-Michigan                            8
+Michigan                            7
 Minnesota                           8
 Mississippi                        10
 Missouri                            9
-Montana                            11
-Nebraska                           13
+Montana                            12
+Nebraska                           14
 Nevada                              6
 New Hampshire                       7
 New Jersey                         10
 New Mexico                          7
 New York                           10
 North Carolina                    100
-North Dakota                       13
+North Dakota                       14
 Ohio                               11
-Oklahoma                            7
+Oklahoma                            6
 Oregon                              4
 Pennsylvania                       13
 Rhode Island                        8
@@ -48,6 +48,6 @@ Utah                                7
 Vermont                            11
 Virginia                           21
 Washington                          5
-West Virginia                      19
+West Virginia                      18
 Wisconsin                           9
-Wyoming                            10
+Wyoming                            11

@@ -1,0 +1,53 @@
+                      George W. Bush
+geoName                             
+Alabama                           70
+Alaska                            52
+Arizona                           56
+Arkansas                          79
+California                        55
+Colorado                          55
+Connecticut                       61
+Delaware                          61
+District of Columbia              91
+Florida                           62
+Georgia                           58
+Hawaii                            45
+Idaho                             69
+Illinois                          56
+Indiana                           65
+Iowa                              69
+Kansas                            69
+Kentucky                          67
+Louisiana                         71
+Maine                             56
+Maryland                          63
+Massachusetts                     59
+Michigan                          58
+Minnesota                         47
+Mississippi                       81
+Missouri                          69
+Montana                           66
+Nebraska                          57
+Nevada                            66
+New Hampshire                     56
+New Jersey                        54
+New Mexico                        70
+New York                          58
+North Carolina                    54
+North Dakota                      54
+Ohio                              63
+Oklahoma                          76
+Oregon                            40
+Pennsylvania                      61
+Rhode Island                      59
+South Carolina                    68
+South Dakota                      71
+Tennessee                         55
+Texas                             89
+Utah                              49
+Vermont                           58
+Virginia                          64
+Washington                        46
+West Virginia                     68
+Wisconsin                         48
+Wyoming                          100

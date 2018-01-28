@@ -1,0 +1,53 @@
+                      Bosses
+geoName                     
+Alabama                   51
+Alaska                    61
+Arizona                   58
+Arkansas                  56
+California                50
+Colorado                  54
+Connecticut               52
+Delaware                  56
+District of Columbia      42
+Florida                   48
+Georgia                   47
+Hawaii                    55
+Idaho                     66
+Illinois                  53
+Indiana                   64
+Iowa                      69
+Kansas                    58
+Kentucky                  61
+Louisiana                 52
+Maine                     54
+Maryland                  51
+Massachusetts             49
+Michigan                  62
+Minnesota                 56
+Mississippi               50
+Missouri                  60
+Montana                   54
+Nebraska                  67
+Nevada                    56
+New Hampshire             55
+New Jersey                51
+New Mexico                53
+New York                  48
+North Carolina            49
+North Dakota              69
+Ohio                      59
+Oklahoma                  59
+Oregon                    45
+Pennsylvania              59
+Rhode Island              52
+South Carolina            50
+South Dakota             100
+Tennessee                 55
+Texas                     56
+Utah                      56
+Vermont                   48
+Virginia                  44
+Washington                56
+West Virginia             69
+Wisconsin                 62
+Wyoming                   61
