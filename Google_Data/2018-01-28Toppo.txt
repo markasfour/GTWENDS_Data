@@ -1,0 +1,42 @@
+                      Toppo
+geoName                    
+Alabama                  21
+Arizona                  59
+Arkansas                 87
+California               63
+Colorado                 45
+Connecticut              56
+District of Columbia    100
+Florida                  64
+Georgia                  63
+Hawaii                   96
+Illinois                 76
+Indiana                  59
+Iowa                     36
+Kansas                   67
+Kentucky                 25
+Louisiana                57
+Maryland                 71
+Massachusetts            50
+Michigan                 57
+Minnesota                49
+Mississippi              39
+Missouri                 25
+Nebraska                 29
+Nevada                   55
+New Jersey               79
+New Mexico               64
+New York                 82
+North Carolina           54
+Ohio                     34
+Oklahoma                 57
+Oregon                   48
+Pennsylvania             70
+Rhode Island             99
+South Carolina           50
+Tennessee                42
+Texas                    62
+Utah                     39
+Virginia                 89
+Washington               52
+Wisconsin                24

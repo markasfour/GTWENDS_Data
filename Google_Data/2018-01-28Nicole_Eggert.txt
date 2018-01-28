@@ -1,0 +1,53 @@
+                      Nicole Eggert
+geoName                            
+Alabama                          66
+Alaska                           51
+Arizona                          77
+Arkansas                         48
+California                       67
+Colorado                         76
+Connecticut                      71
+Delaware                         67
+District of Columbia             66
+Florida                          63
+Georgia                          53
+Hawaii                           64
+Idaho                            50
+Illinois                         79
+Indiana                          72
+Iowa                             54
+Kansas                           60
+Kentucky                         80
+Louisiana                        65
+Maine                            59
+Maryland                         62
+Massachusetts                    86
+Michigan                         76
+Minnesota                        86
+Mississippi                      59
+Missouri                         75
+Montana                          63
+Nebraska                         83
+Nevada                           62
+New Hampshire                    79
+New Jersey                       87
+New Mexico                       41
+New York                         72
+North Carolina                   58
+North Dakota                    100
+Ohio                             72
+Oklahoma                         71
+Oregon                           45
+Pennsylvania                     80
+Rhode Island                     79
+South Carolina                   61
+South Dakota                     61
+Tennessee                        60
+Texas                            62
+Utah                             70
+Vermont                          53
+Virginia                         52
+Washington                       60
+West Virginia                    56
+Wisconsin                        73
+Wyoming                          83
