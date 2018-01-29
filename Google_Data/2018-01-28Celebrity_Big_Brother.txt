@@ -1,0 +1,53 @@
+                      Celebrity Big Brother
+geoName                                    
+Alabama                                  60
+Alaska                                   41
+Arizona                                  67
+Arkansas                                 92
+California                               60
+Colorado                                 46
+Connecticut                              76
+Delaware                                 85
+District of Columbia                     38
+Florida                                  69
+Georgia                                  56
+Hawaii                                   38
+Idaho                                    29
+Illinois                                 61
+Indiana                                 100
+Iowa                                     79
+Kansas                                   56
+Kentucky                                 82
+Louisiana                                90
+Maine                                    90
+Maryland                                 62
+Massachusetts                            75
+Michigan                                 64
+Minnesota                                60
+Mississippi                              55
+Missouri                                 67
+Montana                                  24
+Nebraska                                 61
+Nevada                                   81
+New Hampshire                            67
+New Jersey                               76
+New Mexico                               40
+New York                                 65
+North Carolina                           64
+North Dakota                             82
+Ohio                                     84
+Oklahoma                                 95
+Oregon                                   57
+Pennsylvania                             79
+Rhode Island                             64
+South Carolina                           66
+South Dakota                             96
+Tennessee                                71
+Texas                                    58
+Utah                                     42
+Vermont                                  57
+Virginia                                 47
+Washington                               62
+West Virginia                            75
+Wisconsin                                61
+Wyoming                                  48

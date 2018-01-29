@@ -1,22 +1,23 @@
                 Ingvar Kamprad
 geoName                       
-California                  53
-Florida                     55
-Georgia                     58
-Illinois                    43
-Louisiana                   62
-Maryland                    92
-Massachusetts               63
-Michigan                    46
-Minnesota                  100
-Missouri                    62
-New Jersey                  84
-New York                    64
-North Carolina              43
-Ohio                        43
-Oregon                      77
-Pennsylvania                66
-Tennessee                   45
-Texas                       50
-Virginia                    48
-Washington                  57
+California                  71
+Florida                     77
+Georgia                     79
+Illinois                    52
+Louisiana                   37
+Maryland                    65
+Massachusetts               86
+Michigan                    71
+Minnesota                   87
+Missouri                    45
+New Jersey                  66
+New York                    78
+North Carolina              57
+Ohio                        51
+Oklahoma                    30
+Oregon                      41
+Pennsylvania               100
+Tennessee                   43
+Texas                       61
+Virginia                    74
+Washington                  72

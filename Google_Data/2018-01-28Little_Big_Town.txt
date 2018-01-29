@@ -1,0 +1,53 @@
+                      Little Big Town
+geoName                              
+Alabama                            72
+Alaska                             32
+Arizona                            35
+Arkansas                           68
+California                         24
+Colorado                           41
+Connecticut                        31
+Delaware                           39
+District of Columbia               37
+Florida                            33
+Georgia                            52
+Hawaii                             19
+Idaho                              50
+Illinois                           45
+Indiana                            59
+Iowa                               89
+Kansas                             49
+Kentucky                           73
+Louisiana                          50
+Maine                              61
+Maryland                           32
+Massachusetts                      37
+Michigan                           48
+Minnesota                          59
+Mississippi                        69
+Missouri                           60
+Montana                            71
+Nebraska                           69
+Nevada                             32
+New Hampshire                      51
+New Jersey                         26
+New Mexico                         41
+New York                           25
+North Carolina                     54
+North Dakota                       98
+Ohio                               59
+Oklahoma                           71
+Oregon                             26
+Pennsylvania                       43
+Rhode Island                       33
+South Carolina                     57
+South Dakota                       92
+Tennessee                         100
+Texas                              40
+Utah                               39
+Vermont                            35
+Virginia                           33
+Washington                         32
+West Virginia                      76
+Wisconsin                          67
+Wyoming                            63
