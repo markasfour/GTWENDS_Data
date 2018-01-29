@@ -1,0 +1,53 @@
+                      Fire and Fury
+geoName                            
+Alabama                          55
+Alaska                           70
+Arizona                          62
+Arkansas                         67
+California                       73
+Colorado                         74
+Connecticut                      80
+Delaware                         81
+District of Columbia             71
+Florida                          64
+Georgia                          49
+Hawaii                           60
+Idaho                            49
+Illinois                         66
+Indiana                          63
+Iowa                             61
+Kansas                           47
+Kentucky                         51
+Louisiana                        50
+Maine                            97
+Maryland                         96
+Massachusetts                    76
+Michigan                         63
+Minnesota                        71
+Mississippi                      34
+Missouri                         61
+Montana                          68
+Nebraska                         52
+Nevada                           64
+New Hampshire                    82
+New Jersey                       81
+New Mexico                       59
+New York                         76
+North Carolina                   62
+North Dakota                     51
+Ohio                             59
+Oklahoma                         46
+Oregon                           62
+Pennsylvania                     71
+Rhode Island                     66
+South Carolina                   55
+South Dakota                     57
+Tennessee                        61
+Texas                            55
+Utah                             59
+Vermont                         100
+Virginia                         68
+Washington                       84
+West Virginia                    55
+Wisconsin                        59
+Wyoming                          69

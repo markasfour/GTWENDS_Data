@@ -1,0 +1,53 @@
+                      Kandi
+geoName                    
+Alabama                  69
+Alaska                   17
+Arizona                  32
+Arkansas                 44
+California               34
+Colorado                 24
+Connecticut              27
+Delaware                 43
+District of Columbia     61
+Florida                  49
+Georgia                 100
+Hawaii                   31
+Idaho                    24
+Illinois                 42
+Indiana                  32
+Iowa                     22
+Kansas                   34
+Kentucky                 38
+Louisiana                84
+Maine                    16
+Maryland                 65
+Massachusetts            24
+Michigan                 41
+Minnesota                50
+Mississippi              92
+Missouri                 43
+Montana                  19
+Nebraska                 24
+Nevada                   43
+New Hampshire            17
+New Jersey               39
+New Mexico               26
+New York                 41
+North Carolina           57
+North Dakota             19
+Ohio                     34
+Oklahoma                 38
+Oregon                   17
+Pennsylvania             35
+Rhode Island             26
+South Carolina           64
+South Dakota             13
+Tennessee                48
+Texas                    46
+Utah                     20
+Vermont                  15
+Virginia                 48
+Washington               31
+West Virginia            25
+Wisconsin                28
+Wyoming                  23

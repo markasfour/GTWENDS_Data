@@ -1,0 +1,53 @@
+                      Wildflowers
+geoName                          
+Alabama                        44
+Alaska                         71
+Arizona                        46
+Arkansas                       48
+California                     50
+Colorado                       81
+Connecticut                    38
+Delaware                       46
+District of Columbia           26
+Florida                        26
+Georgia                        32
+Hawaii                         18
+Idaho                          63
+Illinois                       35
+Indiana                        51
+Iowa                           45
+Kansas                         44
+Kentucky                       51
+Louisiana                      27
+Maine                          75
+Maryland                       29
+Massachusetts                  37
+Michigan                       42
+Minnesota                      51
+Mississippi                    35
+Missouri                       48
+Montana                       100
+Nebraska                       41
+Nevada                         34
+New Hampshire                  48
+New Jersey                     43
+New Mexico                     52
+New York                       28
+North Carolina                 41
+North Dakota                   46
+Ohio                           43
+Oklahoma                       42
+Oregon                         62
+Pennsylvania                   47
+Rhode Island                   36
+South Carolina                 36
+South Dakota                   48
+Tennessee                      53
+Texas                          45
+Utah                           66
+Vermont                        99
+Virginia                       30
+Washington                     50
+West Virginia                  72
+Wisconsin                      51
+Wyoming                        60

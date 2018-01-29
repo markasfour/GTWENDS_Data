@@ -1,0 +1,53 @@
+                      Blue Ivy
+geoName                       
+Alabama                     71
+Alaska                      30
+Arizona                     37
+Arkansas                    47
+California                  48
+Colorado                    31
+Connecticut                 51
+Delaware                    71
+District of Columbia       100
+Florida                     60
+Georgia                     99
+Hawaii                      43
+Idaho                       16
+Illinois                    63
+Indiana                     44
+Iowa                        27
+Kansas                      40
+Kentucky                    45
+Louisiana                   88
+Maine                       25
+Maryland                    95
+Massachusetts               56
+Michigan                    60
+Minnesota                   37
+Mississippi                 90
+Missouri                    52
+Montana                     19
+Nebraska                    29
+Nevada                      49
+New Hampshire               26
+New Jersey                  70
+New Mexico                  25
+New York                    81
+North Carolina              70
+North Dakota                24
+Ohio                        47
+Oklahoma                    44
+Oregon                      20
+Pennsylvania                59
+Rhode Island                48
+South Carolina              66
+South Dakota                20
+Tennessee                   59
+Texas                       60
+Utah                        20
+Vermont                     27
+Virginia                    64
+Washington                  31
+West Virginia               31
+Wisconsin                   30
+Wyoming                     13

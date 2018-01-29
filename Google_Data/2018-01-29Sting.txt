@@ -1,0 +1,53 @@
+                      Sting
+geoName                    
+Alabama                  92
+Alaska                   54
+Arizona                  79
+Arkansas                 79
+California               64
+Colorado                 70
+Connecticut              74
+Delaware                 74
+District of Columbia     75
+Florida                  78
+Georgia                  82
+Hawaii                  100
+Idaho                    74
+Illinois                 76
+Indiana                  75
+Iowa                     68
+Kansas                   63
+Kentucky                 86
+Louisiana                86
+Maine                    71
+Maryland                 71
+Massachusetts            74
+Michigan                 79
+Minnesota                74
+Mississippi              83
+Missouri                 77
+Montana                  75
+Nebraska                 72
+Nevada                   68
+New Hampshire            75
+New Jersey               69
+New Mexico               62
+New York                 69
+North Carolina           79
+North Dakota             70
+Ohio                     74
+Oklahoma                 75
+Oregon                   60
+Pennsylvania             75
+Rhode Island             83
+South Carolina           88
+South Dakota             66
+Tennessee                87
+Texas                    75
+Utah                     71
+Vermont                  72
+Virginia                 70
+Washington               75
+West Virginia            96
+Wisconsin                87
+Wyoming                  59

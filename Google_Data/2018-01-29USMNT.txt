@@ -1,0 +1,53 @@
+                      USMNT
+geoName                    
+Alabama                  54
+Alaska                   43
+Arizona                  43
+Arkansas                 39
+California               59
+Colorado                 69
+Connecticut              61
+Delaware                 47
+District of Columbia     92
+Florida                  47
+Georgia                  52
+Hawaii                   38
+Idaho                    39
+Illinois                 52
+Indiana                  44
+Iowa                     49
+Kansas                   64
+Kentucky                 46
+Louisiana                45
+Maine                    44
+Maryland                 68
+Massachusetts            55
+Michigan                 37
+Minnesota                44
+Mississippi              37
+Missouri                 69
+Montana                  33
+Nebraska                 72
+Nevada                   44
+New Hampshire            48
+New Jersey               59
+New Mexico               50
+New York                 53
+North Carolina           53
+North Dakota             23
+Ohio                     62
+Oklahoma                 45
+Oregon                   49
+Pennsylvania             52
+Rhode Island             51
+South Carolina           51
+South Dakota             39
+Tennessee                47
+Texas                    57
+Utah                     83
+Vermont                  51
+Virginia                 60
+Washington              100
+West Virginia            39
+Wisconsin                51
+Wyoming                  36
