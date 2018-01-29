@@ -1,0 +1,53 @@
+                      Little Big Town
+geoName                              
+Alabama                            72
+Alaska                             25
+Arizona                            31
+Arkansas                           65
+California                         23
+Colorado                           41
+Connecticut                        33
+Delaware                           36
+District of Columbia               39
+Florida                            32
+Georgia                            51
+Hawaii                             19
+Idaho                              52
+Illinois                           44
+Indiana                            56
+Iowa                               81
+Kansas                             48
+Kentucky                           76
+Louisiana                          46
+Maine                              50
+Maryland                           30
+Massachusetts                      37
+Michigan                           49
+Minnesota                          62
+Mississippi                        66
+Missouri                           55
+Montana                            65
+Nebraska                           72
+Nevada                             32
+New Hampshire                      51
+New Jersey                         25
+New Mexico                         42
+New York                           27
+North Carolina                     54
+North Dakota                       88
+Ohio                               55
+Oklahoma                           64
+Oregon                             27
+Pennsylvania                       41
+Rhode Island                       37
+South Carolina                     60
+South Dakota                       83
+Tennessee                         100
+Texas                              40
+Utah                               44
+Vermont                            43
+Virginia                           34
+Washington                         32
+West Virginia                      72
+Wisconsin                          66
+Wyoming                            74

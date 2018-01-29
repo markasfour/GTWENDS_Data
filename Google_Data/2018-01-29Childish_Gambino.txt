@@ -1,53 +1,53 @@
                       Childish Gambino
 geoName                               
-Alabama                             71
-Alaska                              57
-Arizona                             87
-Arkansas                            61
-California                         100
-Colorado                            71
-Connecticut                         86
+Alabama                             73
+Alaska                              64
+Arizona                             88
+Arkansas                            57
+California                          96
+Colorado                            75
+Connecticut                         78
 Delaware                            96
-District of Columbia                89
-Florida                             81
-Georgia                             99
-Hawaii                              87
+District of Columbia                90
+Florida                             77
+Georgia                             98
+Hawaii                              80
 Idaho                               54
-Illinois                            85
-Indiana                             82
-Iowa                                63
-Kansas                              69
-Kentucky                            77
-Louisiana                           88
-Maine                               58
+Illinois                            83
+Indiana                             85
+Iowa                                60
+Kansas                              70
+Kentucky                            72
+Louisiana                           84
+Maine                               63
 Maryland                           100
-Massachusetts                       88
-Michigan                            83
-Minnesota                           66
-Mississippi                         75
-Missouri                            76
-Montana                             50
+Massachusetts                       82
+Michigan                            81
+Minnesota                           62
+Mississippi                         77
+Missouri                            71
+Montana                             52
 Nebraska                            64
-Nevada                              98
-New Hampshire                       56
-New Jersey                          88
-New Mexico                          76
-New York                            91
-North Carolina                      85
-North Dakota                        44
-Ohio                                82
+Nevada                             100
+New Hampshire                       64
+New Jersey                          87
+New Mexico                          78
+New York                            86
+North Carolina                      82
+North Dakota                        51
+Ohio                                79
 Oklahoma                            75
 Oregon                              56
-Pennsylvania                        83
-Rhode Island                        88
-South Carolina                      84
-South Dakota                        51
-Tennessee                           74
+Pennsylvania                        84
+Rhode Island                        93
+South Carolina                      78
+South Dakota                        54
+Tennessee                           70
 Texas                               85
-Utah                                60
-Vermont                             66
+Utah                                57
+Vermont                             74
 Virginia                            77
-Washington                          79
-West Virginia                       59
-Wisconsin                           68
-Wyoming                             40
+Washington                          75
+West Virginia                       66
+Wisconsin                           64
+Wyoming                             39

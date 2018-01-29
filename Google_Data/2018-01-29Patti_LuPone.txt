@@ -1,53 +1,53 @@
                       Patti LuPone
 geoName                           
-Alabama                         47
-Alaska                          26
-Arizona                         36
-Arkansas                        37
-California                      44
-Colorado                        47
-Connecticut                     77
-Delaware                        64
-District of Columbia            77
-Florida                         36
-Georgia                         29
-Hawaii                          25
-Idaho                           21
-Illinois                        53
-Indiana                         34
-Iowa                            44
-Kansas                          30
-Kentucky                        29
-Louisiana                       36
-Maine                           54
-Maryland                        48
-Massachusetts                   69
-Michigan                        37
-Minnesota                       39
-Mississippi                     22
-Missouri                        37
-Montana                         33
-Nebraska                        41
-Nevada                          35
-New Hampshire                   57
-New Jersey                      72
-New Mexico                      40
+Alabama                         32
+Alaska                          25
+Arizona                         35
+Arkansas                        29
+California                      41
+Colorado                        40
+Connecticut                     83
+Delaware                        41
+District of Columbia            71
+Florida                         33
+Georgia                         26
+Hawaii                          27
+Idaho                           31
+Illinois                        48
+Indiana                         41
+Iowa                            31
+Kansas                          26
+Kentucky                        40
+Louisiana                       30
+Maine                           53
+Maryland                        52
+Massachusetts                   72
+Michigan                        34
+Minnesota                       36
+Mississippi                     28
+Missouri                        34
+Montana                         20
+Nebraska                        31
+Nevada                          27
+New Hampshire                   42
+New Jersey                      68
+New Mexico                      42
 New York                       100
-North Carolina                  38
-North Dakota                    31
-Ohio                            38
-Oklahoma                        34
-Oregon                          36
-Pennsylvania                    53
-Rhode Island                    79
-South Carolina                  35
-South Dakota                    38
-Tennessee                       34
-Texas                           32
-Utah                            21
-Vermont                         58
-Virginia                        38
-Washington                      33
-West Virginia                   21
-Wisconsin                       27
-Wyoming                         11
+North Carolina                  32
+North Dakota                    26
+Ohio                            36
+Oklahoma                        43
+Oregon                          35
+Pennsylvania                    51
+Rhode Island                    57
+South Carolina                  38
+South Dakota                    22
+Tennessee                       27
+Texas                           30
+Utah                            28
+Vermont                         83
+Virginia                        32
+Washington                      37
+West Virginia                   40
+Wisconsin                       30
+Wyoming                         27

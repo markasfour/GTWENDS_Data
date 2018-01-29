@@ -1,0 +1,53 @@
+                      Bad Boy
+geoName                      
+Alabama                    66
+Alaska                     30
+Arizona                    37
+Arkansas                  100
+California                 38
+Colorado                   30
+Connecticut                38
+Delaware                   48
+District of Columbia       47
+Florida                    44
+Georgia                    60
+Hawaii                     45
+Idaho                      52
+Illinois                   43
+Indiana                    49
+Iowa                       41
+Kansas                     56
+Kentucky                   61
+Louisiana                  75
+Maine                      31
+Maryland                   47
+Massachusetts              37
+Michigan                   51
+Minnesota                  36
+Mississippi                83
+Missouri                   57
+Montana                    37
+Nebraska                   39
+Nevada                     46
+New Hampshire              31
+New Jersey                 43
+New Mexico                 33
+New York                   46
+North Carolina             51
+North Dakota               41
+Ohio                       43
+Oklahoma                   70
+Oregon                     37
+Pennsylvania               44
+Rhode Island               37
+South Carolina             53
+South Dakota               40
+Tennessee                  64
+Texas                      51
+Utah                       29
+Vermont                    30
+Virginia                   48
+Washington                 33
+West Virginia              46
+Wisconsin                  41
+Wyoming                    28

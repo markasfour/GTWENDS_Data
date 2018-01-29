@@ -1,0 +1,45 @@
+                      Winter Weather Advisory
+geoName                                      
+Alabama                                    35
+Arkansas                                   59
+California                                  4
+Colorado                                   34
+Connecticut                                29
+Delaware                                   33
+District of Columbia                       45
+Florida                                     6
+Georgia                                    42
+Idaho                                      57
+Illinois                                   32
+Indiana                                   100
+Iowa                                       43
+Kansas                                     35
+Kentucky                                   45
+Louisiana                                  23
+Maine                                      44
+Maryland                                   91
+Massachusetts                              29
+Michigan                                   79
+Minnesota                                  55
+Mississippi                                58
+Missouri                                   36
+Montana                                    92
+Nebraska                                   42
+New Hampshire                              26
+New Jersey                                 28
+New York                                   37
+North Carolina                             45
+Ohio                                       76
+Oklahoma                                   25
+Oregon                                     17
+Pennsylvania                               45
+Rhode Island                               23
+South Carolina                             29
+Tennessee                                  36
+Texas                                      19
+Utah                                       25
+Vermont                                    85
+Virginia                                   41
+Washington                                 23
+West Virginia                              80
+Wisconsin                                  59

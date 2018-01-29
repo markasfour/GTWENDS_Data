@@ -1,53 +1,53 @@
                       Pink
 geoName                   
 Alabama                 90
-Alaska                  74
-Arizona                 79
-Arkansas                89
-California              81
+Alaska                  75
+Arizona                 80
+Arkansas                84
+California              80
 Colorado                72
 Connecticut             75
 Delaware                85
-District of Columbia    78
+District of Columbia    73
 Florida                 81
-Georgia                 89
-Hawaii                  74
+Georgia                 90
+Hawaii                  72
 Idaho                   72
 Illinois                86
-Indiana                 81
-Iowa                    76
-Kansas                  78
+Indiana                 82
+Iowa                    75
+Kansas                  77
 Kentucky                91
 Louisiana               91
 Maine                   73
-Maryland                82
-Massachusetts           73
-Michigan                86
-Minnesota               72
+Maryland                77
+Massachusetts           75
+Michigan                83
+Minnesota               71
 Mississippi            100
-Missouri                84
+Missouri                83
 Montana                 70
-Nebraska                80
-Nevada                  88
-New Hampshire           72
-New Jersey              85
+Nebraska                78
+Nevada                  86
+New Hampshire           74
+New Jersey              83
 New Mexico              75
-New York                84
-North Carolina          79
-North Dakota            80
-Ohio                    84
-Oklahoma                87
+New York                83
+North Carolina          81
+North Dakota            77
+Ohio                    86
+Oklahoma                88
 Oregon                  63
-Pennsylvania            81
-Rhode Island            85
+Pennsylvania            80
+Rhode Island            82
 South Carolina          84
-South Dakota            80
-Tennessee               88
-Texas                   83
+South Dakota            77
+Tennessee               86
+Texas                   81
 Utah                    80
-Vermont                 71
+Vermont                 68
 Virginia                70
-Washington              79
-West Virginia           97
-Wisconsin               81
-Wyoming                 79
+Washington              76
+West Virginia           93
+Wisconsin               79
+Wyoming                 77

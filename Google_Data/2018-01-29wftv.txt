@@ -1,0 +1,48 @@
+                      wftv
+geoName                   
+Alabama                  2
+Alaska                   0
+Arizona                  1
+Arkansas                 2
+California               0
+Colorado                 1
+Connecticut              1
+Delaware                 3
+District of Columbia     2
+Florida                100
+Georgia                  5
+Hawaii                   0
+Idaho                    0
+Illinois                 1
+Indiana                  1
+Iowa                     1
+Kansas                   1
+Kentucky                 1
+Louisiana                1
+Maine                    0
+Maryland                 1
+Massachusetts            1
+Michigan                 1
+Minnesota                1
+Mississippi              3
+Missouri                 1
+Nebraska                 0
+Nevada                   1
+New Hampshire            1
+New Jersey               1
+New Mexico               0
+New York                 1
+North Carolina           2
+Ohio                     1
+Oklahoma                 5
+Oregon                   0
+Pennsylvania             1
+Rhode Island             1
+South Carolina           2
+Tennessee                2
+Texas                    1
+Utah                     1
+Virginia                 1
+Washington               0
+West Virginia            1
+Wisconsin                1

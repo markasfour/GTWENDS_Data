@@ -1,53 +1,53 @@
                       Elton John
 geoName                         
-Alabama                       65
-Alaska                        50
-Arizona                       53
+Alabama                       69
+Alaska                        49
+Arizona                       56
 Arkansas                      51
-California                    52
-Colorado                      54
-Connecticut                   59
-Delaware                      59
-District of Columbia          53
-Florida                       51
+California                    55
+Colorado                      59
+Connecticut                   62
+Delaware                      54
+District of Columbia          59
+Florida                       52
 Georgia                       58
-Hawaii                        51
-Idaho                         60
-Illinois                      54
-Indiana                       55
+Hawaii                        54
+Idaho                         62
+Illinois                      58
+Indiana                       59
 Iowa                          57
 Kansas                        47
 Kentucky                      58
-Louisiana                     63
-Maine                         89
-Maryland                      46
-Massachusetts                 63
-Michigan                      60
-Minnesota                     55
+Louisiana                     66
+Maine                         96
+Maryland                      49
+Massachusetts                 65
+Michigan                      62
+Minnesota                     57
 Mississippi                   56
-Missouri                      53
-Montana                       83
-Nebraska                      69
+Missouri                      56
+Montana                       84
+Nebraska                      75
 Nevada                       100
 New Hampshire                 69
-New Jersey                    57
-New Mexico                    67
-New York                      56
-North Carolina                50
-North Dakota                  51
-Ohio                          61
-Oklahoma                      54
-Oregon                        50
-Pennsylvania                  64
-Rhode Island                  60
-South Carolina                52
-South Dakota                  64
-Tennessee                     64
-Texas                         47
-Utah                          55
-Vermont                       61
-Virginia                      44
+New Jersey                    62
+New Mexico                    63
+New York                      59
+North Carolina                51
+North Dakota                  49
+Ohio                          62
+Oklahoma                      57
+Oregon                        53
+Pennsylvania                  69
+Rhode Island                  62
+South Carolina                54
+South Dakota                  72
+Tennessee                     65
+Texas                         51
+Utah                          59
+Vermont                       71
+Virginia                      46
 Washington                    59
-West Virginia                 59
-Wisconsin                     50
-Wyoming                       62
+West Virginia                 64
+Wisconsin                     52
+Wyoming                       65

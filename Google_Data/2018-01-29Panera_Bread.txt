@@ -1,0 +1,53 @@
+                      Panera Bread
+geoName                           
+Alabama                         84
+Alaska                           5
+Arizona                         40
+Arkansas                        54
+California                      48
+Colorado                        63
+Connecticut                     90
+Delaware                        92
+District of Columbia            91
+Florida                         97
+Georgia                         87
+Hawaii                          12
+Idaho                           35
+Illinois                        74
+Indiana                         66
+Iowa                            50
+Kansas                          47
+Kentucky                        75
+Louisiana                       55
+Maine                           48
+Maryland                        94
+Massachusetts                   80
+Michigan                        90
+Minnesota                       46
+Mississippi                     35
+Missouri                        76
+Montana                          6
+Nebraska                        58
+Nevada                          44
+New Hampshire                   57
+New Jersey                      81
+New Mexico                      38
+New York                        60
+North Carolina                 100
+North Dakota                    58
+Ohio                            78
+Oklahoma                       100
+Oregon                          23
+Pennsylvania                    92
+Rhode Island                    93
+South Carolina                  74
+South Dakota                    40
+Tennessee                       92
+Texas                           57
+Utah                            12
+Vermont                         45
+Virginia                        72
+Washington                      42
+West Virginia                   62
+Wisconsin                       60
+Wyoming                         10

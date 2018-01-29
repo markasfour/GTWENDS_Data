@@ -1,53 +1,53 @@
                       PlayStation Network
 geoName                                  
-Alabama                                86
-Alaska                                 71
-Arizona                                72
-Arkansas                               85
-California                             59
-Colorado                               65
-Connecticut                            52
-Delaware                               69
-District of Columbia                   48
-Florida                                65
-Georgia                                71
-Hawaii                                 56
-Idaho                                  85
-Illinois                               63
-Indiana                                80
-Iowa                                   83
-Kansas                                 68
-Kentucky                               82
-Louisiana                              82
-Maine                                  68
-Maryland                               70
-Massachusetts                          50
-Michigan                               70
-Minnesota                              56
-Mississippi                            83
-Missouri                               67
-Montana                                63
+Alabama                                82
+Alaska                                 63
+Arizona                                71
+Arkansas                               86
+California                             56
+Colorado                               63
+Connecticut                            51
+Delaware                               65
+District of Columbia                   44
+Florida                                62
+Georgia                                67
+Hawaii                                 57
+Idaho                                  78
+Illinois                               60
+Indiana                                78
+Iowa                                   74
+Kansas                                 65
+Kentucky                               81
+Louisiana                              77
+Maine                                  63
+Maryland                               65
+Massachusetts                          48
+Michigan                               68
+Minnesota                              53
+Mississippi                            79
+Missouri                               64
+Montana                                67
 Nebraska                               70
-Nevada                                 79
-New Hampshire                          64
-New Jersey                             55
-New Mexico                             84
-New York                               59
-North Carolina                         73
-North Dakota                           93
-Ohio                                   78
-Oklahoma                               82
-Oregon                                 48
-Pennsylvania                           72
-Rhode Island                           60
-South Carolina                         80
-South Dakota                           75
-Tennessee                              74
-Texas                                  70
-Utah                                   62
-Vermont                                55
+Nevada                                 75
+New Hampshire                          58
+New Jersey                             54
+New Mexico                             82
+New York                               57
+North Carolina                         71
+North Dakota                           77
+Ohio                                   72
+Oklahoma                               80
+Oregon                                 46
+Pennsylvania                           71
+Rhode Island                           58
+South Carolina                         76
+South Dakota                           80
+Tennessee                              71
+Texas                                  66
+Utah                                   60
+Vermont                                50
 Virginia                               57
-Washington                             56
+Washington                             53
 West Virginia                         100
-Wisconsin                              67
-Wyoming                                83
+Wisconsin                              65
+Wyoming                                77

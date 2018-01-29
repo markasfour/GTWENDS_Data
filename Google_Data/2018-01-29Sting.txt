@@ -1,53 +1,53 @@
                       Sting
 geoName                    
-Alabama                  92
-Alaska                   54
-Arizona                  79
+Alabama                  94
+Alaska                   61
+Arizona                  80
 Arkansas                 79
-California               64
-Colorado                 70
-Connecticut              74
-Delaware                 74
-District of Columbia     75
-Florida                  78
-Georgia                  82
-Hawaii                  100
-Idaho                    74
-Illinois                 76
-Indiana                  75
-Iowa                     68
+California               65
+Colorado                 72
+Connecticut              73
+Delaware                 76
+District of Columbia     78
+Florida                  76
+Georgia                  85
+Hawaii                   96
+Idaho                    78
+Illinois                 75
+Indiana                  71
+Iowa                     67
 Kansas                   63
 Kentucky                 86
-Louisiana                86
-Maine                    71
-Maryland                 71
-Massachusetts            74
-Michigan                 79
-Minnesota                74
-Mississippi              83
-Missouri                 77
-Montana                  75
-Nebraska                 72
-Nevada                   68
-New Hampshire            75
+Louisiana                83
+Maine                    76
+Maryland                 72
+Massachusetts            77
+Michigan                 80
+Minnesota                78
+Mississippi              85
+Missouri                 76
+Montana                  81
+Nebraska                 73
+Nevada                   66
+New Hampshire            73
 New Jersey               69
-New Mexico               62
-New York                 69
-North Carolina           79
+New Mexico               63
+New York                 72
+North Carolina           80
 North Dakota             70
-Ohio                     74
-Oklahoma                 75
-Oregon                   60
+Ohio                     77
+Oklahoma                 81
+Oregon                   59
 Pennsylvania             75
-Rhode Island             83
-South Carolina           88
+Rhode Island             85
+South Carolina           93
 South Dakota             66
-Tennessee                87
-Texas                    75
+Tennessee                89
+Texas                    77
 Utah                     71
-Vermont                  72
-Virginia                 70
-Washington               75
-West Virginia            96
-Wisconsin                87
-Wyoming                  59
+Vermont                  75
+Virginia                 68
+Washington               76
+West Virginia           100
+Wisconsin                88
+Wyoming                  61
