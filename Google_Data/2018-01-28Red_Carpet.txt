@@ -1,0 +1,53 @@
+                      Red Carpet
+geoName                         
+Alabama                       62
+Alaska                        42
+Arizona                       56
+Arkansas                      63
+California                    85
+Colorado                      59
+Connecticut                   77
+Delaware                      72
+District of Columbia          84
+Florida                       73
+Georgia                       74
+Hawaii                        61
+Idaho                         45
+Illinois                      75
+Indiana                       63
+Iowa                          60
+Kansas                        57
+Kentucky                      67
+Louisiana                     92
+Maine                         47
+Maryland                      75
+Massachusetts                 82
+Michigan                      66
+Minnesota                     74
+Mississippi                   65
+Missouri                      62
+Montana                       44
+Nebraska                      62
+Nevada                        71
+New Hampshire                 66
+New Jersey                    92
+New Mexico                    48
+New York                      94
+North Carolina                64
+North Dakota                  92
+Ohio                          68
+Oklahoma                     100
+Oregon                        55
+Pennsylvania                  77
+Rhode Island                  73
+South Carolina                56
+South Dakota                  47
+Tennessee                     61
+Texas                         63
+Utah                          58
+Vermont                       56
+Virginia                      64
+Washington                    60
+West Virginia                 55
+Wisconsin                     58
+Wyoming                       47

@@ -1,0 +1,53 @@
+                      Jagr
+geoName                   
+Alabama                  8
+Alaska                  34
+Arizona                 17
+Arkansas                 6
+California              15
+Colorado                27
+Connecticut             44
+Delaware                32
+District of Columbia    42
+Florida                 29
+Georgia                 10
+Hawaii                  15
+Idaho                   12
+Illinois                36
+Indiana                 16
+Iowa                    16
+Kansas                   8
+Kentucky                13
+Louisiana                6
+Maine                   57
+Maryland                25
+Massachusetts          100
+Michigan                37
+Minnesota               51
+Mississippi              5
+Missouri                30
+Montana                 22
+Nebraska                16
+Nevada                  19
+New Hampshire           90
+New Jersey              55
+New Mexico              12
+New York                46
+North Carolina          16
+North Dakota            46
+Ohio                    23
+Oklahoma                13
+Oregon                  10
+Pennsylvania            81
+Rhode Island            63
+South Carolina          14
+South Dakota            15
+Tennessee               17
+Texas                   11
+Utah                    12
+Vermont                 58
+Virginia                21
+Washington              15
+West Virginia           28
+Wisconsin               23
+Wyoming                 16

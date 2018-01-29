@@ -1,0 +1,53 @@
+                      IKEA
+geoName                   
+Alabama                 30
+Alaska                  29
+Arizona                 75
+Arkansas                28
+California             100
+Colorado                87
+Connecticut             83
+Delaware                60
+District of Columbia    92
+Florida                 83
+Georgia                 58
+Hawaii                  35
+Idaho                   39
+Illinois                74
+Indiana                 52
+Iowa                    38
+Kansas                  52
+Kentucky                44
+Louisiana               28
+Maine                   45
+Maryland                97
+Massachusetts           86
+Michigan                65
+Minnesota               84
+Mississippi             22
+Missouri                58
+Montana                 30
+Nebraska                32
+Nevada                  66
+New Hampshire           55
+New Jersey              84
+New Mexico              33
+New York                91
+North Carolina          53
+North Dakota            33
+Ohio                    60
+Oklahoma                39
+Oregon                  84
+Pennsylvania            75
+Rhode Island            73
+South Carolina          43
+South Dakota            29
+Tennessee               41
+Texas                   60
+Utah                    93
+Vermont                 52
+Virginia                61
+Washington             100
+West Virginia           33
+Wisconsin               45
+Wyoming                 34

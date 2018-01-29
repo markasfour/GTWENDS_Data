@@ -1,0 +1,53 @@
+                      Cowan
+geoName                    
+Alabama                  42
+Alaska                   13
+Arizona                  22
+Arkansas                 32
+California               35
+Colorado                 31
+Connecticut              32
+Delaware                 32
+District of Columbia     50
+Florida                  25
+Georgia                  69
+Hawaii                   21
+Idaho                    27
+Illinois                 25
+Indiana                  75
+Iowa                     20
+Kansas                   31
+Kentucky                 69
+Louisiana                29
+Maine                    37
+Maryland                 44
+Massachusetts            39
+Michigan                 27
+Minnesota                24
+Mississippi              96
+Missouri                 38
+Montana                  26
+Nebraska                 20
+Nevada                   39
+New Hampshire            34
+New Jersey               29
+New Mexico               31
+New York                 31
+North Carolina           36
+North Dakota             21
+Ohio                     96
+Oklahoma                 47
+Oregon                   26
+Pennsylvania             33
+Rhode Island             21
+South Carolina           34
+South Dakota             28
+Tennessee               100
+Texas                    41
+Utah                     35
+Vermont                  38
+Virginia                 38
+Washington               36
+West Virginia            32
+Wisconsin                19
+Wyoming                  25

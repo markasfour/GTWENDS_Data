@@ -1,53 +1,53 @@
                       Chris Stapleton
 geoName                              
-Alabama                            79
-Alaska                             19
-Arizona                            23
-Arkansas                           70
+Alabama                            78
+Alaska                             18
+Arizona                            24
+Arkansas                           76
 California                         17
-Colorado                           29
+Colorado                           30
 Connecticut                        18
-Delaware                           24
-District of Columbia               30
+Delaware                           23
+District of Columbia               29
 Florida                            23
-Georgia                            57
-Hawaii                             10
+Georgia                            52
+Hawaii                              9
 Idaho                              26
-Illinois                           30
-Indiana                            44
-Iowa                               47
-Kansas                             26
+Illinois                           31
+Indiana                            46
+Iowa                               44
+Kansas                             27
 Kentucky                          100
-Louisiana                          52
-Maine                              33
-Maryland                           20
+Louisiana                          54
+Maine                              36
+Maryland                           18
 Massachusetts                      20
-Michigan                           32
-Minnesota                          30
-Mississippi                        78
-Missouri                           47
-Montana                            39
-Nebraska                           47
+Michigan                           33
+Minnesota                          31
+Mississippi                        75
+Missouri                           48
+Montana                            42
+Nebraska                           51
 Nevada                             17
-New Hampshire                      29
+New Hampshire                      26
 New Jersey                         13
-New Mexico                         27
-New York                           16
-North Carolina                     48
-North Dakota                       37
-Ohio                               39
-Oklahoma                           55
-Oregon                             17
+New Mexico                         29
+New York                           15
+North Carolina                     47
+North Dakota                       40
+Ohio                               41
+Oklahoma                           53
+Oregon                             16
 Pennsylvania                       22
-Rhode Island                       18
-South Carolina                     47
-South Dakota                       34
-Tennessee                          81
-Texas                              41
-Utah                               18
-Vermont                            26
-Virginia                           29
+Rhode Island                       16
+South Carolina                     48
+South Dakota                       45
+Tennessee                          86
+Texas                              40
+Utah                               17
+Vermont                            25
+Virginia                           27
 Washington                         19
-West Virginia                      78
-Wisconsin                          32
-Wyoming                            31
+West Virginia                      84
+Wisconsin                          31
+Wyoming                            34

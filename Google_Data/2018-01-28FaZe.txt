@@ -1,0 +1,53 @@
+                      FaZe
+geoName                   
+Alabama                 58
+Alaska                  66
+Arizona                 83
+Arkansas                67
+California             100
+Colorado                58
+Connecticut             75
+Delaware                72
+District of Columbia    30
+Florida                 55
+Georgia                 49
+Hawaii                  70
+Idaho                   59
+Illinois                80
+Indiana                 83
+Iowa                    80
+Kansas                  63
+Kentucky                62
+Louisiana               57
+Maine                   89
+Maryland                57
+Massachusetts           60
+Michigan                69
+Minnesota               63
+Mississippi             45
+Missouri                60
+Montana                 58
+Nebraska                72
+Nevada                  85
+New Hampshire           66
+New Jersey              78
+New Mexico              76
+New York                61
+North Carolina          59
+North Dakota            65
+Ohio                    71
+Oklahoma                58
+Oregon                  69
+Pennsylvania            67
+Rhode Island            83
+South Carolina          55
+South Dakota            64
+Tennessee               54
+Texas                   65
+Utah                    54
+Vermont                 62
+Virginia                53
+Washington              58
+West Virginia           80
+Wisconsin               73
+Wyoming                 73

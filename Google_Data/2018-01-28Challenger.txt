@@ -1,0 +1,53 @@
+                      Challenger
+geoName                         
+Alabama                       93
+Alaska                        63
+Arizona                       93
+Arkansas                      97
+California                    77
+Colorado                      79
+Connecticut                   49
+Delaware                      58
+District of Columbia          63
+Florida                       84
+Georgia                       84
+Hawaii                        57
+Idaho                         75
+Illinois                      71
+Indiana                       76
+Iowa                          65
+Kansas                        75
+Kentucky                      76
+Louisiana                     93
+Maine                         52
+Maryland                      57
+Massachusetts                 45
+Michigan                      82
+Minnesota                     56
+Mississippi                   99
+Missouri                      80
+Montana                       61
+Nebraska                      76
+Nevada                        92
+New Hampshire                 56
+New Jersey                    58
+New Mexico                    91
+New York                      51
+North Carolina                74
+North Dakota                  83
+Ohio                          67
+Oklahoma                      98
+Oregon                        44
+Pennsylvania                  60
+Rhode Island                  50
+South Carolina                73
+South Dakota                  71
+Tennessee                     81
+Texas                        100
+Utah                          79
+Vermont                       51
+Virginia                      57
+Washington                    63
+West Virginia                 70
+Wisconsin                     62
+Wyoming                       64

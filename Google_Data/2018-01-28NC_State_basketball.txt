@@ -7,9 +7,9 @@ California                              1
 Colorado                                1
 Connecticut                             2
 Delaware                                3
-District of Columbia                    4
+District of Columbia                    5
 Florida                                 2
-Georgia                                 7
+Georgia                                 6
 Hawaii                                  1
 Idaho                                   1
 Illinois                                2
@@ -17,7 +17,7 @@ Indiana                                 2
 Iowa                                    2
 Kansas                                  2
 Kentucky                                5
-Louisiana                               1
+Louisiana                               2
 Maine                                   1
 Maryland                                4
 Massachusetts                           2
@@ -37,11 +37,11 @@ Oklahoma                                1
 Oregon                                  1
 Pennsylvania                            2
 Rhode Island                            2
-South Carolina                         14
-Tennessee                               5
+South Carolina                         13
+Tennessee                               6
 Texas                                   1
 Utah                                    1
-Vermont                                 3
+Vermont                                 2
 Virginia                                7
 Washington                              1
 West Virginia                           4

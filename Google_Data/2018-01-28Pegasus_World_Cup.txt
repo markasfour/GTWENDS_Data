@@ -1,50 +1,51 @@
                       Pegasus World Cup
 geoName                                
-Alabama                               8
-Arizona                              24
-Arkansas                             18
-California                           23
-Colorado                             10
-Connecticut                          50
-Delaware                             22
-District of Columbia                 17
-Florida                              90
-Georgia                              18
-Hawaii                               17
-Idaho                                20
-Illinois                             22
-Indiana                              16
-Iowa                                 14
+Alabama                              11
+Arizona                              23
+Arkansas                             29
+California                           26
+Colorado                             13
+Connecticut                          43
+Delaware                             35
+District of Columbia                 24
+Florida                              89
+Georgia                              19
+Hawaii                               12
+Idaho                                14
+Illinois                             20
+Indiana                              26
+Iowa                                 11
+Kansas                                3
 Kentucky                            100
-Louisiana                            32
-Maine                                22
-Maryland                             32
-Massachusetts                        24
-Michigan                             26
+Louisiana                            16
+Maine                                15
+Maryland                             38
+Massachusetts                        28
+Michigan                             29
 Minnesota                            24
-Mississippi                          23
-Missouri                             14
-Montana                              11
-Nebraska                             18
-Nevada                               15
-New Hampshire                        20
-New Jersey                           29
-New Mexico                           18
+Mississippi                          20
+Missouri                             28
+Montana                              47
+Nebraska                             34
+Nevada                               18
+New Hampshire                        21
+New Jersey                           27
+New Mexico                           32
 New York                             32
-North Carolina                       16
-North Dakota                         14
-Ohio                                 22
-Oklahoma                             16
-Oregon                               11
-Pennsylvania                         21
-Rhode Island                         47
-South Carolina                       19
-South Dakota                         56
-Tennessee                            16
-Texas                                11
-Utah                                 18
-Vermont                              57
-Virginia                             13
-Washington                           13
-West Virginia                        45
-Wisconsin                            20
+North Carolina                       13
+North Dakota                         30
+Ohio                                 17
+Oklahoma                             17
+Oregon                                6
+Pennsylvania                         18
+Rhode Island                         33
+South Carolina                       23
+South Dakota                         30
+Tennessee                            17
+Texas                                14
+Utah                                 19
+Vermont                              30
+Virginia                             14
+Washington                           19
+West Virginia                        16
+Wisconsin                            15

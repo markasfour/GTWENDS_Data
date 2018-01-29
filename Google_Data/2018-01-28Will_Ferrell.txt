@@ -1,53 +1,53 @@
                       Will Ferrell
 geoName                           
-Alabama                         72
+Alabama                         71
 Alaska                          77
-Arizona                         85
-Arkansas                        75
+Arizona                         82
+Arkansas                        77
 California                      76
 Colorado                        86
-Connecticut                     75
-Delaware                        71
-District of Columbia            84
-Florida                         65
-Georgia                         70
-Hawaii                          64
-Idaho                           80
-Illinois                        85
-Indiana                         90
+Connecticut                     76
+Delaware                        82
+District of Columbia            86
+Florida                         66
+Georgia                         72
+Hawaii                          63
+Idaho                           83
+Illinois                        86
+Indiana                         92
 Iowa                            87
-Kansas                          77
-Kentucky                        86
-Louisiana                       74
-Maine                           78
-Maryland                        71
-Massachusetts                   80
-Michigan                        90
-Minnesota                       83
-Mississippi                     64
-Missouri                        87
-Montana                         89
-Nebraska                        91
-Nevada                          76
-New Hampshire                   78
-New Jersey                      67
-New Mexico                      68
-New York                        74
-North Carolina                  72
+Kansas                          78
+Kentucky                        90
+Louisiana                       71
+Maine                           77
+Maryland                        68
+Massachusetts                   82
+Michigan                        86
+Minnesota                       85
+Mississippi                     67
+Missouri                        90
+Montana                         83
+Nebraska                        97
+Nevada                          73
+New Hampshire                   82
+New Jersey                      70
+New Mexico                      71
+New York                        75
+North Carolina                  74
 North Dakota                   100
-Ohio                            86
-Oklahoma                        88
-Oregon                          63
-Pennsylvania                    83
-Rhode Island                    82
-South Carolina                  68
-South Dakota                    86
-Tennessee                       79
-Texas                           75
-Utah                            86
-Vermont                         78
-Virginia                        64
+Ohio                            89
+Oklahoma                        90
+Oregon                          69
+Pennsylvania                    87
+Rhode Island                    81
+South Carolina                  71
+South Dakota                    91
+Tennessee                       84
+Texas                           76
+Utah                            84
+Vermont                         87
+Virginia                        63
 Washington                      87
-West Virginia                   81
-Wisconsin                       90
-Wyoming                         92
+West Virginia                   83
+Wisconsin                       92
+Wyoming                         90

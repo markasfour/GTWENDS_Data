@@ -1,0 +1,31 @@
+                      Nolf
+geoName                   
+Arizona                 10
+California              12
+Colorado                 9
+District of Columbia    17
+Florida                 12
+Georgia                  8
+Illinois                 9
+Indiana                  6
+Iowa                    14
+Maryland                12
+Massachusetts            6
+Michigan                12
+Minnesota                8
+Missouri                10
+Nebraska                 6
+New Jersey              14
+New York                11
+North Carolina           8
+Ohio                    13
+Oklahoma                10
+Oregon                  12
+Pennsylvania           100
+South Carolina           9
+Tennessee                5
+Texas                    7
+Utah                    12
+Virginia                 9
+Washington              14
+Wisconsin                8

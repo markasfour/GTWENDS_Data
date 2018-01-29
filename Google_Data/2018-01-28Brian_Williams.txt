@@ -1,0 +1,53 @@
+                      Brian Williams
+geoName                             
+Alabama                           52
+Alaska                            66
+Arizona                           55
+Arkansas                          49
+California                        50
+Colorado                          64
+Connecticut                       78
+Delaware                          64
+District of Columbia             100
+Florida                           51
+Georgia                           47
+Hawaii                            50
+Idaho                             54
+Illinois                          52
+Indiana                           57
+Iowa                              62
+Kansas                            52
+Kentucky                          69
+Louisiana                         50
+Maine                             82
+Maryland                          74
+Massachusetts                     76
+Michigan                          59
+Minnesota                         68
+Mississippi                       53
+Missouri                          61
+Montana                           55
+Nebraska                          66
+Nevada                            49
+New Hampshire                     58
+New Jersey                        66
+New Mexico                        51
+New York                          68
+North Carolina                    55
+North Dakota                      56
+Ohio                              64
+Oklahoma                          75
+Oregon                            45
+Pennsylvania                      70
+Rhode Island                      94
+South Carolina                    58
+South Dakota                      45
+Tennessee                         66
+Texas                             46
+Utah                              65
+Vermont                           79
+Virginia                          62
+Washington                        65
+West Virginia                     60
+Wisconsin                         63
+Wyoming                           52

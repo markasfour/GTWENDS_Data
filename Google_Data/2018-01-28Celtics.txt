@@ -19,18 +19,18 @@ Iowa                        6
 Kansas                      4
 Kentucky                    6
 Louisiana                   5
-Maine                      70
+Maine                      68
 Maryland                    7
 Massachusetts             100
 Michigan                    5
 Minnesota                   3
 Mississippi                 8
-Missouri                    5
+Missouri                    4
 Montana                     6
 Nebraska                    6
 Nevada                      7
-New Hampshire              80
-New Jersey                  7
+New Hampshire              81
+New Jersey                  8
 New Mexico                  7
 New York                   10
 North Carolina              7
@@ -38,14 +38,14 @@ North Dakota                6
 Ohio                        9
 Oklahoma                    4
 Oregon                      3
-Pennsylvania                6
-Rhode Island               69
+Pennsylvania                7
+Rhode Island               71
 South Carolina              8
-South Dakota                8
+South Dakota                7
 Tennessee                   6
 Texas                       5
 Utah                        5
-Vermont                    43
+Vermont                    45
 Virginia                    6
 Washington                  4
 West Virginia               6

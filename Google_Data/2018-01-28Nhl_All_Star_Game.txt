@@ -1,53 +1,53 @@
                       Nhl All Star Game
 geoName                                
 Alabama                              15
-Alaska                               55
-Arizona                              27
+Alaska                               48
+Arizona                              30
 Arkansas                              9
-California                           35
-Colorado                             45
-Connecticut                          55
-Delaware                             50
-District of Columbia                 47
-Florida                              41
-Georgia                              14
-Hawaii                               21
-Idaho                                18
-Illinois                             89
-Indiana                              32
-Iowa                                 28
-Kansas                               13
-Kentucky                             18
-Louisiana                             5
-Maine                                50
+California                           36
+Colorado                             47
+Connecticut                          53
+Delaware                             43
+District of Columbia                 50
+Florida                              43
+Georgia                              15
+Hawaii                               16
+Idaho                                21
+Illinois                             92
+Indiana                              36
+Iowa                                 29
+Kansas                               15
+Kentucky                             26
+Louisiana                             7
+Maine                                48
 Maryland                             43
-Massachusetts                        77
-Michigan                             85
+Massachusetts                        78
+Michigan                             91
 Minnesota                           100
-Mississippi                           8
-Missouri                             72
-Montana                              22
+Mississippi                          10
+Missouri                             79
+Montana                              30
 Nebraska                             24
-Nevada                               27
-New Hampshire                        84
-New Jersey                           61
-New Mexico                           11
-New York                             62
-North Carolina                       24
-North Dakota                         78
-Ohio                                 64
-Oklahoma                             14
-Oregon                               11
-Pennsylvania                         97
-Rhode Island                         58
-South Carolina                       20
-South Dakota                         40
-Tennessee                            62
-Texas                                16
-Utah                                  9
-Vermont                              68
-Virginia                             32
-Washington                           17
-West Virginia                        31
-Wisconsin                            42
-Wyoming                              33
+Nevada                               36
+New Hampshire                        89
+New Jersey                           59
+New Mexico                           13
+New York                             66
+North Carolina                       25
+North Dakota                         89
+Ohio                                 72
+Oklahoma                             15
+Oregon                               12
+Pennsylvania                         99
+Rhode Island                         73
+South Carolina                       21
+South Dakota                         44
+Tennessee                            68
+Texas                                15
+Utah                                 10
+Vermont                              60
+Virginia                             31
+Washington                           15
+West Virginia                        35
+Wisconsin                            44
+Wyoming                              41
