@@ -1,0 +1,53 @@
+                      GRAMMYs
+geoName                      
+Alabama                    66
+Alaska                     46
+Arizona                    66
+Arkansas                   60
+California                 86
+Colorado                   70
+Connecticut                86
+Delaware                   81
+District of Columbia       90
+Florida                    73
+Georgia                    74
+Hawaii                     77
+Idaho                      50
+Illinois                   80
+Indiana                    71
+Iowa                       64
+Kansas                     56
+Kentucky                   67
+Louisiana                  71
+Maine                      71
+Maryland                   89
+Massachusetts              91
+Michigan                   72
+Minnesota                  74
+Mississippi                65
+Missouri                   69
+Montana                    57
+Nebraska                   63
+Nevada                     79
+New Hampshire              69
+New Jersey                 89
+New Mexico                 58
+New York                   97
+North Carolina             71
+North Dakota               64
+Ohio                       69
+Oklahoma                   65
+Oregon                     50
+Pennsylvania               84
+Rhode Island              100
+South Carolina             63
+South Dakota               57
+Tennessee                  73
+Texas                      68
+Utah                       58
+Vermont                    84
+Virginia                   64
+Washington                 65
+West Virginia              64
+Wisconsin                  69
+Wyoming                    48

@@ -1,0 +1,29 @@
+                MiddleEast
+geoName                   
+Alabama                 16
+Arizona                 22
+California              21
+Colorado                21
+Connecticut             29
+Florida                 19
+Georgia                 20
+Illinois                24
+Indiana                 20
+Iowa                    29
+Maine                   50
+Maryland                27
+Massachusetts          100
+Michigan                27
+Minnesota               26
+Missouri                19
+New Jersey              36
+New York                23
+North Carolina          18
+Ohio                    12
+Oregon                  22
+Pennsylvania            22
+Tennessee               13
+Texas                   19
+Virginia                23
+Washington              24
+Wisconsin               22

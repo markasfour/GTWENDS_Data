@@ -1,0 +1,53 @@
+                      Andrew McCabe
+geoName                            
+Alabama                          49
+Alaska                           52
+Arizona                          37
+Arkansas                         44
+California                       39
+Colorado                         37
+Connecticut                      62
+Delaware                         31
+District of Columbia            100
+Florida                          41
+Georgia                          21
+Hawaii                           27
+Idaho                            25
+Illinois                         36
+Indiana                          38
+Iowa                             55
+Kansas                           33
+Kentucky                         23
+Louisiana                        23
+Maine                            28
+Maryland                         72
+Massachusetts                    46
+Michigan                         37
+Minnesota                        44
+Mississippi                      26
+Missouri                         33
+Montana                          21
+Nebraska                         13
+Nevada                           28
+New Hampshire                    38
+New Jersey                       52
+New Mexico                       57
+New York                         46
+North Carolina                   32
+North Dakota                     27
+Ohio                             36
+Oklahoma                         13
+Oregon                           21
+Pennsylvania                     42
+Rhode Island                     52
+South Carolina                   45
+South Dakota                     26
+Tennessee                        25
+Texas                            27
+Utah                             23
+Vermont                          81
+Virginia                         54
+Washington                       34
+West Virginia                    43
+Wisconsin                        35
+Wyoming                          39

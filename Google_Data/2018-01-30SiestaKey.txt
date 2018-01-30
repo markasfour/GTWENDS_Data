@@ -1,0 +1,7 @@
+            SiestaKey
+geoName              
+California          2
+Florida           100
+Illinois           10
+New York            8
+Ohio               21

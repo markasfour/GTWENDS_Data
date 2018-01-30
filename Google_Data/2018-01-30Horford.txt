@@ -1,0 +1,53 @@
+                      Horford
+geoName                      
+Alabama                    18
+Alaska                      8
+Arizona                    12
+Arkansas                   13
+California                 19
+Colorado                    9
+Connecticut                37
+Delaware                   20
+District of Columbia       24
+Florida                    23
+Georgia                    53
+Hawaii                     12
+Idaho                       6
+Illinois                   18
+Indiana                    19
+Iowa                       13
+Kansas                      9
+Kentucky                   18
+Louisiana                  14
+Maine                      53
+Maryland                   21
+Massachusetts             100
+Michigan                   31
+Minnesota                  12
+Mississippi                15
+Missouri                   10
+Montana                     6
+Nebraska                   13
+Nevada                     16
+New Hampshire              62
+New Jersey                 26
+New Mexico                  7
+New York                   28
+North Carolina             15
+North Dakota                8
+Ohio                       20
+Oklahoma                   22
+Oregon                     12
+Pennsylvania               17
+Rhode Island               79
+South Carolina             18
+South Dakota               10
+Tennessee                  15
+Texas                      13
+Utah                        8
+Vermont                    31
+Virginia                   16
+Washington                  9
+West Virginia              16
+Wisconsin                  13
+Wyoming                     7

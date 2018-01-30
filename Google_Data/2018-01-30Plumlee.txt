@@ -1,0 +1,53 @@
+                      Plumlee
+geoName                      
+Alabama                    23
+Alaska                     34
+Arizona                    50
+Arkansas                  100
+California                 28
+Colorado                   37
+Connecticut                35
+Delaware                   25
+District of Columbia       46
+Florida                    31
+Georgia                    37
+Hawaii                     22
+Idaho                      23
+Illinois                   38
+Indiana                    63
+Iowa                       30
+Kansas                     32
+Kentucky                   40
+Louisiana                  25
+Maine                      26
+Maryland                   35
+Massachusetts              35
+Michigan                   28
+Minnesota                  26
+Mississippi                37
+Missouri                   26
+Montana                    20
+Nebraska                   28
+Nevada                     33
+New Hampshire              28
+New Jersey                 43
+New Mexico                 18
+New York                   51
+North Carolina             91
+North Dakota               33
+Ohio                       32
+Oklahoma                   49
+Oregon                     86
+Pennsylvania               36
+Rhode Island               24
+South Carolina             40
+South Dakota               31
+Tennessee                  44
+Texas                      25
+Utah                       33
+Vermont                    12
+Virginia                   42
+Washington                 30
+West Virginia              49
+Wisconsin                  54
+Wyoming                    25

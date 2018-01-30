@@ -1,0 +1,53 @@
+                      Mamma Mia 2
+geoName                          
+Alabama                        37
+Alaska                         66
+Arizona                        50
+Arkansas                       53
+California                     56
+Colorado                       50
+Connecticut                    58
+Delaware                       97
+District of Columbia           14
+Florida                        60
+Georgia                        40
+Hawaii                         82
+Idaho                          89
+Illinois                       51
+Indiana                        56
+Iowa                           46
+Kansas                         53
+Kentucky                       51
+Louisiana                      47
+Maine                          70
+Maryland                       55
+Massachusetts                  57
+Michigan                       51
+Minnesota                      64
+Mississippi                    31
+Missouri                       62
+Montana                        87
+Nebraska                       49
+Nevada                         48
+New Hampshire                  26
+New Jersey                     63
+New Mexico                     46
+New York                       64
+North Carolina                 46
+North Dakota                   54
+Ohio                           64
+Oklahoma                       39
+Oregon                         54
+Pennsylvania                   68
+Rhode Island                   68
+South Carolina                 58
+South Dakota                   53
+Tennessee                      50
+Texas                          47
+Utah                          100
+Vermont                        55
+Virginia                       37
+Washington                     75
+West Virginia                  51
+Wisconsin                      73
+Wyoming                       100
