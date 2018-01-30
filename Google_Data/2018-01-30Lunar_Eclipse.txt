@@ -1,53 +1,53 @@
                       Lunar Eclipse
 geoName                            
-Alabama                          50
-Alaska                           59
-Arizona                          69
-Arkansas                         62
-California                       60
-Colorado                         77
-Connecticut                      58
-Delaware                         55
-District of Columbia             48
-Florida                          59
+Alabama                          59
+Alaska                           62
+Arizona                          71
+Arkansas                         68
+California                       63
+Colorado                         82
+Connecticut                      63
+Delaware                         57
+District of Columbia             49
+Florida                          61
 Georgia                          55
-Hawaii                           71
-Idaho                            84
-Illinois                         59
-Indiana                          66
-Iowa                             71
-Kansas                           61
-Kentucky                         60
-Louisiana                        47
-Maine                            85
-Maryland                         46
-Massachusetts                    59
-Michigan                         57
-Minnesota                        62
-Mississippi                      52
-Missouri                         70
+Hawaii                           79
+Idaho                            91
+Illinois                         66
+Indiana                          69
+Iowa                             70
+Kansas                           64
+Kentucky                         62
+Louisiana                        50
+Maine                            89
+Maryland                         49
+Massachusetts                    63
+Michigan                         62
+Minnesota                        66
+Mississippi                      51
+Missouri                         75
 Montana                          78
-Nebraska                         77
-Nevada                           65
-New Hampshire                    68
-New Jersey                       55
-New Mexico                       76
-New York                         50
-North Carolina                   57
-North Dakota                     59
-Ohio                             54
-Oklahoma                         61
-Oregon                           69
-Pennsylvania                     49
-Rhode Island                     57
-South Carolina                   71
+Nebraska                         80
+Nevada                           71
+New Hampshire                    71
+New Jersey                       58
+New Mexico                       80
+New York                         54
+North Carolina                   61
+North Dakota                     66
+Ohio                             58
+Oklahoma                         64
+Oregon                           72
+Pennsylvania                     52
+Rhode Island                     61
+South Carolina                   76
 South Dakota                     69
-Tennessee                        60
-Texas                            54
-Utah                             79
-Vermont                          79
-Virginia                         46
-Washington                       69
+Tennessee                        67
+Texas                            57
+Utah                             80
+Vermont                          88
+Virginia                         49
+Washington                       75
 West Virginia                    57
-Wisconsin                        64
+Wisconsin                        70
 Wyoming                         100

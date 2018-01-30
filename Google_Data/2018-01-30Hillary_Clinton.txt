@@ -1,53 +1,53 @@
                       Hillary Clinton
 geoName                              
-Alabama                            66
-Alaska                             54
-Arizona                            60
-Arkansas                           75
-California                         63
-Colorado                           57
+Alabama                            64
+Alaska                             50
+Arizona                            61
+Arkansas                           79
+California                         64
+Colorado                           60
 Connecticut                        77
-Delaware                           65
+Delaware                           68
 District of Columbia              100
-Florida                            61
+Florida                            63
 Georgia                            57
-Hawaii                             45
-Idaho                              58
-Illinois                           66
-Indiana                            65
-Iowa                               68
-Kansas                             50
-Kentucky                           58
-Louisiana                          54
-Maine                              71
-Maryland                           70
+Hawaii                             47
+Idaho                              59
+Illinois                           65
+Indiana                            68
+Iowa                               70
+Kansas                             52
+Kentucky                           57
+Louisiana                          55
+Maine                              72
+Maryland                           72
 Massachusetts                      78
 Michigan                           65
-Minnesota                          59
-Mississippi                        54
-Missouri                           60
-Montana                            61
-Nebraska                           64
-Nevada                             62
-New Hampshire                      80
-New Jersey                         73
-New Mexico                         59
+Minnesota                          60
+Mississippi                        56
+Missouri                           62
+Montana                            59
+Nebraska                           62
+Nevada                             64
+New Hampshire                      78
+New Jersey                         72
+New Mexico                         61
 New York                           75
-North Carolina                     61
-North Dakota                       57
-Ohio                               64
-Oklahoma                           55
+North Carolina                     64
+North Dakota                       58
+Ohio                               63
+Oklahoma                           53
 Oregon                             51
 Pennsylvania                       71
-Rhode Island                       71
-South Carolina                     59
-South Dakota                       58
-Tennessee                          60
+Rhode Island                       70
+South Carolina                     61
+South Dakota                       60
+Tennessee                          61
 Texas                              55
 Utah                               54
-Vermont                            80
-Virginia                           56
-Washington                         62
-West Virginia                      65
+Vermont                            83
+Virginia                           57
+Washington                         63
+West Virginia                      63
 Wisconsin                          57
-Wyoming                            64
+Wyoming                            59

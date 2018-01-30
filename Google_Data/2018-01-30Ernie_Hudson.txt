@@ -1,51 +1,51 @@
                       Ernie Hudson
 geoName                           
-Alabama                         73
-Arizona                         66
-Arkansas                        71
-California                      51
-Colorado                        56
-Connecticut                     56
-Delaware                        80
-District of Columbia            74
+Alabama                         62
+Arizona                         58
+Arkansas                        81
+California                      52
+Colorado                        52
+Connecticut                     59
+Delaware                        62
+District of Columbia            65
 Florida                         60
-Georgia                         76
-Hawaii                          40
-Idaho                           41
-Illinois                        74
-Indiana                         76
+Georgia                         67
+Hawaii                          38
+Idaho                           30
+Illinois                        68
+Indiana                         71
 Iowa                            54
-Kansas                          55
-Kentucky                        63
+Kansas                          54
+Kentucky                        73
 Louisiana                       71
-Maine                           49
-Maryland                        88
-Massachusetts                   49
-Michigan                        74
+Maine                           40
+Maryland                        91
+Massachusetts                   56
+Michigan                        71
 Minnesota                      100
-Mississippi                     77
-Missouri                        57
-Nebraska                        54
-Nevada                          50
-New Hampshire                   79
-New Jersey                      59
-New Mexico                      46
-New York                        64
-North Carolina                  67
-North Dakota                    61
-Ohio                            61
-Oklahoma                        72
-Oregon                          44
-Pennsylvania                    67
-Rhode Island                    43
-South Carolina                  55
-South Dakota                    46
-Tennessee                       49
+Mississippi                     73
+Missouri                        61
+Nebraska                        57
+Nevada                          70
+New Hampshire                   57
+New Jersey                      65
+New Mexico                      30
+New York                        62
+North Carolina                  79
+North Dakota                    31
+Ohio                            67
+Oklahoma                        74
+Oregon                          50
+Pennsylvania                    68
+Rhode Island                    34
+South Carolina                  73
+South Dakota                    39
+Tennessee                       63
 Texas                           54
-Utah                            44
-Vermont                         56
-Virginia                        56
-Washington                      52
-West Virginia                   50
-Wisconsin                       60
-Wyoming                         34
+Utah                            48
+Vermont                         24
+Virginia                        60
+Washington                      37
+West Virginia                   63
+Wisconsin                       69
+Wyoming                         35

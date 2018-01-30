@@ -1,0 +1,53 @@
+                      Finesse
+geoName                      
+Alabama                    90
+Alaska                     54
+Arizona                    59
+Arkansas                   74
+California                 73
+Colorado                   57
+Connecticut                81
+Delaware                   82
+District of Columbia       64
+Florida                    76
+Georgia                    84
+Hawaii                     60
+Idaho                      39
+Illinois                   82
+Indiana                    99
+Iowa                       73
+Kansas                     53
+Kentucky                   64
+Louisiana                  72
+Maine                      50
+Maryland                   84
+Massachusetts              74
+Michigan                   81
+Minnesota                  59
+Mississippi               100
+Missouri                   63
+Montana                    51
+Nebraska                   53
+Nevada                     64
+New Hampshire              89
+New Jersey                 75
+New Mexico                 55
+New York                   78
+North Carolina             74
+North Dakota               48
+Ohio                       63
+Oklahoma                   65
+Oregon                     38
+Pennsylvania               64
+Rhode Island               64
+South Carolina             77
+South Dakota               65
+Tennessee                  80
+Texas                      76
+Utah                       45
+Vermont                    46
+Virginia                   67
+Washington                 54
+West Virginia              62
+Wisconsin                  59
+Wyoming                    43

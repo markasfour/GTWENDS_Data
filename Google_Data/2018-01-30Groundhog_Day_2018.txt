@@ -1,53 +1,51 @@
                       Groundhog Day 2018
 geoName                                 
-Alabama                               31
-Alaska                                42
-Arizona                               23
-Arkansas                             100
-California                            24
-Colorado                              39
-Connecticut                           19
-Delaware                              52
-District of Columbia                   8
-Florida                               13
-Georgia                               43
-Hawaii                                18
-Idaho                                 21
-Illinois                              37
-Indiana                               63
-Iowa                                  58
-Kansas                                40
-Kentucky                              38
-Louisiana                             27
-Maine                                 57
-Maryland                              34
-Massachusetts                         35
-Michigan                              51
-Minnesota                             27
-Mississippi                           58
-Missouri                              42
-Montana                               35
-Nebraska                              94
-Nevada                                27
-New Hampshire                         84
-New Jersey                            30
-New Mexico                            37
-New York                              28
-North Carolina                        35
-North Dakota                          65
-Ohio                                  41
-Oklahoma                              37
-Oregon                                10
-Pennsylvania                          74
-Rhode Island                          24
-South Carolina                        27
-South Dakota                          21
-Tennessee                             45
-Texas                                 28
-Utah                                  24
-Vermont                               45
-Virginia                              29
-Washington                            27
-West Virginia                         59
-Wisconsin                             50
-Wyoming                               65
+Alabama                               43
+Arizona                               18
+Arkansas                              61
+California                            17
+Colorado                              26
+Connecticut                           23
+Delaware                              27
+District of Columbia                  15
+Florida                               20
+Georgia                               32
+Idaho                                 48
+Illinois                              29
+Indiana                               40
+Iowa                                  41
+Kansas                                41
+Kentucky                              26
+Louisiana                             38
+Maine                                 43
+Maryland                              40
+Massachusetts                         25
+Michigan                              32
+Minnesota                             26
+Mississippi                           39
+Missouri                              43
+Montana                               81
+Nebraska                              77
+Nevada                                24
+New Hampshire                         81
+New Jersey                            24
+New Mexico                            43
+New York                              26
+North Carolina                        32
+North Dakota                         100
+Ohio                                  44
+Oklahoma                              23
+Oregon                                13
+Pennsylvania                          50
+Rhode Island                          37
+South Carolina                        21
+South Dakota                          50
+Tennessee                             52
+Texas                                 25
+Utah                                  18
+Vermont                               34
+Virginia                              30
+Washington                            11
+West Virginia                         63
+Wisconsin                             41
+Wyoming                               25

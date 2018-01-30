@@ -1,53 +1,53 @@
                       Blake Griffin
 geoName                            
-Alabama                          41
-Alaska                           33
-Arizona                          41
-Arkansas                         40
-California                       69
+Alabama                          42
+Alaska                           29
+Arizona                          40
+Arkansas                         44
+California                       71
 Colorado                         31
-Connecticut                      41
-Delaware                         41
+Connecticut                      43
+Delaware                         44
 District of Columbia             40
-Florida                          38
-Georgia                          43
-Hawaii                           46
-Idaho                            30
-Illinois                         45
-Indiana                          39
+Florida                          39
+Georgia                          44
+Hawaii                           50
+Idaho                            29
+Illinois                         47
+Indiana                          41
 Iowa                             33
 Kansas                           36
-Kentucky                         39
-Louisiana                        48
-Maine                            34
-Maryland                         41
-Massachusetts                    44
-Michigan                         37
-Minnesota                        33
-Mississippi                      40
+Kentucky                         40
+Louisiana                        49
+Maine                            30
+Maryland                         42
+Massachusetts                    45
+Michigan                         36
+Minnesota                        32
+Mississippi                      43
 Missouri                         37
-Montana                          28
-Nebraska                         35
-Nevada                           48
-New Hampshire                    31
-New Jersey                       44
-New Mexico                       31
-New York                         46
+Montana                          31
+Nebraska                         36
+Nevada                           49
+New Hampshire                    30
+New Jersey                       46
+New Mexico                       37
+New York                         47
 North Carolina                   39
-North Dakota                     33
-Ohio                             39
+North Dakota                     34
+Ohio                             40
 Oklahoma                        100
-Oregon                           30
+Oregon                           29
 Pennsylvania                     37
-Rhode Island                     38
-South Carolina                   38
+Rhode Island                     35
+South Carolina                   37
 South Dakota                     37
 Tennessee                        37
-Texas                            44
-Utah                             43
-Vermont                          26
-Virginia                         31
-Washington                       36
-West Virginia                    38
-Wisconsin                        29
-Wyoming                          29
+Texas                            45
+Utah                             42
+Vermont                          28
+Virginia                         33
+Washington                       35
+West Virginia                    37
+Wisconsin                        33
+Wyoming                          27

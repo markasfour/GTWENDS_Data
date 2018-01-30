@@ -2,32 +2,34 @@
 geoName                          
 Arizona                         2
 California                      2
-Colorado                        3
-Connecticut                    29
-District of Columbia           11
+Colorado                        5
+Connecticut                    25
+District of Columbia            6
 Florida                         2
 Georgia                         1
 Illinois                        2
-Indiana                         2
-Kansas                          3
+Indiana                         1
+Iowa                            3
 Kentucky                        4
-Maine                          47
-Maryland                        7
-Massachusetts                  91
+Maine                          37
+Maryland                        2
+Massachusetts                 100
 Michigan                        2
-Minnesota                       5
+Minnesota                       7
 Missouri                        1
 Montana                        10
-New Hampshire                 100
-New Jersey                      3
-New York                        8
+Nevada                          2
+New Hampshire                  86
+New Jersey                      2
+New Mexico                      5
+New York                        6
 North Carolina                  1
-Ohio                            1
-Oregon                          1
-Pennsylvania                    1
+Ohio                            2
+Oregon                          3
+Pennsylvania                    2
 Rhode Island                   72
 South Carolina                  4
+Tennessee                       2
 Texas                           1
-Virginia                        4
-Washington                      4
-Wisconsin                       3
+Virginia                        5
+Wisconsin                       4

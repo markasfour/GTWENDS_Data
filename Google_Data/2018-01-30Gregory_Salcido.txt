@@ -1,17 +1,34 @@
-                Gregory Salcido
-geoName                        
-California                   48
-Florida                      12
-Georgia                      11
-Idaho                       100
-Illinois                      9
-Indiana                      26
-Kansas                       87
-Massachusetts                14
-Missouri                     22
-Nevada                       44
-North Carolina               13
-Pennsylvania                 11
-South Carolina               33
-Virginia                     11
-Washington                   32
+                      Gregory Salcido
+geoName                              
+Alabama                            12
+Arizona                             6
+Arkansas                           22
+California                         31
+District of Columbia               12
+Florida                             8
+Georgia                            14
+Illinois                            6
+Indiana                            17
+Kansas                             14
+Kentucky                           12
+Louisiana                          12
+Maryland                           21
+Massachusetts                       9
+Minnesota                          14
+Mississippi                        45
+Missouri                            7
+Nebraska                           22
+Nevada                             28
+New Jersey                          4
+New Mexico                         29
+North Carolina                      8
+Oklahoma                           26
+Pennsylvania                        3
+South Carolina                     21
+Tennessee                          14
+Texas                              14
+Utah                               15
+Virginia                           15
+Washington                         20
+Wisconsin                           8
+Wyoming                           100

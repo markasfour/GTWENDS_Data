@@ -1,0 +1,53 @@
+                      Emirates
+geoName                       
+Alabama                     22
+Alaska                      54
+Arizona                     41
+Arkansas                    27
+California                  79
+Colorado                    36
+Connecticut                 77
+Delaware                    59
+District of Columbia        86
+Florida                     52
+Georgia                     34
+Hawaii                      38
+Idaho                       33
+Illinois                    53
+Indiana                     30
+Iowa                        26
+Kansas                      33
+Kentucky                    24
+Louisiana                   27
+Maine                       32
+Maryland                    77
+Massachusetts               85
+Michigan                    36
+Minnesota                   34
+Mississippi                 16
+Missouri                    27
+Montana                     24
+Nebraska                    23
+Nevada                      42
+New Hampshire               59
+New Jersey                  97
+New Mexico                  25
+New York                   100
+North Carolina              40
+North Dakota                22
+Ohio                        33
+Oklahoma                    31
+Oregon                      45
+Pennsylvania                45
+Rhode Island                58
+South Carolina              25
+South Dakota                16
+Tennessee                   24
+Texas                       77
+Utah                        30
+Vermont                     38
+Virginia                    68
+Washington                  95
+West Virginia               22
+Wisconsin                   28
+Wyoming                     23

@@ -1,0 +1,7 @@
+            StateOfTheUnion
+geoName                    
+California              100
+Florida                  95
+Illinois                 26
+New York                 45
+Texas                    54

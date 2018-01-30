@@ -1,32 +1,35 @@
                       Cardi B Grammy
 geoName                             
-Alabama                           80
-Arizona                           14
-Arkansas                          48
-California                        31
-Colorado                          44
-Connecticut                      100
-District of Columbia              78
-Florida                           26
-Georgia                           74
-Illinois                          47
-Indiana                           55
-Iowa                              71
-Maryland                          45
-Massachusetts                     49
-Minnesota                         30
-Mississippi                       97
-Missouri                          47
-Nevada                            30
-New Jersey                        18
-New Mexico                        62
-New York                          72
-North Carolina                    63
-Ohio                              18
-Oregon                            32
-Pennsylvania                      51
-South Carolina                    45
-Tennessee                         15
-Texas                             40
-Virginia                          16
-Wisconsin                         17
+Alabama                           33
+Arizona                           35
+California                        36
+Colorado                          28
+District of Columbia              64
+Florida                           56
+Georgia                           32
+Illinois                          34
+Iowa                              44
+Kansas                            38
+Kentucky                          16
+Louisiana                         16
+Maine                             47
+Maryland                          85
+Massachusetts                     12
+Michigan                          18
+Minnesota                          9
+Missouri                          39
+New Hampshire                     44
+New Jersey                        69
+New York                          51
+North Carolina                    55
+Ohio                              17
+Oregon                            20
+Pennsylvania                      45
+Rhode Island                     100
+South Carolina                    28
+Tennessee                         37
+Texas                             27
+Vermont                           92
+Virginia                          25
+Washington                         7
+Wisconsin                         31

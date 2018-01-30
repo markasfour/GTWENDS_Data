@@ -1,0 +1,53 @@
+                      Pasco
+geoName                    
+Alabama                   1
+Alaska                    3
+Arizona                   3
+Arkansas                  1
+California                2
+Colorado                  2
+Connecticut               1
+Delaware                  2
+District of Columbia      2
+Florida                  61
+Georgia                   3
+Hawaii                    1
+Idaho                    10
+Illinois                  1
+Indiana                   1
+Iowa                      1
+Kansas                    2
+Kentucky                  2
+Louisiana                 1
+Maine                     2
+Maryland                  2
+Massachusetts             1
+Michigan                  1
+Minnesota                 1
+Mississippi               1
+Missouri                  1
+Montana                   4
+Nebraska                  2
+Nevada                    2
+New Hampshire             1
+New Jersey                1
+New Mexico                1
+New York                  1
+North Carolina            3
+North Dakota              2
+Ohio                      1
+Oklahoma                  3
+Oregon                    9
+Pennsylvania              1
+Rhode Island              1
+South Carolina            2
+South Dakota              1
+Tennessee                 2
+Texas                     1
+Utah                      2
+Vermont                   1
+Virginia                  1
+Washington              100
+West Virginia             1
+Wisconsin                 1
+Wyoming                   2

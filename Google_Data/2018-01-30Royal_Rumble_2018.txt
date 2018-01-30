@@ -1,53 +1,53 @@
                       Royal Rumble 2018
 geoName                                
-Alabama                              32
-Alaska                               10
-Arizona                              23
-Arkansas                             48
-California                           23
-Colorado                             18
-Connecticut                          34
+Alabama                              53
+Alaska                                9
+Arizona                              27
+Arkansas                             43
+California                           29
+Colorado                             23
+Connecticut                          49
 Delaware                            100
-District of Columbia                 13
-Florida                              25
-Georgia                              27
-Hawaii                               10
-Idaho                                12
-Illinois                             38
-Indiana                              40
-Iowa                                 40
-Kansas                               21
-Kentucky                             43
-Louisiana                            36
-Maine                                21
+District of Columbia                 11
+Florida                              30
+Georgia                              32
+Hawaii                               16
+Idaho                                11
+Illinois                             46
+Indiana                              45
+Iowa                                 41
+Kansas                               26
+Kentucky                             53
+Louisiana                            43
+Maine                                65
 Maryland                             49
-Massachusetts                        27
-Michigan                             34
-Minnesota                            22
-Mississippi                          37
-Missouri                             35
-Montana                              16
-Nebraska                             34
-Nevada                               30
-New Hampshire                        54
-New Jersey                           74
-New Mexico                           30
-New York                             43
-North Carolina                       35
-North Dakota                         45
-Ohio                                 51
-Oklahoma                             21
-Oregon                               11
-Pennsylvania                         85
-Rhode Island                         70
-South Carolina                       34
-South Dakota                         35
-Tennessee                            31
-Texas                                27
-Utah                                 14
-Vermont                              31
-Virginia                             28
+Massachusetts                        42
+Michigan                             45
+Minnesota                            30
+Mississippi                          45
+Missouri                             34
+Montana                              27
+Nebraska                             43
+Nevada                               41
+New Hampshire                        41
+New Jersey                           92
+New Mexico                           35
+New York                             51
+North Carolina                       38
+North Dakota                         29
+Ohio                                 59
+Oklahoma                             41
+Oregon                               21
+Pennsylvania                        100
+Rhode Island                         51
+South Carolina                       37
+South Dakota                         44
+Tennessee                            40
+Texas                                34
+Utah                                 23
+Vermont                              70
+Virginia                             41
 Washington                           22
-West Virginia                        67
-Wisconsin                            38
-Wyoming                              15
+West Virginia                        75
+Wisconsin                            53
+Wyoming                              36

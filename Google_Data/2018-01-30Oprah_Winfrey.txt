@@ -1,53 +1,53 @@
                       Oprah Winfrey
 geoName                            
-Alabama                          63
-Alaska                           33
+Alabama                          62
+Alaska                           28
 Arizona                          39
-Arkansas                         56
-California                       42
-Colorado                         36
-Connecticut                      45
-Delaware                         62
-District of Columbia             55
-Florida                          52
+Arkansas                         52
+California                       41
+Colorado                         34
+Connecticut                      42
+Delaware                         57
+District of Columbia             52
+Florida                          50
 Georgia                          66
-Hawaii                           52
-Idaho                            34
-Illinois                         50
-Indiana                          47
-Iowa                             41
-Kansas                           37
+Hawaii                           47
+Idaho                            30
+Illinois                         49
+Indiana                          43
+Iowa                             39
+Kansas                           35
 Kentucky                         40
-Louisiana                        62
-Maine                            38
-Maryland                         63
-Massachusetts                    42
+Louisiana                        60
+Maine                            34
+Maryland                         62
+Massachusetts                    40
 Michigan                         47
-Minnesota                        40
+Minnesota                        39
 Mississippi                     100
-Missouri                         47
-Montana                          30
-Nebraska                         37
+Missouri                         46
+Montana                          33
+Nebraska                         35
 Nevada                           44
-New Hampshire                    37
-New Jersey                       57
-New Mexico                       37
-New York                         51
-North Carolina                   58
+New Hampshire                    34
+New Jersey                       54
+New Mexico                       38
+New York                         48
+North Carolina                   57
 North Dakota                     33
-Ohio                             44
-Oklahoma                         40
-Oregon                           28
+Ohio                             41
+Oklahoma                         39
+Oregon                           26
 Pennsylvania                     45
-Rhode Island                     36
-South Carolina                   63
-South Dakota                     38
+Rhode Island                     41
+South Carolina                   60
+South Dakota                     30
 Tennessee                        52
-Texas                            45
-Utah                             32
-Vermont                          31
-Virginia                         46
-Washington                       35
-West Virginia                    39
-Wisconsin                        41
+Texas                            42
+Utah                             31
+Vermont                          27
+Virginia                         45
+Washington                       34
+West Virginia                    40
+Wisconsin                        40
 Wyoming                          28

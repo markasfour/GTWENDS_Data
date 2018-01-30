@@ -1,53 +1,53 @@
                       Andrew McCabe
 geoName                            
-Alabama                          49
-Alaska                           52
-Arizona                          37
-Arkansas                         44
-California                       39
-Colorado                         37
-Connecticut                      62
-Delaware                         31
+Alabama                          92
+Alaska                           29
+Arizona                          48
+Arkansas                         35
+California                       40
+Colorado                         40
+Connecticut                      67
+Delaware                         72
 District of Columbia            100
-Florida                          41
-Georgia                          21
-Hawaii                           27
-Idaho                            25
-Illinois                         36
-Indiana                          38
-Iowa                             55
-Kansas                           33
-Kentucky                         23
-Louisiana                        23
-Maine                            28
-Maryland                         72
-Massachusetts                    46
-Michigan                         37
-Minnesota                        44
-Mississippi                      26
-Missouri                         33
-Montana                          21
-Nebraska                         13
+Florida                          47
+Georgia                          34
+Hawaii                           30
+Idaho                            21
+Illinois                         38
+Indiana                          47
+Iowa                             22
+Kansas                           16
+Kentucky                         28
+Louisiana                        21
+Maine                            47
+Maryland                         91
+Massachusetts                    50
+Michigan                         41
+Minnesota                        52
+Mississippi                      35
+Missouri                         23
+Montana                          24
+Nebraska                         30
 Nevada                           28
-New Hampshire                    38
-New Jersey                       52
-New Mexico                       57
-New York                         46
-North Carolina                   32
-North Dakota                     27
-Ohio                             36
-Oklahoma                         13
-Oregon                           21
-Pennsylvania                     42
-Rhode Island                     52
+New Hampshire                    22
+New Jersey                       58
+New Mexico                       39
+New York                         59
+North Carolina                   38
+North Dakota                     30
+Ohio                             43
+Oklahoma                         35
+Oregon                           22
+Pennsylvania                     49
+Rhode Island                     41
 South Carolina                   45
-South Dakota                     26
-Tennessee                        25
-Texas                            27
-Utah                             23
-Vermont                          81
-Virginia                         54
-Washington                       34
-West Virginia                    43
-Wisconsin                        35
-Wyoming                          39
+South Dakota                     30
+Tennessee                        41
+Texas                            28
+Utah                             20
+Vermont                          30
+Virginia                         76
+Washington                       41
+West Virginia                    64
+Wisconsin                        45
+Wyoming                          22

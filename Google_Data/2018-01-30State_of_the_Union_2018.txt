@@ -1,53 +1,53 @@
                       State of the Union 2018
 geoName                                      
-Alabama                                    25
-Alaska                                     25
-Arizona                                    31
-Arkansas                                   33
-California                                 23
-Colorado                                   31
-Connecticut                                20
-Delaware                                   10
+Alabama                                    21
+Alaska                                     32
+Arizona                                    39
+Arkansas                                   43
+California                                 31
+Colorado                                   48
+Connecticut                                34
+Delaware                                   65
 District of Columbia                      100
-Florida                                    19
-Georgia                                    22
-Hawaii                                     21
-Idaho                                      60
-Illinois                                   34
-Indiana                                    27
-Iowa                                       22
-Kansas                                     29
-Kentucky                                   26
-Louisiana                                  14
-Maine                                      20
-Maryland                                   65
-Massachusetts                              23
-Michigan                                   26
-Minnesota                                  22
-Mississippi                                13
-Missouri                                   22
-Montana                                    51
-Nebraska                                   13
-Nevada                                     19
-New Hampshire                              31
-New Jersey                                 15
-New Mexico                                 33
-New York                                   29
-North Carolina                             27
-North Dakota                               13
-Ohio                                       24
-Oklahoma                                   25
-Oregon                                     30
-Pennsylvania                               27
-Rhode Island                               35
-South Carolina                             24
-South Dakota                               38
-Tennessee                                  22
-Texas                                      22
+Florida                                    24
+Georgia                                    27
+Hawaii                                     27
+Idaho                                      55
+Illinois                                   42
+Indiana                                    41
+Iowa                                       28
+Kansas                                     27
+Kentucky                                   25
+Louisiana                                  43
+Maine                                      51
+Maryland                                   92
+Massachusetts                              33
+Michigan                                   50
+Minnesota                                  37
+Mississippi                                38
+Missouri                                   26
+Montana                                    65
+Nebraska                                   43
+Nevada                                     34
+New Hampshire                              63
+New Jersey                                 40
+New Mexico                                 50
+New York                                   47
+North Carolina                             35
+North Dakota                               49
+Ohio                                       46
+Oklahoma                                   22
+Oregon                                     40
+Pennsylvania                               41
+Rhode Island                               72
+South Carolina                             33
+South Dakota                               49
+Tennessee                                  24
+Texas                                      28
 Utah                                       39
-Vermont                                    52
-Virginia                                   39
-Washington                                 20
-West Virginia                              28
-Wisconsin                                  21
-Wyoming                                    38
+Vermont                                    84
+Virginia                                   49
+Washington                                 38
+West Virginia                              53
+Wisconsin                                  34
+Wyoming                                    24

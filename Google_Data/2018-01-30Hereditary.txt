@@ -1,0 +1,53 @@
+                      Hereditary
+geoName                         
+Alabama                       86
+Alaska                        67
+Arizona                       75
+Arkansas                      90
+California                    61
+Colorado                      65
+Connecticut                   80
+Delaware                      78
+District of Columbia          68
+Florida                       68
+Georgia                       74
+Hawaii                        67
+Idaho                         74
+Illinois                      69
+Indiana                       93
+Iowa                          87
+Kansas                        69
+Kentucky                      85
+Louisiana                     77
+Maine                         80
+Maryland                      74
+Massachusetts                 77
+Michigan                      81
+Minnesota                     79
+Mississippi                   89
+Missouri                      85
+Montana                       69
+Nebraska                      80
+Nevada                        63
+New Hampshire                 72
+New Jersey                    67
+New Mexico                    68
+New York                      71
+North Carolina                77
+North Dakota                  99
+Ohio                          81
+Oklahoma                      76
+Oregon                        52
+Pennsylvania                  82
+Rhode Island                  82
+South Carolina                80
+South Dakota                  90
+Tennessee                     76
+Texas                         67
+Utah                          73
+Vermont                       77
+Virginia                      65
+Washington                    67
+West Virginia                100
+Wisconsin                     85
+Wyoming                       77
