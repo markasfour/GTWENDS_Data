@@ -1,29 +1,33 @@
                       Alex Reimer
 geoName                          
-Arizona                         1
-California                      1
-Colorado                        1
-Connecticut                    21
-Delaware                        7
-District of Columbia            8
+Arizona                         2
+California                      2
+Colorado                        3
+Connecticut                    29
+District of Columbia           11
 Florida                         2
-Georgia                         0
+Georgia                         1
 Illinois                        2
-Iowa                            2
-Kentucky                        2
-Maine                          39
-Maryland                        3
-Massachusetts                  76
-Minnesota                       4
-Nevada                          2
-New Hampshire                  69
-New York                        5
+Indiana                         2
+Kansas                          3
+Kentucky                        4
+Maine                          47
+Maryland                        7
+Massachusetts                  91
+Michigan                        2
+Minnesota                       5
+Missouri                        1
+Montana                        10
+New Hampshire                 100
+New Jersey                      3
+New York                        8
 North Carolina                  1
 Ohio                            1
-Pennsylvania                    3
-Rhode Island                  100
-South Carolina                  1
-Texas                           0
-Vermont                        10
-Virginia                        3
+Oregon                          1
+Pennsylvania                    1
+Rhode Island                   72
+South Carolina                  4
+Texas                           1
+Virginia                        4
+Washington                      4
 Wisconsin                       3

@@ -1,0 +1,53 @@
+                      Strava
+geoName                     
+Alabama                   27
+Alaska                    36
+Arizona                   49
+Arkansas                  31
+California                70
+Colorado                  94
+Connecticut               45
+Delaware                  32
+District of Columbia      30
+Florida                   19
+Georgia                   20
+Hawaii                    35
+Idaho                     67
+Illinois                  21
+Indiana                   28
+Iowa                      24
+Kansas                    21
+Kentucky                  22
+Louisiana                 13
+Maine                     51
+Maryland                  34
+Massachusetts             46
+Michigan                  27
+Minnesota                 30
+Mississippi               15
+Missouri                  25
+Montana                   48
+Nebraska                  25
+Nevada                    39
+New Hampshire             79
+New Jersey                24
+New Mexico                46
+New York                  28
+North Carolina            31
+North Dakota              14
+Ohio                      22
+Oklahoma                  19
+Oregon                    51
+Pennsylvania              32
+Rhode Island              41
+South Carolina            26
+South Dakota              24
+Tennessee                 28
+Texas                     22
+Utah                      93
+Vermont                  100
+Virginia                  27
+Washington                56
+West Virginia             22
+Wisconsin                 31
+Wyoming                   46

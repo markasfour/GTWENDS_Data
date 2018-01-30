@@ -1,53 +1,53 @@
                       Anna Kendrick
 geoName                            
-Alabama                          57
-Alaska                           73
-Arizona                          65
-Arkansas                         65
-California                       62
-Colorado                         68
-Connecticut                      63
-Delaware                         62
-District of Columbia             53
-Florida                          53
-Georgia                          51
-Hawaii                           71
-Idaho                            74
-Illinois                         68
-Indiana                          69
-Iowa                             73
-Kansas                           65
-Kentucky                         65
-Louisiana                        62
+Alabama                          55
+Alaska                           71
+Arizona                          62
+Arkansas                         61
+California                       57
+Colorado                         66
+Connecticut                      59
+Delaware                         58
+District of Columbia             50
+Florida                          51
+Georgia                          49
+Hawaii                           67
+Idaho                            64
+Illinois                         60
+Indiana                          67
+Iowa                             70
+Kansas                           64
+Kentucky                         59
+Louisiana                        58
 Maine                           100
 Maryland                         61
-Massachusetts                    67
-Michigan                         65
-Minnesota                        67
-Mississippi                      54
-Missouri                         67
-Montana                          66
-Nebraska                         66
-Nevada                           69
+Massachusetts                    64
+Michigan                         61
+Minnesota                        63
+Mississippi                      55
+Missouri                         68
+Montana                          64
+Nebraska                         67
+Nevada                           62
 New Hampshire                    69
-New Jersey                       62
+New Jersey                       59
 New Mexico                       63
-New York                         57
-North Carolina                   55
-North Dakota                     80
+New York                         55
+North Carolina                   53
+North Dakota                     76
 Ohio                             66
-Oklahoma                         70
-Oregon                           49
-Pennsylvania                     67
-Rhode Island                     62
-South Carolina                   53
-South Dakota                     74
-Tennessee                        60
-Texas                            60
-Utah                             76
-Vermont                          64
-Virginia                         54
-Washington                       69
-West Virginia                    67
-Wisconsin                        68
-Wyoming                          75
+Oklahoma                         63
+Oregon                           48
+Pennsylvania                     62
+Rhode Island                     56
+South Carolina                   52
+South Dakota                     66
+Tennessee                        56
+Texas                            55
+Utah                             70
+Vermont                          61
+Virginia                         51
+Washington                       67
+West Virginia                    66
+Wisconsin                        66
+Wyoming                          69

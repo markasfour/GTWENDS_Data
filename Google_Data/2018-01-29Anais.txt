@@ -1,0 +1,53 @@
+                      Anais
+geoName                    
+Alabama                  48
+Alaska                   44
+Arizona                  49
+Arkansas                 40
+California               62
+Colorado                 46
+Connecticut              54
+Delaware                 52
+District of Columbia     55
+Florida                  49
+Georgia                  45
+Hawaii                   59
+Idaho                    41
+Illinois                 49
+Indiana                  39
+Iowa                     45
+Kansas                   42
+Kentucky                 40
+Louisiana                55
+Maine                    50
+Maryland                 50
+Massachusetts            62
+Michigan                 41
+Minnesota                44
+Mississippi              33
+Missouri                 37
+Montana                  45
+Nebraska                 42
+Nevada                   46
+New Hampshire            49
+New Jersey               61
+New Mexico               45
+New York                 74
+North Carolina           46
+North Dakota             57
+Ohio                     40
+Oklahoma                 47
+Oregon                   49
+Pennsylvania             47
+Rhode Island             58
+South Carolina           41
+South Dakota             48
+Tennessee                41
+Texas                    50
+Utah                     50
+Vermont                 100
+Virginia                 47
+Washington               50
+West Virginia            31
+Wisconsin                39
+Wyoming                  43

@@ -1,0 +1,39 @@
+                      Brandon Moss
+geoName                           
+Alabama                         10
+Arizona                         12
+Arkansas                        20
+California                      18
+Colorado                        10
+Connecticut                     15
+District of Columbia            15
+Florida                          8
+Georgia                         18
+Hawaii                           5
+Illinois                        25
+Indiana                         11
+Iowa                            23
+Kansas                          65
+Kentucky                        15
+Louisiana                       10
+Maryland                        12
+Massachusetts                   16
+Michigan                        10
+Minnesota                        9
+Mississippi                     34
+Missouri                       100
+Nebraska                        23
+Nevada                          15
+New Jersey                      12
+New York                        12
+North Carolina                  11
+Ohio                            25
+Oklahoma                        19
+Oregon                           8
+Pennsylvania                    18
+South Carolina                  10
+Tennessee                        9
+Texas                            7
+Virginia                        10
+Washington                       9
+Wisconsin                        8

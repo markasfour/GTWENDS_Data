@@ -1,48 +1,48 @@
                       Zuleyka Rivera
 geoName                             
-Alabama                           15
-Arizona                           33
-Arkansas                          12
+Alabama                           23
+Arizona                           29
+Arkansas                          14
 California                        34
-Colorado                          21
+Colorado                          19
 Connecticut                       31
 Delaware                          19
-District of Columbia              27
+District of Columbia              30
 Florida                          100
-Georgia                           55
-Hawaii                            18
-Idaho                             17
-Illinois                          26
-Indiana                           16
-Iowa                              12
-Kansas                            26
-Kentucky                          22
-Louisiana                         22
+Georgia                           61
+Hawaii                            19
+Idaho                             11
+Illinois                          24
+Indiana                           10
+Iowa                              13
+Kansas                            17
+Kentucky                          12
+Louisiana                         14
 Maine                              8
 Maryland                          22
 Massachusetts                     28
-Michigan                          10
-Minnesota                         16
-Mississippi                       23
-Missouri                          10
-Montana                            6
-Nebraska                          17
-Nevada                            36
-New Hampshire                     11
-New Jersey                        40
-New Mexico                        26
+Michigan                          13
+Minnesota                         17
+Mississippi                       25
+Missouri                           7
+Montana                           10
+Nebraska                          18
+Nevada                            33
+New Hampshire                      8
+New Jersey                        39
+New Mexico                        25
 New York                          38
-North Carolina                    21
-Ohio                              12
-Oklahoma                          39
-Oregon                            14
-Pennsylvania                      20
-Rhode Island                      18
-South Carolina                    12
-Tennessee                         19
-Texas                             40
-Utah                              22
-Virginia                          16
-Washington                        15
-West Virginia                     11
-Wisconsin                         13
+North Carolina                    24
+Ohio                               9
+Oklahoma                          35
+Oregon                            13
+Pennsylvania                      18
+Rhode Island                      20
+South Carolina                    13
+Tennessee                         17
+Texas                             45
+Utah                              17
+Virginia                          20
+Washington                        20
+West Virginia                      4
+Wisconsin                          9

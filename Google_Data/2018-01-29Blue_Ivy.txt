@@ -1,53 +1,53 @@
                       Blue Ivy
 geoName                       
-Alabama                     72
-Alaska                      28
-Arizona                     36
-Arkansas                    46
-California                  47
-Colorado                    30
-Connecticut                 50
-Delaware                    69
-District of Columbia        96
-Florida                     62
-Georgia                    100
-Hawaii                      38
-Idaho                       15
-Illinois                    61
+Alabama                     71
+Alaska                      30
+Arizona                     37
+Arkansas                    43
+California                  49
+Colorado                    31
+Connecticut                 49
+Delaware                    76
+District of Columbia       100
+Florida                     64
+Georgia                     98
+Hawaii                      43
+Idaho                       18
+Illinois                    62
 Indiana                     46
-Iowa                        26
-Kansas                      44
-Kentucky                    46
-Louisiana                   89
-Maine                       24
-Maryland                    96
-Massachusetts               56
-Michigan                    60
-Minnesota                   37
-Mississippi                 92
-Missouri                    51
-Montana                     16
-Nebraska                    28
-Nevada                      48
-New Hampshire               25
-New Jersey                  71
+Iowa                        30
+Kansas                      41
+Kentucky                    47
+Louisiana                   92
+Maine                       21
+Maryland                    97
+Massachusetts               58
+Michigan                    61
+Minnesota                   39
+Mississippi                 94
+Missouri                    53
+Montana                     14
+Nebraska                    26
+Nevada                      45
+New Hampshire               26
+New Jersey                  72
 New Mexico                  26
-New York                    82
-North Carolina              68
-North Dakota                19
-Ohio                        47
-Oklahoma                    44
-Oregon                      22
+New York                    84
+North Carolina              70
+North Dakota                23
+Ohio                        46
+Oklahoma                    43
+Oregon                      21
 Pennsylvania                61
-Rhode Island                47
-South Carolina              68
-South Dakota                21
-Tennessee                   58
-Texas                       60
-Utah                        20
-Vermont                     25
-Virginia                    68
-Washington                  32
+Rhode Island                51
+South Carolina              70
+South Dakota                22
+Tennessee                   59
+Texas                       62
+Utah                        22
+Vermont                     23
+Virginia                    67
+Washington                  34
 West Virginia               31
 Wisconsin                   32
-Wyoming                     15
+Wyoming                     13

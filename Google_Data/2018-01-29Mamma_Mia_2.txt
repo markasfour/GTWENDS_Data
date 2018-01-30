@@ -1,53 +1,53 @@
                       Mamma Mia 2
 geoName                          
-Alabama                        41
-Alaska                         61
-Arizona                        46
-Arkansas                       50
-California                     58
-Colorado                       68
-Connecticut                    68
-Delaware                       80
-District of Columbia           16
-Florida                        58
+Alabama                        37
+Alaska                         66
+Arizona                        50
+Arkansas                       53
+California                     56
+Colorado                       50
+Connecticut                    58
+Delaware                       97
+District of Columbia           14
+Florida                        60
 Georgia                        40
 Hawaii                         82
-Idaho                          54
-Illinois                       46
-Indiana                        50
-Iowa                           55
-Kansas                         49
-Kentucky                       32
-Louisiana                      49
-Maine                          52
-Maryland                       57
-Massachusetts                  61
-Michigan                       43
-Minnesota                      65
-Mississippi                    25
-Missouri                       58
-Montana                        60
-Nebraska                       46
-Nevada                         36
-New Hampshire                  60
-New Jersey                     69
-New Mexico                     32
-New York                       57
-North Carolina                 43
-North Dakota                   76
-Ohio                           54
-Oklahoma                       44
-Oregon                         44
-Pennsylvania                   67
-Rhode Island                   90
-South Carolina                 53
-South Dakota                   38
-Tennessee                      31
-Texas                          43
+Idaho                          89
+Illinois                       51
+Indiana                        56
+Iowa                           46
+Kansas                         53
+Kentucky                       51
+Louisiana                      47
+Maine                          70
+Maryland                       55
+Massachusetts                  57
+Michigan                       51
+Minnesota                      64
+Mississippi                    31
+Missouri                       62
+Montana                        87
+Nebraska                       49
+Nevada                         48
+New Hampshire                  26
+New Jersey                     63
+New Mexico                     46
+New York                       64
+North Carolina                 46
+North Dakota                   54
+Ohio                           64
+Oklahoma                       39
+Oregon                         54
+Pennsylvania                   68
+Rhode Island                   68
+South Carolina                 58
+South Dakota                   53
+Tennessee                      50
+Texas                          47
 Utah                          100
-Vermont                        52
-Virginia                       43
-Washington                     69
-West Virginia                  54
-Wisconsin                      63
-Wyoming                        56
+Vermont                        55
+Virginia                       37
+Washington                     75
+West Virginia                  51
+Wisconsin                      73
+Wyoming                       100

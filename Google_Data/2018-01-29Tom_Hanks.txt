@@ -1,53 +1,53 @@
                       Tom Hanks
 geoName                        
 Alabama                      80
-Alaska                       84
+Alaska                       94
 Arizona                      90
-Arkansas                     80
-California                   87
-Colorado                     88
-Connecticut                  89
-Delaware                     81
+Arkansas                     83
+California                   89
+Colorado                     89
+Connecticut                  91
+Delaware                     92
 District of Columbia         88
-Florida                      83
-Georgia                      76
-Hawaii                       74
-Idaho                        93
-Illinois                     90
-Indiana                      95
-Iowa                         85
-Kansas                       79
-Kentucky                     87
-Louisiana                    72
+Florida                      82
+Georgia                      80
+Hawaii                       80
+Idaho                        91
+Illinois                     91
+Indiana                      96
+Iowa                         88
+Kansas                       86
+Kentucky                     91
+Louisiana                    79
 Maine                        84
-Maryland                     79
-Massachusetts                92
-Michigan                     91
-Minnesota                    91
-Mississippi                  73
-Missouri                     93
-Montana                      87
-Nebraska                     94
-Nevada                       84
-New Hampshire                88
-New Jersey                   91
-New Mexico                   80
-New York                     88
-North Carolina               80
-North Dakota                 83
-Ohio                         98
-Oklahoma                     94
-Oregon                       70
+Maryland                     80
+Massachusetts                89
+Michigan                     93
+Minnesota                    89
+Mississippi                  70
+Missouri                     97
+Montana                      91
+Nebraska                     93
+Nevada                       89
+New Hampshire                87
+New Jersey                   92
+New Mexico                   78
+New York                     89
+North Carolina               81
+North Dakota                 81
+Ohio                         99
+Oklahoma                     93
+Oregon                       72
 Pennsylvania                 93
-Rhode Island                 89
-South Carolina               75
-South Dakota                 66
-Tennessee                    84
-Texas                        77
+Rhode Island                 88
+South Carolina               74
+South Dakota                 72
+Tennessee                    88
+Texas                        80
 Utah                        100
-Vermont                      91
-Virginia                     75
+Vermont                      94
+Virginia                     72
 Washington                   92
-West Virginia                80
-Wisconsin                    85
-Wyoming                      85
+West Virginia                87
+Wisconsin                    84
+Wyoming                      92

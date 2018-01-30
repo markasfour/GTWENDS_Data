@@ -1,53 +1,53 @@
                       Alessia Cara
 geoName                           
-Alabama                         63
-Alaska                          44
-Arizona                         65
-Arkansas                        60
-California                      74
-Colorado                        51
-Connecticut                     82
-Delaware                        76
+Alabama                         57
+Alaska                          47
+Arizona                         63
+Arkansas                        57
+California                      75
+Colorado                        53
+Connecticut                     77
+Delaware                        78
 District of Columbia           100
-Florida                         66
-Georgia                         66
-Hawaii                          70
-Idaho                           53
-Illinois                        72
-Indiana                         64
-Iowa                            53
-Kansas                          42
-Kentucky                        47
-Louisiana                       57
-Maine                           49
-Maryland                        81
+Florida                         65
+Georgia                         67
+Hawaii                          77
+Idaho                           48
+Illinois                        71
+Indiana                         58
+Iowa                            46
+Kansas                          45
+Kentucky                        46
+Louisiana                       54
+Maine                           50
+Maryland                        71
 Massachusetts                   70
-Michigan                        68
-Minnesota                       50
-Mississippi                     60
-Missouri                        55
-Montana                         45
-Nebraska                        54
-Nevada                          70
-New Hampshire                   56
-New Jersey                      86
-New Mexico                      55
-New York                        81
-North Carolina                  60
-North Dakota                    36
-Ohio                            56
-Oklahoma                        49
-Oregon                          38
-Pennsylvania                    66
-Rhode Island                    62
-South Carolina                  59
-South Dakota                    47
-Tennessee                       54
+Michigan                        69
+Minnesota                       47
+Mississippi                     52
+Missouri                        56
+Montana                         40
+Nebraska                        57
+Nevada                          66
+New Hampshire                   54
+New Jersey                      88
+New Mexico                      62
+New York                        77
+North Carolina                  62
+North Dakota                    41
+Ohio                            59
+Oklahoma                        45
+Oregon                          32
+Pennsylvania                    62
+Rhode Island                    77
+South Carolina                  55
+South Dakota                    49
+Tennessee                       55
 Texas                           70
-Utah                            54
-Vermont                         55
-Virginia                        54
+Utah                            58
+Vermont                         47
+Virginia                        49
 Washington                      54
-West Virginia                   38
-Wisconsin                       53
-Wyoming                         45
+West Virginia                   45
+Wisconsin                       54
+Wyoming                         40

@@ -1,0 +1,53 @@
+                      Lucifer
+geoName                      
+Alabama                    91
+Alaska                     98
+Arizona                    98
+Arkansas                   89
+California                 84
+Colorado                   73
+Connecticut                78
+Delaware                   81
+District of Columbia       60
+Florida                    86
+Georgia                    81
+Hawaii                     89
+Idaho                      79
+Illinois                   77
+Indiana                    96
+Iowa                       75
+Kansas                     79
+Kentucky                   89
+Louisiana                  87
+Maine                      86
+Maryland                   89
+Massachusetts              72
+Michigan                   89
+Minnesota                  75
+Mississippi                84
+Missouri                   82
+Montana                    81
+Nebraska                   67
+Nevada                     96
+New Hampshire              73
+New Jersey                 82
+New Mexico                 88
+New York                   78
+North Carolina             84
+North Dakota               78
+Ohio                       86
+Oklahoma                   87
+Oregon                     75
+Pennsylvania               82
+Rhode Island               84
+South Carolina             82
+South Dakota               74
+Tennessee                  83
+Texas                      87
+Utah                       80
+Vermont                    63
+Virginia                   72
+Washington                 90
+West Virginia             100
+Wisconsin                  79
+Wyoming                    75

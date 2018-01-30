@@ -1,53 +1,53 @@
                       Alicia Keys
 geoName                          
 Alabama                        78
-Alaska                         59
-Arizona                        60
-Arkansas                       66
-California                     72
-Colorado                       54
-Connecticut                    76
-Delaware                       87
-District of Columbia           89
-Florida                        79
-Georgia                        95
-Hawaii                         72
-Idaho                          44
+Alaska                         57
+Arizona                        61
+Arkansas                       68
+California                     74
+Colorado                       57
+Connecticut                    79
+Delaware                       92
+District of Columbia           95
+Florida                        80
+Georgia                        97
+Hawaii                         69
+Idaho                          47
 Illinois                       74
-Indiana                        62
-Iowa                           47
-Kansas                         57
-Kentucky                       61
-Louisiana                      95
-Maine                          47
-Maryland                       92
-Massachusetts                  72
-Michigan                       68
-Minnesota                      54
-Mississippi                    95
-Missouri                       62
-Montana                        44
-Nebraska                       51
-Nevada                         69
-New Hampshire                  46
-New Jersey                     86
-New Mexico                     56
+Indiana                        64
+Iowa                           49
+Kansas                         59
+Kentucky                       60
+Louisiana                      97
+Maine                          44
+Maryland                       97
+Massachusetts                  70
+Michigan                       72
+Minnesota                      55
+Mississippi                    98
+Missouri                       64
+Montana                        42
+Nebraska                       52
+Nevada                         73
+New Hampshire                  49
+New Jersey                     91
+New Mexico                     63
 New York                      100
 North Carolina                 77
-North Dakota                   41
-Ohio                           59
-Oklahoma                       58
-Oregon                         51
-Pennsylvania                   67
-Rhode Island                   77
+North Dakota                   40
+Ohio                           61
+Oklahoma                       62
+Oregon                         50
+Pennsylvania                   71
+Rhode Island                   83
 South Carolina                 80
-South Dakota                   42
-Tennessee                      71
-Texas                          74
-Utah                           48
-Vermont                        47
-Virginia                       73
-Washington                     56
-West Virginia                  50
-Wisconsin                      50
-Wyoming                        51
+South Dakota                   48
+Tennessee                      75
+Texas                          75
+Utah                           49
+Vermont                        48
+Virginia                       75
+Washington                     60
+West Virginia                  53
+Wisconsin                      51
+Wyoming                        34

@@ -1,0 +1,53 @@
+                      Matt Barnes
+geoName                          
+Alabama                        43
+Alaska                         26
+Arizona                        40
+Arkansas                       32
+California                    100
+Colorado                       25
+Connecticut                    59
+Delaware                       29
+District of Columbia           60
+Florida                        38
+Georgia                        51
+Hawaii                         52
+Idaho                          22
+Illinois                       42
+Indiana                        33
+Iowa                           30
+Kansas                         22
+Kentucky                       28
+Louisiana                      41
+Maine                          32
+Maryland                       46
+Massachusetts                  45
+Michigan                       36
+Minnesota                      29
+Mississippi                    47
+Missouri                       33
+Montana                        22
+Nebraska                       31
+Nevada                         56
+New Hampshire                  24
+New Jersey                     42
+New Mexico                     27
+New York                       51
+North Carolina                 41
+North Dakota                   15
+Ohio                           37
+Oklahoma                       40
+Oregon                         29
+Pennsylvania                   37
+Rhode Island                   49
+South Carolina                 36
+South Dakota                   22
+Tennessee                      48
+Texas                          43
+Utah                           30
+Vermont                        28
+Virginia                       35
+Washington                     32
+West Virginia                  23
+Wisconsin                      28
+Wyoming                        20
