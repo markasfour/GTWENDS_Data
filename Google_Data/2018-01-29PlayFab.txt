@@ -1,0 +1,7 @@
+            PlayFab
+geoName            
+California       25
+Nevada           20
+New York          9
+Texas             7
+Washington      100

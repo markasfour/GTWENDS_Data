@@ -1,0 +1,53 @@
+                      Golf Channel
+geoName                           
+Alabama                         65
+Alaska                          19
+Arizona                         62
+Arkansas                        46
+California                      41
+Colorado                        52
+Connecticut                     62
+Delaware                        55
+District of Columbia            40
+Florida                         67
+Georgia                         59
+Hawaii                         100
+Idaho                           48
+Illinois                        44
+Indiana                         47
+Iowa                            60
+Kansas                          40
+Kentucky                        50
+Louisiana                       42
+Maine                           55
+Maryland                        44
+Massachusetts                   49
+Michigan                        51
+Minnesota                       58
+Mississippi                     39
+Missouri                        44
+Montana                         54
+Nebraska                        61
+Nevada                          50
+New Hampshire                   49
+New Jersey                      42
+New Mexico                      49
+New York                        43
+North Carolina                  72
+North Dakota                    41
+Ohio                            59
+Oklahoma                        50
+Oregon                          37
+Pennsylvania                    53
+Rhode Island                    57
+South Carolina                  90
+South Dakota                    57
+Tennessee                       59
+Texas                           42
+Utah                            47
+Vermont                         49
+Virginia                        41
+Washington                      46
+West Virginia                   56
+Wisconsin                       55
+Wyoming                         43

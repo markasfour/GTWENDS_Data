@@ -1,0 +1,25 @@
+                Unsane
+geoName               
+Arizona             42
+California          46
+Colorado            31
+Florida             24
+Georgia             40
+Illinois            51
+Louisiana           16
+Maryland            42
+Massachusetts       52
+Michigan            25
+Minnesota          100
+Missouri            38
+New Jersey          54
+New York            75
+North Carolina      51
+Ohio                38
+Oregon              63
+Pennsylvania        69
+Tennessee           32
+Texas               30
+Virginia            24
+Washington          78
+Wisconsin           67

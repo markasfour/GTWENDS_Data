@@ -1,0 +1,53 @@
+                      lunar eclipse
+geoName                            
+Alabama                          57
+Alaska                           62
+Arizona                          72
+Arkansas                         68
+California                       68
+Colorado                         85
+Connecticut                      65
+Delaware                         56
+District of Columbia             52
+Florida                          65
+Georgia                          60
+Hawaii                           87
+Idaho                            83
+Illinois                         67
+Indiana                          70
+Iowa                             76
+Kansas                           67
+Kentucky                         67
+Louisiana                        51
+Maine                            89
+Maryland                         52
+Massachusetts                    66
+Michigan                         63
+Minnesota                        68
+Mississippi                      55
+Missouri                         74
+Montana                          89
+Nebraska                         80
+Nevada                           71
+New Hampshire                    69
+New Jersey                       58
+New Mexico                       82
+New York                         55
+North Carolina                   63
+North Dakota                     69
+Ohio                             59
+Oklahoma                         65
+Oregon                           73
+Pennsylvania                     54
+Rhode Island                     63
+South Carolina                   79
+South Dakota                     71
+Tennessee                        67
+Texas                            60
+Utah                             81
+Vermont                          84
+Virginia                         51
+Washington                       77
+West Virginia                    64
+Wisconsin                        72
+Wyoming                         100

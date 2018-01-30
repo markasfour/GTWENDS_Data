@@ -1,53 +1,53 @@
                       Carter Page
 geoName                          
-Alabama                        40
+Alabama                        28
 Alaska                         38
-Arizona                        34
-Arkansas                       26
+Arizona                        27
+Arkansas                       21
 California                     42
-Colorado                       39
-Connecticut                    54
-Delaware                       31
+Colorado                       41
+Connecticut                    55
+Delaware                       52
 District of Columbia          100
 Florida                        36
 Georgia                        40
-Hawaii                         32
-Idaho                          23
-Illinois                       44
-Indiana                        32
-Iowa                           30
-Kansas                         30
-Kentucky                       52
-Louisiana                      25
-Maine                          54
-Maryland                       57
+Hawaii                         27
+Idaho                          31
+Illinois                       41
+Indiana                        34
+Iowa                           31
+Kansas                         27
+Kentucky                       46
+Louisiana                      31
+Maine                          62
+Maryland                       56
 Massachusetts                  56
-Michigan                       35
-Minnesota                      34
-Mississippi                    42
-Missouri                       41
-Montana                        17
-Nebraska                       19
-Nevada                         29
-New Hampshire                  58
-New Jersey                     41
-New Mexico                     41
-New York                       55
-North Carolina                 42
-North Dakota                   18
-Ohio                           26
-Oklahoma                       24
-Oregon                         41
-Pennsylvania                   43
-Rhode Island                   56
-South Carolina                 37
-South Dakota                   22
-Tennessee                      44
-Texas                          30
-Utah                           40
-Vermont                        58
+Michigan                       32
+Minnesota                      36
+Mississippi                    37
+Missouri                       35
+Montana                        24
+Nebraska                       31
+Nevada                         34
+New Hampshire                  47
+New Jersey                     42
+New Mexico                     46
+New York                       54
+North Carolina                 36
+North Dakota                   26
+Ohio                           28
+Oklahoma                       30
+Oregon                         43
+Pennsylvania                   40
+Rhode Island                   55
+South Carolina                 29
+South Dakota                   30
+Tennessee                      41
+Texas                          27
+Utah                           31
+Vermont                        66
 Virginia                       40
-Washington                     44
-West Virginia                  19
-Wisconsin                      32
-Wyoming                         6
+Washington                     51
+West Virginia                  28
+Wisconsin                      34
+Wyoming                        19

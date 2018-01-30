@@ -1,0 +1,53 @@
+                      Sza
+geoName                  
+Alabama                66
+Alaska                 19
+Arizona                34
+Arkansas               44
+California             53
+Colorado               24
+Connecticut            46
+Delaware               83
+District of Columbia   73
+Florida                45
+Georgia                84
+Hawaii                 39
+Idaho                  13
+Illinois               47
+Indiana                43
+Iowa                   18
+Kansas                 26
+Kentucky               33
+Louisiana              79
+Maine                  17
+Maryland              100
+Massachusetts          36
+Michigan               47
+Minnesota              25
+Mississippi            82
+Missouri               46
+Montana                 7
+Nebraska               27
+Nevada                 50
+New Hampshire          15
+New Jersey             55
+New Mexico             28
+New York               58
+North Carolina         65
+North Dakota           16
+Ohio                   44
+Oklahoma               27
+Oregon                 24
+Pennsylvania           45
+Rhode Island           43
+South Carolina         63
+South Dakota           13
+Tennessee              45
+Texas                  53
+Utah                   14
+Vermont                20
+Virginia               50
+Washington             31
+West Virginia          19
+Wisconsin              25
+Wyoming                 6

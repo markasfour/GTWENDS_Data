@@ -1,0 +1,51 @@
+                      Wakanda
+geoName                      
+Alabama                    14
+Alaska                     17
+Arizona                    15
+Arkansas                   12
+California                 20
+Colorado                   11
+Connecticut                12
+Delaware                   17
+District of Columbia       17
+Florida                    18
+Georgia                    18
+Hawaii                     13
+Idaho                      17
+Illinois                   23
+Indiana                    13
+Iowa                       22
+Kansas                     17
+Kentucky                   15
+Louisiana                  17
+Maine                      12
+Maryland                   26
+Massachusetts              21
+Michigan                   18
+Minnesota                  25
+Mississippi                12
+Missouri                   14
+Montana                    10
+Nebraska                   22
+Nevada                     18
+New Hampshire              14
+New Jersey                 17
+New Mexico                  6
+New York                   22
+North Carolina             18
+North Dakota               21
+Ohio                       14
+Oklahoma                   10
+Oregon                     12
+Pennsylvania               14
+Rhode Island               31
+South Carolina             17
+Tennessee                  15
+Texas                      17
+Utah                       18
+Vermont                     3
+Virginia                   17
+Washington                 17
+West Virginia              15
+Wisconsin                 100
