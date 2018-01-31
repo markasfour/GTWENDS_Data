@@ -1,53 +1,53 @@
                       SOTU
 geoName                   
-Alabama                 18
-Alaska                  21
-Arizona                 15
-Arkansas                14
+Alabama                 19
+Alaska                  17
+Arizona                 11
+Arkansas                17
 California              21
-Colorado                18
-Connecticut             22
-Delaware                14
+Colorado                17
+Connecticut             23
+Delaware                22
 District of Columbia   100
-Florida                 18
-Georgia                 19
-Hawaii                  12
+Florida                 17
+Georgia                 15
+Hawaii                  13
 Idaho                   27
 Illinois                20
-Indiana                 16
-Iowa                    22
-Kansas                  24
-Kentucky                17
-Louisiana               19
-Maine                   17
-Maryland                36
-Massachusetts           22
-Michigan                16
-Minnesota               21
-Mississippi             13
-Missouri                18
-Montana                 11
-Nebraska                30
-Nevada                  23
-New Hampshire           24
-New Jersey              17
-New Mexico              19
+Indiana                 17
+Iowa                    16
+Kansas                  20
+Kentucky                16
+Louisiana               13
+Maine                   15
+Maryland                35
+Massachusetts           23
+Michigan                18
+Minnesota               25
+Mississippi             15
+Missouri                17
+Montana                 20
+Nebraska                21
+Nevada                  18
+New Hampshire           26
+New Jersey              18
+New Mexico              27
 New York                24
-North Carolina          18
-North Dakota            16
-Ohio                    18
-Oklahoma                18
-Oregon                  20
-Pennsylvania            18
-Rhode Island            10
-South Carolina          20
-South Dakota            27
+North Carolina          19
+North Dakota            19
+Ohio                    20
+Oklahoma                14
+Oregon                  21
+Pennsylvania            20
+Rhode Island            20
+South Carolina          17
+South Dakota            14
 Tennessee               15
 Texas                   14
-Utah                    14
-Vermont                 34
-Virginia                31
+Utah                    20
+Vermont                 42
+Virginia                28
 Washington              23
-West Virginia           19
-Wisconsin               18
-Wyoming                 15
+West Virginia           15
+Wisconsin               20
+Wyoming                 23

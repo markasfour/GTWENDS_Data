@@ -1,0 +1,53 @@
+                      Tucker
+geoName                     
+Alabama                   39
+Alaska                    19
+Arizona                   21
+Arkansas                  39
+California                19
+Colorado                  19
+Connecticut               23
+Delaware                  24
+District of Columbia      30
+Florida                   24
+Georgia                  100
+Hawaii                    22
+Idaho                     21
+Illinois                  23
+Indiana                   59
+Iowa                      23
+Kansas                    21
+Kentucky                  38
+Louisiana                 27
+Maine                     26
+Maryland                  31
+Massachusetts             22
+Michigan                  21
+Minnesota                 19
+Mississippi               34
+Missouri                  27
+Montana                   24
+Nebraska                  20
+Nevada                    18
+New Hampshire             27
+New Jersey                20
+New Mexico                19
+New York                  22
+North Carolina            32
+North Dakota              21
+Ohio                      23
+Oklahoma                  26
+Oregon                    17
+Pennsylvania              23
+Rhode Island              25
+South Carolina            35
+South Dakota              23
+Tennessee                 34
+Texas                     24
+Utah                      17
+Vermont                   27
+Virginia                  26
+Washington                20
+West Virginia             41
+Wisconsin                 20
+Wyoming                   21

@@ -1,0 +1,52 @@
+                      Otto Porter
+geoName                          
+Alabama                        12
+Alaska                          9
+Arizona                        12
+Arkansas                       13
+California                     17
+Colorado                       10
+Connecticut                    30
+Delaware                       27
+District of Columbia          100
+Florida                        15
+Georgia                        17
+Hawaii                         15
+Idaho                           7
+Illinois                       21
+Indiana                        19
+Iowa                           14
+Kansas                         12
+Kentucky                       17
+Louisiana                      15
+Maine                          15
+Maryland                       98
+Massachusetts                  22
+Michigan                       16
+Minnesota                      16
+Mississippi                    15
+Missouri                       69
+Montana                        11
+Nebraska                       11
+Nevada                         15
+New Hampshire                  13
+New Jersey                     25
+New Mexico                      6
+New York                       27
+North Carolina                 18
+North Dakota                   11
+Ohio                           25
+Oklahoma                       14
+Oregon                         10
+Pennsylvania                   21
+Rhode Island                   23
+South Carolina                 11
+South Dakota                    7
+Tennessee                      15
+Texas                          12
+Utah                           24
+Vermont                        11
+Virginia                       58
+Washington                     12
+West Virginia                  16
+Wisconsin                      15

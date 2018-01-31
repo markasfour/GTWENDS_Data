@@ -1,0 +1,53 @@
+                      Fisa Memo
+geoName                        
+Alabama                      52
+Alaska                       46
+Arizona                      31
+Arkansas                     46
+California                   25
+Colorado                     35
+Connecticut                  57
+Delaware                     25
+District of Columbia         17
+Florida                      35
+Georgia                      23
+Hawaii                       26
+Idaho                        44
+Illinois                     30
+Indiana                      27
+Iowa                         50
+Kansas                       22
+Kentucky                     24
+Louisiana                    30
+Maine                         8
+Maryland                     52
+Massachusetts                28
+Michigan                     28
+Minnesota                    19
+Mississippi                  26
+Missouri                     33
+Montana                     100
+Nebraska                     31
+Nevada                       16
+New Hampshire                15
+New Jersey                   34
+New Mexico                   47
+New York                     23
+North Carolina               33
+North Dakota                 47
+Ohio                         38
+Oklahoma                     46
+Oregon                       14
+Pennsylvania                 35
+Rhode Island                 17
+South Carolina               44
+South Dakota                 16
+Tennessee                    48
+Texas                        30
+Utah                         27
+Vermont                      32
+Virginia                     41
+Washington                   26
+West Virginia                67
+Wisconsin                    45
+Wyoming                      23

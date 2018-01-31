@@ -1,0 +1,53 @@
+                      John Wall
+geoName                        
+Alabama                      29
+Alaska                       20
+Arizona                      19
+Arkansas                     26
+California                   22
+Colorado                     16
+Connecticut                  30
+Delaware                     32
+District of Columbia         95
+Florida                      24
+Georgia                      32
+Hawaii                       21
+Idaho                        17
+Illinois                     30
+Indiana                      34
+Iowa                         32
+Kansas                       22
+Kentucky                     65
+Louisiana                    31
+Maine                        26
+Maryland                    100
+Massachusetts                32
+Michigan                     26
+Minnesota                    24
+Mississippi                  30
+Missouri                     23
+Montana                      15
+Nebraska                     27
+Nevada                       20
+New Hampshire                25
+New Jersey                   35
+New Mexico                   14
+New York                     36
+North Carolina               40
+North Dakota                 24
+Ohio                         31
+Oklahoma                     23
+Oregon                       16
+Pennsylvania                 32
+Rhode Island                 29
+South Carolina               33
+South Dakota                 28
+Tennessee                    31
+Texas                        20
+Utah                         20
+Vermont                      26
+Virginia                     60
+Washington                   18
+West Virginia                34
+Wisconsin                    27
+Wyoming                      21

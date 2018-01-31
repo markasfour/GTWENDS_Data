@@ -1,0 +1,53 @@
+                      Dow
+geoName                  
+Alabama                45
+Alaska                 49
+Arizona                59
+Arkansas               48
+California             45
+Colorado               66
+Connecticut            69
+Delaware               78
+District of Columbia   56
+Florida                55
+Georgia                44
+Hawaii                 52
+Idaho                  57
+Illinois               58
+Indiana                63
+Iowa                   86
+Kansas                 58
+Kentucky               52
+Louisiana              52
+Maine                  88
+Maryland               52
+Massachusetts          65
+Michigan              100
+Minnesota              73
+Mississippi            36
+Missouri               60
+Montana                67
+Nebraska               75
+Nevada                 47
+New Hampshire          81
+New Jersey             62
+New Mexico             57
+New York               61
+North Carolina         52
+North Dakota           63
+Ohio                   62
+Oklahoma               45
+Oregon                 50
+Pennsylvania           68
+Rhode Island           69
+South Carolina         53
+South Dakota           80
+Tennessee              47
+Texas                  44
+Utah                   50
+Vermont                81
+Virginia               49
+Washington             57
+West Virginia          50
+Wisconsin              84
+Wyoming                74

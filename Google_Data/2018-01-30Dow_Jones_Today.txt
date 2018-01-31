@@ -1,0 +1,53 @@
+                      Dow Jones Today
+geoName                              
+Alabama                            50
+Alaska                             54
+Arizona                            83
+Arkansas                           53
+California                         43
+Colorado                           53
+Connecticut                        59
+Delaware                           56
+District of Columbia               45
+Florida                            72
+Georgia                            42
+Hawaii                             91
+Idaho                              74
+Illinois                           60
+Indiana                            67
+Iowa                               89
+Kansas                             46
+Kentucky                           59
+Louisiana                          42
+Maine                              93
+Maryland                           55
+Massachusetts                      59
+Michigan                           59
+Minnesota                          79
+Mississippi                        40
+Missouri                           60
+Montana                            89
+Nebraska                           84
+Nevada                             62
+New Hampshire                      87
+New Jersey                         57
+New Mexico                         66
+New York                           51
+North Carolina                     56
+North Dakota                       81
+Ohio                               59
+Oklahoma                           48
+Oregon                             57
+Pennsylvania                       69
+Rhode Island                       79
+South Carolina                     61
+South Dakota                       72
+Tennessee                          50
+Texas                              37
+Utah                               46
+Vermont                            68
+Virginia                           41
+Washington                         55
+West Virginia                      57
+Wisconsin                         100
+Wyoming                            66

@@ -1,0 +1,37 @@
+                      KingKong
+geoName                       
+Alabama                     24
+Arizona                     21
+California                  38
+Colorado                    12
+Connecticut                 17
+District of Columbia        14
+Florida                     23
+Georgia                     21
+Hawaii                      46
+Illinois                    26
+Indiana                     16
+Kansas                      72
+Kentucky                    16
+Louisiana                   22
+Maryland                    19
+Massachusetts               19
+Michigan                    20
+Minnesota                   13
+Missouri                    23
+Nebraska                    51
+Nevada                      27
+New Jersey                  27
+New York                    23
+North Carolina              24
+Ohio                        23
+Oklahoma                    18
+Oregon                     100
+Pennsylvania                17
+South Carolina              32
+Tennessee                   22
+Texas                       30
+Utah                        24
+Virginia                    76
+Washington                  23
+Wisconsin                   23
