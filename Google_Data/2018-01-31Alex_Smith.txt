@@ -1,0 +1,53 @@
+                      Alex Smith
+geoName                         
+Alabama                       15
+Alaska                        21
+Arizona                       26
+Arkansas                      23
+California                    43
+Colorado                      32
+Connecticut                   25
+Delaware                      26
+District of Columbia          27
+Florida                       16
+Georgia                       18
+Hawaii                        28
+Idaho                         28
+Illinois                      24
+Indiana                       20
+Iowa                          32
+Kansas                       100
+Kentucky                      18
+Louisiana                     19
+Maine                         20
+Maryland                      26
+Massachusetts                 23
+Michigan                      17
+Minnesota                     22
+Mississippi                   19
+Missouri                      82
+Montana                       27
+Nebraska                      30
+Nevada                        36
+New Hampshire                 19
+New Jersey                    23
+New Mexico                    21
+New York                      22
+North Carolina                19
+North Dakota                  27
+Ohio                          24
+Oklahoma                      22
+Oregon                        18
+Pennsylvania                  24
+Rhode Island                  22
+South Carolina                19
+South Dakota                  24
+Tennessee                     18
+Texas                         19
+Utah                          84
+Vermont                       21
+Virginia                      20
+Washington                    28
+West Virginia                 20
+Wisconsin                     23
+Wyoming                       39

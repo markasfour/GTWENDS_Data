@@ -1,0 +1,53 @@
+                      stock market
+geoName                           
+Alabama                         71
+Alaska                          75
+Arizona                         82
+Arkansas                        80
+California                      77
+Colorado                        85
+Connecticut                     97
+Delaware                        87
+District of Columbia            70
+Florida                         81
+Georgia                         66
+Hawaii                          75
+Idaho                           77
+Illinois                        82
+Indiana                         78
+Iowa                            94
+Kansas                          74
+Kentucky                        67
+Louisiana                       60
+Maine                           94
+Maryland                        77
+Massachusetts                   87
+Michigan                        82
+Minnesota                       88
+Mississippi                     62
+Missouri                        79
+Montana                         95
+Nebraska                        83
+Nevada                          76
+New Hampshire                   98
+New Jersey                      90
+New Mexico                      78
+New York                        82
+North Carolina                  77
+North Dakota                   100
+Ohio                            79
+Oklahoma                        65
+Oregon                          63
+Pennsylvania                    82
+Rhode Island                    96
+South Carolina                  77
+South Dakota                    78
+Tennessee                       64
+Texas                           64
+Utah                            75
+Vermont                         99
+Virginia                        67
+Washington                      77
+West Virginia                   65
+Wisconsin                       97
+Wyoming                         97

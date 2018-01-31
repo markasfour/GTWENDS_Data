@@ -1,0 +1,53 @@
+                      Joe Kennedy
+geoName                          
+Alabama                        20
+Alaska                         14
+Arizona                        21
+Arkansas                       17
+California                     22
+Colorado                       19
+Connecticut                    40
+Delaware                       36
+District of Columbia           75
+Florida                        19
+Georgia                        21
+Hawaii                         16
+Idaho                          16
+Illinois                       25
+Indiana                        24
+Iowa                           24
+Kansas                         20
+Kentucky                       22
+Louisiana                      17
+Maine                          33
+Maryland                       33
+Massachusetts                 100
+Michigan                       24
+Minnesota                      26
+Mississippi                    18
+Missouri                       21
+Montana                        22
+Nebraska                       24
+Nevada                         20
+New Hampshire                  42
+New Jersey                     29
+New Mexico                     24
+New York                       32
+North Carolina                 21
+North Dakota                   13
+Ohio                           23
+Oklahoma                       25
+Oregon                         18
+Pennsylvania                   29
+Rhode Island                   54
+South Carolina                 19
+South Dakota                   18
+Tennessee                      24
+Texas                          16
+Utah                           19
+Vermont                        40
+Virginia                       26
+Washington                     30
+West Virginia                  27
+Wisconsin                      20
+Wyoming                        11
