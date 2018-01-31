@@ -2,52 +2,52 @@
 geoName                              
 Alabama                            10
 Alaska                              0
-Arizona                             0
+Arizona                             1
 Arkansas                           16
 California                          1
 Colorado                            5
 Connecticut                        26
-Delaware                           30
-District of Columbia               12
+Delaware                           31
+District of Columbia               13
 Florida                             2
 Georgia                            11
 Hawaii                              0
 Idaho                               5
-Illinois                           13
+Illinois                           14
 Indiana                            18
-Iowa                               13
-Kansas                             12
+Iowa                               12
+Kansas                             13
 Kentucky                           36
 Louisiana                           4
-Maine                              13
-Maryland                           20
-Massachusetts                      29
-Michigan                           59
-Minnesota                          24
+Maine                              14
+Maryland                           21
+Massachusetts                      30
+Michigan                           62
+Minnesota                          25
 Mississippi                         8
-Missouri                           19
+Missouri                           20
 Montana                             1
 Nebraska                           15
 Nevada                              1
-New Hampshire                      28
+New Hampshire                      30
 New Jersey                         11
 New Mexico                          4
 New York                           16
 North Carolina                     10
 North Dakota                        5
-Ohio                               45
-Oklahoma                           13
+Ohio                               47
+Oklahoma                           14
 Oregon                              1
 Pennsylvania                       27
-Rhode Island                       28
-South Carolina                      8
+Rhode Island                       29
+South Carolina                      7
 South Dakota                        7
 Tennessee                          25
 Texas                               4
 Utah                                0
 Vermont                            47
-Virginia                           16
+Virginia                           17
 Washington                          1
 West Virginia                     100
-Wisconsin                          22
+Wisconsin                          23
 Wyoming                             1

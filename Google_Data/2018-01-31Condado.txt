@@ -1,0 +1,46 @@
+                      Condado
+geoName                      
+Alabama                    20
+Arizona                    18
+Arkansas                   11
+California                 38
+Colorado                   15
+Connecticut                26
+Delaware                   17
+District of Columbia       41
+Florida                   100
+Georgia                    56
+Idaho                       6
+Illinois                   23
+Indiana                    11
+Iowa                        9
+Kansas                     15
+Kentucky                   12
+Louisiana                  12
+Maine                       6
+Maryland                   35
+Massachusetts              27
+Michigan                   13
+Minnesota                  12
+Mississippi                30
+Missouri                    8
+Nebraska                    8
+Nevada                     21
+New Hampshire               8
+New Jersey                 35
+New Mexico                 15
+New York                   41
+North Carolina             24
+Ohio                       58
+Oklahoma                   72
+Oregon                     12
+Pennsylvania               26
+Rhode Island               16
+South Carolina             16
+Tennessee                  16
+Texas                      37
+Utah                        9
+Vermont                    12
+Virginia                   24
+Washington                 10
+Wisconsin                  11

@@ -1,53 +1,53 @@
                       Alex Smith
 geoName                         
-Alabama                       15
-Alaska                        21
-Arizona                       26
+Alabama                       16
+Alaska                        15
+Arizona                       25
 Arkansas                      23
 California                    43
 Colorado                      32
-Connecticut                   25
-Delaware                      26
-District of Columbia          27
-Florida                       16
-Georgia                       18
-Hawaii                        28
-Idaho                         28
-Illinois                      24
-Indiana                       20
-Iowa                          32
+Connecticut                   23
+Delaware                      25
+District of Columbia          26
+Florida                       17
+Georgia                       19
+Hawaii                        32
+Idaho                         25
+Illinois                      23
+Indiana                       22
+Iowa                          34
 Kansas                       100
-Kentucky                      18
-Louisiana                     19
+Kentucky                      19
+Louisiana                     21
 Maine                         20
-Maryland                      26
+Maryland                      25
 Massachusetts                 23
-Michigan                      17
-Minnesota                     22
-Mississippi                   19
-Missouri                      82
-Montana                       27
-Nebraska                      30
-Nevada                        36
-New Hampshire                 19
-New Jersey                    23
-New Mexico                    21
+Michigan                      18
+Minnesota                     25
+Mississippi                   18
+Missouri                      84
+Montana                       30
+Nebraska                      34
+Nevada                        39
+New Hampshire                 20
+New Jersey                    22
+New Mexico                    27
 New York                      22
 North Carolina                19
-North Dakota                  27
-Ohio                          24
+North Dakota                  25
+Ohio                          22
 Oklahoma                      22
-Oregon                        18
-Pennsylvania                  24
+Oregon                        17
+Pennsylvania                  23
 Rhode Island                  22
-South Carolina                19
-South Dakota                  24
+South Carolina                20
+South Dakota                  23
 Tennessee                     18
-Texas                         19
-Utah                          84
-Vermont                       21
-Virginia                      20
-Washington                    28
-West Virginia                 20
-Wisconsin                     23
-Wyoming                       39
+Texas                         20
+Utah                          86
+Vermont                       20
+Virginia                      21
+Washington                    27
+West Virginia                 17
+Wisconsin                     21
+Wyoming                       38

@@ -1,53 +1,53 @@
                       Otto Warmbier
 geoName                            
-Alabama                          56
-Alaska                           27
-Arizona                          42
-Arkansas                         46
-California                       46
-Colorado                         49
-Connecticut                      64
-Delaware                         64
-District of Columbia             86
-Florida                          45
-Georgia                          43
-Hawaii                           42
-Idaho                            41
-Illinois                         54
-Indiana                          53
-Iowa                             37
-Kansas                           39
-Kentucky                         61
-Louisiana                        43
+Alabama                          55
+Alaska                           24
+Arizona                          45
+Arkansas                         41
+California                       49
+Colorado                         51
+Connecticut                      66
+Delaware                         43
+District of Columbia             89
+Florida                          49
+Georgia                          48
+Hawaii                           46
+Idaho                            44
+Illinois                         57
+Indiana                          51
+Iowa                             43
+Kansas                           35
+Kentucky                         58
+Louisiana                        48
 Maine                            50
-Maryland                         67
-Massachusetts                    63
-Michigan                         52
-Minnesota                        44
+Maryland                         69
+Massachusetts                    64
+Michigan                         54
+Minnesota                        43
 Mississippi                      44
-Missouri                         46
-Montana                          46
-Nebraska                         40
-Nevada                           39
-New Hampshire                    51
-New Jersey                       67
+Missouri                         47
+Montana                          38
+Nebraska                         38
+Nevada                           42
+New Hampshire                    61
+New Jersey                       63
 New Mexico                       41
-New York                         59
-North Carolina                   54
-North Dakota                     36
+New York                         64
+North Carolina                   52
+North Dakota                     37
 Ohio                            100
-Oklahoma                         39
-Oregon                           35
-Pennsylvania                     57
-Rhode Island                     57
-South Carolina                   50
-South Dakota                     32
-Tennessee                        50
-Texas                            41
-Utah                             36
-Vermont                          44
-Virginia                         75
+Oklahoma                         34
+Oregon                           37
+Pennsylvania                     56
+Rhode Island                     55
+South Carolina                   51
+South Dakota                     47
+Tennessee                        52
+Texas                            44
+Utah                             35
+Vermont                          48
+Virginia                         73
 Washington                       45
 West Virginia                    51
-Wisconsin                        47
-Wyoming                          45
+Wisconsin                        45
+Wyoming                          57

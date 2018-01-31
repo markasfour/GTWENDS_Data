@@ -1,53 +1,53 @@
                       Dakota Johnson
 geoName                             
-Alabama                           29
-Alaska                            29
-Arizona                           33
+Alabama                           28
+Alaska                            31
+Arizona                           30
 Arkansas                          27
-California                        34
-Colorado                          32
-Connecticut                       31
-Delaware                          27
-District of Columbia              34
-Florida                           31
-Georgia                           27
-Hawaii                            36
-Idaho                             30
-Illinois                          32
-Indiana                           29
-Iowa                              32
-Kansas                            29
-Kentucky                          35
-Louisiana                         31
-Maine                             26
-Maryland                          30
+California                        33
+Colorado                          31
+Connecticut                       30
+Delaware                          28
+District of Columbia              30
+Florida                           30
+Georgia                           26
+Hawaii                            35
+Idaho                             26
+Illinois                          31
+Indiana                           28
+Iowa                              31
+Kansas                            30
+Kentucky                          34
+Louisiana                         29
+Maine                             25
+Maryland                          29
 Massachusetts                     33
-Michigan                          31
-Minnesota                         37
+Michigan                          29
+Minnesota                         36
 Mississippi                       25
-Missouri                          32
-Montana                           31
-Nebraska                          38
-Nevada                            35
+Missouri                          30
+Montana                           29
+Nebraska                          34
+Nevada                            34
 New Hampshire                     29
-New Jersey                        36
+New Jersey                        34
 New Mexico                        31
-New York                          36
+New York                          34
 North Carolina                    27
-North Dakota                      82
+North Dakota                      81
 Ohio                              31
-Oklahoma                          42
-Oregon                            23
-Pennsylvania                      36
+Oklahoma                          40
+Oregon                            22
+Pennsylvania                      35
 Rhode Island                      33
-South Carolina                    28
+South Carolina                    25
 South Dakota                     100
-Tennessee                         31
-Texas                             31
-Utah                              31
-Vermont                           33
-Virginia                          30
-Washington                        32
-West Virginia                     32
-Wisconsin                         31
-Wyoming                           34
+Tennessee                         30
+Texas                             30
+Utah                              30
+Vermont                           26
+Virginia                          28
+Washington                        31
+West Virginia                     29
+Wisconsin                         30
+Wyoming                           32

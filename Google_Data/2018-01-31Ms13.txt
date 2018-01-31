@@ -1,53 +1,53 @@
                       Ms13
 geoName                   
-Alabama                 22
-Alaska                  29
-Arizona                 45
-Arkansas                33
-California              52
-Colorado                34
-Connecticut             33
-Delaware                34
-District of Columbia    76
-Florida                 35
-Georgia                 32
+Alabama                 26
+Alaska                  39
+Arizona                 48
+Arkansas                37
+California              55
+Colorado                36
+Connecticut             43
+Delaware                35
+District of Columbia    88
+Florida                 37
+Georgia                 31
 Hawaii                  47
 Idaho                   25
-Illinois                31
-Indiana                 32
-Iowa                    36
-Kansas                  30
-Kentucky                33
-Louisiana               29
-Maine                   37
+Illinois                26
+Indiana                 26
+Iowa                    29
+Kansas                  33
+Kentucky                27
+Louisiana               24
+Maine                   36
 Maryland               100
 Massachusetts           54
-Michigan                30
-Minnesota               25
-Mississippi             29
-Missouri                29
-Montana                 36
-Nebraska                34
-Nevada                  46
-New Hampshire           36
-New Jersey              53
-New Mexico              34
-New York                72
-North Carolina          43
-North Dakota            24
-Ohio                    32
-Oklahoma                34
-Oregon                  24
-Pennsylvania            33
-Rhode Island            46
-South Carolina          30
-South Dakota            24
-Tennessee               37
-Texas                   45
-Utah                    28
-Vermont                 19
-Virginia                75
-Washington              26
-West Virginia           47
-Wisconsin               29
-Wyoming                 52
+Michigan                28
+Minnesota               28
+Mississippi             28
+Missouri                32
+Montana                 38
+Nebraska                36
+Nevada                  51
+New Hampshire           34
+New Jersey              48
+New Mexico              46
+New York                66
+North Carolina          47
+North Dakota            38
+Ohio                    30
+Oklahoma                36
+Oregon                  25
+Pennsylvania            30
+Rhode Island            34
+South Carolina          34
+South Dakota            30
+Tennessee               29
+Texas                   48
+Utah                    31
+Vermont                 36
+Virginia                74
+Washington              34
+West Virginia           38
+Wisconsin               24
+Wyoming                 41

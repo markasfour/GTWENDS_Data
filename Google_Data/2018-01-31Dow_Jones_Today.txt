@@ -1,53 +1,53 @@
                       Dow Jones Today
 geoName                              
-Alabama                            50
-Alaska                             54
-Arizona                            83
-Arkansas                           53
-California                         43
-Colorado                           53
-Connecticut                        59
-Delaware                           56
-District of Columbia               45
-Florida                            72
-Georgia                            42
-Hawaii                             91
-Idaho                              74
-Illinois                           60
-Indiana                            67
-Iowa                               89
-Kansas                             46
+Alabama                            46
+Alaska                             68
+Arizona                            80
+Arkansas                           55
+California                         44
+Colorado                           56
+Connecticut                        62
+Delaware                           61
+District of Columbia               41
+Florida                            74
+Georgia                            45
+Hawaii                            100
+Idaho                              66
+Illinois                           61
+Indiana                            63
+Iowa                               88
+Kansas                             49
 Kentucky                           59
-Louisiana                          42
-Maine                              93
-Maryland                           55
-Massachusetts                      59
-Michigan                           59
-Minnesota                          79
-Mississippi                        40
-Missouri                           60
+Louisiana                          41
+Maine                              78
+Maryland                           52
+Massachusetts                      61
+Michigan                           62
+Minnesota                          76
+Mississippi                        39
+Missouri                           59
 Montana                            89
-Nebraska                           84
-Nevada                             62
-New Hampshire                      87
-New Jersey                         57
-New Mexico                         66
-New York                           51
-North Carolina                     56
-North Dakota                       81
-Ohio                               59
+Nebraska                           81
+Nevada                             63
+New Hampshire                      77
+New Jersey                         58
+New Mexico                         67
+New York                           49
+North Carolina                     55
+North Dakota                       85
+Ohio                               56
 Oklahoma                           48
-Oregon                             57
-Pennsylvania                       69
-Rhode Island                       79
-South Carolina                     61
-South Dakota                       72
-Tennessee                          50
+Oregon                             61
+Pennsylvania                       71
+Rhode Island                       82
+South Carolina                     63
+South Dakota                       84
+Tennessee                          48
 Texas                              37
-Utah                               46
-Vermont                            68
-Virginia                           41
-Washington                         55
-West Virginia                      57
-Wisconsin                         100
-Wyoming                            66
+Utah                               54
+Vermont                            69
+Virginia                           38
+Washington                         56
+West Virginia                      53
+Wisconsin                          99
+Wyoming                            49

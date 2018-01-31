@@ -1,0 +1,53 @@
+                      Lou Holtz
+geoName                        
+Alabama                     100
+Alaska                       12
+Arizona                      36
+Arkansas                     77
+California                   20
+Colorado                     32
+Connecticut                  28
+Delaware                     33
+District of Columbia         35
+Florida                      43
+Georgia                      59
+Hawaii                       28
+Idaho                        45
+Illinois                     38
+Indiana                      84
+Iowa                         52
+Kansas                       40
+Kentucky                     68
+Louisiana                    63
+Maine                        21
+Maryland                     33
+Massachusetts                25
+Michigan                     46
+Minnesota                    44
+Mississippi                  72
+Missouri                     39
+Montana                      25
+Nebraska                     77
+Nevada                       30
+New Hampshire                26
+New Jersey                   24
+New Mexico                   27
+New York                     25
+North Carolina               49
+North Dakota                 48
+Ohio                         84
+Oklahoma                     56
+Oregon                       25
+Pennsylvania                 46
+Rhode Island                 24
+South Carolina               99
+South Dakota                 56
+Tennessee                    60
+Texas                        41
+Utah                         28
+Vermont                      21
+Virginia                     34
+Washington                   27
+West Virginia                73
+Wisconsin                    34
+Wyoming                      44

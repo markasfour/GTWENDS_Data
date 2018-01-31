@@ -1,0 +1,53 @@
+                      Ozil
+geoName                   
+Alabama                 24
+Alaska                  26
+Arizona                 34
+Arkansas                31
+California              60
+Colorado                36
+Connecticut             62
+Delaware                36
+District of Columbia    60
+Florida                 45
+Georgia                 39
+Hawaii                  27
+Idaho                   29
+Illinois                50
+Indiana                 37
+Iowa                    40
+Kansas                  50
+Kentucky                28
+Louisiana               26
+Maine                   42
+Maryland                69
+Massachusetts           62
+Michigan                37
+Minnesota               53
+Mississippi             17
+Missouri                37
+Montana                 18
+Nebraska                35
+Nevada                  44
+New Hampshire           35
+New Jersey              79
+New Mexico              28
+New York                70
+North Carolina          46
+North Dakota            31
+Ohio                    35
+Oklahoma                28
+Oregon                  84
+Pennsylvania            45
+Rhode Island            45
+South Carolina          32
+South Dakota            35
+Tennessee               29
+Texas                   50
+Utah                    27
+Vermont                 55
+Virginia               100
+Washington              40
+West Virginia           24
+Wisconsin               37
+Wyoming                 19

@@ -1,53 +1,53 @@
                       stock market
 geoName                           
-Alabama                         71
+Alabama                         69
 Alaska                          75
-Arizona                         82
-Arkansas                        80
-California                      77
-Colorado                        85
-Connecticut                     97
-Delaware                        87
-District of Columbia            70
-Florida                         81
-Georgia                         66
-Hawaii                          75
-Idaho                           77
-Illinois                        82
-Indiana                         78
-Iowa                            94
-Kansas                          74
-Kentucky                        67
-Louisiana                       60
-Maine                           94
+Arizona                         81
+Arkansas                        81
+California                      78
+Colorado                        86
+Connecticut                     99
+Delaware                        84
+District of Columbia            69
+Florida                         80
+Georgia                         64
+Hawaii                          81
+Idaho                           80
+Illinois                        78
+Indiana                         77
+Iowa                            92
+Kansas                          76
+Kentucky                        69
+Louisiana                       59
+Maine                           93
 Maryland                        77
-Massachusetts                   87
-Michigan                        82
-Minnesota                       88
-Mississippi                     62
-Missouri                        79
-Montana                         95
+Massachusetts                   88
+Michigan                        80
+Minnesota                       92
+Mississippi                     60
+Missouri                        82
+Montana                         90
 Nebraska                        83
-Nevada                          76
-New Hampshire                   98
-New Jersey                      90
-New Mexico                      78
+Nevada                          75
+New Hampshire                  100
+New Jersey                      88
+New Mexico                      77
 New York                        82
-North Carolina                  77
+North Carolina                  75
 North Dakota                   100
-Ohio                            79
-Oklahoma                        65
-Oregon                          63
+Ohio                            81
+Oklahoma                        66
+Oregon                          62
 Pennsylvania                    82
-Rhode Island                    96
-South Carolina                  77
-South Dakota                    78
+Rhode Island                    93
+South Carolina                  75
+South Dakota                    80
 Tennessee                       64
-Texas                           64
-Utah                            75
-Vermont                         99
-Virginia                        67
+Texas                           62
+Utah                            73
+Vermont                         94
+Virginia                        70
 Washington                      77
-West Virginia                   65
-Wisconsin                       97
-Wyoming                         97
+West Virginia                   66
+Wisconsin                       93
+Wyoming                         91

@@ -1,0 +1,53 @@
+                      Daniels
+geoName                      
+Alabama                    58
+Alaska                     32
+Arizona                    38
+Arkansas                   44
+California                 41
+Colorado                   50
+Connecticut                48
+Delaware                   46
+District of Columbia       45
+Florida                    45
+Georgia                    49
+Hawaii                     29
+Idaho                      30
+Illinois                   45
+Indiana                    49
+Iowa                       43
+Kansas                     37
+Kentucky                   51
+Louisiana                  46
+Maine                      37
+Maryland                   46
+Massachusetts              39
+Michigan                   47
+Minnesota                  43
+Mississippi               100
+Missouri                   46
+Montana                    44
+Nebraska                   41
+Nevada                     39
+New Hampshire              42
+New Jersey                 49
+New Mexico                 59
+New York                   43
+North Carolina             51
+North Dakota               42
+Ohio                       45
+Oklahoma                   42
+Oregon                     28
+Pennsylvania               49
+Rhode Island               38
+South Carolina             46
+South Dakota               40
+Tennessee                  76
+Texas                      41
+Utah                       39
+Vermont                    41
+Virginia                   39
+Washington                 41
+West Virginia              77
+Wisconsin                  51
+Wyoming                    44

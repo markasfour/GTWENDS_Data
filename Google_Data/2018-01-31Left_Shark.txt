@@ -1,0 +1,53 @@
+                      Left Shark
+geoName                         
+Alabama                       42
+Alaska                        60
+Arizona                       60
+Arkansas                      42
+California                    53
+Colorado                      74
+Connecticut                   52
+Delaware                      53
+District of Columbia         100
+Florida                       43
+Georgia                       39
+Hawaii                        64
+Idaho                         55
+Illinois                      50
+Indiana                       46
+Iowa                          56
+Kansas                        49
+Kentucky                      49
+Louisiana                     42
+Maine                         54
+Maryland                      57
+Massachusetts                 68
+Michigan                      51
+Minnesota                     54
+Mississippi                   31
+Missouri                      49
+Montana                       64
+Nebraska                      81
+Nevada                        42
+New Hampshire                 66
+New Jersey                    49
+New Mexico                    48
+New York                      53
+North Carolina                47
+North Dakota                  59
+Ohio                          52
+Oklahoma                      61
+Oregon                        51
+Pennsylvania                  63
+Rhode Island                  48
+South Carolina                53
+South Dakota                  54
+Tennessee                     46
+Texas                         45
+Utah                          58
+Vermont                       71
+Virginia                      48
+Washington                    83
+West Virginia                 45
+Wisconsin                     66
+Wyoming                       57

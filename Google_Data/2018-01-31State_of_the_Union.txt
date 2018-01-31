@@ -1,53 +1,53 @@
                       State of the Union
 geoName                                 
 Alabama                               37
-Alaska                                40
-Arizona                               40
-Arkansas                              40
+Alaska                                44
+Arizona                               38
+Arkansas                              37
 California                            40
-Colorado                              39
-Connecticut                           43
-Delaware                              36
+Colorado                              41
+Connecticut                           42
+Delaware                              40
 District of Columbia                 100
-Florida                               36
-Georgia                               40
-Hawaii                                31
-Idaho                                 45
+Florida                               34
+Georgia                               37
+Hawaii                                32
+Idaho                                 44
 Illinois                              41
-Indiana                               42
-Iowa                                  47
-Kansas                                37
-Kentucky                              36
-Louisiana                             38
-Maine                                 45
-Maryland                              56
-Massachusetts                         44
-Michigan                              37
+Indiana                               40
+Iowa                                  45
+Kansas                                36
+Kentucky                              37
+Louisiana                             34
+Maine                                 43
+Maryland                              55
+Massachusetts                         41
+Michigan                              36
 Minnesota                             40
-Mississippi                           35
-Missouri                              41
+Mississippi                           31
+Missouri                              40
 Montana                               51
-Nebraska                              40
-Nevada                                35
-New Hampshire                         48
-New Jersey                            37
-New Mexico                            44
-New York                              42
-North Carolina                        47
+Nebraska                              36
+Nevada                                34
+New Hampshire                         43
+New Jersey                            35
+New Mexico                            42
+New York                              41
+North Carolina                        45
 North Dakota                          40
 Ohio                                  38
-Oklahoma                              41
-Oregon                                32
+Oklahoma                              38
+Oregon                                31
 Pennsylvania                          43
-Rhode Island                          39
+Rhode Island                          37
 South Carolina                        36
-South Dakota                          43
-Tennessee                             35
+South Dakota                          37
+Tennessee                             33
 Texas                                 31
-Utah                                  44
-Vermont                               68
-Virginia                              51
-Washington                            43
-West Virginia                         40
-Wisconsin                             39
-Wyoming                               40
+Utah                                  41
+Vermont                               62
+Virginia                              49
+Washington                            42
+West Virginia                         44
+Wisconsin                             34
+Wyoming                               43

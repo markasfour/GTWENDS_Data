@@ -1,48 +1,48 @@
                       The First Purge
 geoName                              
-Alabama                            49
-Arizona                            48
-Arkansas                           22
-California                         45
-Colorado                           34
-Connecticut                        46
-District of Columbia               47
-Florida                            42
+Alabama                            51
+Arizona                            63
+Arkansas                           34
+California                         40
+Colorado                           39
+Connecticut                        24
+Delaware                           28
+District of Columbia               31
+Florida                            53
 Georgia                            59
-Hawaii                             41
-Idaho                              47
-Illinois                           45
-Indiana                            46
-Iowa                               49
-Kansas                             41
-Kentucky                           75
-Louisiana                          83
-Maine                              69
-Maryland                           24
-Massachusetts                      55
-Michigan                           41
-Minnesota                          34
-Mississippi                        66
-Missouri                           47
-Montana                            27
-Nebraska                           66
-Nevada                             48
-New Hampshire                      16
-New Jersey                         51
-New Mexico                         43
+Hawaii                             57
+Idaho                             100
+Illinois                           44
+Indiana                            52
+Iowa                               43
+Kansas                             43
+Kentucky                           42
+Louisiana                          55
+Maryland                           47
+Massachusetts                      64
+Michigan                           38
+Minnesota                          40
+Mississippi                        69
+Missouri                           60
+Montana                            56
+Nebraska                           81
+Nevada                             43
+New Hampshire                      17
+New Jersey                         55
+New Mexico                         60
 New York                           37
-North Carolina                     50
-Ohio                               58
-Oklahoma                           58
-Oregon                             18
-Pennsylvania                       42
-Rhode Island                       18
-South Carolina                     57
-South Dakota                      100
-Tennessee                          52
-Texas                              50
-Utah                               51
-Virginia                           35
-Washington                         18
-West Virginia                      18
-Wisconsin                          39
+North Carolina                     47
+Ohio                               60
+Oklahoma                           81
+Oregon                             11
+Pennsylvania                       53
+Rhode Island                       58
+South Carolina                     74
+South Dakota                       35
+Tennessee                          65
+Texas                              48
+Utah                               31
+Virginia                           55
+Washington                         48
+West Virginia                      94
+Wisconsin                          28
