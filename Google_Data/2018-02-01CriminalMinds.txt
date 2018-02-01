@@ -1,0 +1,13 @@
+                CriminalMinds
+geoName                      
+California                 65
+Florida                    70
+Georgia                    78
+Illinois                   81
+Michigan                  100
+New Jersey                 63
+New York                   73
+North Carolina             91
+Ohio                       78
+Pennsylvania               64
+Texas                      59

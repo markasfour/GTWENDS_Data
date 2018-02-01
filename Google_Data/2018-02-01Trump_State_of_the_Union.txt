@@ -1,0 +1,52 @@
+                      Trump State of the Union
+geoName                                       
+Alabama                                     40
+Alaska                                      66
+Arizona                                     42
+Arkansas                                    22
+California                                  39
+Colorado                                    35
+Connecticut                                 45
+District of Columbia                       100
+Florida                                     36
+Georgia                                     40
+Hawaii                                      55
+Idaho                                       13
+Illinois                                    40
+Indiana                                     24
+Iowa                                        70
+Kansas                                      29
+Kentucky                                    21
+Louisiana                                   27
+Maine                                       71
+Maryland                                    71
+Massachusetts                               55
+Michigan                                    33
+Minnesota                                   34
+Mississippi                                  9
+Missouri                                    38
+Montana                                     44
+Nebraska                                    54
+Nevada                                      37
+New Hampshire                                6
+New Jersey                                  45
+New Mexico                                  23
+New York                                    52
+North Carolina                              39
+North Dakota                                55
+Ohio                                        36
+Oklahoma                                    34
+Oregon                                      48
+Pennsylvania                                39
+Rhode Island                                38
+South Carolina                              27
+South Dakota                                27
+Tennessee                                   30
+Texas                                       30
+Utah                                        32
+Vermont                                     42
+Virginia                                    39
+Washington                                  36
+West Virginia                               44
+Wisconsin                                   52
+Wyoming                                     60

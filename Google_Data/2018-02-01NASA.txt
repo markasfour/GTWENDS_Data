@@ -1,0 +1,53 @@
+                      NASA
+geoName                   
+Alabama                 63
+Alaska                  48
+Arizona                 41
+Arkansas                38
+California              43
+Colorado                47
+Connecticut             37
+Delaware                41
+District of Columbia    67
+Florida                 51
+Georgia                 36
+Hawaii                  34
+Idaho                   41
+Illinois                34
+Indiana                 39
+Iowa                    34
+Kansas                  36
+Kentucky                35
+Louisiana               39
+Maine                   39
+Maryland               100
+Massachusetts           36
+Michigan                33
+Minnesota               33
+Mississippi             41
+Missouri                38
+Montana                 41
+Nebraska                35
+Nevada                  33
+New Hampshire           40
+New Jersey              36
+New Mexico              50
+New York                30
+North Carolina          35
+North Dakota            32
+Ohio                    43
+Oklahoma                38
+Oregon                  35
+Pennsylvania            35
+Rhode Island            37
+South Carolina          36
+South Dakota            40
+Tennessee               36
+Texas                   58
+Utah                    39
+Vermont                 37
+Virginia                59
+Washington              39
+West Virginia           46
+Wisconsin               34
+Wyoming                 44

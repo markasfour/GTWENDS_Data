@@ -1,0 +1,53 @@
+                      BattleBorn
+geoName                         
+Alabama                       52
+Alaska                        73
+Arizona                       58
+Arkansas                      55
+California                    49
+Colorado                      51
+Connecticut                   51
+Delaware                      50
+District of Columbia          27
+Florida                       49
+Georgia                       40
+Hawaii                        49
+Idaho                         60
+Illinois                      45
+Indiana                       69
+Iowa                          54
+Kansas                        47
+Kentucky                      58
+Louisiana                     50
+Maine                         60
+Maryland                      49
+Massachusetts                 45
+Michigan                      53
+Minnesota                     43
+Mississippi                   56
+Missouri                      52
+Montana                       58
+Nebraska                      49
+Nevada                       100
+New Hampshire                 57
+New Jersey                    44
+New Mexico                    55
+New York                      39
+North Carolina                53
+North Dakota                  59
+Ohio                          60
+Oklahoma                      53
+Oregon                        53
+Pennsylvania                  49
+Rhode Island                  56
+South Carolina                50
+South Dakota                  59
+Tennessee                     52
+Texas                         48
+Utah                          66
+Vermont                       69
+Virginia                      45
+Washington                    64
+West Virginia                 61
+Wisconsin                     54
+Wyoming                       75

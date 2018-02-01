@@ -1,0 +1,53 @@
+                      Donald Trump
+geoName                           
+Alabama                         85
+Alaska                          61
+Arizona                         78
+Arkansas                        81
+California                      86
+Colorado                        76
+Connecticut                     94
+Delaware                        90
+District of Columbia            99
+Florida                         86
+Georgia                         76
+Hawaii                          58
+Idaho                           71
+Illinois                        87
+Indiana                         89
+Iowa                            81
+Kansas                          61
+Kentucky                        73
+Louisiana                       75
+Maine                           87
+Maryland                        89
+Massachusetts                   91
+Michigan                        90
+Minnesota                       75
+Mississippi                     76
+Missouri                        75
+Montana                         76
+Nebraska                        79
+Nevada                          85
+New Hampshire                   88
+New Jersey                     100
+New Mexico                      79
+New York                        94
+North Carolina                  81
+North Dakota                    75
+Ohio                            86
+Oklahoma                        66
+Oregon                          61
+Pennsylvania                    89
+Rhode Island                    94
+South Carolina                  82
+South Dakota                    71
+Tennessee                       80
+Texas                           77
+Utah                            70
+Vermont                         86
+Virginia                        67
+Washington                      78
+West Virginia                   82
+Wisconsin                       72
+Wyoming                         65

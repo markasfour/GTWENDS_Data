@@ -1,0 +1,14 @@
+               MatchGame
+geoName                 
+California            34
+Florida               16
+Georgia               37
+Illinois              57
+Massachusetts         59
+Michigan              43
+New Jersey            68
+New York              45
+Ohio                  85
+Pennsylvania         100
+Texas                 41
+Wisconsin             54

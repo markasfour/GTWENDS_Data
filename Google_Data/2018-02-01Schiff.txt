@@ -1,0 +1,53 @@
+                      Schiff
+geoName                     
+Alabama                   34
+Alaska                    43
+Arizona                   44
+Arkansas                  30
+California                63
+Colorado                  44
+Connecticut              100
+Delaware                  58
+District of Columbia      96
+Florida                   46
+Georgia                   34
+Hawaii                    53
+Idaho                     45
+Illinois                  65
+Indiana                   39
+Iowa                      42
+Kansas                    33
+Kentucky                  34
+Louisiana                 29
+Maine                     60
+Maryland                  62
+Massachusetts             69
+Michigan                  44
+Minnesota                 51
+Mississippi               22
+Missouri                  35
+Montana                   43
+Nebraska                  38
+Nevada                    53
+New Hampshire             57
+New Jersey                64
+New Mexico                54
+New York                  78
+North Carolina            36
+North Dakota              40
+Ohio                      52
+Oklahoma                  31
+Oregon                    44
+Pennsylvania              46
+Rhode Island              97
+South Carolina            32
+South Dakota              35
+Tennessee                 32
+Texas                     34
+Utah                      41
+Vermont                   60
+Virginia                  45
+Washington                50
+West Virginia             36
+Wisconsin                 38
+Wyoming                   41

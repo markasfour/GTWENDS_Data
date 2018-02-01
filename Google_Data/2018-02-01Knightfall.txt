@@ -1,0 +1,53 @@
+                      Knightfall
+geoName                         
+Alabama                       83
+Alaska                       100
+Arizona                       65
+Arkansas                      67
+California                    63
+Colorado                      65
+Connecticut                   69
+Delaware                      73
+District of Columbia          40
+Florida                       65
+Georgia                       65
+Hawaii                        48
+Idaho                         67
+Illinois                      67
+Indiana                       82
+Iowa                          56
+Kansas                        58
+Kentucky                      83
+Louisiana                     62
+Maine                         88
+Maryland                      81
+Massachusetts                 64
+Michigan                      70
+Minnesota                     58
+Mississippi                   81
+Missouri                      66
+Montana                       74
+Nebraska                      97
+Nevada                        67
+New Hampshire                 96
+New Jersey                    76
+New Mexico                    60
+New York                      64
+North Carolina                67
+North Dakota                  66
+Ohio                          81
+Oklahoma                      68
+Oregon                        50
+Pennsylvania                  70
+Rhode Island                  82
+South Carolina                82
+South Dakota                  92
+Tennessee                     85
+Texas                         65
+Utah                          67
+Vermont                       89
+Virginia                      59
+Washington                    75
+West Virginia                 50
+Wisconsin                     75
+Wyoming                       64
