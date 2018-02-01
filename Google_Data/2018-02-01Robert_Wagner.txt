@@ -1,0 +1,53 @@
+                      Robert Wagner
+geoName                            
+Alabama                          61
+Alaska                           51
+Arizona                          73
+Arkansas                         66
+California                       65
+Colorado                         65
+Connecticut                      72
+Delaware                         72
+District of Columbia             67
+Florida                          72
+Georgia                          60
+Hawaii                           52
+Idaho                            77
+Illinois                         70
+Indiana                          74
+Iowa                             64
+Kansas                           57
+Kentucky                         73
+Louisiana                        64
+Maine                            67
+Maryland                         72
+Massachusetts                    69
+Michigan                         70
+Minnesota                        64
+Mississippi                      56
+Missouri                         80
+Montana                          52
+Nebraska                         83
+Nevada                           79
+New Hampshire                    64
+New Jersey                       83
+New Mexico                       84
+New York                        100
+North Carolina                   58
+North Dakota                     40
+Ohio                             75
+Oklahoma                         74
+Oregon                           59
+Pennsylvania                     83
+Rhode Island                     81
+South Carolina                   74
+South Dakota                     60
+Tennessee                        71
+Texas                            58
+Utah                             65
+Vermont                          58
+Virginia                         56
+Washington                       72
+West Virginia                    64
+Wisconsin                        71
+Wyoming                          85

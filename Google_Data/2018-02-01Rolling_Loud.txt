@@ -1,50 +1,50 @@
                       Rolling Loud
 geoName                           
-Alabama                         16
+Alabama                         18
 Arizona                         11
 Arkansas                         8
-California                      45
+California                      48
 Colorado                         7
-Connecticut                      7
-Delaware                        12
-District of Columbia            14
+Connecticut                      9
+Delaware                        11
+District of Columbia            15
 Florida                        100
-Georgia                         20
+Georgia                         21
 Hawaii                           4
-Idaho                            7
-Illinois                        12
-Indiana                          9
-Iowa                            10
-Kansas                           3
+Idaho                            5
+Illinois                        11
+Indiana                         12
+Iowa                             9
+Kansas                           5
 Kentucky                        13
-Louisiana                       20
-Maine                            3
-Maryland                        14
-Massachusetts                    8
+Louisiana                       19
+Maine                            1
+Maryland                        12
+Massachusetts                    9
 Michigan                        11
-Minnesota                       12
-Mississippi                      9
-Missouri                         5
-Montana                          8
+Minnesota                        8
+Mississippi                      7
+Missouri                         6
+Montana                         10
 Nebraska                        10
 Nevada                          26
-New Hampshire                    7
-New Jersey                       8
-New Mexico                      11
-New York                        10
-North Carolina                  11
+New Hampshire                    6
+New Jersey                      10
+New Mexico                       7
+New York                         9
+North Carolina                  10
 North Dakota                     7
-Ohio                             9
-Oklahoma                        10
+Ohio                            10
+Oklahoma                         7
 Oregon                           6
 Pennsylvania                     7
-Rhode Island                    18
-South Carolina                  16
-South Dakota                     6
-Tennessee                       13
-Texas                            9
-Utah                             8
-Virginia                         8
-Washington                       6
-West Virginia                   13
-Wisconsin                        5
+Rhode Island                     8
+South Carolina                  13
+South Dakota                     7
+Tennessee                       12
+Texas                            8
+Utah                             5
+Virginia                         6
+Washington                       7
+West Virginia                    9
+Wisconsin                        7

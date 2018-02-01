@@ -1,53 +1,53 @@
                       Left Shark
 geoName                         
 Alabama                       45
-Alaska                        84
-Arizona                       64
-Arkansas                      54
-California                    59
-Colorado                      81
-Connecticut                   51
-Delaware                      53
+Alaska                        59
+Arizona                       60
+Arkansas                      51
+California                    56
+Colorado                      67
+Connecticut                   54
+Delaware                      62
 District of Columbia         100
-Florida                       48
-Georgia                       43
-Hawaii                        72
-Idaho                         68
-Illinois                      57
-Indiana                       57
+Florida                       40
+Georgia                       38
+Hawaii                        71
+Idaho                         60
+Illinois                      49
+Indiana                       49
 Iowa                          53
-Kansas                        50
-Kentucky                      56
-Louisiana                     46
-Maine                         67
-Maryland                      70
-Massachusetts                 79
-Michigan                      54
-Minnesota                     59
-Mississippi                   37
-Missouri                      56
-Montana                       65
-Nebraska                      65
-Nevada                        41
-New Hampshire                 67
-New Jersey                    53
-New Mexico                    43
-New York                      60
-North Carolina                56
-North Dakota                  69
-Ohio                          58
-Oklahoma                      68
-Oregon                        56
-Pennsylvania                  71
-Rhode Island                  62
-South Carolina                54
-South Dakota                  59
-Tennessee                     49
-Texas                         48
-Utah                          67
-Vermont                       88
-Virginia                      56
+Kansas                        57
+Kentucky                      57
+Louisiana                     45
+Maine                         53
+Maryland                      55
+Massachusetts                 70
+Michigan                      51
+Minnesota                     50
+Mississippi                   36
+Missouri                      46
+Montana                       63
+Nebraska                      82
+Nevada                        34
+New Hampshire                 63
+New Jersey                    51
+New Mexico                    36
+New York                      53
+North Carolina                49
+North Dakota                  77
+Ohio                          53
+Oklahoma                      60
+Oregon                        48
+Pennsylvania                  69
+Rhode Island                  54
+South Carolina                51
+South Dakota                  57
+Tennessee                     45
+Texas                         47
+Utah                          62
+Vermont                       80
+Virginia                      51
 Washington                    78
-West Virginia                 45
-Wisconsin                     66
-Wyoming                       50
+West Virginia                 44
+Wisconsin                     62
+Wyoming                       66

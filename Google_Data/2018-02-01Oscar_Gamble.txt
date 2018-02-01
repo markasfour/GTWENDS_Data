@@ -1,23 +1,23 @@
                 Oscar Gamble
 geoName                     
-Alabama                   70
-Arizona                   33
-California                38
-Connecticut               78
+Alabama                   59
+Arizona                   21
+California                41
+Connecticut              100
 Florida                   42
-Georgia                   33
-Illinois                  57
-Indiana                   52
-Maryland                  58
+Georgia                   41
+Illinois                  48
+Indiana                   61
+Maryland                  50
 Massachusetts             71
-Michigan                  62
-Minnesota                 64
-Missouri                  56
-New Jersey               100
-New York                  97
-North Carolina            21
-Ohio                      85
-Pennsylvania              75
-Texas                     31
-Virginia                  34
-Wisconsin                 60
+Michigan                  61
+Minnesota                 60
+Missouri                  34
+New Jersey                84
+New York                  84
+North Carolina            40
+Ohio                      76
+Pennsylvania              84
+Texas                     27
+Virginia                  37
+Wisconsin                 45

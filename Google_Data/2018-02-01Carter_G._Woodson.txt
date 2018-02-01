@@ -1,34 +1,40 @@
                       Carter G. Woodson
 geoName                                
-Alabama                              80
-Arizona                               4
-California                           13
-Colorado                              7
-Connecticut                          20
-District of Columbia                 70
-Florida                              34
-Georgia                              30
-Hawaii                               28
-Illinois                             43
-Indiana                              32
-Kentucky                             65
-Louisiana                            25
-Maryland                             75
-Massachusetts                        13
-Michigan                             21
-Minnesota                            24
-Mississippi                         100
-Missouri                             22
-Nevada                                5
-New Jersey                           19
-New York                             18
-North Carolina                       61
-Ohio                                 33
-Oregon                                8
-Pennsylvania                         14
-South Carolina                       46
-Tennessee                            24
-Texas                                23
-Virginia                             42
-Washington                           12
-Wisconsin                            11
+Alabama                              89
+Arizona                               2
+Arkansas                             67
+California                           17
+Colorado                              3
+Connecticut                          22
+District of Columbia                100
+Florida                              37
+Georgia                              43
+Illinois                             45
+Indiana                              64
+Iowa                                 19
+Kansas                               27
+Kentucky                             49
+Louisiana                            27
+Maryland                             72
+Massachusetts                        21
+Michigan                             28
+Minnesota                            32
+Mississippi                          67
+Missouri                             38
+Nebraska                              8
+Nevada                               11
+New Jersey                           24
+New York                             21
+North Carolina                       54
+Ohio                                 28
+Oklahoma                             20
+Oregon                                3
+Pennsylvania                         17
+South Carolina                       55
+Tennessee                            19
+Texas                                20
+Utah                                 17
+Virginia                             39
+Washington                            8
+West Virginia                        42
+Wisconsin                            27

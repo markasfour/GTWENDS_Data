@@ -1,53 +1,53 @@
                       Trey Gowdy
 geoName                         
-Alabama                       39
-Alaska                        27
+Alabama                       40
+Alaska                        39
 Arizona                       27
-Arkansas                      39
+Arkansas                      35
 California                    20
-Colorado                      24
-Connecticut                   27
-Delaware                      20
+Colorado                      25
+Connecticut                   26
+Delaware                      28
 District of Columbia          43
-Florida                       27
-Georgia                       29
-Hawaii                        20
-Idaho                         37
-Illinois                      21
-Indiana                       29
-Iowa                          25
-Kansas                        24
-Kentucky                      29
+Florida                       28
+Georgia                       31
+Hawaii                        26
+Idaho                         33
+Illinois                      23
+Indiana                       33
+Iowa                          26
+Kansas                        27
+Kentucky                      33
 Louisiana                     31
-Maine                         29
-Maryland                      25
-Massachusetts                 22
-Michigan                      23
-Minnesota                     21
-Mississippi                   32
-Missouri                      27
-Montana                       39
+Maine                         32
+Maryland                      24
+Massachusetts                 23
+Michigan                      25
+Minnesota                     22
+Mississippi                   28
+Missouri                      31
+Montana                       43
 Nebraska                      26
 Nevada                        27
 New Hampshire                 36
 New Jersey                    23
 New Mexico                    24
-New York                      20
-North Carolina                33
-North Dakota                  29
-Ohio                          25
-Oklahoma                      29
-Oregon                        22
-Pennsylvania                  26
+New York                      22
+North Carolina                36
+North Dakota                  26
+Ohio                          26
+Oklahoma                      30
+Oregon                        21
+Pennsylvania                  25
 Rhode Island                  25
 South Carolina               100
-South Dakota                  34
-Tennessee                     33
-Texas                         25
-Utah                          23
-Vermont                       19
-Virginia                      23
-Washington                    26
-West Virginia                 33
-Wisconsin                     20
-Wyoming                       42
+South Dakota                  29
+Tennessee                     35
+Texas                         26
+Utah                          27
+Vermont                       27
+Virginia                      24
+Washington                    25
+West Virginia                 36
+Wisconsin                     21
+Wyoming                       45

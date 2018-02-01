@@ -1,53 +1,53 @@
                       Mike Fisher
 geoName                          
-Alabama                        28
-Alaska                         26
-Arizona                        21
-Arkansas                       21
-California                     16
-Colorado                       27
-Connecticut                    23
-Delaware                       41
+Alabama                        31
+Alaska                         28
+Arizona                        19
+Arkansas                       24
+California                     17
+Colorado                       24
+Connecticut                    26
+Delaware                       46
 District of Columbia           25
-Florida                        20
-Georgia                        23
-Hawaii                         20
+Florida                        21
+Georgia                        25
+Hawaii                         18
 Idaho                          18
-Illinois                       31
+Illinois                       29
 Indiana                        25
-Iowa                           34
-Kansas                         16
-Kentucky                       31
-Louisiana                      24
-Maine                          28
-Maryland                       21
-Massachusetts                  31
-Michigan                       30
-Minnesota                      41
-Mississippi                    30
-Missouri                       31
-Montana                        17
-Nebraska                       28
+Iowa                           28
+Kansas                         20
+Kentucky                       30
+Louisiana                      26
+Maine                          27
+Maryland                       20
+Massachusetts                  32
+Michigan                       33
+Minnesota                      40
+Mississippi                    27
+Missouri                       30
+Montana                        25
+Nebraska                       32
 Nevada                         17
-New Hampshire                  35
+New Hampshire                  26
 New Jersey                     23
-New Mexico                     16
+New Mexico                     18
 New York                       23
-North Carolina                 22
-North Dakota                   47
-Ohio                           25
-Oklahoma                       29
-Oregon                         13
+North Carolina                 23
+North Dakota                   53
+Ohio                           29
+Oklahoma                       30
+Oregon                         11
 Pennsylvania                   40
-Rhode Island                   27
-South Carolina                 26
-South Dakota                   28
+Rhode Island                   29
+South Carolina                 22
+South Dakota                   29
 Tennessee                     100
-Texas                          23
+Texas                          25
 Utah                           20
-Vermont                        27
-Virginia                       21
+Vermont                        42
+Virginia                       22
 Washington                     17
-West Virginia                  27
+West Virginia                  23
 Wisconsin                      31
-Wyoming                        21
+Wyoming                        26

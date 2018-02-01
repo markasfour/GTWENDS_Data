@@ -1,40 +1,42 @@
-                Mexico Vs Bosnia
-geoName                         
-Alabama                        4
-Arizona                       21
-Arkansas                       8
-California                    27
-Colorado                      16
-Connecticut                   18
-Florida                       10
-Georgia                       23
-Idaho                         11
-Illinois                     100
-Indiana                       20
-Iowa                          31
-Kansas                        34
-Kentucky                       6
-Louisiana                     16
-Maryland                       5
-Massachusetts                  9
-Michigan                      13
-Minnesota                     12
-Mississippi                    8
-Missouri                      23
-Nebraska                      19
-Nevada                        26
-New Jersey                     9
-New Mexico                    25
-New York                       8
-North Carolina                14
-Ohio                           5
-Oklahoma                       2
-Oregon                         8
-Pennsylvania                   5
-South Carolina                11
-Tennessee                      7
-Texas                         44
-Utah                          15
-Virginia                      11
-Washington                    16
-Wisconsin                     23
+                      Mexico Vs Bosnia
+geoName                               
+Alabama                              2
+Arizona                             28
+Arkansas                             7
+California                          24
+Colorado                            11
+Connecticut                         11
+Delaware                            17
+District of Columbia                 2
+Florida                             10
+Georgia                             18
+Idaho                                5
+Illinois                           100
+Indiana                             14
+Iowa                                23
+Kansas                              37
+Kentucky                             7
+Louisiana                            2
+Maryland                             4
+Massachusetts                       10
+Michigan                             9
+Minnesota                           10
+Mississippi                          3
+Missouri                            18
+Nebraska                            17
+Nevada                              15
+New Jersey                           9
+New Mexico                          18
+New York                             6
+North Carolina                      12
+Ohio                                 6
+Oklahoma                             2
+Oregon                               9
+Pennsylvania                         5
+South Carolina                       8
+Tennessee                            3
+Texas                               40
+Utah                                16
+Virginia                             8
+Washington                          15
+Wisconsin                           27

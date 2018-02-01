@@ -1,40 +1,41 @@
                       Lee Miglin
 geoName                         
-Alabama                        6
-Arizona                       12
-Arkansas                      11
-California                    15
-Colorado                      10
-Connecticut                   22
-District of Columbia          11
-Florida                       26
-Georgia                        6
-Hawaii                        13
+Alabama                       19
+Arizona                        7
+California                    19
+Colorado                       7
+Connecticut                    6
+Delaware                      28
+District of Columbia          13
+Florida                       23
+Georgia                        5
+Hawaii                        14
 Illinois                     100
-Indiana                       40
-Iowa                           8
-Kansas                        13
-Kentucky                      17
-Louisiana                     11
-Maryland                      20
-Massachusetts                 11
-Michigan                      10
-Minnesota                     16
-Mississippi                   53
-Missouri                      10
-Nebraska                      21
-Nevada                        13
-New Jersey                    14
-New York                      15
-North Carolina                 8
-Ohio                           6
-Oklahoma                       6
+Indiana                       22
+Iowa                           9
+Kansas                        30
+Kentucky                      12
+Louisiana                      6
+Maryland                      15
+Massachusetts                 22
+Michigan                      25
+Minnesota                     11
+Mississippi                   35
+Missouri                       8
+Nebraska                      12
+Nevada                        15
+New Jersey                    13
+New Mexico                    15
+New York                      24
+North Carolina                 7
+Ohio                           2
+Oklahoma                       7
 Oregon                         4
-Pennsylvania                  19
-South Carolina                10
-Tennessee                     13
-Texas                         15
-Utah                           7
-Virginia                       9
-Washington                     5
-Wisconsin                     11
+Pennsylvania                   9
+South Carolina                33
+Tennessee                     22
+Texas                         14
+Virginia                      13
+Washington                    16
+West Virginia                 19
+Wisconsin                      8

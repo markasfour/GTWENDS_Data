@@ -1,49 +1,48 @@
                       Isaiah Canaan
 geoName                            
-Alabama                           9
-Alaska                            3
-Arizona                           8
+Alabama                          10
+Alaska                            8
+Arizona                          14
 Arkansas                          8
-California                        8
-Colorado                          6
+California                        9
+Colorado                          7
 Connecticut                       5
-Delaware                         34
-District of Columbia             14
-Florida                           7
-Georgia                          15
-Idaho                             5
-Illinois                         27
+Delaware                         35
+District of Columbia             21
+Florida                           9
+Georgia                          18
+Idaho                            11
+Illinois                         32
 Indiana                          18
-Iowa                             10
-Kansas                            3
+Iowa                             19
+Kansas                            5
 Kentucky                        100
-Louisiana                        15
-Maine                             8
-Maryland                         11
+Louisiana                        11
+Maine                             6
+Maryland                         12
 Massachusetts                     7
-Michigan                          6
+Michigan                         10
 Minnesota                         6
-Mississippi                      79
-Missouri                         14
-Montana                           8
-Nebraska                          5
-Nevada                            3
-New Hampshire                     5
-New Jersey                       12
-New Mexico                        1
-New York                          8
-North Carolina                    8
-North Dakota                      7
-Ohio                              6
-Oklahoma                          9
-Oregon                            5
-Pennsylvania                     19
-Rhode Island                      9
-South Carolina                    7
-Tennessee                        18
-Texas                            15
-Utah                              8
-Virginia                          7
+Mississippi                      96
+Missouri                         15
+Montana                          10
+Nebraska                          7
+Nevada                           12
+New Jersey                       16
+New Mexico                        3
+New York                         12
+North Carolina                   11
+North Dakota                      4
+Ohio                              9
+Oklahoma                         15
+Oregon                            7
+Pennsylvania                     23
+Rhode Island                     11
+South Carolina                    8
+Tennessee                        25
+Texas                            18
+Utah                              9
+Virginia                         11
 Washington                        5
-West Virginia                     7
-Wisconsin                         7
+West Virginia                     9
+Wisconsin                        11

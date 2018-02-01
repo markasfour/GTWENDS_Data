@@ -1,0 +1,53 @@
+                      Mika
+geoName                   
+Alabama                 44
+Alaska                  50
+Arizona                 48
+Arkansas                42
+California              61
+Colorado                46
+Connecticut             72
+Delaware                61
+District of Columbia    70
+Florida                 52
+Georgia                 45
+Hawaii                 100
+Idaho                   55
+Illinois                51
+Indiana                 45
+Iowa                    44
+Kansas                  55
+Kentucky                38
+Louisiana               43
+Maine                   61
+Maryland                65
+Massachusetts           66
+Michigan                56
+Minnesota               49
+Mississippi             38
+Missouri                46
+Montana                 43
+Nebraska                42
+Nevada                  56
+New Hampshire           54
+New Jersey              72
+New Mexico              42
+New York                72
+North Carolina          47
+North Dakota            44
+Ohio                    49
+Oklahoma                41
+Oregon                  64
+Pennsylvania            58
+Rhode Island            71
+South Carolina          44
+South Dakota            35
+Tennessee               42
+Texas                   45
+Utah                    78
+Vermont                 68
+Virginia                70
+Washington              62
+West Virginia           46
+Wisconsin               47
+Wyoming                 35

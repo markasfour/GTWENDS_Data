@@ -1,0 +1,53 @@
+                      FB Stock
+geoName                       
+Alabama                     28
+Alaska                      23
+Arizona                     38
+Arkansas                    26
+California                  90
+Colorado                    38
+Connecticut                 69
+Delaware                    42
+District of Columbia        65
+Florida                     62
+Georgia                     41
+Hawaii                      66
+Idaho                       26
+Illinois                    56
+Indiana                     29
+Iowa                        39
+Kansas                      31
+Kentucky                    28
+Louisiana                   29
+Maine                       43
+Maryland                    52
+Massachusetts               69
+Michigan                    44
+Minnesota                   41
+Mississippi                 21
+Missouri                    37
+Montana                     36
+Nebraska                    40
+Nevada                      48
+New Hampshire               49
+New Jersey                  95
+New Mexico                  24
+New York                   100
+North Carolina              38
+North Dakota                27
+Ohio                        34
+Oklahoma                    29
+Oregon                      35
+Pennsylvania                51
+Rhode Island                47
+South Carolina              33
+South Dakota                33
+Tennessee                   35
+Texas                       38
+Utah                        33
+Vermont                     53
+Virginia                    44
+Washington                  81
+West Virginia               25
+Wisconsin                   36
+Wyoming                     34
