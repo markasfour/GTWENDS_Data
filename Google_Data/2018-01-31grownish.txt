@@ -1,0 +1,51 @@
+                      grownish
+geoName                       
+Alabama                     63
+Alaska                      37
+Arizona                     24
+Arkansas                    34
+California                  40
+Colorado                    27
+Connecticut                 48
+Delaware                    51
+District of Columbia        34
+Florida                     41
+Georgia                     62
+Hawaii                      31
+Idaho                       18
+Illinois                    35
+Indiana                     49
+Iowa                        19
+Kansas                      37
+Kentucky                    36
+Louisiana                   43
+Maine                       46
+Maryland                   100
+Massachusetts               39
+Michigan                    50
+Minnesota                   22
+Mississippi                 81
+Missouri                    42
+Montana                     10
+Nebraska                    17
+Nevada                      32
+New Hampshire               31
+New Jersey                  51
+New Mexico                  22
+New York                    54
+North Carolina              60
+North Dakota                13
+Ohio                        46
+Oklahoma                    15
+Oregon                      27
+Pennsylvania                37
+Rhode Island                50
+South Carolina              43
+Tennessee                   41
+Texas                       38
+Utah                        19
+Vermont                     26
+Virginia                    38
+Washington                  25
+West Virginia                7
+Wisconsin                   25

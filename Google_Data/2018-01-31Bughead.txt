@@ -1,0 +1,37 @@
+                      Bughead
+geoName                      
+Alabama                    60
+Arizona                    44
+California                 61
+Colorado                   70
+Connecticut                79
+District of Columbia       35
+Florida                    54
+Georgia                    60
+Illinois                   61
+Indiana                    57
+Iowa                       40
+Kansas                     55
+Kentucky                   51
+Louisiana                  35
+Maryland                   96
+Massachusetts              65
+Michigan                   66
+Minnesota                  58
+Missouri                   77
+Nebraska                   87
+Nevada                     41
+New Jersey                100
+New York                   74
+North Carolina             57
+Ohio                       53
+Oklahoma                   25
+Oregon                     40
+Pennsylvania               63
+South Carolina             51
+Tennessee                  38
+Texas                      56
+Utah                       64
+Virginia                   65
+Washington                 68
+Wisconsin                  57

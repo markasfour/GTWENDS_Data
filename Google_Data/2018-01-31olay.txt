@@ -1,0 +1,53 @@
+                      olay
+geoName                   
+Alabama                 79
+Alaska                  60
+Arizona                 79
+Arkansas                73
+California              92
+Colorado                71
+Connecticut             89
+Delaware                92
+District of Columbia    79
+Florida                 83
+Georgia                 82
+Hawaii                  90
+Idaho                   71
+Illinois                86
+Indiana                 75
+Iowa                    64
+Kansas                  79
+Kentucky                83
+Louisiana               91
+Maine                   69
+Maryland                87
+Massachusetts           78
+Michigan                78
+Minnesota               71
+Mississippi             77
+Missouri                72
+Montana                 59
+Nebraska                69
+Nevada                  98
+New Hampshire           73
+New Jersey             100
+New Mexico              75
+New York                96
+North Carolina          79
+North Dakota            79
+Ohio                    91
+Oklahoma                82
+Oregon                  64
+Pennsylvania            85
+Rhode Island            86
+South Carolina          77
+South Dakota            59
+Tennessee               78
+Texas                   82
+Utah                    63
+Vermont                 67
+Virginia                89
+Washington              76
+West Virginia           84
+Wisconsin               67
+Wyoming                 60
