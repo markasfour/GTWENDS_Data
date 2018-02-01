@@ -1,53 +1,53 @@
                       Ms13
 geoName                   
-Alabama                 26
-Alaska                  39
-Arizona                 48
-Arkansas                37
-California              55
-Colorado                36
-Connecticut             43
-Delaware                35
-District of Columbia    88
-Florida                 37
-Georgia                 31
-Hawaii                  47
-Idaho                   25
-Illinois                26
-Indiana                 26
-Iowa                    29
-Kansas                  33
-Kentucky                27
-Louisiana               24
+Alabama                 33
+Alaska                  34
+Arizona                 47
+Arkansas                31
+California              57
+Colorado                43
+Connecticut             48
+Delaware                30
+District of Columbia    98
+Florida                 43
+Georgia                 39
+Hawaii                  57
+Idaho                   40
+Illinois                33
+Indiana                 36
+Iowa                    37
+Kansas                  31
+Kentucky                33
+Louisiana               31
 Maine                   36
 Maryland               100
 Massachusetts           54
-Michigan                28
-Minnesota               28
-Mississippi             28
-Missouri                32
-Montana                 38
+Michigan                30
+Minnesota               30
+Mississippi             38
+Missouri                29
+Montana                 23
 Nebraska                36
-Nevada                  51
-New Hampshire           34
-New Jersey              48
-New Mexico              46
-New York                66
-North Carolina          47
-North Dakota            38
-Ohio                    30
+Nevada                  46
+New Hampshire           32
+New Jersey              59
+New Mexico              42
+New York                77
+North Carolina          46
+North Dakota            29
+Ohio                    33
 Oklahoma                36
-Oregon                  25
-Pennsylvania            30
-Rhode Island            34
-South Carolina          34
-South Dakota            30
-Tennessee               29
-Texas                   48
-Utah                    31
-Vermont                 36
-Virginia                74
-Washington              34
-West Virginia           38
-Wisconsin               24
-Wyoming                 41
+Oregon                  27
+Pennsylvania            36
+Rhode Island            58
+South Carolina          35
+South Dakota            23
+Tennessee               41
+Texas                   50
+Utah                    28
+Vermont                 43
+Virginia                79
+Washington              36
+West Virginia           39
+Wisconsin               29
+Wyoming                 51

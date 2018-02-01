@@ -1,0 +1,53 @@
+                      Amtrak
+geoName                     
+Alabama                   14
+Alaska                    11
+Arizona                   16
+Arkansas                  15
+California                46
+Colorado                  22
+Connecticut               63
+Delaware                  79
+District of Columbia     100
+Florida                   24
+Georgia                   18
+Hawaii                    15
+Idaho                     13
+Illinois                  54
+Indiana                   22
+Iowa                      23
+Kansas                    24
+Kentucky                  12
+Louisiana                 20
+Maine                     54
+Maryland                  66
+Massachusetts             57
+Michigan                  35
+Minnesota                 23
+Mississippi               22
+Missouri                  38
+Montana                   39
+Nebraska                  23
+Nevada                    20
+New Hampshire             39
+New Jersey                42
+New Mexico                30
+New York                  65
+North Carolina            35
+North Dakota              50
+Ohio                      15
+Oklahoma                  15
+Oregon                    41
+Pennsylvania              58
+Rhode Island              84
+South Carolina            26
+South Dakota              12
+Tennessee                 14
+Texas                     13
+Utah                      14
+Vermont                   61
+Virginia                  56
+Washington                46
+West Virginia             24
+Wisconsin                 36
+Wyoming                   12

@@ -1,29 +1,28 @@
-                      BellLetsTalk
-geoName                           
-Arizona                         13
-California                      16
-Colorado                        14
-Connecticut                     48
-District of Columbia            49
-Florida                         12
-Georgia                          7
-Illinois                        20
-Indiana                          9
-Iowa                            17
-Maryland                        29
-Massachusetts                   71
-Michigan                        40
-Minnesota                       78
-Missouri                         7
-New Hampshire                  100
-New Jersey                      40
-New York                        46
-North Carolina                  17
-Ohio                            26
-Pennsylvania                    46
-Rhode Island                    39
-Tennessee                       21
-Texas                            9
-Virginia                        11
-Washington                      21
-Wisconsin                       49
+                BellLetsTalk
+geoName                     
+Arizona                    6
+California                12
+Colorado                  31
+Florida                    9
+Georgia                    6
+Illinois                  27
+Indiana                   30
+Iowa                      15
+Maine                     63
+Maryland                  19
+Massachusetts             67
+Michigan                  82
+Minnesota                100
+Missouri                  13
+New Hampshire             29
+New Jersey                15
+New York                  35
+North Carolina            15
+Ohio                      26
+Pennsylvania              55
+Rhode Island              68
+Tennessee                  6
+Texas                      8
+Virginia                   3
+Washington                19
+Wisconsin                 49

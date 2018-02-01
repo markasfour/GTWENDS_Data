@@ -1,0 +1,53 @@
+                      Dumbledore
+geoName                         
+Alabama                       58
+Alaska                        69
+Arizona                       51
+Arkansas                      69
+California                    56
+Colorado                      62
+Connecticut                   61
+Delaware                      49
+District of Columbia          53
+Florida                       55
+Georgia                       50
+Hawaii                        64
+Idaho                         77
+Illinois                      56
+Indiana                       67
+Iowa                          65
+Kansas                        57
+Kentucky                      67
+Louisiana                     52
+Maine                         77
+Maryland                      53
+Massachusetts                 62
+Michigan                      60
+Minnesota                     60
+Mississippi                   50
+Missouri                      65
+Montana                       67
+Nebraska                      71
+Nevada                        56
+New Hampshire                 65
+New Jersey                    55
+New Mexico                    53
+New York                      49
+North Carolina                57
+North Dakota                  64
+Ohio                          64
+Oklahoma                      55
+Oregon                        52
+Pennsylvania                  62
+Rhode Island                  56
+South Carolina                52
+South Dakota                  58
+Tennessee                     60
+Texas                         50
+Utah                         100
+Vermont                       85
+Virginia                      50
+Washington                    63
+West Virginia                 72
+Wisconsin                     61
+Wyoming                       60

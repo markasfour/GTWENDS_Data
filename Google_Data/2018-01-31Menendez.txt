@@ -1,0 +1,53 @@
+                      Menendez
+geoName                       
+Alabama                     44
+Alaska                      31
+Arizona                     44
+Arkansas                    40
+California                  51
+Colorado                    43
+Connecticut                 46
+Delaware                    55
+District of Columbia        81
+Florida                     72
+Georgia                     40
+Hawaii                      33
+Idaho                       34
+Illinois                    48
+Indiana                     41
+Iowa                        37
+Kansas                      35
+Kentucky                    41
+Louisiana                   46
+Maine                       30
+Maryland                    48
+Massachusetts               40
+Michigan                    38
+Minnesota                   39
+Mississippi                 41
+Missouri                    40
+Montana                     40
+Nebraska                    38
+Nevada                      45
+New Hampshire               36
+New Jersey                 100
+New Mexico                  52
+New York                    51
+North Carolina              40
+North Dakota                43
+Ohio                        42
+Oklahoma                    43
+Oregon                      29
+Pennsylvania                50
+Rhode Island                46
+South Carolina              37
+South Dakota                32
+Tennessee                   41
+Texas                       47
+Utah                        32
+Vermont                     41
+Virginia                    35
+Washington                  34
+West Virginia               41
+Wisconsin                   36
+Wyoming                     32

@@ -1,0 +1,47 @@
+                      FOMC
+geoName                   
+Alabama                 43
+Arizona                 31
+Arkansas                22
+California              39
+Colorado                40
+Connecticut             52
+Delaware                44
+District of Columbia    98
+Florida                 24
+Georgia                 31
+Hawaii                  32
+Idaho                   35
+Illinois                50
+Indiana                 27
+Iowa                    29
+Kansas                  34
+Kentucky                21
+Louisiana               23
+Maine                   36
+Maryland                42
+Massachusetts           54
+Michigan                27
+Minnesota               39
+Mississippi             20
+Missouri                37
+Nebraska                29
+Nevada                  21
+New Hampshire           40
+New Jersey              53
+New Mexico              30
+New York               100
+North Carolina          34
+Ohio                    29
+Oklahoma                23
+Oregon                  18
+Pennsylvania            39
+Rhode Island            36
+South Carolina          18
+Tennessee               25
+Texas                   29
+Utah                    27
+Virginia                37
+Washington              27
+West Virginia            8
+Wisconsin               33

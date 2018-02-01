@@ -1,53 +1,53 @@
                       Joe Kennedy
 geoName                          
-Alabama                        22
-Alaska                         17
-Arizona                        23
-Arkansas                       22
+Alabama                        20
+Alaska                         16
+Arizona                        20
+Arkansas                       21
 California                     22
-Colorado                       20
-Connecticut                    31
-Delaware                       31
-District of Columbia           76
-Florida                        20
-Georgia                        19
-Hawaii                         17
+Colorado                       19
+Connecticut                    36
+Delaware                       37
+District of Columbia           79
+Florida                        21
+Georgia                        22
+Hawaii                         15
 Idaho                          19
 Illinois                       25
-Indiana                        22
-Iowa                           24
-Kansas                         15
-Kentucky                       22
-Louisiana                      17
-Maine                          44
-Maryland                       33
+Indiana                        24
+Iowa                           26
+Kansas                         20
+Kentucky                       21
+Louisiana                      20
+Maine                          33
+Maryland                       34
 Massachusetts                 100
-Michigan                       23
-Minnesota                      29
-Mississippi                    21
-Missouri                       21
-Montana                        20
+Michigan                       25
+Minnesota                      26
+Mississippi                    19
+Missouri                       22
+Montana                        23
 Nebraska                       23
-Nevada                         16
-New Hampshire                  42
-New Jersey                     30
-New Mexico                     23
-New York                       33
-North Carolina                 23
-North Dakota                   19
-Ohio                           23
-Oklahoma                       20
-Oregon                         24
-Pennsylvania                   27
-Rhode Island                   47
-South Carolina                 19
-South Dakota                   24
-Tennessee                      23
-Texas                          17
-Utah                           11
-Vermont                        53
-Virginia                       26
-Washington                     29
-West Virginia                  30
-Wisconsin                      22
-Wyoming                        11
+Nevada                         20
+New Hampshire                  53
+New Jersey                     31
+New Mexico                     26
+New York                       31
+North Carolina                 20
+North Dakota                   20
+Ohio                           22
+Oklahoma                       21
+Oregon                         19
+Pennsylvania                   28
+Rhode Island                   41
+South Carolina                 20
+South Dakota                   21
+Tennessee                      22
+Texas                          18
+Utah                           17
+Vermont                        36
+Virginia                       25
+Washington                     27
+West Virginia                  24
+Wisconsin                      19
+Wyoming                        15

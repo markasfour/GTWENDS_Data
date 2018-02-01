@@ -1,0 +1,53 @@
+                      Greenbrier
+geoName                         
+Alabama                        4
+Alaska                         1
+Arizona                        1
+Arkansas                      39
+California                     1
+Colorado                       1
+Connecticut                    1
+Delaware                       2
+District of Columbia          12
+Florida                        2
+Georgia                        5
+Hawaii                         1
+Idaho                          1
+Illinois                       2
+Indiana                        2
+Iowa                           2
+Kansas                         2
+Kentucky                       5
+Louisiana                      3
+Maine                          1
+Maryland                       6
+Massachusetts                  1
+Michigan                       1
+Minnesota                      1
+Mississippi                    2
+Missouri                       2
+Montana                        1
+Nebraska                       1
+Nevada                         1
+New Hampshire                  1
+New Jersey                     2
+New Mexico                     1
+New York                       1
+North Carolina                 5
+North Dakota                   1
+Ohio                           3
+Oklahoma                       3
+Oregon                         1
+Pennsylvania                   3
+Rhode Island                   2
+South Carolina                 5
+South Dakota                   1
+Tennessee                     13
+Texas                          2
+Utah                           1
+Vermont                        1
+Virginia                      32
+Washington                     1
+West Virginia                100
+Wisconsin                      2
+Wyoming                        1

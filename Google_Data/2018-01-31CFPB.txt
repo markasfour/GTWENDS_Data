@@ -1,0 +1,53 @@
+                      CFPB
+geoName                   
+Alabama                 13
+Alaska                  10
+Arizona                  9
+Arkansas                10
+California              10
+Colorado                10
+Connecticut             11
+Delaware                15
+District of Columbia   100
+Florida                  8
+Georgia                 10
+Hawaii                   8
+Idaho                    6
+Illinois                11
+Indiana                  9
+Iowa                    10
+Kansas                   8
+Kentucky                 8
+Louisiana                8
+Maine                   12
+Maryland                24
+Massachusetts           10
+Michigan                10
+Minnesota               14
+Mississippi              7
+Missouri                11
+Montana                 10
+Nebraska                12
+Nevada                   8
+New Hampshire            9
+New Jersey               9
+New Mexico               8
+New York                13
+North Carolina          11
+North Dakota             9
+Ohio                    11
+Oklahoma                 9
+Oregon                   6
+Pennsylvania            10
+Rhode Island            14
+South Carolina          10
+South Dakota            11
+Tennessee                9
+Texas                    9
+Utah                    13
+Vermont                  7
+Virginia                21
+Washington               8
+West Virginia            7
+Wisconsin                9
+Wyoming                 11

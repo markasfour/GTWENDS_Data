@@ -1,53 +1,53 @@
                       Mark Salling
 geoName                           
-Alabama                         50
-Alaska                          61
-Arizona                         88
-Arkansas                        66
+Alabama                         63
+Alaska                          69
+Arizona                         95
+Arkansas                        46
 California                     100
-Colorado                        54
-Connecticut                     76
-Delaware                        63
-District of Columbia            62
-Florida                         68
-Georgia                         56
-Hawaii                          69
-Idaho                           69
-Illinois                        79
-Indiana                         63
-Iowa                            87
-Kansas                          57
-Kentucky                        64
-Louisiana                       61
-Maine                           87
-Maryland                        71
-Massachusetts                   77
+Colorado                        60
+Connecticut                     73
+Delaware                        80
+District of Columbia            77
+Florida                         71
+Georgia                         58
+Hawaii                          74
+Idaho                           60
+Illinois                        80
+Indiana                         71
+Iowa                            62
+Kansas                          52
+Kentucky                        56
+Louisiana                       57
+Maine                           75
+Maryland                        69
+Massachusetts                   76
 Michigan                        67
-Minnesota                       67
-Mississippi                     62
-Missouri                        76
-Montana                         65
-Nebraska                        80
-Nevada                          70
-New Hampshire                   73
-New Jersey                      93
-New Mexico                      68
-New York                        85
-North Carolina                  58
-North Dakota                    92
-Ohio                            67
-Oklahoma                        73
-Oregon                          59
-Pennsylvania                    71
-Rhode Island                    84
+Minnesota                       73
+Mississippi                     53
+Missouri                        59
+Montana                         81
+Nebraska                        68
+Nevada                          66
+New Hampshire                   70
+New Jersey                      80
+New Mexico                      76
+New York                        83
+North Carolina                  64
+North Dakota                    71
+Ohio                            74
+Oklahoma                        66
+Oregon                          66
+Pennsylvania                    76
+Rhode Island                    86
 South Carolina                  53
-South Dakota                    95
-Tennessee                       62
-Texas                           71
-Utah                            72
-Vermont                         91
-Virginia                        56
-Washington                      72
-West Virginia                   71
-Wisconsin                       73
-Wyoming                         33
+South Dakota                    49
+Tennessee                       59
+Texas                           77
+Utah                            61
+Vermont                         68
+Virginia                        59
+Washington                      74
+West Virginia                   74
+Wisconsin                       61
+Wyoming                         67

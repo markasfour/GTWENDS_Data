@@ -11,7 +11,7 @@ FL 15
 GA 15
 HI 0
 ID 1
-IL 15
+IL 7
 IN 3
 IA 0
 KS 1
@@ -30,13 +30,13 @@ NV 0
 NH 0
 NJ 15
 NM 0
-NY 2
+NY 4
 NC 15
 ND 1
 OH 15
-OK 4
+OK 6
 OR 0
-PA 3
+PA 7
 RI 15
 SC 15
 SD 0
@@ -45,7 +45,7 @@ TX 15
 UT 1
 VT 0
 VA 15
-WA 11
+WA 13
 WV 0
 WI 15
 WY 0
