@@ -1,0 +1,53 @@
+                      Superstore
+geoName                         
+Alabama                       20
+Alaska                        12
+Arizona                       34
+Arkansas                      20
+California                    15
+Colorado                      24
+Connecticut                   13
+Delaware                      12
+District of Columbia          14
+Florida                       20
+Georgia                       30
+Hawaii                        11
+Idaho                         22
+Illinois                      23
+Indiana                       20
+Iowa                          25
+Kansas                        18
+Kentucky                      38
+Louisiana                     16
+Maine                         32
+Maryland                      13
+Massachusetts                 15
+Michigan                      16
+Minnesota                     20
+Mississippi                   18
+Missouri                      31
+Montana                       14
+Nebraska                      21
+Nevada                        23
+New Hampshire                 27
+New Jersey                    15
+New Mexico                    26
+New York                      13
+North Carolina                19
+North Dakota                  15
+Ohio                          25
+Oklahoma                      20
+Oregon                        14
+Pennsylvania                  15
+Rhode Island                  17
+South Carolina                23
+South Dakota                  16
+Tennessee                     18
+Texas                         17
+Utah                          16
+Vermont                       42
+Virginia                      12
+Washington                    16
+West Virginia                100
+Wisconsin                     17
+Wyoming                       19

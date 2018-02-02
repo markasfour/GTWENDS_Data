@@ -1,0 +1,46 @@
+                      Adyen
+geoName                    
+Alabama                  10
+Arizona                  26
+Arkansas                  4
+California              100
+Colorado                 41
+Connecticut              25
+Delaware                 53
+District of Columbia     53
+Florida                  25
+Georgia                  25
+Hawaii                    6
+Idaho                    32
+Illinois                 35
+Indiana                  12
+Iowa                      3
+Kansas                   28
+Kentucky                  7
+Louisiana                12
+Maine                    28
+Maryland                 22
+Massachusetts            39
+Michigan                 14
+Minnesota                23
+Mississippi               9
+Missouri                 14
+Montana                  11
+Nebraska                  4
+Nevada                   42
+New Hampshire            26
+New Jersey               38
+New York                 74
+North Carolina           61
+Ohio                     14
+Oklahoma                  5
+Oregon                   24
+Pennsylvania             18
+Rhode Island             15
+South Carolina           13
+Tennessee                21
+Texas                    23
+Utah                     41
+Virginia                 18
+Washington               29
+Wisconsin                14

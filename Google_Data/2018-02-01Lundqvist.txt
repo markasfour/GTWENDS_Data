@@ -1,0 +1,51 @@
+                      Lundqvist
+geoName                        
+Alabama                       5
+Alaska                       10
+Arizona                       9
+California                   10
+Colorado                     13
+Connecticut                  69
+Delaware                     25
+District of Columbia         33
+Florida                      13
+Georgia                       7
+Hawaii                        7
+Idaho                         4
+Illinois                     14
+Indiana                       7
+Iowa                          6
+Kansas                        4
+Kentucky                      5
+Louisiana                     5
+Maine                        27
+Maryland                     18
+Massachusetts                35
+Michigan                     15
+Minnesota                    18
+Mississippi                   4
+Missouri                     10
+Montana                      14
+Nebraska                      8
+Nevada                       11
+New Hampshire                29
+New Jersey                   85
+New Mexico                    3
+New York                    100
+North Carolina               11
+North Dakota                 15
+Ohio                          9
+Oklahoma                      5
+Oregon                        4
+Pennsylvania                 34
+Rhode Island                 29
+South Carolina                8
+South Dakota                  7
+Tennessee                     7
+Texas                         6
+Utah                          7
+Vermont                      29
+Virginia                     16
+Washington                    7
+West Virginia                10
+Wisconsin                    11

@@ -1,48 +1,45 @@
                       Rasual Butler
 geoName                            
-Alabama                          21
-Alaska                           23
-Arizona                          18
-Arkansas                         23
-California                       27
-Colorado                         16
-Connecticut                      24
-Delaware                         56
+Alabama                          14
+Alaska                           19
+Arizona                           2
+Arkansas                         13
+California                       24
+Colorado                         13
+Delaware                         30
 District of Columbia            100
 Florida                          31
-Georgia                          18
-Hawaii                           56
-Idaho                            11
-Illinois                         29
-Indiana                          64
-Iowa                             17
-Kansas                           10
-Kentucky                         16
-Louisiana                        12
-Maryland                         78
-Massachusetts                    14
-Michigan                         26
+Georgia                          16
+Hawaii                           31
+Idaho                            18
+Illinois                         27
+Indiana                          50
+Iowa                              9
+Kansas                           24
+Kentucky                         17
+Louisiana                        27
+Maine                            10
+Maryland                         58
+Massachusetts                    24
+Michigan                         11
 Minnesota                        29
-Mississippi                      15
-Missouri                         20
-Montana                          19
-Nebraska                         23
-Nevada                           34
-New Jersey                       33
-New Mexico                       10
-New York                         24
-North Carolina                   17
-Ohio                              9
-Oklahoma                         27
-Oregon                            8
-Pennsylvania                     64
-South Carolina                   22
-South Dakota                     47
-Tennessee                        19
-Texas                            46
-Utah                             15
-Vermont                          72
-Virginia                         44
-Washington                       12
-West Virginia                    38
-Wisconsin                         5
+Mississippi                      19
+Missouri                         12
+Nebraska                         19
+Nevada                           24
+New Jersey                       22
+New York                         22
+North Carolina                   16
+Ohio                             19
+Oklahoma                         19
+Oregon                           21
+Pennsylvania                     48
+Rhode Island                     21
+South Carolina                    6
+Tennessee                        14
+Texas                            38
+Utah                             12
+Virginia                         34
+Washington                        7
+West Virginia                    10
+Wisconsin                        13

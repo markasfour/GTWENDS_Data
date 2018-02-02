@@ -1,53 +1,53 @@
                       Langston Hughes
 geoName                              
-Alabama                            93
-Alaska                             44
-Arizona                            33
+Alabama                            86
+Alaska                             27
+Arizona                            32
 Arkansas                           64
-California                         45
+California                         41
 Colorado                           38
-Connecticut                        64
-Delaware                           57
+Connecticut                        63
+Delaware                           53
 District of Columbia               55
-Florida                            44
+Florida                            42
 Georgia                           100
-Hawaii                             34
-Idaho                              30
-Illinois                           54
-Indiana                            54
-Iowa                               42
-Kansas                             61
-Kentucky                           41
-Louisiana                          81
-Maine                              50
-Maryland                           78
-Massachusetts                      53
+Hawaii                             29
+Idaho                              24
+Illinois                           51
+Indiana                            50
+Iowa                               41
+Kansas                             60
+Kentucky                           40
+Louisiana                          84
+Maine                              48
+Maryland                           74
+Massachusetts                      51
 Michigan                           42
 Minnesota                          43
-Mississippi                        91
-Missouri                           51
-Montana                            30
-Nebraska                           33
-Nevada                             37
+Mississippi                        92
+Missouri                           50
+Montana                            29
+Nebraska                           30
+Nevada                             34
 New Hampshire                      35
-New Jersey                         68
-New Mexico                         41
-New York                           61
-North Carolina                     69
-North Dakota                       29
-Ohio                               49
-Oklahoma                           42
-Oregon                             24
-Pennsylvania                       55
-Rhode Island                       45
-South Carolina                     79
-South Dakota                       47
-Tennessee                          49
-Texas                              42
-Utah                               26
-Vermont                            51
-Virginia                           65
-Washington                         42
-West Virginia                      41
+New Jersey                         64
+New Mexico                         42
+New York                           59
+North Carolina                     67
+North Dakota                       25
+Ohio                               47
+Oklahoma                           45
+Oregon                             23
+Pennsylvania                       53
+Rhode Island                       50
+South Carolina                     78
+South Dakota                       35
+Tennessee                          51
+Texas                              41
+Utah                               28
+Vermont                            52
+Virginia                           61
+Washington                         39
+West Virginia                      42
 Wisconsin                          43
-Wyoming                            38
+Wyoming                            32

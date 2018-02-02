@@ -1,53 +1,53 @@
                       February
 geoName                       
-Alabama                     80
-Alaska                      81
-Arizona                     80
-Arkansas                    78
-California                  78
-Colorado                    76
-Connecticut                 91
-Delaware                    91
+Alabama                     79
+Alaska                      79
+Arizona                     76
+Arkansas                    79
+California                  79
+Colorado                    74
+Connecticut                 85
+Delaware                    81
 District of Columbia        93
-Florida                     75
-Georgia                     78
+Florida                     79
+Georgia                     79
 Hawaii                      83
-Idaho                       75
-Illinois                    84
-Indiana                     84
-Iowa                        88
+Idaho                       76
+Illinois                    85
+Indiana                     83
+Iowa                        89
 Kansas                      71
-Kentucky                    77
-Louisiana                   81
-Maine                       99
-Maryland                    88
-Massachusetts              100
+Kentucky                    78
+Louisiana                   83
+Maine                       96
+Maryland                    92
+Massachusetts               97
 Michigan                    85
-Minnesota                   84
+Minnesota                   82
 Mississippi                 75
-Missouri                    80
-Montana                     80
-Nebraska                    83
-Nevada                      75
-New Hampshire               95
-New Jersey                  92
-New Mexico                  78
-New York                    94
-North Carolina              76
-North Dakota                82
-Ohio                        81
+Missouri                    83
+Montana                     83
+Nebraska                    80
+Nevada                      73
+New Hampshire               97
+New Jersey                  89
+New Mexico                  76
+New York                    98
+North Carolina              77
+North Dakota                86
+Ohio                        79
 Oklahoma                    75
 Oregon                      63
-Pennsylvania                92
-Rhode Island                91
-South Carolina              77
+Pennsylvania                87
+Rhode Island                97
+South Carolina              72
 South Dakota                84
 Tennessee                   76
-Texas                       70
-Utah                        82
-Vermont                     98
-Virginia                    79
-Washington                  78
-West Virginia               75
-Wisconsin                   84
-Wyoming                     69
+Texas                       71
+Utah                        81
+Vermont                    100
+Virginia                    75
+Washington                  79
+West Virginia               81
+Wisconsin                   87
+Wyoming                     72

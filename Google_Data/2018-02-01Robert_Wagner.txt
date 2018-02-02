@@ -1,53 +1,53 @@
                       Robert Wagner
 geoName                            
-Alabama                          61
-Alaska                           51
-Arizona                          73
-Arkansas                         66
-California                       65
-Colorado                         65
-Connecticut                      72
-Delaware                         72
-District of Columbia             67
-Florida                          72
-Georgia                          60
-Hawaii                           52
-Idaho                            77
-Illinois                         70
-Indiana                          74
-Iowa                             64
-Kansas                           57
-Kentucky                         73
-Louisiana                        64
-Maine                            67
-Maryland                         72
-Massachusetts                    69
-Michigan                         70
-Minnesota                        64
-Mississippi                      56
-Missouri                         80
-Montana                          52
-Nebraska                         83
+Alabama                          55
+Alaska                           61
+Arizona                          72
+Arkansas                         51
+California                       63
+Colorado                         58
+Connecticut                      74
+Delaware                         77
+District of Columbia             66
+Florida                          68
+Georgia                          58
+Hawaii                           62
+Idaho                            59
+Illinois                         69
+Indiana                          68
+Iowa                             59
+Kansas                           61
+Kentucky                         76
+Louisiana                        59
+Maine                            63
+Maryland                         66
+Massachusetts                    61
+Michigan                         64
+Minnesota                        63
+Mississippi                      59
+Missouri                         75
+Montana                          56
+Nebraska                         82
 Nevada                           79
-New Hampshire                    64
-New Jersey                       83
-New Mexico                       84
+New Hampshire                    63
+New Jersey                       78
+New Mexico                       78
 New York                        100
-North Carolina                   58
-North Dakota                     40
-Ohio                             75
-Oklahoma                         74
+North Carolina                   48
+North Dakota                     52
+Ohio                             65
+Oklahoma                         79
 Oregon                           59
-Pennsylvania                     83
-Rhode Island                     81
-South Carolina                   74
-South Dakota                     60
-Tennessee                        71
-Texas                            58
-Utah                             65
-Vermont                          58
-Virginia                         56
-Washington                       72
-West Virginia                    64
-Wisconsin                        71
-Wyoming                          85
+Pennsylvania                     77
+Rhode Island                     63
+South Carolina                   69
+South Dakota                     56
+Tennessee                        62
+Texas                            56
+Utah                             60
+Vermont                          50
+Virginia                         54
+Washington                       64
+West Virginia                    63
+Wisconsin                        64
+Wyoming                          62

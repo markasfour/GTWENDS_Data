@@ -1,0 +1,53 @@
+                      Danny Green
+geoName                          
+Alabama                        35
+Alaska                         24
+Arizona                        29
+Arkansas                       31
+California                     33
+Colorado                       27
+Connecticut                    35
+Delaware                       23
+District of Columbia           45
+Florida                        36
+Georgia                        37
+Hawaii                         33
+Idaho                          20
+Illinois                       38
+Indiana                        35
+Iowa                           28
+Kansas                         32
+Kentucky                       42
+Louisiana                      41
+Maine                          18
+Maryland                       41
+Massachusetts                  34
+Michigan                       32
+Minnesota                      35
+Mississippi                    40
+Missouri                       32
+Montana                        31
+Nebraska                       23
+Nevada                         30
+New Hampshire                  23
+New Jersey                     37
+New Mexico                     35
+New York                       53
+North Carolina                 70
+North Dakota                   24
+Ohio                           46
+Oklahoma                       32
+Oregon                         19
+Pennsylvania                   33
+Rhode Island                   27
+South Carolina                 34
+South Dakota                   23
+Tennessee                      30
+Texas                         100
+Utah                           21
+Vermont                        26
+Virginia                       32
+Washington                     25
+West Virginia                  25
+Wisconsin                      34
+Wyoming                        24

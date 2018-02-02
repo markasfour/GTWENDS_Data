@@ -1,0 +1,53 @@
+                      Dunk Contest
+geoName                           
+Alabama                         61
+Alaska                          44
+Arizona                         57
+Arkansas                        70
+California                      59
+Colorado                        50
+Connecticut                     73
+Delaware                        94
+District of Columbia            68
+Florida                         59
+Georgia                         74
+Hawaii                          55
+Idaho                           45
+Illinois                        76
+Indiana                        100
+Iowa                            70
+Kansas                          60
+Kentucky                        91
+Louisiana                       80
+Maine                           51
+Maryland                        68
+Massachusetts                   66
+Michigan                        78
+Minnesota                       73
+Mississippi                     84
+Missouri                        59
+Montana                         55
+Nebraska                        68
+Nevada                          54
+New Hampshire                   59
+New Jersey                      71
+New Mexico                      37
+New York                        72
+North Carolina                  73
+North Dakota                    75
+Ohio                            76
+Oklahoma                        74
+Oregon                          49
+Pennsylvania                    69
+Rhode Island                    58
+South Carolina                  68
+South Dakota                    75
+Tennessee                       70
+Texas                           59
+Utah                            69
+Vermont                         44
+Virginia                        58
+Washington                      52
+West Virginia                   66
+Wisconsin                       71
+Wyoming                         42

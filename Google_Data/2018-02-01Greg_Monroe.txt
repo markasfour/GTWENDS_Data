@@ -1,50 +1,50 @@
                       Greg Monroe
 geoName                          
-Alabama                        14
-Arizona                        29
+Alabama                        11
+Arizona                        28
 Arkansas                       12
-California                     22
-Colorado                        9
+California                     20
+Colorado                       13
 Connecticut                    25
-Delaware                       12
-District of Columbia           31
-Florida                        19
-Georgia                        25
-Hawaii                         12
-Idaho                           8
-Illinois                       29
-Indiana                        22
-Iowa                           16
-Kansas                          9
+Delaware                       11
+District of Columbia           29
+Florida                        18
+Georgia                        21
+Hawaii                         18
+Idaho                           6
+Illinois                       25
+Indiana                        17
+Iowa                           11
+Kansas                         12
 Kentucky                       17
-Louisiana                      60
+Louisiana                      51
 Maine                          19
-Maryland                       24
-Massachusetts                  27
-Michigan                       70
-Minnesota                      16
-Mississippi                    11
-Missouri                       16
+Maryland                       19
+Massachusetts                  23
+Michigan                       66
+Minnesota                      15
+Mississippi                    10
+Missouri                       15
 Montana                        10
-Nebraska                       12
-Nevada                         22
-New Hampshire                  12
+Nebraska                       11
+Nevada                         16
+New Hampshire                  19
 New Jersey                     23
-New Mexico                      7
-New York                       30
-North Carolina                 18
-Ohio                           24
-Oklahoma                       14
-Oregon                         18
+New Mexico                      5
+New York                       29
+North Carolina                 17
+Ohio                           22
+Oklahoma                       10
+Oregon                         17
 Pennsylvania                   20
-Rhode Island                   26
-South Carolina                 16
-South Dakota                   16
-Tennessee                      13
-Texas                          17
-Utah                            8
+Rhode Island                   15
+South Carolina                 13
+South Dakota                   21
+Tennessee                      11
+Texas                          15
+Utah                           12
 Vermont                         9
 Virginia                       17
-Washington                     15
-West Virginia                  17
+Washington                     13
+West Virginia                  11
 Wisconsin                     100

@@ -1,0 +1,16 @@
+               SwingTime
+geoName                 
+California            12
+Colorado              22
+Florida               14
+Georgia               11
+Illinois               7
+Maryland              33
+Massachusetts         13
+New Jersey            77
+New York              26
+Ohio                  24
+Pennsylvania          11
+Texas                 13
+Virginia               8
+Wisconsin            100
