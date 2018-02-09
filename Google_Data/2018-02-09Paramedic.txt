@@ -1,0 +1,53 @@
+                      Paramedic
+geoName                        
+Alabama                      57
+Alaska                      100
+Arizona                      62
+Arkansas                     66
+California                   54
+Colorado                     71
+Connecticut                  51
+Delaware                     59
+District of Columbia         40
+Florida                      65
+Georgia                      49
+Hawaii                       40
+Idaho                        77
+Illinois                     56
+Indiana                      55
+Iowa                         63
+Kansas                       53
+Kentucky                     58
+Louisiana                    54
+Maine                        55
+Maryland                     43
+Massachusetts                47
+Michigan                     49
+Minnesota                    43
+Mississippi                  55
+Missouri                     68
+Montana                      62
+Nebraska                     55
+Nevada                       63
+New Hampshire                60
+New Jersey                   33
+New Mexico                   77
+New York                     44
+North Carolina               60
+North Dakota                 78
+Ohio                         53
+Oklahoma                     60
+Oregon                       48
+Pennsylvania                 44
+Rhode Island                 50
+South Carolina               51
+South Dakota                 82
+Tennessee                    62
+Texas                        55
+Utah                         54
+Vermont                      50
+Virginia                     45
+Washington                   47
+West Virginia                64
+Wisconsin                    50
+Wyoming                      74

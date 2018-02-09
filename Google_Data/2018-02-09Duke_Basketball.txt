@@ -1,0 +1,53 @@
+                      Duke Basketball
+geoName                              
+Alabama                            10
+Alaska                              8
+Arizona                             6
+Arkansas                            8
+California                          4
+Colorado                            7
+Connecticut                         9
+Delaware                           13
+District of Columbia               17
+Florida                             8
+Georgia                            16
+Hawaii                              6
+Idaho                               7
+Illinois                            9
+Indiana                            12
+Iowa                                9
+Kansas                              9
+Kentucky                           25
+Louisiana                           7
+Maine                               9
+Maryland                           13
+Massachusetts                       8
+Michigan                            8
+Minnesota                           7
+Mississippi                        10
+Missouri                            9
+Montana                            12
+Nebraska                           13
+Nevada                              6
+New Hampshire                       7
+New Jersey                         10
+New Mexico                          7
+New York                           10
+North Carolina                    100
+North Dakota                       13
+Ohio                               11
+Oklahoma                            6
+Oregon                              4
+Pennsylvania                       13
+Rhode Island                        8
+South Carolina                     31
+South Dakota                       19
+Tennessee                          15
+Texas                               5
+Utah                                7
+Vermont                            11
+Virginia                           21
+Washington                          5
+West Virginia                      18
+Wisconsin                           9
+Wyoming                            11

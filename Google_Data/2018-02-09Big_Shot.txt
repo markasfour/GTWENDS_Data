@@ -1,0 +1,25 @@
+                Big Shot
+geoName                 
+Arizona               56
+California            57
+Colorado              65
+Florida               53
+Georgia               59
+Illinois              64
+Indiana               68
+Maryland              53
+Massachusetts         53
+Michigan              68
+Minnesota             65
+Missouri              66
+Nevada               100
+New Jersey            55
+New York              71
+North Carolina        59
+Ohio                  60
+Pennsylvania          91
+Tennessee             59
+Texas                 57
+Virginia              50
+Washington            53
+Wisconsin             68

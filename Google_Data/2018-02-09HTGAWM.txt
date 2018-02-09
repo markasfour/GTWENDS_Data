@@ -1,0 +1,52 @@
+                      HTGAWM
+geoName                     
+Alabama                   85
+Alaska                    51
+Arizona                   45
+Arkansas                  47
+California                59
+Colorado                  32
+Connecticut               73
+Delaware                  82
+District of Columbia      98
+Florida                   62
+Georgia                   71
+Hawaii                    50
+Idaho                     35
+Illinois                  57
+Indiana                   60
+Iowa                      48
+Kansas                    41
+Kentucky                  61
+Louisiana                 86
+Maine                     34
+Maryland                 100
+Massachusetts             69
+Michigan                  61
+Minnesota                 35
+Mississippi               71
+Missouri                  54
+Montana                   46
+Nebraska                  34
+Nevada                    65
+New Hampshire             59
+New Jersey                84
+New Mexico                42
+New York                  77
+North Carolina            77
+North Dakota              34
+Ohio                      62
+Oklahoma                  54
+Oregon                    33
+Pennsylvania              75
+Rhode Island              76
+South Carolina            65
+South Dakota              37
+Tennessee                 58
+Texas                     62
+Utah                      27
+Vermont                   38
+Virginia                  61
+Washington                50
+West Virginia             81
+Wisconsin                 41

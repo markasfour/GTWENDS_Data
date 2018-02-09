@@ -1,0 +1,53 @@
+                      School Closings
+geoName                              
+Alabama                            10
+Alaska                              0
+Arizona                             0
+Arkansas                           16
+California                          1
+Colorado                            5
+Connecticut                        25
+Delaware                           30
+District of Columbia               12
+Florida                             2
+Georgia                            11
+Hawaii                              0
+Idaho                               4
+Illinois                           13
+Indiana                            18
+Iowa                               12
+Kansas                             12
+Kentucky                           36
+Louisiana                           4
+Maine                              13
+Maryland                           20
+Massachusetts                      28
+Michigan                           58
+Minnesota                          23
+Mississippi                         8
+Missouri                           20
+Montana                             1
+Nebraska                           14
+Nevada                              1
+New Hampshire                      29
+New Jersey                         10
+New Mexico                          4
+New York                           16
+North Carolina                     10
+North Dakota                        4
+Ohio                               47
+Oklahoma                           13
+Oregon                              1
+Pennsylvania                       27
+Rhode Island                       27
+South Carolina                      8
+South Dakota                        7
+Tennessee                          25
+Texas                               4
+Utah                                0
+Vermont                            46
+Virginia                           16
+Washington                          1
+West Virginia                     100
+Wisconsin                          22
+Wyoming                             1

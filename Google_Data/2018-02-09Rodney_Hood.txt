@@ -1,0 +1,53 @@
+                      Rodney Hood
+geoName                          
+Alabama                        10
+Alaska                          4
+Arizona                         5
+Arkansas                        8
+California                      8
+Colorado                        7
+Connecticut                     7
+Delaware                       16
+District of Columbia           10
+Florida                         6
+Georgia                        12
+Hawaii                          6
+Idaho                          11
+Illinois                       10
+Indiana                         7
+Iowa                            8
+Kansas                          4
+Kentucky                       10
+Louisiana                      10
+Maine                           7
+Maryland                        9
+Massachusetts                   8
+Michigan                        8
+Minnesota                       8
+Mississippi                    68
+Missouri                        6
+Montana                         6
+Nebraska                        8
+Nevada                          5
+New Hampshire                   8
+New Jersey                      9
+New Mexico                      3
+New York                       10
+North Carolina                 25
+North Dakota                    9
+Ohio                            8
+Oklahoma                        8
+Oregon                          7
+Pennsylvania                    9
+Rhode Island                   11
+South Carolina                 10
+South Dakota                    8
+Tennessee                      10
+Texas                           6
+Utah                          100
+Vermont                         5
+Virginia                        9
+Washington                      6
+West Virginia                   6
+Wisconsin                       6
+Wyoming                         6

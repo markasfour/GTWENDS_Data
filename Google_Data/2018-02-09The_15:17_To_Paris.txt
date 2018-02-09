@@ -1,0 +1,43 @@
+                The 15:17 To Paris
+geoName                           
+Alabama                         24
+Arizona                         61
+California                      52
+Colorado                        32
+Connecticut                     44
+Florida                         36
+Georgia                         42
+Idaho                           62
+Illinois                        61
+Indiana                         64
+Iowa                            32
+Kansas                          40
+Kentucky                        44
+Louisiana                       34
+Maine                          100
+Maryland                        34
+Massachusetts                   31
+Michigan                        33
+Minnesota                       46
+Mississippi                     86
+Missouri                        41
+Nebraska                        42
+Nevada                          27
+New Hampshire                   93
+New Jersey                      49
+New Mexico                      55
+New York                        49
+North Carolina                  59
+Ohio                            59
+Oklahoma                        50
+Oregon                          21
+Pennsylvania                    95
+Rhode Island                    36
+South Carolina                  50
+Tennessee                       53
+Texas                           52
+Utah                            84
+Virginia                        28
+Washington                      15
+West Virginia                   70
+Wisconsin                       60

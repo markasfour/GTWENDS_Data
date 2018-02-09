@@ -1,0 +1,53 @@
+                      Olympics
+geoName                       
+Alabama                     61
+Alaska                      85
+Arizona                     62
+Arkansas                    63
+California                  69
+Colorado                    86
+Connecticut                 82
+Delaware                    83
+District of Columbia        67
+Florida                     62
+Georgia                     59
+Hawaii                      73
+Idaho                       79
+Illinois                    78
+Indiana                     71
+Iowa                        86
+Kansas                      68
+Kentucky                    57
+Louisiana                   53
+Maine                       84
+Maryland                    79
+Massachusetts               87
+Michigan                    68
+Minnesota                   87
+Mississippi                 56
+Missouri                    73
+Montana                     92
+Nebraska                    79
+Nevada                      63
+New Hampshire               87
+New Jersey                  81
+New Mexico                  67
+New York                    68
+North Carolina              68
+North Dakota                87
+Ohio                        72
+Oklahoma                    61
+Oregon                      61
+Pennsylvania                76
+Rhode Island                77
+South Carolina              61
+South Dakota                82
+Tennessee                   59
+Texas                       62
+Utah                        90
+Vermont                    100
+Virginia                    62
+Washington                  72
+West Virginia               60
+Wisconsin                   81
+Wyoming                     82
