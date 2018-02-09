@@ -1,0 +1,53 @@
+                      Richardson
+geoName                         
+Alabama                       27
+Alaska                        48
+Arizona                       16
+Arkansas                      23
+California                    16
+Colorado                      16
+Connecticut                   17
+Delaware                      22
+District of Columbia          22
+Florida                       15
+Georgia                       21
+Hawaii                        21
+Idaho                         15
+Illinois                      19
+Indiana                       18
+Iowa                          21
+Kansas                        18
+Kentucky                      23
+Louisiana                     24
+Maine                         20
+Maryland                      22
+Massachusetts                 20
+Michigan                      16
+Minnesota                     17
+Mississippi                   24
+Missouri                      21
+Montana                       13
+Nebraska                      19
+Nevada                        14
+New Hampshire                 18
+New Jersey                    17
+New Mexico                    17
+New York                      20
+North Carolina                23
+North Dakota                  14
+Ohio                          18
+Oklahoma                      27
+Oregon                        16
+Pennsylvania                  16
+Rhode Island                  15
+South Carolina                26
+South Dakota                  13
+Tennessee                     22
+Texas                        100
+Utah                          15
+Vermont                       19
+Virginia                      17
+Washington                    18
+West Virginia                 15
+Wisconsin                     16
+Wyoming                       16

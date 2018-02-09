@@ -1,0 +1,53 @@
+                      Catfish
+geoName                      
+Alabama                    65
+Alaska                     24
+Arizona                    27
+Arkansas                  100
+California                 23
+Colorado                   24
+Connecticut                23
+Delaware                   27
+District of Columbia       27
+Florida                    32
+Georgia                    41
+Hawaii                     21
+Idaho                      25
+Illinois                   36
+Indiana                    36
+Iowa                       50
+Kansas                     43
+Kentucky                   55
+Louisiana                  73
+Maine                      21
+Maryland                   28
+Massachusetts              21
+Michigan                   28
+Minnesota                  27
+Mississippi                94
+Missouri                   50
+Montana                    25
+Nebraska                   47
+Nevada                     26
+New Hampshire              21
+New Jersey                 23
+New Mexico                 27
+New York                   25
+North Carolina             37
+North Dakota               31
+Ohio                       34
+Oklahoma                   66
+Oregon                     18
+Pennsylvania               30
+Rhode Island               22
+South Carolina             43
+South Dakota               33
+Tennessee                  63
+Texas                      52
+Utah                       22
+Vermont                    21
+Virginia                   28
+Washington                 23
+West Virginia              48
+Wisconsin                  33
+Wyoming                    24

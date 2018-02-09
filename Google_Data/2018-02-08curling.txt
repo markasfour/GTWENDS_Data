@@ -1,0 +1,53 @@
+                      curling
+geoName                      
+Alabama                    50
+Alaska                     67
+Arizona                    61
+Arkansas                   47
+California                 51
+Colorado                   54
+Connecticut                51
+Delaware                   56
+District of Columbia       48
+Florida                    43
+Georgia                    47
+Hawaii                     47
+Idaho                      58
+Illinois                   56
+Indiana                    54
+Iowa                       57
+Kansas                     51
+Kentucky                   55
+Louisiana                  51
+Maine                      52
+Maryland                   50
+Massachusetts              52
+Michigan                   58
+Minnesota                  90
+Mississippi                52
+Missouri                   54
+Montana                    62
+Nebraska                   63
+Nevada                     53
+New Hampshire              53
+New Jersey                 55
+New Mexico                 53
+New York                   55
+North Carolina             50
+North Dakota              100
+Ohio                       53
+Oklahoma                   56
+Oregon                     39
+Pennsylvania               58
+Rhode Island               56
+South Carolina             48
+South Dakota               61
+Tennessee                  52
+Texas                      44
+Utah                       57
+Vermont                    54
+Virginia                   44
+Washington                 55
+West Virginia              55
+Wisconsin                  72
+Wyoming                    53

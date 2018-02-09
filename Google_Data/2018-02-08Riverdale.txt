@@ -1,0 +1,53 @@
+                      Riverdale
+geoName                        
+Alabama                      17
+Alaska                        8
+Arizona                      11
+Arkansas                     26
+California                   13
+Colorado                     16
+Connecticut                  18
+Delaware                     12
+District of Columbia         20
+Florida                      13
+Georgia                      58
+Hawaii                        9
+Idaho                        12
+Illinois                     17
+Indiana                      12
+Iowa                         13
+Kansas                        9
+Kentucky                     12
+Louisiana                    16
+Maine                        10
+Maryland                     28
+Massachusetts                14
+Michigan                     12
+Minnesota                    18
+Mississippi                  15
+Missouri                     10
+Montana                       8
+Nebraska                     12
+Nevada                       12
+New Hampshire                10
+New Jersey                   31
+New Mexico                    9
+New York                     32
+North Carolina               11
+North Dakota                 18
+Ohio                         12
+Oklahoma                     10
+Oregon                       11
+Pennsylvania                 12
+Rhode Island                 13
+South Carolina               12
+South Dakota                 11
+Tennessee                    26
+Texas                        11
+Utah                        100
+Vermont                      11
+Virginia                     11
+Washington                   10
+West Virginia                12
+Wisconsin                    12
+Wyoming                      12
