@@ -1,0 +1,51 @@
+                      Framingham
+geoName                         
+Alabama                        0
+Arizona                        0
+Arkansas                       0
+California                     0
+Colorado                       0
+Connecticut                    5
+Delaware                       1
+District of Columbia           2
+Florida                        1
+Georgia                        0
+Hawaii                         0
+Idaho                          0
+Illinois                       0
+Indiana                        0
+Iowa                           0
+Kansas                         0
+Kentucky                       0
+Louisiana                      0
+Maine                          4
+Maryland                       1
+Massachusetts                100
+Michigan                       1
+Minnesota                      0
+Mississippi                    0
+Missouri                       0
+Nebraska                       0
+Nevada                         0
+New Hampshire                  8
+New Jersey                     1
+New Mexico                     0
+New York                       3
+North Carolina                 1
+North Dakota                   0
+Ohio                           0
+Oklahoma                       0
+Oregon                         0
+Pennsylvania                   1
+Rhode Island                  11
+South Carolina                 0
+South Dakota                   0
+Tennessee                      0
+Texas                          0
+Utah                           0
+Vermont                        4
+Virginia                       1
+Washington                     0
+West Virginia                  0
+Wisconsin                      0
+Wyoming                        0

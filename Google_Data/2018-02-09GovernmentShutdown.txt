@@ -1,0 +1,22 @@
+                GovernmentShutdown
+geoName                           
+Alabama                         58
+Arizona                         61
+California                      36
+Colorado                        32
+Florida                         28
+Georgia                         32
+Illinois                        39
+Maryland                       100
+Massachusetts                   65
+Michigan                        41
+New Jersey                      40
+New York                        61
+North Carolina                  78
+Ohio                            39
+Pennsylvania                    65
+South Carolina                  98
+Tennessee                       66
+Texas                           66
+Virginia                        52
+Washington                      49

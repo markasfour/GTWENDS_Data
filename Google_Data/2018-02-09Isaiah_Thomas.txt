@@ -1,53 +1,53 @@
                       Isaiah Thomas
 geoName                            
-Alabama                          35
-Alaska                           18
-Arizona                          30
-Arkansas                         29
-California                       32
-Colorado                         19
-Connecticut                      49
-Delaware                         35
+Alabama                          34
+Alaska                           19
+Arizona                          28
+Arkansas                         28
+California                       33
+Colorado                         21
+Connecticut                      51
+Delaware                         47
 District of Columbia             37
-Florida                          29
-Georgia                          34
+Florida                          32
+Georgia                          37
 Hawaii                           27
-Idaho                            24
-Illinois                         34
-Indiana                          35
-Iowa                             26
-Kansas                           19
-Kentucky                         25
+Idaho                            23
+Illinois                         37
+Indiana                          37
+Iowa                             25
+Kansas                           20
+Kentucky                         28
 Louisiana                        30
-Maine                            61
+Maine                            70
 Maryland                         39
 Massachusetts                   100
-Michigan                         38
+Michigan                         39
 Minnesota                        23
-Mississippi                      37
-Missouri                         24
-Montana                          21
-Nebraska                         28
-Nevada                           30
+Mississippi                      39
+Missouri                         25
+Montana                          20
+Nebraska                         27
+Nevada                           31
 New Hampshire                    77
-New Jersey                       35
-New Mexico                       23
-New York                         34
-North Carolina                   33
-North Dakota                     24
-Ohio                             59
-Oklahoma                         26
-Oregon                           19
-Pennsylvania                     28
-Rhode Island                     84
-South Carolina                   33
-South Dakota                     24
-Tennessee                        28
+New Jersey                       36
+New Mexico                       26
+New York                         36
+North Carolina                   34
+North Dakota                     29
+Ohio                             57
+Oklahoma                         27
+Oregon                           20
+Pennsylvania                     31
+Rhode Island                     89
+South Carolina                   34
+South Dakota                     27
+Tennessee                        32
 Texas                            28
-Utah                             28
-Vermont                          39
+Utah                             31
+Vermont                          44
 Virginia                         26
-Washington                       41
-West Virginia                    28
-Wisconsin                        24
+Washington                       43
+West Virginia                    29
+Wisconsin                        25
 Wyoming                          20

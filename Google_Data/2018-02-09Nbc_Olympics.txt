@@ -1,0 +1,53 @@
+                      Nbc Olympics
+geoName                           
+Alabama                         36
+Alaska                          65
+Arizona                         42
+Arkansas                        37
+California                      51
+Colorado                        65
+Connecticut                     68
+Delaware                        56
+District of Columbia            59
+Florida                         37
+Georgia                         36
+Hawaii                          54
+Idaho                           63
+Illinois                        49
+Indiana                         44
+Iowa                            58
+Kansas                          40
+Kentucky                        36
+Louisiana                       30
+Maine                           69
+Maryland                        64
+Massachusetts                   70
+Michigan                        45
+Minnesota                       67
+Mississippi                     28
+Missouri                        47
+Montana                         64
+Nebraska                        51
+Nevada                          38
+New Hampshire                   82
+New Jersey                      53
+New Mexico                      47
+New York                        57
+North Carolina                  50
+North Dakota                    68
+Ohio                            49
+Oklahoma                        38
+Oregon                          51
+Pennsylvania                    52
+Rhode Island                    52
+South Carolina                  38
+South Dakota                    59
+Tennessee                       40
+Texas                           37
+Utah                            81
+Vermont                        100
+Virginia                        49
+Washington                      49
+West Virginia                   32
+Wisconsin                       54
+Wyoming                         66

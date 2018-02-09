@@ -1,48 +1,48 @@
                       Flavor of Love
 geoName                             
-Alabama                           66
-Arizona                           34
-Arkansas                          36
-California                        39
-Colorado                          26
-Connecticut                       34
-Delaware                          68
-District of Columbia              59
-Florida                           47
-Georgia                           80
-Hawaii                            35
+Alabama                           79
+Arizona                           41
+Arkansas                          61
+California                        42
+Colorado                          28
+Connecticut                       48
+Delaware                          50
+District of Columbia              69
+Florida                           53
+Georgia                           89
+Hawaii                            42
 Idaho                             14
-Illinois                          47
-Indiana                           45
-Iowa                              23
-Kansas                            39
-Kentucky                          42
-Louisiana                         84
-Maine                             19
-Maryland                          70
-Massachusetts                     38
-Michigan                          66
-Minnesota                         34
+Illinois                          54
+Indiana                           40
+Iowa                              27
+Kansas                            41
+Kentucky                          43
+Louisiana                         99
+Maine                             30
+Maryland                          75
+Massachusetts                     43
+Michigan                          68
+Minnesota                         32
 Mississippi                      100
-Missouri                          44
-Nebraska                          37
-Nevada                            50
-New Hampshire                     19
-New Jersey                        45
-New Mexico                        27
-New York                          53
-North Carolina                    56
-Ohio                              43
-Oklahoma                          36
-Oregon                            20
-Pennsylvania                      45
-Rhode Island                      45
-South Carolina                    72
-Tennessee                         54
-Texas                             44
-Utah                              10
-Vermont                           21
-Virginia                          47
-Washington                        25
-West Virginia                     31
+Missouri                          49
+Nebraska                          35
+Nevada                            61
+New Hampshire                     31
+New Jersey                        55
+New Mexico                        25
+New York                          66
+North Carolina                    68
+Ohio                              52
+Oklahoma                          39
+Oregon                            22
+Pennsylvania                      56
+Rhode Island                      48
+South Carolina                    84
+Tennessee                         58
+Texas                             50
+Utah                              15
+Vermont                           30
+Virginia                          55
+Washington                        30
+West Virginia                     36
 Wisconsin                         28

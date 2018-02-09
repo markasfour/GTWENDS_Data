@@ -1,0 +1,53 @@
+                      Mesquite
+geoName                       
+Alabama                      2
+Alaska                       4
+Arizona                     31
+Arkansas                     6
+California                   5
+Colorado                     9
+Connecticut                  2
+Delaware                     1
+District of Columbia         3
+Florida                      2
+Georgia                      4
+Hawaii                       3
+Idaho                       11
+Illinois                     3
+Indiana                      2
+Iowa                         2
+Kansas                       4
+Kentucky                     3
+Louisiana                    9
+Maine                        1
+Maryland                     2
+Massachusetts                1
+Michigan                     3
+Minnesota                    3
+Mississippi                  5
+Missouri                     3
+Montana                      9
+Nebraska                     3
+Nevada                      89
+New Hampshire                1
+New Jersey                   1
+New Mexico                  15
+New York                     4
+North Carolina               2
+North Dakota                 4
+Ohio                         2
+Oklahoma                    10
+Oregon                       3
+Pennsylvania                 2
+Rhode Island                 1
+South Carolina               2
+South Dakota                 3
+Tennessee                    4
+Texas                      100
+Utah                        52
+Vermont                      1
+Virginia                     2
+Washington                   4
+West Virginia                1
+Wisconsin                    2
+Wyoming                     16

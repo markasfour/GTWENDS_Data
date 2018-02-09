@@ -1,53 +1,53 @@
                       Rand Paul
 geoName                        
-Alabama                      34
+Alabama                      35
 Alaska                       29
 Arizona                      32
-Arkansas                     32
-California                   28
-Colorado                     32
-Connecticut                  38
-Delaware                     34
-District of Columbia         77
-Florida                      28
-Georgia                      30
-Hawaii                       23
-Idaho                        38
-Illinois                     33
-Indiana                      36
+Arkansas                     30
+California                   29
+Colorado                     33
+Connecticut                  41
+Delaware                     32
+District of Columbia         79
+Florida                      30
+Georgia                      32
+Hawaii                       24
+Idaho                        40
+Illinois                     35
+Indiana                      37
 Iowa                         50
-Kansas                       30
+Kansas                       29
 Kentucky                    100
-Louisiana                    30
+Louisiana                    32
 Maine                        39
-Maryland                     36
-Massachusetts                38
+Maryland                     37
+Massachusetts                39
 Michigan                     34
-Minnesota                    35
+Minnesota                    34
 Mississippi                  27
-Missouri                     35
-Montana                      39
+Missouri                     36
+Montana                      38
 Nebraska                     40
-Nevada                       32
-New Hampshire                51
+Nevada                       34
+New Hampshire                53
 New Jersey                   33
-New Mexico                   31
-New York                     35
+New Mexico                   30
+New York                     36
 North Carolina               33
-North Dakota                 43
-Ohio                         35
-Oklahoma                     37
-Oregon                       29
+North Dakota                 40
+Ohio                         36
+Oklahoma                     34
+Oregon                       27
 Pennsylvania                 40
-Rhode Island                 30
+Rhode Island                 28
 South Carolina               34
-South Dakota                 29
-Tennessee                    38
+South Dakota                 30
+Tennessee                    35
 Texas                        28
-Utah                         29
-Vermont                      44
-Virginia                     38
-Washington                   32
-West Virginia                31
-Wisconsin                    34
-Wyoming                      34
+Utah                         30
+Vermont                      49
+Virginia                     40
+Washington                   34
+West Virginia                37
+Wisconsin                    33
+Wyoming                      31
