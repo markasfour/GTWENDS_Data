@@ -1,0 +1,53 @@
+                      Dow Futures
+geoName                          
+Alabama                        53
+Alaska                         32
+Arizona                        76
+Arkansas                       36
+California                     57
+Colorado                       58
+Connecticut                    90
+Delaware                       89
+District of Columbia           67
+Florida                        88
+Georgia                        54
+Hawaii                         66
+Idaho                          41
+Illinois                       70
+Indiana                        58
+Iowa                           54
+Kansas                         51
+Kentucky                       59
+Louisiana                      44
+Maine                          69
+Maryland                       69
+Massachusetts                  83
+Michigan                       77
+Minnesota                      62
+Mississippi                    43
+Missouri                       60
+Montana                        57
+Nebraska                       61
+Nevada                         74
+New Hampshire                  88
+New Jersey                    100
+New Mexico                     54
+New York                       90
+North Carolina                 59
+North Dakota                   49
+Ohio                           71
+Oklahoma                       43
+Oregon                         40
+Pennsylvania                   79
+Rhode Island                   85
+South Carolina                 77
+South Dakota                   53
+Tennessee                      54
+Texas                          42
+Utah                           52
+Vermont                        72
+Virginia                       57
+Washington                     61
+West Virginia                  54
+Wisconsin                      77
+Wyoming                        63

@@ -1,0 +1,49 @@
+                      Jason Garrett
+geoName                            
+Alabama                          17
+Arizona                          23
+Arkansas                         44
+California                       17
+Colorado                         20
+Connecticut                      30
+Delaware                         30
+District of Columbia             26
+Florida                          17
+Georgia                          25
+Hawaii                           21
+Idaho                            17
+Illinois                         17
+Indiana                          16
+Iowa                             22
+Kansas                           23
+Kentucky                         19
+Louisiana                        35
+Maine                            11
+Maryland                         29
+Massachusetts                    21
+Michigan                         14
+Minnesota                        15
+Mississippi                      28
+Missouri                         18
+Montana                          21
+Nebraska                         28
+Nevada                           19
+New Hampshire                    15
+New Jersey                       35
+New Mexico                       48
+New York                         24
+North Carolina                   24
+Ohio                             22
+Oklahoma                         45
+Oregon                           14
+Pennsylvania                     30
+Rhode Island                     10
+South Carolina                   25
+Tennessee                        23
+Texas                           100
+Utah                             12
+Vermont                          31
+Virginia                         30
+Washington                       17
+West Virginia                    24
+Wisconsin                        19

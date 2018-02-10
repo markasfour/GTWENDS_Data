@@ -1,0 +1,53 @@
+                      RealTime
+geoName                       
+Alabama                     31
+Alaska                      37
+Arizona                     34
+Arkansas                    25
+California                  48
+Colorado                    39
+Connecticut                 37
+Delaware                    38
+District of Columbia        36
+Florida                     37
+Georgia                     27
+Hawaii                      28
+Idaho                       45
+Illinois                    36
+Indiana                     30
+Iowa                        30
+Kansas                      31
+Kentucky                    26
+Louisiana                   33
+Maine                       29
+Maryland                    46
+Massachusetts               47
+Michigan                    34
+Minnesota                   51
+Mississippi                 26
+Missouri                    37
+Montana                     45
+Nebraska                    32
+Nevada                      33
+New Hampshire               36
+New Jersey                 100
+New Mexico                  41
+New York                    42
+North Carolina              29
+North Dakota                42
+Ohio                        30
+Oklahoma                    29
+Oregon                      36
+Pennsylvania                38
+Rhode Island                39
+South Carolina              29
+South Dakota                43
+Tennessee                   26
+Texas                       33
+Utah                        36
+Vermont                     41
+Virginia                    53
+Washington                  54
+West Virginia               33
+Wisconsin                   78
+Wyoming                     43
