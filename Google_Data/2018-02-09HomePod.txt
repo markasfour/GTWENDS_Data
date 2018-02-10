@@ -1,0 +1,53 @@
+                      HomePod
+geoName                      
+Alabama                    66
+Alaska                     23
+Arizona                    47
+Arkansas                   55
+California                 95
+Colorado                   66
+Connecticut                90
+Delaware                   98
+District of Columbia       36
+Florida                    60
+Georgia                    67
+Hawaii                     73
+Idaho                      76
+Illinois                   66
+Indiana                    61
+Iowa                       53
+Kansas                     54
+Kentucky                   50
+Louisiana                  52
+Maine                      53
+Maryland                   82
+Massachusetts              73
+Michigan                   61
+Minnesota                  74
+Mississippi                33
+Missouri                   49
+Montana                    57
+Nebraska                   65
+Nevada                     52
+New Hampshire              80
+New Jersey                 82
+New Mexico                 64
+New York                   79
+North Carolina             63
+North Dakota               42
+Ohio                       57
+Oklahoma                   70
+Oregon                     51
+Pennsylvania               64
+Rhode Island               66
+South Carolina             49
+South Dakota               83
+Tennessee                  51
+Texas                      64
+Utah                      100
+Vermont                    42
+Virginia                   65
+Washington                 75
+West Virginia              32
+Wisconsin                  54
+Wyoming                    45

@@ -1,49 +1,49 @@
                       Michael Lewis
 geoName                            
-Alabama                          54
-Arizona                          53
+Alabama                          55
+Arizona                          55
 Arkansas                         48
-California                       68
-Colorado                         57
-Connecticut                      66
-Delaware                         56
+California                       73
+Colorado                         70
+Connecticut                      82
+Delaware                         72
 District of Columbia            100
-Florida                          52
-Georgia                          60
+Florida                          56
+Georgia                          64
 Hawaii                           50
-Idaho                            58
-Illinois                         65
-Indiana                          54
-Iowa                             53
-Kansas                           42
-Kentucky                         45
-Louisiana                        74
-Maine                            56
-Maryland                         82
-Massachusetts                    82
-Michigan                         48
+Idaho                            50
+Illinois                         68
+Indiana                          61
+Iowa                             42
+Kansas                           53
+Kentucky                         56
+Louisiana                        79
+Maine                            69
+Maryland                         73
+Massachusetts                    79
+Michigan                         50
 Minnesota                        52
-Mississippi                      53
-Missouri                         57
-Montana                          40
-Nebraska                         45
-Nevada                           50
-New Hampshire                    69
-New Jersey                       72
-New Mexico                       42
-New York                         86
-North Carolina                   55
-Ohio                             58
-Oklahoma                         60
-Oregon                           49
-Pennsylvania                     59
-Rhode Island                     70
-South Carolina                   54
-Tennessee                        52
-Texas                            50
-Utah                             61
-Vermont                          74
-Virginia                         55
-Washington                       56
-West Virginia                    50
-Wisconsin                        41
+Mississippi                      52
+Missouri                         54
+Montana                          60
+Nebraska                         52
+Nevada                           51
+New Hampshire                    60
+New Jersey                       75
+New Mexico                       34
+New York                         93
+North Carolina                   63
+Ohio                             60
+Oklahoma                         56
+Oregon                           50
+Pennsylvania                     61
+Rhode Island                     64
+South Carolina                   55
+Tennessee                        55
+Texas                            51
+Utah                             55
+Vermont                          80
+Virginia                         54
+Washington                       67
+West Virginia                    57
+Wisconsin                        49

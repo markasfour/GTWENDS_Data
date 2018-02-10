@@ -1,0 +1,53 @@
+                      John Lynch
+geoName                         
+Alabama                       42
+Alaska                        32
+Arizona                       49
+Arkansas                      45
+California                    56
+Colorado                      91
+Connecticut                   64
+Delaware                      65
+District of Columbia          81
+Florida                       48
+Georgia                       43
+Hawaii                        50
+Idaho                         35
+Illinois                      52
+Indiana                       42
+Iowa                          46
+Kansas                        42
+Kentucky                      46
+Louisiana                     46
+Maine                         53
+Maryland                      56
+Massachusetts                 73
+Michigan                      46
+Minnesota                     43
+Mississippi                   57
+Missouri                      43
+Montana                       50
+Nebraska                      42
+Nevada                        47
+New Hampshire                 85
+New Jersey                    63
+New Mexico                    34
+New York                      60
+North Carolina                49
+North Dakota                  39
+Ohio                          52
+Oklahoma                      48
+Oregon                        34
+Pennsylvania                  61
+Rhode Island                 100
+South Carolina                42
+South Dakota                  34
+Tennessee                     39
+Texas                         44
+Utah                          34
+Vermont                       52
+Virginia                      46
+Washington                    58
+West Virginia                 44
+Wisconsin                     56
+Wyoming                       78

@@ -1,0 +1,53 @@
+                      Rays
+geoName                   
+Alabama                 18
+Alaska                  35
+Arizona                 15
+Arkansas                14
+California              15
+Colorado                12
+Connecticut             17
+Delaware                16
+District of Columbia    23
+Florida                100
+Georgia                 26
+Hawaii                  27
+Idaho                   16
+Illinois                17
+Indiana                 20
+Iowa                    17
+Kansas                  16
+Kentucky                20
+Louisiana               17
+Maine                   21
+Maryland                28
+Massachusetts           18
+Michigan                19
+Minnesota               14
+Mississippi             17
+Missouri                16
+Montana                 16
+Nebraska                16
+Nevada                  14
+New Hampshire           19
+New Jersey              17
+New Mexico              15
+New York                15
+North Carolina          41
+North Dakota            15
+Ohio                    18
+Oklahoma                20
+Oregon                  13
+Pennsylvania            17
+Rhode Island            22
+South Carolina          20
+South Dakota            14
+Tennessee               17
+Texas                   16
+Utah                    15
+Vermont                 23
+Virginia                17
+Washington              15
+West Virginia           17
+Wisconsin               18
+Wyoming                 17

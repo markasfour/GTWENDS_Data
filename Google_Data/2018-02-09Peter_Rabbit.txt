@@ -1,0 +1,53 @@
+                      Peter Rabbit
+geoName                           
+Alabama                         77
+Alaska                          69
+Arizona                         59
+Arkansas                        76
+California                      63
+Colorado                        52
+Connecticut                     84
+Delaware                        82
+District of Columbia            49
+Florida                         56
+Georgia                         65
+Hawaii                          49
+Idaho                           67
+Illinois                        62
+Indiana                         68
+Iowa                            65
+Kansas                          53
+Kentucky                        73
+Louisiana                       80
+Maine                           87
+Maryland                        82
+Massachusetts                   86
+Michigan                        73
+Minnesota                       59
+Mississippi                     91
+Missouri                        68
+Montana                         74
+Nebraska                        68
+Nevada                          53
+New Hampshire                   77
+New Jersey                      86
+New Mexico                      38
+New York                        73
+North Carolina                  87
+North Dakota                    45
+Ohio                            70
+Oklahoma                        70
+Oregon                          55
+Pennsylvania                    82
+Rhode Island                    80
+South Carolina                  87
+South Dakota                    38
+Tennessee                       76
+Texas                           58
+Utah                            60
+Vermont                         95
+Virginia                        72
+Washington                      65
+West Virginia                  100
+Wisconsin                       71
+Wyoming                         67

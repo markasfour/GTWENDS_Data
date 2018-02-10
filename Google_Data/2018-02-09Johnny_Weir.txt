@@ -1,53 +1,53 @@
                       Johnny Weir
 geoName                          
-Alabama                        39
-Alaska                         31
-Arizona                        38
+Alabama                        45
+Alaska                         52
+Arizona                        39
 Arkansas                       37
-California                     41
-Colorado                       46
-Connecticut                    57
+California                     48
+Colorado                       53
+Connecticut                    63
 Delaware                      100
-District of Columbia           57
-Florida                        35
-Georgia                        36
-Hawaii                         41
-Idaho                          36
-Illinois                       54
-Indiana                        39
-Iowa                           47
-Kansas                         32
-Kentucky                       45
-Louisiana                      33
-Maine                          49
-Maryland                       59
-Massachusetts                  68
-Michigan                       48
-Minnesota                      56
-Mississippi                    41
-Missouri                       50
-Montana                        33
-Nebraska                       46
-Nevada                         32
-New Hampshire                  61
-New Jersey                     57
-New Mexico                     37
-New York                       51
-North Carolina                 42
-North Dakota                   58
-Ohio                           46
-Oklahoma                       43
-Oregon                         35
-Pennsylvania                   70
-Rhode Island                   58
-South Carolina                 43
-South Dakota                   24
-Tennessee                      40
-Texas                          36
-Utah                           49
-Vermont                        63
-Virginia                       49
-Washington                     47
-West Virginia                  45
-Wisconsin                      49
-Wyoming                        44
+District of Columbia           59
+Florida                        39
+Georgia                        43
+Hawaii                         49
+Idaho                          63
+Illinois                       58
+Indiana                        42
+Iowa                           50
+Kansas                         34
+Kentucky                       52
+Louisiana                      37
+Maine                          54
+Maryland                       65
+Massachusetts                  80
+Michigan                       54
+Minnesota                      59
+Mississippi                    40
+Missouri                       52
+Montana                        47
+Nebraska                       43
+Nevada                         40
+New Hampshire                  54
+New Jersey                     60
+New Mexico                     44
+New York                       60
+North Carolina                 45
+North Dakota                   43
+Ohio                           49
+Oklahoma                       45
+Oregon                         36
+Pennsylvania                   74
+Rhode Island                   61
+South Carolina                 42
+South Dakota                   26
+Tennessee                      47
+Texas                          39
+Utah                           51
+Vermont                        58
+Virginia                       53
+Washington                     49
+West Virginia                  48
+Wisconsin                      50
+Wyoming                        76

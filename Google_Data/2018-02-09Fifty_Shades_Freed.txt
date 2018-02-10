@@ -1,53 +1,53 @@
                       Fifty Shades Freed
 geoName                                 
-Alabama                              100
-Alaska                                48
+Alabama                               95
+Alaska                                45
 Arizona                               63
-Arkansas                              91
-California                            57
-Colorado                              46
-Connecticut                           62
-Delaware                              58
-District of Columbia                  35
-Florida                               63
-Georgia                               73
-Hawaii                                58
-Idaho                                 49
+Arkansas                              97
+California                            59
+Colorado                              48
+Connecticut                           64
+Delaware                              78
+District of Columbia                  37
+Florida                               66
+Georgia                               75
+Hawaii                                55
+Idaho                                 53
 Illinois                              62
-Indiana                               80
-Iowa                                  67
-Kansas                                59
-Kentucky                              83
-Louisiana                             79
-Maine                                 54
-Maryland                              61
-Massachusetts                         48
-Michigan                              62
-Minnesota                             49
-Mississippi                           95
+Indiana                               85
+Iowa                                  75
+Kansas                                60
+Kentucky                              90
+Louisiana                             80
+Maine                                 61
+Maryland                              67
+Massachusetts                         52
+Michigan                              70
+Minnesota                             52
+Mississippi                           99
 Missouri                              63
-Montana                               45
-Nebraska                              75
-Nevada                                59
-New Hampshire                         44
-New Jersey                            64
+Montana                               41
+Nebraska                              73
+Nevada                                61
+New Hampshire                         50
+New Jersey                            63
 New Mexico                            60
 New York                              54
-North Carolina                        70
-North Dakota                          64
+North Carolina                        80
+North Dakota                          58
 Ohio                                  73
-Oklahoma                              75
-Oregon                                35
-Pennsylvania                          67
-Rhode Island                          56
-South Carolina                        70
-South Dakota                          51
-Tennessee                             72
-Texas                                 66
-Utah                                  43
-Vermont                               53
-Virginia                              53
-Washington                            50
-West Virginia                         89
-Wisconsin                             56
-Wyoming                               54
+Oklahoma                              71
+Oregon                                31
+Pennsylvania                          69
+Rhode Island                          59
+South Carolina                        74
+South Dakota                          62
+Tennessee                             83
+Texas                                 74
+Utah                                  51
+Vermont                               50
+Virginia                              57
+Washington                            48
+West Virginia                        100
+Wisconsin                             60
+Wyoming                               79

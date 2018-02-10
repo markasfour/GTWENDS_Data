@@ -1,0 +1,53 @@
+                      Govt Shutdown
+geoName                            
+Alabama                          39
+Alaska                           53
+Arizona                          41
+Arkansas                         28
+California                       30
+Colorado                         36
+Connecticut                      36
+Delaware                         31
+District of Columbia             85
+Florida                          28
+Georgia                          51
+Hawaii                           52
+Idaho                            35
+Illinois                         25
+Indiana                          21
+Iowa                             24
+Kansas                           33
+Kentucky                         50
+Louisiana                        20
+Maine                            39
+Maryland                        100
+Massachusetts                    32
+Michigan                         25
+Minnesota                        35
+Mississippi                      45
+Missouri                         35
+Montana                          46
+Nebraska                         40
+Nevada                           48
+New Hampshire                    38
+New Jersey                       42
+New Mexico                       56
+New York                         36
+North Carolina                   32
+North Dakota                     36
+Ohio                             41
+Oklahoma                         47
+Oregon                           22
+Pennsylvania                     31
+Rhode Island                     42
+South Carolina                   24
+South Dakota                     68
+Tennessee                        34
+Texas                            28
+Utah                             36
+Vermont                          47
+Virginia                         92
+Washington                       37
+West Virginia                    63
+Wisconsin                        25
+Wyoming                          43

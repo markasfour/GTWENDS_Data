@@ -1,53 +1,53 @@
                       Halsey
 geoName                     
-Alabama                   47
-Alaska                    39
-Arizona                   49
-Arkansas                  46
-California                50
-Colorado                  48
-Connecticut               54
-Delaware                  47
-District of Columbia      42
+Alabama                   45
+Alaska                    36
+Arizona                   47
+Arkansas                  45
+California                48
+Colorado                  44
+Connecticut               55
+Delaware                  43
+District of Columbia      39
 Florida                   41
-Georgia                   41
-Hawaii                    46
-Idaho                     42
-Illinois                  44
-Indiana                   48
+Georgia                   39
+Hawaii                    47
+Idaho                     41
+Illinois                  42
+Indiana                   45
 Iowa                      43
-Kansas                    41
-Kentucky                  49
-Louisiana                 38
-Maine                     45
-Maryland                  46
-Massachusetts             50
-Michigan                  50
-Minnesota                 42
+Kansas                    38
+Kentucky                  47
+Louisiana                 37
+Maine                     44
+Maryland                  43
+Massachusetts             49
+Michigan                  51
+Minnesota                 43
 Mississippi               35
-Missouri                  45
-Montana                   37
-Nebraska                  65
-Nevada                    44
-New Hampshire             44
-New Jersey                69
-New Mexico                37
-New York                  62
-North Carolina            41
-North Dakota              37
+Missouri                  41
+Montana                   34
+Nebraska                  64
+Nevada                    42
+New Hampshire             48
+New Jersey                66
+New Mexico                40
+New York                  61
+North Carolina            42
+North Dakota              36
 Ohio                      49
-Oklahoma                  41
+Oklahoma                  39
 Oregon                   100
-Pennsylvania              52
-Rhode Island              58
-South Carolina            44
-South Dakota              41
+Pennsylvania              50
+Rhode Island              59
+South Carolina            42
+South Dakota              46
 Tennessee                 41
-Texas                     44
-Utah                      41
-Vermont                   43
-Virginia                  37
-Washington                57
-West Virginia             49
-Wisconsin                 46
-Wyoming                   37
+Texas                     42
+Utah                      39
+Vermont                   42
+Virginia                  38
+Washington                53
+West Virginia             48
+Wisconsin                 43
+Wyoming                   39

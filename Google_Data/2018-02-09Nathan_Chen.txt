@@ -1,53 +1,52 @@
                       Nathan Chen
 geoName                          
-Alabama                        10
-Alaska                         23
-Arizona                        19
-Arkansas                       10
-California                     40
-Colorado                       30
-Connecticut                    19
-Delaware                       28
-District of Columbia           17
-Florida                        12
-Georgia                        10
-Hawaii                         41
-Idaho                          34
-Illinois                       26
-Indiana                        15
-Iowa                           19
-Kansas                         11
-Kentucky                        9
-Louisiana                      10
-Maine                          33
-Maryland                       28
-Massachusetts                  33
-Michigan                       16
-Minnesota                      16
+Alabama                         9
+Alaska                         13
+Arizona                        18
+Arkansas                       16
+California                     49
+Colorado                       32
+Connecticut                    25
+Delaware                       27
+District of Columbia           20
+Florida                        16
+Georgia                        15
+Hawaii                         50
+Idaho                          22
+Illinois                       28
+Indiana                        21
+Iowa                           17
+Kansas                         17
+Kentucky                       14
+Louisiana                      14
+Maine                          25
+Maryland                       38
+Massachusetts                  46
+Michigan                       20
+Minnesota                      25
 Mississippi                     4
-Missouri                       19
-Montana                         5
-Nebraska                       15
-Nevada                         15
-New Hampshire                  14
-New Jersey                     31
-New Mexico                     23
-New York                       29
-North Carolina                 15
-North Dakota                    6
-Ohio                           19
-Oklahoma                        8
-Oregon                         12
-Pennsylvania                   26
-Rhode Island                   23
-South Carolina                  7
-South Dakota                    6
-Tennessee                      15
-Texas                          17
+Missouri                       24
+Nebraska                       20
+Nevada                         14
+New Hampshire                  23
+New Jersey                     36
+New Mexico                     12
+New York                       34
+North Carolina                 21
+North Dakota                   27
+Ohio                           25
+Oklahoma                        9
+Oregon                         16
+Pennsylvania                   31
+Rhode Island                   34
+South Carolina                 12
+South Dakota                    7
+Tennessee                      20
+Texas                          22
 Utah                          100
-Vermont                        48
-Virginia                       24
-Washington                     33
-West Virginia                  13
-Wisconsin                      27
-Wyoming                        26
+Vermont                        42
+Virginia                       29
+Washington                     41
+West Virginia                  15
+Wisconsin                      28
+Wyoming                        31

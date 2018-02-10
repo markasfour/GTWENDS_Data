@@ -1,0 +1,53 @@
+                      Seneca
+geoName                     
+Alabama                    3
+Alaska                     3
+Arizona                    4
+Arkansas                   4
+California                 4
+Colorado                   3
+Connecticut                5
+Delaware                   4
+District of Columbia      12
+Florida                    4
+Georgia                    9
+Hawaii                     2
+Idaho                      4
+Illinois                   8
+Indiana                    4
+Iowa                       6
+Kansas                    27
+Kentucky                   9
+Louisiana                  3
+Maine                      4
+Maryland                  15
+Massachusetts              9
+Michigan                   6
+Minnesota                  4
+Mississippi                3
+Missouri                  11
+Montana                    3
+Nebraska                   5
+Nevada                     3
+New Hampshire              4
+New Jersey                 7
+New Mexico                 3
+New York                  43
+North Carolina            10
+North Dakota               2
+Ohio                      16
+Oklahoma                   5
+Oregon                     4
+Pennsylvania              20
+Rhode Island               5
+South Carolina           100
+South Dakota               4
+Tennessee                  8
+Texas                      3
+Utah                       3
+Vermont                    7
+Virginia                   7
+Washington                 4
+West Virginia             26
+Wisconsin                  6
+Wyoming                    3
