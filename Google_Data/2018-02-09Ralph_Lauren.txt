@@ -1,0 +1,53 @@
+                      Ralph Lauren
+geoName                           
+Alabama                         70
+Alaska                          19
+Arizona                         34
+Arkansas                        57
+California                      41
+Colorado                        32
+Connecticut                     69
+Delaware                        63
+District of Columbia            66
+Florida                         59
+Georgia                         65
+Hawaii                          32
+Idaho                           16
+Illinois                        52
+Indiana                         40
+Iowa                            26
+Kansas                          34
+Kentucky                        49
+Louisiana                       77
+Maine                           33
+Maryland                        62
+Massachusetts                   54
+Michigan                        45
+Minnesota                       35
+Mississippi                     90
+Missouri                        39
+Montana                         20
+Nebraska                        32
+Nevada                          34
+New Hampshire                   39
+New Jersey                      78
+New Mexico                      28
+New York                       100
+North Carolina                  60
+North Dakota                    25
+Ohio                            39
+Oklahoma                        44
+Oregon                          20
+Pennsylvania                    56
+Rhode Island                    52
+South Carolina                  70
+South Dakota                    22
+Tennessee                       55
+Texas                           53
+Utah                            22
+Vermont                         38
+Virginia                        52
+Washington                      27
+West Virginia                   36
+Wisconsin                       31
+Wyoming                         23

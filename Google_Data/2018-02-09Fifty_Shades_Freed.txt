@@ -1,53 +1,53 @@
                       Fifty Shades Freed
 geoName                                 
-Alabama                               95
-Alaska                                45
-Arizona                               63
-Arkansas                              97
-California                            59
-Colorado                              48
-Connecticut                           64
-Delaware                              78
-District of Columbia                  37
-Florida                               66
-Georgia                               75
-Hawaii                                55
-Idaho                                 53
+Alabama                              100
+Alaska                                49
+Arizona                               56
+Arkansas                              75
+California                            55
+Colorado                              45
+Connecticut                           56
+Delaware                              69
+District of Columbia                  36
+Florida                               62
+Georgia                               66
+Hawaii                                41
+Idaho                                 67
 Illinois                              62
-Indiana                               85
-Iowa                                  75
-Kansas                                60
-Kentucky                              90
-Louisiana                             80
-Maine                                 61
-Maryland                              67
-Massachusetts                         52
-Michigan                              70
-Minnesota                             52
-Mississippi                           99
-Missouri                              63
-Montana                               41
-Nebraska                              73
-Nevada                                61
-New Hampshire                         50
-New Jersey                            63
-New Mexico                            60
-New York                              54
-North Carolina                        80
-North Dakota                          58
-Ohio                                  73
-Oklahoma                              71
-Oregon                                31
-Pennsylvania                          69
-Rhode Island                          59
-South Carolina                        74
-South Dakota                          62
-Tennessee                             83
-Texas                                 74
-Utah                                  51
+Indiana                               70
+Iowa                                  60
+Kansas                                56
+Kentucky                              80
+Louisiana                             72
+Maine                                 68
+Maryland                              60
+Massachusetts                         48
+Michigan                              64
+Minnesota                             46
+Mississippi                           93
+Missouri                              61
+Montana                               34
+Nebraska                              60
+Nevada                                59
+New Hampshire                         41
+New Jersey                            61
+New Mexico                            64
+New York                              51
+North Carolina                        69
+North Dakota                          55
+Ohio                                  68
+Oklahoma                              66
+Oregon                                32
+Pennsylvania                          65
+Rhode Island                          65
+South Carolina                        70
+South Dakota                          59
+Tennessee                             75
+Texas                                 67
+Utah                                  47
 Vermont                               50
-Virginia                              57
-Washington                            48
-West Virginia                        100
-Wisconsin                             60
-Wyoming                               79
+Virginia                              51
+Washington                            45
+West Virginia                         80
+Wisconsin                             58
+Wyoming                               71

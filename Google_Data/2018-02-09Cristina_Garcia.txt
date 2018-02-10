@@ -1,45 +1,43 @@
                       Cristina Garcia
 geoName                              
-Alabama                            24
-Arizona                            31
-Arkansas                           21
+Alabama                            36
+Arizona                            30
+Arkansas                           40
 California                        100
-Colorado                           20
-Connecticut                        53
-District of Columbia               66
-Florida                            86
-Georgia                            28
-Hawaii                              9
-Idaho                              31
-Illinois                           34
-Indiana                            19
-Iowa                               21
-Kansas                             27
-Kentucky                           11
-Louisiana                          15
-Maine                              11
-Maryland                           18
-Massachusetts                      49
-Michigan                           18
+Colorado                           15
+Connecticut                        38
+District of Columbia               56
+Florida                            84
+Georgia                            24
+Idaho                              46
+Illinois                           38
+Indiana                            30
+Iowa                               12
+Kansas                             10
+Kentucky                           21
+Louisiana                          22
+Maine                              26
+Maryland                           28
+Massachusetts                      42
+Michigan                           24
 Minnesota                          25
-Mississippi                        44
-Missouri                           19
-Nebraska                           14
-Nevada                             14
-New Jersey                         32
-New Mexico                         56
-New York                           44
-North Carolina                     20
-Ohio                               12
-Oklahoma                           38
-Oregon                             31
-Pennsylvania                       11
-Rhode Island                       36
-South Carolina                     17
-Tennessee                          25
-Texas                              48
-Utah                               29
-Virginia                           18
-Washington                         20
-West Virginia                      12
-Wisconsin                          28
+Mississippi                        49
+Missouri                           13
+Nebraska                           16
+Nevada                             30
+New Jersey                         43
+New Mexico                         42
+New York                           60
+North Carolina                     16
+Ohio                               18
+Oklahoma                           33
+Oregon                             46
+Pennsylvania                       18
+Rhode Island                       54
+South Carolina                     23
+Tennessee                          33
+Texas                              53
+Utah                               26
+Virginia                           24
+Washington                         17
+Wisconsin                          17

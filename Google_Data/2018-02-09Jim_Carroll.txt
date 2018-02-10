@@ -1,0 +1,45 @@
+                      Jim Carroll
+geoName                          
+Alabama                        40
+Arizona                        45
+Arkansas                       61
+California                     50
+Colorado                       45
+Connecticut                    58
+District of Columbia           71
+Florida                        34
+Georgia                        31
+Hawaii                         33
+Illinois                       56
+Indiana                        53
+Iowa                           73
+Kansas                         39
+Kentucky                       48
+Louisiana                      36
+Maine                          34
+Maryland                       68
+Massachusetts                  73
+Michigan                       52
+Minnesota                      54
+Mississippi                    49
+Missouri                       45
+Nebraska                       43
+Nevada                         37
+New Hampshire                  55
+New Jersey                     66
+New Mexico                     63
+New York                       72
+North Carolina                 39
+Ohio                           59
+Oklahoma                       30
+Oregon                         49
+Pennsylvania                   57
+Rhode Island                   81
+South Carolina                 26
+Tennessee                      50
+Texas                          46
+Utah                           42
+Vermont                       100
+Virginia                       43
+Washington                     81
+Wisconsin                      47

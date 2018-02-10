@@ -1,53 +1,53 @@
                       Venom
 geoName                    
-Alabama                  74
-Alaska                   77
-Arizona                 100
-Arkansas                 80
+Alabama                  80
+Alaska                   78
+Arizona                  97
+Arkansas                 76
 California               81
-Colorado                 83
+Colorado                 84
 Connecticut              68
-Delaware                 66
-District of Columbia     56
-Florida                  78
-Georgia                  74
-Hawaii                   76
-Idaho                    88
-Illinois                 72
-Indiana                  82
+Delaware                 67
+District of Columbia     57
+Florida                  76
+Georgia                  73
+Hawaii                   77
+Idaho                    86
+Illinois                 69
+Indiana                  80
 Iowa                     74
-Kansas                   73
-Kentucky                 76
-Louisiana                73
-Maine                    85
-Maryland                 71
+Kansas                   72
+Kentucky                 77
+Louisiana                76
+Maine                    89
+Maryland                 72
 Massachusetts            61
-Michigan                 78
-Minnesota                70
-Mississippi              77
-Missouri                 74
-Montana                  81
-Nebraska                 71
+Michigan                 76
+Minnesota                71
+Mississippi              74
+Missouri                 77
+Montana                  78
+Nebraska                 72
 Nevada                   92
-New Hampshire            75
-New Jersey               74
-New Mexico               97
-New York                 68
-North Carolina           76
-North Dakota             78
-Ohio                     72
+New Hampshire            76
+New Jersey               76
+New Mexico              100
+New York                 69
+North Carolina           74
+North Dakota             76
+Ohio                     75
 Oklahoma                 87
-Oregon                   65
+Oregon                   63
 Pennsylvania             72
-Rhode Island             65
+Rhode Island             70
 South Carolina           76
-South Dakota             76
+South Dakota             79
 Tennessee                81
-Texas                    84
+Texas                    87
 Utah                     82
-Vermont                  69
-Virginia                 67
-Washington               75
-West Virginia            93
+Vermont                  71
+Virginia                 68
+Washington               77
+West Virginia            92
 Wisconsin                72
-Wyoming                  87
+Wyoming                  90

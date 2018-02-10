@@ -1,0 +1,53 @@
+                      Veto
+geoName                   
+Alabama                 70
+Alaska                  87
+Arizona                 71
+Arkansas                73
+California              74
+Colorado                58
+Connecticut             79
+Delaware                82
+District of Columbia    95
+Florida                 72
+Georgia                 76
+Hawaii                  60
+Idaho                   67
+Illinois                88
+Indiana                 80
+Iowa                    82
+Kansas                  78
+Kentucky                72
+Louisiana               68
+Maine                   99
+Maryland                82
+Massachusetts           65
+Michigan                71
+Minnesota               65
+Mississippi             62
+Missouri               100
+Montana                 72
+Nebraska                78
+Nevada                  72
+New Hampshire           58
+New Jersey              75
+New Mexico              71
+New York                62
+North Carolina          77
+North Dakota            76
+Ohio                    84
+Oklahoma                75
+Oregon                  44
+Pennsylvania            69
+Rhode Island            73
+South Carolina          75
+South Dakota            68
+Tennessee               57
+Texas                   81
+Utah                    61
+Vermont                 63
+Virginia                77
+Washington              56
+West Virginia           88
+Wisconsin               66
+Wyoming                 62

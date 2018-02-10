@@ -1,0 +1,53 @@
+                      Drummond
+geoName                       
+Alabama                     45
+Alaska                      23
+Arizona                     24
+Arkansas                    47
+California                  20
+Colorado                    28
+Connecticut                 36
+Delaware                    75
+District of Columbia        24
+Florida                     28
+Georgia                     28
+Hawaii                      21
+Idaho                       28
+Illinois                    30
+Indiana                     30
+Iowa                        30
+Kansas                      35
+Kentucky                    31
+Louisiana                   28
+Maine                       57
+Maryland                    28
+Massachusetts               28
+Michigan                    75
+Minnesota                   29
+Mississippi                 31
+Missouri                    35
+Montana                    100
+Nebraska                    33
+Nevada                      22
+New Hampshire               35
+New Jersey                  25
+New Mexico                  27
+New York                    23
+North Carolina              28
+North Dakota                33
+Ohio                        34
+Oklahoma                    75
+Oregon                      22
+Pennsylvania                29
+Rhode Island                27
+South Carolina              32
+South Dakota                27
+Tennessee                   29
+Texas                       28
+Utah                        21
+Vermont                     26
+Virginia                    28
+Washington                  24
+West Virginia               33
+Wisconsin                   38
+Wyoming                     32

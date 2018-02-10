@@ -1,0 +1,52 @@
+                      Rob Delaney
+geoName                          
+Alabama                        31
+Alaska                         43
+Arizona                        33
+Arkansas                       41
+California                     63
+Colorado                       49
+Connecticut                    55
+Delaware                       48
+District of Columbia           92
+Florida                        26
+Georgia                        30
+Hawaii                         34
+Idaho                          28
+Illinois                       71
+Indiana                        40
+Iowa                           53
+Kansas                         42
+Kentucky                       35
+Louisiana                      38
+Maine                          57
+Maryland                       43
+Massachusetts                 100
+Michigan                       44
+Minnesota                      68
+Mississippi                    28
+Missouri                       60
+Montana                        23
+Nebraska                       59
+Nevada                         25
+New Hampshire                  69
+New Jersey                     51
+New Mexico                     42
+New York                       77
+North Carolina                 42
+North Dakota                   35
+Ohio                           46
+Oklahoma                       47
+Oregon                         49
+Pennsylvania                   56
+Rhode Island                   63
+South Carolina                 35
+South Dakota                   64
+Tennessee                      36
+Texas                          33
+Utah                           42
+Vermont                        66
+Virginia                       43
+Washington                     58
+West Virginia                  48
+Wisconsin                      55

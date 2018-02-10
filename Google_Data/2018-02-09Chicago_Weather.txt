@@ -6,16 +6,16 @@ Arizona                             3
 Arkansas                            2
 California                          2
 Colorado                            3
-Connecticut                         2
+Connecticut                         1
 Delaware                            1
 District of Columbia                3
-Florida                             3
+Florida                             2
 Georgia                             2
 Hawaii                              2
 Idaho                               1
 Illinois                          100
-Indiana                            12
-Iowa                                6
+Indiana                            11
+Iowa                                5
 Kansas                              3
 Kentucky                            3
 Louisiana                           2
@@ -24,10 +24,10 @@ Maryland                            2
 Massachusetts                       2
 Michigan                            5
 Minnesota                           4
-Mississippi                         2
+Mississippi                         1
 Missouri                            4
 Montana                             1
-Nebraska                            4
+Nebraska                            3
 Nevada                              3
 New Hampshire                       1
 New Jersey                          2
@@ -40,7 +40,7 @@ Oklahoma                            2
 Oregon                              1
 Pennsylvania                        2
 Rhode Island                        1
-South Carolina                      2
+South Carolina                      1
 South Dakota                        2
 Tennessee                           2
 Texas                               2

@@ -1,53 +1,53 @@
                       Jimmy Garoppolo
 geoName                              
-Alabama                            10
-Alaska                             12
-Arizona                            16
-Arkansas                            8
+Alabama                             9
+Alaska                              9
+Arizona                            15
+Arkansas                            9
 California                         22
-Colorado                           14
+Colorado                           13
 Connecticut                        41
-Delaware                           20
-District of Columbia               18
+Delaware                           19
+District of Columbia               19
 Florida                            14
 Georgia                            10
-Hawaii                             16
-Idaho                              13
+Hawaii                             18
+Idaho                              14
 Illinois                           28
-Indiana                            14
-Iowa                               15
+Indiana                            13
+Iowa                               14
 Kansas                              9
 Kentucky                            9
-Louisiana                          12
-Maine                              56
+Louisiana                          13
+Maine                              55
 Maryland                           15
 Massachusetts                     100
-Michigan                           12
-Minnesota                          15
+Michigan                           11
+Minnesota                          14
 Mississippi                        10
 Missouri                           11
 Montana                            14
-Nebraska                           15
-Nevada                             18
-New Hampshire                      82
+Nebraska                           16
+Nevada                             17
+New Hampshire                      84
 New Jersey                         16
-New Mexico                         13
+New Mexico                         17
 New York                           17
 North Carolina                     13
 North Dakota                       18
 Ohio                               19
-Oklahoma                           10
-Oregon                              9
-Pennsylvania                       17
-Rhode Island                       90
+Oklahoma                            9
+Oregon                             10
+Pennsylvania                       16
+Rhode Island                       88
 South Carolina                     14
-South Dakota                       21
+South Dakota                       20
 Tennessee                          11
-Texas                              12
-Utah                               10
-Vermont                            29
-Virginia                           13
-Washington                         12
-West Virginia                      13
+Texas                              13
+Utah                               12
+Vermont                            38
+Virginia                           14
+Washington                         13
+West Virginia                      16
 Wisconsin                          14
-Wyoming                            14
+Wyoming                             8

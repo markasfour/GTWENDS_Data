@@ -1,9 +1,9 @@
               OpeningCeremony
 geoName                      
-California                 39
-Florida                    14
-Georgia                    13
-Illinois                   27
+California                 42
+Florida                     7
+Georgia                    27
+Illinois                   12
 New York                  100
-Pennsylvania               13
-Texas                       7
+Pennsylvania               10
+Texas                       6
