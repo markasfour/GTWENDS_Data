@@ -1,47 +1,44 @@
                       Reg E Cathey
 geoName                           
-Alabama                         48
-Arizona                         25
-California                      37
-Colorado                        36
-Connecticut                     28
-Delaware                        79
-District of Columbia            64
-Florida                         25
-Georgia                         22
-Hawaii                          13
-Idaho                           16
-Illinois                        39
-Indiana                         49
-Iowa                            24
-Kansas                          27
-Kentucky                        11
+Alabama                         71
+Arizona                         42
+California                      42
+Colorado                        56
+Connecticut                     67
+Delaware                        88
+District of Columbia            89
+Florida                         44
+Georgia                         48
+Hawaii                          23
+Illinois                        66
+Indiana                         41
+Iowa                            68
+Kansas                          11
+Kentucky                        29
 Louisiana                       29
-Maine                           51
-Maryland                        59
-Massachusetts                   49
-Michigan                        32
-Minnesota                       20
-Mississippi                     44
-Missouri                        21
-Nebraska                        22
-Nevada                          21
-New Hampshire                   16
-New Jersey                      46
-New Mexico                      28
-New York                        54
-North Carolina                  36
-Ohio                            20
-Oklahoma                        19
-Oregon                          21
-Pennsylvania                    30
-Rhode Island                    18
-South Carolina                  41
-Tennessee                       14
-Texas                           21
-Utah                            14
-Vermont                        100
+Maine                           29
+Maryland                        52
+Massachusetts                   46
+Michigan                        71
+Minnesota                       46
+Mississippi                     37
+Missouri                        36
+Nevada                          34
+New Hampshire                   27
+New Jersey                      54
+New Mexico                      71
+New York                       100
+North Carolina                  65
+Ohio                            48
+Oklahoma                        43
+Oregon                          31
+Pennsylvania                    33
+South Carolina                  86
+Tennessee                       34
+Texas                           32
+Utah                            12
+Vermont                         56
 Virginia                        30
-Washington                      38
-West Virginia                   35
-Wisconsin                       30
+Washington                      64
+West Virginia                   59
+Wisconsin                       32

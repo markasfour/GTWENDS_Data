@@ -1,0 +1,9 @@
+            avfc
+geoName         
+California    74
+Florida      100
+Illinois      41
+New York      60
+Oregon        24
+Texas         37
+Washington    81

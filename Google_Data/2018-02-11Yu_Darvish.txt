@@ -1,53 +1,53 @@
                       Yu Darvish
 geoName                         
-Alabama                       13
-Alaska                        15
+Alabama                       16
+Alaska                        14
 Arizona                       32
-Arkansas                      29
-California                    56
-Colorado                      22
-Connecticut                   36
-Delaware                      27
-District of Columbia          28
-Florida                       16
-Georgia                       16
+Arkansas                      25
+California                    57
+Colorado                      21
+Connecticut                   37
+Delaware                      20
+District of Columbia          29
+Florida                       17
+Georgia                       18
 Hawaii                        57
-Idaho                         16
-Illinois                      52
-Indiana                       24
-Iowa                          34
+Idaho                         15
+Illinois                      57
+Indiana                       28
+Iowa                          32
 Kansas                        17
 Kentucky                      14
-Louisiana                     25
-Maine                         23
-Maryland                      25
-Massachusetts                 28
-Michigan                      22
-Minnesota                     43
-Mississippi                   14
-Missouri                      24
-Montana                       16
-Nebraska                      24
-Nevada                        34
-New Hampshire                 16
-New Jersey                    35
+Louisiana                     27
+Maine                         20
+Maryland                      24
+Massachusetts                 30
+Michigan                      20
+Minnesota                     48
+Mississippi                   11
+Missouri                      26
+Montana                       25
+Nebraska                      20
+Nevada                        31
+New Hampshire                 17
+New Jersey                    34
 New Mexico                    20
-New York                      34
+New York                      37
 North Carolina                16
-North Dakota                  28
+North Dakota                  33
 Ohio                          20
-Oklahoma                      32
-Oregon                        16
+Oklahoma                      33
+Oregon                        17
 Pennsylvania                  23
-Rhode Island                  28
-South Carolina                16
-South Dakota                  27
-Tennessee                     17
+Rhode Island                  35
+South Carolina                15
+South Dakota                  26
+Tennessee                     16
 Texas                        100
-Utah                          16
-Vermont                       15
+Utah                          19
+Vermont                       11
 Virginia                      18
-Washington                    30
-West Virginia                 14
-Wisconsin                     38
-Wyoming                       27
+Washington                    28
+West Virginia                  8
+Wisconsin                     41
+Wyoming                       26

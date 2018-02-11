@@ -1,53 +1,53 @@
                       Peter Rabbit
 geoName                           
-Alabama                        100
-Alaska                          59
-Arizona                         61
-Arkansas                        89
-California                      76
-Colorado                        63
-Connecticut                     92
-Delaware                        93
-District of Columbia            64
-Florida                         67
-Georgia                         70
-Hawaii                          52
-Idaho                           82
-Illinois                        69
-Indiana                         78
-Iowa                            77
-Kansas                          68
-Kentucky                        82
-Louisiana                       88
-Maine                           97
-Maryland                        86
-Massachusetts                   92
-Michigan                        78
-Minnesota                       69
-Mississippi                     86
-Missouri                        60
-Montana                         73
-Nebraska                        73
-Nevada                          60
-New Hampshire                   83
-New Jersey                      92
-New Mexico                      56
-New York                        82
-North Carolina                  90
-North Dakota                    49
-Ohio                            83
-Oklahoma                        68
-Oregon                          63
-Pennsylvania                    98
-Rhode Island                    97
-South Carolina                  89
+Alabama                         82
+Alaska                          74
+Arizona                         56
+Arkansas                        76
+California                      66
+Colorado                        52
+Connecticut                     78
+Delaware                        65
+District of Columbia            53
+Florida                         54
+Georgia                         67
+Hawaii                          49
+Idaho                           69
+Illinois                        63
+Indiana                         68
+Iowa                            72
+Kansas                          66
+Kentucky                        80
+Louisiana                       77
+Maine                          100
+Maryland                        80
+Massachusetts                   90
+Michigan                        70
+Minnesota                       56
+Mississippi                     84
+Missouri                        63
+Montana                         71
+Nebraska                        70
+Nevada                          54
+New Hampshire                   85
+New Jersey                      85
+New Mexico                      50
+New York                        74
+North Carolina                  84
+North Dakota                    36
+Ohio                            77
+Oklahoma                        65
+Oregon                          55
+Pennsylvania                    90
+Rhode Island                    86
+South Carolina                  86
 South Dakota                    72
-Tennessee                       80
-Texas                           67
-Utah                            69
-Vermont                        100
-Virginia                        83
+Tennessee                       71
+Texas                           61
+Utah                            60
+Vermont                         96
+Virginia                        75
 Washington                      67
-West Virginia                  100
-Wisconsin                       82
-Wyoming                         58
+West Virginia                   87
+Wisconsin                       69
+Wyoming                         61

@@ -1,0 +1,45 @@
+                      Tass
+geoName                   
+Alabama                 27
+Arizona                 34
+Arkansas                28
+California              36
+Colorado                39
+Connecticut             31
+District of Columbia    97
+Florida                 35
+Georgia                 31
+Hawaii                  38
+Idaho                  100
+Illinois                30
+Indiana                 27
+Iowa                    21
+Kansas                  27
+Kentucky                24
+Louisiana               23
+Maine                   37
+Maryland                79
+Massachusetts           38
+Michigan                28
+Minnesota               59
+Missouri                26
+Nebraska                28
+Nevada                  27
+New Hampshire           46
+New Jersey              46
+New Mexico              44
+New York                50
+North Carolina          35
+Ohio                    22
+Oklahoma                30
+Oregon                  34
+Pennsylvania            35
+Rhode Island            30
+South Carolina          24
+Tennessee               34
+Texas                   28
+Utah                    35
+Virginia                65
+Washington              43
+West Virginia           19
+Wisconsin               51

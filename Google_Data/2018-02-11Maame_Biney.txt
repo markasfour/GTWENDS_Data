@@ -1,38 +1,42 @@
                       Maame Biney
 geoName                          
-Alabama                        26
-Arizona                         5
-California                     14
-Colorado                        5
-Connecticut                    16
-District of Columbia           51
-Florida                        18
-Georgia                        29
-Hawaii                         58
-Illinois                       17
-Indiana                        24
-Iowa                           46
-Kansas                         20
-Louisiana                      17
-Maine                          25
-Maryland                      100
-Massachusetts                  23
-Michigan                       12
+Alabama                        23
+Arizona                         6
+California                     10
+Colorado                        3
+Connecticut                    32
+Delaware                      100
+District of Columbia           46
+Florida                        13
+Georgia                        18
+Illinois                        9
+Indiana                         8
+Iowa                            8
+Kentucky                       17
+Louisiana                      11
+Maryland                       36
+Massachusetts                  11
+Michigan                       14
 Minnesota                      10
-Mississippi                    16
-Missouri                        5
-Nevada                         20
-New Jersey                     18
-New York                       12
-North Carolina                 26
-Ohio                           32
-Oregon                          5
-Pennsylvania                   19
-South Carolina                 15
-Tennessee                      34
-Texas                           8
-Utah                           72
-Virginia                       26
-Washington                     11
-West Virginia                  26
+Mississippi                    43
+Missouri                        7
+Montana                        26
+Nevada                          7
+New Hampshire                  15
+New Jersey                     10
+New Mexico                     27
+New York                       15
+North Carolina                  6
+Ohio                           27
+Oklahoma                        6
+Oregon                          3
+Pennsylvania                   14
+South Carolina                 19
+Tennessee                       3
+Texas                          10
+Utah                            7
+Vermont                        65
+Virginia                       29
+Washington                     10
+West Virginia                  17
 Wisconsin                      22

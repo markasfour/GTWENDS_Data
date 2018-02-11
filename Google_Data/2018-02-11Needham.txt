@@ -1,0 +1,52 @@
+                      Needham
+geoName                      
+Alabama                     1
+Alaska                      1
+Arizona                     1
+Arkansas                    1
+California                  1
+Colorado                    1
+Connecticut                 6
+Delaware                    1
+District of Columbia        3
+Florida                     1
+Georgia                     1
+Hawaii                      1
+Idaho                       1
+Illinois                    1
+Indiana                     3
+Iowa                        1
+Kansas                      1
+Kentucky                    1
+Louisiana                   1
+Maine                       6
+Maryland                    1
+Massachusetts             100
+Michigan                    1
+Minnesota                   1
+Mississippi                 1
+Missouri                    1
+Montana                     1
+Nebraska                    1
+Nevada                      1
+New Hampshire              10
+New Jersey                  2
+New Mexico                  1
+New York                    4
+North Carolina              2
+North Dakota                1
+Ohio                        1
+Oklahoma                    1
+Oregon                      1
+Pennsylvania                1
+Rhode Island               11
+South Carolina              1
+South Dakota                1
+Tennessee                   1
+Texas                       1
+Utah                        2
+Vermont                     7
+Virginia                    1
+Washington                  1
+West Virginia               1
+Wisconsin                   1

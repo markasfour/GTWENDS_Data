@@ -1,53 +1,53 @@
                       Tessa Virtue
 geoName                           
-Alabama                         44
-Alaska                          74
-Arizona                         34
-Arkansas                        34
-California                      61
-Colorado                        51
-Connecticut                     94
-Delaware                        48
-District of Columbia            70
-Florida                         43
-Georgia                         34
-Hawaii                          80
-Idaho                           72
-Illinois                        68
-Indiana                         48
-Iowa                            48
-Kansas                          44
-Kentucky                        41
-Louisiana                       35
-Maine                           94
-Maryland                        50
-Massachusetts                  100
-Michigan                        91
-Minnesota                       71
-Mississippi                     45
-Missouri                        59
-Montana                         37
-Nebraska                        40
-Nevada                          44
-New Hampshire                   72
-New Jersey                      53
-New Mexico                      32
-New York                        67
-North Carolina                  38
-North Dakota                    60
-Ohio                            47
-Oklahoma                        65
-Oregon                          49
-Pennsylvania                    63
-Rhode Island                    85
-South Carolina                  38
-South Dakota                    30
-Tennessee                       39
-Texas                           36
-Utah                            78
-Vermont                         77
-Virginia                        59
-Washington                      56
-West Virginia                   16
-Wisconsin                       52
-Wyoming                         45
+Alabama                         25
+Alaska                         100
+Arizona                         40
+Arkansas                        15
+California                      46
+Colorado                        57
+Connecticut                     65
+Delaware                        82
+District of Columbia            54
+Florida                         31
+Georgia                         27
+Hawaii                          23
+Idaho                           44
+Illinois                        54
+Indiana                         31
+Iowa                            39
+Kansas                          28
+Kentucky                        36
+Louisiana                       34
+Maine                           65
+Maryland                        53
+Massachusetts                   62
+Michigan                        70
+Minnesota                       34
+Mississippi                     23
+Missouri                        43
+Montana                         73
+Nebraska                        38
+Nevada                          28
+New Hampshire                   49
+New Jersey                      51
+New Mexico                      19
+New York                        46
+North Carolina                  25
+North Dakota                    23
+Ohio                            37
+Oklahoma                        48
+Oregon                          28
+Pennsylvania                    50
+Rhode Island                    32
+South Carolina                  28
+South Dakota                    69
+Tennessee                       23
+Texas                           30
+Utah                            20
+Vermont                         35
+Virginia                        37
+Washington                      39
+West Virginia                   12
+Wisconsin                       35
+Wyoming                         52

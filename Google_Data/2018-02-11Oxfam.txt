@@ -1,0 +1,52 @@
+                      Oxfam
+geoName                    
+Alabama                   6
+Alaska                   12
+Arizona                  14
+Arkansas                 11
+California               17
+Colorado                 18
+Connecticut              18
+Delaware                 17
+District of Columbia    100
+Florida                  10
+Georgia                  10
+Hawaii                   13
+Idaho                    11
+Illinois                 16
+Indiana                  14
+Iowa                     16
+Kansas                   14
+Kentucky                  9
+Louisiana                11
+Maine                    23
+Maryland                 34
+Massachusetts            68
+Michigan                 11
+Minnesota                20
+Mississippi               8
+Missouri                 12
+Montana                  13
+Nebraska                 12
+Nevada                    9
+New Hampshire            31
+New Jersey               18
+New Mexico               17
+New York                 30
+North Carolina           14
+Ohio                     11
+Oklahoma                  9
+Oregon                   19
+Pennsylvania             14
+Rhode Island             27
+South Carolina           10
+South Dakota             10
+Tennessee                 8
+Texas                    10
+Utah                     11
+Vermont                  52
+Virginia                 22
+Washington               20
+West Virginia            11
+Wisconsin                15
+Wyoming                  16

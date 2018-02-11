@@ -1,53 +1,53 @@
                       Olympic medal count
 geoName                                  
-Alabama                                53
-Alaska                                 76
-Arizona                                54
-Arkansas                               50
-California                             49
-Colorado                               77
-Connecticut                            56
-Delaware                               69
-District of Columbia                   44
-Florida                                52
-Georgia                                48
-Hawaii                                 56
-Idaho                                  75
-Illinois                               56
-Indiana                                58
-Iowa                                   76
-Kansas                                 54
+Alabama                                50
+Alaska                                 68
+Arizona                                51
+Arkansas                               48
+California                             46
+Colorado                               74
+Connecticut                            55
+Delaware                               71
+District of Columbia                   43
+Florida                                50
+Georgia                                47
+Hawaii                                 48
+Idaho                                  70
+Illinois                               52
+Indiana                                55
+Iowa                                   68
+Kansas                                 52
 Kentucky                               50
 Louisiana                              42
-Maine                                  60
-Maryland                               57
-Massachusetts                          60
-Michigan                               66
+Maine                                  61
+Maryland                               52
+Massachusetts                          56
+Michigan                               60
 Minnesota                              65
 Mississippi                            48
-Missouri                               59
-Montana                                75
-Nebraska                               74
-Nevada                                 64
-New Hampshire                          70
-New Jersey                             58
-New Mexico                             64
-New York                               43
-North Carolina                         52
-North Dakota                           88
-Ohio                                   63
-Oklahoma                               64
-Oregon                                 51
-Pennsylvania                           66
-Rhode Island                           51
-South Carolina                         54
-South Dakota                           73
-Tennessee                              51
-Texas                                  51
+Missouri                               58
+Montana                                71
+Nebraska                               70
+Nevada                                 57
+New Hampshire                          56
+New Jersey                             54
+New Mexico                             62
+New York                               40
+North Carolina                         50
+North Dakota                           67
+Ohio                                   57
+Oklahoma                               61
+Oregon                                 48
+Pennsylvania                           62
+Rhode Island                           47
+South Carolina                         52
+South Dakota                           69
+Tennessee                              49
+Texas                                  49
 Utah                                  100
-Vermont                                65
-Virginia                               51
-Washington                             56
-West Virginia                          56
-Wisconsin                              59
-Wyoming                                89
+Vermont                                63
+Virginia                               46
+Washington                             50
+West Virginia                          52
+Wisconsin                              57
+Wyoming                                84

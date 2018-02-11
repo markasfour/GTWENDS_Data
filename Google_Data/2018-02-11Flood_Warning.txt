@@ -1,0 +1,43 @@
+                      Flood Warning
+geoName                            
+Alabama                          13
+Arizona                          16
+Arkansas                         17
+California                       45
+Colorado                         35
+Connecticut                      11
+District of Columbia             18
+Florida                          12
+Georgia                          13
+Hawaii                          100
+Idaho                            23
+Illinois                         17
+Indiana                          13
+Iowa                             12
+Kentucky                          8
+Louisiana                        25
+Maine                            12
+Maryland                         14
+Massachusetts                    18
+Michigan                         11
+Minnesota                        13
+Mississippi                      14
+Missouri                         16
+Nebraska                          9
+Nevada                           43
+New Hampshire                    14
+New Jersey                       13
+New York                         17
+North Carolina                   16
+Ohio                             12
+Oklahoma                         13
+Oregon                           12
+Pennsylvania                     13
+South Carolina                   18
+Tennessee                        14
+Texas                            32
+Utah                             20
+Virginia                         11
+Washington                       21
+West Virginia                    19
+Wisconsin                        14

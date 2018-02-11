@@ -1,49 +1,49 @@
                       John Gavin
 geoName                         
-Alabama                       91
-Arizona                       70
-Arkansas                      63
-California                    94
-Colorado                      64
-Connecticut                   48
-Delaware                      22
+Alabama                       63
+Arizona                       58
+Arkansas                      66
+California                    99
+Colorado                      54
+Connecticut                   81
+Delaware                      34
 District of Columbia         100
-Florida                       68
-Georgia                       66
-Hawaii                        67
-Idaho                         46
-Illinois                      61
-Indiana                       62
-Iowa                          47
-Kansas                        63
-Kentucky                      54
-Louisiana                     78
-Maine                         64
-Maryland                      75
-Massachusetts                 96
-Michigan                      71
-Minnesota                     65
-Mississippi                   92
-Missouri                      67
-Montana                       44
-Nebraska                      59
-Nevada                        72
-New Hampshire                 52
-New Jersey                    77
-New Mexico                    47
-New York                      93
+Florida                       69
+Georgia                       69
+Hawaii                        87
+Idaho                         34
+Illinois                      77
+Indiana                       69
+Iowa                          59
+Kansas                        53
+Kentucky                      47
+Louisiana                     68
+Maine                         58
+Maryland                      81
+Massachusetts                 94
+Michigan                      59
+Minnesota                     71
+Mississippi                   75
+Missouri                      80
+Montana                       57
+Nebraska                      71
+Nevada                        74
+New Hampshire                 68
+New Jersey                    80
+New Mexico                    73
+New York                      95
 North Carolina                61
-Ohio                          71
-Oklahoma                      67
-Oregon                        40
-Pennsylvania                  62
-Rhode Island                 100
-South Carolina                60
-Tennessee                     82
-Texas                         57
-Utah                          63
-Vermont                       28
-Virginia                      64
-Washington                    57
-West Virginia                 82
-Wisconsin                     56
+Ohio                          72
+Oklahoma                      68
+Oregon                        57
+Pennsylvania                  63
+Rhode Island                  63
+South Carolina                40
+Tennessee                     89
+Texas                         73
+Utah                          65
+Vermont                       58
+Virginia                      56
+Washington                    56
+West Virginia                 68
+Wisconsin                     62

@@ -1,47 +1,50 @@
                       Evgenia Medvedeva
 geoName                                
-Alabama                              19
-Arizona                              38
-Arkansas                             26
-California                           51
-Colorado                             50
-Connecticut                          68
-Delaware                             63
-District of Columbia                 33
-Florida                              27
-Georgia                              35
-Hawaii                               11
-Idaho                                25
-Illinois                             43
-Indiana                              39
-Iowa                                  6
-Kansas                               22
-Kentucky                             18
-Louisiana                             9
-Maine                                14
-Maryland                             55
-Massachusetts                        92
-Michigan                             34
-Minnesota                            38
-Mississippi                          26
-Missouri                             22
-Montana                              21
-Nevada                               44
-New Hampshire                       100
-New Jersey                           46
-New Mexico                           57
-New York                             49
-North Carolina                       21
-Ohio                                 40
-Oklahoma                             15
-Oregon                               14
-Pennsylvania                         34
-Rhode Island                         73
-South Carolina                       29
-Tennessee                            16
-Texas                                45
-Utah                                 57
-Vermont                              53
-Virginia                             50
-Washington                           46
-Wisconsin                            36
+Alabama                              20
+Alaska                               44
+Arizona                              32
+Arkansas                             30
+California                           41
+Colorado                             45
+Connecticut                          27
+Delaware                             18
+District of Columbia                 32
+Florida                              29
+Georgia                              23
+Hawaii                               18
+Idaho                                21
+Illinois                             57
+Indiana                              25
+Iowa                                 28
+Kansas                               14
+Kentucky                             20
+Louisiana                            12
+Maine                                35
+Maryland                             49
+Massachusetts                        81
+Michigan                             20
+Minnesota                            35
+Mississippi                          15
+Missouri                             27
+Montana                              18
+Nebraska                             37
+Nevada                               33
+New Hampshire                        54
+New Jersey                           45
+New Mexico                           10
+New York                             46
+North Carolina                       22
+Ohio                                 35
+Oklahoma                              9
+Oregon                               20
+Pennsylvania                         33
+Rhode Island                        100
+South Carolina                       21
+Tennessee                            12
+Texas                                32
+Utah                                 25
+Vermont                              46
+Virginia                             34
+Washington                           38
+West Virginia                        36
+Wisconsin                            34

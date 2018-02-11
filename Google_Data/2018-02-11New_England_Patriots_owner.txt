@@ -1,50 +1,52 @@
                       New England Patriots owner
 geoName                                         
-Alabama                                       22
-Arizona                                       20
-Arkansas                                      49
-California                                    18
-Colorado                                      24
-Connecticut                                   36
-Delaware                                      48
-District of Columbia                          16
-Florida                                       30
-Georgia                                       39
-Hawaii                                        24
-Idaho                                         43
-Illinois                                      20
-Indiana                                       15
-Iowa                                          36
-Kansas                                        37
-Kentucky                                      20
-Louisiana                                     48
-Maine                                         78
-Maryland                                      41
-Massachusetts                                 55
-Michigan                                      35
-Minnesota                                     22
-Mississippi                                   50
-Missouri                                      32
-Montana                                       24
-Nevada                                        13
-New Hampshire                                100
-New Jersey                                    29
-New Mexico                                    26
-New York                                      27
-North Carolina                                22
-North Dakota                                  60
-Ohio                                          26
-Oklahoma                                      63
-Oregon                                        29
-Pennsylvania                                  30
-Rhode Island                                  50
-South Carolina                                32
-South Dakota                                  60
-Tennessee                                     22
-Texas                                         36
-Utah                                          19
-Vermont                                       30
-Virginia                                      27
-Washington                                    25
-West Virginia                                 32
-Wisconsin                                     17
+Alabama                                       11
+Alaska                                        31
+Arizona                                       27
+Arkansas                                      31
+California                                    20
+Colorado                                      35
+Connecticut                                   54
+Delaware                                     100
+District of Columbia                          40
+Florida                                       31
+Georgia                                       26
+Hawaii                                        26
+Idaho                                         30
+Illinois                                      32
+Indiana                                       35
+Iowa                                          31
+Kansas                                        39
+Kentucky                                      16
+Louisiana                                     28
+Maine                                         82
+Maryland                                      26
+Massachusetts                                 68
+Michigan                                      34
+Minnesota                                     20
+Mississippi                                   21
+Missouri                                      41
+Montana                                       25
+Nebraska                                      10
+Nevada                                        26
+New Hampshire                                 91
+New Jersey                                    37
+New York                                      28
+North Carolina                                31
+North Dakota                                  63
+Ohio                                          25
+Oklahoma                                      49
+Oregon                                        24
+Pennsylvania                                  37
+Rhode Island                                  52
+South Carolina                                39
+South Dakota                                  64
+Tennessee                                     26
+Texas                                         38
+Utah                                          35
+Vermont                                       64
+Virginia                                      28
+Washington                                    15
+West Virginia                                 68
+Wisconsin                                     26
+Wyoming                                       47

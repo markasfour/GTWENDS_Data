@@ -1,31 +1,31 @@
                       Ohio State basketball
 geoName                                    
 Alabama                                   3
-Alaska                                    2
-Arizona                                   4
-Arkansas                                  3
+Alaska                                    1
+Arizona                                   3
+Arkansas                                  2
 California                                2
 Colorado                                  3
 Connecticut                               3
-Delaware                                  2
+Delaware                                  3
 District of Columbia                      5
 Florida                                   5
 Georgia                                   4
 Hawaii                                    2
-Idaho                                     1
+Idaho                                     2
 Illinois                                  7
 Indiana                                  17
-Iowa                                      9
+Iowa                                      8
 Kansas                                    4
 Kentucky                                 12
 Louisiana                                 2
-Maine                                     2
+Maine                                     1
 Maryland                                  4
-Massachusetts                             3
-Michigan                                 15
+Massachusetts                             2
+Michigan                                 16
 Minnesota                                 5
-Mississippi                               2
-Missouri                                  4
+Mississippi                               3
+Missouri                                  3
 Montana                                   2
 Nebraska                                  6
 Nevada                                    4
@@ -38,15 +38,15 @@ North Dakota                              3
 Ohio                                    100
 Oklahoma                                  3
 Oregon                                    1
-Pennsylvania                              6
-Rhode Island                              2
+Pennsylvania                              5
+Rhode Island                              3
 South Carolina                            5
-South Dakota                              4
+South Dakota                              3
 Tennessee                                 5
 Texas                                     2
 Utah                                      2
 Vermont                                   2
-Virginia                                  4
-Washington                                1
+Virginia                                  3
+Washington                                2
 West Virginia                            12
 Wisconsin                                 6
