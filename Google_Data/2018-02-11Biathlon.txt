@@ -1,0 +1,53 @@
+                      Biathlon
+geoName                       
+Alabama                      7
+Alaska                      41
+Arizona                      6
+Arkansas                     7
+California                   7
+Colorado                    16
+Connecticut                 12
+Delaware                    12
+District of Columbia         7
+Florida                      6
+Georgia                      5
+Hawaii                      21
+Idaho                       14
+Illinois                    11
+Indiana                      7
+Iowa                        10
+Kansas                      10
+Kentucky                     7
+Louisiana                    4
+Maine                       54
+Maryland                     8
+Massachusetts               12
+Michigan                     9
+Minnesota                   14
+Mississippi                  7
+Missouri                    12
+Montana                     32
+Nebraska                    11
+Nevada                       6
+New Hampshire               30
+New Jersey                   9
+New Mexico                   9
+New York                    11
+North Carolina               7
+North Dakota                16
+Ohio                         8
+Oklahoma                     8
+Oregon                      10
+Pennsylvania                10
+Rhode Island                10
+South Carolina               7
+South Dakota                14
+Tennessee                    6
+Texas                        5
+Utah                        14
+Vermont                    100
+Virginia                     9
+Washington                  14
+West Virginia                5
+Wisconsin                   16
+Wyoming                     38

@@ -1,0 +1,52 @@
+                      Zags
+geoName                   
+Alabama                 10
+Alaska                  15
+Arizona                 12
+Arkansas                 8
+California              12
+Colorado                15
+Connecticut             11
+Delaware                10
+District of Columbia    14
+Florida                  7
+Georgia                 10
+Hawaii                  11
+Idaho                  100
+Illinois                 9
+Indiana                  9
+Iowa                    11
+Kansas                  13
+Kentucky                13
+Louisiana               10
+Maine                   15
+Maryland                10
+Massachusetts           11
+Michigan                12
+Minnesota               10
+Mississippi             11
+Missouri                15
+Montana                 42
+Nebraska                15
+Nevada                  12
+New Hampshire           13
+New Jersey              15
+New Mexico              13
+New York                10
+North Carolina          10
+North Dakota            13
+Ohio                    11
+Oklahoma                11
+Oregon                  19
+Pennsylvania            15
+Rhode Island            12
+South Carolina          11
+South Dakota             9
+Tennessee               12
+Texas                   10
+Utah                    15
+Virginia                 7
+Washington              99
+West Virginia            7
+Wisconsin               10
+Wyoming                 13

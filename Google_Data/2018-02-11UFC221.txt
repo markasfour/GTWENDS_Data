@@ -1,0 +1,10 @@
+               UFC221
+geoName              
+California         14
+Maryland           25
+Massachusetts      49
+Nevada            100
+New Jersey         15
+New York           11
+Tennessee          25
+Texas              20

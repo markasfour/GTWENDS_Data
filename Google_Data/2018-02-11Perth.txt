@@ -1,0 +1,53 @@
+                      Perth
+geoName                    
+Alabama                   3
+Alaska                    8
+Arizona                   6
+Arkansas                  3
+California                7
+Colorado                  6
+Connecticut               5
+Delaware                  8
+District of Columbia     12
+Florida                  10
+Georgia                   4
+Hawaii                    9
+Idaho                     4
+Illinois                  6
+Indiana                   4
+Iowa                      3
+Kansas                   21
+Kentucky                  3
+Louisiana                 4
+Maine                     6
+Maryland                  6
+Massachusetts             8
+Michigan                  5
+Minnesota                 4
+Mississippi               3
+Missouri                  8
+Montana                   5
+Nebraska                  3
+Nevada                    7
+New Hampshire             4
+New Jersey              100
+New Mexico                7
+New York                 21
+North Carolina            6
+North Dakota              4
+Ohio                      4
+Oklahoma                  4
+Oregon                   10
+Pennsylvania              8
+Rhode Island              4
+South Carolina            4
+South Dakota              4
+Tennessee                 4
+Texas                     7
+Utah                      5
+Vermont                   5
+Virginia                 14
+Washington                7
+West Virginia             3
+Wisconsin                 3
+Wyoming                   4

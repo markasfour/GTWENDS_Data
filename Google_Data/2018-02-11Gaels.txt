@@ -1,0 +1,53 @@
+                      Gaels
+geoName                    
+Alabama                  14
+Alaska                   31
+Arizona                  28
+Arkansas                 22
+California               42
+Colorado                 28
+Connecticut              54
+Delaware                 28
+District of Columbia     29
+Florida                  11
+Georgia                  10
+Hawaii                   23
+Idaho                    38
+Illinois                 37
+Indiana                  21
+Iowa                     33
+Kansas                   17
+Kentucky                 20
+Louisiana                 7
+Maine                    11
+Maryland                 35
+Massachusetts            22
+Michigan                 15
+Minnesota               100
+Mississippi              16
+Missouri                 20
+Montana                  39
+Nebraska                 26
+Nevada                   66
+New Hampshire            12
+New Jersey               35
+New Mexico               12
+New York                 36
+North Carolina           16
+North Dakota             10
+Ohio                     18
+Oklahoma                 12
+Oregon                   20
+Pennsylvania             20
+Rhode Island             14
+South Carolina           12
+South Dakota             14
+Tennessee                15
+Texas                    12
+Utah                     35
+Vermont                  36
+Virginia                 17
+Washington               32
+West Virginia            13
+Wisconsin                21
+Wyoming                  31

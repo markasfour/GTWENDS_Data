@@ -1,0 +1,53 @@
+                      Whittaker
+geoName                        
+Alabama                      25
+Alaska                       34
+Arizona                      24
+Arkansas                     23
+California                   22
+Colorado                     25
+Connecticut                  24
+Delaware                     30
+District of Columbia         28
+Florida                      22
+Georgia                      28
+Hawaii                       21
+Idaho                        31
+Illinois                     26
+Indiana                      47
+Iowa                         22
+Kansas                       21
+Kentucky                    100
+Louisiana                    20
+Maine                        30
+Maryland                     28
+Massachusetts                27
+Michigan                     72
+Minnesota                    24
+Mississippi                  18
+Missouri                     31
+Montana                      25
+Nebraska                     23
+Nevada                       23
+New Hampshire                30
+New Jersey                   24
+New Mexico                   20
+New York                     27
+North Carolina               29
+North Dakota                 14
+Ohio                         32
+Oklahoma                     21
+Oregon                       28
+Pennsylvania                 26
+Rhode Island                 28
+South Carolina               28
+South Dakota                 19
+Tennessee                    31
+Texas                        22
+Utah                         35
+Vermont                      26
+Virginia                     25
+Washington                   41
+West Virginia                36
+Wisconsin                    24
+Wyoming                      25

@@ -1,0 +1,53 @@
+                      Mark McMorris
+geoName                            
+Alabama                          12
+Alaska                           19
+Arizona                          20
+Arkansas                         10
+California                       22
+Colorado                         53
+Connecticut                      40
+Delaware                         28
+District of Columbia             22
+Florida                          11
+Georgia                          11
+Hawaii                           27
+Idaho                            35
+Illinois                         23
+Indiana                          17
+Iowa                             21
+Kansas                           15
+Kentucky                         13
+Louisiana                        10
+Maine                            41
+Maryland                         26
+Massachusetts                    31
+Michigan                         31
+Minnesota                        39
+Mississippi                      19
+Missouri                         25
+Montana                          31
+Nebraska                         17
+Nevada                           22
+New Hampshire                    57
+New Jersey                       35
+New Mexico                       15
+New York                         22
+North Carolina                   20
+North Dakota                     27
+Ohio                             17
+Oklahoma                         19
+Oregon                           31
+Pennsylvania                     30
+Rhode Island                     35
+South Carolina                   11
+South Dakota                     39
+Tennessee                        11
+Texas                            11
+Utah                             36
+Vermont                         100
+Virginia                         19
+Washington                       35
+West Virginia                    15
+Wisconsin                        34
+Wyoming                          17

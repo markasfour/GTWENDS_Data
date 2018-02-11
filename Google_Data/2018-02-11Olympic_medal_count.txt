@@ -1,0 +1,53 @@
+                      Olympic medal count
+geoName                                  
+Alabama                                53
+Alaska                                 76
+Arizona                                54
+Arkansas                               50
+California                             49
+Colorado                               77
+Connecticut                            56
+Delaware                               69
+District of Columbia                   44
+Florida                                52
+Georgia                                48
+Hawaii                                 56
+Idaho                                  75
+Illinois                               56
+Indiana                                58
+Iowa                                   76
+Kansas                                 54
+Kentucky                               50
+Louisiana                              42
+Maine                                  60
+Maryland                               57
+Massachusetts                          60
+Michigan                               66
+Minnesota                              65
+Mississippi                            48
+Missouri                               59
+Montana                                75
+Nebraska                               74
+Nevada                                 64
+New Hampshire                          70
+New Jersey                             58
+New Mexico                             64
+New York                               43
+North Carolina                         52
+North Dakota                           88
+Ohio                                   63
+Oklahoma                               64
+Oregon                                 51
+Pennsylvania                           66
+Rhode Island                           51
+South Carolina                         54
+South Dakota                           73
+Tennessee                              51
+Texas                                  51
+Utah                                  100
+Vermont                                65
+Virginia                               51
+Washington                             56
+West Virginia                          56
+Wisconsin                              59
+Wyoming                                89
