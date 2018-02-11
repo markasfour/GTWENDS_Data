@@ -1,0 +1,14 @@
+                FedCup
+geoName               
+California          15
+Florida             23
+Georgia              8
+Hawaii             100
+Massachusetts        6
+New Jersey           8
+New York            15
+North Carolina      12
+Ohio                12
+Pennsylvania        18
+Texas                3
+Virginia            11

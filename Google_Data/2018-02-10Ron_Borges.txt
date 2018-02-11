@@ -1,29 +1,32 @@
                       Ron Borges
 geoName                         
-Arizona                        2
-California                     2
-Connecticut                   27
-District of Columbia          12
-Florida                        2
+Alabama                        4
+California                     1
+Colorado                       1
+Connecticut                   11
+District of Columbia          14
+Florida                        4
 Georgia                        1
-Illinois                       1
+Illinois                       3
 Indiana                        3
 Kentucky                       4
-Maine                         36
-Maryland                       6
+Maine                         29
+Maryland                       5
 Massachusetts                100
-Michigan                       3
+Michigan                       2
+Minnesota                      1
 Missouri                       1
 Nevada                         2
-New Hampshire                 33
-New Jersey                     3
+New Hampshire                 38
+New Jersey                     2
 New York                       7
-North Carolina                 3
-Ohio                           1
-Oregon                         4
+North Carolina                 5
+Ohio                           2
+Oregon                         2
 Pennsylvania                   2
-Rhode Island                  82
+Rhode Island                  56
+Tennessee                      1
 Texas                          3
-Vermont                       47
-Washington                     1
-Wisconsin                      4
+Vermont                       23
+Virginia                       2
+Washington                     3

@@ -1,53 +1,53 @@
                       Winter Olympics
 geoName                              
-Alabama                            44
-Alaska                             70
-Arizona                            50
-Arkansas                           49
-California                         51
-Colorado                           78
-Connecticut                        65
-Delaware                           64
-District of Columbia               43
-Florida                            45
-Georgia                            46
-Hawaii                             55
-Idaho                              80
-Illinois                           65
-Indiana                            62
-Iowa                               80
-Kansas                             62
-Kentucky                           47
-Louisiana                          40
-Maine                              70
-Maryland                           62
-Massachusetts                      68
-Michigan                           64
-Minnesota                          81
-Mississippi                        43
+Alabama                            47
+Alaska                             72
+Arizona                            54
+Arkansas                           45
+California                         52
+Colorado                           81
+Connecticut                        66
+Delaware                           57
+District of Columbia               42
+Florida                            46
+Georgia                            43
+Hawaii                             50
+Idaho                              76
+Illinois                           63
+Indiana                            59
+Iowa                               76
+Kansas                             61
+Kentucky                           49
+Louisiana                          39
+Maine                              76
+Maryland                           61
+Massachusetts                      61
+Michigan                           62
+Minnesota                          79
+Mississippi                        42
 Missouri                           65
-Montana                            92
-Nebraska                           70
-Nevada                             53
-New Hampshire                      79
-New Jersey                         62
-New Mexico                         52
-New York                           57
-North Carolina                     52
+Montana                            88
+Nebraska                           71
+Nevada                             52
+New Hampshire                      75
+New Jersey                         61
+New Mexico                         58
+New York                           56
+North Carolina                     50
 North Dakota                      100
 Ohio                               63
-Oklahoma                           54
-Oregon                             69
-Pennsylvania                       69
-Rhode Island                       66
-South Carolina                     46
-South Dakota                       83
+Oklahoma                           56
+Oregon                             66
+Pennsylvania                       67
+Rhode Island                       65
+South Carolina                     48
+South Dakota                       75
 Tennessee                          47
-Texas                              45
-Utah                               88
-Vermont                            99
-Virginia                           53
-Washington                         63
-West Virginia                      52
+Texas                              43
+Utah                               84
+Vermont                            89
+Virginia                           51
+Washington                         60
+West Virginia                      50
 Wisconsin                          75
-Wyoming                            86
+Wyoming                            78

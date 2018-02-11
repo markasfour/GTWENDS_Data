@@ -1,53 +1,53 @@
                       Tonga
 geoName                    
 Alabama                   5
-Alaska                   26
-Arizona                  11
-Arkansas                  6
-California               23
-Colorado                 10
-Connecticut               7
-Delaware                  6
+Alaska                   36
+Arizona                  12
+Arkansas                  5
+California               28
+Colorado                 11
+Connecticut               8
+Delaware                  7
 District of Columbia     11
-Florida                   7
-Georgia                   6
+Florida                   8
+Georgia                   7
 Hawaii                  100
-Idaho                    14
+Idaho                    15
 Illinois                  7
 Indiana                   6
-Iowa                      6
-Kansas                    7
-Kentucky                  5
-Louisiana                 7
-Maine                     6
-Maryland                  7
-Massachusetts             8
-Michigan                  5
-Minnesota                 6
-Mississippi               4
+Iowa                      7
+Kansas                    8
+Kentucky                  6
+Louisiana                 6
+Maine                     7
+Maryland                  8
+Massachusetts             9
+Michigan                  7
+Minnesota                 9
+Mississippi               5
 Missouri                  6
-Montana                   8
-Nebraska                  4
-Nevada                   13
-New Hampshire             7
-New Jersey                6
-New Mexico                7
-New York                  7
-North Carolina            5
-North Dakota              5
+Montana                  13
+Nebraska                  6
+Nevada                   14
+New Hampshire            10
+New Jersey                7
+New Mexico                8
+New York                  8
+North Carolina            6
+North Dakota              7
 Ohio                      6
 Oklahoma                  7
-Oregon                   11
-Pennsylvania              6
-Rhode Island              9
-South Carolina            5
+Oregon                   12
+Pennsylvania              7
+Rhode Island              8
+South Carolina            6
 South Dakota              6
 Tennessee                 6
-Texas                     7
-Utah                     55
-Vermont                   8
-Virginia                  7
-Washington               15
-West Virginia             5
+Texas                     8
+Utah                     63
+Vermont                   6
+Virginia                  8
+Washington               16
+West Virginia             7
 Wisconsin                 6
-Wyoming                  13
+Wyoming                   9

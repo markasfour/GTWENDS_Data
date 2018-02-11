@@ -1,53 +1,53 @@
                       Dow Futures
 geoName                          
-Alabama                        53
-Alaska                         32
-Arizona                        76
-Arkansas                       36
-California                     57
-Colorado                       58
+Alabama                        57
+Alaska                         44
+Arizona                        70
+Arkansas                       37
+California                     59
+Colorado                       62
 Connecticut                    90
-Delaware                       89
-District of Columbia           67
-Florida                        88
-Georgia                        54
+Delaware                       90
+District of Columbia           69
+Florida                        89
+Georgia                        55
 Hawaii                         66
-Idaho                          41
-Illinois                       70
-Indiana                        58
+Idaho                          47
+Illinois                       68
+Indiana                        56
 Iowa                           54
-Kansas                         51
-Kentucky                       59
-Louisiana                      44
-Maine                          69
-Maryland                       69
-Massachusetts                  83
-Michigan                       77
+Kansas                         52
+Kentucky                       57
+Louisiana                      41
+Maine                          72
+Maryland                       68
+Massachusetts                  87
+Michigan                       80
 Minnesota                      62
-Mississippi                    43
-Missouri                       60
-Montana                        57
-Nebraska                       61
-Nevada                         74
-New Hampshire                  88
+Mississippi                    44
+Missouri                       63
+Montana                        64
+Nebraska                       59
+Nevada                         75
+New Hampshire                  87
 New Jersey                    100
-New Mexico                     54
+New Mexico                     51
 New York                       90
-North Carolina                 59
+North Carolina                 60
 North Dakota                   49
-Ohio                           71
+Ohio                           72
 Oklahoma                       43
-Oregon                         40
-Pennsylvania                   79
-Rhode Island                   85
-South Carolina                 77
+Oregon                         41
+Pennsylvania                   82
+Rhode Island                   90
+South Carolina                 78
 South Dakota                   53
-Tennessee                      54
-Texas                          42
-Utah                           52
-Vermont                        72
-Virginia                       57
-Washington                     61
-West Virginia                  54
-Wisconsin                      77
-Wyoming                        63
+Tennessee                      53
+Texas                          43
+Utah                           53
+Vermont                        76
+Virginia                       56
+Washington                     56
+West Virginia                  56
+Wisconsin                      81
+Wyoming                        68

@@ -1,0 +1,53 @@
+                      Oklahoma State
+geoName                             
+Alabama                            2
+Alaska                             1
+Arizona                            1
+Arkansas                           7
+California                         1
+Colorado                           2
+Connecticut                        1
+Delaware                           1
+District of Columbia               1
+Florida                            1
+Georgia                            1
+Hawaii                             1
+Idaho                              1
+Illinois                           1
+Indiana                            1
+Iowa                               3
+Kansas                             7
+Kentucky                           1
+Louisiana                          3
+Maine                              1
+Maryland                           1
+Massachusetts                      1
+Michigan                           1
+Minnesota                          1
+Mississippi                        2
+Missouri                           4
+Montana                            1
+Nebraska                           3
+Nevada                             1
+New Hampshire                      1
+New Jersey                         1
+New Mexico                         2
+New York                           1
+North Carolina                     1
+North Dakota                       1
+Ohio                               2
+Oklahoma                         100
+Oregon                             1
+Pennsylvania                       1
+Rhode Island                       1
+South Carolina                     1
+South Dakota                       2
+Tennessee                          2
+Texas                              5
+Utah                               1
+Vermont                            1
+Virginia                           1
+Washington                         1
+West Virginia                      3
+Wisconsin                          2
+Wyoming                            2

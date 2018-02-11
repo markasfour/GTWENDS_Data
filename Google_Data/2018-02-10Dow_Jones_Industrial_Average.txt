@@ -1,0 +1,53 @@
+                      Dow Jones Industrial Average
+geoName                                           
+Alabama                                         38
+Alaska                                          32
+Arizona                                         56
+Arkansas                                        36
+California                                      30
+Colorado                                        42
+Connecticut                                     62
+Delaware                                        45
+District of Columbia                            39
+Florida                                         56
+Georgia                                         34
+Hawaii                                          42
+Idaho                                           50
+Illinois                                        49
+Indiana                                         57
+Iowa                                           100
+Kansas                                          51
+Kentucky                                        45
+Louisiana                                       33
+Maine                                           85
+Maryland                                        39
+Massachusetts                                   56
+Michigan                                        66
+Minnesota                                       70
+Mississippi                                     29
+Missouri                                        54
+Montana                                         62
+Nebraska                                        70
+Nevada                                          39
+New Hampshire                                   72
+New Jersey                                      46
+New Mexico                                      49
+New York                                        41
+North Carolina                                  48
+North Dakota                                    63
+Ohio                                            60
+Oklahoma                                        38
+Oregon                                          44
+Pennsylvania                                    58
+Rhode Island                                    54
+South Carolina                                  50
+South Dakota                                    77
+Tennessee                                       41
+Texas                                           29
+Utah                                            41
+Vermont                                         62
+Virginia                                        33
+Washington                                      44
+West Virginia                                   36
+Wisconsin                                       81
+Wyoming                                         67

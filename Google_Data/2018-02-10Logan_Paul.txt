@@ -1,53 +1,53 @@
                       Logan Paul
 geoName                         
-Alabama                       82
-Alaska                        58
-Arizona                       85
-Arkansas                      86
-California                    88
-Colorado                      73
-Connecticut                   91
-Delaware                      73
-District of Columbia          31
-Florida                       71
-Georgia                       70
-Hawaii                        81
-Idaho                         78
-Illinois                      83
-Indiana                       93
+Alabama                       80
+Alaska                        64
+Arizona                       84
+Arkansas                      85
+California                    92
+Colorado                      74
+Connecticut                   93
+Delaware                      83
+District of Columbia          32
+Florida                       73
+Georgia                       68
+Hawaii                        80
+Idaho                         80
+Illinois                      81
+Indiana                       99
 Iowa                          97
-Kansas                        72
-Kentucky                      73
-Louisiana                     73
-Maine                         83
+Kansas                        69
+Kentucky                      70
+Louisiana                     75
+Maine                         81
 Maryland                      77
-Massachusetts                 76
-Michigan                      82
-Minnesota                     84
-Mississippi                   71
+Massachusetts                 75
+Michigan                      83
+Minnesota                     79
+Mississippi                   74
 Missouri                      75
-Montana                       72
+Montana                       74
 Nebraska                     100
-Nevada                        82
-New Hampshire                 84
+Nevada                        84
+New Hampshire                 88
 New Jersey                    96
-New Mexico                    82
-New York                      68
-North Carolina                72
+New Mexico                    83
+New York                      69
+North Carolina                73
 North Dakota                  87
-Ohio                          99
-Oklahoma                      69
-Oregon                        53
-Pennsylvania                  79
-Rhode Island                  84
-South Carolina                78
-South Dakota                  88
-Tennessee                     74
-Texas                         82
-Utah                          91
-Vermont                       66
-Virginia                      58
-Washington                    67
-West Virginia                 88
+Ohio                         100
+Oklahoma                      70
+Oregon                        50
+Pennsylvania                  86
+Rhode Island                  87
+South Carolina                77
+South Dakota                  97
+Tennessee                     77
+Texas                         80
+Utah                          95
+Vermont                       72
+Virginia                      57
+Washington                    66
+West Virginia                 82
 Wisconsin                     82
-Wyoming                       79
+Wyoming                       80

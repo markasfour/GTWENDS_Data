@@ -1,0 +1,53 @@
+                      Korea
+geoName                    
+Alabama                  41
+Alaska                   60
+Arizona                  47
+Arkansas                 38
+California               59
+Colorado                 46
+Connecticut              45
+Delaware                 41
+District of Columbia     55
+Florida                  36
+Georgia                  41
+Hawaii                  100
+Idaho                    43
+Illinois                 41
+Indiana                  45
+Iowa                     43
+Kansas                   58
+Kentucky                 40
+Louisiana                34
+Maine                    43
+Maryland                 49
+Massachusetts            45
+Michigan                 42
+Minnesota                42
+Mississippi              33
+Missouri                 42
+Montana                  39
+Nebraska                 41
+Nevada                   48
+New Hampshire            43
+New Jersey               47
+New Mexico               48
+New York                 46
+North Carolina           41
+North Dakota             42
+Ohio                     39
+Oklahoma                 41
+Oregon                   79
+Pennsylvania             42
+Rhode Island             45
+South Carolina           36
+South Dakota             38
+Tennessee                39
+Texas                    43
+Utah                     42
+Vermont                  39
+Virginia                 58
+Washington               58
+West Virginia            41
+Wisconsin                39
+Wyoming                  40

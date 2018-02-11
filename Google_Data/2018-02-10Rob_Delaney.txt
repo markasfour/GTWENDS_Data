@@ -1,52 +1,52 @@
                       Rob Delaney
 geoName                          
-Alabama                        31
-Alaska                         43
+Alabama                        21
+Alaska                         42
 Arizona                        33
-Arkansas                       41
-California                     63
-Colorado                       49
-Connecticut                    55
-Delaware                       48
-District of Columbia           92
-Florida                        26
-Georgia                        30
-Hawaii                         34
+Arkansas                       35
+California                     65
+Colorado                       45
+Connecticut                    69
+Delaware                       56
+District of Columbia          100
+Florida                        29
+Georgia                        34
+Hawaii                         33
 Idaho                          28
-Illinois                       71
-Indiana                        40
-Iowa                           53
-Kansas                         42
-Kentucky                       35
-Louisiana                      38
-Maine                          57
-Maryland                       43
-Massachusetts                 100
-Michigan                       44
-Minnesota                      68
-Mississippi                    28
-Missouri                       60
-Montana                        23
-Nebraska                       59
-Nevada                         25
-New Hampshire                  69
-New Jersey                     51
-New Mexico                     42
-New York                       77
+Illinois                       62
+Indiana                        62
+Iowa                           57
+Kansas                         39
+Kentucky                       44
+Louisiana                      46
+Maine                          88
+Maryland                       52
+Massachusetts                  97
+Michigan                       49
+Minnesota                      81
+Mississippi                    26
+Missouri                       50
+Montana                        43
+Nebraska                       65
+Nevada                         40
+New Hampshire                  70
+New Jersey                     57
+New Mexico                     23
+New York                       84
 North Carolina                 42
-North Dakota                   35
-Ohio                           46
-Oklahoma                       47
-Oregon                         49
-Pennsylvania                   56
-Rhode Island                   63
-South Carolina                 35
-South Dakota                   64
-Tennessee                      36
-Texas                          33
-Utah                           42
-Vermont                        66
-Virginia                       43
-Washington                     58
-West Virginia                  48
-Wisconsin                      55
+North Dakota                   43
+Ohio                           51
+Oklahoma                       53
+Oregon                         56
+Pennsylvania                   63
+Rhode Island                   68
+South Carolina                 39
+South Dakota                   60
+Tennessee                      43
+Texas                          37
+Utah                           46
+Vermont                        50
+Virginia                       44
+Washington                     61
+West Virginia                  47
+Wisconsin                      52

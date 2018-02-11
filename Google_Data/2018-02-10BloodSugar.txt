@@ -1,0 +1,19 @@
+                BloodSugar
+geoName                   
+Arizona                 50
+California              53
+Florida                 60
+Georgia                 88
+Illinois                53
+Massachusetts           42
+Michigan                65
+Missouri                68
+New Jersey              37
+New York                34
+North Carolina          44
+Ohio                    56
+Pennsylvania            42
+Tennessee              100
+Texas                   63
+Virginia                47
+Washington              62

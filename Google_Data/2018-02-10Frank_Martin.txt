@@ -1,0 +1,53 @@
+                      Frank Martin
+geoName                           
+Alabama                         22
+Alaska                          24
+Arizona                         21
+Arkansas                        33
+California                      21
+Colorado                        23
+Connecticut                     27
+Delaware                        23
+District of Columbia            26
+Florida                         31
+Georgia                         28
+Hawaii                          17
+Idaho                           17
+Illinois                        28
+Indiana                         27
+Iowa                            30
+Kansas                          60
+Kentucky                        36
+Louisiana                       23
+Maine                           36
+Maryland                        25
+Massachusetts                   24
+Michigan                        21
+Minnesota                       23
+Mississippi                     23
+Missouri                        33
+Montana                         21
+Nebraska                        28
+Nevada                          25
+New Hampshire                   18
+New Jersey                      28
+New Mexico                      20
+New York                        27
+North Carolina                  31
+North Dakota                    20
+Ohio                            29
+Oklahoma                        25
+Oregon                          16
+Pennsylvania                    28
+Rhode Island                    23
+South Carolina                 100
+South Dakota                    21
+Tennessee                       31
+Texas                           19
+Utah                            21
+Vermont                         28
+Virginia                        22
+Washington                      24
+West Virginia                   24
+Wisconsin                       22
+Wyoming                         20

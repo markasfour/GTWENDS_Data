@@ -1,0 +1,53 @@
+                      Flu Symptoms 2018
+geoName                                
+Alabama                             100
+Alaska                               15
+Arizona                              27
+Arkansas                             52
+California                           26
+Colorado                             30
+Connecticut                          41
+Delaware                             38
+District of Columbia                  7
+Florida                              36
+Georgia                              53
+Hawaii                               21
+Idaho                                43
+Illinois                             34
+Indiana                              47
+Iowa                                 39
+Kansas                               38
+Kentucky                             44
+Louisiana                            40
+Maine                                33
+Maryland                             39
+Massachusetts                        34
+Michigan                             35
+Minnesota                            31
+Mississippi                          49
+Missouri                             41
+Montana                              35
+Nebraska                             37
+Nevada                               24
+New Hampshire                        49
+New Jersey                           36
+New Mexico                           57
+New York                             28
+North Carolina                       46
+North Dakota                         18
+Ohio                                 42
+Oklahoma                             72
+Oregon                               27
+Pennsylvania                         40
+Rhode Island                         29
+South Carolina                       58
+South Dakota                         27
+Tennessee                            44
+Texas                                40
+Utah                                 28
+Vermont                              33
+Virginia                             29
+Washington                           29
+West Virginia                        73
+Wisconsin                            27
+Wyoming                              30

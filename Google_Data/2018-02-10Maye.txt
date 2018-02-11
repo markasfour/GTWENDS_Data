@@ -1,0 +1,53 @@
+                      Maye
+geoName                   
+Alabama                 45
+Alaska                  12
+Arizona                 22
+Arkansas                29
+California              26
+Colorado                22
+Connecticut             32
+Delaware                34
+District of Columbia    31
+Florida                 33
+Georgia                 32
+Hawaii                  14
+Idaho                   14
+Illinois                25
+Indiana                 23
+Iowa                    25
+Kansas                  35
+Kentucky                29
+Louisiana               25
+Maine                   11
+Maryland                28
+Massachusetts           28
+Michigan                23
+Minnesota               38
+Mississippi             34
+Missouri                21
+Montana                 18
+Nebraska                27
+Nevada                  22
+New Hampshire           30
+New Jersey              33
+New Mexico              19
+New York                36
+North Carolina         100
+North Dakota            35
+Ohio                    26
+Oklahoma                26
+Oregon                  26
+Pennsylvania            26
+Rhode Island            27
+South Carolina          42
+South Dakota            18
+Tennessee               32
+Texas                   24
+Utah                    19
+Vermont                 26
+Virginia                43
+Washington              23
+West Virginia           19
+Wisconsin               23
+Wyoming                 16

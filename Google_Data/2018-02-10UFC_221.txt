@@ -1,0 +1,50 @@
+                      UFC 221
+geoName                      
+Alabama                    12
+Alaska                     32
+Arizona                    51
+Arkansas                   11
+California                 47
+Colorado                   53
+Connecticut                69
+Delaware                   53
+District of Columbia       12
+Florida                    38
+Georgia                    25
+Hawaii                     54
+Idaho                      95
+Illinois                   34
+Indiana                    50
+Iowa                       41
+Kansas                     21
+Kentucky                   51
+Louisiana                  17
+Maine                      34
+Maryland                   49
+Massachusetts              18
+Michigan                   28
+Minnesota                  27
+Mississippi                33
+Missouri                   25
+Nebraska                   11
+Nevada                     69
+New Jersey                 42
+New Mexico                 72
+New York                   34
+North Carolina             14
+North Dakota               33
+Ohio                       43
+Oklahoma                   32
+Oregon                     44
+Pennsylvania               47
+Rhode Island               37
+South Carolina             21
+South Dakota              100
+Tennessee                  20
+Texas                      25
+Utah                       29
+Vermont                    34
+Virginia                   34
+Washington                 43
+West Virginia              18
+Wisconsin                  50

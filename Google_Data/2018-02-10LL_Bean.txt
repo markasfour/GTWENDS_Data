@@ -1,13 +1,13 @@
                       LL Bean
 geoName                      
 Alabama                     7
-Alaska                      7
-Arizona                     2
+Alaska                      8
+Arizona                     3
 Arkansas                    4
 California                  3
 Colorado                    6
-Connecticut                24
-Delaware                   10
+Connecticut                25
+Delaware                   11
 District of Columbia       10
 Florida                     3
 Georgia                     5
@@ -15,7 +15,7 @@ Hawaii                      3
 Idaho                       4
 Illinois                    5
 Indiana                     5
-Iowa                        4
+Iowa                        5
 Kansas                      4
 Kentucky                    8
 Louisiana                   4
@@ -27,20 +27,20 @@ Minnesota                   7
 Mississippi                 5
 Missouri                    4
 Montana                     9
-Nebraska                    3
+Nebraska                    4
 Nevada                      2
-New Hampshire              35
+New Hampshire              37
 New Jersey                 10
-New Mexico                  4
+New Mexico                  5
 New York                   11
 North Carolina              9
 North Dakota                4
-Ohio                        7
+Ohio                        8
 Oklahoma                    3
 Oregon                      4
 Pennsylvania               11
-Rhode Island               24
-South Carolina              9
+Rhode Island               23
+South Carolina             10
 South Dakota                4
 Tennessee                   7
 Texas                       3

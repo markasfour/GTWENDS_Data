@@ -1,9 +1,14 @@
                 Pyeongchang County Korea
 geoName                                 
-Massachusetts                         60
-New Jersey                            28
-New York                              41
-North Carolina                        26
-Texas                                  9
-Washington                            33
-Wisconsin                            100
+Arizona                               62
+California                            46
+Florida                               38
+Illinois                              26
+New Jersey                            41
+New York                              15
+North Carolina                        39
+Pennsylvania                          33
+South Carolina                       100
+Texas                                 27
+Virginia                              35
+Washington                            50
