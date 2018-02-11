@@ -1,0 +1,53 @@
+                      Zaza
+geoName                   
+Alabama                 17
+Alaska                  11
+Arizona                 15
+Arkansas                91
+California              33
+Colorado                15
+Connecticut             43
+Delaware                13
+District of Columbia    20
+Florida                 28
+Georgia                 18
+Hawaii                  20
+Idaho                   10
+Illinois                36
+Indiana                 15
+Iowa                    16
+Kansas                  14
+Kentucky                11
+Louisiana               45
+Maine                   10
+Maryland                17
+Massachusetts           30
+Michigan                16
+Minnesota               16
+Mississippi             15
+Missouri                15
+Montana                  8
+Nebraska                14
+Nevada                  19
+New Hampshire           13
+New Jersey              20
+New Mexico              15
+New York                28
+North Carolina          13
+North Dakota            13
+Ohio                    21
+Oklahoma                44
+Oregon                  14
+Pennsylvania            15
+Rhode Island            14
+South Carolina          13
+South Dakota            12
+Tennessee               14
+Texas                  100
+Utah                    11
+Vermont                 11
+Virginia                15
+Washington              13
+West Virginia            8
+Wisconsin               39
+Wyoming                  6

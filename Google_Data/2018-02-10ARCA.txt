@@ -1,0 +1,53 @@
+                      ARCA
+geoName                   
+Alabama                 34
+Alaska                  19
+Arizona                 25
+Arkansas                22
+California              29
+Colorado                21
+Connecticut             25
+Delaware                19
+District of Columbia    28
+Florida                 35
+Georgia                 30
+Hawaii                  14
+Idaho                   14
+Illinois                32
+Indiana                 36
+Iowa                    28
+Kansas                  24
+Kentucky                33
+Louisiana               19
+Maine                   28
+Maryland                24
+Massachusetts           27
+Michigan                26
+Minnesota               25
+Mississippi             18
+Missouri                29
+Montana                 17
+Nebraska                18
+Nevada                  25
+New Hampshire           17
+New Jersey              28
+New Mexico             100
+New York                37
+North Carolina          53
+North Dakota            10
+Ohio                    24
+Oklahoma                20
+Oregon                  35
+Pennsylvania            29
+Rhode Island            26
+South Carolina          26
+South Dakota            14
+Tennessee               26
+Texas                   28
+Utah                    17
+Vermont                 28
+Virginia                28
+Washington              20
+West Virginia           25
+Wisconsin               41
+Wyoming                 16

@@ -1,53 +1,53 @@
                       Idris Elba
 geoName                         
-Alabama                       64
-Alaska                        50
-Arizona                       49
-Arkansas                      51
-California                    56
-Colorado                      47
+Alabama                       63
+Alaska                        46
+Arizona                       45
+Arkansas                      53
+California                    54
+Colorado                      46
 Connecticut                   53
-Delaware                      69
+Delaware                      74
 District of Columbia         100
-Florida                       58
-Georgia                       83
-Hawaii                        46
-Idaho                         32
-Illinois                      61
-Indiana                       46
-Iowa                          37
-Kansas                        46
-Kentucky                      45
-Louisiana                     68
-Maine                         51
-Maryland                      93
-Massachusetts                 56
-Michigan                      56
-Minnesota                     48
-Mississippi                   71
-Missouri                      54
-Montana                       41
-Nebraska                      45
-Nevada                        54
-New Hampshire                 42
+Florida                       55
+Georgia                       81
+Hawaii                        42
+Idaho                         33
+Illinois                      59
+Indiana                       45
+Iowa                          35
+Kansas                        42
+Kentucky                      47
+Louisiana                     67
+Maine                         41
+Maryland                      91
+Massachusetts                 58
+Michigan                      54
+Minnesota                     46
+Mississippi                   72
+Missouri                      50
+Montana                       43
+Nebraska                      40
+Nevada                        56
+New Hampshire                 29
 New Jersey                    64
-New Mexico                    45
-New York                      78
-North Carolina                66
-North Dakota                  40
-Ohio                          52
-Oklahoma                      51
+New Mexico                    41
+New York                      74
+North Carolina                64
+North Dakota                  29
+Ohio                          51
+Oklahoma                      49
 Oregon                        36
-Pennsylvania                  62
-Rhode Island                  50
+Pennsylvania                  57
+Rhode Island                  53
 South Carolina                67
-South Dakota                  27
-Tennessee                     55
+South Dakota                  25
+Tennessee                     52
 Texas                         56
-Utah                          44
-Vermont                       51
-Virginia                      65
-Washington                    55
-West Virginia                 36
-Wisconsin                     40
-Wyoming                       33
+Utah                          39
+Vermont                       50
+Virginia                      63
+Washington                    54
+West Virginia                 38
+Wisconsin                     37
+Wyoming                       28

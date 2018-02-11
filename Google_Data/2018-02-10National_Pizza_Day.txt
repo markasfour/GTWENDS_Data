@@ -1,53 +1,53 @@
                       National Pizza Day
 geoName                                 
-Alabama                               52
-Alaska                                37
-Arizona                              100
-Arkansas                              61
-California                            86
-Colorado                              65
-Connecticut                           64
-Delaware                              77
-District of Columbia                  74
-Florida                               62
-Georgia                               60
-Hawaii                                67
-Idaho                                 82
-Illinois                              95
-Indiana                               87
-Iowa                                  74
-Kansas                                50
+Alabama                               69
+Alaska                                48
+Arizona                               97
+Arkansas                              67
+California                            85
+Colorado                              62
+Connecticut                           79
+Delaware                              86
+District of Columbia                  81
+Florida                               64
+Georgia                               58
+Hawaii                                65
+Idaho                                 85
+Illinois                              98
+Indiana                               95
+Iowa                                  80
+Kansas                                69
 Kentucky                              69
-Louisiana                             59
-Maine                                 61
-Maryland                              71
-Massachusetts                         55
-Michigan                              91
-Minnesota                             65
-Mississippi                           44
-Missouri                              83
-Montana                               79
-Nebraska                              85
-Nevada                                99
-New Hampshire                         44
-New Jersey                            66
+Louisiana                             67
+Maine                                 62
+Maryland                              90
+Massachusetts                         56
+Michigan                              92
+Minnesota                             75
+Mississippi                           45
+Missouri                              79
+Montana                              100
+Nebraska                              98
+Nevada                                78
+New Hampshire                         66
+New Jersey                            65
 New Mexico                            51
 New York                              67
-North Carolina                        62
-North Dakota                          87
-Ohio                                  87
-Oklahoma                              69
-Oregon                                54
-Pennsylvania                          74
-Rhode Island                          65
-South Carolina                        74
-South Dakota                          48
-Tennessee                             68
-Texas                                 77
-Utah                                  80
-Vermont                               76
-Virginia                              61
+North Carolina                        58
+North Dakota                          92
+Ohio                                  82
+Oklahoma                              62
+Oregon                                50
+Pennsylvania                          65
+Rhode Island                          51
+South Carolina                        77
+South Dakota                          80
+Tennessee                             59
+Texas                                 80
+Utah                                  70
+Vermont                               55
+Virginia                              59
 Washington                            69
-West Virginia                         72
-Wisconsin                             81
-Wyoming                               79
+West Virginia                         43
+Wisconsin                             65
+Wyoming                               48

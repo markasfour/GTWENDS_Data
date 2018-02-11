@@ -33,11 +33,11 @@ NM 1
 NY 3
 NC 13
 ND 0
-OH 8
+OH 13
 OK 3
 OR 1
 PA 5
-RI 10
+RI 11
 SC 2
 SD 0
 TN 6
@@ -45,7 +45,7 @@ TX 4
 UT 15
 VT 0
 VA 7
-WA 12
+WA 15
 WV 4
 WI 5
 WY 0

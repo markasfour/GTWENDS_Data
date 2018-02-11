@@ -1,0 +1,43 @@
+                      Cruz Azul
+geoName                        
+Alabama                      17
+Arizona                      44
+Arkansas                     26
+California                   80
+Colorado                     36
+Connecticut                   9
+District of Columbia         16
+Florida                      21
+Georgia                      35
+Hawaii                        8
+Idaho                        22
+Illinois                     57
+Indiana                      19
+Iowa                         17
+Kansas                       32
+Kentucky                     12
+Louisiana                    15
+Maryland                     11
+Massachusetts                 7
+Michigan                     16
+Minnesota                    18
+Mississippi                  13
+Missouri                     14
+Nebraska                     27
+Nevada                       57
+New Jersey                   20
+New Mexico                   37
+New York                     20
+North Carolina               27
+Ohio                          7
+Oklahoma                     23
+Oregon                       37
+Pennsylvania                  9
+South Carolina               19
+Tennessee                    21
+Texas                       100
+Utah                         33
+Vermont                       1
+Virginia                     22
+Washington                   31
+Wisconsin                    22

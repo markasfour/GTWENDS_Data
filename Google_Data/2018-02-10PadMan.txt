@@ -1,0 +1,44 @@
+                      PadMan
+geoName                     
+Alabama                   10
+Arizona                   32
+Arkansas                  24
+California                41
+Colorado                  11
+Connecticut               38
+Delaware                  15
+District of Columbia      10
+Florida                   20
+Georgia                   27
+Idaho                     35
+Illinois                  42
+Indiana                   35
+Iowa                      27
+Kansas                    50
+Kentucky                  25
+Louisiana                 16
+Maryland                  37
+Massachusetts             42
+Michigan                  20
+Minnesota                 15
+Mississippi               12
+Missouri                  20
+Nebraska                  31
+Nevada                    23
+New Hampshire             35
+New Jersey                69
+New York                  33
+North Carolina            27
+Ohio                      26
+Oklahoma                  14
+Oregon                    12
+Pennsylvania              27
+Rhode Island              41
+South Carolina            11
+Tennessee                 10
+Texas                     28
+Utah                      20
+Virginia                  36
+Washington                40
+West Virginia            100
+Wisconsin                 17

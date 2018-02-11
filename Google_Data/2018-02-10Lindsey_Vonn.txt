@@ -1,53 +1,53 @@
                       Lindsey Vonn
 geoName                           
-Alabama                         42
-Alaska                          46
+Alabama                         46
+Alaska                          49
 Arizona                         44
-Arkansas                        37
+Arkansas                        39
 California                      40
 Colorado                       100
-Connecticut                     58
-Delaware                        53
-District of Columbia            54
-Florida                         44
+Connecticut                     60
+Delaware                        54
+District of Columbia            53
+Florida                         45
 Georgia                         47
-Hawaii                          41
-Idaho                           51
-Illinois                        49
-Indiana                         48
+Hawaii                          39
+Idaho                           53
+Illinois                        48
+Indiana                         47
 Iowa                            52
-Kansas                          39
+Kansas                          40
 Kentucky                        50
-Louisiana                       43
+Louisiana                       46
 Maine                           63
-Maryland                        52
+Maryland                        53
 Massachusetts                   62
-Michigan                        50
+Michigan                        51
 Minnesota                       97
 Mississippi                     39
-Missouri                        45
-Montana                         77
-Nebraska                        55
-Nevada                          41
-New Hampshire                   72
-New Jersey                      45
-New Mexico                      44
+Missouri                        49
+Montana                         70
+Nebraska                        57
+Nevada                          42
+New Hampshire                   70
+New Jersey                      48
+New Mexico                      39
 New York                        44
-North Carolina                  44
-North Dakota                    69
-Ohio                            49
-Oklahoma                        48
+North Carolina                  46
+North Dakota                    58
+Ohio                            50
+Oklahoma                        45
 Oregon                          35
-Pennsylvania                    56
-Rhode Island                    54
+Pennsylvania                    57
+Rhode Island                    55
 South Carolina                  45
-South Dakota                    48
+South Dakota                    50
 Tennessee                       46
-Texas                           42
-Utah                            55
-Vermont                        100
-Virginia                        44
-Washington                      48
-West Virginia                   50
-Wisconsin                       59
-Wyoming                         56
+Texas                           41
+Utah                            58
+Vermont                         87
+Virginia                        45
+Washington                      49
+West Virginia                   45
+Wisconsin                       63
+Wyoming                         68

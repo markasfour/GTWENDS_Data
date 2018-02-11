@@ -1,53 +1,53 @@
                       Katie Couric
 geoName                           
-Alabama                         61
-Alaska                          56
-Arizona                         61
-Arkansas                        63
+Alabama                         60
+Alaska                          59
+Arizona                         58
+Arkansas                        56
 California                      60
 Colorado                        62
 Connecticut                    100
-Delaware                        83
-District of Columbia            67
+Delaware                        80
+District of Columbia            66
 Florida                         58
-Georgia                         66
-Hawaii                          47
-Idaho                           52
-Illinois                        71
-Indiana                         63
-Iowa                            70
-Kansas                          55
-Kentucky                        68
-Louisiana                       59
-Maine                           81
-Maryland                        74
+Georgia                         59
+Hawaii                          41
+Idaho                           49
+Illinois                        70
+Indiana                         62
+Iowa                            78
+Kansas                          56
+Kentucky                        63
+Louisiana                       57
+Maine                           86
+Maryland                        73
 Massachusetts                   91
-Michigan                        67
-Minnesota                       74
-Mississippi                     50
-Missouri                        67
-Montana                         43
-Nebraska                        68
-Nevada                          46
-New Hampshire                   97
-New Jersey                      89
-New Mexico                      55
-New York                        93
-North Carolina                  68
-North Dakota                    55
-Ohio                            78
-Oklahoma                        63
-Oregon                          50
-Pennsylvania                    86
-Rhode Island                    81
-South Carolina                  66
-South Dakota                    66
-Tennessee                       67
-Texas                           51
-Utah                            54
+Michigan                        60
+Minnesota                       72
+Mississippi                     52
+Missouri                        60
+Montana                         46
+Nebraska                        70
+Nevada                          44
+New Hampshire                   93
+New Jersey                      90
+New Mexico                      51
+New York                        87
+North Carolina                  67
+North Dakota                    44
+Ohio                            73
+Oklahoma                        65
+Oregon                          47
+Pennsylvania                    85
+Rhode Island                    74
+South Carolina                  65
+South Dakota                    71
+Tennessee                       68
+Texas                           50
+Utah                            58
 Vermont                         76
-Virginia                        70
-Washington                      73
-West Virginia                   71
-Wisconsin                       74
-Wyoming                         69
+Virginia                        71
+Washington                      65
+West Virginia                   58
+Wisconsin                       76
+Wyoming                         46

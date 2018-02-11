@@ -1,0 +1,53 @@
+                      Rajon Rondo
+geoName                          
+Alabama                        42
+Alaska                         26
+Arizona                        23
+Arkansas                       32
+California                     37
+Colorado                       20
+Connecticut                    47
+Delaware                       33
+District of Columbia           44
+Florida                        34
+Georgia                        42
+Hawaii                         34
+Idaho                          19
+Illinois                       61
+Indiana                        42
+Iowa                           36
+Kansas                         21
+Kentucky                       70
+Louisiana                      42
+Maine                          65
+Maryland                       37
+Massachusetts                 100
+Michigan                       34
+Minnesota                      27
+Mississippi                    47
+Missouri                       26
+Montana                        27
+Nebraska                       33
+Nevada                         33
+New Hampshire                  80
+New Jersey                     42
+New Mexico                     23
+New York                       51
+North Carolina                 35
+North Dakota                   27
+Ohio                           34
+Oklahoma                       32
+Oregon                         18
+Pennsylvania                   33
+Rhode Island                   69
+South Carolina                 35
+South Dakota                   26
+Tennessee                      34
+Texas                          37
+Utah                           25
+Vermont                        54
+Virginia                       30
+Washington                     24
+West Virginia                  30
+Wisconsin                      27
+Wyoming                        17

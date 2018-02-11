@@ -1,0 +1,53 @@
+                      Randle
+geoName                     
+Alabama                   36
+Alaska                    28
+Arizona                   31
+Arkansas                  39
+California                47
+Colorado                  33
+Connecticut               34
+Delaware                  38
+District of Columbia      62
+Florida                   28
+Georgia                   39
+Hawaii                    42
+Idaho                     26
+Illinois                  45
+Indiana                   39
+Iowa                      34
+Kansas                    61
+Kentucky                 100
+Louisiana                 54
+Maine                     27
+Maryland                  42
+Massachusetts             32
+Michigan                  30
+Minnesota                 46
+Mississippi               61
+Missouri                  45
+Montana                   26
+Nebraska                  37
+Nevada                    36
+New Hampshire             23
+New Jersey                45
+New Mexico                25
+New York                  37
+North Carolina            33
+North Dakota              48
+Ohio                      34
+Oklahoma                  53
+Oregon                    30
+Pennsylvania              40
+Rhode Island              30
+South Carolina            30
+South Dakota              44
+Tennessee                 45
+Texas                     55
+Utah                      27
+Vermont                   27
+Virginia                  33
+Washington                66
+West Virginia             33
+Wisconsin                 42
+Wyoming                   22

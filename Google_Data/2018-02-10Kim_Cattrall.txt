@@ -1,53 +1,53 @@
                       Kim Cattrall
 geoName                           
-Alabama                         75
-Alaska                          68
-Arizona                         82
-Arkansas                        77
-California                      77
-Colorado                        70
+Alabama                         72
+Alaska                          50
+Arizona                         72
+Arkansas                        52
+California                      70
+Colorado                        68
 Connecticut                     81
-Delaware                        90
-District of Columbia            92
-Florida                         75
-Georgia                         69
+Delaware                        51
+District of Columbia            70
+Florida                         70
+Georgia                         68
 Hawaii                          69
 Idaho                           67
-Illinois                        77
+Illinois                        68
 Indiana                         72
-Iowa                            89
-Kansas                          68
-Kentucky                        73
-Louisiana                       85
-Maine                           88
-Maryland                        83
-Massachusetts                   82
-Michigan                        77
-Minnesota                       79
-Mississippi                     65
-Missouri                        83
-Montana                         56
-Nebraska                        66
-Nevada                          62
-New Hampshire                   64
-New Jersey                      91
-New Mexico                      87
-New York                       100
-North Carolina                  66
-North Dakota                    68
-Ohio                            81
-Oklahoma                        78
-Oregon                          66
-Pennsylvania                    86
-Rhode Island                    99
-South Carolina                  79
-South Dakota                    69
-Tennessee                       70
-Texas                           74
-Utah                            72
-Vermont                         91
-Virginia                        73
-Washington                      76
-West Virginia                   83
-Wisconsin                       69
-Wyoming                         66
+Iowa                            67
+Kansas                          63
+Kentucky                        67
+Louisiana                       74
+Maine                           71
+Maryland                        69
+Massachusetts                   66
+Michigan                        67
+Minnesota                       63
+Mississippi                     67
+Missouri                        74
+Montana                         53
+Nebraska                        71
+Nevada                          73
+New Hampshire                   89
+New Jersey                      84
+New Mexico                      78
+New York                        86
+North Carolina                  62
+North Dakota                    78
+Ohio                            67
+Oklahoma                        69
+Oregon                          55
+Pennsylvania                    76
+Rhode Island                   100
+South Carolina                  81
+South Dakota                    75
+Tennessee                       74
+Texas                           67
+Utah                            53
+Vermont                         46
+Virginia                        67
+Washington                      65
+West Virginia                   70
+Wisconsin                       64
+Wyoming                         36

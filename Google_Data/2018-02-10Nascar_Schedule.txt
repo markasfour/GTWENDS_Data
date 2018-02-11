@@ -1,0 +1,53 @@
+                      Nascar Schedule
+geoName                              
+Alabama                            69
+Alaska                             27
+Arizona                            44
+Arkansas                           44
+California                         22
+Colorado                           34
+Connecticut                        36
+Delaware                           63
+District of Columbia               43
+Florida                            48
+Georgia                            64
+Hawaii                             14
+Idaho                              51
+Illinois                           41
+Indiana                            72
+Iowa                               82
+Kansas                             49
+Kentucky                           76
+Louisiana                          36
+Maine                              93
+Maryland                           31
+Massachusetts                      29
+Michigan                           59
+Minnesota                          50
+Mississippi                        56
+Missouri                           53
+Montana                            48
+Nebraska                           63
+Nevada                             41
+New Hampshire                      74
+New Jersey                         25
+New Mexico                         30
+New York                           29
+North Carolina                     95
+North Dakota                       66
+Ohio                               62
+Oklahoma                           50
+Oregon                             28
+Pennsylvania                       54
+Rhode Island                       34
+South Carolina                     88
+South Dakota                       67
+Tennessee                          69
+Texas                              31
+Utah                               27
+Vermont                            72
+Virginia                           47
+Washington                         30
+West Virginia                     100
+Wisconsin                          74
+Wyoming                            56

@@ -1,53 +1,53 @@
                       Flu Symptoms 2018
 geoName                                
 Alabama                             100
-Alaska                               15
-Arizona                              27
-Arkansas                             52
+Alaska                               22
+Arizona                              30
+Arkansas                             56
 California                           26
 Colorado                             30
-Connecticut                          41
-Delaware                             38
-District of Columbia                  7
-Florida                              36
-Georgia                              53
-Hawaii                               21
-Idaho                                43
-Illinois                             34
-Indiana                              47
-Iowa                                 39
-Kansas                               38
+Connecticut                          52
+Delaware                             48
+District of Columbia                  9
+Florida                              37
+Georgia                              54
+Hawaii                               12
+Idaho                                36
+Illinois                             32
+Indiana                              46
+Iowa                                 43
+Kansas                               37
 Kentucky                             44
 Louisiana                            40
-Maine                                33
+Maine                                37
 Maryland                             39
-Massachusetts                        34
+Massachusetts                        33
 Michigan                             35
-Minnesota                            31
-Mississippi                          49
-Missouri                             41
-Montana                              35
-Nebraska                             37
-Nevada                               24
-New Hampshire                        49
-New Jersey                           36
-New Mexico                           57
-New York                             28
-North Carolina                       46
-North Dakota                         18
-Ohio                                 42
-Oklahoma                             72
-Oregon                               27
-Pennsylvania                         40
-Rhode Island                         29
-South Carolina                       58
+Minnesota                            28
+Mississippi                          46
+Missouri                             36
+Montana                              47
+Nebraska                             38
+Nevada                               26
+New Hampshire                        41
+New Jersey                           33
+New Mexico                           58
+New York                             27
+North Carolina                       45
+North Dakota                         16
+Ohio                                 47
+Oklahoma                             69
+Oregon                               29
+Pennsylvania                         45
+Rhode Island                         42
+South Carolina                       60
 South Dakota                         27
-Tennessee                            44
+Tennessee                            47
 Texas                                40
-Utah                                 28
+Utah                                 25
 Vermont                              33
-Virginia                             29
-Washington                           29
-West Virginia                        73
-Wisconsin                            27
-Wyoming                              30
+Virginia                             31
+Washington                           31
+West Virginia                        67
+Wisconsin                            38
+Wyoming                              23
