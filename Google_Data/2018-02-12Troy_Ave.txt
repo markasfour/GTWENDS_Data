@@ -1,0 +1,52 @@
+                      Troy Ave
+geoName                       
+Alabama                     15
+Alaska                       8
+Arizona                     10
+Arkansas                     6
+California                  13
+Colorado                    10
+Connecticut                 41
+Delaware                    33
+District of Columbia        39
+Florida                     20
+Georgia                     21
+Hawaii                       7
+Idaho                        6
+Illinois                    16
+Indiana                     16
+Iowa                         6
+Kansas                       7
+Kentucky                     9
+Louisiana                   16
+Maine                        7
+Maryland                    28
+Massachusetts               34
+Michigan                    21
+Minnesota                    9
+Mississippi                 14
+Missouri                    10
+Montana                      4
+Nebraska                     7
+Nevada                      12
+New Hampshire               11
+New Jersey                  46
+New Mexico                  10
+New York                   100
+North Carolina              19
+North Dakota                 7
+Ohio                        16
+Oklahoma                     8
+Oregon                       5
+Pennsylvania                23
+Rhode Island                32
+South Carolina              17
+South Dakota                 7
+Tennessee                   12
+Texas                       11
+Utah                         4
+Vermont                     14
+Virginia                    21
+Washington                   8
+West Virginia                9
+Wisconsin                   10

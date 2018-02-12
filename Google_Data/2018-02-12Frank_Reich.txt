@@ -1,51 +1,53 @@
                       Frank Reich
 geoName                          
-Alabama                        19
+Alabama                        14
+Alaska                         18
 Arizona                        22
-Arkansas                       10
-California                     28
-Colorado                       15
-Connecticut                    34
-Delaware                       51
-District of Columbia           64
+Arkansas                       18
+California                     25
+Colorado                       18
+Connecticut                    24
+Delaware                       90
+District of Columbia           59
 Florida                        20
-Georgia                        25
-Hawaii                          9
-Idaho                           5
-Illinois                       24
-Indiana                       100
-Iowa                           39
-Kansas                         26
-Kentucky                       27
-Louisiana                      24
-Maine                          22
-Maryland                       59
-Massachusetts                  29
-Michigan                       21
-Minnesota                      23
-Mississippi                    11
-Missouri                       15
-Montana                         8
-Nebraska                       17
-Nevada                         22
-New Hampshire                  30
-New Jersey                     65
-New Mexico                     32
-New York                       67
-North Carolina                 44
-North Dakota                   53
-Ohio                           27
-Oklahoma                       25
-Oregon                         14
+Georgia                        21
+Hawaii                         23
+Idaho                          13
+Illinois                       21
+Indiana                        62
+Iowa                           37
+Kansas                         12
+Kentucky                       16
+Louisiana                      20
+Maine                          20
+Maryland                       48
+Massachusetts                  27
+Michigan                       22
+Minnesota                      19
+Mississippi                    12
+Missouri                       13
+Montana                        15
+Nebraska                        9
+Nevada                         25
+New Hampshire                  23
+New Jersey                     67
+New Mexico                     24
+New York                       61
+North Carolina                 37
+North Dakota                   38
+Ohio                           20
+Oklahoma                       15
+Oregon                         11
 Pennsylvania                  100
-Rhode Island                   41
-South Carolina                 49
-South Dakota                   10
-Tennessee                      26
+Rhode Island                   47
+South Carolina                 36
+South Dakota                   19
+Tennessee                      18
 Texas                          17
-Utah                           25
-Vermont                        11
-Virginia                       34
-Washington                     19
-West Virginia                  23
-Wisconsin                      17
+Utah                           16
+Vermont                        29
+Virginia                       37
+Washington                     14
+West Virginia                  15
+Wisconsin                      22
+Wyoming                        14

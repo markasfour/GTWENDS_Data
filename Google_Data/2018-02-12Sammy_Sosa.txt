@@ -1,53 +1,53 @@
                       Sammy Sosa
 geoName                         
-Alabama                       45
-Alaska                        22
-Arizona                       46
-Arkansas                      38
+Alabama                       38
+Alaska                        26
+Arizona                       47
+Arkansas                      48
 California                    40
-Colorado                      35
-Connecticut                   50
-Delaware                      45
-District of Columbia          49
+Colorado                      34
+Connecticut                   45
+Delaware                      44
+District of Columbia          56
 Florida                       51
-Georgia                       49
-Hawaii                        25
+Georgia                       51
+Hawaii                        28
 Idaho                         20
 Illinois                     100
-Indiana                       57
-Iowa                          61
-Kansas                        42
-Kentucky                      39
-Louisiana                     43
-Maine                         25
+Indiana                       59
+Iowa                          60
+Kansas                        38
+Kentucky                      42
+Louisiana                     44
+Maine                         22
 Maryland                      45
-Massachusetts                 46
-Michigan                      38
-Minnesota                     35
-Mississippi                   48
-Missouri                      54
-Montana                       19
-Nebraska                      52
+Massachusetts                 43
+Michigan                      40
+Minnesota                     34
+Mississippi                   46
+Missouri                      53
+Montana                       23
+Nebraska                      53
 Nevada                        43
-New Hampshire                 28
-New Jersey                    57
-New Mexico                    27
-New York                      58
-North Carolina                41
-North Dakota                  28
+New Hampshire                 33
+New Jersey                    55
+New Mexico                    28
+New York                      59
+North Carolina                44
+North Dakota                  37
 Ohio                          40
-Oklahoma                      43
-Oregon                        22
-Pennsylvania                  44
-Rhode Island                  37
-South Carolina                44
-South Dakota                  27
-Tennessee                     44
+Oklahoma                      42
+Oregon                        21
+Pennsylvania                  43
+Rhode Island                  51
+South Carolina                42
+South Dakota                  32
+Tennessee                     39
 Texas                         43
-Utah                          24
-Vermont                       22
-Virginia                      34
+Utah                          23
+Vermont                       24
+Virginia                      35
 Washington                    31
-West Virginia                 34
-Wisconsin                     41
-Wyoming                       16
+West Virginia                 30
+Wisconsin                     46
+Wyoming                       18

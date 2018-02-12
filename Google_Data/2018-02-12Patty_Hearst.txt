@@ -1,53 +1,53 @@
                       Patty Hearst
 geoName                           
-Alabama                         44
-Alaska                          39
-Arizona                         53
-Arkansas                        49
-California                      70
-Colorado                        50
-Connecticut                     60
-Delaware                        53
-District of Columbia            54
-Florida                         45
-Georgia                         45
-Hawaii                          48
-Idaho                           42
-Illinois                        49
-Indiana                         52
-Iowa                            53
-Kansas                          41
-Kentucky                        45
-Louisiana                       45
-Maine                           52
-Maryland                        51
-Massachusetts                   54
-Michigan                        43
-Minnesota                       50
-Mississippi                     41
-Missouri                        48
-Montana                        100
-Nebraska                        41
-Nevada                          57
-New Hampshire                   50
-New Jersey                      55
-New Mexico                      55
-New York                        52
-North Carolina                  44
-North Dakota                    51
-Ohio                            49
-Oklahoma                        49
-Oregon                          51
-Pennsylvania                    52
-Rhode Island                    64
-South Carolina                  45
-South Dakota                    44
-Tennessee                       52
-Texas                           42
-Utah                            48
-Vermont                         70
-Virginia                        41
-Washington                      60
-West Virginia                   50
-Wisconsin                       46
-Wyoming                         36
+Alabama                         64
+Alaska                          87
+Arizona                         77
+Arkansas                        75
+California                     100
+Colorado                        68
+Connecticut                     73
+Delaware                        66
+District of Columbia            75
+Florida                         61
+Georgia                         65
+Hawaii                          57
+Idaho                           56
+Illinois                        68
+Indiana                         63
+Iowa                            56
+Kansas                          57
+Kentucky                        70
+Louisiana                       74
+Maine                           41
+Maryland                        80
+Massachusetts                   72
+Michigan                        69
+Minnesota                       72
+Mississippi                     52
+Missouri                        81
+Montana                         67
+Nebraska                        62
+Nevada                          79
+New Hampshire                   73
+New Jersey                      70
+New Mexico                      58
+New York                        77
+North Carolina                  59
+North Dakota                    57
+Ohio                            71
+Oklahoma                        77
+Oregon                          66
+Pennsylvania                    68
+Rhode Island                    62
+South Carolina                  69
+South Dakota                    52
+Tennessee                       70
+Texas                           59
+Utah                            63
+Vermont                         88
+Virginia                        64
+Washington                      73
+West Virginia                   70
+Wisconsin                       63
+Wyoming                         64

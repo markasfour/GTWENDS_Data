@@ -1,53 +1,53 @@
                       Jamie Anderson
 geoName                             
-Alabama                           31
-Alaska                            62
-Arizona                           41
-Arkansas                          30
-California                        47
-Colorado                          81
-Connecticut                       49
-Delaware                          34
-District of Columbia              33
-Florida                           29
-Georgia                           46
-Hawaii                            35
-Idaho                             86
-Illinois                          43
-Indiana                           47
-Iowa                              37
-Kansas                            40
-Kentucky                          35
+Alabama                           33
+Alaska                            50
+Arizona                           42
+Arkansas                          26
+California                        52
+Colorado                          94
+Connecticut                       64
+Delaware                          37
+District of Columbia              35
+Florida                           32
+Georgia                           44
+Hawaii                            55
+Idaho                             94
+Illinois                          52
+Indiana                           53
+Iowa                              49
+Kansas                            49
+Kentucky                          38
 Louisiana                         38
-Maine                             46
-Maryland                          52
-Massachusetts                     60
-Michigan                          50
-Minnesota                         73
-Mississippi                       45
-Missouri                          40
-Montana                           64
-Nebraska                          47
-Nevada                            50
-New Hampshire                     63
-New Jersey                        45
-New Mexico                        31
-New York                          47
-North Carolina                    55
-North Dakota                      51
-Ohio                              61
-Oklahoma                          47
-Oregon                            39
-Pennsylvania                      48
-Rhode Island                      73
-South Carolina                    54
-South Dakota                      63
-Tennessee                         33
-Texas                             33
-Utah                              66
+Maine                             65
+Maryland                          60
+Massachusetts                     62
+Michigan                          53
+Minnesota                         77
+Mississippi                       42
+Missouri                          53
+Montana                           52
+Nebraska                          63
+Nevada                            61
+New Hampshire                     50
+New Jersey                        46
+New Mexico                        54
+New York                          54
+North Carolina                    59
+North Dakota                      65
+Ohio                              65
+Oklahoma                          48
+Oregon                            47
+Pennsylvania                      55
+Rhode Island                      49
+South Carolina                    61
+South Dakota                      70
+Tennessee                         43
+Texas                             37
+Utah                              79
 Vermont                          100
-Virginia                          37
-Washington                        43
-West Virginia                     43
-Wisconsin                         54
-Wyoming                           63
+Virginia                          43
+Washington                        49
+West Virginia                     53
+Wisconsin                         60
+Wyoming                           56

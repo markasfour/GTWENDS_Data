@@ -1,0 +1,45 @@
+                      General Dynamics
+geoName                               
+Alabama                             22
+Arizona                             46
+Arkansas                            10
+California                          12
+Colorado                            14
+Connecticut                         53
+District of Columbia                45
+Florida                             21
+Georgia                             17
+Hawaii                              17
+Illinois                            11
+Indiana                              9
+Iowa                                22
+Kansas                              23
+Kentucky                            33
+Louisiana                           12
+Maine                               66
+Maryland                            39
+Massachusetts                       37
+Michigan                            19
+Minnesota                           12
+Mississippi                         55
+Missouri                            11
+Nebraska                            13
+Nevada                              10
+New Hampshire                       30
+New Jersey                          10
+New Mexico                          25
+New York                            10
+North Carolina                      14
+Ohio                                12
+Oklahoma                            10
+Oregon                               5
+Pennsylvania                        13
+Rhode Island                       100
+South Carolina                      15
+Tennessee                           10
+Texas                               15
+Utah                                27
+Vermont                             29
+Virginia                            60
+Washington                          12
+Wisconsin                            7

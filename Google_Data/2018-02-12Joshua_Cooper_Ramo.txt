@@ -1,30 +1,34 @@
                       Joshua Cooper Ramo
 geoName                                 
-Arizona                                4
-California                             8
-Colorado                               4
-Connecticut                           20
-Delaware                              31
-District of Columbia                  41
-Florida                                5
-Georgia                                6
-Illinois                               5
-Indiana                                5
-Maine                                 20
+Arizona                                7
+California                            21
+Colorado                              16
+Connecticut                           26
+District of Columbia                  42
+Florida                               14
+Georgia                                4
+Hawaii                                32
+Illinois                              25
+Indiana                               10
+Iowa                                  19
+Louisiana                             14
 Maryland                              16
-Massachusetts                          8
-Michigan                               7
-Missouri                              12
-Nevada                                 8
-New Jersey                            19
+Massachusetts                         21
+Michigan                              10
+Minnesota                             31
+Missouri                               8
+Nevada                                16
+New Jersey                            39
 New Mexico                           100
-New York                              15
-North Carolina                         2
-Ohio                                   2
-Oregon                                 8
-Pennsylvania                           6
-South Carolina                         6
-Tennessee                             12
-Texas                                  6
-Virginia                               4
-Washington                             6
+New York                              42
+North Carolina                         5
+Ohio                                  14
+Oregon                                34
+Pennsylvania                          19
+South Carolina                        12
+Tennessee                             16
+Texas                                 10
+Utah                                  17
+Virginia                              42
+Washington                            18
+Wisconsin                             18

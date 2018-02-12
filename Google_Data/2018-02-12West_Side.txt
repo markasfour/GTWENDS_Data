@@ -1,0 +1,44 @@
+                      West Side
+geoName                        
+Alabama                       8
+Arizona                      13
+California                   15
+Colorado                     14
+Connecticut                  29
+District of Columbia         21
+Florida                      11
+Georgia                      12
+Hawaii                       27
+Idaho                        18
+Illinois                     22
+Indiana                      35
+Iowa                         19
+Kansas                       15
+Kentucky                     13
+Louisiana                     9
+Maine                        11
+Maryland                     12
+Massachusetts                19
+Michigan                     20
+Minnesota                    19
+Missouri                     12
+Nebraska                     12
+Nevada                       12
+New Hampshire                17
+New Jersey                   32
+New Mexico                   36
+New York                    100
+North Carolina                9
+Ohio                         43
+Oklahoma                     11
+Oregon                       12
+Pennsylvania                 17
+Rhode Island                 18
+South Carolina                9
+Tennessee                    13
+Texas                        12
+Utah                         14
+Virginia                      9
+Washington                   14
+West Virginia                20
+Wisconsin                    29

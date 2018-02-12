@@ -1,26 +1,38 @@
                       Chris Mazdzer
 geoName                            
+Alabama                           9
+Alaska                           48
 Arizona                           9
-California                       15
-Colorado                         30
-Connecticut                      34
-District of Columbia             71
-Florida                           9
-Georgia                          15
-Illinois                         20
-Indiana                          12
-Kansas                           21
-Massachusetts                    27
-Minnesota                        10
-Missouri                         10
-New Hampshire                    47
+California                       10
+Colorado                         40
+Connecticut                      16
+District of Columbia             18
+Florida                           7
+Georgia                          10
+Illinois                          6
+Indiana                          18
+Iowa                             12
+Louisiana                         9
+Maryland                         15
+Massachusetts                    37
+Michigan                         16
+Minnesota                         5
+Mississippi                      32
+Missouri                         16
+Nevada                           10
 New Jersey                       12
-New York                         35
-North Dakota                    100
-Ohio                             24
-Pennsylvania                      5
-South Carolina                   46
-Texas                             6
-Utah                             21
-Virginia                         16
-Wisconsin                        34
+New Mexico                       21
+New York                         20
+North Carolina                    9
+North Dakota                     49
+Ohio                             36
+Oklahoma                         10
+Oregon                            5
+South Carolina                    7
+Tennessee                        10
+Texas                             5
+Utah                             11
+Vermont                         100
+Virginia                         11
+Washington                        7
+Wisconsin                        17
