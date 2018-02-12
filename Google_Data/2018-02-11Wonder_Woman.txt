@@ -1,53 +1,53 @@
                       Wonder Woman
 geoName                           
-Alabama                         72
-Alaska                          73
-Arizona                         85
-Arkansas                        69
-California                      86
-Colorado                        73
-Connecticut                     64
-Delaware                        72
-District of Columbia            67
-Florida                         67
-Georgia                         66
-Hawaii                          77
-Idaho                           76
-Illinois                        70
-Indiana                         72
-Iowa                            64
-Kansas                          65
+Alabama                         73
+Alaska                          77
+Arizona                         84
+Arkansas                        73
+California                      87
+Colorado                        74
+Connecticut                     66
+Delaware                        71
+District of Columbia            71
+Florida                         72
+Georgia                         67
+Hawaii                          80
+Idaho                           78
+Illinois                        72
+Indiana                         78
+Iowa                            66
+Kansas                          64
 Kentucky                        66
-Louisiana                       66
+Louisiana                       67
 Maine                           56
-Maryland                        74
-Massachusetts                   62
-Michigan                        71
-Minnesota                       62
-Mississippi                     60
-Missouri                        68
-Montana                         63
-Nebraska                        67
-Nevada                          82
-New Hampshire                   59
+Maryland                        73
+Massachusetts                   63
+Michigan                        74
+Minnesota                       63
+Mississippi                     64
+Missouri                        66
+Montana                         61
+Nebraska                        66
+Nevada                          85
+New Hampshire                   64
 New Jersey                      71
 New Mexico                      90
 New York                        67
-North Carolina                  69
-North Dakota                    62
-Ohio                            66
-Oklahoma                        75
-Oregon                          59
-Pennsylvania                    64
-Rhode Island                    66
-South Carolina                  66
-South Dakota                    58
-Tennessee                       73
-Texas                           82
+North Carolina                  68
+North Dakota                    65
+Ohio                            67
+Oklahoma                        74
+Oregon                          60
+Pennsylvania                    66
+Rhode Island                    72
+South Carolina                  67
+South Dakota                    57
+Tennessee                       74
+Texas                           85
 Utah                           100
-Vermont                         55
-Virginia                        60
-Washington                      77
-West Virginia                   68
-Wisconsin                       56
-Wyoming                         66
+Vermont                         61
+Virginia                        62
+Washington                      74
+West Virginia                   71
+Wisconsin                       57
+Wyoming                         68

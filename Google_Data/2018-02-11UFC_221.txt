@@ -1,49 +1,51 @@
-                UFC 221
-geoName                
-Alabama              10
-Arizona              62
-Arkansas              9
-California           43
-Colorado             36
-Connecticut          33
-Delaware             44
-Florida              35
-Georgia              22
-Hawaii              100
-Idaho                39
-Illinois             31
-Indiana              34
-Iowa                 40
-Kansas               28
-Kentucky             24
-Louisiana            14
-Maine                28
-Maryland             60
-Massachusetts        11
-Michigan             33
-Minnesota            17
-Mississippi          18
-Missouri             38
-Montana              22
-Nebraska             18
-Nevada               74
-New Hampshire        53
-New Jersey           39
-New Mexico           47
-New York             34
-North Carolina       27
-Ohio                 39
-Oklahoma             42
-Oregon               42
-Pennsylvania         42
-Rhode Island         45
-South Carolina       25
-South Dakota         83
-Tennessee            34
-Texas                30
-Utah                 54
-Vermont              28
-Virginia             31
-Washington           46
-West Virginia        73
-Wisconsin            44
+                      UFC 221
+geoName                      
+Alabama                     9
+Alaska                     25
+Arizona                    61
+Arkansas                   17
+California                 42
+Colorado                   36
+Connecticut                48
+Delaware                   20
+District of Columbia        9
+Florida                    31
+Georgia                    22
+Hawaii                     31
+Idaho                      61
+Illinois                   30
+Indiana                    29
+Iowa                       31
+Kansas                     21
+Kentucky                   40
+Louisiana                  22
+Maine                      40
+Maryland                   56
+Massachusetts              16
+Michigan                   28
+Minnesota                  24
+Mississippi                17
+Missouri                   22
+Montana                    61
+Nebraska                   34
+Nevada                     53
+New Hampshire              25
+New Jersey                 34
+New Mexico                100
+New York                   26
+North Carolina             28
+Ohio                       30
+Oklahoma                   45
+Oregon                     28
+Pennsylvania               35
+Rhode Island               14
+South Carolina             24
+South Dakota               76
+Tennessee                  40
+Texas                      33
+Utah                       39
+Vermont                    26
+Virginia                   25
+Washington                 39
+West Virginia              41
+Wisconsin                  47

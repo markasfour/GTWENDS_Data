@@ -1,0 +1,53 @@
+                      Lakers
+geoName                     
+Alabama                   17
+Alaska                    19
+Arizona                   27
+Arkansas                  17
+California               100
+Colorado                  14
+Connecticut               12
+Delaware                  15
+District of Columbia      18
+Florida                   13
+Georgia                   18
+Hawaii                    69
+Idaho                     18
+Illinois                  14
+Indiana                   13
+Iowa                      15
+Kansas                    12
+Kentucky                  13
+Louisiana                 18
+Maine                      9
+Maryland                  15
+Massachusetts             11
+Michigan                  12
+Minnesota                 11
+Mississippi               25
+Missouri                  13
+Montana                   15
+Nebraska                  16
+Nevada                    55
+New Hampshire              6
+New Jersey                15
+New Mexico                27
+New York                  15
+North Carolina            16
+North Dakota              16
+Ohio                      12
+Oklahoma                  14
+Oregon                    14
+Pennsylvania              12
+Rhode Island              11
+South Carolina            17
+South Dakota              16
+Tennessee                 15
+Texas                     19
+Utah                      19
+Vermont                    8
+Virginia                  14
+Washington                17
+West Virginia             13
+Wisconsin                 10
+Wyoming                   15

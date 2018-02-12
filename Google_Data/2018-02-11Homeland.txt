@@ -1,0 +1,53 @@
+                      Homeland
+geoName                       
+Alabama                     27
+Alaska                      29
+Arizona                     31
+Arkansas                    23
+California                  36
+Colorado                    33
+Connecticut                 45
+Delaware                    42
+District of Columbia        83
+Florida                     32
+Georgia                     28
+Hawaii                      34
+Idaho                       29
+Illinois                    34
+Indiana                     34
+Iowa                        26
+Kansas                      31
+Kentucky                    27
+Louisiana                   30
+Maine                       35
+Maryland                    50
+Massachusetts               48
+Michigan                    26
+Minnesota                   30
+Mississippi                 24
+Missouri                    30
+Montana                     28
+Nebraska                    25
+Nevada                      30
+New Hampshire               41
+New Jersey                  48
+New Mexico                  31
+New York                    47
+North Carolina              34
+North Dakota                23
+Ohio                        33
+Oklahoma                   100
+Oregon                      26
+Pennsylvania                36
+Rhode Island                39
+South Carolina              29
+South Dakota                22
+Tennessee                   34
+Texas                       29
+Utah                        25
+Vermont                     45
+Virginia                    42
+Washington                  33
+West Virginia               28
+Wisconsin                   25
+Wyoming                     28

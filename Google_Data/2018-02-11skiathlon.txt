@@ -1,0 +1,47 @@
+                      skiathlon
+geoName                        
+Alabama                       9
+Alaska                      100
+Arizona                      10
+California                   15
+Colorado                     26
+Connecticut                  35
+District of Columbia         32
+Florida                       9
+Georgia                       9
+Illinois                     18
+Indiana                      19
+Iowa                         31
+Kansas                        5
+Kentucky                     26
+Louisiana                    22
+Maryland                     37
+Massachusetts                35
+Michigan                     13
+Minnesota                    50
+Mississippi                  25
+Missouri                     22
+Montana                      20
+Nebraska                     25
+Nevada                       16
+New Hampshire                25
+New Jersey                    8
+New Mexico                   11
+New York                     18
+North Carolina               11
+Ohio                         20
+Oklahoma                     10
+Oregon                       39
+Pennsylvania                 32
+Rhode Island                 14
+South Carolina                8
+South Dakota                 25
+Tennessee                    13
+Texas                         8
+Utah                         11
+Vermont                      78
+Virginia                     15
+Washington                   21
+West Virginia                14
+Wisconsin                    29
+Wyoming                      38

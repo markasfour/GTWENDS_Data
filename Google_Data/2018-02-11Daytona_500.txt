@@ -1,0 +1,53 @@
+                      Daytona 500
+geoName                          
+Alabama                        44
+Alaska                         27
+Arizona                        26
+Arkansas                       34
+California                     17
+Colorado                       33
+Connecticut                    50
+Delaware                       36
+District of Columbia           34
+Florida                       100
+Georgia                        56
+Hawaii                         13
+Idaho                          34
+Illinois                       38
+Indiana                        58
+Iowa                           77
+Kansas                         34
+Kentucky                       56
+Louisiana                      27
+Maine                          64
+Maryland                       31
+Massachusetts                  34
+Michigan                       55
+Minnesota                      47
+Mississippi                    39
+Missouri                       44
+Montana                        33
+Nebraska                       47
+Nevada                         27
+New Hampshire                  48
+New Jersey                     29
+New Mexico                     22
+New York                       32
+North Carolina                 64
+North Dakota                   55
+Ohio                           59
+Oklahoma                       43
+Oregon                         20
+Pennsylvania                   47
+Rhode Island                   35
+South Carolina                 62
+South Dakota                   71
+Tennessee                      55
+Texas                          22
+Utah                           20
+Vermont                        78
+Virginia                       37
+Washington                     26
+West Virginia                  63
+Wisconsin                      64
+Wyoming                        38

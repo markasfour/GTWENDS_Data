@@ -1,40 +1,35 @@
                       Sabrina Dhowre
 geoName                             
-Alabama                           28
-Arizona                           29
-Arkansas                         100
-California                        31
-Colorado                          15
-Connecticut                       39
-District of Columbia              68
-Florida                           27
-Georgia                           57
-Illinois                          28
-Indiana                           19
-Kansas                            16
-Kentucky                          26
-Louisiana                         53
-Maryland                          94
-Massachusetts                     37
-Michigan                          34
-Minnesota                         62
-Mississippi                       50
-Missouri                           8
-Nebraska                          25
-Nevada                            16
-New Hampshire                     36
-New Jersey                        73
-New Mexico                        32
-New York                          50
-North Carolina                    56
-Ohio                              33
-Oklahoma                          15
-Oregon                            25
-Pennsylvania                      38
-South Carolina                    23
-Tennessee                         39
-Texas                             35
-Virginia                          41
-Washington                        46
-West Virginia                     40
-Wisconsin                          9
+Alabama                           27
+Arizona                           28
+Arkansas                          73
+California                        26
+Colorado                          22
+Connecticut                       25
+District of Columbia              13
+Florida                           19
+Georgia                           83
+Illinois                          12
+Indiana                            9
+Kentucky                          25
+Louisiana                         39
+Maryland                         100
+Massachusetts                     50
+Michigan                          33
+Minnesota                         68
+Missouri                          16
+Nebraska                          24
+Nevada                            15
+New Jersey                        51
+New York                          54
+North Carolina                    50
+Ohio                              36
+Oklahoma                          29
+Oregon                            40
+Pennsylvania                      41
+South Carolina                    34
+Tennessee                         38
+Texas                             42
+Virginia                          28
+Washington                        45
+Wisconsin                         25

@@ -1,53 +1,53 @@
                       Mark McMorris
 geoName                            
-Alabama                          10
-Alaska                           12
-Arizona                          18
-Arkansas                          7
+Alabama                          14
+Alaska                           33
+Arizona                          23
+Arkansas                          6
 California                       25
-Colorado                         66
-Connecticut                      36
-Delaware                         16
-District of Columbia             15
+Colorado                         71
+Connecticut                      45
+Delaware                         31
+District of Columbia             24
 Florida                          12
-Georgia                          12
-Hawaii                           35
-Idaho                            41
+Georgia                          11
+Hawaii                           28
+Idaho                            24
 Illinois                         23
-Indiana                          16
-Iowa                             23
-Kansas                           23
-Kentucky                         14
+Indiana                          18
+Iowa                             25
+Kansas                           25
+Kentucky                         15
 Louisiana                        10
-Maine                            32
-Maryland                         28
-Massachusetts                    35
-Michigan                         31
-Minnesota                        36
-Mississippi                      18
-Missouri                         20
-Montana                          36
-Nebraska                         25
-Nevada                           25
-New Hampshire                    52
-New Jersey                       37
-New Mexico                       16
-New York                         26
-North Carolina                   19
-North Dakota                     50
-Ohio                             18
-Oklahoma                         20
-Oregon                           27
-Pennsylvania                     32
-Rhode Island                     25
-South Carolina                   13
-South Dakota                     17
-Tennessee                        18
-Texas                            12
-Utah                             34
+Maine                            55
+Maryland                         29
+Massachusetts                    36
+Michigan                         34
+Minnesota                        39
+Mississippi                      16
+Missouri                         22
+Montana                          47
+Nebraska                         24
+Nevada                           26
+New Hampshire                    43
+New Jersey                       38
+New Mexico                       28
+New York                         24
+North Carolina                   18
+North Dakota                     34
+Ohio                             20
+Oklahoma                         24
+Oregon                           30
+Pennsylvania                     35
+Rhode Island                     40
+South Carolina                   14
+South Dakota                     29
+Tennessee                        14
+Texas                            11
+Utah                             35
 Vermont                         100
-Virginia                         19
-Washington                       38
-West Virginia                     9
-Wisconsin                        28
-Wyoming                          25
+Virginia                         25
+Washington                       43
+West Virginia                     5
+Wisconsin                        33
+Wyoming                          13

@@ -1,51 +1,52 @@
                       Red Gerard
 geoName                         
-Alabama                       32
-Alaska                        38
-Arizona                       31
-Arkansas                      51
-California                    36
-Colorado                      67
-Connecticut                   37
-Delaware                      76
-District of Columbia          56
+Alabama                       38
+Alaska                        41
+Arizona                       40
+Arkansas                      41
+California                    41
+Colorado                      72
+Connecticut                   47
+Delaware                      50
+District of Columbia          37
 Florida                       33
-Georgia                       27
-Hawaii                        24
-Idaho                         46
-Illinois                      30
-Indiana                       29
-Iowa                          57
-Kansas                        36
-Kentucky                      34
-Louisiana                     51
-Maine                        100
-Maryland                      47
-Massachusetts                 48
+Georgia                       35
+Hawaii                        34
+Idaho                        100
+Illinois                      43
+Indiana                       24
+Iowa                          41
+Kansas                        48
+Kentucky                      36
+Louisiana                     48
+Maine                         65
+Maryland                      48
+Massachusetts                 54
 Michigan                      59
-Minnesota                     40
-Mississippi                   13
-Missouri                      33
-Montana                       47
-Nebraska                      32
-Nevada                        69
-New Hampshire                 47
-New Jersey                    50
-New Mexico                    50
-New York                      43
+Minnesota                     43
+Mississippi                   28
+Missouri                      36
+Montana                       50
+Nebraska                      55
+Nevada                        61
+New Hampshire                 30
+New Jersey                    48
+New Mexico                    54
+New York                      38
 North Carolina                37
-Ohio                          59
-Oklahoma                      45
+North Dakota                  21
+Ohio                          71
+Oklahoma                      49
 Oregon                        39
-Pennsylvania                  62
-Rhode Island                  54
-South Carolina                36
-South Dakota                  59
-Tennessee                     36
-Texas                         40
-Utah                          47
-Vermont                       98
-Virginia                      19
-Washington                    24
-West Virginia                 62
-Wisconsin                     41
+Pennsylvania                  47
+Rhode Island                  59
+South Carolina                45
+South Dakota                  21
+Tennessee                     35
+Texas                         37
+Utah                          23
+Vermont                       85
+Virginia                      21
+Washington                    40
+West Virginia                 45
+Wisconsin                     51

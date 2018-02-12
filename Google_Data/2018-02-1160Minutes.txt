@@ -1,0 +1,30 @@
+                      60Minutes
+geoName                        
+Alabama                      34
+Arizona                      62
+California                   79
+Colorado                     65
+Connecticut                 100
+District of Columbia         55
+Florida                      66
+Georgia                      47
+Illinois                     69
+Indiana                      62
+Louisiana                    38
+Maryland                     89
+Massachusetts                91
+Michigan                     63
+Minnesota                    53
+Missouri                     42
+New Jersey                  100
+New York                     79
+North Carolina               70
+Ohio                         91
+Oregon                       23
+Pennsylvania                 65
+South Carolina               62
+Tennessee                    48
+Texas                        36
+Virginia                     45
+Washington                   61
+Wisconsin                    57

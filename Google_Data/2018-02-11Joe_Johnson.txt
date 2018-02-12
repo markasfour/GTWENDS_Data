@@ -1,0 +1,53 @@
+                      Joe Johnson
+geoName                          
+Alabama                        31
+Alaska                         13
+Arizona                        25
+Arkansas                      100
+California                     24
+Colorado                       19
+Connecticut                    34
+Delaware                       24
+District of Columbia           35
+Florida                        36
+Georgia                        46
+Hawaii                         22
+Idaho                          20
+Illinois                       30
+Indiana                        29
+Iowa                           26
+Kansas                         24
+Kentucky                       33
+Louisiana                      32
+Maine                          23
+Maryland                       31
+Massachusetts                  33
+Michigan                       30
+Minnesota                      26
+Mississippi                    32
+Missouri                       28
+Montana                        20
+Nebraska                       25
+Nevada                         30
+New Hampshire                  21
+New Jersey                     41
+New Mexico                     16
+New York                       43
+North Carolina                 30
+North Dakota                   28
+Ohio                           54
+Oklahoma                       35
+Oregon                         20
+Pennsylvania                   27
+Rhode Island                   27
+South Carolina                 34
+South Dakota                   22
+Tennessee                      58
+Texas                          30
+Utah                           65
+Vermont                        25
+Virginia                       26
+Washington                     20
+West Virginia                  24
+Wisconsin                      26
+Wyoming                        33
