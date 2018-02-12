@@ -1,0 +1,53 @@
+                      Canadians
+geoName                        
+Alabama                      21
+Alaska                       38
+Arizona                      45
+Arkansas                     20
+California                   32
+Colorado                     34
+Connecticut                  42
+Delaware                     27
+District of Columbia         37
+Florida                      41
+Georgia                      26
+Hawaii                       42
+Idaho                        33
+Illinois                     33
+Indiana                      31
+Iowa                         31
+Kansas                       28
+Kentucky                     23
+Louisiana                    28
+Maine                        59
+Maryland                     29
+Massachusetts                53
+Michigan                     42
+Minnesota                    40
+Mississippi                  19
+Missouri                     27
+Montana                      50
+Nebraska                     24
+Nevada                       34
+New Hampshire                59
+New Jersey                   32
+New Mexico                   19
+New York                     42
+North Carolina               25
+North Dakota                 58
+Ohio                         29
+Oklahoma                     23
+Oregon                       33
+Pennsylvania                 35
+Rhode Island                 47
+South Carolina               29
+South Dakota                 28
+Tennessee                    22
+Texas                        27
+Utah                         36
+Vermont                     100
+Virginia                     25
+Washington                   47
+West Virginia                28
+Wisconsin                    31
+Wyoming                      33

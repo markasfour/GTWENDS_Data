@@ -1,0 +1,52 @@
+                      KUWTK
+geoName                    
+Alabama                  46
+Alaska                   69
+Arizona                  73
+Arkansas                 48
+California               94
+Colorado                 53
+Connecticut              85
+Delaware                 74
+District of Columbia     55
+Florida                  67
+Georgia                  49
+Hawaii                   93
+Idaho                    69
+Illinois                 65
+Indiana                  57
+Iowa                     59
+Kansas                   52
+Kentucky                 47
+Louisiana                54
+Maine                    58
+Maryland                 76
+Massachusetts            74
+Michigan                 58
+Minnesota                61
+Mississippi              51
+Missouri                 42
+Montana                  47
+Nebraska                 55
+Nevada                   90
+New Hampshire            53
+New Jersey               82
+New Mexico               62
+New York                 91
+North Carolina           57
+North Dakota             39
+Ohio                     49
+Oklahoma                 51
+Oregon                   50
+Pennsylvania             67
+Rhode Island            100
+South Carolina           59
+South Dakota             34
+Tennessee                48
+Texas                    66
+Utah                     47
+Vermont                  62
+Virginia                 58
+Washington               71
+West Virginia            64
+Wisconsin                50

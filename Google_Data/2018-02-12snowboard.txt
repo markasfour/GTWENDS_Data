@@ -1,0 +1,53 @@
+                      snowboard
+geoName                        
+Alabama                       5
+Alaska                       57
+Arizona                      19
+Arkansas                      6
+California                   27
+Colorado                     84
+Connecticut                  26
+Delaware                     17
+District of Columbia         16
+Florida                       7
+Georgia                       8
+Hawaii                       19
+Idaho                        59
+Illinois                     15
+Indiana                      11
+Iowa                         16
+Kansas                       10
+Kentucky                      8
+Louisiana                     5
+Maine                        35
+Maryland                     17
+Massachusetts                29
+Michigan                     26
+Minnesota                    29
+Mississippi                   5
+Missouri                     10
+Montana                      68
+Nebraska                     15
+Nevada                       33
+New Hampshire                54
+New Jersey                   24
+New Mexico                   32
+New York                     23
+North Carolina               13
+North Dakota                 30
+Ohio                         14
+Oklahoma                      9
+Oregon                       37
+Pennsylvania                 23
+Rhode Island                 27
+South Carolina                9
+South Dakota                 29
+Tennessee                    11
+Texas                         8
+Utah                         70
+Vermont                     100
+Virginia                     16
+Washington                   45
+West Virginia                21
+Wisconsin                    28
+Wyoming                      69

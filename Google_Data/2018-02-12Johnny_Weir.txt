@@ -1,0 +1,53 @@
+                      Johnny Weir
+geoName                          
+Alabama                        45
+Alaska                         45
+Arizona                        47
+Arkansas                       43
+California                     49
+Colorado                       67
+Connecticut                    75
+Delaware                      100
+District of Columbia           62
+Florida                        42
+Georgia                        45
+Hawaii                         44
+Idaho                          52
+Illinois                       63
+Indiana                        52
+Iowa                           59
+Kansas                         42
+Kentucky                       57
+Louisiana                      43
+Maine                          58
+Maryland                       69
+Massachusetts                  84
+Michigan                       53
+Minnesota                      73
+Mississippi                    50
+Missouri                       56
+Montana                        53
+Nebraska                       47
+Nevada                         45
+New Hampshire                  74
+New Jersey                     63
+New Mexico                     51
+New York                       60
+North Carolina                 48
+North Dakota                   61
+Ohio                           57
+Oklahoma                       48
+Oregon                         41
+Pennsylvania                   80
+Rhode Island                   70
+South Carolina                 52
+South Dakota                   33
+Tennessee                      53
+Texas                          45
+Utah                           56
+Vermont                        64
+Virginia                       59
+Washington                     54
+West Virginia                  42
+Wisconsin                      58
+Wyoming                        53

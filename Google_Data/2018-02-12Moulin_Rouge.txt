@@ -1,0 +1,52 @@
+                      Moulin Rouge
+geoName                           
+Alabama                         42
+Alaska                          72
+Arizona                         55
+Arkansas                        48
+California                      63
+Colorado                        58
+Connecticut                     56
+Delaware                        40
+District of Columbia            58
+Florida                         61
+Georgia                         51
+Hawaii                          70
+Idaho                           85
+Illinois                        61
+Indiana                         61
+Iowa                            54
+Kansas                          53
+Kentucky                        48
+Louisiana                       53
+Maine                           53
+Maryland                        50
+Massachusetts                   55
+Michigan                        52
+Minnesota                       61
+Mississippi                     44
+Missouri                        59
+Montana                         52
+Nebraska                        58
+Nevada                          83
+New Hampshire                   43
+New Jersey                      50
+New Mexico                      65
+New York                        62
+North Carolina                  45
+North Dakota                    45
+Ohio                            54
+Oklahoma                        60
+Oregon                          57
+Pennsylvania                    52
+Rhode Island                    75
+South Carolina                  46
+South Dakota                    48
+Tennessee                       48
+Texas                           57
+Utah                           100
+Vermont                         51
+Virginia                        50
+Washington                      65
+West Virginia                   38
+Wisconsin                       58

@@ -1,0 +1,52 @@
+                      Shibutani
+geoName                        
+Alabama                      12
+Alaska                       26
+Arizona                      18
+Arkansas                     13
+California                   78
+Colorado                     40
+Connecticut                  55
+Delaware                     11
+District of Columbia         61
+Florida                      29
+Georgia                      18
+Hawaii                      100
+Idaho                        13
+Illinois                     47
+Indiana                      30
+Iowa                         40
+Kansas                       14
+Kentucky                      9
+Louisiana                    12
+Maine                        49
+Maryland                     53
+Massachusetts                70
+Michigan                     50
+Minnesota                    37
+Mississippi                  13
+Missouri                     29
+Montana                      11
+Nebraska                     13
+Nevada                       22
+New Hampshire                59
+New Jersey                   59
+New Mexico                   29
+New York                     59
+North Carolina               25
+North Dakota                 13
+Ohio                         34
+Oklahoma                     24
+Oregon                       32
+Pennsylvania                 36
+Rhode Island                 68
+South Carolina               23
+Tennessee                    25
+Texas                        26
+Utah                         41
+Vermont                      55
+Virginia                     37
+Washington                   29
+West Virginia                15
+Wisconsin                    25
+Wyoming                      20

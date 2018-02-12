@@ -1,0 +1,53 @@
+                      Halfpipe
+geoName                       
+Alabama                     21
+Alaska                      53
+Arizona                     30
+Arkansas                    21
+California                  32
+Colorado                    79
+Connecticut                 40
+Delaware                    34
+District of Columbia        23
+Florida                     24
+Georgia                     22
+Hawaii                      26
+Idaho                       71
+Illinois                    32
+Indiana                     26
+Iowa                        33
+Kansas                      21
+Kentucky                    21
+Louisiana                   17
+Maine                       44
+Maryland                    32
+Massachusetts               39
+Michigan                    25
+Minnesota                   40
+Mississippi                 14
+Missouri                    26
+Montana                     41
+Nebraska                    26
+Nevada                      30
+New Hampshire               66
+New Jersey                  30
+New Mexico                  41
+New York                    29
+North Carolina              24
+North Dakota                40
+Ohio                        28
+Oklahoma                    21
+Oregon                      38
+Pennsylvania                36
+Rhode Island                32
+South Carolina              27
+South Dakota                28
+Tennessee                   24
+Texas                       23
+Utah                        77
+Vermont                    100
+Virginia                    25
+Washington                  38
+West Virginia               14
+Wisconsin                   32
+Wyoming                     82

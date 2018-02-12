@@ -1,0 +1,53 @@
+                      Aetna
+geoName                    
+Alabama                  11
+Alaska                   42
+Arizona                  37
+Arkansas                 12
+California               20
+Colorado                 20
+Connecticut             100
+Delaware                 59
+District of Columbia     38
+Florida                  31
+Georgia                  26
+Hawaii                    7
+Idaho                    15
+Illinois                 27
+Indiana                  16
+Iowa                     12
+Kansas                   19
+Kentucky                 24
+Louisiana                20
+Maine                    37
+Maryland                 35
+Massachusetts            20
+Michigan                 16
+Minnesota                12
+Mississippi              13
+Missouri                 20
+Montana                   9
+Nebraska                 24
+Nevada                   24
+New Hampshire            16
+New Jersey               56
+New Mexico               10
+New York                 33
+North Carolina           23
+North Dakota             11
+Ohio                     29
+Oklahoma                 21
+Oregon                   11
+Pennsylvania             49
+Rhode Island             16
+South Carolina           15
+South Dakota             11
+Tennessee                22
+Texas                    36
+Utah                     22
+Vermont                  12
+Virginia                 32
+Washington               19
+West Virginia            22
+Wisconsin                12
+Wyoming                   9
