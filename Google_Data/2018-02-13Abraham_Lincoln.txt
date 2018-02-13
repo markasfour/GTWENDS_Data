@@ -1,0 +1,53 @@
+                      Abraham Lincoln
+geoName                              
+Alabama                            74
+Alaska                             64
+Arizona                            72
+Arkansas                           88
+California                         66
+Colorado                           67
+Connecticut                        59
+Delaware                           66
+District of Columbia               64
+Florida                            59
+Georgia                            67
+Hawaii                             54
+Idaho                              80
+Illinois                          100
+Indiana                            98
+Iowa                              100
+Kansas                             73
+Kentucky                           90
+Louisiana                          63
+Maine                              70
+Maryland                           64
+Massachusetts                      53
+Michigan                           62
+Minnesota                          61
+Mississippi                        80
+Missouri                           76
+Montana                            66
+Nebraska                           82
+Nevada                             65
+New Hampshire                      58
+New Jersey                         71
+New Mexico                         79
+New York                           58
+North Carolina                     71
+North Dakota                       78
+Ohio                               68
+Oklahoma                           70
+Oregon                             44
+Pennsylvania                       70
+Rhode Island                       63
+South Carolina                     75
+South Dakota                       98
+Tennessee                          70
+Texas                              67
+Utah                               81
+Vermont                            63
+Virginia                           66
+Washington                         52
+West Virginia                      92
+Wisconsin                          67
+Wyoming                            83

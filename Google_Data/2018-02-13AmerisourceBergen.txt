@@ -1,0 +1,38 @@
+                      AmerisourceBergen
+geoName                                
+Alabama                              31
+Arizona                              18
+Arkansas                             22
+California                           18
+Colorado                             20
+Connecticut                          16
+District of Columbia                 28
+Florida                              20
+Georgia                              22
+Idaho                                30
+Illinois                             37
+Indiana                              16
+Kansas                               18
+Kentucky                             44
+Louisiana                            11
+Maryland                             25
+Massachusetts                        23
+Michigan                             20
+Minnesota                            25
+Mississippi                          34
+Missouri                             31
+Nevada                               16
+New Jersey                           35
+New York                             28
+North Carolina                       52
+Ohio                                 36
+Oregon                                5
+Pennsylvania                        100
+Rhode Island                         26
+South Carolina                       26
+Tennessee                            29
+Texas                                44
+Utah                                 15
+Virginia                             20
+Washington                           14
+Wisconsin                            17

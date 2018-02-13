@@ -1,0 +1,53 @@
+                      NICU
+geoName                   
+Alabama                 73
+Alaska                  66
+Arizona                 57
+Arkansas                74
+California              54
+Colorado                63
+Connecticut             57
+Delaware                65
+District of Columbia    57
+Florida                 54
+Georgia                 56
+Hawaii                  50
+Idaho                   73
+Illinois                58
+Indiana                 75
+Iowa                    67
+Kansas                  60
+Kentucky                78
+Louisiana               67
+Maine                   55
+Maryland                68
+Massachusetts           52
+Michigan                50
+Minnesota               59
+Mississippi             63
+Missouri                73
+Montana                 56
+Nebraska                89
+Nevada                  52
+New Hampshire           47
+New Jersey              49
+New Mexico              58
+New York                53
+North Carolina          57
+North Dakota            90
+Ohio                    64
+Oklahoma                68
+Oregon                  41
+Pennsylvania            69
+Rhode Island            43
+South Carolina          60
+South Dakota           100
+Tennessee               77
+Texas                   65
+Utah                    75
+Vermont                 46
+Virginia                52
+Washington              51
+West Virginia           65
+Wisconsin               61
+Wyoming                 40

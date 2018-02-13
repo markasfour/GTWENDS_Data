@@ -1,0 +1,53 @@
+                      Tonga
+geoName                    
+Alabama                   5
+Alaska                   32
+Arizona                  12
+Arkansas                  7
+California               26
+Colorado                 11
+Connecticut               8
+Delaware                  7
+District of Columbia     12
+Florida                   7
+Georgia                   6
+Hawaii                  100
+Idaho                    14
+Illinois                  7
+Indiana                   6
+Iowa                      6
+Kansas                    7
+Kentucky                  7
+Louisiana                 7
+Maine                     8
+Maryland                  8
+Massachusetts             8
+Michigan                  7
+Minnesota                 8
+Mississippi               6
+Missouri                  6
+Montana                  12
+Nebraska                  6
+Nevada                   14
+New Hampshire             9
+New Jersey                7
+New Mexico                9
+New York                  8
+North Carolina            6
+North Dakota              6
+Ohio                      6
+Oklahoma                  7
+Oregon                   12
+Pennsylvania              7
+Rhode Island              7
+South Carolina            6
+South Dakota              6
+Tennessee                 6
+Texas                     7
+Utah                     57
+Vermont                  11
+Virginia                  7
+Washington               17
+West Virginia             6
+Wisconsin                 6
+Wyoming                  10

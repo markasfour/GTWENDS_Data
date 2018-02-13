@@ -1,0 +1,53 @@
+                      Statue of Liberty
+geoName                                
+Alabama                              35
+Alaska                               23
+Arizona                              29
+Arkansas                             34
+California                           27
+Colorado                             27
+Connecticut                          54
+Delaware                             46
+District of Columbia                 46
+Florida                              29
+Georgia                              29
+Hawaii                               26
+Idaho                                33
+Illinois                             31
+Indiana                              33
+Iowa                                 33
+Kansas                               30
+Kentucky                             32
+Louisiana                            30
+Maine                                38
+Maryland                             37
+Massachusetts                        41
+Michigan                             31
+Minnesota                            30
+Mississippi                          32
+Missouri                             33
+Montana                              30
+Nebraska                             32
+Nevada                               30
+New Hampshire                        41
+New Jersey                           89
+New Mexico                           29
+New York                            100
+North Carolina                       32
+North Dakota                         30
+Ohio                                 30
+Oklahoma                             32
+Oregon                               21
+Pennsylvania                         43
+Rhode Island                         41
+South Carolina                       32
+South Dakota                         34
+Tennessee                            30
+Texas                                28
+Utah                                 33
+Vermont                              37
+Virginia                             32
+Washington                           25
+West Virginia                        37
+Wisconsin                            32
+Wyoming                              25

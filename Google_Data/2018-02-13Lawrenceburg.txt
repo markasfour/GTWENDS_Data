@@ -1,0 +1,45 @@
+                      Lawrenceburg
+geoName                           
+Alabama                         12
+Arizona                          0
+Arkansas                         1
+California                       0
+Colorado                         1
+Connecticut                      0
+District of Columbia             2
+Florida                          1
+Georgia                         10
+Hawaii                           0
+Illinois                         3
+Indiana                         57
+Iowa                             1
+Kansas                           2
+Kentucky                       100
+Louisiana                        1
+Maine                            0
+Maryland                         1
+Massachusetts                    1
+Michigan                         4
+Minnesota                        1
+Mississippi                      4
+Missouri                         2
+Nebraska                         1
+Nevada                           1
+New Hampshire                    0
+New Jersey                       0
+New Mexico                       0
+New York                         1
+North Carolina                   2
+North Dakota                     0
+Ohio                            21
+Oklahoma                         1
+Oregon                           0
+Pennsylvania                     1
+South Carolina                   3
+Tennessee                       75
+Texas                            1
+Utah                             0
+Virginia                         1
+Washington                       0
+West Virginia                    2
+Wisconsin                        1

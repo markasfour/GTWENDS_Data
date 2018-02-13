@@ -1,0 +1,52 @@
+                      Brockton
+geoName                       
+Alabama                      2
+Alaska                       0
+Arizona                      0
+Arkansas                     0
+California                   1
+Colorado                     0
+Connecticut                  3
+Delaware                     0
+District of Columbia         3
+Florida                      1
+Georgia                      1
+Hawaii                       0
+Idaho                        0
+Illinois                     0
+Indiana                      0
+Iowa                         0
+Kansas                       0
+Kentucky                     1
+Louisiana                    0
+Maine                        3
+Maryland                     1
+Massachusetts              100
+Michigan                     1
+Minnesota                    0
+Mississippi                  0
+Missouri                     0
+Montana                      1
+Nebraska                     0
+Nevada                       0
+New Hampshire                6
+New Jersey                   1
+New Mexico                   0
+New York                     3
+North Carolina               0
+North Dakota                 0
+Ohio                         0
+Oklahoma                     0
+Oregon                       0
+Pennsylvania                 1
+Rhode Island                12
+South Carolina               0
+Tennessee                    0
+Texas                        0
+Utah                         0
+Vermont                      3
+Virginia                     1
+Washington                   0
+West Virginia                0
+Wisconsin                    0
+Wyoming                      0
