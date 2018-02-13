@@ -1,53 +1,53 @@
                       Mikaela Shiffrin
 geoName                               
 Alabama                              5
-Alaska                              22
+Alaska                              18
 Arizona                              7
-Arkansas                             5
-California                           9
-Colorado                            49
+Arkansas                             4
+California                           8
+Colorado                            50
 Connecticut                         21
-Delaware                             9
-District of Columbia                10
-Florida                              7
-Georgia                              6
+Delaware                            10
+District of Columbia                 7
+Florida                              5
+Georgia                              5
 Hawaii                               8
-Idaho                               30
+Idaho                               24
 Illinois                             9
 Indiana                              8
 Iowa                                10
-Kansas                               8
-Kentucky                             6
-Louisiana                            5
-Maine                               39
-Maryland                            12
-Massachusetts                       25
+Kansas                               6
+Kentucky                             7
+Louisiana                            4
+Maine                               36
+Maryland                            11
+Massachusetts                       24
 Michigan                            10
-Minnesota                           15
-Mississippi                          3
-Missouri                             8
-Montana                             30
+Minnesota                           14
+Mississippi                          2
+Missouri                             7
+Montana                             24
 Nebraska                             7
 Nevada                              11
-New Hampshire                       64
+New Hampshire                       58
 New Jersey                          12
-New Mexico                          13
-New York                            13
-North Carolina                       6
+New Mexico                          11
+New York                            12
+North Carolina                       7
 North Dakota                        18
 Ohio                                 9
 Oklahoma                             7
-Oregon                              11
+Oregon                              10
 Pennsylvania                        11
-Rhode Island                        17
-South Carolina                       6
-South Dakota                         7
-Tennessee                            6
+Rhode Island                        15
+South Carolina                       7
+South Dakota                         8
+Tennessee                            5
 Texas                                6
-Utah                                25
+Utah                                24
 Vermont                            100
 Virginia                            10
 Washington                          14
-West Virginia                        8
-Wisconsin                           13
-Wyoming                             16
+West Virginia                        7
+Wisconsin                           12
+Wyoming                             17

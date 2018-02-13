@@ -1,0 +1,53 @@
+                      Obamas
+geoName                     
+Alabama                   64
+Alaska                    69
+Arizona                   76
+Arkansas                  64
+California                68
+Colorado                  72
+Connecticut               82
+Delaware                  77
+District of Columbia     100
+Florida                   76
+Georgia                   69
+Hawaii                    80
+Idaho                     82
+Illinois                  78
+Indiana                   76
+Iowa                      72
+Kansas                    67
+Kentucky                  71
+Louisiana                 64
+Maine                     85
+Maryland                  84
+Massachusetts             76
+Michigan                  74
+Minnesota                 69
+Mississippi               72
+Missouri                  72
+Montana                   74
+Nebraska                  67
+Nevada                    69
+New Hampshire             83
+New Jersey                74
+New Mexico                70
+New York                  71
+North Carolina            74
+North Dakota              63
+Ohio                      73
+Oklahoma                  71
+Oregon                    55
+Pennsylvania              74
+Rhode Island              77
+South Carolina            76
+South Dakota              71
+Tennessee                 66
+Texas                     64
+Utah                      62
+Vermont                   81
+Virginia                  68
+Washington                72
+West Virginia             79
+Wisconsin                 72
+Wyoming                   70

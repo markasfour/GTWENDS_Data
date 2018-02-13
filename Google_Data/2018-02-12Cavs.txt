@@ -7,16 +7,16 @@ Arkansas                 6
 California               6
 Colorado                 4
 Connecticut              6
-Delaware                 7
+Delaware                 6
 District of Columbia     7
-Florida                  7
+Florida                  6
 Georgia                  8
 Hawaii                   6
 Idaho                    4
 Illinois                 8
-Indiana                  7
+Indiana                  8
 Iowa                     5
-Kansas                   4
+Kansas                   3
 Kentucky                 7
 Louisiana                6
 Maine                    4
@@ -27,24 +27,24 @@ Minnesota                4
 Mississippi              7
 Missouri                 5
 Montana                  4
-Nebraska                 6
+Nebraska                 5
 Nevada                   6
 New Hampshire            4
 New Jersey               6
 New Mexico               5
-New York                 7
-North Carolina           8
+New York                 6
+North Carolina           7
 North Dakota             4
 Ohio                   100
 Oklahoma                 5
 Oregon                   3
 Pennsylvania             9
 Rhode Island             5
-South Carolina           8
+South Carolina           7
 South Dakota             5
 Tennessee                6
 Texas                    6
-Utah                     5
+Utah                     4
 Vermont                  4
 Virginia                 5
 Washington               4

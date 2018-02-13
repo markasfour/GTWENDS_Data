@@ -1,0 +1,53 @@
+                      AP Top 25
+geoName                        
+Alabama                     100
+Alaska                       10
+Arizona                      21
+Arkansas                     47
+California                   10
+Colorado                     18
+Connecticut                  10
+Delaware                     14
+District of Columbia         23
+Florida                      27
+Georgia                      50
+Hawaii                       10
+Idaho                        29
+Illinois                     17
+Indiana                      26
+Iowa                         55
+Kansas                       27
+Kentucky                     54
+Louisiana                    30
+Maine                         8
+Maryland                     15
+Massachusetts                 8
+Michigan                     38
+Minnesota                    14
+Mississippi                  88
+Missouri                     17
+Montana                      11
+Nebraska                     55
+Nevada                       12
+New Hampshire                 7
+New Jersey                   10
+New Mexico                   12
+New York                      9
+North Carolina               29
+North Dakota                 12
+Ohio                         36
+Oklahoma                     52
+Oregon                       14
+Pennsylvania                 19
+Rhode Island                 12
+South Carolina               67
+South Dakota                 14
+Tennessee                    56
+Texas                        24
+Utah                         40
+Vermont                       7
+Virginia                     21
+Washington                   23
+West Virginia                72
+Wisconsin                    24
+Wyoming                      24

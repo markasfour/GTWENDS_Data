@@ -1,0 +1,52 @@
+                      Spoonful
+geoName                       
+Alabama                     52
+Arizona                     82
+Arkansas                    70
+California                  63
+Colorado                    60
+Connecticut                 71
+Delaware                    47
+District of Columbia        59
+Florida                     56
+Georgia                     49
+Hawaii                     100
+Idaho                       76
+Illinois                    60
+Indiana                     55
+Iowa                        73
+Kansas                      49
+Kentucky                    67
+Louisiana                   63
+Maine                       57
+Maryland                    51
+Massachusetts               76
+Michigan                    55
+Minnesota                   57
+Mississippi                 53
+Missouri                    54
+Montana                     59
+Nebraska                    60
+Nevada                      51
+New Hampshire               65
+New Jersey                  65
+New Mexico                  47
+New York                    62
+North Carolina              54
+North Dakota                42
+Ohio                        85
+Oklahoma                    70
+Oregon                      58
+Pennsylvania                70
+Rhode Island                84
+South Carolina              47
+South Dakota                74
+Tennessee                   57
+Texas                       51
+Utah                        68
+Vermont                     96
+Virginia                    48
+Washington                  71
+West Virginia               45
+Wisconsin                   70
+Wyoming                     33

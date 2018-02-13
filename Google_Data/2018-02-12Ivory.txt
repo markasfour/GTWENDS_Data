@@ -1,0 +1,53 @@
+                      Ivory
+geoName                    
+Alabama                  46
+Alaska                   66
+Arizona                  37
+Arkansas                 47
+California               38
+Colorado                 41
+Connecticut              55
+Delaware                 51
+District of Columbia     54
+Florida                  40
+Georgia                  52
+Hawaii                   31
+Idaho                    42
+Illinois                 47
+Indiana                  48
+Iowa                     48
+Kansas                   41
+Kentucky                 46
+Louisiana                54
+Maine                    45
+Maryland                 51
+Massachusetts            48
+Michigan                 48
+Minnesota                48
+Mississippi              50
+Missouri                 51
+Montana                  42
+Nebraska                 49
+Nevada                   35
+New Hampshire            48
+New Jersey               51
+New Mexico               35
+New York                 51
+North Carolina           44
+North Dakota             47
+Ohio                     50
+Oklahoma                 41
+Oregon                   30
+Pennsylvania             48
+Rhode Island             50
+South Carolina           46
+South Dakota             43
+Tennessee                45
+Texas                    42
+Utah                    100
+Vermont                  46
+Virginia                 43
+Washington               39
+West Virginia            48
+Wisconsin                48
+Wyoming                  46

@@ -1,53 +1,53 @@
                       Chloe Kim
 geoName                        
-Alabama                      38
-Alaska                       47
-Arizona                      39
-Arkansas                     23
-California                   84
-Colorado                     64
-Connecticut                  58
-Delaware                     48
-District of Columbia         58
+Alabama                      36
+Alaska                       57
+Arizona                      51
+Arkansas                     30
+California                   92
+Colorado                     75
+Connecticut                  59
+Delaware                     31
+District of Columbia         68
 Florida                      38
-Georgia                      41
-Hawaii                      100
-Idaho                        54
-Illinois                     44
-Indiana                      43
-Iowa                         44
+Georgia                      40
+Hawaii                       87
+Idaho                        37
+Illinois                     51
+Indiana                      36
+Iowa                         38
 Kansas                       34
-Kentucky                     40
-Louisiana                    37
-Maine                        52
-Maryland                     63
-Massachusetts                70
+Kentucky                     37
+Louisiana                    42
+Maine                        41
+Maryland                     62
+Massachusetts                71
 Michigan                     44
 Minnesota                    42
-Mississippi                  22
-Missouri                     37
-Montana                      29
-Nebraska                     34
-Nevada                       60
-New Hampshire                52
-New Jersey                   67
-New Mexico                   51
-New York                     63
-North Carolina               48
-North Dakota                 72
-Ohio                         37
+Mississippi                  26
+Missouri                     34
+Montana                      37
+Nebraska                     30
+Nevada                       66
+New Hampshire                47
+New Jersey                   65
+New Mexico                   42
+New York                     67
+North Carolina               39
+North Dakota                 39
+Ohio                         46
 Oklahoma                     46
-Oregon                       38
-Pennsylvania                 45
-Rhode Island                 60
-South Carolina               31
-South Dakota                 36
-Tennessee                    33
-Texas                        51
-Utah                         43
-Vermont                      85
+Oregon                       46
+Pennsylvania                 54
+Rhode Island                 62
+South Carolina               33
+South Dakota                 19
+Tennessee                    34
+Texas                        53
+Utah                         62
+Vermont                     100
 Virginia                     44
-Washington                   51
-West Virginia                55
+Washington                   52
+West Virginia                39
 Wisconsin                    50
-Wyoming                      44
+Wyoming                      39

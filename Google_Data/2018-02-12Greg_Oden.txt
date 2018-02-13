@@ -1,0 +1,53 @@
+                      Greg Oden
+geoName                        
+Alabama                      45
+Alaska                       37
+Arizona                      34
+Arkansas                     33
+California                   45
+Colorado                     30
+Connecticut                  48
+Delaware                     47
+District of Columbia         51
+Florida                      95
+Georgia                      60
+Hawaii                       53
+Idaho                        20
+Illinois                     59
+Indiana                      85
+Iowa                         41
+Kansas                       39
+Kentucky                     53
+Louisiana                    66
+Maine                        34
+Maryland                     50
+Massachusetts                56
+Michigan                     50
+Minnesota                    39
+Mississippi                  54
+Missouri                     42
+Montana                      22
+Nebraska                     41
+Nevada                       42
+New Hampshire                37
+New Jersey                   54
+New Mexico                   19
+New York                     57
+North Carolina               47
+North Dakota                 40
+Ohio                         94
+Oklahoma                     48
+Oregon                      100
+Pennsylvania                 47
+Rhode Island                 40
+South Carolina               45
+South Dakota                 33
+Tennessee                    49
+Texas                        47
+Utah                         33
+Vermont                      26
+Virginia                     41
+Washington                   50
+West Virginia                42
+Wisconsin                    39
+Wyoming                      26

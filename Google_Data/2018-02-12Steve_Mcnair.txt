@@ -1,53 +1,53 @@
                       Steve Mcnair
 geoName                           
-Alabama                         34
-Alaska                          17
-Arizona                         21
-Arkansas                        19
-California                      18
-Colorado                        22
-Connecticut                     21
-Delaware                        31
+Alabama                         33
+Alaska                          15
+Arizona                         20
+Arkansas                        25
+California                      17
+Colorado                        20
+Connecticut                     17
+Delaware                        28
 District of Columbia            26
-Florida                         21
-Georgia                         34
-Hawaii                          22
-Idaho                           12
-Illinois                        25
-Indiana                         23
-Iowa                            25
+Florida                         20
+Georgia                         32
+Hawaii                          25
+Idaho                           11
+Illinois                        23
+Indiana                         24
+Iowa                            24
 Kansas                          19
 Kentucky                        32
-Louisiana                       43
-Maine                           18
+Louisiana                       39
+Maine                           16
 Maryland                        36
-Massachusetts                   21
-Michigan                        21
+Massachusetts                   22
+Michigan                        19
 Minnesota                       19
 Mississippi                    100
-Missouri                        23
-Montana                         14
-Nebraska                        26
-Nevada                          19
-New Hampshire                   21
+Missouri                        25
+Montana                         13
+Nebraska                        24
+Nevada                          23
+New Hampshire                   16
 New Jersey                      23
-New Mexico                      21
-New York                        19
+New Mexico                      22
+New York                        18
 North Carolina                  28
-North Dakota                    24
-Ohio                            26
-Oklahoma                        21
-Oregon                          12
-Pennsylvania                    27
-Rhode Island                    28
-South Carolina                  27
-South Dakota                    12
-Tennessee                       85
-Texas                           28
-Utah                            14
-Vermont                         22
-Virginia                        25
-Washington                      17
-West Virginia                   19
-Wisconsin                       22
+North Dakota                    25
+Ohio                            24
+Oklahoma                        19
+Oregon                          11
+Pennsylvania                    23
+Rhode Island                    26
+South Carolina                  30
+South Dakota                    19
+Tennessee                       82
+Texas                           27
+Utah                            11
+Vermont                         25
+Virginia                        23
+Washington                      18
+West Virginia                   21
+Wisconsin                       21
 Wyoming                         18

@@ -1,52 +1,52 @@
                       Troy Ave
 geoName                       
-Alabama                     15
-Alaska                       8
-Arizona                     10
-Arkansas                     6
+Alabama                     16
+Alaska                       6
+Arizona                     11
+Arkansas                     8
 California                  13
-Colorado                    10
-Connecticut                 41
-Delaware                    33
-District of Columbia        39
+Colorado                    11
+Connecticut                 39
+Delaware                    37
+District of Columbia        38
 Florida                     20
-Georgia                     21
-Hawaii                       7
-Idaho                        6
+Georgia                     22
+Hawaii                       8
+Idaho                        5
 Illinois                    16
-Indiana                     16
-Iowa                         6
-Kansas                       7
-Kentucky                     9
+Indiana                     17
+Iowa                         4
+Kansas                       6
+Kentucky                    12
 Louisiana                   16
-Maine                        7
-Maryland                    28
-Massachusetts               34
+Maine                        8
+Maryland                    27
+Massachusetts               37
 Michigan                    21
 Minnesota                    9
-Mississippi                 14
+Mississippi                 15
 Missouri                    10
 Montana                      4
-Nebraska                     7
-Nevada                      12
+Nebraska                     6
+Nevada                      11
 New Hampshire               11
-New Jersey                  46
-New Mexico                  10
+New Jersey                  45
+New Mexico                   8
 New York                   100
-North Carolina              19
-North Dakota                 7
-Ohio                        16
+North Carolina              20
+North Dakota                 5
+Ohio                        17
 Oklahoma                     8
-Oregon                       5
+Oregon                       4
 Pennsylvania                23
-Rhode Island                32
+Rhode Island                36
 South Carolina              17
 South Dakota                 7
-Tennessee                   12
+Tennessee                   11
 Texas                       11
-Utah                         4
-Vermont                     14
+Utah                         3
+Vermont                     18
 Virginia                    21
-Washington                   8
+Washington                   9
 West Virginia                9
 Wisconsin                   10

@@ -1,53 +1,53 @@
                       Abraham Lincoln
 geoName                              
-Alabama                            77
-Alaska                             61
-Arizona                            73
-Arkansas                           89
-California                         66
-Colorado                           66
+Alabama                            74
+Alaska                             60
+Arizona                            72
+Arkansas                           85
+California                         65
+Colorado                           67
 Connecticut                        58
-Delaware                           61
-District of Columbia               63
-Florida                            58
-Georgia                            68
-Hawaii                             56
-Idaho                              85
-Illinois                          100
-Indiana                            97
-Iowa                               98
-Kansas                             73
-Kentucky                           91
-Louisiana                          64
-Maine                              68
-Maryland                           64
+Delaware                           62
+District of Columbia               65
+Florida                            60
+Georgia                            71
+Hawaii                             53
+Idaho                              79
+Illinois                           99
+Indiana                           100
+Iowa                               95
+Kansas                             74
+Kentucky                           88
+Louisiana                          65
+Maine                              69
+Maryland                           65
 Massachusetts                      53
-Michigan                           65
-Minnesota                          60
-Mississippi                        82
+Michigan                           62
+Minnesota                          63
+Mississippi                        84
 Missouri                           76
-Montana                            68
+Montana                            63
 Nebraska                           84
-Nevada                             64
-New Hampshire                      57
-New Jersey                         69
-New Mexico                         79
-New York                           59
-North Carolina                     74
-North Dakota                       89
-Ohio                               68
-Oklahoma                           71
+Nevada                             66
+New Hampshire                      59
+New Jersey                         72
+New Mexico                         76
+New York                           58
+North Carolina                     72
+North Dakota                       81
+Ohio                               66
+Oklahoma                           73
 Oregon                             44
 Pennsylvania                       71
-Rhode Island                       62
-South Carolina                     74
-South Dakota                       97
-Tennessee                          71
-Texas                              68
-Utah                               83
-Vermont                            66
-Virginia                           65
-Washington                         51
-West Virginia                      96
+Rhode Island                       59
+South Carolina                     75
+South Dakota                       93
+Tennessee                          73
+Texas                              67
+Utah                               81
+Vermont                            68
+Virginia                           67
+Washington                         53
+West Virginia                      95
 Wisconsin                          68
-Wyoming                            80
+Wyoming                            79

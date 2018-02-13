@@ -1,0 +1,50 @@
+                      Giroud
+geoName                     
+Alabama                   42
+Arizona                   59
+Arkansas                  36
+California                70
+Colorado                  50
+Connecticut               92
+Delaware                  83
+District of Columbia     100
+Florida                   67
+Georgia                   53
+Hawaii                    38
+Idaho                     27
+Illinois                  64
+Indiana                   53
+Iowa                      46
+Kansas                    60
+Kentucky                  37
+Louisiana                 38
+Maine                     42
+Maryland                 100
+Massachusetts             85
+Michigan                  51
+Minnesota                 50
+Mississippi               32
+Missouri                  56
+Montana                   22
+Nebraska                  56
+Nevada                    46
+New Hampshire             48
+New Jersey                99
+New Mexico                31
+New York                  93
+North Carolina            50
+Ohio                      47
+Oklahoma                  48
+Oregon                    54
+Pennsylvania              86
+Rhode Island              71
+South Carolina            47
+South Dakota              30
+Tennessee                 41
+Texas                     55
+Utah                      42
+Vermont                   74
+Virginia                  92
+Washington                54
+West Virginia             33
+Wisconsin                 45
