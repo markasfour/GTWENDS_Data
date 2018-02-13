@@ -1,0 +1,53 @@
+                      Cabaret
+geoName                      
+Alabama                    21
+Alaska                     26
+Arizona                    80
+Arkansas                   27
+California                 36
+Colorado                   63
+Connecticut               100
+Delaware                   33
+District of Columbia       46
+Florida                    56
+Georgia                    27
+Hawaii                     27
+Idaho                      17
+Illinois                   45
+Indiana                    39
+Iowa                       31
+Kansas                     32
+Kentucky                   30
+Louisiana                  48
+Maine                      29
+Maryland                   37
+Massachusetts              54
+Michigan                   28
+Minnesota                  49
+Mississippi                25
+Missouri                   35
+Montana                    26
+Nebraska                   24
+Nevada                     54
+New Hampshire              33
+New Jersey                 46
+New Mexico                 31
+New York                   74
+North Carolina             49
+North Dakota               21
+Ohio                       41
+Oklahoma                   35
+Oregon                     60
+Pennsylvania               48
+Rhode Island               40
+South Carolina             32
+South Dakota               20
+Tennessee                  27
+Texas                      97
+Utah                       20
+Vermont                    51
+Virginia                   24
+Washington                 47
+West Virginia              24
+Wisconsin                  36
+Wyoming                    21

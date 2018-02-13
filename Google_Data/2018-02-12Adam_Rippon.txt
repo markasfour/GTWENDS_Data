@@ -1,50 +1,53 @@
                       Adam Rippon
 geoName                          
-Alabama                        36
-Alaska                         70
-Arizona                        37
-Arkansas                       35
+Alabama                        12
+Alaska                         48
+Arizona                        39
+Arkansas                       32
 California                     50
-Colorado                       47
-Connecticut                    51
-Delaware                      100
-District of Columbia           73
-Florida                        34
-Georgia                        26
-Hawaii                         44
-Idaho                          25
-Illinois                       46
-Indiana                        33
-Iowa                           17
-Kansas                         41
-Kentucky                       47
-Louisiana                      28
-Maine                          46
-Maryland                       53
-Massachusetts                 100
-Michigan                       39
-Minnesota                      70
-Mississippi                    30
-Missouri                       33
-Nebraska                       29
-Nevada                         34
-New Hampshire                  43
-New Jersey                     50
-New Mexico                     30
-New York                       57
-North Carolina                 23
-North Dakota                   18
-Ohio                           56
-Oklahoma                       45
-Oregon                         47
-Pennsylvania                   97
-Rhode Island                   79
-South Carolina                 32
-Tennessee                      42
-Texas                          30
-Utah                           42
-Vermont                        73
+Colorado                       41
+Connecticut                    83
+Delaware                       91
+District of Columbia           79
+Florida                        30
+Georgia                        29
+Hawaii                         60
+Idaho                          39
+Illinois                       56
+Indiana                        35
+Iowa                           36
+Kansas                         58
+Kentucky                       25
+Louisiana                      17
+Maine                          77
+Maryland                       65
+Massachusetts                  84
+Michigan                       44
+Minnesota                      52
+Mississippi                    16
+Missouri                       30
+Montana                        40
+Nebraska                       21
+Nevada                         31
+New Hampshire                  31
+New Jersey                     62
+New Mexico                     64
+New York                       59
+North Carolina                 34
+North Dakota                   66
+Ohio                           49
+Oklahoma                       28
+Oregon                         34
+Pennsylvania                   96
+Rhode Island                  100
+South Carolina                 26
+South Dakota                   65
+Tennessee                      26
+Texas                          28
+Utah                           21
+Vermont                        17
 Virginia                       65
-Washington                     45
-West Virginia                  19
-Wisconsin                      53
+Washington                     46
+West Virginia                  44
+Wisconsin                      34
+Wyoming                        24

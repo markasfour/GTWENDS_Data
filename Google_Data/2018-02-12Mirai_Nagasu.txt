@@ -1,53 +1,53 @@
                       Mirai Nagasu
 geoName                           
-Alabama                         12
-Alaska                          25
-Arizona                         22
-Arkansas                        13
-California                      75
-Colorado                        30
-Connecticut                     46
-Delaware                        21
-District of Columbia            48
-Florida                         15
-Georgia                         19
+Alabama                         19
+Alaska                          35
+Arizona                         24
+Arkansas                        11
+California                      73
+Colorado                        39
+Connecticut                     69
+Delaware                         9
+District of Columbia            52
+Florida                         11
+Georgia                         26
 Hawaii                         100
-Idaho                           19
-Illinois                        42
-Indiana                         21
-Iowa                            28
-Kansas                          19
-Kentucky                        22
-Louisiana                        9
-Maine                           20
-Maryland                        45
-Massachusetts                   72
-Michigan                        28
-Minnesota                       36
-Mississippi                      8
-Missouri                        31
-Montana                         51
-Nebraska                        26
-Nevada                          21
-New Hampshire                   80
-New Jersey                      53
-New Mexico                      22
-New York                        54
-North Carolina                  19
-North Dakota                    13
-Ohio                            28
-Oklahoma                        15
-Oregon                          23
+Idaho                           11
+Illinois                        49
+Indiana                         23
+Iowa                            37
+Kansas                          17
+Kentucky                        14
+Louisiana                       17
+Maine                           31
+Maryland                        42
+Massachusetts                   74
+Michigan                        36
+Minnesota                       48
+Mississippi                     12
+Missouri                        38
+Montana                         29
+Nebraska                        31
+Nevada                          32
+New Hampshire                   63
+New Jersey                      46
+New Mexico                      15
+New York                        47
+North Carolina                  24
+North Dakota                    47
+Ohio                            22
+Oklahoma                        11
+Oregon                          18
 Pennsylvania                    32
-Rhode Island                    57
-South Carolina                   8
-South Dakota                    13
-Tennessee                       13
-Texas                           25
-Utah                            25
-Vermont                         26
-Virginia                        41
-Washington                      45
-West Virginia                   34
-Wisconsin                       18
-Wyoming                         38
+Rhode Island                    33
+South Carolina                   9
+South Dakota                    35
+Tennessee                       22
+Texas                           20
+Utah                            28
+Vermont                         48
+Virginia                        30
+Washington                      26
+West Virginia                   19
+Wisconsin                       15
+Wyoming                         18

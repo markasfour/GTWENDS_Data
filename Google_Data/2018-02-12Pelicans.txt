@@ -1,0 +1,53 @@
+                      Pelicans
+geoName                       
+Alabama                      7
+Alaska                       2
+Arizona                      3
+Arkansas                     4
+California                   4
+Colorado                     3
+Connecticut                  4
+Delaware                     4
+District of Columbia         5
+Florida                      5
+Georgia                      6
+Hawaii                       3
+Idaho                        3
+Illinois                     5
+Indiana                      4
+Iowa                         3
+Kansas                       3
+Kentucky                     7
+Louisiana                  100
+Maine                        3
+Maryland                     3
+Massachusetts                4
+Michigan                     3
+Minnesota                    3
+Mississippi                 19
+Missouri                     3
+Montana                      3
+Nebraska                     3
+Nevada                       4
+New Hampshire                2
+New Jersey                   4
+New Mexico                   6
+New York                     4
+North Carolina               8
+North Dakota                 3
+Ohio                         4
+Oklahoma                     9
+Oregon                       3
+Pennsylvania                 4
+Rhode Island                 3
+South Carolina              15
+South Dakota                 3
+Tennessee                    5
+Texas                        7
+Utah                         5
+Vermont                      3
+Virginia                     3
+Washington                   3
+West Virginia                3
+Wisconsin                    3
+Wyoming                      3

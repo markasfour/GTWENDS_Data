@@ -1,0 +1,53 @@
+                      Luge
+geoName                   
+Alabama                 28
+Alaska                  33
+Arizona                 40
+Arkansas                29
+California              32
+Colorado                46
+Connecticut             66
+Delaware                45
+District of Columbia    39
+Florida                 27
+Georgia                 28
+Hawaii                  33
+Idaho                   45
+Illinois                41
+Indiana                 39
+Iowa                    40
+Kansas                  30
+Kentucky                29
+Louisiana               27
+Maine                   48
+Maryland                44
+Massachusetts           61
+Michigan                60
+Minnesota               44
+Mississippi             25
+Missouri                39
+Montana                 44
+Nebraska                40
+Nevada                  31
+New Hampshire           61
+New Jersey              47
+New Mexico              30
+New York                53
+North Carolina          34
+North Dakota            39
+Ohio                    39
+Oklahoma                27
+Oregon                  34
+Pennsylvania            51
+Rhode Island            66
+South Carolina          36
+South Dakota            39
+Tennessee               31
+Texas                   28
+Utah                    56
+Vermont                100
+Virginia                36
+Washington              39
+West Virginia           29
+Wisconsin               44
+Wyoming                 33

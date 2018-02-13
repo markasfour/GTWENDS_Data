@@ -1,45 +1,45 @@
                       Kelly Clark
 geoName                          
-Alabama                        19
-Arizona                        36
-California                     18
-Colorado                       28
-Connecticut                    19
-District of Columbia           21
-Florida                        16
-Georgia                        18
-Hawaii                         21
-Idaho                          31
-Illinois                       18
+Alabama                        22
+Arizona                        38
+California                     17
+Colorado                       19
+Connecticut                    17
+District of Columbia           20
+Florida                        14
+Georgia                        19
+Hawaii                         20
+Idaho                          28
+Illinois                       19
 Indiana                        20
-Iowa                           28
-Kansas                         19
-Kentucky                       29
-Louisiana                      18
-Maine                          18
-Maryland                       20
+Iowa                           18
+Kansas                         20
+Kentucky                       26
+Louisiana                      21
+Maine                          32
+Maryland                       19
 Massachusetts                  24
-Michigan                       22
-Minnesota                      19
-Mississippi                    20
-Missouri                       17
-Montana                        33
-Nebraska                       15
-Nevada                         36
-New Hampshire                  32
+Michigan                       17
+Minnesota                      18
+Mississippi                    14
+Missouri                       19
+Montana                        35
+Nebraska                        9
+Nevada                         35
+New Hampshire                  21
 New Jersey                     19
-New York                       22
-North Carolina                 19
-Ohio                           23
-Oklahoma                       15
-Oregon                         27
-Pennsylvania                   19
-Rhode Island                   21
-South Carolina                 23
-Tennessee                      21
-Texas                          17
-Utah                           33
+New York                       18
+North Carolina                 22
+Ohio                           20
+Oklahoma                       17
+Oregon                         25
+Pennsylvania                   20
+Rhode Island                   27
+South Carolina                 15
+Tennessee                      26
+Texas                          14
+Utah                           24
 Vermont                       100
-Virginia                       16
-Washington                     26
-Wisconsin                      23
+Virginia                       15
+Washington                     24
+Wisconsin                      21

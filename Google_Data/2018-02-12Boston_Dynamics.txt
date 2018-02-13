@@ -1,0 +1,51 @@
+                      Boston Dynamics
+geoName                              
+Alabama                            12
+Alaska                             17
+Arizona                            18
+Arkansas                           18
+California                         33
+Colorado                           29
+Connecticut                        36
+Delaware                           22
+District of Columbia               23
+Florida                            16
+Georgia                            16
+Hawaii                             13
+Idaho                              15
+Illinois                           19
+Indiana                            21
+Iowa                               15
+Kansas                             21
+Kentucky                           13
+Louisiana                          15
+Maine                              37
+Maryland                           29
+Massachusetts                     100
+Michigan                           22
+Minnesota                          21
+Mississippi                         9
+Missouri                           18
+Montana                            14
+Nebraska                           18
+Nevada                             16
+New Hampshire                      73
+New Jersey                         23
+New Mexico                         27
+New York                           27
+North Carolina                     17
+North Dakota                       20
+Ohio                               19
+Oklahoma                           15
+Oregon                             25
+Pennsylvania                       21
+Rhode Island                       32
+South Carolina                     17
+Tennessee                          15
+Texas                              16
+Utah                               20
+Vermont                            20
+Virginia                           18
+Washington                         35
+West Virginia                      12
+Wisconsin                          21
