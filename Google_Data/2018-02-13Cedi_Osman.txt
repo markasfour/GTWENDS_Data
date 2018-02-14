@@ -1,52 +1,52 @@
                       Cedi Osman
 geoName                         
-Alabama                       10
+Alabama                        9
 Alaska                        12
-Arizona                       10
-Arkansas                       8
-California                     9
-Colorado                       4
-Connecticut                    7
+Arizona                        9
+Arkansas                       9
+California                    11
+Colorado                       5
+Connecticut                   11
 Delaware                       3
-District of Columbia          10
+District of Columbia          11
 Florida                        9
-Georgia                       11
-Hawaii                        10
+Georgia                       12
+Hawaii                        11
 Idaho                          4
-Illinois                      12
-Indiana                        7
-Iowa                           7
+Illinois                       8
+Indiana                        8
+Iowa                          11
 Kansas                         7
-Kentucky                       8
-Louisiana                      6
-Maine                          2
+Kentucky                       7
+Louisiana                      9
+Maine                          8
 Maryland                      13
-Massachusetts                  8
-Michigan                       9
-Minnesota                      6
-Mississippi                   11
-Missouri                       8
-Montana                        7
+Massachusetts                 12
+Michigan                      11
+Minnesota                      9
+Mississippi                    5
+Missouri                       7
+Montana                        6
 Nebraska                       7
-Nevada                         8
-New Hampshire                  6
+Nevada                        11
+New Hampshire                  9
 New Jersey                    12
-New Mexico                     5
-New York                      10
+New Mexico                     2
+New York                      12
 North Carolina                10
-North Dakota                   8
+North Dakota                   4
 Ohio                         100
-Oklahoma                       3
-Oregon                         6
-Pennsylvania                   9
-Rhode Island                  11
-South Carolina                 9
-South Dakota                   4
-Tennessee                     10
-Texas                          6
+Oklahoma                       7
+Oregon                         7
+Pennsylvania                  12
+Rhode Island                   9
+South Carolina                12
+South Dakota                   8
+Tennessee                     11
+Texas                          8
 Utah                           4
-Vermont                        4
-Virginia                       8
-Washington                     7
-West Virginia                  9
-Wisconsin                      7
+Vermont                        8
+Virginia                       9
+Washington                     6
+West Virginia                 11
+Wisconsin                      6

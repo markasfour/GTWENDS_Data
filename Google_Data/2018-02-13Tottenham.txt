@@ -1,0 +1,53 @@
+                      Tottenham
+geoName                        
+Alabama                      39
+Alaska                       29
+Arizona                      36
+Arkansas                     37
+California                   60
+Colorado                     52
+Connecticut                  81
+Delaware                     73
+District of Columbia        100
+Florida                      62
+Georgia                      51
+Hawaii                       32
+Idaho                        24
+Illinois                     62
+Indiana                      49
+Iowa                         48
+Kansas                       47
+Kentucky                     37
+Louisiana                    36
+Maine                        49
+Maryland                     92
+Massachusetts                73
+Michigan                     45
+Minnesota                    58
+Mississippi                  22
+Missouri                     47
+Montana                      34
+Nebraska                     55
+Nevada                       43
+New Hampshire                48
+New Jersey                   89
+New Mexico                   32
+New York                     92
+North Carolina               56
+North Dakota                 43
+Ohio                         52
+Oklahoma                     36
+Oregon                       48
+Pennsylvania                 63
+Rhode Island                 57
+South Carolina               47
+South Dakota                 39
+Tennessee                    47
+Texas                        50
+Utah                         38
+Vermont                      61
+Virginia                     78
+Washington                   62
+West Virginia                35
+Wisconsin                    52
+Wyoming                      28

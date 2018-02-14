@@ -1,25 +1,30 @@
                 Emily Sweeney
 geoName                      
-California                 23
-Colorado                   31
-Connecticut                53
-Florida                    22
-Georgia                    12
-Illinois                   45
-Indiana                    44
-Maine                      62
-Maryland                   16
-Massachusetts             100
-Michigan                   28
-Minnesota                  36
-New Jersey                 32
-New York                   26
-North Carolina             19
-Ohio                       43
-Pennsylvania               33
-South Carolina             36
-Tennessee                  24
-Texas                      19
+Alabama                    18
+Arkansas                   31
+California                 15
+Colorado                   23
+Connecticut                76
+Florida                    10
+Georgia                    16
+Illinois                   25
+Indiana                    20
+Maine                     100
+Maryland                   17
+Massachusetts              61
+Michigan                    8
+Minnesota                  26
+Montana                    26
+New Jersey                 16
+New York                   29
+North Carolina             18
+Ohio                       35
+Pennsylvania               40
+South Carolina             20
+Tennessee                  16
+Texas                      13
+Utah                       14
+Vermont                    32
 Virginia                   21
-Washington                 18
-Wisconsin                  18
+Washington                 22
+Wisconsin                  40

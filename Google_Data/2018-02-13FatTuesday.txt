@@ -1,6 +1,6 @@
             FatTuesday
 geoName               
-California          26
-Florida            100
-New York            36
-Texas               25
+California         100
+Florida             89
+New York            84
+Texas               37

@@ -1,53 +1,53 @@
                       Abraham Lincoln
 geoName                              
-Alabama                            74
-Alaska                             64
-Arizona                            72
-Arkansas                           88
+Alabama                            76
+Alaska                             61
+Arizona                            73
+Arkansas                           86
 California                         66
 Colorado                           67
-Connecticut                        59
-Delaware                           66
-District of Columbia               64
+Connecticut                        57
+Delaware                           62
+District of Columbia               67
 Florida                            59
 Georgia                            67
-Hawaii                             54
-Idaho                              80
+Hawaii                             57
+Idaho                              82
 Illinois                          100
 Indiana                            98
-Iowa                              100
-Kansas                             73
-Kentucky                           90
-Louisiana                          63
-Maine                              70
-Maryland                           64
-Massachusetts                      53
+Iowa                               94
+Kansas                             72
+Kentucky                           91
+Louisiana                          61
+Maine                              72
+Maryland                           63
+Massachusetts                      55
 Michigan                           62
 Minnesota                          61
-Mississippi                        80
-Missouri                           76
-Montana                            66
-Nebraska                           82
+Mississippi                        78
+Missouri                           77
+Montana                            68
+Nebraska                           81
 Nevada                             65
-New Hampshire                      58
-New Jersey                         71
-New Mexico                         79
-New York                           58
-North Carolina                     71
-North Dakota                       78
+New Hampshire                      56
+New Jersey                         70
+New Mexico                         72
+New York                           57
+North Carolina                     73
+North Dakota                       82
 Ohio                               68
-Oklahoma                           70
-Oregon                             44
-Pennsylvania                       70
-Rhode Island                       63
-South Carolina                     75
-South Dakota                       98
+Oklahoma                           72
+Oregon                             45
+Pennsylvania                       71
+Rhode Island                       61
+South Carolina                     71
+South Dakota                       94
 Tennessee                          70
-Texas                              67
-Utah                               81
-Vermont                            63
-Virginia                           66
-Washington                         52
-West Virginia                      92
+Texas                              70
+Utah                               88
+Vermont                            67
+Virginia                           67
+Washington                         51
+West Virginia                      91
 Wisconsin                          67
-Wyoming                            83
+Wyoming                            79

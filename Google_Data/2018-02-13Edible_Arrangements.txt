@@ -1,53 +1,53 @@
                       Edible Arrangements
 geoName                                  
-Alabama                                46
-Alaska                                 19
-Arizona                                47
-Arkansas                               31
+Alabama                                47
+Alaska                                 20
+Arizona                                49
+Arkansas                               29
 California                             44
 Colorado                               37
-Connecticut                           100
+Connecticut                            99
 Delaware                               77
-District of Columbia                   78
-Florida                                63
+District of Columbia                   76
+Florida                                66
 Georgia                                62
-Hawaii                                 53
+Hawaii                                 50
 Idaho                                  21
-Illinois                               57
+Illinois                               54
 Indiana                                42
-Iowa                                   23
-Kansas                                 29
+Iowa                                   24
+Kansas                                 30
 Kentucky                               42
 Louisiana                              55
-Maine                                  30
-Maryland                               85
-Massachusetts                          85
-Michigan                               57
+Maine                                  28
+Maryland                               82
+Massachusetts                          87
+Michigan                               53
 Minnesota                              31
 Mississippi                            48
-Missouri                               41
+Missouri                               43
 Montana                                15
-Nebraska                               34
-Nevada                                 57
-New Hampshire                          65
-New Jersey                             80
-New Mexico                             43
-New York                               76
+Nebraska                               33
+Nevada                                 52
+New Hampshire                          69
+New Jersey                             82
+New Mexico                             41
+New York                               77
 North Carolina                         64
-North Dakota                           46
-Ohio                                   50
+North Dakota                           42
+Ohio                                   48
 Oklahoma                               42
 Oregon                                 15
 Pennsylvania                           66
-Rhode Island                           94
-South Carolina                         66
-South Dakota                           25
+Rhode Island                          100
+South Carolina                         63
+South Dakota                           26
 Tennessee                              49
 Texas                                  57
 Utah                                   31
 Vermont                                33
 Virginia                               60
-Washington                             22
-West Virginia                          61
+Washington                             23
+West Virginia                          64
 Wisconsin                              29
-Wyoming                                17
+Wyoming                                18

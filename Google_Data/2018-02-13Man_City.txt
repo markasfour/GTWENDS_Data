@@ -1,0 +1,53 @@
+                      Man City
+geoName                       
+Alabama                     34
+Alaska                      19
+Arizona                     28
+Arkansas                    26
+California                  39
+Colorado                    30
+Connecticut                 41
+Delaware                    36
+District of Columbia        46
+Florida                     36
+Georgia                     35
+Hawaii                      23
+Idaho                       22
+Illinois                    38
+Indiana                     33
+Iowa                        60
+Kansas                      74
+Kentucky                    29
+Louisiana                   30
+Maine                       30
+Maryland                    50
+Massachusetts               36
+Michigan                    38
+Minnesota                   41
+Mississippi                 24
+Missouri                    62
+Montana                     23
+Nebraska                    44
+Nevada                      37
+New Hampshire               27
+New Jersey                  55
+New Mexico                  21
+New York                    47
+North Carolina              35
+North Dakota                34
+Ohio                        33
+Oklahoma                    44
+Oregon                      40
+Pennsylvania                38
+Rhode Island                35
+South Carolina              31
+South Dakota               100
+Tennessee                   35
+Texas                       33
+Utah                        56
+Vermont                     40
+Virginia                    53
+Washington                  30
+West Virginia               26
+Wisconsin                   28
+Wyoming                     27

@@ -1,0 +1,18 @@
+                ChampionsLeague
+geoName                        
+California                   42
+Connecticut                  26
+Florida                      42
+Georgia                      22
+Illinois                     44
+Maryland                     37
+Massachusetts                34
+Michigan                     22
+New Jersey                   39
+New York                     46
+North Carolina               23
+Oregon                       55
+Pennsylvania                 33
+Texas                        27
+Virginia                    100
+Washington                   25

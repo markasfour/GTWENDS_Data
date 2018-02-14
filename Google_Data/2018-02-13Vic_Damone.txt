@@ -1,47 +1,52 @@
                       Vic Damone
 geoName                         
-Alabama                       44
-Arizona                       80
-Arkansas                      42
-California                    65
-Colorado                      58
-Connecticut                  100
-Delaware                      74
-District of Columbia          53
-Florida                       82
-Georgia                       58
+Alabama                       42
+Alaska                        68
+Arizona                       79
+Arkansas                      45
+California                    64
+Colorado                      46
+Connecticut                   81
+Delaware                      97
+District of Columbia          60
+Florida                       76
+Georgia                       57
+Hawaii                        85
+Idaho                         41
 Illinois                      75
-Indiana                       65
-Iowa                          27
-Kansas                        43
-Kentucky                      74
-Louisiana                     60
-Maine                         10
-Maryland                      61
-Massachusetts                 53
-Michigan                      53
-Minnesota                     46
-Mississippi                   81
-Missouri                      52
-Nebraska                      24
-Nevada                        90
-New Hampshire                 27
-New Jersey                    97
-New Mexico                    57
-New York                      88
-North Carolina                52
-Ohio                          52
-Oklahoma                      69
-Oregon                        44
-Pennsylvania                  78
-Rhode Island                  84
-South Carolina                55
-South Dakota                  37
-Tennessee                     47
-Texas                         48
-Utah                          36
-Virginia                      42
-Washington                    45
-West Virginia                 50
-Wisconsin                     43
-Wyoming                       28
+Indiana                       63
+Iowa                          43
+Kansas                        29
+Kentucky                      66
+Louisiana                     34
+Maine                         18
+Maryland                      73
+Massachusetts                 54
+Michigan                      57
+Minnesota                     56
+Mississippi                   40
+Missouri                      49
+Montana                       70
+Nebraska                      34
+Nevada                        83
+New Hampshire                 33
+New Jersey                   100
+New Mexico                    60
+New York                      76
+North Carolina                53
+Ohio                          46
+Oklahoma                      51
+Oregon                        31
+Pennsylvania                  77
+Rhode Island                  68
+South Carolina                33
+South Dakota                  70
+Tennessee                     42
+Texas                         49
+Utah                          23
+Vermont                       36
+Virginia                      44
+Washington                    43
+West Virginia                 66
+Wisconsin                     56
+Wyoming                       26

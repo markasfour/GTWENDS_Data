@@ -1,0 +1,53 @@
+                      SNAP
+geoName                   
+Alabama                 63
+Alaska                  67
+Arizona                 61
+Arkansas                68
+California              61
+Colorado                63
+Connecticut             73
+Delaware                69
+District of Columbia    65
+Florida                 54
+Georgia                 58
+Hawaii                  63
+Idaho                   63
+Illinois                75
+Indiana                 67
+Iowa                    75
+Kansas                  62
+Kentucky                77
+Louisiana              100
+Maine                   68
+Maryland                59
+Massachusetts           68
+Michigan                74
+Minnesota               92
+Mississippi             76
+Missouri                63
+Montana                 95
+Nebraska                75
+Nevada                  65
+New Hampshire           61
+New Jersey              67
+New Mexico              73
+New York                68
+North Carolina          60
+North Dakota            88
+Ohio                    62
+Oklahoma                68
+Oregon                  64
+Pennsylvania            72
+Rhode Island            77
+South Carolina          70
+South Dakota            95
+Tennessee               61
+Texas                   71
+Utah                    67
+Vermont                 76
+Virginia                64
+Washington              69
+West Virginia           77
+Wisconsin               79
+Wyoming                 74
