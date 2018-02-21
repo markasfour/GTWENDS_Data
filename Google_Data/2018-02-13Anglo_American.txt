@@ -1,50 +1,50 @@
                       Anglo American
 geoName                             
-Alabama                           64
-Alaska                            91
-Arizona                           61
-Arkansas                          53
-California                        66
-Colorado                          53
-Connecticut                       93
-Delaware                          47
-District of Columbia              87
-Florida                           54
-Georgia                           49
-Hawaii                            59
-Idaho                             36
-Illinois                          61
-Indiana                           52
-Iowa                              39
-Kansas                            46
-Kentucky                          30
-Louisiana                         54
-Maine                             83
-Maryland                          71
-Massachusetts                     75
-Michigan                          50
-Minnesota                         55
-Mississippi                       42
-Missouri                          43
-Montana                           41
-Nebraska                          50
-Nevada                            63
-New Hampshire                     69
-New Jersey                        75
-New Mexico                        95
-New York                          91
-North Carolina                    60
-Ohio                              65
-Oklahoma                          43
-Oregon                            65
-Pennsylvania                      55
-Rhode Island                     100
-South Carolina                    63
-South Dakota                      34
-Tennessee                         53
-Texas                             94
-Utah                              83
-Virginia                          96
-Washington                        51
-West Virginia                     45
-Wisconsin                         61
+Alabama                           50
+Alaska                           100
+Arizona                           62
+Arkansas                          43
+California                        54
+Colorado                          64
+Connecticut                       85
+Delaware                          46
+District of Columbia              70
+Florida                           49
+Georgia                           45
+Hawaii                            62
+Idaho                             34
+Illinois                          50
+Indiana                           50
+Iowa                              59
+Kansas                            36
+Kentucky                          45
+Louisiana                         48
+Maine                             42
+Maryland                          52
+Massachusetts                     67
+Michigan                          41
+Minnesota                         56
+Mississippi                       38
+Missouri                          38
+Montana                           57
+Nebraska                          33
+Nevada                            54
+New Hampshire                     52
+New Jersey                        60
+New Mexico                        78
+New York                          81
+North Carolina                    58
+Ohio                              71
+Oklahoma                          60
+Oregon                            52
+Pennsylvania                      53
+Rhode Island                      48
+South Carolina                    58
+South Dakota                      57
+Tennessee                         46
+Texas                             92
+Utah                              79
+Virginia                          87
+Washington                        48
+West Virginia                     35
+Wisconsin                         46

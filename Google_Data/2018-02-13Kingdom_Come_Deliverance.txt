@@ -1,53 +1,53 @@
                       Kingdom Come Deliverance
 geoName                                       
-Alabama                                     49
-Alaska                                      81
-Arizona                                     44
-Arkansas                                    71
-California                                  33
-Colorado                                    54
-Connecticut                                 42
-Delaware                                    39
-District of Columbia                        31
-Florida                                     37
-Georgia                                     40
-Hawaii                                      25
-Idaho                                       73
-Illinois                                    34
-Indiana                                     63
-Iowa                                        64
-Kansas                                      53
-Kentucky                                    66
-Louisiana                                   47
-Maine                                       91
-Maryland                                    42
-Massachusetts                               52
-Michigan                                    49
-Minnesota                                   62
-Mississippi                                 53
-Missouri                                    47
-Montana                                     72
-Nebraska                                    69
-Nevada                                      38
-New Hampshire                               53
-New Jersey                                  35
-New Mexico                                  43
-New York                                    32
-North Carolina                              48
-North Dakota                               100
-Ohio                                        67
-Oklahoma                                    55
-Oregon                                      56
-Pennsylvania                                53
-Rhode Island                                55
-South Carolina                              39
-South Dakota                                82
-Tennessee                                   64
+Alabama                                     67
+Alaska                                      73
+Arizona                                     38
+Arkansas                                    90
+California                                  36
+Colorado                                    50
+Connecticut                                 45
+Delaware                                    18
+District of Columbia                        29
+Florida                                     38
+Georgia                                     50
+Hawaii                                      37
+Idaho                                       87
+Illinois                                    43
+Indiana                                     61
+Iowa                                        71
+Kansas                                      58
+Kentucky                                    75
+Louisiana                                   48
+Maine                                       99
+Maryland                                    53
+Massachusetts                               45
+Michigan                                    48
+Minnesota                                   54
+Mississippi                                 66
+Missouri                                    64
+Montana                                    100
+Nebraska                                    57
+Nevada                                      45
+New Hampshire                               58
+New Jersey                                  37
+New Mexico                                  39
+New York                                    38
+North Carolina                              42
+North Dakota                                80
+Ohio                                        57
+Oklahoma                                    66
+Oregon                                      65
+Pennsylvania                                54
+Rhode Island                                57
+South Carolina                              59
+South Dakota                                51
+Tennessee                                   76
 Texas                                       43
-Utah                                        63
-Vermont                                     51
-Virginia                                    44
-Washington                                  62
-West Virginia                               88
-Wisconsin                                   68
-Wyoming                                     32
+Utah                                        71
+Vermont                                     81
+Virginia                                    48
+Washington                                  65
+West Virginia                               97
+Wisconsin                                   61
+Wyoming                                     59

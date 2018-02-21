@@ -1,53 +1,53 @@
                       Edible Arrangements
 geoName                                  
-Alabama                                47
-Alaska                                 20
-Arizona                                49
-Arkansas                               29
-California                             44
-Colorado                               37
-Connecticut                            99
-Delaware                               77
-District of Columbia                   76
-Florida                                66
-Georgia                                62
-Hawaii                                 50
+Alabama                                45
+Alaska                                 19
+Arizona                                46
+Arkansas                               32
+California                             43
+Colorado                               36
+Connecticut                           100
+Delaware                               83
+District of Columbia                   74
+Florida                                61
+Georgia                                60
+Hawaii                                 53
 Idaho                                  21
-Illinois                               54
-Indiana                                42
+Illinois                               57
+Indiana                                41
 Iowa                                   24
-Kansas                                 30
+Kansas                                 28
 Kentucky                               42
-Louisiana                              55
+Louisiana                              53
 Maine                                  28
-Maryland                               82
-Massachusetts                          87
-Michigan                               53
-Minnesota                              31
-Mississippi                            48
-Missouri                               43
+Maryland                               85
+Massachusetts                          84
+Michigan                               54
+Minnesota                              30
+Mississippi                            47
+Missouri                               40
 Montana                                15
-Nebraska                               33
-Nevada                                 52
-New Hampshire                          69
-New Jersey                             82
-New Mexico                             41
-New York                               77
+Nebraska                               35
+Nevada                                 56
+New Hampshire                          66
+New Jersey                             81
+New Mexico                             40
+New York                               71
 North Carolina                         64
-North Dakota                           42
-Ohio                                   48
-Oklahoma                               42
+North Dakota                           41
+Ohio                                   49
+Oklahoma                               40
 Oregon                                 15
-Pennsylvania                           66
-Rhode Island                          100
+Pennsylvania                           65
+Rhode Island                           88
 South Carolina                         63
-South Dakota                           26
-Tennessee                              49
-Texas                                  57
-Utah                                   31
+South Dakota                           24
+Tennessee                              48
+Texas                                  55
+Utah                                   29
 Vermont                                33
-Virginia                               60
-Washington                             23
-West Virginia                          64
+Virginia                               59
+Washington                             21
+West Virginia                          59
 Wisconsin                              29
-Wyoming                                18
+Wyoming                                17

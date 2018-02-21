@@ -1,0 +1,53 @@
+                      Roby
+geoName                   
+Alabama                 94
+Alaska                  17
+Arizona                 21
+Arkansas                34
+California              21
+Colorado                50
+Connecticut             24
+Delaware                20
+District of Columbia    56
+Florida                 26
+Georgia                 34
+Hawaii                  22
+Idaho                   29
+Illinois                38
+Indiana                 36
+Iowa                    45
+Kansas                  28
+Kentucky                83
+Louisiana               52
+Maine                   20
+Maryland                37
+Massachusetts           24
+Michigan                31
+Minnesota               29
+Mississippi             51
+Missouri                42
+Montana                 24
+Nebraska                59
+Nevada                  22
+New Hampshire           51
+New Jersey              17
+New Mexico              27
+New York                20
+North Carolina          42
+North Dakota            20
+Ohio                    71
+Oklahoma                27
+Oregon                  28
+Pennsylvania            23
+Rhode Island            14
+South Carolina          26
+South Dakota           100
+Tennessee               36
+Texas                   38
+Utah                    13
+Vermont                 22
+Virginia                31
+Washington              22
+West Virginia           32
+Wisconsin               28
+Wyoming                 18

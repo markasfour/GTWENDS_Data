@@ -1,30 +1,48 @@
-                Emily Sweeney
-geoName                      
-Alabama                    18
-Arkansas                   31
-California                 15
-Colorado                   23
-Connecticut                76
-Florida                    10
-Georgia                    16
-Illinois                   25
-Indiana                    20
-Maine                     100
-Maryland                   17
-Massachusetts              61
-Michigan                    8
-Minnesota                  26
-Montana                    26
-New Jersey                 16
-New York                   29
-North Carolina             18
-Ohio                       35
-Pennsylvania               40
-South Carolina             20
-Tennessee                  16
-Texas                      13
-Utah                       14
-Vermont                    32
-Virginia                   21
-Washington                 22
-Wisconsin                  40
+                      Emily Sweeney
+geoName                            
+Alabama                          20
+Arizona                          16
+Arkansas                         18
+California                       14
+Colorado                          6
+Connecticut                      57
+Delaware                         22
+District of Columbia             20
+Florida                          11
+Georgia                          15
+Idaho                            13
+Illinois                         17
+Indiana                          14
+Iowa                              7
+Kansas                           23
+Kentucky                         33
+Louisiana                        29
+Maine                           100
+Maryland                         20
+Massachusetts                    55
+Michigan                         16
+Minnesota                        17
+Missouri                         26
+Montana                          22
+Nebraska                         18
+Nevada                           11
+New Hampshire                    26
+New Jersey                       21
+New Mexico                       35
+New York                         19
+North Carolina                   15
+North Dakota                     28
+Ohio                             25
+Oklahoma                         16
+Oregon                           18
+Pennsylvania                     24
+Rhode Island                     77
+South Carolina                   17
+South Dakota                     27
+Tennessee                         3
+Texas                            14
+Utah                              6
+Vermont                          28
+Virginia                         19
+Washington                       19
+Wisconsin                        19

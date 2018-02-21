@@ -1,28 +1,26 @@
                 Anastasia Bryzgalova
 geoName                             
-California                        35
-Colorado                          11
-Connecticut                       18
-Delaware                          84
-Florida                           16
-Georgia                            5
-Hawaii                            43
-Idaho                            100
-Illinois                           4
-Louisiana                         37
-Massachusetts                      7
-Michigan                          34
-Missouri                          11
-Nevada                            43
-New Jersey                        20
-New Mexico                        45
-New York                           5
-North Carolina                    13
-Ohio                              13
-Oregon                            23
-Pennsylvania                      26
-South Carolina                    16
-Texas                              4
-Virginia                          12
-West Virginia                     57
-Wisconsin                         48
+Arizona                           12
+California                        21
+Colorado                          25
+Florida                           14
+Georgia                            6
+Hawaii                           100
+Idaho                             58
+Illinois                           5
+Indiana                           15
+Louisiana                         22
+Massachusetts                      8
+Michigan                          23
+Missouri                          13
+Nevada                            50
+New Jersey                        23
+New York                          11
+Ohio                               7
+Oregon                            27
+Pennsylvania                       6
+South Carolina                    19
+Texas                              5
+Virginia                          13
+Washington                         9
+West Virginia                     66

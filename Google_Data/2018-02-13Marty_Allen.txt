@@ -1,28 +1,48 @@
                       Marty Allen
 geoName                          
-Arizona                        25
-California                     23
-Colorado                       25
-Connecticut                    10
-District of Columbia           28
-Florida                        20
-Georgia                        28
-Illinois                       21
-Indiana                        27
-Maryland                       21
-Massachusetts                  29
-Michigan                       38
-Minnesota                      45
-Missouri                       23
+Alabama                        61
+Arizona                        40
+Arkansas                       26
+California                     35
+Colorado                       24
+Connecticut                    51
+Delaware                       16
+District of Columbia           43
+Florida                        34
+Georgia                        39
+Idaho                          38
+Illinois                       42
+Indiana                        42
+Iowa                           49
+Kansas                         33
+Kentucky                       41
+Louisiana                      36
+Maine                          21
+Maryland                       37
+Massachusetts                  62
+Michigan                       32
+Minnesota                      47
+Mississippi                    27
+Missouri                       36
+Montana                        49
+Nebraska                       26
 Nevada                        100
-New Jersey                     34
-New York                       30
-North Carolina                 29
-Ohio                           30
-Oregon                         10
-Pennsylvania                   33
-Tennessee                      24
-Texas                          19
-Virginia                       19
-Washington                     29
-Wisconsin                      36
+New Hampshire                  48
+New Jersey                     39
+New Mexico                     77
+New York                       44
+North Carolina                 35
+Ohio                           57
+Oklahoma                       39
+Oregon                         22
+Pennsylvania                   61
+Rhode Island                   55
+South Carolina                 46
+South Dakota                   20
+Tennessee                      45
+Texas                          24
+Utah                           13
+Virginia                       28
+Washington                     40
+West Virginia                  22
+Wisconsin                      32

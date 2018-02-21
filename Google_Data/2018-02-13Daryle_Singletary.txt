@@ -1,51 +1,53 @@
                       Daryle Singletary
 geoName                                
-Alabama                              75
-Alaska                               25
-Arizona                              14
-Arkansas                             90
-California                            6
-Colorado                              9
-Connecticut                           3
-Delaware                             27
-District of Columbia                  9
-Florida                              16
-Georgia                              45
-Idaho                                 4
-Illinois                             17
-Indiana                              28
-Iowa                                  6
-Kansas                               30
-Kentucky                             78
-Louisiana                            59
-Maine                                26
+Alabama                              74
+Alaska                                9
+Arizona                              16
+Arkansas                             57
+California                            4
+Colorado                             19
+Connecticut                           5
+Delaware                             21
+District of Columbia                 14
+Florida                              18
+Georgia                              52
+Hawaii                                7
+Idaho                                17
+Illinois                             13
+Indiana                              26
+Iowa                                 19
+Kansas                               27
+Kentucky                             85
+Louisiana                            94
+Maine                                 5
 Maryland                              6
-Massachusetts                         5
-Michigan                             12
+Massachusetts                         2
+Michigan                             13
 Minnesota                            16
-Mississippi                          74
-Missouri                             40
-Montana                               7
-Nebraska                             30
-Nevada                               12
-New Hampshire                         4
-New Jersey                            3
-New Mexico                           32
-New York                              7
-North Carolina                       33
-North Dakota                         42
-Ohio                                 29
-Oklahoma                             44
-Oregon                                3
-Pennsylvania                         14
-South Carolina                       39
-South Dakota                         34
+Mississippi                          78
+Missouri                             50
+Montana                              28
+Nebraska                             29
+Nevada                               13
+New Hampshire                         8
+New Jersey                            2
+New Mexico                           30
+New York                              6
+North Carolina                       42
+North Dakota                         18
+Ohio                                 33
+Oklahoma                             68
+Oregon                                5
+Pennsylvania                         16
+Rhode Island                          5
+South Carolina                       35
+South Dakota                         52
 Tennessee                           100
-Texas                                32
-Utah                                 18
-Vermont                              17
-Virginia                             12
-Washington                            4
-West Virginia                        86
-Wisconsin                            15
-Wyoming                              88
+Texas                                36
+Utah                                 11
+Vermont                              18
+Virginia                             15
+Washington                            5
+West Virginia                        94
+Wisconsin                            16
+Wyoming                              52

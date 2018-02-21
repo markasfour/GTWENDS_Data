@@ -1,5 +1,5 @@
 AL 15
-AK 4
+AK 5
 AZ 6
 AR 0
 CA 15
@@ -7,7 +7,7 @@ CO 15
 CT 15
 DE 0
 DC 15
-FL 14
+FL 15
 GA 15
 HI 3
 ID 0
@@ -34,7 +34,7 @@ NY 15
 NC 15
 ND 0
 OH 3
-OK 4
+OK 6
 OR 2
 PA 5
 RI 15
@@ -42,10 +42,10 @@ SC 3
 SD 0
 TN 5
 TX 2
-UT 6
+UT 7
 VT 2
-VA 4
-WA 11
+VA 6
+WA 15
 WV 1
 WI 2
 WY 0

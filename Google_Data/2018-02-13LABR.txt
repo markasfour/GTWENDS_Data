@@ -1,0 +1,28 @@
+                      LABR
+geoName                   
+Arizona                 53
+California              55
+Colorado                47
+Connecticut             48
+District of Columbia   100
+Florida                 44
+Georgia                 45
+Illinois                43
+Indiana                 37
+Louisiana               30
+Maryland                53
+Massachusetts           68
+Michigan                45
+Minnesota               33
+Missouri                40
+New Jersey              65
+New York                68
+North Carolina          37
+Ohio                    39
+Oregon                  28
+Pennsylvania            51
+Tennessee               44
+Texas                   42
+Virginia                38
+Washington              44
+Wisconsin               49

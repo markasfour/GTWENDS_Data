@@ -1,47 +1,46 @@
                       Esteban Loaiza
 geoName                             
-Alabama                            6
-Alaska                             8
-Arizona                           75
-Arkansas                          10
+Alabama                            1
+Arizona                           72
+Arkansas                          15
 California                       100
-Colorado                          37
-Connecticut                       15
-Delaware                          19
-District of Columbia              17
-Florida                           32
+Colorado                          27
+Connecticut                        8
+Delaware                          12
+District of Columbia              18
+Florida                           34
 Georgia                           21
-Hawaii                            22
-Idaho                             30
+Hawaii                            19
+Idaho                             15
 Illinois                          43
-Indiana                           15
-Iowa                              19
-Kansas                            18
-Kentucky                          14
-Louisiana                         15
-Maryland                          10
-Massachusetts                     14
-Michigan                          10
-Minnesota                         12
+Indiana                           11
+Iowa                              15
+Kansas                            23
+Kentucky                           7
+Louisiana                         14
+Maryland                          12
+Massachusetts                     13
+Michigan                           6
+Minnesota                         13
 Mississippi                        8
-Missouri                          10
+Missouri                           8
 Montana                            6
-Nebraska                          21
-Nevada                            72
-New Jersey                        21
-New Mexico                        57
-New York                          25
-North Carolina                    16
+Nebraska                          13
+Nevada                            63
+New Jersey                        31
+New Mexico                        37
+New York                          27
+North Carolina                    18
 North Dakota                       8
-Ohio                               6
-Oklahoma                          32
-Oregon                            21
-Pennsylvania                      10
+Ohio                               5
+Oklahoma                          29
+Oregon                            19
+Pennsylvania                       7
 Rhode Island                       9
-South Carolina                     6
+South Carolina                    12
 Tennessee                         10
-Texas                             83
-Utah                              26
-Virginia                           9
-Washington                        25
-Wisconsin                         10
+Texas                             84
+Utah                              20
+Virginia                          10
+Washington                        23
+Wisconsin                         15
