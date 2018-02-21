@@ -1,0 +1,51 @@
+                      RHOBH
+geoName                    
+Alabama                  57
+Arizona                  69
+Arkansas                 49
+California               88
+Colorado                 57
+Connecticut              90
+Delaware                 93
+District of Columbia    100
+Florida                  64
+Georgia                  59
+Hawaii                   65
+Idaho                    36
+Illinois                 67
+Indiana                  52
+Iowa                     43
+Kansas                   59
+Kentucky                 60
+Louisiana                64
+Maine                    91
+Maryland                 77
+Massachusetts            88
+Michigan                 62
+Minnesota                61
+Mississippi              57
+Missouri                 51
+Montana                  53
+Nebraska                 49
+Nevada                   59
+New Hampshire            67
+New Jersey               87
+New Mexico               51
+New York                 92
+North Carolina           66
+North Dakota             36
+Ohio                     66
+Oklahoma                 61
+Oregon                   37
+Pennsylvania             77
+Rhode Island             84
+South Carolina           63
+South Dakota             21
+Tennessee                58
+Texas                    61
+Utah                     35
+Vermont                  67
+Virginia                 67
+Washington               78
+West Virginia            60
+Wisconsin                48

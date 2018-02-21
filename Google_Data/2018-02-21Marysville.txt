@@ -1,0 +1,53 @@
+                      Marysville
+geoName                         
+Alabama                        1
+Alaska                         4
+Arizona                        2
+Arkansas                       1
+California                     8
+Colorado                       1
+Connecticut                    0
+Delaware                       1
+District of Columbia           2
+Florida                        1
+Georgia                        1
+Hawaii                         1
+Idaho                          3
+Illinois                       2
+Indiana                        4
+Iowa                           1
+Kansas                        16
+Kentucky                       2
+Louisiana                      0
+Maine                          1
+Maryland                       1
+Massachusetts                  1
+Michigan                      16
+Minnesota                      2
+Mississippi                    1
+Missouri                       2
+Montana                        4
+Nebraska                       5
+Nevada                         3
+New Hampshire                  0
+New Jersey                     1
+New Mexico                     1
+New York                       1
+North Carolina                 1
+North Dakota                   1
+Ohio                          48
+Oklahoma                       1
+Oregon                         5
+Pennsylvania                   3
+Rhode Island                   1
+South Carolina                 1
+South Dakota                   1
+Tennessee                      1
+Texas                          1
+Utah                           2
+Vermont                        0
+Virginia                       1
+Washington                   100
+West Virginia                  2
+Wisconsin                      1
+Wyoming                        1

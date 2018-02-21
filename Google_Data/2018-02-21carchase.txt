@@ -1,0 +1,7 @@
+            carchase
+geoName             
+Arizona           83
+California       100
+Florida           43
+New York          55
+Texas             31

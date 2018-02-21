@@ -1,0 +1,53 @@
+                      Mavs
+geoName                   
+Alabama                  5
+Alaska                   5
+Arizona                  4
+Arkansas                12
+California               6
+Colorado                 9
+Connecticut              5
+Delaware                 2
+District of Columbia     7
+Florida                  5
+Georgia                  6
+Hawaii                   5
+Idaho                    3
+Illinois                 6
+Indiana                  5
+Iowa                     6
+Kansas                  16
+Kentucky                 4
+Louisiana               11
+Maine                    3
+Maryland                 6
+Massachusetts            5
+Michigan                 5
+Minnesota                5
+Mississippi             25
+Missouri                 8
+Montana                  7
+Nebraska                16
+Nevada                   7
+New Hampshire            3
+New Jersey               5
+New Mexico               6
+New York                 9
+North Carolina           5
+North Dakota             5
+Ohio                     4
+Oklahoma                22
+Oregon                   4
+Pennsylvania             5
+Rhode Island             3
+South Carolina           5
+South Dakota             5
+Tennessee                6
+Texas                  100
+Utah                     6
+Vermont                  6
+Virginia                 4
+Washington               5
+West Virginia            3
+Wisconsin                4
+Wyoming                  3

@@ -1,0 +1,50 @@
+                      Merengue
+geoName                       
+Alabama                     14
+Alaska                      19
+Arizona                     21
+Arkansas                    21
+California                  35
+Colorado                    17
+Connecticut                 55
+Delaware                    32
+District of Columbia        52
+Florida                     75
+Georgia                     34
+Hawaii                      20
+Idaho                       14
+Illinois                    29
+Indiana                     16
+Iowa                        16
+Kansas                      18
+Kentucky                    15
+Louisiana                   19
+Maine                       17
+Maryland                    39
+Massachusetts               92
+Michigan                    15
+Minnesota                   18
+Mississippi                 13
+Missouri                    15
+Nebraska                    14
+Nevada                      28
+New Hampshire               28
+New Jersey                 100
+New Mexico                  24
+New York                    99
+North Carolina              29
+Ohio                        16
+Oklahoma                    25
+Oregon                      54
+Pennsylvania                36
+Rhode Island                78
+South Carolina              19
+Tennessee                   17
+Texas                       33
+Utah                        18
+Vermont                     19
+Virginia                    37
+Washington                  19
+West Virginia                9
+Wisconsin                   19
+Wyoming                      9

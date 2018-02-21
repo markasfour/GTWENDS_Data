@@ -1,0 +1,53 @@
+                      Bangladesh
+geoName                         
+Alabama                       10
+Alaska                        10
+Arizona                       11
+Arkansas                      11
+California                    17
+Colorado                      11
+Connecticut                   23
+Delaware                      22
+District of Columbia          40
+Florida                       14
+Georgia                       16
+Hawaii                        13
+Idaho                         10
+Illinois                      13
+Indiana                       11
+Iowa                          11
+Kansas                        48
+Kentucky                       9
+Louisiana                      9
+Maine                         10
+Maryland                      29
+Massachusetts                 21
+Michigan                      19
+Minnesota                     14
+Mississippi                    8
+Missouri                      10
+Montana                        7
+Nebraska                       9
+Nevada                        10
+New Hampshire                 13
+New Jersey                    29
+New Mexico                     9
+New York                      59
+North Carolina                11
+North Dakota                  11
+Ohio                          12
+Oklahoma                      11
+Oregon                        35
+Pennsylvania                  18
+Rhode Island                  11
+South Carolina                 9
+South Dakota                  14
+Tennessee                     10
+Texas                         19
+Utah                           9
+Vermont                       14
+Virginia                     100
+Washington                    13
+West Virginia                  8
+Wisconsin                     11
+Wyoming                        9

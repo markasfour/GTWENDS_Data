@@ -1,0 +1,53 @@
+                      Great Britain
+geoName                            
+Alabama                          84
+Alaska                           67
+Arizona                          72
+Arkansas                         84
+California                       66
+Colorado                         69
+Connecticut                     100
+Delaware                         68
+District of Columbia             56
+Florida                          65
+Georgia                          76
+Hawaii                           58
+Idaho                            74
+Illinois                         64
+Indiana                          83
+Iowa                             82
+Kansas                           77
+Kentucky                         74
+Louisiana                        64
+Maine                            88
+Maryland                         71
+Massachusetts                    67
+Michigan                         72
+Minnesota                        72
+Mississippi                      72
+Missouri                         75
+Montana                          72
+Nebraska                         67
+Nevada                           67
+New Hampshire                    75
+New Jersey                       72
+New Mexico                       71
+New York                         65
+North Carolina                   79
+North Dakota                     77
+Ohio                             78
+Oklahoma                         73
+Oregon                           53
+Pennsylvania                     68
+Rhode Island                     73
+South Carolina                   91
+South Dakota                     71
+Tennessee                        66
+Texas                            67
+Utah                             76
+Vermont                          74
+Virginia                         66
+Washington                       64
+West Virginia                    69
+Wisconsin                        69
+Wyoming                          87

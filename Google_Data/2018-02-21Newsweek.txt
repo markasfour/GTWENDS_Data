@@ -1,0 +1,53 @@
+                      Newsweek
+geoName                       
+Alabama                     40
+Alaska                      64
+Arizona                     48
+Arkansas                    39
+California                  60
+Colorado                    61
+Connecticut                 77
+Delaware                    68
+District of Columbia       100
+Florida                     47
+Georgia                     44
+Hawaii                      52
+Idaho                       57
+Illinois                    66
+Indiana                     54
+Iowa                        53
+Kansas                      51
+Kentucky                    47
+Louisiana                   40
+Maine                       71
+Maryland                    72
+Massachusetts               69
+Michigan                    54
+Minnesota                   65
+Mississippi                 40
+Missouri                    57
+Montana                     73
+Nebraska                    53
+Nevada                      47
+New Hampshire               73
+New Jersey                  71
+New Mexico                  58
+New York                    78
+North Carolina              48
+North Dakota                40
+Ohio                        55
+Oklahoma                    39
+Oregon                      53
+Pennsylvania                61
+Rhode Island                61
+South Carolina              45
+South Dakota                36
+Tennessee                   41
+Texas                       43
+Utah                        48
+Vermont                     91
+Virginia                    61
+Washington                  69
+West Virginia               49
+Wisconsin                   62
+Wyoming                     52

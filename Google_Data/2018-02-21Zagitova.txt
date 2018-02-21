@@ -1,0 +1,49 @@
+                      Zagitova
+geoName                       
+Alabama                     12
+Arizona                     15
+Arkansas                     5
+California                  19
+Colorado                    25
+Connecticut                 25
+Delaware                    26
+District of Columbia        12
+Florida                     10
+Georgia                     11
+Hawaii                      13
+Idaho                       23
+Illinois                    17
+Indiana                     10
+Iowa                         8
+Kansas                      21
+Kentucky                    14
+Louisiana                    9
+Maine                       26
+Maryland                    29
+Massachusetts               30
+Michigan                    16
+Minnesota                   25
+Missouri                    12
+Montana                     13
+Nebraska                    16
+Nevada                      10
+New Hampshire               24
+New Jersey                  31
+New Mexico                  28
+New York                    29
+North Carolina              12
+Ohio                        18
+Oklahoma                     3
+Oregon                      13
+Pennsylvania                19
+Rhode Island               100
+South Carolina              17
+South Dakota                16
+Tennessee                   12
+Texas                       17
+Utah                        11
+Vermont                     17
+Virginia                    20
+Washington                  29
+West Virginia                9
+Wisconsin                   17
