@@ -1,0 +1,46 @@
+                      MFW
+geoName                  
+Alabama                80
+Arizona                85
+Arkansas               82
+California             99
+Colorado               82
+Connecticut            81
+District of Columbia   57
+Florida                69
+Georgia                64
+Hawaii                 86
+Idaho                  80
+Illinois               82
+Indiana                82
+Iowa                   87
+Kansas                 70
+Kentucky               66
+Louisiana              74
+Maine                  61
+Maryland               77
+Massachusetts          89
+Michigan               87
+Minnesota              86
+Mississippi            50
+Missouri               97
+Nebraska               86
+Nevada                 79
+New Hampshire          82
+New Jersey             85
+New Mexico             48
+New York               77
+North Carolina         64
+Ohio                   83
+Oklahoma               78
+Oregon                 78
+Pennsylvania           86
+Rhode Island           94
+South Carolina         69
+Tennessee              84
+Texas                  74
+Utah                   79
+Virginia               66
+Washington            100
+West Virginia          62
+Wisconsin              74

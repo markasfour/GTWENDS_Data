@@ -2,7 +2,7 @@
 geoName                                    
 Alabama                                   2
 Alaska                                    1
-Arizona                                   1
+Arizona                                   2
 Arkansas                                  2
 California                                1
 Colorado                                  1
@@ -33,8 +33,8 @@ New Hampshire                             1
 New Jersey                                2
 New Mexico                                1
 New York                                  2
-North Carolina                            3
-North Dakota                              1
+North Carolina                            4
+North Dakota                              2
 Ohio                                      4
 Oklahoma                                  2
 Oregon                                    1
@@ -42,7 +42,7 @@ Pennsylvania                              2
 Rhode Island                              1
 South Carolina                            3
 South Dakota                              2
-Tennessee                                 7
+Tennessee                                 6
 Texas                                     1
 Utah                                      1
 Vermont                                   1

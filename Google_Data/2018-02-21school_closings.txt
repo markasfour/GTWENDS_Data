@@ -1,12 +1,12 @@
                       school closings
 geoName                              
-Alabama                            10
+Alabama                             9
 Alaska                              0
 Arizona                             0
 Arkansas                           16
 California                          1
 Colorado                            5
-Connecticut                        25
+Connecticut                        24
 Delaware                           29
 District of Columbia               12
 Florida                             2
@@ -14,38 +14,38 @@ Georgia                            11
 Hawaii                              0
 Idaho                               4
 Illinois                           13
-Indiana                            18
+Indiana                            17
 Iowa                               13
-Kansas                             12
+Kansas                             11
 Kentucky                           36
 Louisiana                           4
-Maine                              13
-Maryland                           20
+Maine                              14
+Maryland                           19
 Massachusetts                      26
-Michigan                           62
-Minnesota                          23
+Michigan                           61
+Minnesota                          22
 Mississippi                         7
 Missouri                           20
 Montana                             1
-Nebraska                           14
+Nebraska                           15
 Nevada                              1
 New Hampshire                      28
 New Jersey                         10
 New Mexico                          4
 New York                           15
 North Carolina                     10
-North Dakota                        5
-Ohio                               47
-Oklahoma                           13
+North Dakota                        4
+Ohio                               46
+Oklahoma                           12
 Oregon                              1
 Pennsylvania                       27
-Rhode Island                       27
+Rhode Island                       26
 South Carolina                      7
-South Dakota                        6
-Tennessee                          25
+South Dakota                        7
+Tennessee                          24
 Texas                               4
 Utah                                0
-Vermont                            47
+Vermont                            45
 Virginia                           16
 Washington                          1
 West Virginia                     100

@@ -1,44 +1,44 @@
                       Brandon Drury
 geoName                            
-Alabama                           6
+Alabama                           3
 Arizona                         100
-Arkansas                          5
-California                        9
-Colorado                         13
-Connecticut                      14
-Delaware                         13
+Arkansas                         11
+California                       10
+Colorado                         11
+Connecticut                      16
+Delaware                         20
 District of Columbia              4
 Florida                           7
-Georgia                           6
-Illinois                         11
-Indiana                          16
-Iowa                             10
-Kansas                            3
-Kentucky                          7
-Louisiana                         4
-Maine                            12
+Georgia                           7
+Illinois                         13
+Indiana                          13
+Iowa                             16
+Kansas                            5
+Kentucky                          6
+Louisiana                         6
+Maine                            17
 Maryland                          7
-Massachusetts                    10
-Michigan                          7
-Minnesota                        12
-Missouri                         15
-Nebraska                          8
-Nevada                            8
+Massachusetts                    11
+Michigan                          9
+Minnesota                        11
+Missouri                         17
+Nevada                           14
 New Hampshire                     4
-New Jersey                       14
-New Mexico                       17
-New York                         13
-North Carolina                    6
-Ohio                              7
+New Jersey                       12
+New Mexico                        4
+New York                         16
+North Carolina                    9
+Ohio                              8
 Oklahoma                          5
-Oregon                           47
-Pennsylvania                      9
-Rhode Island                      4
-Tennessee                         6
-Texas                             5
-Utah                              5
-Vermont                           8
-Virginia                          4
-Washington                        9
-West Virginia                     4
-Wisconsin                        12
+Oregon                           58
+Pennsylvania                      8
+Rhode Island                      5
+South Carolina                    3
+Tennessee                         5
+Texas                             4
+Utah                              2
+Vermont                          17
+Virginia                          7
+Washington                        8
+West Virginia                     9
+Wisconsin                        13

@@ -1,33 +1,53 @@
                       Gabriella Papadakis
 geoName                                  
-Alabama                                18
-Alaska                                100
-Arizona                                10
-California                             32
-Connecticut                            35
-District of Columbia                   18
-Florida                                12
-Georgia                                46
-Hawaii                                 83
-Idaho                                  48
-Illinois                               17
-Indiana                                50
-Kentucky                               35
-Louisiana                              18
-Maine                                  53
-Maryland                               32
-Massachusetts                          35
-Michigan                               20
-Minnesota                              31
-Missouri                               11
-Nebraska                               67
-New Jersey                             26
-New York                               27
-North Carolina                          6
-Ohio                                   25
-Oregon                                 44
-Pennsylvania                           20
-South Carolina                         16
-Texas                                  32
-Virginia                               22
-Washington                             15
+Alabama                                36
+Alaska                                 12
+Arizona                                54
+Arkansas                               32
+California                             44
+Colorado                               59
+Connecticut                            61
+Delaware                               49
+District of Columbia                   29
+Florida                                36
+Georgia                                50
+Hawaii                                 15
+Idaho                                  41
+Illinois                               51
+Indiana                                36
+Iowa                                   42
+Kansas                                 61
+Kentucky                               36
+Louisiana                              48
+Maine                                  51
+Maryland                               53
+Massachusetts                          59
+Michigan                               44
+Minnesota                              48
+Mississippi                            37
+Missouri                               58
+Montana                                59
+Nebraska                               65
+Nevada                                 30
+New Hampshire                         100
+New Jersey                             54
+New Mexico                             26
+New York                               38
+North Carolina                         40
+North Dakota                           25
+Ohio                                   54
+Oklahoma                               19
+Oregon                                 34
+Pennsylvania                           47
+Rhode Island                           48
+South Carolina                         47
+South Dakota                           48
+Tennessee                              32
+Texas                                  43
+Utah                                   37
+Vermont                                75
+Virginia                               33
+Washington                             41
+West Virginia                          53
+Wisconsin                              78
+Wyoming                                54

@@ -1,0 +1,53 @@
+                      USA Hockey
+geoName                         
+Alabama                        8
+Alaska                        69
+Arizona                       18
+Arkansas                       8
+California                    13
+Colorado                      32
+Connecticut                   48
+Delaware                      39
+District of Columbia          24
+Florida                       15
+Georgia                       10
+Hawaii                        10
+Idaho                         21
+Illinois                      37
+Indiana                       19
+Iowa                          25
+Kansas                        14
+Kentucky                      12
+Louisiana                      6
+Maine                         52
+Maryland                      29
+Massachusetts                 65
+Michigan                      58
+Minnesota                     84
+Mississippi                    8
+Missouri                      32
+Montana                       27
+Nebraska                      24
+Nevada                        14
+New Hampshire                 68
+New Jersey                    38
+New Mexico                    13
+New York                      38
+North Carolina                17
+North Dakota                 100
+Ohio                          28
+Oklahoma                      12
+Oregon                        10
+Pennsylvania                  52
+Rhode Island                  45
+South Carolina                13
+South Dakota                  33
+Tennessee                     13
+Texas                         10
+Utah                          18
+Vermont                       77
+Virginia                      22
+Washington                    14
+West Virginia                 18
+Wisconsin                     42
+Wyoming                       34

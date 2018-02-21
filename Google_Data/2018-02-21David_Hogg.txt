@@ -1,43 +1,42 @@
                       David Hogg
 geoName                         
 Alabama                      100
-Arizona                        4
-California                    24
-Colorado                      30
-Connecticut                   15
-Delaware                      33
-District of Columbia          23
-Florida                       25
-Georgia                       28
-Illinois                      19
-Indiana                       37
-Iowa                          21
-Kansas                        44
-Kentucky                      36
-Louisiana                     23
-Maryland                       9
-Massachusetts                 49
+Arizona                        9
+California                    31
+Colorado                      28
+Connecticut                    8
+District of Columbia          66
+Florida                       33
+Georgia                       40
+Hawaii                        19
+Idaho                         22
+Illinois                      27
+Indiana                       40
+Iowa                          23
+Kansas                        38
+Kentucky                      87
+Louisiana                     25
+Maryland                      48
+Massachusetts                 41
 Michigan                      27
-Minnesota                     13
-Missouri                      18
-Montana                       34
-Nebraska                      28
-Nevada                         9
-New Jersey                    35
-New Mexico                    18
-New York                      30
-North Carolina                18
-North Dakota                  43
-Ohio                          10
-Oklahoma                      24
-Oregon                        28
-Pennsylvania                  47
-Rhode Island                  23
-South Carolina                13
-Tennessee                     13
-Texas                         38
-Utah                          28
-Virginia                      30
-Washington                    19
-West Virginia                 68
-Wisconsin                     24
+Minnesota                     24
+Mississippi                   31
+Missouri                      54
+Nebraska                      15
+Nevada                        10
+New Jersey                    44
+New Mexico                    59
+New York                      38
+North Carolina                28
+Ohio                          20
+Oklahoma                      27
+Oregon                        35
+Pennsylvania                  44
+Rhode Island                  26
+South Carolina                 7
+Tennessee                     14
+Texas                         49
+Utah                          30
+Virginia                      35
+Washington                    25
+Wisconsin                     16

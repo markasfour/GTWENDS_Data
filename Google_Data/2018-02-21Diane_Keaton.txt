@@ -1,53 +1,53 @@
                       Diane Keaton
 geoName                           
-Alabama                         68
-Alaska                          69
-Arizona                         84
-Arkansas                        60
-California                      80
-Colorado                        80
-Connecticut                     84
-Delaware                        76
-District of Columbia            78
-Florida                         78
-Georgia                         64
-Hawaii                          63
-Idaho                           70
-Illinois                        76
-Indiana                         76
+Alabama                         67
+Alaska                          55
+Arizona                         86
+Arkansas                        59
+California                      85
+Colorado                        79
+Connecticut                     89
+Delaware                        71
+District of Columbia            83
+Florida                         76
+Georgia                         63
+Hawaii                          68
+Idaho                           76
+Illinois                        77
+Indiana                         74
 Iowa                            76
-Kansas                          69
-Kentucky                        74
-Louisiana                       67
-Maine                           80
-Maryland                        73
-Massachusetts                   86
+Kansas                          57
+Kentucky                        70
+Louisiana                       65
+Maine                           86
+Maryland                        71
+Massachusetts                   83
 Michigan                        78
-Minnesota                       78
-Mississippi                     59
-Missouri                        83
-Montana                         71
-Nebraska                        75
-Nevada                          75
-New Hampshire                   89
+Minnesota                       77
+Mississippi                     63
+Missouri                        78
+Montana                         74
+Nebraska                        80
+Nevada                          72
+New Hampshire                   82
 New Jersey                      84
-New Mexico                      80
-New York                        92
-North Carolina                  66
-North Dakota                    57
-Ohio                            71
-Oklahoma                        88
-Oregon                          65
-Pennsylvania                    81
-Rhode Island                    96
-South Carolina                  66
-South Dakota                    63
+New Mexico                      81
+New York                        87
+North Carolina                  65
+North Dakota                    51
+Ohio                            70
+Oklahoma                        92
+Oregon                          64
+Pennsylvania                    77
+Rhode Island                   100
+South Carolina                  68
+South Dakota                    41
 Tennessee                       70
-Texas                           67
-Utah                            66
-Vermont                        100
-Virginia                        64
-Washington                      85
-West Virginia                   72
-Wisconsin                       77
-Wyoming                         71
+Texas                           65
+Utah                            65
+Vermont                         89
+Virginia                        62
+Washington                      79
+West Virginia                   70
+Wisconsin                       76
+Wyoming                         60

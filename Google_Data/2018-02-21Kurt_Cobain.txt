@@ -1,53 +1,53 @@
                       Kurt Cobain
 geoName                          
-Alabama                        61
-Alaska                         49
-Arizona                        63
-Arkansas                       62
-California                     61
-Colorado                       61
-Connecticut                    60
-Delaware                       54
+Alabama                        56
+Alaska                         45
+Arizona                        61
+Arkansas                       57
+California                     59
+Colorado                       58
+Connecticut                    55
+Delaware                       55
 District of Columbia           57
-Florida                        52
-Georgia                        55
-Hawaii                         41
-Idaho                          59
+Florida                        51
+Georgia                        54
+Hawaii                         38
+Idaho                          57
 Illinois                       60
-Indiana                        67
-Iowa                           63
+Indiana                        66
+Iowa                           58
 Kansas                         53
-Kentucky                       73
-Louisiana                      54
-Maine                          65
-Maryland                       55
-Massachusetts                  61
-Michigan                       62
-Minnesota                      57
-Mississippi                    54
-Missouri                       62
-Montana                        56
-Nebraska                       54
-Nevada                         60
-New Hampshire                  62
-New Jersey                     66
-New Mexico                     55
-New York                       62
-North Carolina                 56
+Kentucky                       67
+Louisiana                      58
+Maine                          63
+Maryland                       52
+Massachusetts                  58
+Michigan                       59
+Minnesota                      51
+Mississippi                    60
+Missouri                       60
+Montana                        64
+Nebraska                       59
+Nevada                         61
+New Hampshire                  61
+New Jersey                     63
+New Mexico                     57
+New York                       61
+North Carolina                 52
 North Dakota                   61
-Ohio                           65
-Oklahoma                       65
+Ohio                           64
+Oklahoma                       70
 Oregon                         56
-Pennsylvania                   68
-Rhode Island                   69
-South Carolina                 55
-South Dakota                   61
-Tennessee                      65
-Texas                          58
-Utah                           57
-Vermont                        63
-Virginia                       48
+Pennsylvania                   67
+Rhode Island                   64
+South Carolina                 53
+South Dakota                   56
+Tennessee                      62
+Texas                          57
+Utah                           49
+Vermont                        60
+Virginia                       47
 Washington                    100
-West Virginia                  86
-Wisconsin                      58
-Wyoming                        65
+West Virginia                  76
+Wisconsin                      57
+Wyoming                        44

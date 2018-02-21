@@ -1,26 +1,26 @@
-                      Andy Cannizaro
-geoName                             
-Alabama                            9
-Arkansas                           7
-California                         0
-Colorado                           1
-District of Columbia               1
-Florida                            2
-Georgia                            6
-Illinois                           1
-Indiana                            1
-Iowa                               2
-Louisiana                         68
-Massachusetts                      0
-Michigan                           1
-Mississippi                      100
-Missouri                           1
-Nebraska                           2
-New Jersey                         1
-New York                           1
-North Carolina                     1
-Ohio                               2
-Pennsylvania                       1
-Tennessee                          4
-Texas                              2
-Virginia                           0
+                Andy Cannizaro
+geoName                       
+Alabama                      9
+California                   0
+Colorado                     1
+Connecticut                  2
+Florida                      1
+Georgia                      3
+Illinois                     1
+Indiana                      2
+Iowa                         2
+Kentucky                     3
+Louisiana                   57
+Michigan                     1
+Mississippi                100
+Nebraska                     6
+New Jersey                   1
+New York                     1
+North Carolina               0
+Ohio                         0
+Pennsylvania                 1
+South Carolina               2
+Tennessee                    3
+Texas                        4
+Virginia                     0
+Washington                   1

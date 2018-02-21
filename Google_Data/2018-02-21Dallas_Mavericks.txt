@@ -1,0 +1,53 @@
+                      Dallas Mavericks
+geoName                               
+Alabama                              9
+Alaska                               4
+Arizona                              6
+Arkansas                            20
+California                           8
+Colorado                             8
+Connecticut                          6
+Delaware                             5
+District of Columbia                 7
+Florida                              7
+Georgia                              9
+Hawaii                               9
+Idaho                                6
+Illinois                             7
+Indiana                              7
+Iowa                                 7
+Kansas                               8
+Kentucky                             8
+Louisiana                           16
+Maine                                4
+Maryland                             6
+Massachusetts                        6
+Michigan                             6
+Minnesota                            5
+Mississippi                         12
+Missouri                             7
+Montana                              6
+Nebraska                             9
+Nevada                              10
+New Hampshire                        4
+New Jersey                           6
+New Mexico                          12
+New York                             9
+North Carolina                       7
+North Dakota                         7
+Ohio                                 6
+Oklahoma                            24
+Oregon                               5
+Pennsylvania                         5
+Rhode Island                         5
+South Carolina                       7
+South Dakota                         7
+Tennessee                            8
+Texas                              100
+Utah                                 8
+Vermont                              4
+Virginia                             6
+Washington                           5
+West Virginia                        6
+Wisconsin                            5
+Wyoming                              5

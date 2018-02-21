@@ -1,0 +1,53 @@
+                      JPMorgan Chase
+geoName                             
+Alabama                           15
+Alaska                             9
+Arizona                           28
+Arkansas                          12
+California                        17
+Colorado                          16
+Connecticut                       28
+Delaware                         100
+District of Columbia              33
+Florida                           25
+Georgia                           15
+Hawaii                            12
+Idaho                             14
+Illinois                          35
+Indiana                           23
+Iowa                              10
+Kansas                            15
+Kentucky                          18
+Louisiana                         30
+Maine                             13
+Maryland                          21
+Massachusetts                     18
+Michigan                          21
+Minnesota                         13
+Mississippi                       12
+Missouri                          18
+Montana                           11
+Nebraska                          12
+Nevada                            16
+New Hampshire                     14
+New Jersey                        37
+New Mexico                        12
+New York                          58
+North Carolina                    16
+North Dakota                       9
+Ohio                              41
+Oklahoma                          17
+Oregon                             9
+Pennsylvania                      20
+Rhode Island                      16
+South Carolina                    12
+South Dakota                      11
+Tennessee                         13
+Texas                             30
+Utah                              16
+Vermont                           17
+Virginia                          21
+Washington                        15
+West Virginia                     14
+Wisconsin                         18
+Wyoming                            9
