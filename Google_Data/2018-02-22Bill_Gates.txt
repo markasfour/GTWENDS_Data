@@ -1,0 +1,53 @@
+                      Bill Gates
+geoName                         
+Alabama                       46
+Alaska                        48
+Arizona                       53
+Arkansas                      53
+California                    53
+Colorado                      45
+Connecticut                   54
+Delaware                      51
+District of Columbia          56
+Florida                       48
+Georgia                       52
+Hawaii                        49
+Idaho                         50
+Illinois                      50
+Indiana                       55
+Iowa                          47
+Kansas                        47
+Kentucky                      44
+Louisiana                     48
+Maine                         40
+Maryland                      54
+Massachusetts                 51
+Michigan                      53
+Minnesota                     47
+Mississippi                   54
+Missouri                      48
+Montana                       46
+Nebraska                      43
+Nevada                        52
+New Hampshire                 44
+New Jersey                    55
+New Mexico                    47
+New York                      48
+North Carolina                49
+North Dakota                  44
+Ohio                          48
+Oklahoma                      47
+Oregon                        43
+Pennsylvania                  48
+Rhode Island                  47
+South Carolina                47
+South Dakota                  49
+Tennessee                     47
+Texas                         50
+Utah                          50
+Vermont                       47
+Virginia                      50
+Washington                   100
+West Virginia                 40
+Wisconsin                     45
+Wyoming                       47

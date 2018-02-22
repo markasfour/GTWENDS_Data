@@ -1,0 +1,53 @@
+                      Southwest Airlines
+geoName                                 
+Alabama                               16
+Alaska                                 6
+Arizona                               86
+Arkansas                              26
+California                            22
+Colorado                              80
+Connecticut                           14
+Delaware                              18
+District of Columbia                  19
+Florida                               27
+Georgia                               23
+Hawaii                                11
+Idaho                                 31
+Illinois                              28
+Indiana                               33
+Iowa                                  20
+Kansas                                47
+Kentucky                              17
+Louisiana                             24
+Maine                                 22
+Maryland                              23
+Massachusetts                         13
+Michigan                              19
+Minnesota                             20
+Mississippi                           17
+Missouri                              59
+Montana                                7
+Nebraska                              50
+Nevada                                92
+New Hampshire                         23
+New Jersey                            11
+New Mexico                           100
+New York                              15
+North Carolina                        13
+North Dakota                           6
+Ohio                                  23
+Oklahoma                              46
+Oregon                                26
+Pennsylvania                          16
+Rhode Island                          24
+South Carolina                        12
+South Dakota                           8
+Tennessee                             22
+Texas                                 54
+Utah                                  21
+Vermont                               17
+Virginia                              11
+Washington                            30
+West Virginia                          9
+Wisconsin                             35
+Wyoming                               26

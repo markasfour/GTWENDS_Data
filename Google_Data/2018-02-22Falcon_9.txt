@@ -1,0 +1,50 @@
+                      Falcon 9
+geoName                       
+Alabama                     41
+Alaska                      25
+Arizona                     43
+Arkansas                    21
+California                  56
+Colorado                    51
+Connecticut                 34
+Delaware                    31
+District of Columbia        29
+Florida                    100
+Georgia                     25
+Hawaii                      27
+Idaho                       30
+Illinois                    25
+Indiana                     28
+Iowa                        27
+Kansas                      26
+Kentucky                    16
+Louisiana                   19
+Maine                       19
+Maryland                    39
+Massachusetts               34
+Michigan                    26
+Minnesota                   28
+Mississippi                 13
+Missouri                    26
+Montana                     41
+Nebraska                    28
+Nevada                      29
+New Hampshire               33
+New Jersey                  25
+New Mexico                  45
+New York                    23
+North Carolina              24
+North Dakota                26
+Ohio                        27
+Oklahoma                    39
+Oregon                      30
+Pennsylvania                27
+Rhode Island                22
+South Carolina              21
+Tennessee                   22
+Texas                       27
+Utah                        46
+Virginia                    31
+Washington                  41
+West Virginia               17
+Wisconsin                   24

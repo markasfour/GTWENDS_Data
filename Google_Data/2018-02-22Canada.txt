@@ -1,0 +1,53 @@
+                      Canada
+geoName                     
+Alabama                   27
+Alaska                    73
+Arizona                   54
+Arkansas                  34
+California                57
+Colorado                  47
+Connecticut               63
+Delaware                  49
+District of Columbia      53
+Florida                   55
+Georgia                   39
+Hawaii                    63
+Idaho                     51
+Illinois                  61
+Indiana                   43
+Iowa                      41
+Kansas                    44
+Kentucky                  33
+Louisiana                 28
+Maine                     81
+Maryland                  49
+Massachusetts             67
+Michigan                  73
+Minnesota                 68
+Mississippi               24
+Missouri                  39
+Montana                   77
+Nebraska                  42
+Nevada                    53
+New Hampshire             69
+New Jersey                62
+New Mexico                35
+New York                  76
+North Carolina            38
+North Dakota              81
+Ohio                      49
+Oklahoma                  31
+Oregon                    61
+Pennsylvania              52
+Rhode Island              53
+South Carolina            35
+South Dakota              49
+Tennessee                 37
+Texas                     43
+Utah                      50
+Vermont                  100
+Virginia                  43
+Washington                78
+West Virginia             32
+Wisconsin                 50
+Wyoming                   46

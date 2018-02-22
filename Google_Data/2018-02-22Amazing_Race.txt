@@ -1,0 +1,53 @@
+                      Amazing Race
+geoName                           
+Alabama                         44
+Alaska                          65
+Arizona                         59
+Arkansas                        52
+California                      60
+Colorado                        76
+Connecticut                     57
+Delaware                        52
+District of Columbia            40
+Florida                         45
+Georgia                         39
+Hawaii                          72
+Idaho                           78
+Illinois                        57
+Indiana                         61
+Iowa                            64
+Kansas                          56
+Kentucky                        53
+Louisiana                       41
+Maine                           71
+Maryland                        55
+Massachusetts                   61
+Michigan                        53
+Minnesota                       74
+Mississippi                     34
+Missouri                        59
+Montana                         74
+Nebraska                        56
+Nevada                          64
+New Hampshire                   66
+New Jersey                      47
+New Mexico                      50
+New York                        48
+North Carolina                  51
+North Dakota                    55
+Ohio                            64
+Oklahoma                        63
+Oregon                          62
+Pennsylvania                    56
+Rhode Island                    59
+South Carolina                  47
+South Dakota                    77
+Tennessee                       49
+Texas                           43
+Utah                           100
+Vermont                         62
+Virginia                        47
+Washington                      77
+West Virginia                   36
+Wisconsin                       69
+Wyoming                         58

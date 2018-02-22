@@ -1,0 +1,53 @@
+                      END IT
+geoName                     
+Alabama                  100
+Alaska                    67
+Arizona                   84
+Arkansas                  92
+California                75
+Colorado                  70
+Connecticut               73
+Delaware                  86
+District of Columbia      62
+Florida                   80
+Georgia                   84
+Hawaii                    67
+Idaho                     85
+Illinois                  73
+Indiana                   93
+Iowa                      86
+Kansas                    79
+Kentucky                  90
+Louisiana                 87
+Maine                     76
+Maryland                  76
+Massachusetts             78
+Michigan                  88
+Minnesota                 75
+Mississippi              100
+Missouri                  85
+Montana                   73
+Nebraska                  84
+Nevada                    68
+New Hampshire             84
+New Jersey                81
+New Mexico                86
+New York                  69
+North Carolina            88
+North Dakota              74
+Ohio                      88
+Oklahoma                  90
+Oregon                    52
+Pennsylvania              81
+Rhode Island              78
+South Carolina            95
+South Dakota              96
+Tennessee                 84
+Texas                     80
+Utah                      88
+Vermont                   85
+Virginia                  71
+Washington                64
+West Virginia             98
+Wisconsin                 75
+Wyoming                   88

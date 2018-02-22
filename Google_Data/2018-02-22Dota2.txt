@@ -1,0 +1,51 @@
+                      Dota2
+geoName                    
+Alabama                  33
+Alaska                   58
+Arizona                  46
+Arkansas                 32
+California               80
+Colorado                 38
+Connecticut              51
+Delaware                 67
+District of Columbia     32
+Florida                  33
+Georgia                  31
+Hawaii                   48
+Idaho                    24
+Illinois                 46
+Indiana                  58
+Iowa                     58
+Kansas                   51
+Kentucky                 23
+Louisiana                30
+Maine                    44
+Maryland                 70
+Massachusetts            82
+Michigan                 47
+Minnesota                46
+Mississippi              16
+Missouri                 37
+Montana                  44
+Nebraska                 44
+Nevada                   37
+New Hampshire            49
+New Jersey               69
+New Mexico               36
+New York                 67
+North Carolina           35
+North Dakota             30
+Ohio                     48
+Oklahoma                 44
+Oregon                   70
+Pennsylvania             55
+Rhode Island             57
+South Carolina           28
+Tennessee                25
+Texas                    35
+Utah                     57
+Vermont                  54
+Virginia                 51
+Washington              100
+West Virginia            24
+Wisconsin                47
