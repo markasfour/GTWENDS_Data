@@ -1,34 +1,38 @@
                 Bump Stocks Definition
 geoName                               
-Alabama                             18
-Arizona                             10
-Arkansas                           100
-California                          12
-Colorado                            62
-Connecticut                         35
-Florida                             30
-Georgia                             21
-Illinois                            17
-Indiana                             25
-Iowa                                25
+Arkansas                            32
+California                          13
+Colorado                            40
+Connecticut                         17
+Florida                             26
+Georgia                             10
+Hawaii                              40
+Idaho                               46
+Illinois                            20
+Indiana                             37
+Iowa                                48
 Kansas                              21
 Kentucky                            17
-Maryland                            32
-Massachusetts                       49
-Michigan                            13
-Minnesota                           31
-Missouri                            22
-Nevada                              63
-New Hampshire                       49
-New Jersey                          19
-New York                            22
-North Carolina                      12
-Ohio                                19
-Oklahoma                            19
+Louisiana                           35
+Maine                               51
+Massachusetts                       20
+Michigan                            25
+Mississippi                         32
+Missouri                            32
+Montana                             79
+Nevada                              20
+New Hampshire                       47
+New Jersey                          25
+New York                             9
+Ohio                                12
+Oklahoma                            57
 Oregon                              22
-Pennsylvania                        31
-Rhode Island                        56
-South Carolina                      62
-Texas                               15
-Virginia                            17
-Wisconsin                           35
+Pennsylvania                        10
+Rhode Island                        55
+South Carolina                      30
+Tennessee                           10
+Texas                               16
+Vermont                            100
+Virginia                            27
+Washington                          15
+Wisconsin                           11

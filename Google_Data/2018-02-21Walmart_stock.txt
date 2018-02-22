@@ -1,53 +1,53 @@
                       Walmart stock
 geoName                            
 Alabama                          27
-Alaska                           11
-Arizona                          16
+Alaska                           12
+Arizona                          15
 Arkansas                        100
-California                       11
+California                       12
 Colorado                         15
 Connecticut                      12
-Delaware                         13
-District of Columbia             10
-Florida                          17
-Georgia                          17
-Hawaii                           12
-Idaho                            14
-Illinois                         17
-Indiana                          18
-Iowa                             23
-Kansas                           24
-Kentucky                         23
+Delaware                         16
+District of Columbia             11
+Florida                          18
+Georgia                          19
+Hawaii                           14
+Idaho                            15
+Illinois                         18
+Indiana                          20
+Iowa                             22
+Kansas                           27
+Kentucky                         24
 Louisiana                        20
 Maine                            18
 Maryland                         11
-Massachusetts                     9
+Massachusetts                    10
 Michigan                         14
 Minnesota                        15
 Mississippi                      29
-Missouri                         34
-Montana                          10
+Missouri                         35
+Montana                          12
 Nebraska                         22
-Nevada                           14
-New Hampshire                    14
-New Jersey                       13
-New Mexico                       18
-New York                         11
+Nevada                           16
+New Hampshire                    16
+New Jersey                       14
+New Mexico                       20
+New York                         12
 North Carolina                   19
-North Dakota                     24
+North Dakota                     22
 Ohio                             16
-Oklahoma                         28
+Oklahoma                         30
 Oregon                            7
-Pennsylvania                     15
-Rhode Island                     12
-South Carolina                   21
-South Dakota                     26
-Tennessee                        24
-Texas                            16
-Utah                             18
-Vermont                          12
-Virginia                         13
+Pennsylvania                     16
+Rhode Island                     11
+South Carolina                   23
+South Dakota                     29
+Tennessee                        27
+Texas                            17
+Utah                             19
+Vermont                          13
+Virginia                         14
 Washington                       11
-West Virginia                    25
-Wisconsin                        19
-Wyoming                          14
+West Virginia                    27
+Wisconsin                        20
+Wyoming                          19

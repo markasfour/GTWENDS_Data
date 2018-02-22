@@ -1,19 +1,20 @@
                       Jackson Memorial Middle School
 geoName                                             
-Alabama                                            5
+Alabama                                            3
 California                                         1
 District of Columbia                               3
-Florida                                            3
+Florida                                            4
+Georgia                                            4
 Illinois                                           1
-Kentucky                                           5
-Massachusetts                                      1
+Kentucky                                           9
 Michigan                                           7
-Minnesota                                          9
-New Jersey                                        11
+Minnesota                                          7
+Mississippi                                        6
+New Jersey                                        18
 New York                                           1
-North Carolina                                     1
+North Carolina                                     2
 Ohio                                             100
-Pennsylvania                                       2
-Tennessee                                          1
+Pennsylvania                                       5
+Tennessee                                          6
 Texas                                              1
-Virginia                                           1
+Virginia                                           2

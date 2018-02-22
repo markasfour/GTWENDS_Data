@@ -1,0 +1,49 @@
+                      Carlos Gomez
+geoName                           
+Alabama                          7
+Arizona                          9
+Arkansas                         7
+California                      11
+Colorado                         9
+Connecticut                     16
+Delaware                         7
+District of Columbia            11
+Florida                         12
+Georgia                          8
+Hawaii                           6
+Idaho                            5
+Illinois                        16
+Indiana                          8
+Iowa                            11
+Kansas                          10
+Kentucky                         6
+Louisiana                        6
+Maine                            9
+Maryland                         9
+Massachusetts                   12
+Michigan                         7
+Minnesota                       25
+Mississippi                      5
+Missouri                        14
+Nebraska                         8
+Nevada                           8
+New Hampshire                   12
+New Jersey                      20
+New Mexico                      10
+New York                        22
+North Carolina                   7
+North Dakota                    13
+Ohio                             7
+Oklahoma                         8
+Oregon                           7
+Pennsylvania                    11
+Rhode Island                    15
+South Carolina                   7
+South Dakota                    16
+Tennessee                        7
+Texas                           21
+Utah                             3
+Virginia                         8
+Washington                       7
+West Virginia                    6
+Wisconsin                      100

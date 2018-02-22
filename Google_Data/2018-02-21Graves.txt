@@ -1,0 +1,53 @@
+                      Graves
+geoName                     
+Alabama                   33
+Alaska                    24
+Arizona                   23
+Arkansas                  30
+California                22
+Colorado                  27
+Connecticut               23
+Delaware                  25
+District of Columbia      31
+Florida                   22
+Georgia                   29
+Hawaii                    21
+Idaho                     25
+Illinois                  22
+Indiana                   28
+Iowa                      26
+Kansas                    28
+Kentucky                 100
+Louisiana                 35
+Maine                     40
+Maryland                  25
+Massachusetts             26
+Michigan                  24
+Minnesota                 30
+Mississippi               32
+Missouri                  30
+Montana                   33
+Nebraska                  29
+Nevada                    19
+New Hampshire             26
+New Jersey                22
+New Mexico                26
+New York                  22
+North Carolina            26
+North Dakota              25
+Ohio                      26
+Oklahoma                  29
+Oregon                    24
+Pennsylvania              24
+Rhode Island              25
+South Carolina            29
+South Dakota              29
+Tennessee                 39
+Texas                     24
+Utah                      25
+Vermont                   33
+Virginia                  31
+Washington                26
+West Virginia             30
+Wisconsin                 24
+Wyoming                   26

@@ -1,0 +1,53 @@
+                      Graves Disease
+geoName                             
+Alabama                           71
+Alaska                            65
+Arizona                           62
+Arkansas                          64
+California                        46
+Colorado                          60
+Connecticut                       63
+Delaware                          57
+District of Columbia              58
+Florida                           57
+Georgia                           62
+Hawaii                            49
+Idaho                             65
+Illinois                          58
+Indiana                           65
+Iowa                              69
+Kansas                            67
+Kentucky                          77
+Louisiana                         62
+Maine                             64
+Maryland                          61
+Massachusetts                     59
+Michigan                          64
+Minnesota                         66
+Mississippi                       72
+Missouri                          65
+Montana                           62
+Nebraska                          65
+Nevada                            52
+New Hampshire                     59
+New Jersey                        56
+New Mexico                        67
+New York                          55
+North Carolina                    62
+North Dakota                      68
+Ohio                              65
+Oklahoma                          69
+Oregon                            46
+Pennsylvania                      68
+Rhode Island                      72
+South Carolina                    68
+South Dakota                      65
+Tennessee                         74
+Texas                             51
+Utah                              63
+Vermont                           72
+Virginia                          50
+Washington                        61
+West Virginia                    100
+Wisconsin                         69
+Wyoming                           61

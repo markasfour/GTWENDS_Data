@@ -1,0 +1,22 @@
+                pubcon
+geoName               
+Arizona             14
+California          10
+Florida              9
+Georgia              3
+Hawaii               4
+Illinois             9
+Louisiana            6
+Massachusetts       11
+Minnesota            8
+Missouri             4
+Nevada             100
+New Jersey           5
+New York             9
+North Carolina       4
+Ohio                 8
+Pennsylvania         7
+Texas               10
+Utah                20
+Virginia             4
+Washington           6

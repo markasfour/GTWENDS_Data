@@ -1,0 +1,53 @@
+                      Sevilla
+geoName                      
+Alabama                    20
+Alaska                     13
+Arizona                    61
+Arkansas                   29
+California                100
+Colorado                   30
+Connecticut                46
+Delaware                   38
+District of Columbia       59
+Florida                    79
+Georgia                    35
+Hawaii                     30
+Idaho                      21
+Illinois                   43
+Indiana                    29
+Iowa                       25
+Kansas                     74
+Kentucky                   20
+Louisiana                  20
+Maine                      29
+Maryland                   50
+Massachusetts              50
+Michigan                   26
+Minnesota                  31
+Mississippi                15
+Missouri                   23
+Montana                    15
+Nebraska                   22
+Nevada                     41
+New Hampshire              27
+New Jersey                 65
+New Mexico                 44
+New York                   68
+North Carolina             38
+North Dakota               15
+Ohio                       23
+Oklahoma                   27
+Oregon                     59
+Pennsylvania               29
+Rhode Island               40
+South Carolina             25
+South Dakota               19
+Tennessee                  24
+Texas                      47
+Utah                       29
+Vermont                    36
+Virginia                   66
+Washington                 34
+West Virginia              16
+Wisconsin                  27
+Wyoming                    21

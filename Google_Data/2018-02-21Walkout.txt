@@ -1,0 +1,53 @@
+                      Walkout
+geoName                      
+Alabama                    66
+Alaska                     43
+Arizona                    43
+Arkansas                   68
+California                 51
+Colorado                   74
+Connecticut                49
+Delaware                   59
+District of Columbia       67
+Florida                    29
+Georgia                    47
+Hawaii                     48
+Idaho                      60
+Illinois                   69
+Indiana                    77
+Iowa                       99
+Kansas                     84
+Kentucky                   87
+Louisiana                  41
+Maine                      65
+Maryland                   59
+Massachusetts              56
+Michigan                   75
+Minnesota                  91
+Mississippi                83
+Missouri                  100
+Montana                    70
+Nebraska                   99
+Nevada                     44
+New Hampshire              68
+New Jersey                 47
+New Mexico                 68
+New York                   39
+North Carolina             50
+North Dakota               93
+Ohio                       62
+Oklahoma                   53
+Oregon                     40
+Pennsylvania               52
+Rhode Island               71
+South Carolina             54
+South Dakota               75
+Tennessee                  60
+Texas                      40
+Utah                       60
+Vermont                    59
+Virginia                   41
+Washington                 57
+West Virginia              82
+Wisconsin                  77
+Wyoming                    79

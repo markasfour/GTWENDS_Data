@@ -1,53 +1,53 @@
                       Post Malone
 geoName                          
-Alabama                        89
-Alaska                         58
-Arizona                        80
-Arkansas                       89
-California                     76
-Colorado                       65
-Connecticut                    83
-Delaware                       82
-District of Columbia           69
-Florida                        73
-Georgia                        84
-Hawaii                         54
-Idaho                          69
-Illinois                       78
+Alabama                        92
+Alaska                         61
+Arizona                        78
+Arkansas                       94
+California                     77
+Colorado                       66
+Connecticut                    80
+Delaware                       81
+District of Columbia           68
+Florida                        74
+Georgia                        85
+Hawaii                         51
+Idaho                          59
+Illinois                       79
 Indiana                        94
-Iowa                           83
+Iowa                           82
 Kansas                         65
 Kentucky                       84
-Louisiana                      88
+Louisiana                      89
 Maine                          69
-Maryland                       73
-Massachusetts                  77
+Maryland                       70
+Massachusetts                  79
 Michigan                       82
-Minnesota                      63
-Mississippi                    86
+Minnesota                      64
+Mississippi                    92
 Missouri                       79
-Montana                        59
+Montana                        57
 Nebraska                       88
-Nevada                         77
-New Hampshire                  65
-New Jersey                     75
-New Mexico                     82
-New York                       73
+Nevada                         83
+New Hampshire                  67
+New Jersey                     73
+New Mexico                     84
+New York                       72
 North Carolina                 84
-North Dakota                   72
-Ohio                           90
-Oklahoma                       87
+North Dakota                   77
+Ohio                           88
+Oklahoma                       88
 Oregon                         49
-Pennsylvania                   75
-Rhode Island                   97
-South Carolina                 82
-South Dakota                   83
+Pennsylvania                   78
+Rhode Island                   96
+South Carolina                 81
+South Dakota                   87
 Tennessee                      86
 Texas                         100
-Utah                           77
-Vermont                        62
+Utah                           73
+Vermont                        61
 Virginia                       60
-Washington                     62
-West Virginia                  94
-Wisconsin                      70
-Wyoming                        59
+Washington                     63
+West Virginia                  95
+Wisconsin                      72
+Wyoming                        61

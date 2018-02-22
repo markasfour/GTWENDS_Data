@@ -1,0 +1,53 @@
+                      Vero
+geoName                   
+Alabama                  3
+Alaska                   2
+Arizona                  3
+Arkansas                 2
+California               2
+Colorado                 3
+Connecticut              8
+Delaware                 4
+District of Columbia     4
+Florida                100
+Georgia                  7
+Hawaii                   1
+Idaho                    1
+Illinois                 3
+Indiana                  3
+Iowa                     2
+Kansas                   2
+Kentucky                 4
+Louisiana                2
+Maine                    5
+Maryland                 4
+Massachusetts            5
+Michigan                 3
+Minnesota                2
+Mississippi              2
+Missouri                 3
+Montana                  2
+Nebraska                 2
+Nevada                   2
+New Hampshire            6
+New Jersey               5
+New Mexico               2
+New York                 5
+North Carolina           4
+North Dakota             1
+Ohio                     4
+Oklahoma                12
+Oregon                   2
+Pennsylvania             6
+Rhode Island             7
+South Carolina           4
+South Dakota             2
+Tennessee                4
+Texas                    2
+Utah                     2
+Vermont                  6
+Virginia                 3
+Washington               2
+West Virginia            3
+Wisconsin                3
+Wyoming                  2

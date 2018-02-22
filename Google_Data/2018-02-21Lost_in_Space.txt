@@ -1,0 +1,53 @@
+                      Lost in Space
+geoName                            
+Alabama                          67
+Alaska                           77
+Arizona                          77
+Arkansas                         69
+California                       61
+Colorado                         66
+Connecticut                      71
+Delaware                         69
+District of Columbia             47
+Florida                          69
+Georgia                          62
+Hawaii                           47
+Idaho                            62
+Illinois                         66
+Indiana                          71
+Iowa                             74
+Kansas                           66
+Kentucky                         90
+Louisiana                        62
+Maine                            85
+Maryland                         73
+Massachusetts                    79
+Michigan                         90
+Minnesota                        65
+Mississippi                      58
+Missouri                         78
+Montana                          78
+Nebraska                         62
+Nevada                           70
+New Hampshire                    95
+New Jersey                       70
+New Mexico                       83
+New York                         63
+North Carolina                   60
+North Dakota                     64
+Ohio                             84
+Oklahoma                         71
+Oregon                           65
+Pennsylvania                     73
+Rhode Island                    100
+South Carolina                   64
+South Dakota                     72
+Tennessee                        81
+Texas                            58
+Utah                             55
+Vermont                          91
+Virginia                         60
+Washington                       68
+West Virginia                    84
+Wisconsin                        69
+Wyoming                          78

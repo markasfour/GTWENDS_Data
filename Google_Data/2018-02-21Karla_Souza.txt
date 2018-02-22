@@ -1,42 +1,42 @@
                       Karla Souza
 geoName                          
-Alabama                        36
-Arizona                        73
-Arkansas                       52
-California                     88
-Colorado                       39
-Connecticut                    49
-District of Columbia           45
+Alabama                        37
+Arizona                        70
+Arkansas                       51
+California                     95
+Colorado                       46
+Connecticut                    59
+District of Columbia           38
 Florida                        47
-Georgia                        41
-Hawaii                         28
-Idaho                          35
-Illinois                       61
+Georgia                        37
+Hawaii                         34
+Idaho                          25
+Illinois                       52
 Indiana                        35
-Iowa                           24
-Kansas                         32
-Kentucky                       33
+Iowa                           25
+Kansas                         43
+Kentucky                       25
 Louisiana                      35
-Maryland                       48
-Massachusetts                  44
-Michigan                       29
-Minnesota                      33
-Missouri                       30
-Nebraska                       30
-Nevada                         56
-New Jersey                     59
-New Mexico                     76
-New York                       51
-North Carolina                 38
-Ohio                           30
-Oklahoma                       45
-Oregon                         33
-Pennsylvania                   34
-Rhode Island                   55
+Maryland                       46
+Massachusetts                  36
+Michigan                       32
+Minnesota                      36
+Missouri                       28
+Nebraska                       43
+Nevada                         74
+New Jersey                     57
+New Mexico                     65
+New York                       46
+North Carolina                 36
+Ohio                           28
+Oklahoma                       41
+Oregon                         39
+Pennsylvania                   33
+Rhode Island                   57
 South Carolina                 30
-Tennessee                      29
+Tennessee                      25
 Texas                         100
-Utah                           39
+Utah                           36
 Virginia                       32
-Washington                     40
-Wisconsin                      36
+Washington                     39
+Wisconsin                      32

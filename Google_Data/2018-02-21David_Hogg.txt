@@ -1,42 +1,45 @@
                       David Hogg
 geoName                         
 Alabama                      100
+Alaska                        45
 Arizona                        9
-California                    31
-Colorado                      28
-Connecticut                    8
-District of Columbia          66
-Florida                       33
-Georgia                       40
+Arkansas                      30
+California                    35
+Colorado                      23
+Connecticut                   31
+Delaware                      36
+District of Columbia          57
+Florida                       43
+Georgia                       37
 Hawaii                        19
-Idaho                         22
-Illinois                      27
-Indiana                       40
-Iowa                          23
-Kansas                        38
-Kentucky                      87
-Louisiana                     25
-Maryland                      48
-Massachusetts                 41
-Michigan                      27
-Minnesota                     24
-Mississippi                   31
-Missouri                      54
-Nebraska                      15
+Idaho                         21
+Illinois                      17
+Indiana                       11
+Iowa                          44
+Kansas                        67
+Kentucky                      71
+Louisiana                     40
+Maryland                      19
+Massachusetts                 47
+Michigan                      21
+Minnesota                     38
+Mississippi                   15
+Missouri                      34
+Nebraska                      30
 Nevada                        10
-New Jersey                    44
+New Jersey                    29
 New Mexico                    59
-New York                      38
-North Carolina                28
-Ohio                          20
-Oklahoma                      27
-Oregon                        35
-Pennsylvania                  44
-Rhode Island                  26
-South Carolina                 7
+New York                      41
+North Carolina                14
+Ohio                          17
+Oklahoma                      18
+Oregon                        20
+Pennsylvania                  39
+South Carolina                21
 Tennessee                     14
-Texas                         49
-Utah                          30
-Virginia                      35
-Washington                    25
-Wisconsin                     16
+Texas                         46
+Utah                          40
+Virginia                      22
+Washington                    28
+West Virginia                 25
+Wisconsin                     31
