@@ -1,0 +1,53 @@
+                      Iron Bowl
+geoName                        
+Alabama                     100
+Alaska                        2
+Arizona                       1
+Arkansas                      5
+California                    1
+Colorado                      2
+Connecticut                   2
+Delaware                      2
+District of Columbia          2
+Florida                       4
+Georgia                      10
+Hawaii                        1
+Idaho                         2
+Illinois                      2
+Indiana                       2
+Iowa                          2
+Kansas                        2
+Kentucky                      6
+Louisiana                     6
+Maine                         2
+Maryland                      2
+Massachusetts                 1
+Michigan                      1
+Minnesota                     2
+Mississippi                  15
+Missouri                      2
+Montana                       2
+Nebraska                      2
+Nevada                        2
+New Hampshire                 2
+New Jersey                    1
+New Mexico                    2
+New York                      2
+North Carolina                3
+North Dakota                  2
+Ohio                          2
+Oklahoma                      3
+Oregon                        1
+Pennsylvania                  2
+Rhode Island                  1
+South Carolina                4
+South Dakota                  2
+Tennessee                     9
+Texas                         2
+Utah                          2
+Vermont                       3
+Virginia                      2
+Washington                    2
+West Virginia                 1
+Wisconsin                     2
+Wyoming                       3

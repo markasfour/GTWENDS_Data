@@ -1,19 +1,23 @@
-                      Terdema Ussery
-geoName                             
-Arizona                           15
-California                        21
-Connecticut                       55
-District of Columbia              59
-Florida                            5
-Illinois                          33
-Maryland                         100
-Massachusetts                     22
-Michigan                          21
-Minnesota                         17
-Missouri                          17
-New Jersey                        21
-New York                          19
-North Carolina                    20
-Ohio                              10
-Oklahoma                          63
-Texas                             98
+               Terdema Ussery
+geoName                      
+Arizona                    21
+California                 47
+Colorado                   22
+Florida                    13
+Georgia                    33
+Illinois                   36
+Indiana                    27
+Iowa                       53
+Kansas                     46
+Maryland                   68
+Massachusetts              30
+Michigan                   14
+Missouri                   23
+New Jersey                 14
+New York                   26
+Ohio                       13
+Oklahoma                   42
+Oregon                     48
+Texas                     100
+Virginia                   12
+Washington                 17

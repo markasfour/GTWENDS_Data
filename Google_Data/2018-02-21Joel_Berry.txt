@@ -1,0 +1,52 @@
+                      Joel Berry
+geoName                         
+Alabama                       10
+Arizona                        4
+Arkansas                       8
+California                     4
+Colorado                       5
+Connecticut                    6
+Delaware                      11
+District of Columbia          17
+Florida                       11
+Georgia                       12
+Hawaii                         6
+Idaho                          5
+Illinois                       7
+Indiana                       11
+Iowa                           7
+Kansas                         6
+Kentucky                      14
+Louisiana                      8
+Maine                          3
+Maryland                      11
+Massachusetts                  6
+Michigan                       5
+Minnesota                      5
+Mississippi                    4
+Missouri                       6
+Montana                        5
+Nebraska                       9
+Nevada                         3
+New Hampshire                  4
+New Jersey                     7
+New Mexico                     1
+New York                       7
+North Carolina               100
+North Dakota                   6
+Ohio                           8
+Oklahoma                       4
+Oregon                         3
+Pennsylvania                   8
+Rhode Island                   6
+South Carolina                18
+South Dakota                  20
+Tennessee                     12
+Texas                          4
+Utah                           3
+Vermont                        3
+Virginia                      12
+Washington                     4
+West Virginia                 12
+Wisconsin                      6
+Wyoming                        5

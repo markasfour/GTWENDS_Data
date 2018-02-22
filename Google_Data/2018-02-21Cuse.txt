@@ -1,0 +1,47 @@
+                      Cuse
+geoName                   
+Alabama                 16
+Arizona                 17
+Arkansas                22
+California              19
+Colorado                17
+Connecticut             38
+Delaware                21
+District of Columbia    29
+Florida                 17
+Georgia                 19
+Idaho                   20
+Illinois                18
+Indiana                 39
+Iowa                    18
+Kansas                  15
+Kentucky                22
+Louisiana               18
+Maine                   24
+Maryland                26
+Massachusetts           32
+Michigan                16
+Minnesota               10
+Mississippi             21
+Missouri                14
+Nebraska                13
+Nevada                  16
+New Hampshire           13
+New Jersey              27
+New Mexico              18
+New York               100
+North Carolina          24
+Ohio                    22
+Oklahoma                20
+Oregon                  13
+Pennsylvania            23
+Rhode Island            40
+South Carolina          23
+Tennessee               18
+Texas                   15
+Utah                    15
+Vermont                 19
+Virginia                19
+Washington              16
+West Virginia           20
+Wisconsin               14
