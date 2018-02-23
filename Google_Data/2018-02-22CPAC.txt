@@ -1,0 +1,53 @@
+                      CPAC
+geoName                   
+Alabama                 37
+Alaska                  31
+Arizona                 32
+Arkansas                30
+California              23
+Colorado                31
+Connecticut             41
+Delaware                33
+District of Columbia   100
+Florida                 29
+Georgia                 26
+Hawaii                  37
+Idaho                   24
+Illinois                24
+Indiana                 28
+Iowa                    24
+Kansas                  31
+Kentucky                29
+Louisiana               24
+Maine                   23
+Maryland                62
+Massachusetts           30
+Michigan                27
+Minnesota               25
+Mississippi             28
+Missouri                35
+Montana                 17
+Nebraska                26
+Nevada                  25
+New Hampshire           34
+New Jersey              30
+New Mexico              26
+New York                27
+North Carolina          29
+North Dakota            24
+Ohio                    28
+Oklahoma                25
+Oregon                  21
+Pennsylvania            32
+Rhode Island            27
+South Carolina          35
+South Dakota            38
+Tennessee               34
+Texas                   24
+Utah                    20
+Vermont                 22
+Virginia                47
+Washington              25
+West Virginia           26
+Wisconsin               34
+Wyoming                 22

@@ -1,53 +1,53 @@
                       Hilary Knight
 geoName                            
-Alabama                          10
-Alaska                           56
-Arizona                          29
-Arkansas                         12
-California                       36
-Colorado                         47
-Connecticut                      81
-Delaware                         15
-District of Columbia             45
-Florida                          26
-Georgia                          18
-Hawaii                           28
-Idaho                            50
-Illinois                         60
-Indiana                          18
-Iowa                             26
-Kansas                           33
-Kentucky                         25
-Louisiana                        19
-Maine                            39
-Maryland                         60
-Massachusetts                    96
+Alabama                          12
+Alaska                           52
+Arizona                          26
+Arkansas                         15
+California                       31
+Colorado                         42
+Connecticut                      72
+Delaware                         32
+District of Columbia             38
+Florida                          25
+Georgia                          16
+Hawaii                           36
+Idaho                            39
+Illinois                         51
+Indiana                          19
+Iowa                             30
+Kansas                           25
+Kentucky                         26
+Louisiana                        27
+Maine                            37
+Maryland                         51
+Massachusetts                   100
 Michigan                         42
-Minnesota                        64
-Mississippi                      10
-Missouri                         35
-Montana                          25
-Nebraska                         38
-Nevada                           31
-New Hampshire                    79
-New Jersey                       44
-New Mexico                       28
-New York                         58
-North Carolina                   29
-North Dakota                     57
-Ohio                             39
-Oklahoma                         32
-Oregon                           22
-Pennsylvania                     60
-Rhode Island                    100
-South Carolina                   27
-South Dakota                     26
-Tennessee                        28
+Minnesota                        58
+Mississippi                      25
+Missouri                         37
+Montana                          38
+Nebraska                         23
+Nevada                           28
+New Hampshire                    81
+New Jersey                       54
+New Mexico                       30
+New York                         52
+North Carolina                   21
+North Dakota                     70
+Ohio                             31
+Oklahoma                         25
+Oregon                           19
+Pennsylvania                     55
+Rhode Island                     87
+South Carolina                   23
+South Dakota                     18
+Tennessee                        26
 Texas                            23
-Utah                             24
-Vermont                          84
-Virginia                         29
+Utah                             26
+Vermont                          96
+Virginia                         34
 Washington                       28
-West Virginia                    31
-Wisconsin                        82
-Wyoming                          38
+West Virginia                    22
+Wisconsin                        66
+Wyoming                          18

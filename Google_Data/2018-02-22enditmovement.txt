@@ -1,0 +1,35 @@
+                      enditmovement
+geoName                            
+Alabama                          38
+Arizona                          15
+Arkansas                         53
+California                       10
+Colorado                         21
+District of Columbia             12
+Florida                          25
+Georgia                         100
+Illinois                         17
+Indiana                          46
+Iowa                             34
+Kansas                           24
+Kentucky                         20
+Louisiana                        28
+Maryland                         10
+Massachusetts                    11
+Michigan                         18
+Minnesota                        14
+Mississippi                      84
+Missouri                         15
+New Jersey                        6
+New York                          5
+North Carolina                   28
+Ohio                             20
+Oklahoma                         53
+Oregon                            8
+Pennsylvania                     18
+South Carolina                   39
+Tennessee                        78
+Texas                            31
+Virginia                         14
+Washington                        9
+Wisconsin                         8

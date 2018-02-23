@@ -1,53 +1,53 @@
                       Montenegro
 geoName                         
-Alabama                       26
-Alaska                        66
-Arizona                       62
+Alabama                       27
+Alaska                        57
+Arizona                       67
 Arkansas                      36
-California                    79
+California                    80
 Colorado                      51
-Connecticut                   60
-Delaware                      48
+Connecticut                   66
+Delaware                      45
 District of Columbia         100
-Florida                       66
-Georgia                       39
-Hawaii                        49
-Idaho                         40
-Illinois                      69
+Florida                       68
+Georgia                       41
+Hawaii                        47
+Idaho                         39
+Illinois                      71
 Indiana                       38
-Iowa                          31
-Kansas                        47
-Kentucky                      28
-Louisiana                     30
-Maine                         55
-Maryland                      57
+Iowa                          32
+Kansas                        50
+Kentucky                      31
+Louisiana                     31
+Maine                         53
+Maryland                      61
 Massachusetts                 63
-Michigan                      45
-Minnesota                     43
-Mississippi                   20
-Missouri                      37
-Montana                       22
-Nebraska                      32
-Nevada                        60
-New Hampshire                 39
-New Jersey                    68
-New Mexico                    50
-New York                      96
-North Carolina                38
-North Dakota                  23
+Michigan                      49
+Minnesota                     47
+Mississippi                   22
+Missouri                      39
+Montana                       34
+Nebraska                      34
+Nevada                        70
+New Hampshire                 53
+New Jersey                    74
+New Mexico                    58
+New York                      98
+North Carolina                37
+North Dakota                  28
 Ohio                          34
-Oklahoma                      37
-Oregon                        72
+Oklahoma                      44
+Oregon                        73
 Pennsylvania                  43
-Rhode Island                  51
+Rhode Island                  41
 South Carolina                36
-South Dakota                  30
-Tennessee                     31
-Texas                         63
-Utah                          45
-Vermont                       41
-Virginia                      60
-Washington                    50
+South Dakota                  31
+Tennessee                     33
+Texas                         64
+Utah                          54
+Vermont                       35
+Virginia                      61
+Washington                    62
 West Virginia                 22
-Wisconsin                     44
-Wyoming                       47
+Wisconsin                     41
+Wyoming                       37

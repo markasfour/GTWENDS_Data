@@ -1,0 +1,53 @@
+                      Reboot
+geoName                     
+Alabama                   73
+Alaska                    91
+Arizona                   81
+Arkansas                  76
+California                85
+Colorado                  82
+Connecticut               80
+Delaware                  78
+District of Columbia      62
+Florida                   72
+Georgia                   72
+Hawaii                    82
+Idaho                     78
+Illinois                  76
+Indiana                   80
+Iowa                      75
+Kansas                    80
+Kentucky                  76
+Louisiana                 73
+Maine                     76
+Maryland                  86
+Massachusetts             83
+Michigan                  73
+Minnesota                 78
+Mississippi               65
+Missouri                  77
+Montana                   75
+Nebraska                  76
+Nevada                    77
+New Hampshire             83
+New Jersey                78
+New Mexico                87
+New York                  78
+North Carolina            76
+North Dakota              73
+Ohio                      80
+Oklahoma                  75
+Oregon                    74
+Pennsylvania              77
+Rhode Island              84
+South Carolina            74
+South Dakota              82
+Tennessee                 73
+Texas                     75
+Utah                      86
+Vermont                   82
+Virginia                  71
+Washington                89
+West Virginia             78
+Wisconsin                 74
+Wyoming                  100

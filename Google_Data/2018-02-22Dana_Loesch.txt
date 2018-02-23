@@ -1,53 +1,53 @@
                       Dana Loesch
 geoName                          
 Alabama                        32
-Alaska                         38
-Arizona                        25
-Arkansas                       26
-California                     18
-Colorado                       22
-Connecticut                    27
-Delaware                       27
-District of Columbia           27
+Alaska                         49
+Arizona                        27
+Arkansas                       27
+California                     19
+Colorado                       28
+Connecticut                    24
+Delaware                       24
+District of Columbia           28
 Florida                        34
-Georgia                        26
-Hawaii                         10
-Idaho                          31
-Illinois                       33
-Indiana                        86
+Georgia                        28
+Hawaii                          6
+Idaho                          30
+Illinois                       34
+Indiana                        85
 Iowa                           29
-Kansas                         24
-Kentucky                       27
-Louisiana                      29
-Maine                          27
-Maryland                       21
-Massachusetts                  18
-Michigan                       28
-Minnesota                      31
-Mississippi                    39
+Kansas                         31
+Kentucky                       30
+Louisiana                      30
+Maine                          17
+Maryland                       22
+Massachusetts                  19
+Michigan                       29
+Minnesota                      32
+Mississippi                    37
 Missouri                      100
-Montana                        24
-Nebraska                       31
-Nevada                         33
-New Hampshire                  21
+Montana                        35
+Nebraska                       29
+Nevada                         36
+New Hampshire                  23
 New Jersey                     23
-New Mexico                     36
+New Mexico                     32
 New York                       21
 North Carolina                 27
-North Dakota                   48
-Ohio                           30
-Oklahoma                       37
+North Dakota                   38
+Ohio                           33
+Oklahoma                       34
 Oregon                         21
-Pennsylvania                   30
-Rhode Island                   19
-South Carolina                 25
-South Dakota                   26
-Tennessee                      32
-Texas                          31
+Pennsylvania                   32
+Rhode Island                   15
+South Carolina                 29
+South Dakota                   29
+Tennessee                      31
+Texas                          30
 Utah                           37
-Vermont                        13
+Vermont                        21
 Virginia                       25
-Washington                     21
-West Virginia                  25
-Wisconsin                      24
-Wyoming                        48
+Washington                     23
+West Virginia                  23
+Wisconsin                      19
+Wyoming                        58

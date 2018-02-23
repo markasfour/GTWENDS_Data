@@ -1,53 +1,53 @@
                       Billy Graham
 geoName                           
-Alabama                         51
-Alaska                          26
-Arizona                         22
-Arkansas                        41
+Alabama                         48
+Alaska                          25
+Arizona                         21
+Arkansas                        37
 California                      16
 Colorado                        21
-Connecticut                     15
-Delaware                        19
-District of Columbia            17
+Connecticut                     14
+Delaware                        17
+District of Columbia            19
 Florida                         26
-Georgia                         40
-Hawaii                          19
-Idaho                           24
-Illinois                        19
+Georgia                         41
+Hawaii                          18
+Idaho                           21
+Illinois                        20
 Indiana                         29
-Iowa                            22
+Iowa                            25
 Kansas                          25
-Kentucky                        44
-Louisiana                       29
-Maine                           20
-Maryland                        19
+Kentucky                        43
+Louisiana                       28
+Maine                           19
+Maryland                        18
 Massachusetts                   14
 Michigan                        20
-Minnesota                       24
-Mississippi                     49
+Minnesota                       25
+Mississippi                     48
 Missouri                        29
-Montana                         25
-Nebraska                        19
-Nevada                          15
-New Hampshire                   18
-New Jersey                      16
-New Mexico                      25
+Montana                         23
+Nebraska                        22
+Nevada                          14
+New Hampshire                   16
+New Jersey                      15
+New Mexico                      24
 New York                        15
 North Carolina                 100
 North Dakota                    25
-Ohio                            26
-Oklahoma                        37
-Oregon                          18
+Ohio                            25
+Oklahoma                        38
+Oregon                          17
 Pennsylvania                    21
 Rhode Island                    14
 South Carolina                  69
-South Dakota                    23
-Tennessee                       53
+South Dakota                    29
+Tennessee                       51
 Texas                           26
-Utah                            10
-Vermont                         17
-Virginia                        26
-Washington                      20
+Utah                             9
+Vermont                         11
+Virginia                        25
+Washington                      21
 West Virginia                   40
-Wisconsin                       19
+Wisconsin                       18
 Wyoming                         23

@@ -1,53 +1,53 @@
                       Mark Cuban
 geoName                         
-Alabama                       60
-Alaska                        49
-Arizona                       73
-Arkansas                      58
+Alabama                       61
+Alaska                        51
+Arizona                       71
+Arkansas                      61
 California                    78
 Colorado                      66
-Connecticut                   85
-Delaware                      80
+Connecticut                   91
+Delaware                      83
 District of Columbia          86
-Florida                       86
-Georgia                       68
-Hawaii                        58
-Idaho                         52
-Illinois                      83
-Indiana                       91
-Iowa                          62
-Kansas                        55
-Kentucky                      63
-Louisiana                     68
-Maine                         53
-Maryland                      74
+Florida                       85
+Georgia                       69
+Hawaii                        55
+Idaho                         56
+Illinois                      84
+Indiana                       92
+Iowa                          64
+Kansas                        57
+Kentucky                      64
+Louisiana                     67
+Maine                         60
+Maryland                      76
 Massachusetts                 87
-Michigan                      73
-Minnesota                     69
-Mississippi                   49
-Missouri                      65
-Montana                       55
-Nebraska                      67
-Nevada                        79
-New Hampshire                 70
-New Jersey                    97
+Michigan                      71
+Minnesota                     66
+Mississippi                   57
+Missouri                      63
+Montana                       49
+Nebraska                      63
+Nevada                        76
+New Hampshire                 66
+New Jersey                   100
 New Mexico                    51
-New York                      95
-North Carolina                64
-North Dakota                  69
-Ohio                          73
-Oklahoma                      75
-Oregon                        49
-Pennsylvania                  91
+New York                      90
+North Carolina                65
+North Dakota                  58
+Ohio                          68
+Oklahoma                      82
+Oregon                        47
+Pennsylvania                  87
 Rhode Island                  74
-South Carolina                63
-South Dakota                  46
-Tennessee                     69
+South Carolina                59
+South Dakota                  53
+Tennessee                     66
 Texas                        100
-Utah                          67
-Vermont                       55
-Virginia                      63
-Washington                    62
-West Virginia                 58
+Utah                          68
+Vermont                       54
+Virginia                      60
+Washington                    60
+West Virginia                 60
 Wisconsin                     63
-Wyoming                       52
+Wyoming                       49

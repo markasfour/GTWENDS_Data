@@ -1,0 +1,18 @@
+                onUp
+geoName             
+California         5
+Colorado           5
+Florida           13
+Georgia          100
+Illinois           4
+Maryland          11
+Michigan           3
+New Jersey         2
+New York           8
+North Carolina    11
+Ohio               5
+Pennsylvania       6
+Tennessee         21
+Texas              3
+Virginia          22
+Washington        10
